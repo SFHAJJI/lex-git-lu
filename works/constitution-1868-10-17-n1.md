@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1989-05-15
+lex_id: lu-legilux:constitution-1868-10-17-n1:1989-07-14
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1989-05-15
-valid_to: 1989-07-13
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890515/fr
-source_sha256: ae91bd00b68c43c4a593c2f81840fefee0a57b3be7dbaac8304a14d29930d5dd
+valid_from: 1989-07-14
+valid_to: 1994-12-27
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890714/fr
+source_sha256: 07d35dd787b90e8a0397b6b8c21d10908ccaad91994511117ee54fe66321ce68
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -168,15 +168,15 @@ L’intervention de l’État dans la nomination et l’installation des chefs d
 
 ### Art. 23.
 
-L'État veille à ce que tout Luxembourgeois reçoive l'instruction primaire qui sera obligatoire et gratuite. L'assistance médicale et sociale sera réglée par la loi.
+L'État veille à ce que tout Luxembourgeois reçoive l'instruction primaire, qui sera obligatoire et gratuite.
 
-Il crée des établissements d'instruction moyenne et les cours d'enseignement supérieur nécessaires.
+L'assistance médicale et sociale sera réglée par la loi.
 
-Il crée également des cours professionnels gratuits.
+Il crée des établissements d'instruction moyenne gratuite et les cours d'enseignement supérieur nécessaires.
 
-La loi détermine les moyens de subvenir à l'instruction publique ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l'enseignement et crée un fonds des mieux-doués.
+La loi détermine les moyens de subvenir à l'instruction publique ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l'enseignement et prévoit, selon des critères qu'elle détermine, un système d'aides financières en faveur des élèves et étudiants.
 
-Tout Luxembourgeois est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur la condition d'admission aux emplois et à l'exercice de certaines professions.
+Tout Luxembourgeois est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d'admission aux emplois et à l'exercice de certaines professions.
 
 <a id="art_24"></a>
 
@@ -195,8 +195,6 @@ Les Luxembourgeois ont le droit de s’assembler paisiblement et sans armes, en 
 ### Art. 26.
 
 Les Luxembourgeois ont le droit de s’associer. – Ce droit ne peut être soumis à aucune autorisation préalable.
-
-L’établissement de toute corporation religieuse doit être autorisé par une loi.
 
 <a id="art_27"></a>
 
@@ -336,7 +334,7 @@ Le Palais Grand-Ducal à Luxembourg et le Château de Berg sont réservés à l'
 
 ### Art. 45.
 
-Les dispositions du Roi Grand-Duc doivent être contresignées par un conseiller de la Couronne responsable, à l’exception de celles qui ont pour objet la collation à des étrangers de décorations non destinées à récompenser des services rendus au Grand-Duché.
+Les dispositions du Grand-Duc doivent être contresignées par un membre du Gouvernement responsable.
 
 ### *§ 2.* — *De la Législation.*
 
@@ -434,10 +432,12 @@ Aucune autre condition d'éligibilité ne pourra être requise.
 Ne peuvent être ni électeurs ni éligibles :
 
 1. les condamnés à des peines criminelles ;
-2. ceux qui ont été condamnés à des peines d'emprisonnement pour vol, escroquerie ou abus de confiance ;
-3. ceux qui sont en état de faillite déclarée, les banqueroutiers et interdits et ceux auxquels il a été nommé un conseil judiciaire ;
+2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation ;
+3. les majeurs en tutelle ;
 
-Le droit de vote peut pourtant être rendu par la voie de grâce aux personnes condamnées à des peines d'emprisonnement pour vol, escroquerie ou abus de confiance.
+Aucun autre cas d'exclusion ne pourra être prévu.
+
+Le droit de vote peut être rendu par la voie de grâce aux personnes qui l'ont perdu par condamnation pénale.
 
 <a id="art_54"></a>
 
@@ -661,6 +661,18 @@ La Chambre a le droit d’accuser les membres du Gouvernement. – Une loi déte
 
 Le Roi Grand-Duc ne peut faire grâce au membre du Gouvernement condamné, que sur la demande de la Chambre.
 
+## **Chapitre Vbis.** — **Du Conseil d'Etat**
+
+<a id="art_83bis"></a>
+
+### Art. 83bis.
+
+Le Conseil d'Etat est appelé à donner son avis sur les projets de loi et les amendements qui pourraient y être proposés, ainsi que sur toutes autres questions qui lui seront déférées par le Gouvernement ou par les lois.
+
+Le Comité du Contentieux constitue la juridiction suprême en matière administrative.
+
+L'organisation du Conseil d'Etat et du Comité du Contentieux et la manière d'exercer leurs attributions sont réglées par la loi.
+
 ## **Chapitre VI.** — *De la justice.*
 
 <a id="art_84"></a>
@@ -729,7 +741,9 @@ Sauf les cas d’exception prévus par la loi, aucun juge ne peut accepter du Go
 
 ### Art. 94.
 
-Des lois particulières règlent l’organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions. – Il peut y avoir des tribunaux de commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres, et la durée des fonctions de ces derniers.
+Des lois particulières règlent l’organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions.
+
+La loi règle aussi l'organisation des juridictions du travail et des juridictions en matière d'assurances sociales, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.
 
 <a id="art_95"></a>
 
@@ -749,7 +763,7 @@ Tout ce qui concerne la force armée est réglé par la loi.
 
 ### Art. 97.
 
-L’organisation et les attributions de la gendarmerie font l’objet d’une loi.
+L'organisation et les attributions des forces de l'ordre font l'objet d'une loi.
 
 <a id="art_98"></a>
 
@@ -763,7 +777,7 @@ Il peut être formé une garde civique, dont l’organisation est réglée par l
 
 ### Art. 99.
 
-Aucun impôt au profit de l’État ne peut être établi que par une loi. – Aucun emprunt à charge de l’Etat ne peut être contracté sans l’assentiment de la Chambre. – Aucune propriété immobilière de l’État ne peut être aliénée, si l’aliénation n’en est autorisée par la loi. – Nulle création au profit de l’État d’une route, d’un canal, d’un chemin de fer, d’un grand pont ou d’un bâtiment considérable, ne peut être décrétée qu’en venu d’une loi spéciale. – Aucune charge grevant le budget de l’État pour plus d’un exercice ne peut être établie que par une loi spéciale. – Aucune charge, aucune imposition communale ne peut être établie que du consentement du conseil communal. – La loi détermine les exceptions dont l’expérience démontrera la nécessité relativement aux impositions communales.
+Aucun impôt au profit de l'État ne peut être établi que par une loi. – Aucun emprunt à charge de l'État ne peut être contracté sans l’assentiment de la Chambre. – Aucune propriété immobilière de l'État ne peut être aliénée si l'aliénation n'en est autorisée par une loi spéciale.Toutefois une loi générale peut déterminer un seuil en dessous duquel une autorisation spéciale de la Chambre n'est pas requise – Toute acquisition par l'État d'une propriété immobilière importante, toute réalisation au profit de l'État d'un grand projet d´infrastructure ou d'un bâtiment considérable, tout engagement financier important de l'État doivent être autorisés par une loi spéciale. Une loi générale détermine les seuils à partir desquels cette autorisation est requise. – Aucune charge grevant le budget de l'État pour plus d’un exercice ne peut être établie que par une loi spéciale. – Aucune charge, aucune imposition communale ne peut être établie que du consentement du conseil communal. – La loi détermine les exceptions dont l’expérience démontrera la nécessité relativement aux impositions communales.
 
 <a id="art_100"></a>
 
@@ -923,7 +937,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19890515"></a>
+<a id="art_121_19890714"></a>
 
 ### Art. 121.
 
