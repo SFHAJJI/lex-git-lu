@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1999-05-09
+lex_id: lu-legilux:constitution-1868-10-17-n1:1999-06-12
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1999-05-09
-valid_to: 1999-06-11
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990509/fr
-source_sha256: 12f2fff87a6525c66e39919295e5dcc48e9d26399710ac09b4cff5f21d525a24
+valid_from: 1999-06-12
+valid_to: 2000-08-28
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990612/fr
+source_sha256: 2e72787a5bb0e87799a577c2f2b00ef536f798db4e6ac3350672c26668fb7571
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -66,7 +66,7 @@ En cas de vacance du Trône, la Chambre pourvoit provisoirement à la régence. 
 
 **(2)** «Je jure fidelité au Grand-Duc. Je jure d'observer la Constitution et les lois du pays.»
 
-## **Chapitre II. ** — *Des Luxembourgeois et de leurs droits.*
+## **Chapitre II. -** — * Des libertés publiques et des droits fondamentaux.*
 
 <a id="art_9"></a>
 
@@ -114,7 +114,7 @@ Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de 
 
 ### Art. 12.
 
-La liberté individuelle est garantie. – Nul ne peut être poursuivi que dans les cas prévus par la loi, et dans la forme qu’elle prescrit. – Hors le cas de flagrant délit, nul ne peut être arrêté qu’en vertu de l’ordonnance motivée du juge, qui doit être signifiée au moment de l’arrestation, ou au plus tard dans les vingt-quatre heures.
+La liberté individuelle est garantie. – Nul ne peut être poursuivi que dans les cas prévus par la loi et dans la forme qu'elle prescrit. – Nul ne peut être arrêté ou placé que dans les cas prévus par la loi et dans la forme qu'elle prescrit. – Hors le cas de flagrant délit, nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge, qui doit être signifiée au moment de l'arrestation, ou au plus tard dans les vingt-quatre heures. – Toute personne doit être informée sans délai des moyens de recours légaux dont elle dispose pour recouvrer sa liberté.
 
 <a id="art_13"></a>
 
@@ -180,15 +180,13 @@ L’intervention de l’État dans la nomination et l’installation des chefs d
 
 ### Art. 23.
 
-L'État veille à ce que tout Luxembourgeois reçoive l'instruction primaire, qui sera obligatoire et gratuite.
-
-L'assistance médicale et sociale sera réglée par la loi.
+L'État veille à l'organisation de l'instruction primaire, qui sera obligatoire et gratuite et dont l'accès doit être garanti àtoute personne habitant le Grand-Duché. L'assistance médicale et sociale sera réglée par la loi.
 
 Il crée des établissements d'instruction moyenne gratuite et les cours d'enseignement supérieur nécessaires.
 
 La loi détermine les moyens de subvenir à l'instruction publique ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l'enseignement et prévoit, selon des critères qu'elle détermine, un système d'aides financières en faveur des élèves et étudiants.
 
-Tout Luxembourgeois est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d'admission aux emplois et à l'exercice de certaines professions.
+Chacun est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d'admission aux emplois et à l'exercice de certaines professions.
 
 <a id="art_24"></a>
 
@@ -200,13 +198,13 @@ La liberté de manifester ses opinions par la parole en toutes matières, et la 
 
 ### Art. 25.
 
-Les Luxembourgeois ont le droit de s’assembler paisiblement et sans armes, en se conformant aux lois qui règlent l’exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable. Cette disposition ne s’applique pas aux rassemblements en plein air, politiques, religieux ou autres ; ces rassemblements restent entièrement soumis aux lois et règlements de police.
+La Constitution garantit le droit de s'assembler paisiblement et sans armes, dans le respect des lois qui règlent l'exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable. - Cette disposition ne s'applique pas aux rassemblements en plein air, politiques, religieux ou autres ; ces rassemblements restent entièrement soumis aux lois et règlements de police.
 
 <a id="art_26"></a>
 
 ### Art. 26.
 
-Les Luxembourgeois ont le droit de s’associer. – Ce droit ne peut être soumis à aucune autorisation préalable.
+La Constitution garantit le droit d'association, dans le respect des lois qui règlent l'exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable.
 
 <a id="art_27"></a>
 
@@ -599,7 +597,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_19990509"></a>
+<a id="art_73_19990612"></a>
 
 ### Art. 73.
 
@@ -853,17 +851,13 @@ Chaque année la Chambre arrête la loi des comptes et vote le budget. – Toute
 
 ### Art. 105.
 
-Une Chambre des comptes est chargée de l’examen et de la liquidation des comptes de l’administration générale et de tous les comptables envers le trésor public.
+**(1)** Une Cour des comptes est chargée du contrôle de la gestion financière des organes, administrations et services de l'État ; la loi peut lui confier d'autres missions de contrôle de gestion financière des deniers publics.
 
-La loi règle son organisation, l’exercice de ses attributions et le mode de nomination de ses membres.
+**(2)** Les attributions et l'organisation de la Cour des comptes ainsi que les modalités de son contrôle et les relations avec la Chambre des Députés sont déterminées par la loi.
 
-La Chambre des comptes veille à ce qu’aucun article de dépense du budget ne soit dépassé.
+**(3)** Les membres de la Cour des comptes sont nommés par le Grand-Duc sur proposition de la Chambre des Députés.
 
-Aucun transfert d’une section du budget à l’autre ne peut être effectué qu’en vertu d’une loi.
-
-Cependant les membres du Gouvernement peuvent opérer, dans leurs services, des transferts d’excédants d’un article à l’autre dans la même section, à charge d’en justifier devant la Chambre des Députés.
-
-La Chambre des comptes arrête les comptes des différentes administrations de l’État et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l’État est soumis à la Chambre des Députés avec les observations de la Chambre des comptes.
+**(4)** Le compte général de l'État est soumis à la Chambre des Députés, accompagné des observations de la Cour des comptes.
 
 <a id="art_106"></a>
 
@@ -959,7 +953,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_19990509"></a>
+<a id="art_118_19990612"></a>
 
 ### Art. 118.
 
@@ -977,7 +971,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19990509"></a>
+<a id="art_121_19990612"></a>
 
 ### Art. 121.
 
