@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1994-12-28
+lex_id: lu-legilux:constitution-1868-10-17-n1:1997-01-01
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1994-12-28
-valid_to: 1996-12-31
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19941228/fr
-source_sha256: a82cd27d816b2651003ac8156e5e766d59751d3b3ba277f2394cc532eafcb0e7
+valid_from: 1997-01-01
+valid_to: 1998-01-23
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19970101/fr
+source_sha256: baea93c3f524351490d4c395697bffe5cc2227faeef7c7430bd9aef44cfd4f91
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -671,11 +671,9 @@ Le Roi Grand-Duc ne peut faire grâce au membre du Gouvernement condamné, que s
 
 ### Art. 83bis.
 
-Le Conseil d'Etat est appelé à donner son avis sur les projets de loi et les amendements qui pourraient y être proposés, ainsi que sur toutes autres questions qui lui seront déférées par le Gouvernement ou par les lois.
+Le Conseil d'Etat est appelé à donner son avis sur les projets et propositions de loi et les amendements qui pourraient y être proposés, ainsi que sur toutes autres questions qui lui seront déférées par le Gouvernement ou par les lois. Sur les articles votés par la Chambre conformément à l'article 65, il émet son avis dans le délai fixé par la loi.
 
-Le Comité du Contentieux constitue la juridiction suprême en matière administrative.
-
-L'organisation du Conseil d'Etat et du Comité du Contentieux et la manière d'exercer leurs attributions sont réglées par la loi.
+L'organisation du Conseil d'Etat et la manière d'exercer ses attributions sont réglées par la loi.
 
 ## **Chapitre VI.** — *De la justice.*
 
@@ -754,6 +752,36 @@ La loi règle aussi l'organisation des juridictions du travail et des juridictio
 ### Art. 95.
 
 Les cours et tribunaux n’appliquent les arrêtés et règlements généraux et locaux qu’autant qu’ils sont conformes aux lois. – La Cour supérieure de justice règlera les conflits d’attribution d’après le mode déterminé par la loi.
+
+<a id="art_95bis"></a>
+
+### Art. 95bis.
+
+**(1)** Le contentieux administratif est du ressort du tribunal administratif et de la Cour administrative.
+
+Ces juridictions connaissent du contentieux fiscal dans les cas et sous les conditions à déterminer par la loi.
+
+**(2)** La loi peut créer d'autres juridictions administratives.
+
+**(3)** La Cour administrative constitue la juridiction suprême de l'ordre administratif.
+
+**(4)** Les attributions et l'organisation des juridictions administratives sont réglées par la loi.
+
+**(5)** Les magistrats de la Cour administrative et du tribunal administratif sont nommés par le Grand-Duc. La nomination des membres de la Cour administrative ainsi que des président et vice-présidents du tribunal administratif se fait, sauf en ce qui concerne les premières nominations, sur avis de la Cour administrative.
+
+**(6)** Les dispositions des articles 91, 92 et 93 sont applicables aux membres de la Cour administrative et du tribunal administratif.
+
+<a id="art_95ter"></a>
+
+### Art. 95ter.
+
+**(1)** La Cour Constitutionnelle statue, par voie d'arrêt, sur la conformité des lois à la Constitution.
+
+**(2)** La Cour Constitutionnelle est saisie, à titre préjudiciel, suivant les modalités à déterminer par la loi, par toute juridiction pour statuer sur la conformité des lois, à l'exception des lois portant approbation de traités, à la Constitution.
+
+**(3)** La Cour Constitutionnelle est composée du Président de la Cour Supérieure de Justice, du Président de la Cour administrative, de deux conseillers à la Cour de Cassation et de cinq magistrats nommés par le Grand-Duc, sur l'avis conjoint de la Cour Supérieure de Justice et de la Cour administrative. Les dispositions des articles 91, 92 et 93 leur sont applicables. La Cour Constitutionnelle comprend une chambre siégeant au nombre de cinq magistrats.
+
+**(4)** L'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.
 
 ## **Chapitre VII.** — * De la Force publique.*
 
@@ -941,7 +969,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19941228"></a>
+<a id="art_121_19970101"></a>
 
 ### Art. 121.
 
