@@ -1,22 +1,22 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1997-01-01
+lex_id: lu-legilux:constitution-1868-10-17-n1:1998-01-24
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1997-01-01
-valid_to: 1998-01-23
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19970101/fr
-source_sha256: baea93c3f524351490d4c395697bffe5cc2227faeef7c7430bd9aef44cfd4f91
+valid_from: 1998-01-24
+valid_to: 1999-05-08
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19980124/fr
+source_sha256: 56a053b37d9ad4df8a75626d0b7988443187b5847e1643a77ef73b067d1b2b16
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
 ---
 
-## **Chapitre Ier. ** — ***Du Territoire et du Roi Grand-Duc.*
+## **Chapitre Ier. ** — *****De l'État, de son territoire et du Grand-Duc.***
 
 <a id="art_1er"></a>
 
 ### Art. 1er.
 
-Le Grand-Duché de Luxembourg forme un État libre, indépendant et indivisible.
+Le Grand-Duché de Luxembourg est un État démocratique, libre, indépendant et indivisible.
 
 <a id="art_2"></a>
 
@@ -34,7 +34,7 @@ La Couronne du Grand-Duché est héréditaire dans la famille de Nassau, conform
 
 ### Art. 4.
 
-La personne du Roi Grand-Duc est sacrée et inviolable.
+La personne du Grand-Duc est inviolable.
 
 <a id="art_5"></a>
 
@@ -250,7 +250,7 @@ Il n'a d'autres pouvoirs que ceux que lui attribuent formellement la Constitutio
 
 ### Art. 33.
 
-Le Roi Grand-Duc exerce seul le pouvoir exécutif.
+Le Grand-Duc est le chef de l'État, symbole de son unité et garant de l'indépendance nationale. Il exerce le pouvoir exécutif conformément à la Constitution et aux lois du pays.
 
 <a id="art_34"></a>
 
@@ -591,7 +591,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73"></a>
+<a id="art_73_19980124"></a>
 
 ### Art. 73.
 
@@ -643,7 +643,7 @@ Il n’y a entre les membres du Gouvernement et le Roi Grand-Duc aucune autorit�
 
 ### Art. 80.
 
-Les membres du Gouvernement ou les commissaires qui les remplacent ont entrée dans la Chambre, et doivent être entendus quand ils le demandent.
+Les membres du Gouvernement ont entrée dans la Chambre et doivent être entendus quand ils le demandent.
 
 La Chambre peut demander leur présence.
 
@@ -933,7 +933,7 @@ Le pouvoir législatif a le droit de déclarer qu’il y a lieu de procéder à 
 
 ### Art. 115.
 
-Aucun changement à la Constitution ne peut être fait pendant une régence.
+Pendant une régence, aucun changement ne peut être apporté à la Constitution en ce qui concerne les prérogatives constitutionnelles du Grand-Duc, son statut ainsi que l'ordre de succession.
 
 ## **Chapitre XI.** — *Dispositions transitoires et supplémentaires.*
 
@@ -969,7 +969,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19970101"></a>
+<a id="art_121_19980124"></a>
 
 ### Art. 121.
 
