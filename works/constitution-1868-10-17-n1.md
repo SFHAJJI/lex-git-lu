@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2003-02-25
+lex_id: lu-legilux:constitution-1868-10-17-n1:2004-01-04
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2003-02-25
-valid_to: 2004-01-03
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20030225/fr
-source_sha256: 9a97eaa5b22d90ca4a3a9347bab851a0e93f28ef269f9d8efdc2526ee74c7fc0
+valid_from: 2004-01-04
+valid_to: 2004-06-10
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040104/fr
+source_sha256: f514dbb839bc3def1e38790242967e7a8866fa5d0eca17be15f71460c1d46023
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -600,7 +600,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20030225"></a>
+<a id="art_73_20040104"></a>
 
 ### Art. 73.
 
@@ -932,7 +932,11 @@ Aucune disposition de la Constitution ne peut être suspendue.
 
 ### Art. 114.
 
-Le pouvoir législatif a le droit de déclarer qu’il y a lieu de procéder à la révision de telle disposition constitutionnelle qu’il désigne. – Après cette déclaration, la Chambre est dissoute de plein droit. – Il en sera convoqué une nouvelle, conformément à l’art. 74 de la présente Constitution. – Cette Chambre statue, de commun accord avec le Roi Grand-Duc, sur les points soumis à la révision. – Dans ce cas , la Chambre ne pourra délibérer, si trois quarts au moins des membres qui la composent ne sont présents, et nul changement ne sera adopté, s’il ne réunit au moins les deux tiers des suffrages.
+Toute révision de la Constitution doit être adoptée dans les mêmes termes par la Chambre des députés en deux votes successifs, séparés par un intervalle d’au moins trois mois.
+
+Nulle révision ne sera adoptée si elle ne réunit au moins les deux tiers des suffrages des membres de la Chambre, les votes par procuration n’étant pas admis.
+
+Le texte adopté en première lecture par la Chambre des députés est soumis à un référendum, qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite soit par plus d’un quart des membres de la Chambre, soit par vingt-cinq mille électeurs inscrits sur les listes électorales pour les élections législatives. La révision n’est adoptée que si elle recueille la majorité des suffrages valablement exprimés. La loi règle les modalités d’organisation du référendum.
 
 <a id="art_115"></a>
 
@@ -956,7 +960,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20030225"></a>
+<a id="art_118_20040104"></a>
 
 ### Art. 118.
 
@@ -980,7 +984,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20030225"></a>
+<a id="art_121_20040104"></a>
 
 ### Art. 121.
 
