@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1972-02-01
+lex_id: lu-legilux:constitution-1868-10-17-n1:1979-07-13
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1972-02-01
-valid_to: 1979-07-12
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19720201/fr
-source_sha256: cb70d83e4049acc9489c3f5e5ef6574d056bac938faee97f61cc5df5b09242f7
+valid_from: 1979-07-13
+valid_to: 1983-12-04
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19790713/fr
+source_sha256: c595fb166fc3375e7541f6e20d2c7df7e03015566904191df87cf6bf8926cf7a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -404,7 +404,9 @@ L'élection est directe.
 
 Les députés sont élus sur la base du suffrage universel pur et simple, au scrutin de liste, suivant les règles de la représentation proportionnelle, conformément au principe du plus petit quotient électoral et suivant les règles à déterminer par la loi.
 
-Le pays est divisé en quatre circonscriptions électorales: le Sud (Esch et Capellen), le Centre (Luxembourg-ville, Luxembourg-campagne et Mersch), le Nord (Diekirch, Redange, Wiltz, Clervaux et Vianden) et l'Est (Grevenmacher, Remich et Echternach).
+(6) Le pays est divisé en quatre circonscriptions électorales :
+
+le Sud (Esch-sur-Alzette et Capellen), le Centre (Luxembourg et Mersch), le Nord (Diekirch, Redange, Wiltz, Clervaux et Vianden) et l'Est (Grevenmacher, Remich et Echternach).
 
 Les électeurs pourront être appelés à se prononcer par la voie du referendum dans les cas et sous les conditions à déterminer par la loi.
 
@@ -823,21 +825,17 @@ Les traitements et pensions des ministres des cultes sont à charge de l’État
 
 ### Art. 107.
 
-Il y aura dans chaque commune un conseil communal élu directement par les habitants ayant les qualités requises pour être électeurs ; la composition, l’organisation et les attributions de ce conseil sont réglées par la loi.
+**(1)** Les communes forment des collectivités autonomes, à base territoriale, possédant la personnalité juridique et gérant par leurs organes leur patrimoine et leurs intérêts propres.
 
-Le bourgmestre est nommé et révoqué par le Roi Grand-Duc, qui peut le choisir hors du sein du conseil.
+**(2)** II y a dans chaque commune un conseil communal élu directement par les habitants qui remplissent, outre les qualités requises par l'article 52 de la Constitution, les conditions de résidence fixées par la loi.
 
-Le conseil communal décide sur tout ce qui est d’intérêt purement communal, sauf l’approbation de ses actes dans les cas et suivant le mode que la loi détermine.
+**(3)** Le conseil établit annuellement le budget de la commune et en arrête les comptes. Il fait les règlements communaux, sauf les cas d'urgence. Il peut établir des impositions communales, sous l'approbation du Grand-Duc. Le Grand-Duc a le droit de dissoudre le conseil.
 
-Les agents ou employés communaux, ceux de la police municipale, forestière et rurale sont nommés et révoqués de la manière déterminée par la loi.
+**(4)** La commune est administrée sous l'autorité du collège des bourgmestre et échevins, dont les membres doivent être choisis parmi les conseillers communaux.
 
-Aucune imposition communale ne peut être établie ou supprimée sans l’autorisation du Roi Grand-Duc.
+**(5)** La loi règle la composition, l'organisation et les attributions des organes de la commune. Elle établit le statut des fonctionnaires communaux. La commune participe à la mise en oeuvre de l'enseignement de la manière fixée par la loi.
 
-Les comptes et budgets sont rendus publics.
-
-Le Roi Grand-Duc peut suspendre ou annuler les actes des autorités communales qui excèdent leurs attributions ou qui sont contraires à la loi ou à l’intérêt général. La loi règle les suites de cette suspension ou annulation.
-
-Le Roi Grand-Duc a le droit de dissoudre le conseil.
+**(6)** La loi règle la surveillance de la gestion communale. Elle peut soumettre certains actes des organes communaux à l'approbation de l'autorité de surveillance et même en prévoir l'annulation ou la suspension en cas d'illégalité ou d'incompatibilité avec l'intérêt général, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
 
 <a id="art_108"></a>
 
