@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2004-06-11
+lex_id: lu-legilux:constitution-1868-10-17-n1:2004-11-29
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2004-06-11
-valid_to: 2004-11-28
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040611/fr
-source_sha256: b0f4661b4b25bb0d38c1577a96bd2cddc5539b88c3d3d2426fdcdc8261e5713b
+valid_from: 2004-11-29
+valid_to: 2005-06-27
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20041129/fr
+source_sha256: 96685c56e4f646b5691d72f1153d7d9fe2e37fa5757d3f1b0b55eecf20c18460
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -109,6 +109,10 @@ Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de 
 **(5)** La loi organise la sécurité sociale, la protection de la santé et le repos des travailleurs et garantit les libertés syndicales.
 
 **(6)** La loi garantit la liberté du commerce et de l'industrie, l'exercice de la profession libérale et du travail agricole, sauf les restrictions à établir par le pouvoir législatif.
+
+En matière d'exercice de la profession libérale elle peut accorder à des organes professionnels dotés de la personnalité civile le pouvoir de prendre des règlements.
+
+La loi peut soumettre ces règlements à des procédures d'approbation, d'annulation ou de suspension, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
 
 <a id="art_12"></a>
 
@@ -244,11 +248,17 @@ Les fonctionnaires publics, à quelque ordre qu’ils appartiennent, les membres
 
 ### Art. 32.
 
-La puissance souveraine réside dans la Nation.
+**(1)** La puissance souveraine réside dans la Nation.
 
 Le Grand-Duc l'exerce conformément à la présente Constitution et aux lois du pays.
 
-Il n'a d'autres pouvoirs que ceux que lui attribuent formellement la Constitution et les lois particulières portées en vertu de la Constitution même, le tout sans préjudice de l'art. 3 de la présente Constitution.
+**(2)** Le Grand-Duc n'a d'autres pouvoirs que ceux que lui attribuent formellement la Constitution et les lois particulières portées en vertu de la Constitution même, le tout sans préjudice de l'art. 3 de la présente Constitution.
+
+**(3)** Dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu'aux fins, dans les conditions et suivant les modalités spécifiées par la loi.
+
+**(4)** Toutefois, en cas de crise internationale, le Grand-Duc peut, s'il y a urgence, prendre en toute matière des règlements, même dérogatoires à des dispositions légales existantes.
+
+La durée de validité de ces règlements est limitée à trois mois.
 
 ### *§ 1er.* — *De la Prérogative du Roi Grand-Duc.*
 
@@ -276,7 +286,7 @@ Aucune fonction salariée par l’État ne peut être créée qu’en vertu d’
 
 ### Art. 36.
 
-Le Roi Grand-Duc fait les règlements et arrêtés nécessaires pour l’exécution des lois, sans pouvoir jamais ni suspendre les lois elles-mêmes, ni dispenser de leur exécution.
+Le Grand-Duc prend les règlements et arrêtés nécessaires pour l'exécution des lois.
 
 <a id="art_37"></a>
 
@@ -532,7 +542,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20040611"></a>
+<a id="art_63_20041129"></a>
 
 ### Art. 63.
 
@@ -604,7 +614,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20040611"></a>
+<a id="art_73_20041129"></a>
 
 ### Art. 73.
 
@@ -631,6 +641,8 @@ Les membres de la Chambre des députés toucheront, outre leurs frais de déplac
 ### Art. 76.
 
 Le Roi Grand-Duc règle l’organisation de son Gouvernement, lequel est composé de trois membres au moins.
+
+Dans l'exercice du pouvoir lui attribué par les articles 36 et 37, alinéa 4 de la Constitution, le Grand-Duc peut, dans les cas qu'il détermine, charger les membres de son Gouvernement de prendre des mesures d’exécution.
 
 Il y aura, à côté du Gouvernement, un conseil appelé à délibérer sur les projets de loi et les amendements qui pourraient y être proposés, à régler les questions du contentieux administratif, et à donner son avis sur toutes autres questions qui lui seront déférées par le Roi Grand-Duc ou par les lois. – L’organisation de ce conseil et la manière d’exercer ses attributions sont réglées par la loi.
 
@@ -896,7 +908,15 @@ Les traitements et pensions des ministres des cultes sont à charge de l’État
 
 La rédaction des actes de l’état civil et la tenue des registres sont exclusivement dans les attributions des autorités communales.
 
-## **Chapitre X.** — *Dispositions générales.*
+## **Chapitre X** — Des établissements publics
+
+<a id="art_108bis"></a>
+
+### Art. 108bis.
+
+La loi peut créer des établissements publics, dotés de la personnalité civile, dont elle détermine l'organisation et l'objet. Dans la limite de leur spécialité, le pouvoir de prendre des règlements peut leur être accordé par la loi qui peut en outre soumettre ces règlements à l’approbation de l'autorité de tutelle ou même en prévoir l'annulation ou la suspension en cas d'illégalité, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
+
+## **Chapitre XI.** — *Dispositions générales.*
 
 <a id="art_109"></a>
 
@@ -948,7 +968,7 @@ Le texte adopté en première lecture par la Chambre des députés est soumis à
 
 Pendant une régence, aucun changement ne peut être apporté à la Constitution en ce qui concerne les prérogatives constitutionnelles du Grand-Duc, son statut ainsi que l'ordre de succession.
 
-## **Chapitre XI.** — *Dispositions transitoires et supplémentaires.*
+## **Chapitre XII.** — *Dispositions transitoires et supplémentaires.*
 
 <a id="art_116"></a>
 
@@ -964,7 +984,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20040611"></a>
+<a id="art_118_20041129"></a>
 
 ### Art. 118.
 
@@ -988,7 +1008,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20040611"></a>
+<a id="art_121_20041129"></a>
 
 ### Art. 121.
 
