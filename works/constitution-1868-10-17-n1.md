@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1948-05-23
+lex_id: lu-legilux:constitution-1868-10-17-n1:1948-06-02
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1948-05-23
-valid_to: 1948-06-01
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480523/fr
-source_sha256: c65ab0010c42c4115979a204fc13525d390fc0767fefe93c39e59ffb5cf27bb5
+valid_from: 1948-06-02
+valid_to: 1956-08-23
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480602/fr
+source_sha256: 8c63c1c3c6e0e37f918b126f33b6efcff0f82ef10b2a1e1d575690bf8d909e6a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -90,7 +90,17 @@ La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après le
 
 ### Art. 11.
 
-Il n’y a dans l’État aucune distinction d’ordres. – Les Luxembourgeois sont égaux devant la loi ; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi, pour des cas particuliers.
+**(1)** Il n'y a dans l'État aucune distinction d'ordres.
+
+**(2)** Les Luxembourgeois sont égaux devant la loi; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
+
+**(3)** L'État garantit les droits naturels de la personne humaine et de la famille.
+
+**(4)** La loi garantit le droit au travail et assure à chaque citoyen l'exercice de ce droit.
+
+**(5)** La loi organise la sécurité sociale, la protection de la santé et le repos des travailleurs et garantit les libertés syndicales.
+
+**(6)** La loi garantit la liberté du commerce et de l'industrie, l'exercice de la profession libérale et du travail agricole, sauf les restrictions à établir par le pouvoir législatif.
 
 <a id="art_12"></a>
 
@@ -162,13 +172,15 @@ L’intervention de l’État dans la nomination et l’installation des chefs d
 
 ### Art. 23.
 
-L’État veille à ce que tout Luxembourgeois reçoive l’instruction primaire.
+L'État veille à ce que tout Luxembourgeois reçoive l'instruction primaire qui sera obligatoire et gratuite. L'assistance médicale et sociale sera réglée par la loi.
 
-Il crée des établissements d’instruction moyenne et les cours d’enseignement supérieur nécessaires.
+Il crée des établissements d'instruction moyenne et les cours d'enseignement supérieur nécessaires.
 
-La loi détermine les moyens de subvenir à l’instruction publique, ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l’enseignement.
+Il crée également des cours professionnels gratuits.
 
-Tout Luxembourgeois est libre de faire ses études dans le Grand-Duché ou à l’étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d’admission aux emplois ou à l’exercice de certaines professions.
+La loi détermine les moyens de subvenir à l'instruction publique ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l'enseignement et crée un fonds des mieux-doués.
+
+Tout Luxembourgeois est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur la condition d'admission aux emplois et à l'exercice de certaines professions.
 
 <a id="art_24"></a>
 
@@ -364,11 +376,19 @@ La Chambre des Députés représente le pays. – Les députés votent sans en r
 
 ### Art. 51.
 
-L’organisation et le mode d’élection de la Chambre sont réglés par la loi.
+Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parlementaire.
 
-La loi électorale fixe le nombre des députés d’après la population. Ce nombre ne peut excéder un député sur quatre mille habitants, ni être inférieur à un député sur cinq mille cinq cents habitants.
+L'organisation de la Chambre est réglée par la loi.
 
-L’élection est directe.
+La loi électorale fixe le nombre des députés d'après la population. Ce nombre ne peut excéder un député sur 4000 habitants, ni être inférieur à un député sur 5500 habitants.
+
+L'élection est directe.
+
+Les députés sont élus sur la base du suffrage universel pur et simple, au scrutin de liste, suivant les règles de la représentation proportionnelle, conformément au principe du plus petit quotient électoral et suivant les règles à déterminer par la loi.
+
+Le pays est divisé en quatre circonscriptions électorales: le Sud (Esch et Capellen), le Centre (Luxembourg-ville, Luxembourg-campagne et Mersch), le Nord (Diekirch, Redange, Wiltz, Clervaux et Vianden) et l'Est (Grevenmacher, Remich et Echternach).
+
+Les électeurs pourront être appelés à se prononcer par la voie du referendum dans les cas et sous les conditions à déterminer par la loi.
 
 <a id="art_52"></a>
 
