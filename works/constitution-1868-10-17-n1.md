@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1948-05-14
+lex_id: lu-legilux:constitution-1868-10-17-n1:1948-05-23
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1948-05-14
-valid_to: 1948-05-22
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480514/fr
-source_sha256: e43eb84ac787805111e2484a0099657bc7c8a8a2be74047277d3cf4a7fb898aa
+valid_from: 1948-05-23
+valid_to: 1948-06-01
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480523/fr
+source_sha256: c65ab0010c42c4115979a204fc13525d390fc0767fefe93c39e59ffb5cf27bb5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -374,10 +374,6 @@ L’élection est directe.
 
 ### Art. 52.
 
-Les députés sont élus sur la base du suffrage universel pur et simple, au scrutin de liste, suivant les règles de la représentation proportionnelle, conformément au principe du plus petit quotient électoral et suivant les règles à déterminer par la loi.
-
-Le pays est divisé en quatre circonscriptions électorales: le Sud (Esch, Capellen), le Centre (Luxembourg-ville, Luxembourg-campagne et Mersch), le Nord (Diekirch, Redange, Wiltz, Clervaux et Vianden), et l'Est (Grevenmacher, Remich et Echternach).
-
 Pour être électeur, il faut :
 
 1. être Luxembourgeois ou Luxembourgeoise ;
@@ -387,11 +383,9 @@ Pour être électeur, il faut :
 
 Il faut en outre réunir à ces quatre qualités celles déterminées par la loi. Aucune condition de cens ne pourra être exigée.
 
-Pour être éligible, il faut être âgé de 25 ans accomplis et remplir, pour le surplus, les trois autres conditions énumérées ci-dessus.
+Pour être éligible, il faut être âgé de 25 ans accomplis et remplir pour le surplus les trois autres conditions énumérées ci-dessus.
 
 Aucune autre condition d'éligibilité ne pourra être requise.
-
-Les électeurs pourront être appelés à se prononcer par la voie du référendum dans les cas et sous les conditions à déterminer par la loi.
 
 <a id="art_53"></a>
 
@@ -409,16 +403,23 @@ Le droit de vote peut pourtant être rendu par la voie de grâce aux personnes c
 
 ### Art. 54.
 
-Le mandat de député est incompatible :
+**(I)** Le mandat de député est incompatible :
 
 1. avec les fonctions de membre du Gouvernement ;
-2. avec celles de magistrat du parquet ;
-3. avec celles de membre de la Chambre des comptes ;
-4. avec celles de commissaire de district ;
-5. avec celles de receveur ou agent comptable de l’État ;
-6. avec les fonctions militaires au-dessous du grade de capitaine.
+2. avec celles de membre du Conseil d'État ;
+3. avec celles de magistrat de l'Ordre judiciaire ;
+4. avec celles de membre de la Chambre des comptes ;
+5. avec celles de commissaire de district ;
+6. avec celles de receveur ou agent comptable de l'État ;
+7. avec celles de militaire de carrière en activité de service.
 
-Les fonctionnaires se trouvant dans un cas d’incompatibilité ont le droit d’opter entre le mandat leur confié et leurs fonctions.
+**(2)** Les fonctionnaires se trouvant dans un cas d'incompatibilité ont le droit d'opter entre le mandat leur confié et leurs fonctions.
+
+**(3)** Le député qui a été appelé aux fonctions de membre du Gouvernement et qui quitte ces fonctions, est réinscrit de plein droit comme premier suppléant sur la liste sur laquelle il a été élu.
+
+Il en sera de même du député-suppléant qui, appelé aux fonctions de membre du Gouvernement, aura renoncé au mandat de député lui échu au cours de ces fonctions.
+
+En cas de concours entre plusieurs ayants droit, la réinscription sera faite dans l'ordre des voix obtenues aux élections.
 
 <a id="art_55"></a>
 
