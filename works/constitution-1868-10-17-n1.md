@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1956-08-24
+lex_id: lu-legilux:constitution-1868-10-17-n1:1956-11-07
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1956-08-24
-valid_to: 1956-11-06
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19560824/fr
-source_sha256: 8bac326dfd6800d146202e4a5c7b5bd81c7281398769056118e1cddf038440c6
+valid_from: 1956-11-07
+valid_to: 1972-01-31
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19561107/fr
+source_sha256: 5b2961516f8167f98fbca03719d015e7db612323bd8963905ed001c52535a6b7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -278,7 +278,17 @@ Le Roi Grand-Duc fait les règlements et arrêtés nécessaires pour l’exécut
 
 ### Art. 37.
 
-Le Grand-Duc commande la force armée. Il fait les traités. Aucun traité n'aura d'effet avant d'avoir reçu l'assentiment de la Chambre. Les traités secrets sont abolis. Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.
+Le Grand-Duc fait les traités. Les traités n'aurent d'effet avant d'avoir été approuvés par la loi et publiés dans les formes prévues pour la publication des lois.
+
+Les traités visés au Chapitre III, § 4, art. 49bis, sont approuvés par une loi votée dans les conditions de l'art. 114, al. 5.
+
+Les traités secrets sont abolis.
+
+Le Grand-Duc fait les règlements et arrêtés nécessaires pour l'exécution des traités dans les formes qui règlent les mesures d'exécution des lois et avec les effets qui s'attachent à ces mesures, sans préjudice des matières qui sont réservées par la Constitution à la loi.
+
+Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.
+
+Le Grand-Duc commande la force armée ; il déclare la guerre et la cessation de la guerre après y avoir été autorisé par un vote de la Chambre émis dans les conditions de l'article 114, al. 5 de la Constitution.
 
 <a id="art_38"></a>
 
@@ -363,6 +373,14 @@ L’interprétation des lois par voie d’autorité ne peut avoir lieu que par l
 La justice est rendue au nom du Roi Grand-Duc par les cours et tribunaux.
 
 Les arrêtés et jugements sont exécutés au nom du Roi Grand-Duc.
+
+### *§ 4* . — Des pouvoirs internationaux
+
+<a id="art_49bis"></a>
+
+### Art. 49bis.
+
+L'exercice d'attributions réservées par la Constitution aux pouvoirs législatif, exécutif et judiciaire peut être temporairement dévolu par traité à des institutions de droit international.
 
 ## **Chapitre IV. ** — ***De la Chambre des Députés.*
 
