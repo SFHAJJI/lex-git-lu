@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1948-05-02
+lex_id: lu-legilux:constitution-1868-10-17-n1:1948-05-14
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1948-05-02
-valid_to: 1948-05-13
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480502/fr
-source_sha256: 6651cb3a3c2b05c09758d032ee377fb348e05251f28f57b6d891b06b04ee422e
+valid_from: 1948-05-14
+valid_to: 1948-05-22
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480514/fr
+source_sha256: e43eb84ac787805111e2484a0099657bc7c8a8a2be74047277d3cf4a7fb898aa
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -82,7 +82,9 @@ La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après le
 
 ### Art. 10.
 
-La naturalisation est accordée par le pouvoir législatif. Elle assimile l’étranger au Luxembourgeois, pour l’exercice des droits politiques. – La naturalisation accordée au père profite à son enfant mineur, si celui-ci déclare, dans les deux années de sa majorité, vouloir revendiquer ce bénéfice.
+**(1)** La naturalisation est accordée par le pouvoir législatif.
+
+**(2)** La loi détermine les effets de la naturalisation.
 
 <a id="art_11"></a>
 
@@ -206,7 +208,7 @@ La loi réglera la garantie à donner au secret des télégrammes.
 
 ### Art. 29.
 
-L’emploi des langues allemande et française est facultatif. L’usage n’en peut être limité.
+La loi réglera l'emploi des langues en matière administrative et judiciaire.
 
 <a id="art_30"></a>
 
@@ -244,7 +246,7 @@ Le Roi Grand-Duc exerce seul le pouvoir exécutif.
 
 ### Art. 34.
 
-Le Roi Grand-Duc sanctionne et promulgue les lois. Il fait connaître Sa résolution dans les six mois du vote de la Chambre.
+Le Grand-Duc sanctionne et promulgue les lois. Il fait connaître sa résolution dans les trois mois du vote de la Chambre.
 
 <a id="art_35"></a>
 
@@ -302,13 +304,15 @@ Ce représentant prêtera serment d’observer la Constitution avant d’exercer
 
 ### Art. 43.
 
-La liste civile est fixée à deux cent mille francs par an. Elle peut être changée par la loi au commencement de chaque règne.
+La liste civile est fixée à trois cent mille francs-or par an.
+
+Elle peut être changée par la loi au commencement de chaque règne. La loi budgétaire peut allouer chaque année à la Maison Souveraine les sommes nécessaires pour couvrir les frais de représentation.
 
 <a id="art_44"></a>
 
 ### Art. 44.
 
-L’Hôtel de Gouvernement à Luxembourg et le château de Walferdange sont affectés à l’habitation du Roi Grand-Duc pendant Son séjour dans le pays.
+Le Palais Grand-Ducal à Luxembourg et le Château de Berg sont réservés à l'habitation du Grand-Duc.
 
 <a id="art_45"></a>
 
@@ -395,10 +399,11 @@ Les électeurs pourront être appelés à se prononcer par la voie du référend
 
 Ne peuvent être ni électeurs ni éligibles :
 
-1. les condamnés à des peines afflictives ou infamantes ;
-2. ceux qui ont été condamnés pour vol, escroquerie ou abus de confiance ;
-3. ceux qui obtiennent des secours d’un établissement de bienfaisance publique ;
-4. ceux qui sont en état de faillite déclarée, les banqueroutiers et interdits, et ceux auxquels il a été nommé un conseil judiciaire.
+1. les condamnés à des peines criminelles ;
+2. ceux qui ont été condamnés à des peines d'emprisonnement pour vol, escroquerie ou abus de confiance ;
+3. ceux qui sont en état de faillite déclarée, les banqueroutiers et interdits et ceux auxquels il a été nommé un conseil judiciaire ;
+
+Le droit de vote peut pourtant être rendu par la voie de grâce aux personnes condamnées à des peines d'emprisonnement pour vol, escroquerie ou abus de confiance.
 
 <a id="art_54"></a>
 
@@ -455,7 +460,7 @@ Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’ac
 
 ### Art. 60.
 
-A chaque session, la Chambre nomme son président et son vice-président et compose son bureau.
+À chaque session, la Chambre nomme son président et ses vice-présidents et compose son bureau.
 
 <a id="art_61"></a>
 
@@ -533,11 +538,11 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 ### Art. 72.
 
-La Chambre se réunit chaque année en session ordinaire, à l’époque fixée par le règlement.
+**(1)** La Chambre se réunit chaque année en session ordinaire, à l'époque fixée par le règlement.
 
-Le Roi Grand-Duc peut convoquer la Chambre extraordinairement.
+**(2)** Le Grand-Duc peut convoquer la Chambre extraordinairement ; il doit le faire sur la demande d'un tiers des députés.
 
-Toute session est ouverte et close par le Roi Grand-Duc en personne, ou bien en Son Nom par un fondé de pouvoirs nommé à cet effet.
+**(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
 <a id="art_73"></a>
 
@@ -557,7 +562,7 @@ Il est procédé à de nouvelles élections dans les trois mois au plus tard de 
 
 ### Art. 75.
 
-Les membres de la Chambre des députés jouiront d'une indemnité qui ne pourra dépasser 4000 fr. par an. Ils auront droit, en outre, à une indemnité de déplacement. Les détails relatifs à cette double indemnité seront réglés par la loi, qui pourra avoir effet rétroactif pour les sessions de la Constituante.
+Les membres de la Chambre des députés toucheront, outre leurs frais de déplacement, une indemnité, dont le montant et les conditions sont fixés par la loi.
 
 ## **Chapitre V. ** — *Du Gouvernement du Grand-Duché.*
 
