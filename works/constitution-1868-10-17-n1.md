@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1999-06-12
+lex_id: lu-legilux:constitution-1868-10-17-n1:2000-08-29
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1999-06-12
-valid_to: 2000-08-28
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990612/fr
-source_sha256: 2e72787a5bb0e87799a577c2f2b00ef536f798db4e6ac3350672c26668fb7571
+valid_from: 2000-08-29
+valid_to: 2003-02-24
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20000829/fr
+source_sha256: f14892353b89cdb778632bdfbd2e8522fcdd4f5b4d1f1cd192ed7206f0e6ea22
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -597,7 +597,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_19990612"></a>
+<a id="art_73_20000829"></a>
 
 ### Art. 73.
 
@@ -953,11 +953,17 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_19990612"></a>
+<a id="art_118_20000829"></a>
 
 ### Art. 118.
 
 La peine de mort, abolie en matière politique, est remplacée par la peine immédiatement inférieure, jusqu’à ce qu’il y soit statué par la loi nouvelle.
+
+<a id="art_118"></a>
+
+### Art. 118.
+
+Les dispositions de la Constitution ne font pas obstacle à l'approbation du Statut de la Cour Pénale Internationale, fait à Rome, le 17 juillet 1998, et à l'exécution des obligations en découlant dans les conditions prévues par ledit Statut.
 
 <a id="art_119"></a>
 
@@ -971,7 +977,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19990612"></a>
+<a id="art_121_20000829"></a>
 
 ### Art. 121.
 
