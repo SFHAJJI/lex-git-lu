@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2000-08-29
+lex_id: lu-legilux:constitution-1868-10-17-n1:2003-02-25
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2000-08-29
-valid_to: 2003-02-24
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20000829/fr
-source_sha256: f14892353b89cdb778632bdfbd2e8522fcdd4f5b4d1f1cd192ed7206f0e6ea22
+valid_from: 2003-02-25
+valid_to: 2004-01-03
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20030225/fr
+source_sha256: 9a97eaa5b22d90ca4a3a9347bab851a0e93f28ef269f9d8efdc2526ee74c7fc0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -410,7 +410,10 @@ Les députés sont élus sur la base du suffrage universel pur et simple, au scr
 
 (6) Le pays est divisé en quatre circonscriptions électorales :
 
-le Sud (Esch-sur-Alzette et Capellen), le Centre (Luxembourg et Mersch), le Nord (Diekirch, Redange, Wiltz, Clervaux et Vianden) et l'Est (Grevenmacher, Remich et Echternach).
+- le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
+- le Centre avec les cantons de Luxembourg et Mersch ;
+- le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
+- l’Est avec les cantons de Grevenmacher, Remich et Echternach.
 
 Les électeurs pourront être appelés à se prononcer par la voie du referendum dans les cas et sous les conditions à déterminer par la loi.
 
@@ -430,7 +433,7 @@ Pour être éligible, il faut :
 
 1. être Luxembourgeois ou Luxembourgeoise ;
 2. jouir des droits civils et politiques ;
-3. être âgé de vingt et un ans accomplis ;
+3. être âgé de dix-huit ans accomplis ;
 4. être domicilié dans le Grand-Duché.
 
 Aucune autre condition d'éligibilité ne pourra être requise.
@@ -597,7 +600,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20000829"></a>
+<a id="art_73_20030225"></a>
 
 ### Art. 73.
 
@@ -953,7 +956,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20000829"></a>
+<a id="art_118_20030225"></a>
 
 ### Art. 118.
 
@@ -977,7 +980,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20000829"></a>
+<a id="art_121_20030225"></a>
 
 ### Art. 121.
 
