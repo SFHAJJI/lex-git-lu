@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1989-04-18
+lex_id: lu-legilux:constitution-1868-10-17-n1:1989-05-15
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1989-04-18
-valid_to: 1989-05-14
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890418/fr
-source_sha256: 120cde7c5486103a17faca1a4b4d5465a577d51b849b40061ecf671d257b81d4
+valid_from: 1989-05-15
+valid_to: 1989-07-13
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890515/fr
+source_sha256: ae91bd00b68c43c4a593c2f81840fefee0a57b3be7dbaac8304a14d29930d5dd
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -709,7 +709,7 @@ Les juges de paix et les juges des tribunaux sont directement nommés par le Roi
 
 ### Art. 91.
 
-Les juges des tribunaux d’arrondissements et les conseillers sont nommés à vie. – Aucun d’eux ne peut être privé de sa place ni être suspendu que par un jugement. – Le déplacement d’un de ces juges ne peut avoir lieu que par une nomination nouvelle et de son consentement.
+Les juges de paix, les juges des tribunaux d´arrondissement et les conseillers de la Cour sont inamovibles. – Aucun d’eux ne peut être privé de sa place ni être suspendu que par un jugement. – Le déplacement d’un de ces juges ne peut avoir lieu que par une nomination nouvelle et de son consentement.
 
 Toutefois, en cas d’infirmité ou d’inconduite, il peut être suspendu, révoqué ou déplacé, suivant les conditions déterminées par la loi.
 
@@ -923,7 +923,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19890418"></a>
+<a id="art_121_19890515"></a>
 
 ### Art. 121.
 
