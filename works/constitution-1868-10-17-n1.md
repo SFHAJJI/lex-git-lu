@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1998-01-24
+lex_id: lu-legilux:constitution-1868-10-17-n1:1999-05-09
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1998-01-24
-valid_to: 1999-05-08
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19980124/fr
-source_sha256: 56a053b37d9ad4df8a75626d0b7988443187b5847e1643a77ef73b067d1b2b16
+valid_from: 1999-05-09
+valid_to: 1999-06-11
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990509/fr
+source_sha256: 12f2fff87a6525c66e39919295e5dcc48e9d26399710ac09b4cff5f21d525a24
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -86,6 +86,14 @@ Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de 
 
 **(2)** La loi détermine les effets de la naturalisation.
 
+<a id="art_10bis"></a>
+
+### Art. 10bis.
+
+**(1)** Les Luxembourgeois sont égaux devant la loi.
+
+**(2)** Ils sont admissibles à tous les emplois publics, civils et militaires ; la loi détermine l'admissibilité des non-Luxembourgeois à ces emplois.
+
 <a id="art_11"></a>
 
 ### Art. 11.
@@ -142,7 +150,7 @@ La peine de la confiscation des biens ne peut être établie.
 
 ### Art. 18.
 
-La peine de mort en matière politique, la mort civile et la flétrissure sont abolies.
+La peine de mort ne peut être établie.
 
 <a id="art_19"></a>
 
@@ -591,7 +599,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_19980124"></a>
+<a id="art_73_19990509"></a>
 
 ### Art. 73.
 
@@ -951,7 +959,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118"></a>
+<a id="art_118_19990509"></a>
 
 ### Art. 118.
 
@@ -969,7 +977,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19980124"></a>
+<a id="art_121_19990509"></a>
 
 ### Art. 121.
 
