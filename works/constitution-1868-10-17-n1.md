@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1989-07-14
+lex_id: lu-legilux:constitution-1868-10-17-n1:1994-12-28
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1989-07-14
-valid_to: 1994-12-27
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890714/fr
-source_sha256: 07d35dd787b90e8a0397b6b8c21d10908ccaad91994511117ee54fe66321ce68
+valid_from: 1994-12-28
+valid_to: 1996-12-31
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19941228/fr
+source_sha256: a82cd27d816b2651003ac8156e5e766d59751d3b3ba277f2394cc532eafcb0e7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -72,7 +72,11 @@ En cas de vacance du Trône, la Chambre pourvoit provisoirement à la régence. 
 
 ### Art. 9.
 
-La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi civile. – La présente Constitution et les autres lois relatives aux droits politiques déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l’exercice de ces droits.
+La qualité de Luxembourgeois s'acquiert, se conserve et se perd d'après les règles déterminées par la loi civile.
+
+La présente Constitution et les autres lois relatives aux droits politiques déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l'exercice de ces droits.
+
+Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de droits politiques à des non-Luxembourgeois.
 
 <a id="art_10"></a>
 
@@ -839,11 +843,11 @@ Les traitements et pensions des ministres des cultes sont à charge de l’État
 
 **(1)** Les communes forment des collectivités autonomes, à base territoriale, possédant la personnalité juridique et gérant par leurs organes leur patrimoine et leurs intérêts propres.
 
-**(2)** II y a dans chaque commune un conseil communal élu directement par les habitants qui remplissent, outre les qualités requises par l'article 52 de la Constitution, les conditions de résidence fixées par la loi.
+**(2)** Il y a dans chaque commune un conseil communal élu directement par les habitants de la commune ; les conditions pour être électeur ou éligible sont réglées par la loi.
 
 **(3)** Le conseil établit annuellement le budget de la commune et en arrête les comptes. Il fait les règlements communaux, sauf les cas d'urgence. Il peut établir des impositions communales, sous l'approbation du Grand-Duc. Le Grand-Duc a le droit de dissoudre le conseil.
 
-**(4)** La commune est administrée sous l'autorité du collège des bourgmestre et échevins, dont les membres doivent être choisis parmi les conseillers communaux.
+**(4)** La commune est administrée sous l'autorité du collège des bourgmestre et échevins, dont les membres doivent être choisis parmi les conseillers communaux. Les conditions de nationalité que doivent remplir les membres du collège des bourgmestre et échevins sont déterminées par une loi votée dans les conditions de l'article 114 al.5 de la Constitution.
 
 **(5)** La loi règle la composition, l'organisation et les attributions des organes de la commune. Elle établit le statut des fonctionnaires communaux. La commune participe à la mise en oeuvre de l'enseignement de la manière fixée par la loi.
 
@@ -937,7 +941,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_19890714"></a>
+<a id="art_121_19941228"></a>
 
 ### Art. 121.
 
