@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2004-01-04
+lex_id: lu-legilux:constitution-1868-10-17-n1:2004-06-11
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2004-01-04
-valid_to: 2004-06-10
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040104/fr
-source_sha256: f514dbb839bc3def1e38790242967e7a8866fa5d0eca17be15f71460c1d46023
+valid_from: 2004-06-11
+valid_to: 2004-11-28
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20040611/fr
+source_sha256: b0f4661b4b25bb0d38c1577a96bd2cddc5539b88c3d3d2426fdcdc8261e5713b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -192,7 +192,7 @@ Chacun est libre de faire ses études dans le Grand-Duché ou à l'étranger et 
 
 ### Art. 24.
 
-La liberté de manifester ses opinions par la parole en toutes matières, et la liberté de la presse sont garanties, sauf la répression des délits commis à l’occasion de l’exercice de ces libertés. – La censure ne pourra jamais être établie. Il ne peut être exigé de cautionnement des écrivains, éditeurs ou imprimeurs. – Le droit de timbre des journaux et écrits périodiques indigènes est aboli. – L’éditeur, l’imprimeur ou le distributeur ne peut être poursuivi si l’auteur est connu, s’il est Luxembourgeois et domicilié dans le Grand-Duché.
+La liberté de manifester ses opinions par la parole en toutes matières, et la liberté de la presse sont garanties, sauf la répression des délits commis à l'occasion de l'exercice de ces libertés. - La censure ne pourra jamais être établie.
 
 <a id="art_25"></a>
 
@@ -532,7 +532,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63"></a>
+<a id="art_63_20040611"></a>
 
 ### Art. 63.
 
@@ -548,7 +548,11 @@ La Chambre a le droit d’enquête. La loi règle l’exercice de ce droit.
 
 ### Art. 65.
 
-Un projet de loi ne peut être adopté par la Chambre qu’après avoir été voté article par article.
+La Chambre vote sur l'ensemble de la loi. Ce vote intervient toujours par appel nominal.
+
+À la demande de cinq députés au moins, le vote sur l'ensemble de la loi peut être précédé par un vote portant sur un ou plusieurs articles de la loi.
+
+Le vote par procuration est admis. Nul ne peut toutefois recevoir plus d'une procuration.
 
 <a id="art_66"></a>
 
@@ -600,7 +604,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20040104"></a>
+<a id="art_73_20040611"></a>
 
 ### Art. 73.
 
@@ -960,7 +964,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20040104"></a>
+<a id="art_118_20040611"></a>
 
 ### Art. 118.
 
@@ -984,7 +988,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20040104"></a>
+<a id="art_121_20040611"></a>
 
 ### Art. 121.
 
