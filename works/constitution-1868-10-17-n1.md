@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1988-12-25
+lex_id: lu-legilux:constitution-1868-10-17-n1:1989-04-18
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1988-12-25
-valid_to: 1989-04-17
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19881225/fr
-source_sha256: b9d2892ba687f30af0831657c80aa325ae850f5f0d5e89c30ad5b2de9e6a4060
+valid_from: 1989-04-18
+valid_to: 1989-05-14
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19890418/fr
+source_sha256: 120cde7c5486103a17faca1a4b4d5465a577d51b849b40061ecf671d257b81d4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -523,7 +523,7 @@ La Chambre ne peut prendre de résolution qu’autant que la majorité de ses me
 
 ### Art. 63.
 
-Les votes sont émis à haute voix, ou par assis et levé. Sur l’ensemble des lois il est toujours voté par appel nominal et à haute voix.
+Sur l´ensemble des lois le vote intervient toujours par appel nominal.
 
 <a id="art_64"></a>
 
@@ -923,7 +923,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121"></a>
+<a id="art_121_19890418"></a>
 
 ### Art. 121.
 
