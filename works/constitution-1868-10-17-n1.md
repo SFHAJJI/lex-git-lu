@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1919-05-20
+lex_id: lu-legilux:constitution-1868-10-17-n1:1948-05-02
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1919-05-20
-valid_to: 1948-05-01
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19190520/fr
-source_sha256: b03980e1ed6f4ec4359125c2a8625b27d6b572c0234ffa6840e8a29e1f2a9142
+valid_from: 1948-05-02
+valid_to: 1948-05-13
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480502/fr
+source_sha256: 6651cb3a3c2b05c09758d032ee377fb348e05251f28f57b6d891b06b04ee422e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -16,7 +16,7 @@ generator: akn-lu/1 · lex derive
 
 ### Art. 1er.
 
-Le Grand-Duché de Luxembourg forme un État indépendant, indivisible et inaliénable et perpétuellement neutre.
+Le Grand-Duché de Luxembourg forme un État libre, indépendant et indivisible.
 
 <a id="art_2"></a>
 
