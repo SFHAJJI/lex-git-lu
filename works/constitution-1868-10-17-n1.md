@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1979-07-13
+lex_id: lu-legilux:constitution-1868-10-17-n1:1983-12-05
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1979-07-13
-valid_to: 1983-12-04
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19790713/fr
-source_sha256: c595fb166fc3375e7541f6e20d2c7df7e03015566904191df87cf6bf8926cf7a
+valid_from: 1983-12-05
+valid_to: 1988-12-24
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19831205/fr
+source_sha256: 9d2ae9c814f5aa9547a7b7e3abcbd0c0f53c6518a393a249dfb01e62876a72a7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -40,11 +40,9 @@ La personne du Roi Grand-Duc est sacrée et inviolable.
 
 ### Art. 5.
 
-Le Grand-Duc de Luxembourg est majeur à l’âge de dix-huit ans accomplis. Lorsqu’il prend les rênes du Gouvernement, il prête, aussitôt que possible, en présence de la Chambre des Députés ou d’une députation nommée par elle, le serment suivant :
+**(1)** Le Grand-Duc de Luxembourg est majeur à l'âge de dix-huit ans accomplis. Lorsqu'il accède au trône, il prête, aussitôt que possible, en présence de la Chambre des Députés ou d'une députation nommée par elle, le serment suivant :
 
-« Je jure d’observer la Constitution et les lois du Grand-Duché de Luxembourg, de maintenir l’indépendance nationale et l’intégrité du territoire, ainsi que la liberté publique et individuelle, comme aussi les droits de tous et de chacun de Mes sujets, et d’employer à la conservation et à l’accroissement de la prospérité générale et particulière, ainsi que le doit un bon Souverain, tous les moyens que les lois mettent à Ma disposition.
-
-Ainsi Dieu me soit en aide ! »
+**(2)** «Je jure d'observer la Constitution et les lois du Grand-Duché de Luxembourg, de maintenir l'indépendance nationale et l'intégrité du territoire ainsi que les libertés publiques et individuelles.»
 
 <a id="art_6"></a>
 
@@ -64,11 +62,9 @@ En cas de vacance du Trône, la Chambre pourvoit provisoirement à la régence. 
 
 ### Art. 8.
 
-Lors de son entrée en fonctions, le Régent prête le serment suivant :
+**(1)** Lors de son entrée en fonctions, le Régent prête le serment suivant :
 
-« Je jure fidélité au Roi Grand-Duc ; Je jure d’observer la Constitution et les lois du pays.
-
-Ainsi Dieu me soit en aide ! »
+**(2)** «Je jure fidelité au Grand-Duc. Je jure d'observer la Constitution et les lois du pays.»
 
 ## **Chapitre II. ** — *Des Luxembourgeois et de leurs droits.*
 
@@ -483,11 +479,13 @@ Disposition transitoire : Le mandat des députés formant la Constituante actuel
 
 ### Art. 57.
 
-La Chambre vérifie les pouvoirs de ses membres et juge les contestations qui s’élèvent à ce sujet. – A leur entrée en fonctions, ils prêtent le serment qui suit :
+**(1)** La Chambre vérifie les pouvoirs de ses membres et juge les contestations qui s'élèvent à ce sujet.
 
-« Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l’État. – Ainsi Dieu me soit en aide ! »
+**(2)** À leur entrée en fonctions, ils prêtent le serment qui suit :
 
-Ce serment est prêté en séance publique, entre les mains du président de la Chambre.
+«Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l'État.»
+
+**(3)** Ce serment est prêté en séance publique, entre les mains du président de la Chambre.
 
 <a id="art_58"></a>
 
@@ -855,11 +853,11 @@ La ville de Luxembourg est la capitale du Grand-Duché et le siège du Gouvernem
 
 ### Art. 110.
 
-Aucun serment ne peut être imposé qu’en vertu de la loi ; elle en détermine la formule.
+**(1)** Aucun serment ne peut être imposé qu'en vertu de la loi ; elle en détermine la formule.
 
-Tous les fonctionnaires publics civils, avant d’entrer en fonctions, prêtent le serment suivant :
+**(2)** Tous les fonctionnaires publics civils, avant d'entrer en fonctions, prêtent le serment suivant :
 
-« Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l’État. – Ainsi Dieu me soit en aide ! »
+«Je jure fidelité au Grand-Duc, obéissance à la Constitution et aux lois de l'État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.»
 
 <a id="art_111"></a>
 
