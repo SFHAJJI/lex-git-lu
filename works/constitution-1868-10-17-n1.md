@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2004-11-29
+lex_id: lu-legilux:constitution-1868-10-17-n1:2005-06-28
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2004-11-29
-valid_to: 2005-06-27
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20041129/fr
-source_sha256: 96685c56e4f646b5691d72f1153d7d9fe2e37fa5757d3f1b0b55eecf20c18460
+valid_from: 2005-06-28
+valid_to: 2006-06-17
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20050628/fr
+source_sha256: aaeba5882318c6dbfc4bf94d039f3ec53890ff9b8e3d3689ac7c174d73de9e8a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -294,7 +294,7 @@ Le Grand-Duc prend les règlements et arrêtés nécessaires pour l'exécution d
 
 Le Grand-Duc fait les traités. Les traités n'aurent d'effet avant d'avoir été approuvés par la loi et publiés dans les formes prévues pour la publication des lois.
 
-Les traités visés au Chapitre III, § 4, art. 49bis, sont approuvés par une loi votée dans les conditions de l'art. 114, al. 5.
+Les traités visés au Chapitre III, § 4, art. 49bis, sont approuvés par une loi votée dans les conditions de l'article 114, alinéa 2.
 
 Les traités secrets sont abolis.
 
@@ -302,7 +302,7 @@ Le Grand-Duc fait les règlements et arrêtés nécessaires pour l'exécution de
 
 Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.
 
-Le Grand-Duc commande la force armée ; il déclare la guerre et la cessation de la guerre après y avoir été autorisé par un vote de la Chambre émis dans les conditions de l'article 114, al. 5 de la Constitution.
+Le Grand-Duc commande la force armée ; il déclare la guerre et la cessation de la guerre après y avoir été autorisé par un vote de la Chambre émis dans les conditions de l'article 114, alinéa 2 de la Constitution.
 
 <a id="art_38"></a>
 
@@ -412,13 +412,13 @@ Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parle
 
 L'organisation de la Chambre est réglée par la loi.
 
-La Chambre se compose de 60 députés. Une loi votée dans les conditions de l´art. 114, al. 5 fixe le nombre des députés à élire dans chacune des circonscriptions.
+La Chambre se compose de 60 députés. Une loi votée dans les conditions de l´article 114, alinéa 2 fixe le nombre des députés à élire dans chacune des circonscriptions.
 
 L'élection est directe.
 
 Les députés sont élus sur la base du suffrage universel pur et simple, au scrutin de liste, suivant les règles de la représentation proportionnelle, conformément au principe du plus petit quotient électoral et suivant les règles à déterminer par la loi.
 
-(6) Le pays est divisé en quatre circonscriptions électorales :
+Le pays est divisé en quatre circonscriptions électorales :
 
 - le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
 - le Centre avec les cantons de Luxembourg et Mersch ;
@@ -542,7 +542,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20041129"></a>
+<a id="art_63_20050628"></a>
 
 ### Art. 63.
 
@@ -614,7 +614,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20041129"></a>
+<a id="art_73_20050628"></a>
 
 ### Art. 73.
 
@@ -896,7 +896,7 @@ Les traitements et pensions des ministres des cultes sont à charge de l’État
 
 **(3)** Le conseil établit annuellement le budget de la commune et en arrête les comptes. Il fait les règlements communaux, sauf les cas d'urgence. Il peut établir des impositions communales, sous l'approbation du Grand-Duc. Le Grand-Duc a le droit de dissoudre le conseil.
 
-**(4)** La commune est administrée sous l'autorité du collège des bourgmestre et échevins, dont les membres doivent être choisis parmi les conseillers communaux. Les conditions de nationalité que doivent remplir les membres du collège des bourgmestre et échevins sont déterminées par une loi votée dans les conditions de l'article 114 al.5 de la Constitution.
+**(4)** La commune est administrée sous l'autorité du collège des bourgmestre et échevins, dont les membres doivent être choisis parmi les conseillers communaux. Les conditions de nationalité que doivent remplir les membres du collège des bourgmestre et échevins sont déterminées par une loi votée dans les conditions de l'article 114, alinéa 2 de la Constitution.
 
 **(5)** La loi règle la composition, l'organisation et les attributions des organes de la commune. Elle établit le statut des fonctionnaires communaux. La commune participe à la mise en oeuvre de l'enseignement de la manière fixée par la loi.
 
@@ -984,7 +984,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20041129"></a>
+<a id="art_118_20050628"></a>
 
 ### Art. 118.
 
@@ -1008,7 +1008,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20041129"></a>
+<a id="art_121_20050628"></a>
 
 ### Art. 121.
 
