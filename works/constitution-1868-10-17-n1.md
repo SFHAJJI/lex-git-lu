@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2005-06-28
+lex_id: lu-legilux:constitution-1868-10-17-n1:2006-06-18
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2005-06-28
-valid_to: 2006-06-17
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20050628/fr
-source_sha256: aaeba5882318c6dbfc4bf94d039f3ec53890ff9b8e3d3689ac7c174d73de9e8a
+valid_from: 2006-06-18
+valid_to: 2006-07-22
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060618/fr
+source_sha256: b9d84988e20f0d13e0c17f6f6f98704ddf9e49db94b713b34f7b299f1ff51647
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -542,7 +542,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20050628"></a>
+<a id="art_63_20060618"></a>
 
 ### Art. 63.
 
@@ -584,13 +584,17 @@ La Chambre ne s’occupe d’aucune pétition ayant pour objet des intérêts in
 
 ### Art. 68.
 
-Aucun député ne peut être poursuivi ou recherché à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
+Aucune action, ni civile, ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
 
 <a id="art_69"></a>
 
 ### Art. 69.
 
-Aucun député ne peut, pendant la durée de la session, être poursuivi ni arrêté en matière de répression, qu’avec l’autorisation de la Chambre, sauf le cas de flagrant délit. – Aucune contrainte par corps ne peut être exercée contre un de ses membres, durant la session, qu’avec la même autorisation. – La détention ou la poursuite d’un député est suspendue pendant la session et pour toute sa durée, si la Chambre le requiert.
+À l’exception des cas visés par l’article 68, les députés peuvent être poursuivis en matière pénale, même durant la session.
+
+Cependant, l’arrestation d’un député pendant la durée de la session est, sauf le cas de flagrant délit, soumise à l’autorisation préalable de la Chambre.
+
+L’autorisation de la Chambre n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
 
 <a id="art_70"></a>
 
@@ -614,7 +618,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20050628"></a>
+<a id="art_73_20060618"></a>
 
 ### Art. 73.
 
@@ -984,7 +988,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20050628"></a>
+<a id="art_118_20060618"></a>
 
 ### Art. 118.
 
@@ -1008,7 +1012,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20050628"></a>
+<a id="art_121_20060618"></a>
 
 ### Art. 121.
 
