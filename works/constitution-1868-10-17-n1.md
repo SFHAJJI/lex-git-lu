@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2006-06-18
+lex_id: lu-legilux:constitution-1868-10-17-n1:2006-07-23
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2006-06-18
-valid_to: 2006-07-22
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060618/fr
-source_sha256: b9d84988e20f0d13e0c17f6f6f98704ddf9e49db94b713b34f7b299f1ff51647
+valid_from: 2006-07-23
+valid_to: 2007-04-02
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060723/fr
+source_sha256: 8118b416032760ed55c2d1739d941793df548dc3d40d3f7ca8b5ee4ddd425fe2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -101,6 +101,10 @@ Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de 
 **(1)** Il n'y a dans l'État aucune distinction d'ordres.
 
 **(2)** Les Luxembourgeois sont égaux devant la loi; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
+
+(2) Les femmes et les hommes sont égaux en droits et en devoirs.
+
+L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
 
 **(3)** L'État garantit les droits naturels de la personne humaine et de la famille.
 
@@ -542,7 +546,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20060618"></a>
+<a id="art_63_20060723"></a>
 
 ### Art. 63.
 
@@ -618,7 +622,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20060618"></a>
+<a id="art_73_20060723"></a>
 
 ### Art. 73.
 
@@ -988,7 +992,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20060618"></a>
+<a id="art_118_20060723"></a>
 
 ### Art. 118.
 
@@ -1012,7 +1016,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20060618"></a>
+<a id="art_121_20060723"></a>
 
 ### Art. 121.
 
