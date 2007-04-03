@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2006-07-23
+lex_id: lu-legilux:constitution-1868-10-17-n1:2007-04-03
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2006-07-23
-valid_to: 2007-04-02
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060723/fr
-source_sha256: 8118b416032760ed55c2d1739d941793df548dc3d40d3f7ca8b5ee4ddd425fe2
+valid_from: 2007-04-03
+valid_to: 2007-11-01
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20070403/fr
+source_sha256: 818cdf13c3d19c37a3756d2374d11aef5425fe5ae1aede6b425c0f7bc2424eca
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -98,7 +98,7 @@ Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de 
 
 ### Art. 11.
 
-**(1)** Il n'y a dans l'État aucune distinction d'ordres.
+**(1)** L’État garantit les droits naturels de la personne humaine et de la famille.
 
 **(2)** Les Luxembourgeois sont égaux devant la loi; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
 
@@ -106,17 +106,25 @@ Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de 
 
 L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
 
-**(3)** L'État garantit les droits naturels de la personne humaine et de la famille.
+**(3)** L’État garantit la protection de la vie privée, sauf les exceptions fixées par la loi.
 
-**(4)** La loi garantit le droit au travail et assure à chaque citoyen l'exercice de ce droit.
+**(4)** La loi garantit le droit au travail et l’État veille à assurer à chaque citoyen l’exercice de ce droit. La loi garantit les libertés syndicales et organise le droit de grève.
 
-**(5)** La loi organise la sécurité sociale, la protection de la santé et le repos des travailleurs et garantit les libertés syndicales.
+**(5)** La loi règle quant à ses principes la sécurité sociale, la protection de la santé, les droits des travailleurs, la lutte contre la pauvreté et l’intégration sociale des citoyens atteints d’un handicap.
 
-**(6)** La loi garantit la liberté du commerce et de l'industrie, l'exercice de la profession libérale et du travail agricole, sauf les restrictions à établir par le pouvoir législatif.
+**(6)** La liberté du commerce et de l’industrie, l’exercice de la profession libérale et du travail agricole sont garantis, sauf les restrictions à établir par la loi.
 
 En matière d'exercice de la profession libérale elle peut accorder à des organes professionnels dotés de la personnalité civile le pouvoir de prendre des règlements.
 
 La loi peut soumettre ces règlements à des procédures d'approbation, d'annulation ou de suspension, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
+
+<a id="art_11bis"></a>
+
+### Art. 11bis.
+
+L’État garantit la protection de l’environnement humain et naturel, en œuvrant à l’établissement d’un équilibre durable entre la conservation de la nature, en particulier sa capacité de renouvellement, et la satisfaction des besoins des générations présentes et futures.
+
+Il promeut la protection et le bien-être des animaux.
 
 <a id="art_12"></a>
 
@@ -546,7 +554,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20060723"></a>
+<a id="art_63_20070403"></a>
 
 ### Art. 63.
 
@@ -622,7 +630,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20060723"></a>
+<a id="art_73_20070403"></a>
 
 ### Art. 73.
 
@@ -992,7 +1000,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20060723"></a>
+<a id="art_118_20070403"></a>
 
 ### Art. 118.
 
@@ -1016,7 +1024,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20060723"></a>
+<a id="art_121_20070403"></a>
 
 ### Art. 121.
 
