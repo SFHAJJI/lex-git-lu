@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2007-04-03
+lex_id: lu-legilux:constitution-1868-10-17-n1:2007-11-02
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2007-04-03
-valid_to: 2007-11-01
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20070403/fr
-source_sha256: 818cdf13c3d19c37a3756d2374d11aef5425fe5ae1aede6b425c0f7bc2424eca
+valid_from: 2007-11-02
+valid_to: 2008-04-05
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20071102/fr
+source_sha256: 8fc6ad5db0ff81134f0d8a4d19c7f6ef2b88423bbd4750638ac1ae42606d0bee
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -154,7 +154,7 @@ Le domicile est inviolable. Aucune visite domiciliaire ne peut avoir lieu que da
 
 ### Art. 16.
 
-Nul ne peut être privé de sa propriété que pour cause d’utilité publique, dans les cas et de la manière établis par la loi et moyennant une juste et préalable indemnité.
+Nul ne peut être privé de sa propriété que pour cause d’utilité publique et moyennant juste indemnité, dans les cas et de la manière établis par la loi.
 
 <a id="art_17"></a>
 
@@ -554,7 +554,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20070403"></a>
+<a id="art_63_20071102"></a>
 
 ### Art. 63.
 
@@ -630,7 +630,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20070403"></a>
+<a id="art_73_20071102"></a>
 
 ### Art. 73.
 
@@ -1000,7 +1000,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20070403"></a>
+<a id="art_118_20071102"></a>
 
 ### Art. 118.
 
@@ -1024,7 +1024,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20070403"></a>
+<a id="art_121_20071102"></a>
 
 ### Art. 121.
 
