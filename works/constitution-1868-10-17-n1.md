@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2007-11-02
+lex_id: lu-legilux:constitution-1868-10-17-n1:2008-04-06
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2007-11-02
-valid_to: 2008-04-05
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20071102/fr
-source_sha256: 8fc6ad5db0ff81134f0d8a4d19c7f6ef2b88423bbd4750638ac1ae42606d0bee
+valid_from: 2008-04-06
+valid_to: 2008-12-31
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20080406/fr
+source_sha256: 84dd467671c4f4a4b6e6ce56177a3766457ed65fd2b018c54403484c490a9b96
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -271,6 +271,12 @@ Le Grand-Duc l'exerce conformément à la présente Constitution et aux lois du 
 **(4)** Toutefois, en cas de crise internationale, le Grand-Duc peut, s'il y a urgence, prendre en toute matière des règlements, même dérogatoires à des dispositions légales existantes.
 
 La durée de validité de ces règlements est limitée à trois mois.
+
+<a id="art_32bis"></a>
+
+### Art. 32bis.
+
+Les partis politiques concourent à la formation de la volonté populaire et à l’expression du suffrage universel. Ils expriment le pluralisme démocratique.
 
 ### *§ 1er.* — *De la Prérogative du Roi Grand-Duc.*
 
@@ -554,7 +560,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20071102"></a>
+<a id="art_63_20080406"></a>
 
 ### Art. 63.
 
@@ -630,7 +636,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20071102"></a>
+<a id="art_73_20080406"></a>
 
 ### Art. 73.
 
@@ -1000,7 +1006,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20071102"></a>
+<a id="art_118_20080406"></a>
 
 ### Art. 118.
 
@@ -1024,7 +1030,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20071102"></a>
+<a id="art_121_20080406"></a>
 
 ### Art. 121.
 
