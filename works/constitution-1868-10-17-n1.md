@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2008-04-06
+lex_id: lu-legilux:constitution-1868-10-17-n1:2009-01-01
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2008-04-06
-valid_to: 2008-12-31
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20080406/fr
-source_sha256: 84dd467671c4f4a4b6e6ce56177a3766457ed65fd2b018c54403484c490a9b96
+valid_from: 2009-01-01
+valid_to: 2009-03-15
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090101/fr
+source_sha256: 618140e0a7089eda2a698a98a3a70691ad476b7ba971f255b1f14b8b27088106
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -72,13 +72,13 @@ En cas de vacance du Trône, la Chambre pourvoit provisoirement à la régence. 
 
 ### Art. 9.
 
-La qualité de Luxembourgeois s'acquiert, se conserve et se perd d'après les règles déterminées par la loi civile.
+La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi.
 
 La présente Constitution et les autres lois relatives aux droits politiques déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l'exercice de ces droits.
 
 Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_10"></a>
+<a id="art_10_20090101"></a>
 
 ### Art. 10.
 
@@ -560,7 +560,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20080406"></a>
+<a id="art_63_20090101"></a>
 
 ### Art. 63.
 
@@ -636,7 +636,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20080406"></a>
+<a id="art_73_20090101"></a>
 
 ### Art. 73.
 
@@ -1006,7 +1006,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20080406"></a>
+<a id="art_118_20090101"></a>
 
 ### Art. 118.
 
@@ -1030,7 +1030,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20080406"></a>
+<a id="art_121_20090101"></a>
 
 ### Art. 121.
 
