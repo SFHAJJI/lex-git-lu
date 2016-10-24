@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2009-03-16
+lex_id: lu-legilux:constitution-1868-10-17-n1:2016-10-24
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2009-03-16
-valid_to: 2016-10-23
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090316/fr
-source_sha256: 25125d42bb38385f6aab1c13e8a170dffb47c53e231c30a721ca33434eac8330
+valid_from: 2016-10-24
+valid_to: 2017-10-19
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20161024/fr
+source_sha256: 4df976b1bb237dbf428c766ebdcff8f5ba9b6a76014894612099e893802b2372
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -78,7 +78,7 @@ La présente Constitution et les autres lois relatives aux droits politiques dé
 
 Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_10_20090316"></a>
+<a id="art_10_20161024"></a>
 
 ### Art. 10.
 
@@ -266,7 +266,7 @@ Le Grand-Duc l'exerce conformément à la présente Constitution et aux lois du 
 
 **(2)** Le Grand-Duc n'a d'autres pouvoirs que ceux que lui attribuent formellement la Constitution et les lois particulières portées en vertu de la Constitution même, le tout sans préjudice de l'art. 3 de la présente Constitution.
 
-**(3)** Dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu'aux fins, dans les conditions et suivant les modalités spécifiées par la loi.
+**(3)** Dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et le cas échéant les conditions auxquelles elles sont soumises.
 
 **(4)** Toutefois, en cas de crise internationale, le Grand-Duc peut, s'il y a urgence, prendre en toute matière des règlements, même dérogatoires à des dispositions légales existantes.
 
@@ -560,7 +560,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20090316"></a>
+<a id="art_63_20161024"></a>
 
 ### Art. 63.
 
@@ -636,7 +636,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20090316"></a>
+<a id="art_73_20161024"></a>
 
 ### Art. 73.
 
@@ -1006,7 +1006,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20090316"></a>
+<a id="art_118_20161024"></a>
 
 ### Art. 118.
 
@@ -1030,7 +1030,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20090316"></a>
+<a id="art_121_20161024"></a>
 
 ### Art. 121.
 
