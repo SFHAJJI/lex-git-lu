@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2016-10-24
+lex_id: lu-legilux:constitution-1868-10-17-n1:2017-10-20
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2016-10-24
-valid_to: 2017-10-19
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20161024/fr
-source_sha256: 4df976b1bb237dbf428c766ebdcff8f5ba9b6a76014894612099e893802b2372
+valid_from: 2017-10-20
+valid_to: 2019-12-13
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20171020/fr
+source_sha256: 9f7b23f7fb3735d537c5baa230d6543cc35e882a33be00b7ecda05de1ffd61f3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -78,7 +78,7 @@ La présente Constitution et les autres lois relatives aux droits politiques dé
 
 Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_10_20161024"></a>
+<a id="art_10_20171020"></a>
 
 ### Art. 10.
 
@@ -268,9 +268,15 @@ Le Grand-Duc l'exerce conformément à la présente Constitution et aux lois du 
 
 **(3)** Dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et le cas échéant les conditions auxquelles elles sont soumises.
 
-**(4)** Toutefois, en cas de crise internationale, le Grand-Duc peut, s'il y a urgence, prendre en toute matière des règlements, même dérogatoires à des dispositions légales existantes.
+**(4)** En cas de crise internationale, de menaces réelles pour les intérêts vitaux de tout ou partie de la population ou de péril imminent résultant d’atteintes graves à la sécurité publique, le Grand-Duc, après avoir constaté l’urgence résultant de l’impossibilité de la Chambre des Députés de légiférer dans les délais appropriés, peut prendre en toutes matières des mesures réglementaires.
 
-La durée de validité de ces règlements est limitée à trois mois.
+Ces mesures peuvent déroger à des lois existantes. Elles doivent être nécessaires, adéquates et proportionnées au but poursuivi et être conformes à la Constitution et aux traités internationaux.
+
+La prorogation de l’état de crise au-delà de dix jours ne peut être décidée que par une ou plusieurs lois votées dans les conditions de l’article 114, alinéa 2 de la Constitution, qui en fixe la durée sans que la prorogation ne puisse dépasser une durée maximale de trois mois.
+
+Tous les règlements pris en vertu de la présente disposition cessent leurs effets au plus tard à la fin de l’état de crise.
+
+La Chambre des Députés ne peut être dissoute pendant l’état de crise.
 
 <a id="art_32bis"></a>
 
@@ -560,7 +566,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20161024"></a>
+<a id="art_63_20171020"></a>
 
 ### Art. 63.
 
@@ -636,7 +642,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20161024"></a>
+<a id="art_73_20171020"></a>
 
 ### Art. 73.
 
@@ -1006,7 +1012,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20161024"></a>
+<a id="art_118_20171020"></a>
 
 ### Art. 118.
 
@@ -1030,7 +1036,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20161024"></a>
+<a id="art_121_20171020"></a>
 
 ### Art. 121.
 
