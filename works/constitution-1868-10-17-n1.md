@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2017-10-20
+lex_id: lu-legilux:constitution-1868-10-17-n1:2019-12-14
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2017-10-20
-valid_to: 2019-12-13
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20171020/fr
-source_sha256: 9f7b23f7fb3735d537c5baa230d6543cc35e882a33be00b7ecda05de1ffd61f3
+valid_from: 2019-12-14
+valid_to: 2020-05-18
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20191214/fr
+source_sha256: 4c863bee7c1ff9b56ea4bf27872576abfb1168006e5e6d2c0daeaeadaf0ff2c7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -78,7 +78,7 @@ La présente Constitution et les autres lois relatives aux droits politiques dé
 
 Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_10_20171020"></a>
+<a id="art_10_20191214"></a>
 
 ### Art. 10.
 
@@ -444,10 +444,10 @@ Les députés sont élus sur la base du suffrage universel pur et simple, au scr
 
 Le pays est divisé en quatre circonscriptions électorales :
 
-- le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
-- le Centre avec les cantons de Luxembourg et Mersch ;
-- le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
-- l’Est avec les cantons de Grevenmacher, Remich et Echternach.
+- - le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
+- - le Centre avec les cantons de Luxembourg et Mersch ;
+- - le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
+- - l’Est avec les cantons de Grevenmacher, Remich et Echternach.
 
 Les électeurs pourront être appelés à se prononcer par la voie du referendum dans les cas et sous les conditions à déterminer par la loi.
 
@@ -566,7 +566,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20171020"></a>
+<a id="art_63_20191214"></a>
 
 ### Art. 63.
 
@@ -642,7 +642,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20171020"></a>
+<a id="art_73_20191214"></a>
 
 ### Art. 73.
 
@@ -832,9 +832,19 @@ Ces juridictions connaissent du contentieux fiscal dans les cas et sous les cond
 
 **(2)** La Cour Constitutionnelle est saisie, à titre préjudiciel, suivant les modalités à déterminer par la loi, par toute juridiction pour statuer sur la conformité des lois, à l'exception des lois portant approbation de traités, à la Constitution.
 
-**(3)** La Cour Constitutionnelle est composée du Président de la Cour Supérieure de Justice, du Président de la Cour administrative, de deux conseillers à la Cour de Cassation et de cinq magistrats nommés par le Grand-Duc, sur l'avis conjoint de la Cour Supérieure de Justice et de la Cour administrative. Les dispositions des articles 91, 92 et 93 leur sont applicables. La Cour Constitutionnelle comprend une chambre siégeant au nombre de cinq magistrats.
+**(3)** La Cour Constitutionnelle est composée :
 
-**(4)** L'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.
+1. 1. le Président de la Cour Supérieure de Justice, le Président de la Cour administrative ;
+2. deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conjoint de la Cour Supérieure de Justice et de la Cour administrative ;
+2. de sept membres suppléants nommés par le Grand-Duc, sur l’avis conjoint de la Cour Supérieure de Justice et de la Cour administrative.
+
+Les dispositions des articles 91, 92 et 93 leur sont applicables.
+
+**(4)** La Cour Constitutionnelle siège en chambre de cinq membres.
+
+Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
+
+**(5)** L'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.
 
 ## **Chapitre VII.** — * De la Force publique.*
 
@@ -1012,7 +1022,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20171020"></a>
+<a id="art_118_20191214"></a>
 
 ### Art. 118.
 
@@ -1036,7 +1046,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20171020"></a>
+<a id="art_121_20191214"></a>
 
 ### Art. 121.
 
