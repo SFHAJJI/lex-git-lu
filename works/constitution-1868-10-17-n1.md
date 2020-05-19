@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2019-12-14
+lex_id: lu-legilux:constitution-1868-10-17-n1:2020-05-19
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2019-12-14
-valid_to: 2020-05-18
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20191214/fr
-source_sha256: 4c863bee7c1ff9b56ea4bf27872576abfb1168006e5e6d2c0daeaeadaf0ff2c7
+valid_from: 2020-05-19
+valid_to: 2023-06-30
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20200519/fr
+source_sha256: d7001855f5521199c940be761e7c3c3afd0b0d08e0399d58bc4015c153b1fc68
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -78,7 +78,7 @@ La présente Constitution et les autres lois relatives aux droits politiques dé
 
 Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_10_20191214"></a>
+<a id="art_10_20200519"></a>
 
 ### Art. 10.
 
@@ -356,7 +356,7 @@ Le Roi Grand-Duc confère les ordres civils et militaires, en observant à cet �
 
 ### Art. 42.
 
-Le Roi Grand-Duc peut se faire représenter par un Prince du sang, qui aura le titre de Lieutenant du Roi et résidera dans le Grand-Duché.
+Le Roi Grand-Duc peut se faire représenter par un Prince du sang, qui aura le titre de Lieutenant du Roi Grand-Duc et résidera dans le Grand-Duché.
 
 Ce représentant prêtera serment d’observer la Constitution avant d’exercer ses pouvoirs.
 
@@ -408,9 +408,9 @@ L’interprétation des lois par voie d’autorité ne peut avoir lieu que par l
 
 ### Art. 49.
 
-La justice est rendue au nom du Roi Grand-Duc par les cours et tribunaux.
+La justice est rendue au nom du Grand-Duc par les cours et tribunaux.
 
-Les arrêtés et jugements sont exécutés au nom du Roi Grand-Duc.
+Les arrêtés et jugements sont exécutés au nom du Grand-Duc.
 
 ### *§ 4* . — Des pouvoirs internationaux
 
@@ -566,7 +566,7 @@ Toute résolution est prise à la majorité absolue des suffrages. En cas de par
 
 La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
 
-<a id="art_63_20191214"></a>
+<a id="art_63_20200519"></a>
 
 ### Art. 63.
 
@@ -642,7 +642,7 @@ Les séances de la Chambre sont tenues dans le lieu de la résidence de l’admi
 
 **(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
 
-<a id="art_73_20191214"></a>
+<a id="art_73_20200519"></a>
 
 ### Art. 73.
 
@@ -652,7 +652,7 @@ Le Roi Grand-Duc peut ajourner la Chambre. Toutefois l’ajournement ne peut exc
 
 ### Art. 74.
 
-Le Roi Grand-Duc peut dissoudre la Chambre.
+Le Grand-Duc peut dissoudre la Chambre.
 
 Il est procédé à de nouvelles élections dans les trois mois au plus tard de la dissolution.
 
@@ -846,6 +846,8 @@ Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie,
 
 **(5)** L'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.
 
+**(6)** Les dispositions des lois déclarées non conformes à la Constitution par un arrêt de la Cour Constitutionnelle cessent d’avoir un effet juridique le lendemain de la publication de cet arrêt dans les formes prévues pour la loi, à moins que la Cour Constitutionnelle n’ait ordonné un autre délai. La Cour Constitutionnelle détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d’être remis en cause.
+
 ## **Chapitre VII.** — * De la Force publique.*
 
 <a id="art_96"></a>
@@ -1022,7 +1024,7 @@ Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de tou
 
 A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
 
-<a id="art_118_20191214"></a>
+<a id="art_118_20200519"></a>
 
 ### Art. 118.
 
@@ -1046,7 +1048,7 @@ En attendant la conclusion des conventions prévues à l’art. 22, les disposit
 
 Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
 
-<a id="art_121_20191214"></a>
+<a id="art_121_20200519"></a>
 
 ### Art. 121.
 
