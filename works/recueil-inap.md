@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-inap:2021-05-07
+lex_id: lu-legilux:recueil-inap:2022-03-24
 title: Institut national d'administration publique
-valid_from: 2021-05-07
-valid_to: 2022-03-23
-source: https://legilux.public.lu/eli/etat/leg/recueil/inap/20210507/fr
-source_sha256: 8a4ab0159f99d49d1b57e78c2b430a6eae37182f8110d7eef5f35819afca4243
+valid_from: 2022-03-24
+valid_to: open
+source: https://legilux.public.lu/eli/etat/leg/recueil/inap/20220324/fr
+source_sha256: 59573c0b8250f4ce306d39591399d499fbee5eca62c6cfc05a78dfe15541690c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -1966,7 +1966,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 ## **Formations à l'I.N.A.P.**
 
-### Règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux : 1° modifiant : a) le règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Institut national d’administration publique 1. l’organisation de la commission de coordination, 2. la collaboration avec les administrations et établissements publics de l’État et 3. la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes ; b) le règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux ; et 2° abrogeant le règlement grand-ducal modifié du 27 octobre 2000 portant 1. organisation à l’Institut national d’administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes et 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux.
+### Version consolidée applicable au 24/03/2022 : Règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux : 1° modifiant : a) le règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Institut national d’administration publique 1. l’organisation de la commission de coordination, 2. la collaboration avec les administrations et établissements publics de l’État et 3. la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes ; b) le règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux ; et 2° abrogeant le règlement grand-ducal modifié du 27 octobre 2000 portant 1. organisation à l’Institut national d’administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes et 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux.
 
 #### Chapitre 1er — Organisation de la formation pendant le service provisoire pour les fonctionnaires communaux
 
@@ -1981,7 +1981,7 @@ Dans le cadre de la formation générale, les fonctionnaires en service provisoi
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les fonctionnaires en service provisoire, conformément à l’article 3 ;
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque fonctionnaire en service provisoire par le collège des bourgmestre et échevins conformément à l’article 4.
 
-<a id="art_N18A1E"></a>
+<a id="art_N18A40"></a>
 
 ### Art. 2.
 
@@ -1992,7 +1992,7 @@ La formation générale peut être organisée sous forme de :
 3. études personnelles ;
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N18A3F"></a>
+<a id="art_N18A83"></a>
 
 ### Art. 3.
 
@@ -2020,7 +2020,7 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, le fonctionnaire en service provisoire est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N18B29"></a>
+<a id="art_N18B8F"></a>
 
 ### Art. 4.
 
@@ -2061,7 +2061,7 @@ La demande mentionne :
 
 La demande doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que le fonctionnaire en service provisoire a effectivement participé à la formation en question.
 
-<a id="art_N18BE9"></a>
+<a id="art_N18C71"></a>
 
 ### Art. 5.
 
@@ -2069,19 +2069,19 @@ Une journée de formation de 6 heures est considérée comme une journée d’ac
 
 Une demi-journée de formation de 3 heures de formation est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N18C02"></a>
+<a id="art_N18CAC"></a>
 
 ### Art. 6.
 
 Le temps de formation générale est considéré comme période d’activité de service.
 
-<a id="art_N18C12"></a>
+<a id="art_N18CDE"></a>
 
 ### Art. 7.
 
 Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune, une dispense de la participation à une ou plusieurs formations du tronc commun ou d’un certain nombre d’heures de formation au choix peut être accordée au fonctionnaire en service provisoire par le chargé de direction pour des raisons exceptionnelles dûment motivées.
 
-<a id="art_N18C22"></a>
+<a id="art_N18D10"></a>
 
 ### Art. 8.
 
@@ -2091,7 +2091,7 @@ Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de c
 
 ##### *Section 2* — *Examen d’admission définitive*
 
-<a id="art_N18C5B"></a>
+<a id="art_N18D6B"></a>
 
 ### Art. 9.
 
@@ -2099,7 +2099,7 @@ L’examen d’admission définitive des fonctionnaires en service provisoire co
 
 ##### *Section 3* — *Examen de fin de formation générale*
 
-<a id="art_N18C7D"></a>
+<a id="art_N18DAF"></a>
 
 ### Art. 10.
 
@@ -2115,13 +2115,13 @@ Dans ce cas, une dispense de participation de ce fonctionnaire en service provis
 
 **(4)** Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation générale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.
 
-<a id="art_N18CD6"></a>
+<a id="art_N18E2A"></a>
 
 ### Art. 11.
 
 Lors des différentes épreuves de l’examen de fin de formation générale, il peut être procédé à un contrôle d’identité des fonctionnaires en service provisoire.
 
-<a id="art_N18CE6"></a>
+<a id="art_N18E5C"></a>
 
 ### Art. 12.
 
@@ -2129,7 +2129,7 @@ Au cours des épreuves de l’examen de fin de formation générale, toute commu
 
 Le fonctionnaire en service provisoire qui contrevient à l’une de ces interdictions au cours d’une épreuve de l’examen de fin de formation générale est considéré comme ayant échoué à l’examen de fin de formation générale.
 
-<a id="art_N18CFF"></a>
+<a id="art_N18E97"></a>
 
 ### Art. 13.
 
@@ -2149,7 +2149,7 @@ Un échec à l’examen de fin de formation générale entraîne pour le fonctio
 
 À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le fonctionnaire en service provisoire obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation générale.
 
-<a id="art_N18D6A"></a>
+<a id="art_N18F24"></a>
 
 ### Art. 14.
 
@@ -2181,7 +2181,7 @@ Si l’observateur ne présente pas de remarque particulière, le procès-verbal
 
 L’observateur peut également informer directement le ministre par une note écrite s’il a constaté un fait grave pouvant mettre en cause la validité de l’examen.
 
-<a id="art_N18E11"></a>
+<a id="art_N18FED"></a>
 
 ### Art. 15.
 
@@ -2191,7 +2191,7 @@ L’observateur peut également informer directement le ministre par une note é
 
 Le secret des questions est à observer jusqu’au début de l’épreuve de l’examen de fin de formation générale concernée. Toute violation de ce secret équivaut à une violation de l’article 13 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
 
-<a id="art_N18E47"></a>
+<a id="art_N19045"></a>
 
 ### Art. 16.
 
@@ -2221,27 +2221,21 @@ Les points obtenus dans chacune des épreuves de l’examen de fin de formation 
 
 ##### *Section 4* — *Examen de fin de formation spéciale*
 
-<a id="art_N18EC5"></a>
+<a id="art_N190E5"></a>
 
 ### Art. 17.
 
 La formation spéciale prévue à l’article 7 de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique est organisée par le ministre de l’Intérieur.
 
-La formation s’adresse aux fonctionnaires en service provisoire énumérés à l’article 4, paragraphe 1er, points 1°, 4°, 6° et 8°. Les cours en question ont trait à l’organisation personnelle du travail des agents en question et à leur rôle au sein de leur administration.
-
-Pour ces agents, l’examen de fin de formation spéciale est organisé conformément aux dispositions du règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux.
-
-<a id="art_N18EF6"></a>
+<a id="art_N1914B"></a>
 
 ### Art. 18.
 
-Pour les fonctionnaires en service provisoire énumérés à l’article 4, paragraphe 1er, points 2°, 3°, 5°, 7° et 9°, l’examen de fin de formation spéciale porte sur les épreuves prévues à l’article 51 du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux.
-
-Les conditions de réussite à l’examen en question sont celles prévues à l’article 13.
+Les conditions de réussite à l’examen de fin de formation spéciale sont celles prévues à l’article 13.
 
 ##### *Section 5* — *Mise en compte des résultats des deux parties de l’examen d’admission définitive*
 
-<a id="art_N18F2A"></a>
+<a id="art_N1919E"></a>
 
 ### Art. 19.
 
@@ -2255,7 +2249,7 @@ Pour tout calcul, les fractions de points sont arrondies en faveur du fonctionna
 
 ##### *Section 6* — *Plan d’insertion professionnelle*
 
-<a id="art_N18F7F"></a>
+<a id="art_N19215"></a>
 
 ### Art. 20.
 
@@ -2265,7 +2259,7 @@ Le plan d’insertion professionnelle prévu à l’article 4, paragraphes 4 et 
 2. la remise d’un livret d’accueil ;
 3. l’établissement d’un carnet de stage pour les fonctionnaires en service provisoire des carrières visées à l’article 4.
 
-<a id="art_N18FA3"></a>
+<a id="art_N1925B"></a>
 
 ### Art. 21.
 
@@ -2295,7 +2289,7 @@ Les rapports intermédiaires et le rapport final comprennent un avis du patron d
 
 Les rapports intermédiaires et le rapport final sont portés à la connaissance du fonctionnaire en service provisoire. Celui-ci peut, à chaque fois, présenter ses observations, qui sont à joindre chaque fois à ces rapports.
 
-<a id="art_N19031"></a>
+<a id="art_N1930B"></a>
 
 ### Art. 22.
 
@@ -2316,7 +2310,7 @@ Le livret d’accueil est remis au fonctionnaire en service provisoire au moment
 5. une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, le cas échéant, sur le système des permanences à assurer ;
 6. un plan détaillé concernant l’organisation de la formation spéciale, le programme à étudier pour l’examen de fin de for­mation spéciale ainsi que les dates de l’examen de fin de formation spéciale.
 
-<a id="art_N190A2"></a>
+<a id="art_N1939E"></a>
 
 ### Art. 23.
 
@@ -2349,7 +2343,7 @@ Le patron de stage est tenu de compléter le carnet de stage avec toutes les pi�
 
 #### Chapitre 2 — Organisation de la formation de début de carrière des employés communaux
 
-<a id="art_N19123"></a>
+<a id="art_N19441"></a>
 
 ### Art. 24.
 
@@ -2358,7 +2352,7 @@ Dans le cadre de la formation de début de carrière, les employés communaux su
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 26 ;
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune conformément à l’article 27.
 
-<a id="art_N1913E"></a>
+<a id="art_N1947E"></a>
 
 ### Art. 25.
 
@@ -2369,7 +2363,7 @@ La formation de début de carrière peut être organisée sous forme de :
 3. études personnelles ;
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N1915F"></a>
+<a id="art_N194C1"></a>
 
 ### Art. 26.
 
@@ -2397,7 +2391,22 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, l’employé communal est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N19249"></a>
+**(5)** Le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune peut demander que des formations organisées par une entité communale soient assimilées à la formation du tronc commun.
+
+Il en est de même pour les formations organisées par des organismes agréés par le ministre ayant l’Éducation nationale dans ses attributions ou par des services ou administrations relevant du ministre précité.
+
+La demande d’assimilation est faite par écrit et adressée au ministre. Ce dernier prend une décision après avoir entendu le chargé de direction en son avis.
+
+Une telle demande d’assimilation mentionne :
+
+1. le sujet de la formation accompagné d’un bref descriptif ;
+2. l’organisme ayant assuré la formation ;
+3. la date et le lieu du déroulement de la formation ;
+4. la durée effective de la formation.
+
+La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
+
+<a id="art_N1961E"></a>
 
 ### Art. 27.
 
@@ -2428,7 +2437,7 @@ Une telle demande d’assimilation mentionne :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
 
-<a id="art_N192E0"></a>
+<a id="art_N196D7"></a>
 
 ### Art. 28.
 
@@ -2436,13 +2445,13 @@ Une journée de formation de 6 heures de formation est considérée comme une jo
 
 Une demi-journée de formation de 3 heures est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N192F9"></a>
+<a id="art_N19712"></a>
 
 ### Art. 29.
 
 Le temps de formation de début de carrière est considéré comme période d’activité de service.
 
-<a id="art_N19309"></a>
+<a id="art_N19744"></a>
 
 ### Art. 30.
 
@@ -2450,7 +2459,7 @@ Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de c
 
 #### Chapitre 3 — Relation entre l’Institut et les chargés de cours
 
-<a id="art_N19325"></a>
+<a id="art_N19782"></a>
 
 ### Art. 31.
 
@@ -2464,37 +2473,37 @@ Le cas échéant, le chargé de direction peut proposer au ministre la révocati
 
 #### Chapitre 4 — Dispositions modificatives, abrogatoires et transitoires
 
-<a id="art_N1935C"></a>
+<a id="art_N197DB"></a>
 
 ### Art. 32.
 
 L’article 1er du règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux est remplacé comme suit :« Art. 1er.La formation spéciale s’applique aux fonctionnaires en service provisoire énumérés à l’article 4, paragraphe 1er, points 1°, 4°, 6° et 8° du règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux. ».
 
-<a id="art_N19396"></a>
+<a id="art_N19837"></a>
 
 ### Art. 33.
 
 L’article 4 du même règlement est remplacé comme suit :« Art. 4.Est admissible à l’examen de fin de formation spéciale, le fonctionnaire en service provisoire qui a suivi l’intégralité des formations de la formation spéciale prévues, à moins d’en avoir été dispensé par le ministre ayant les Affaires intérieures dans ses attributions, en application de l’alinéa 2. La demande d’admissibilité à l’examen de fin de formation spéciale est adressée par le fonctionnaire en service provisoire au ministre ayant les Affaires intérieures dans ses attributions.Une dispense de participation à une ou plusieurs formations de la formation spéciale peut être accordée au fonctionnaire en service provisoire par le ministre précité pour des raisons exceptionnelles dûment motivées.Le ministre ayant les Affaires intérieures dans ses attributions examine les conditions de formation spéciale requises du fonctionnaire en service provisoire et statue sur l’admissibilité du fonctionnaire en service provisoire. L’admissibilité à l’examen de fin de formation spéciale peut être prononcée même si le fonctionnaire en service provisoire n’a pas encore passé l’examen de fin de formation générale à l’Institut national d’administration publique.Le ministre précité informe le fonctionnaire en service provisoire de sa décision. ».
 
-<a id="art_N193DC"></a>
+<a id="art_N1989F"></a>
 
 ### Art. 34.
 
 À l’article 6 du même règlement, le dernier alinéa est remplacé par huit alinéas nouveaux, qui prennent la teneur suivante :« Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation spéciale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.A réussi à l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une note suffisante dans chacune des épreuves de l’examen de fin de formation spéciale.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen ou qui a obtenu une note insuffisante dans plus d’une épreuve de l’examen de fin de formation spéciale.Est ajourné à une épreuve de l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une seule note insuffisante dans l’épreuve de l’examen de fin de formation spéciale concernée.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu une note suffisante dans la matière dans laquelle il a été ajourné.Un échec à l’examen de fin de formation spéciale entraîne pour le candidat la possibilité de se présenter une seconde fois à cet examen.Le fait pour le candidat de ne pas se présenter une seconde fois à l’examen de fin de formation spéciale ou de subir un deuxième échec à l’examen de fin de formation spéciale est éliminatoire.Lorsque le candidat est absent lors d’une épreuve de l’examen de fin de formation spéciale, il est tenu de transmettre au ministre ayant les Affaires intérieures dans ses attributions, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le ministre ayant les Affaires intérieures dans ses attributions l’inscrit à une nouvelle épreuve de l’examen de fin de formation spéciale de la formation concernée.À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le candidat obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation spéciale. ».
 
-<a id="art_N19446"></a>
+<a id="art_N1992B"></a>
 
 ### Art. 35.
 
 Les articles 16 à 21 du règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Institut national d’administration publique 1. l’organisation de la commission de coordination, 2. la collaboration avec les administrations et établissements publics de l’État et 3. la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes sont abrogés.
 
-<a id="art_N1945C"></a>
+<a id="art_N19963"></a>
 
 ### Art. 36.
 
 Les articles 13 à 16, 21, 22, 26 et 27 du règlement grand-ducal modifié du 27 octobre 2000 portant 1. organisation à l’Institut national d’administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes, 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux sont abrogés.
 
-<a id="art_N19477"></a>
+<a id="art_N199A0"></a>
 
 ### Art. 37.
 
@@ -2506,13 +2515,13 @@ Pour les fonctionnaires en service provisoire, qui ont réussi à l’examen de 
 
 #### Chapitre 5 — Dispositions finales
 
-<a id="art_N194CC"></a>
+<a id="art_N19A17"></a>
 
 ### Art. 38.
 
 La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux ».
 
-<a id="art_N194DC"></a>
+<a id="art_N19A4E"></a>
 
 ### Art. 39.
 
@@ -2528,7 +2537,7 @@ Notre ministre ayant les Affaires communales dans ses attributions et Notre mini
 
 ### Règlement grand-ducal du 5 mars 2004 déterminant les emplois dans les administrations de l'Etat et les établissements publics pour lesquels la connaissance de l'une ou de l'autre des trois langues administratives n'est pas reconnue nécessaire en raison de la nature et du niveau de responsabilité de ces emplois.
 
-<a id="art_N196DE"></a>
+<a id="art_N19C72"></a>
 
 ### Art. 1er.
 
@@ -2545,7 +2554,7 @@ Dans le secteur de l'enseignement sont désignés comme emplois pour lesquels la
 - collaborateur scientifique-Service de Coordination de la Recherche et de l'Innovation Pédagogiques et Technologiques
 - informaticien-Centre de Technologie de l'Education
 
-<a id="art_N19720"></a>
+<a id="art_N19CB4"></a>
 
 ### Art. 2.
 
@@ -2553,7 +2562,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 ### Version consolidée applicable au 25/04/2017 : Règlement grand-ducal du 12 mai 2010 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l'Etat et des établissements publics.
 
-<a id="art_N19744"></a>
+<a id="art_N19CD8"></a>
 
 ### Art. 1er.
 
@@ -2563,7 +2572,7 @@ A l’exception des carrières d’enseignant de l’enseignement fondamental et
 
 Les contrôles des langues administratives du stagiaire visé à l’article 2, paragraphe 3, alinéa 7 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat se font conformément aux dispositions du présent règlement.
 
-<a id="art_N19795"></a>
+<a id="art_N19D29"></a>
 
 ### Art. 2.
 
@@ -2575,7 +2584,7 @@ Le ministre du ressort duquel relève le poste vacant de fonctionnaire et le min
 
 L’Institut informe les candidats de la date et des modalités des épreuves de langues.
 
-<a id="art_N197EC"></a>
+<a id="art_N19D80"></a>
 
 ### Art. 3.
 
@@ -2603,7 +2612,7 @@ L’Institut informe les candidats de la date et des modalités des épreuves de
 
 Le candidat qui, conformément à l’article 5 du présent règlement, a obtenu une dispense de l’épreuve dans une des trois langues est considéré être dispensé dans sa première langue. Il choisira pour les deux langues qui entrent en considération pour les épreuves de langues entre le niveau de compétences de la deuxième et le niveau de compétences de la troisième langue.
 
-<a id="art_N19898"></a>
+<a id="art_N19E2C"></a>
 
 ### Art. 4.
 
@@ -2642,7 +2651,7 @@ Si le résultat obtenu est inférieur aux 3/5 du maximum des points pouvant êtr
 
 **6.** L’institut communique le résultat au candidat et au ministre ayant demandé l’évaluation.
 
-<a id="art_N1997D"></a>
+<a id="art_N19F11"></a>
 
 ### Art. 5.
 
@@ -2658,7 +2667,7 @@ Le candidat qui a accompli au moins sept années de sa scolarité au Grand-Duch�
 
 Le candidat qui peut se prévaloir d’un certificat de compétences de langues, établi suivant le «Cadre européen commun de référence pour les langues» et attestant qu’il dispose du ou des niveaux de compétences requis conformément aux dispositions de l’article 3 bénéficie d’une dispense de la langue ou des langues correspondantes.
 
-<a id="art_N199DC"></a>
+<a id="art_N19F70"></a>
 
 ### Art. 6.
 
@@ -2666,7 +2675,7 @@ Chaque année le ministre ayant dans ses attributions la Fonction publique publi
 
 Les copies et les enregistrements des examens sont la propriété de l’Institut national d’administration publique et sont conservés pendant deux ans aux archives de l’Institut.
 
-<a id="art_N19A17"></a>
+<a id="art_N19FAB"></a>
 
 ### Art. 7.
 
@@ -2674,7 +2683,7 @@ Le règlement grand-ducal modifié du 9 décembre 1994 fixant les modalités du 
 
 Toutefois, il reste applicable aux fonctionnaires et employés de l’Etat des carrières d’enseignant de l’enseignement fondamental et de l’enseignement postprimaire ainsi que des carrières d’enseignant et d’agent socio-éducatif de l’Education différenciée.
 
-<a id="art_N19A57"></a>
+<a id="art_N19FEB"></a>
 
 ### Art. 8.
 
