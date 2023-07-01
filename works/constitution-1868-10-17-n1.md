@@ -1,16 +1,18 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:2020-05-19
+lex_id: lu-legilux:constitution-1868-10-17-n1:2023-07-01
 title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 2020-05-19
-valid_to: 2023-06-30
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20200519/fr
-source_sha256: d7001855f5521199c940be761e7c3c3afd0b0d08e0399d58bc4015c153b1fc68
+valid_from: 2023-07-01
+valid_to: open
+source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/fr
+source_sha256: efe907e6ae0363f41771ae3195e6108a54cd5ef31fbe23e36fb763a0fb4f1d66
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
 ---
 
-## **Chapitre Ier. ** — *****De l'État, de son territoire et du Grand-Duc.***
+## Chapitre Ier. — De l’État, de son territoire et de ses habitants
+
+### Section 1re. — De l’État, de sa forme politique et de la souveraineté
 
 <a id="art_1er"></a>
 
@@ -22,51 +24,59 @@ Le Grand-Duché de Luxembourg est un État démocratique, libre, indépendant et
 
 ### Art. 2.
 
-Les limites et chefs-lieux des arrondissements judiciaires ou administratifs, des cantons et des communes ne peuvent être changés qu’en vertu d’une loi.
+Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parlementaire. Il a la forme d’une monarchie constitutionnelle.
+
+Il est fondé sur les principes d’un État de droit et sur le respect des droits de l’Homme.
 
 <a id="art_3"></a>
 
 ### Art. 3.
 
-La Couronne du Grand-Duché est héréditaire dans la famille de Nassau, conformément au pacte du 30 juin 1783, à l’art. 71 du traité de Vienne du 9 juin 1815 et à l’art. 1er du traité de Londres du 11 mai 1867.
+La souveraineté réside dans la Nation dont émanent les pouvoirs de l’État.
 
 <a id="art_4"></a>
 
 ### Art. 4.
 
-La personne du Grand-Duc est inviolable.
+**(1)** La langue du Grand-Duché de Luxembourg est le luxembourgeois. La loi règle l’emploi des langues luxembourgeoise, française et allemande.
+
+**(2)** L’emblème national est le drapeau tricolore rouge, blanc, bleu.
+
+**(3)** La loi définit les armoiries de l’État.
+
+**(4)** L’hymne national est « Ons Heemecht ».
 
 <a id="art_5"></a>
 
 ### Art. 5.
 
-**(1)** Le Grand-Duc de Luxembourg est majeur à l'âge de dix-huit ans accomplis. Lorsqu'il accède au trône, il prête, aussitôt que possible, en présence de la Chambre des Députés ou d'une députation nommée par elle, le serment suivant :
+Le Grand-Duché de Luxembourg participe à l’intégration européenne.
 
-**(2)** «Je jure d'observer la Constitution et les lois du Grand-Duché de Luxembourg, de maintenir l'indépendance nationale et l'intégrité du territoire ainsi que les libertés publiques et individuelles.»
+L’exercice de pouvoirs de l’État peut être transféré à l’Union européenne et à des institutions internationales par une loi adoptée dans les conditions de l’article 131, alinéa 2, de la Constitution.
+
+### Section 2. — Du territoire
 
 <a id="art_6"></a>
 
 ### Art. 6.
 
-Si à la mort du Roi Grand-Duc Son successeur est mineur, la régence est exercée conformément au pacte de famille.
+Toute cession, tout échange, toute adjonction de territoire ne peut avoir lieu qu’en vertu d’une loi adoptée à la majorité qualifiée.
 
 <a id="art_7"></a>
 
 ### Art. 7.
 
-Si le Roi Grand-Duc se trouve dans l’impossibilité de régner, il est pourvu à la régence comme dans le cas de minorité.
-
-En cas de vacance du Trône, la Chambre pourvoit provisoirement à la régence. – Une nouvelle Chambre, convoquée en nombre double dans le délai de trente jours, pourvoit définitivement à la vacance.
+Les limites et les chefs-lieux des cantons, des communes et des arrondissements judiciaires sont déterminés par la loi.
 
 <a id="art_8"></a>
 
 ### Art. 8.
 
-**(1)** Lors de son entrée en fonctions, le Régent prête le serment suivant :
+La Ville de Luxembourg est la capitale du Grand-Duché de Luxembourg et le siège des institutions constitutionnelles.
 
-**(2)** «Je jure fidelité au Grand-Duc. Je jure d'observer la Constitution et les lois du pays.»
+## Chapitre II. — Des droits et libertés
 
-## **Chapitre II. -** — * Des libertés publiques et des droits fondamentaux.*
+### Section 1re. — De la nationalité et des droits politiques
 
 <a id="art_9"></a>
 
@@ -74,984 +84,1120 @@ En cas de vacance du Trône, la Chambre pourvoit provisoirement à la régence. 
 
 La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi.
 
-La présente Constitution et les autres lois relatives aux droits politiques déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l'exercice de ces droits.
-
-Par dérogation à l'alinéa qui précède, la loi peut conférer l'exercice de droits politiques à des non-Luxembourgeois.
-
-<a id="art_10_20200519"></a>
+<a id="art_10"></a>
 
 ### Art. 10.
 
-**(1)** La naturalisation est accordée par le pouvoir législatif.
+**(1)** Les Luxembourgeois jouissent de la plénitude des droits politiques qu’ils exercent dans les conditions déterminées par la Constitution et les lois.
 
-**(2)** La loi détermine les effets de la naturalisation.
-
-<a id="art_10bis"></a>
-
-### Art. 10bis.
-
-**(1)** Les Luxembourgeois sont égaux devant la loi.
-
-**(2)** Ils sont admissibles à tous les emplois publics, civils et militaires ; la loi détermine l'admissibilité des non-Luxembourgeois à ces emplois.
+**(2)** Sans préjudice de l’article 64, la loi peut conférer l’exercice de droits politiques à des non-Luxembourgeois.
 
 <a id="art_11"></a>
 
 ### Art. 11.
 
-**(1)** L’État garantit les droits naturels de la personne humaine et de la famille.
+La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourgeois les emplois publics comportant une participation directe ou indirecte à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’État.
 
-**(2)** Les Luxembourgeois sont égaux devant la loi; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
-
-(2) Les femmes et les hommes sont égaux en droits et en devoirs.
-
-L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
-
-**(3)** L’État garantit la protection de la vie privée, sauf les exceptions fixées par la loi.
-
-**(4)** La loi garantit le droit au travail et l’État veille à assurer à chaque citoyen l’exercice de ce droit. La loi garantit les libertés syndicales et organise le droit de grève.
-
-**(5)** La loi règle quant à ses principes la sécurité sociale, la protection de la santé, les droits des travailleurs, la lutte contre la pauvreté et l’intégration sociale des citoyens atteints d’un handicap.
-
-**(6)** La liberté du commerce et de l’industrie, l’exercice de la profession libérale et du travail agricole sont garantis, sauf les restrictions à établir par la loi.
-
-En matière d'exercice de la profession libérale elle peut accorder à des organes professionnels dotés de la personnalité civile le pouvoir de prendre des règlements.
-
-La loi peut soumettre ces règlements à des procédures d'approbation, d'annulation ou de suspension, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
-
-<a id="art_11bis"></a>
-
-### Art. 11bis.
-
-L’État garantit la protection de l’environnement humain et naturel, en œuvrant à l’établissement d’un équilibre durable entre la conservation de la nature, en particulier sa capacité de renouvellement, et la satisfaction des besoins des générations présentes et futures.
-
-Il promeut la protection et le bien-être des animaux.
+### Section 2. — Des droits fondamentaux
 
 <a id="art_12"></a>
 
 ### Art. 12.
 
-La liberté individuelle est garantie. – Nul ne peut être poursuivi que dans les cas prévus par la loi et dans la forme qu'elle prescrit. – Nul ne peut être arrêté ou placé que dans les cas prévus par la loi et dans la forme qu'elle prescrit. – Hors le cas de flagrant délit, nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge, qui doit être signifiée au moment de l'arrestation, ou au plus tard dans les vingt-quatre heures. – Toute personne doit être informée sans délai des moyens de recours légaux dont elle dispose pour recouvrer sa liberté.
+La dignité humaine est inviolable.
 
 <a id="art_13"></a>
 
 ### Art. 13.
 
-Nul ne peut être distrait contre son gré du juge que la loi lui assigne.
+**(1)** Toute personne a droit à son intégrité physique et mentale.
+
+**(2)** Nul ne peut être soumis à la torture ni à des peines ou traitements inhumains et dégradants.
+
+La peine de mort ne peut pas être établie.
 
 <a id="art_14"></a>
 
 ### Art. 14.
 
-Nulle peine ne peut être établie ni appliquée qu’en vertu de la loi.
+Toute personne a droit à la liberté de pensée, de conscience et de religion.
+
+### Section 3. — Des libertés publiques
 
 <a id="art_15"></a>
 
 ### Art. 15.
 
-Le domicile est inviolable. Aucune visite domiciliaire ne peut avoir lieu que dans les cas prévus par la loi et dans la forme qu’elle prescrit.
+**(1)** Les Luxembourgeois sont égaux devant la loi.
+
+La loi peut prévoir une différence de traitement qui procède d’une disparité objective et qui est rationnellement justifiée, adéquate et proportionnée à son but.
+
+**(2)** Nul ne peut être discriminé en raison de sa situation ou de circonstances personnelles.
+
+**(3)** Les femmes et les hommes sont égaux en droits et en devoirs.
+
+L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
+
+**(4)** Toute personne a le droit de fonder une famille.
+
+Toute personne a droit au respect de sa vie familiale.
+
+**(5)** Dans toute décision qui le concerne, l’intérêt de l’enfant est pris en considération de manière primordiale.
+
+Chaque enfant peut exprimer son opinion librement sur toute question qui le concerne. Son opinion est prise en considération, eu égard à son âge et à son discernement.
+
+Chaque enfant a droit à la protection, aux mesures et aux soins nécessaires à son bien-être et son développement.
+
+**(6)** Toute personne handicapée a le droit de jouir de façon égale de tous les droits.
 
 <a id="art_16"></a>
 
 ### Art. 16.
 
-Nul ne peut être privé de sa propriété que pour cause d’utilité publique et moyennant juste indemnité, dans les cas et de la manière établis par la loi.
+Tout non-Luxembourgeois qui se trouve sur le territoire du Grand-Duché, jouit de la protection accordée aux personnes et aux biens, sauf les exceptions établies par la loi.
 
 <a id="art_17"></a>
 
 ### Art. 17.
 
-La peine de la confiscation des biens ne peut être établie.
+**(1)** La liberté individuelle est garantie.
+
+**(2)** Nul ne peut être poursuivi, arrêté ou privé de sa liberté que dans les cas prévus et dans la forme déterminée par la loi.
+
+**(3)** Sauf le cas de flagrant délit, nul ne peut être arrêté qu’en vertu d’une décision de justice motivée, qui doit être notifiée au moment de l’arrestation ou au plus tard dans les vingt-quatre heures.
+
+**(4)** Toute personne accusée d’une infraction est présumée innocente jusqu’à ce que sa culpabilité ait été légalement établie.
+
+Toute personne doit être informée sans délai des raisons de son arrestation ou de la privation de sa liberté, des accusations portées contre elle et des moyens de recours légaux dont elle dispose pour recouvrer sa liberté.
 
 <a id="art_18"></a>
 
 ### Art. 18.
 
-La peine de mort ne peut être établie.
+Toute personne a droit à ce que sa cause soit portée devant la juridiction prévue par la loi.
+
+Nul ne peut être distrait contre son gré du juge que la loi lui assigne.
 
 <a id="art_19"></a>
 
 ### Art. 19.
 
-La liberté des cultes, celle de leur exercice public, ainsi que la liberté de manifester ses opinions religieuses, sont garanties, sauf la répression des délits commis à l’occasion de l’usage de ces libertés.
+Nulle peine ne peut être établie ni appliquée qu’en vertu de la loi.
+
+Nul ne peut être condamné pour une action ou omission qui, au moment où elle a été commise, ne constituait pas une infraction prévue par la loi.
+
+Nul ne peut être condamné à une peine plus forte que celle qui était applicable au moment où l’infraction a été commise.
 
 <a id="art_20"></a>
 
 ### Art. 20.
 
-Nul ne peut être contraint de concourir d’une manière quelconque aux actes et aux cérémonies d’un culte ni d’en observer les jours de repos.
+Toute personne a droit au respect de sa vie privée.
 
 <a id="art_21"></a>
 
 ### Art. 21.
 
-Le mariage civil devra toujours précéder la bénédiction nuptiale.
+Le domicile est inviolable. Aucune visite domiciliaire ne peut avoir lieu que dans les cas prévus et dans la forme déterminée par la loi.
 
 <a id="art_22"></a>
 
 ### Art. 22.
 
-L’intervention de l’État dans la nomination et l’installation des chefs des cultes, le mode de nomination et de révocation des autres ministres des cultes, la faculté pour les uns et les autres de correspondre avec leurs supérieurs et de publier leurs actes, ainsi que les rapports de l’Église avec l’État, font l’objet de conventions à soumettre à la Chambre des Députés pour les dispositions qui nécessitent son intervention.
+Aucun serment ne peut être imposé qu’en vertu de la loi, qui en détermine la formule.
 
 <a id="art_23"></a>
 
 ### Art. 23.
 
-L'État veille à l'organisation de l'instruction primaire, qui sera obligatoire et gratuite et dont l'accès doit être garanti àtoute personne habitant le Grand-Duché. L'assistance médicale et sociale sera réglée par la loi.
+La liberté de manifester ses opinions et la liberté de la presse sont garanties, hormis les infractions commises à l’occasion de l’exercice de ces libertés.
 
-Il crée des établissements d'instruction moyenne gratuite et les cours d'enseignement supérieur nécessaires.
-
-La loi détermine les moyens de subvenir à l'instruction publique ainsi que les conditions de surveillance par le Gouvernement et les communes ; elle règle pour le surplus tout ce qui est relatif à l'enseignement et prévoit, selon des critères qu'elle détermine, un système d'aides financières en faveur des élèves et étudiants.
-
-Chacun est libre de faire ses études dans le Grand-Duché ou à l'étranger et de fréquenter les universités de son choix, sauf les dispositions de la loi sur les conditions d'admission aux emplois et à l'exercice de certaines professions.
+La censure ne peut pas être établie.
 
 <a id="art_24"></a>
 
 ### Art. 24.
 
-La liberté de manifester ses opinions par la parole en toutes matières, et la liberté de la presse sont garanties, sauf la répression des délits commis à l'occasion de l'exercice de ces libertés. - La censure ne pourra jamais être établie.
+La liberté de manifester ses convictions philosophiques ou religieuses, celle d’adhérer ou de ne pas adhérer à une religion sont garanties, hormis les infractions commises à l’occasion de l’exercice de ces libertés.
+
+La liberté des cultes et celle de leur exercice sont garanties, hormis les infractions commises à l’occasion de l’exercice de ces libertés.
+
+Nul ne peut être contraint de concourir d’une manière quelconque aux actes et aux cérémonies d’un culte ni d’en observer les jours de repos.
 
 <a id="art_25"></a>
 
 ### Art. 25.
 
-La Constitution garantit le droit de s'assembler paisiblement et sans armes, dans le respect des lois qui règlent l'exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable. - Cette disposition ne s'applique pas aux rassemblements en plein air, politiques, religieux ou autres ; ces rassemblements restent entièrement soumis aux lois et règlements de police.
+Toute personne a le droit, dans le respect de la loi, à la liberté de réunion pacifique. Ce droit ne peut être soumis à autorisation préalable que pour des rassemblements en plein air dans un lieu accessible au public.
 
 <a id="art_26"></a>
 
 ### Art. 26.
 
-La Constitution garantit le droit d'association, dans le respect des lois qui règlent l'exercice de ce droit, sans pouvoir le soumettre à une autorisation préalable.
+Le droit d’association est garanti. Son exercice est régi par la loi qui ne peut pas le soumettre à autorisation préalable.
 
 <a id="art_27"></a>
 
 ### Art. 27.
 
-Chacun a le droit d’adresser aux autorités publiques, des pétitions signées par une ou plusieurs personnes. Les autorités constituées ont seules le droit d’adresser des pétitions en nom collectif.
+Les partis politiques concourent à la formation de la volonté populaire et à l’expression du suffrage universel. Ils expriment le pluralisme démocratique.
 
 <a id="art_28"></a>
 
 ### Art. 28.
 
-Le secret des lettres est inviolable. – La loi détermine quels sont les agents responsables de la violation du secret des lettres confiées à la poste.
+Les libertés syndicales sont garanties.
 
-La loi réglera la garantie à donner au secret des télégrammes.
+La loi organise l’exercice du droit de grève.
 
 <a id="art_29"></a>
 
 ### Art. 29.
 
-La loi réglera l'emploi des langues en matière administrative et judiciaire.
+Toute personne a le droit d’adresser aux autorités publiques des requêtes signées par une ou plusieurs personnes.
+
+Les autorités publiques sont tenues de répondre dans un délai raisonnable aux demandes écrites des requérants.
 
 <a id="art_30"></a>
 
 ### Art. 30.
 
-Nulle autorisation préalable n’est requise pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l’égard des membres du Gouvernement.
+Toute personne a droit à l’inviolabilité de ses communications.
+
+Aucune restriction ne peut être apportée à ce droit, sauf dans les cas prévus par la loi et sous les conditions et contrôles qu’elle détermine.
 
 <a id="art_31"></a>
 
 ### Art. 31.
 
-Les fonctionnaires publics, à quelque ordre qu’ils appartiennent, les membres du Gouvernement exceptés, ne peuvent être privés de leurs fonctions, honneurs et pensions que de la manière déterminée par la loi.
-
-## **Chapitre III. ** — ***De la Puissance souveraine.*
+Toute personne a droit à l’autodétermination informationnelle et à la protection des données à caractère personnel la concernant. Ces données ne peuvent être traitées qu’à des fins et dans les conditions déterminées par la loi.
 
 <a id="art_32"></a>
 
 ### Art. 32.
 
-**(1)** La puissance souveraine réside dans la Nation.
-
-Le Grand-Duc l'exerce conformément à la présente Constitution et aux lois du pays.
-
-**(2)** Le Grand-Duc n'a d'autres pouvoirs que ceux que lui attribuent formellement la Constitution et les lois particulières portées en vertu de la Constitution même, le tout sans préjudice de l'art. 3 de la présente Constitution.
-
-**(3)** Dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et le cas échéant les conditions auxquelles elles sont soumises.
-
-**(4)** En cas de crise internationale, de menaces réelles pour les intérêts vitaux de tout ou partie de la population ou de péril imminent résultant d’atteintes graves à la sécurité publique, le Grand-Duc, après avoir constaté l’urgence résultant de l’impossibilité de la Chambre des Députés de légiférer dans les délais appropriés, peut prendre en toutes matières des mesures réglementaires.
-
-Ces mesures peuvent déroger à des lois existantes. Elles doivent être nécessaires, adéquates et proportionnées au but poursuivi et être conformes à la Constitution et aux traités internationaux.
-
-La prorogation de l’état de crise au-delà de dix jours ne peut être décidée que par une ou plusieurs lois votées dans les conditions de l’article 114, alinéa 2 de la Constitution, qui en fixe la durée sans que la prorogation ne puisse dépasser une durée maximale de trois mois.
-
-Tous les règlements pris en vertu de la présente disposition cessent leurs effets au plus tard à la fin de l’état de crise.
-
-La Chambre des Députés ne peut être dissoute pendant l’état de crise.
-
-<a id="art_32bis"></a>
-
-### Art. 32bis.
-
-Les partis politiques concourent à la formation de la volonté populaire et à l’expression du suffrage universel. Ils expriment le pluralisme démocratique.
-
-### *§ 1er.* — *De la Prérogative du Roi Grand-Duc.*
+Le droit d’asile est garanti dans les conditions déterminées par la loi.
 
 <a id="art_33"></a>
 
 ### Art. 33.
 
-Le Grand-Duc est le chef de l'État, symbole de son unité et garant de l'indépendance nationale. Il exerce le pouvoir exécutif conformément à la Constitution et aux lois du pays.
+**(1)** Toute personne a droit à l’éducation.
+
+**(2)** L’État organise l’enseignement et en garantit l’accès.
+
+La durée de l’enseignement obligatoire est déterminée par la loi.
+
+L’enseignement public fondamental et secondaire est gratuit.
+
+**(3)** La liberté de l’enseignement s’exerce dans le respect des valeurs d’une société démocratique fondée sur les droits fondamentaux et les libertés publiques.
+
+L’intervention de l’État dans l’enseignement privé est déterminée par la loi.
+
+**(4)** Toute personne est libre de faire ses études au Luxembourg ou à l’étranger, de fréquenter les universités de son choix. Les conditions de la reconnaissance des diplômes sont déterminées par la loi.
 
 <a id="art_34"></a>
 
 ### Art. 34.
 
-Le Grand-Duc promulgue les lois dans les trois mois du vote de la Chambre.
+La sécurité sociale, la protection de la santé et les droits des travailleurs sont réglés par la loi quant à leurs principes.
 
 <a id="art_35"></a>
 
 ### Art. 35.
 
-Le Roi Grand-Duc nomme aux emplois civils et militaires, conformément à la loi, et sauf les exceptions établies par elle.
-
-Aucune fonction salariée par l’État ne peut être créée qu’en vertu d’une disposition législative.
+L’exercice de la liberté du commerce et de l’industrie ainsi que de la profession libérale et de l’activité agricole est garanti, sauf les restrictions déterminées par la loi.
 
 <a id="art_36"></a>
 
 ### Art. 36.
 
-Le Grand-Duc prend les règlements et arrêtés nécessaires pour l'exécution des lois.
+Nul ne peut être privé de sa propriété que pour cause d’utilité publique et moyennant juste indemnité, dans les cas et de la manière déterminés par la loi.
 
 <a id="art_37"></a>
 
 ### Art. 37.
 
-Le Grand-Duc fait les traités. Les traités n'aurent d'effet avant d'avoir été approuvés par la loi et publiés dans les formes prévues pour la publication des lois.
+Toute limitation de l’exercice des libertés publiques doit être prévue par la loi et respecter leur contenu essentiel. Dans le respect du principe de proportionnalité, des limitations ne peuvent être apportées que si elles sont nécessaires dans une société démocratique et répondent effectivement à des objectifs d’intérêt général ou au besoin de protection des droits et libertés d’autrui.
 
-Les traités visés au Chapitre III, § 4, art. 49bis, sont approuvés par une loi votée dans les conditions de l'article 114, alinéa 2.
-
-Les traités secrets sont abolis.
-
-Le Grand-Duc fait les règlements et arrêtés nécessaires pour l'exécution des traités dans les formes qui règlent les mesures d'exécution des lois et avec les effets qui s'attachent à ces mesures, sans préjudice des matières qui sont réservées par la Constitution à la loi.
-
-Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu'en vertu d'une loi.
-
-Le Grand-Duc commande la force armée ; il déclare la guerre et la cessation de la guerre après y avoir été autorisé par un vote de la Chambre émis dans les conditions de l'article 114, alinéa 2 de la Constitution.
+### Section 4. — Des objectifs à valeur constitutionnelle
 
 <a id="art_38"></a>
 
 ### Art. 38.
 
-Le Roi Grand-Duc a le droit de remettre ou de réduire les peines prononcées par les juges, sauf ce qui est statué relativement aux membres du Gouvernement.
+L’État garantit le droit au travail et veille à assurer l’exercice de ce droit.
 
 <a id="art_39"></a>
 
 ### Art. 39.
 
-Le Roi Grand-Duc a le droit de battre monnaie en exécution de la loi.
+L’État promeut le dialogue social.
 
 <a id="art_40"></a>
 
 ### Art. 40.
 
-Le Roi Grand-Duc a le droit de conférer des titres de noblesse, sans pouvoir jamais y attacher aucun privilège.
+L’État veille à ce que toute personne puisse vivre dignement et disposer d’un logement approprié.
 
 <a id="art_41"></a>
 
 ### Art. 41.
 
-Le Roi Grand-Duc confère les ordres civils et militaires, en observant à cet égard ce que la loi prescrit.
+L’État garantit la protection de l’environnement humain et naturel, en œuvrant à l’établissement d’un équilibre durable entre la conservation de la nature, en particulier sa capacité de renouvellement, ainsi que la sauvegarde de la biodiversité, et la satisfaction des besoins des générations présentes et futures.
+
+L’État s’engage à lutter contre le dérèglement climatique et à œuvrer en faveur de la neutralité climatique.
+
+Il reconnaît aux animaux la qualité d’êtres vivants non humains dotés de sensibilité et veille à protéger leur bien-être.
 
 <a id="art_42"></a>
 
 ### Art. 42.
 
-Le Roi Grand-Duc peut se faire représenter par un Prince du sang, qui aura le titre de Lieutenant du Roi Grand-Duc et résidera dans le Grand-Duché.
+L’État garantit l’accès à la culture et le droit à l’épanouissement culturel.
 
-Ce représentant prêtera serment d’observer la Constitution avant d’exercer ses pouvoirs.
+L’État promeut la protection du patrimoine culturel.
 
 <a id="art_43"></a>
 
 ### Art. 43.
 
-La liste civile est fixée à trois cent mille francs-or par an.
+L’État promeut la liberté de la recherche scientifique réalisée dans le respect des valeurs d’une société démocratique fondée sur les droits fondamentaux et les libertés publiques.
 
-Elle peut être changée par la loi au commencement de chaque règne. La loi budgétaire peut allouer chaque année à la Maison Souveraine les sommes nécessaires pour couvrir les frais de représentation.
+## Chapitre III. — Du Grand-Duc
+
+### Section 1re. — De la fonction du Chef de l’État
 
 <a id="art_44"></a>
 
 ### Art. 44.
 
-Le Palais Grand-Ducal à Luxembourg et le Château de Berg sont réservés à l'habitation du Grand-Duc.
+**(1)** Le Grand-Duc est le Chef de l’État.
+
+Il représente l’État. Il est le symbole de l’unité et de l’indépendance nationales.
+
+Sa personne est inviolable.
+
+**(2)** Le Grand-Duc n’a d’autres attributions que celles que lui accordent la Constitution et les lois.
+
+Il exerce conjointement avec le Gouvernement le pouvoir exécutif.
+
+**(3)** Les dispositions du Grand-Duc doivent être contresignées par un membre du Gouvernement, qui en assume la responsabilité.
 
 <a id="art_45"></a>
 
 ### Art. 45.
 
-Les dispositions du Grand-Duc doivent être contresignées par un membre du Gouvernement responsable.
+**(1)** Le Grand-Duc prend les règlements et arrêtés nécessaires pour l’exécution des lois.
 
-### *§ 2.* — *De la Législation.*
+**(2)** Dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et le cas échéant les conditions auxquelles elles sont soumises.
+
+**(3)** Il prend les règlements nécessaires pour l’application des actes juridiques de l’Union européenne.
+
+Dans les matières réservées à la loi par la Constitution, ces règlements ne peuvent être pris qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et, le cas échéant, les conditions auxquelles elles sont soumises. Dans les conditions déterminées par la loi, ces règlements peuvent déroger aux dispositions légales existantes ou remplacer celles-ci.
 
 <a id="art_46"></a>
 
 ### Art. 46.
 
-L’assentiment de la Chambre des Députés est requis pour toute loi.
+Le Grand-Duc fait et défait les traités. Les traités et, sauf clause spécifique dans un traité, leur dénonciation n’ont d’effet qu’après avoir été approuvés par la loi. Ils sont publiés dans les formes prévues pour la publication des lois.
+
+Le Grand-Duc fait les règlements et arrêtés nécessaires pour l’exécution des traités dans les formes qui règlent les mesures d’exécution des lois et avec les effets qui s’attachent à ces mesures, sans préjudice des matières qui sont réservées par la Constitution à la loi.
 
 <a id="art_47"></a>
 
 ### Art. 47.
 
-Le Roi Grand-Duc adresse à la Chambre les propositions ou projets de lois qu’il veut soumettre à son adoption.
-
-La Chambre a le droit de proposer au Roi Grand-Duc des projets de lois.
+Dans l’exercice du pouvoir lui attribué par les articles 45, paragraphes 1er et 3, alinéa 1er, et 46, alinéa 2, le Grand-Duc peut, dans les cas qu’il détermine, charger les membres de son Gouvernement de prendre des mesures d’exécution.
 
 <a id="art_48"></a>
 
 ### Art. 48.
 
-L’interprétation des lois par voie d’autorité ne peut avoir lieu que par la loi.
+En cas de crise internationale, de menaces réelles pour les intérêts vitaux de tout ou partie de la population ou de péril imminent résultant d’atteintes graves à la sécurité publique, le Grand-Duc, après avoir constaté l’urgence résultant de l’impossibilité de la Chambre des Députés de légiférer dans les délais appropriés, peut prendre en toutes matières des mesures réglementaires.
 
-### *§ 3.* — *De la Justice.*
+Ces mesures peuvent déroger à des lois existantes. Elles doivent être nécessaires, adéquates et proportionnées au but poursuivi et être conformes à la Constitution et aux traités internationaux.
+
+La prorogation de l’état de crise au-delà de dix jours ne peut être décidée que par une ou plusieurs lois, qui en fixent la durée sans que la prorogation puisse dépasser une durée maximale de trois mois. Ces lois sont adoptées avec une majorité qualifiée des deux tiers des suffrages des députés, les votes par procuration n’étant pas admis.
+
+Tous les règlements pris en vertu de la présente disposition cessent leurs effets au plus tard à la fin de l’état de crise.
+
+La Chambre des Députés ne peut être dissoute pendant l’état de crise.
 
 <a id="art_49"></a>
 
 ### Art. 49.
 
-La justice est rendue au nom du Grand-Duc par les cours et tribunaux.
-
-Les arrêtés et jugements sont exécutés au nom du Grand-Duc.
-
-### *§ 4* . — Des pouvoirs internationaux
-
-<a id="art_49bis"></a>
-
-### Art. 49bis.
-
-L'exercice d'attributions réservées par la Constitution aux pouvoirs législatif, exécutif et judiciaire peut être temporairement dévolu par traité à des institutions de droit international.
-
-## **Chapitre IV. ** — ***De la Chambre des Députés.*
+Le Grand-Duc promulgue les lois dans les trois mois de leur adoption par la Chambre des Députés.
 
 <a id="art_50"></a>
 
 ### Art. 50.
 
-La Chambre des Députés représente le pays. – Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que les intérêts généraux du Grand-Duché.
+**(1)** Le Grand-Duc nomme aux emplois publics, conformément à la loi, et sauf les exceptions établies par elle.
+
+**(2)** Aucune fonction salariée par l’État ne peut être créée qu’en vertu d’une loi.
+
+**(3)** Le statut des fonctionnaires de l’État est déterminé par la loi.
 
 <a id="art_51"></a>
 
 ### Art. 51.
 
-Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parlementaire.
-
-L'organisation de la Chambre est réglée par la loi.
-
-La Chambre se compose de 60 députés. Une loi votée dans les conditions de l´article 114, alinéa 2 fixe le nombre des députés à élire dans chacune des circonscriptions.
-
-L'élection est directe.
-
-Les députés sont élus sur la base du suffrage universel pur et simple, au scrutin de liste, suivant les règles de la représentation proportionnelle, conformément au principe du plus petit quotient électoral et suivant les règles à déterminer par la loi.
-
-Le pays est divisé en quatre circonscriptions électorales :
-
-- - le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
-- - le Centre avec les cantons de Luxembourg et Mersch ;
-- - le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
-- - l’Est avec les cantons de Grevenmacher, Remich et Echternach.
-
-Les électeurs pourront être appelés à se prononcer par la voie du referendum dans les cas et sous les conditions à déterminer par la loi.
+Le Grand-Duc a le droit, dans les conditions déterminées par la loi, de remettre ou de réduire les peines prononcées par les juridictions.
 
 <a id="art_52"></a>
 
 ### Art. 52.
 
-Pour être électeur, il faut :
-
-1. être Luxembourgeois ou Luxembourgeoise ;
-2. jouir des droits civils et politiques ;
-3. être âgé de dix-huit ans accomplis.
-
-Il faut en outre réunir à ces trois qualités celles déterminées par la loi. Aucune condition de cens ne pourra être exigée.
-
-Pour être éligible, il faut :
-
-1. être Luxembourgeois ou Luxembourgeoise ;
-2. jouir des droits civils et politiques ;
-3. être âgé de dix-huit ans accomplis ;
-4. être domicilié dans le Grand-Duché.
-
-Aucune autre condition d'éligibilité ne pourra être requise.
+Le Grand-Duc a le droit de conférer des titres de noblesse aux membres de la famille grand-ducale, sans pouvoir jamais y attacher de privilège.
 
 <a id="art_53"></a>
 
 ### Art. 53.
 
-Ne peuvent être ni électeurs ni éligibles :
+**(1)** Le Grand-Duc porte le titre de commandant de l’armée. Ce commandement est exercé sous la responsabilité du Gouvernement.
 
-1. les condamnés à des peines criminelles ;
-2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation ;
-3. les majeurs en tutelle ;
-
-Aucun autre cas d'exclusion ne pourra être prévu.
-
-Le droit de vote peut être rendu par la voie de grâce aux personnes qui l'ont perdu par condamnation pénale.
+**(2)** Le Grand-Duc confère les ordres civils et militaires, en observant la loi.
 
 <a id="art_54"></a>
 
 ### Art. 54.
 
-**(I)** Le mandat de député est incompatible :
+Le Grand-Duc, l’ancien Chef de l’État, le Grand-Duc Héritier, le Régent et le Lieutenant-Représentant touchent sur le budget de l’État une dotation annuelle, dont les éléments et le montant sont fixés par la loi.
 
-1. avec les fonctions de membre du Gouvernement ;
-2. avec celles de membre du Conseil d'État ;
-3. avec celles de magistrat de l'Ordre judiciaire ;
-4. avec celles de membre de la Chambre des comptes ;
-5. avec celles de commissaire de district ;
-6. avec celles de receveur ou agent comptable de l'État ;
-7. avec celles de militaire de carrière en activité de service.
-
-**(2)** Les fonctionnaires se trouvant dans un cas d'incompatibilité ont le droit d'opter entre le mandat leur confié et leurs fonctions.
-
-**(3)** Le député qui a été appelé aux fonctions de membre du Gouvernement et qui quitte ces fonctions, est réinscrit de plein droit comme premier suppléant sur la liste sur laquelle il a été élu.
-
-Il en sera de même du député-suppléant qui, appelé aux fonctions de membre du Gouvernement, aura renoncé au mandat de député lui échu au cours de ces fonctions.
-
-En cas de concours entre plusieurs ayants droit, la réinscription sera faite dans l'ordre des voix obtenues aux élections.
+Le Grand-Duc, tenant compte de l’intérêt public, définit et organise son administration qui jouit de la personnalité juridique.
 
 <a id="art_55"></a>
 
 ### Art. 55.
 
-Les incompatibilités prévues par l’article précédent ne font pas obstacle à ce que la loi n’en établisse d’autres dans l’avenir.
+Le Palais Grand-Ducal à Luxembourg et le Château de Berg sont réservés à l’habitation du Grand-Duc.
+
+### Section 2. — De la monarchie constitutionnelle
 
 <a id="art_56"></a>
 
 ### Art. 56.
 
-Les députés sont élus pour cinq ans.
+**(1)** La fonction de Chef de l’État est héréditaire dans la descendance directe de Son Altesse Royale Adolphe, Grand-Duc de Luxembourg, Duc de Nassau, par ordre de primogéniture et par représentation. Seuls les enfants nés d’un mariage ont le droit de succéder.
 
-Disposition transitoire : Le mandat des députés formant la Constituante actuelle expirera le premier dimanche du mois de juin 1959.
+**(2)** La personne en droit de succéder peut y renoncer. Cette renonciation intervient sous forme d’un acte écrit qui est irrévocable et dont les effets ne s’appliquent qu’à l’auteur.
+
+Lorsque des circonstances exceptionnelles le commandent, la Chambre des Députés peut exclure une ou plusieurs personnes de l’ordre de succession par une loi adoptée à la majorité qualifiée.
+
+**(3)** À défaut de successeur, la Chambre des Députés se réunit au plus tard dans les trente jours du décès ou de l’abdication du Grand-Duc en vue de désigner un nouveau Chef de l’État. La décision est adoptée à la majorité qualifiée.
+
+**(4)** L’abdication du Grand-Duc requiert la forme d’un acte écrit qui est irrévocable.
 
 <a id="art_57"></a>
 
 ### Art. 57.
 
-**(1)** La Chambre vérifie les pouvoirs de ses membres et juge les contestations qui s'élèvent à ce sujet.
+**(1)** Le Grand-Duc exerce la fonction de Chef de l’État à partir du moment où il a prêté devant la Chambre des Députés le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir fidèlement mes attributions constitutionnelles. ».
 
-**(2)** À leur entrée en fonctions, ils prêtent le serment qui suit :
+**(2)** Le serment est prêté au plus tard le dixième jour qui suit le décès, l’abdication ou la désignation du Grand-Duc dans les conditions de l’article 56, paragraphe 3.
 
-«Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l'État.»
-
-**(3)** Ce serment est prêté en séance publique, entre les mains du président de la Chambre.
+**(3)** Le refus de prêter le serment comporte renonciation à la fonction de Chef de l’État.
 
 <a id="art_58"></a>
 
 ### Art. 58.
 
-Le député, nommé par le Gouvernement à un emploi salarié qu’il accepte, cesse immédiatement de siéger, et ne reprend ses fonctions qu’en vertu d’une nouvelle élection.
+Le Grand-Duc peut se faire représenter par une personne qui remplit les conditions de l’article 56, paragraphe 1er, et qui porte le titre de Lieutenant-Représentant du Grand-Duc.
+
+Le Lieutenant-Représentant du Grand-Duc n’entre en fonction qu’après avoir prêté devant la Chambre des Députés le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir fidèlement mes attributions constitutionnelles ».
 
 <a id="art_59"></a>
 
 ### Art. 59.
 
-Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. – Il y aura un intervalle d’au moins trois mois entre les deux votes.
+Si au décès du Grand-Duc, ou à la date de son abdication, son successeur est mineur, la Chambre des Députés se réunit dans les dix jours à l’effet de pourvoir, sur proposition du Gouvernement, à la régence.
+
+Si le Grand-Duc se trouve dans l’impossibilité temporaire de remplir ses attributions constitutionnelles ou de prêter le serment prévu à l’article 57, le Gouvernement en informe la Chambre des Députés, qui se réunit dans les dix jours à l’effet de constater cette impossibilité et de pourvoir à la régence.
+
+La régence ne peut être confiée qu’à une seule personne, qui doit être majeure et faire partie des personnes visées à l’article 56, paragraphe 1er.
+
+Le Régent n’entre en fonction qu’après avoir prêté devant la Chambre des Députés le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir fidèlement mes attributions constitutionnelles. ».
+
+La régence prend fin à la majorité du successeur ou à la cessation de l’impossibilité temporaire du Grand-Duc de remplir ses attributions constitutionnelles.
+
+Le Gouvernement en informe la Chambre des Députés, qui se réunit dans les dix jours à l’effet de mettre fin à la régence.
 
 <a id="art_60"></a>
 
 ### Art. 60.
 
-À chaque session, la Chambre nomme son président et ses vice-présidents et compose son bureau.
+Si le Grand-Duc ne remplit pas ses attributions constitutionnelles, la Chambre des Députés, à la demande du Gouvernement, le Conseil d’État entendu en son avis, décide à la majorité qualifiée qu’il y a lieu de considérer que le Grand-Duc a abdiqué.
 
 <a id="art_61"></a>
 
 ### Art. 61.
 
-Les séances de la Chambre sont publiques, sauf les exceptions à déterminer par le règlement.
+À partir du décès du Grand-Duc, de son abdication ou du constat de son impossibilité de remplir ses attributions constitutionnelles, jusqu’à la prestation de serment du successeur, la fonction de Chef de l’État est exercée par le Gouvernement. Il en est de même en cas de décès ou de démission du Régent.
+
+## Chapitre IV. — De la Chambre des Députés
+
+### Section 1re. — De la représentation du pays
 
 <a id="art_62"></a>
 
 ### Art. 62.
 
-Toute résolution est prise à la majorité absolue des suffrages. En cas de partage des voix, la proposition mise en délibération est rejetée.
+La Chambre des Députés représente le pays. Elle exerce le pouvoir législatif. Elle contrôle l’action du Gouvernement.
 
-La Chambre ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
+Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que l’intérêt général.
 
-<a id="art_63_20200519"></a>
+<a id="art_63"></a>
 
 ### Art. 63.
 
-Sur l´ensemble des lois le vote intervient toujours par appel nominal.
+**(1)** La Chambre se compose de soixante députés.
+
+**(2)** Les députés sont élus pour cinq ans.
+
+**(3)** L’élection est directe. Elle a lieu sur la base du suffrage universel, au scrutin de liste, suivant les règles de la représentation proportionnelle, conformément au principe du plus petit quotient électoral.
+
+Le vote est obligatoire et secret. Ses modalités sont déterminées par la loi.
+
+**(4)** Le pays est divisé en quatre circonscriptions électorales :
+
+1. le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
+2. le Centre avec les cantons de Luxembourg et Mersch ;
+3. le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
+4. l’Est avec les cantons de Grevenmacher, Remich et Echternach.
+
+Une loi adoptée à la majorité qualifiée fixe le nombre des députés à élire dans chacune des circonscriptions.
 
 <a id="art_64"></a>
 
 ### Art. 64.
 
-La Chambre a le droit d’enquête. La loi règle l’exercice de ce droit.
+**(1)** Pour être électeur, il faut être Luxembourgeois et être âgé de dix-huit ans.
+
+**(2)** Pour être éligible, il faut en outre être domicilié au Grand-Duché de Luxembourg.
+
+**(3)** Les juridictions peuvent, dans les cas prévus par la loi, prononcer l’interdiction du droit de vote et d’éligibilité.
 
 <a id="art_65"></a>
 
 ### Art. 65.
 
-La Chambre vote sur l'ensemble de la loi. Ce vote intervient toujours par appel nominal.
+Le mandat de député est incompatible avec la fonction de membre du Gouvernement et celle de membre du Conseil d’État.
 
-À la demande de cinq députés au moins, le vote sur l'ensemble de la loi peut être précédé par un vote portant sur un ou plusieurs articles de la loi.
-
-Le vote par procuration est admis. Nul ne peut toutefois recevoir plus d'une procuration.
+Cette même incompatibilité s’applique aux emplois et fonctions publics à déterminer par une loi adoptée à la majorité qualifiée. Elle peut être étendue à d’autres mandats politiques à déterminer par une loi adoptée à la majorité qualifiée.
 
 <a id="art_66"></a>
 
 ### Art. 66.
 
-La Chambre a le droit d’amender et de diviser les articles et les amendements proposés.
+**(1)** Le député, nommé par le Gouvernement à un emploi rémunéré qu’il accepte, cesse immédiatement de siéger et ne reprend sa fonction qu’en vertu d’une nouvelle élection.
+
+**(2)** Le député, appelé à la fonction de membre du Gouvernement, perd son mandat de député. Il est réinscrit sur la liste sur laquelle il a été élu comme suppléant dans l’ordre des suffrages obtenus.
+
+Il en est de même du député suppléant qui, appelé à la fonction de membre du Gouvernement, renonce au mandat de député lui échu au cours de cette fonction.
+
+En cas de concours entre plusieurs ayants droit, la réinscription est faite dans l’ordre des suffrages obtenus aux élections.
+
+**(3)** Les personnes qui se trouvent dans un cas d’incompatibilité ont le droit d’opter entre le mandat de député et leur emploi ou activité.
+
+### Section 2. — De l’organisation et du fonctionnement de la Chambre des Députés
 
 <a id="art_67"></a>
 
 ### Art. 67.
 
-Il est interdit de présenter en personne des pétitions à la Chambre.
+**(1)** La Chambre des Députés se réunit en séance publique de plein droit le troisième mardi suivant la date des élections pour vérifier les pouvoirs de ses membres.
 
-La Chambre a le droit de renvoyer aux membres du Gouvernement les pétitions qui lui sont adressées. – Les membres du Gouvernement donneront des explications sur leur contenu, chaque fois que la Chambre le demandera.
+**(2)** Il appartient à la Chambre des Députés de constater que l’un de ses membres a perdu la qualité de député en raison de la survenance, en cours de mandat, d’une cause d’inéligibilité au sens de l’article 64 ou d’une incompatibilité au sens de l’article 65.
 
-La Chambre ne s’occupe d’aucune pétition ayant pour objet des intérêts individuels, à moins qu’elle ne tende au redressement de griefs résultant d’actes illégaux posés par le Gouvernement ou les autorités, ou que la décision à intervenir ne soit de la compétence de la Chambre.
+**(3)** Un recours contre ces décisions est ouvert devant la Cour Constitutionnelle. Les modalités de ce recours sont réglées par la loi.
+
+**(4)** À leur entrée en fonction, les députés prêtent en séance publique le serment qui suit : « Je jure d’observer la Constitution et les lois et de remplir ma fonction avec intégrité, exactitude et impartialité. ».
+
+**(5)** La réunion en séance publique de la Chambre des Députés issue des élections au sens du paragraphe 1er fait cesser les fonctions de la Chambre des Députés issue des élections précédentes.
 
 <a id="art_68"></a>
 
 ### Art. 68.
 
-Aucune action, ni civile, ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
+La Chambre des Députés détermine par son Règlement le mode suivant lequel elle exerce ses attributions ainsi que son organisation matérielle et financière, y compris le statut de ses fonctionnaires.
+
+Le Règlement de la Chambre des Députés détermine les mesures d’exécution des lois qui concernent son organisation.
 
 <a id="art_69"></a>
 
 ### Art. 69.
 
-À l’exception des cas visés par l’article 68, les députés peuvent être poursuivis en matière pénale, même durant la session.
-
-Cependant, l’arrestation d’un député pendant la durée de la session est, sauf le cas de flagrant délit, soumise à l’autorisation préalable de la Chambre.
-
-L’autorisation de la Chambre n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
+La Chambre des Députés nomme son président et ses vice-présidents et compose son bureau.
 
 <a id="art_70"></a>
 
 ### Art. 70.
 
-La Chambre détermine par son règlement le mode suivant lequel elle exerce ses attributions.
+Les séances de la Chambre des Députés sont publiques, sauf les exceptions à déterminer par son Règlement.
 
 <a id="art_71"></a>
 
 ### Art. 71.
 
-Les séances de la Chambre sont tenues dans le lieu de la résidence de l’administration du Grand-Duché.
+La Chambre des Députés ne peut prendre de décision, résolution et motion qu’autant que la majorité des députés se trouve réunie.
+
+Toute décision, toute résolution, toute motion est prise à la majorité des suffrages. Les abstentions n’entrent pas en ligne de compte pour le calcul de la majorité. Le vote par procuration est admis. Nul ne peut toutefois recevoir plus d’une procuration.
+
+Les décisions et les résolutions dont l’adoption requiert la majorité qualifiée en vertu de la Constitution doivent réunir au moins les deux tiers des suffrages des députés, le vote par procuration n’étant pas admis.
 
 <a id="art_72"></a>
 
 ### Art. 72.
 
-**(1)** La Chambre se réunit chaque année en session ordinaire, à l'époque fixée par le règlement.
+Le Règlement de la Chambre des Députés détermine les règles de majorité pour la désignation de personnes à des mandats ou fonctions à laquelle procède la Chambre des Députés.
 
-**(2)** Le Grand-Duc peut convoquer la Chambre extraordinairement ; il doit le faire sur la demande d'un tiers des députés.
-
-**(3)** Toute session est ouverte et close par le Grand-Duc en personne, ou bien en son nom par un fondé de pouvoirs nommé à cet effet.
-
-<a id="art_73_20200519"></a>
+<a id="art_73"></a>
 
 ### Art. 73.
 
-Le Roi Grand-Duc peut ajourner la Chambre. Toutefois l’ajournement ne peut excéder le terme d’un mois, ni être renouvelé dans la même session, sans l’assentiment de la Chambre.
+Le Grand-Duc ne peut fixer des élections anticipées que si la Chambre des Députés, à la majorité de ses membres, soit rejette une motion de confiance au Gouvernement, soit adopte une motion de censure à l’égard du Gouvernement.
+
+En cas de démission du Gouvernement, le Grand-Duc, après avoir reçu l’assentiment de la Chambre des Députés exprimé à la majorité absolue des députés, fixe des élections anticipées.
+
+Les nouvelles élections ont lieu au plus tard dans les trois mois.
+
+Le Grand-Duc ne peut pas fixer des élections anticipées pendant l’état de crise.
 
 <a id="art_74"></a>
 
 ### Art. 74.
 
-Le Grand-Duc peut dissoudre la Chambre.
-
-Il est procédé à de nouvelles élections dans les trois mois au plus tard de la dissolution.
+Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent être entendus quand ils le demandent.
 
 <a id="art_75"></a>
 
 ### Art. 75.
 
-Les membres de la Chambre des députés toucheront, outre leurs frais de déplacement, une indemnité, dont le montant et les conditions sont fixés par la loi.
+Aux fins d’exercer les missions prévues à l’article 62, la Chambre des Députés peut :
 
-## **Chapitre V. ** — *Du Gouvernement du Grand-Duché.*
+1. demander la présence d’un ou de plusieurs membres du Gouvernement ;
+2. adresser au Gouvernement des questions et interpellations auxquelles le Gouvernement est tenu de répondre ;
+3. requérir de la part du Gouvernement tous informations et documents ;
+4. adopter une motion de confiance ou de censure à l’égard du Gouvernement.
+
+L’exercice de ces prérogatives est organisé par le Règlement de la Chambre des Députés.
+
+### Section 3. — De l’adoption des lois
 
 <a id="art_76"></a>
 
 ### Art. 76.
 
-Le Roi Grand-Duc règle l’organisation de son Gouvernement, lequel est composé de trois membres au moins.
-
-Dans l'exercice du pouvoir lui attribué par les articles 36 et 37, alinéa 4 de la Constitution, le Grand-Duc peut, dans les cas qu'il détermine, charger les membres de son Gouvernement de prendre des mesures d’exécution.
-
-Il y aura, à côté du Gouvernement, un conseil appelé à délibérer sur les projets de loi et les amendements qui pourraient y être proposés, à régler les questions du contentieux administratif, et à donner son avis sur toutes autres questions qui lui seront déférées par le Roi Grand-Duc ou par les lois. – L’organisation de ce conseil et la manière d’exercer ses attributions sont réglées par la loi.
+Le Gouvernement dépose à la Chambre des Députés des projets de loi.
 
 <a id="art_77"></a>
 
 ### Art. 77.
 
-Le Roi Grand-Duc nomme et révoque les membres du Gouvernement.
+Chaque député a le droit de soumettre des propositions de loi à la Chambre des Députés.
 
 <a id="art_78"></a>
 
 ### Art. 78.
 
-Les membres du Gouvernement sont responsables.
+**(1)** Les lois sont adoptées par la Chambre des Députés.
+
+**(2)** La Chambre des Députés peut amender les projets de loi et les propositions de loi.
+
+**(3)** La Chambre des Députés vote sur l’ensemble de la loi. Le vote est toujours nominal.
+
+À la demande de cinq députés au moins, le vote sur l’ensemble de la loi peut être précédé par un vote portant sur un ou plusieurs articles de la loi.
+
+**(4)** Toutes les lois sont soumises à un second vote, à moins que la Chambre des Députés, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. Il y aura un intervalle d’au moins trois mois entre les deux votes.
+
+### Section 4. — Des autres attributions de la Chambre des Députés
 
 <a id="art_79"></a>
 
 ### Art. 79.
 
-Il n’y a entre les membres du Gouvernement et le Roi Grand-Duc aucune autorité intermédiaire.
+La Chambre des Députés se prononce en séance publique sur les propositions motivées aux fins de légiférer, présentées par cent vingt-cinq et soutenues par douze mille cinq cents électeurs au moins.
+
+La loi règle l’exercice de ce droit d’initiative législative.
 
 <a id="art_80"></a>
 
 ### Art. 80.
 
-Les membres du Gouvernement ont entrée dans la Chambre et doivent être entendus quand ils le demandent.
-
-La Chambre peut demander leur présence.
+La Chambre des Députés peut décider d’avoir recours au référendum dans les cas, sous les conditions et avec les effets à déterminer par la loi.
 
 <a id="art_81"></a>
 
 ### Art. 81.
 
-En aucun cas, l’ordre verbal ou écrit du Roi Grand-Duc ne peut soustraire un membre du Gouvernement à la responsabilité.
+La Chambre des Députés a le droit d’enquête. La loi règle l’exercice de ce droit.
+
+Une commission d’enquête doit être instituée si un tiers au moins des députés le demande.
 
 <a id="art_82"></a>
 
 ### Art. 82.
 
-La Chambre a le droit d’accuser les membres du Gouvernement. – Une loi déterminera les cas de responsabilité, les peines à infliger et le mode de procéder, soit sur l’accusation admise par la Chambre, soit sur la poursuite des parties lésées.
+La Chambre des Députés reçoit les pétitions qui lui sont adressées dans la forme prescrite par son Règlement.
 
 <a id="art_83"></a>
 
 ### Art. 83.
 
-Le Roi Grand-Duc ne peut faire grâce au membre du Gouvernement condamné, que sur la demande de la Chambre.
+L’Ombudsman est nommé par le Grand-Duc sur proposition de la Chambre des Députés, votée à la majorité qualifiée prévue à l’article 71, alinéa 3.
 
-## **Chapitre Vbis.** — **Du Conseil d'Etat**
+Les attributions et les règles de fonctionnement de l’Ombudsman et les relations avec la Chambre des Députés sont déterminées par la loi.
 
-<a id="art_83bis"></a>
-
-### Art. 83bis.
-
-Le Conseil d'Etat est appelé à donner son avis sur les projets et propositions de loi et les amendements qui pourraient y être proposés, ainsi que sur toutes autres questions qui lui seront déférées par le Gouvernement ou par les lois. Sur les articles votés par la Chambre conformément à l'article 65, il émet son avis dans le délai fixé par la loi.
-
-L'organisation du Conseil d'Etat et la manière d'exercer ses attributions sont réglées par la loi.
-
-## **Chapitre VI.** — *De la justice.*
+### Section 5. — Du statut du député
 
 <a id="art_84"></a>
 
 ### Art. 84.
 
-Les contestations qui ont pour objet des droits civils, sont exclusivement du ressort des tribunaux.
+Aucune action, ni civile ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
 
 <a id="art_85"></a>
 
 ### Art. 85.
 
-Les contestations qui ont pour objet des droits politiques, sont du ressort des tribunaux, sauf les exceptions établies par la loi.
+À l’exception des cas visés par l’article 84, les députés peuvent être poursuivis en matière pénale.
+
+Cependant, l’arrestation d’un député est, sauf le cas de flagrant délit, soumise à autorisation préalable de la Chambre des Députés.
+
+Une autorisation de la Chambre des Députés n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
 
 <a id="art_86"></a>
 
 ### Art. 86.
 
-Nul tribunal, nulle juridiction contentieuse ne peut être établi qu’en vertu d’une loi. Il ne peut être créé de commissions ni de tribunaux extraordinaires, sous quelque dénomination que ce soit.
+Les députés touchent une indemnité, dont le montant et les conditions sont fixés par la loi.
+
+## Chapitre V. — Du Gouvernement
 
 <a id="art_87"></a>
 
 ### Art. 87.
 
-Il est pourvu par une loi à l’organisation d’une Cour supérieure de justice.
+Le Gouvernement dirige la politique générale de l’État.
 
 <a id="art_88"></a>
 
 ### Art. 88.
 
-Les audiences des tribunaux sont publiques, à moins que cette publicité ne soit dangereuse pour l’ordre ou les mœurs, et, dans ce cas, le tribunal le déclare par un jugement.
+Le Gouvernement se compose d’un Premier ministre, d’un ou de plusieurs Vice-premiers ministres, de ministres et, le cas échéant, d’un ou de plusieurs ministres délégués et secrétaires d’État.
+
+Le Grand-Duc nomme le Premier ministre et les autres membres du Gouvernement et met fin à leurs fonctions.
+
+Avant d’entrer en fonction, les membres du Gouvernement prêtent le serment qui suit : « Je jure d’observer la Constitution et les lois et de remplir ma fonction avec intégrité, exactitude et impartialité. ».
 
 <a id="art_89"></a>
 
 ### Art. 89.
 
-Tout jugement est motivé. Il est prononcé en audience publique.
+La fonction de membre du Gouvernement est incompatible avec celle de député, de conseiller d’État, de membre d’un conseil communal ainsi qu’avec des fonctions publiques ou une activité professionnelle.
 
 <a id="art_90"></a>
 
 ### Art. 90.
 
-Les juges de paix et les juges des tribunaux sont directement nommés par le Roi Grand-Duc. – Les conseillers de la Cour et les présidents et vice-présidents des tribunaux d’arrondissement sont nommés par le Roi Grand-Duc, sur l’avis de la Cour supérieure de justice.
+Les membres du Gouvernement exercent leurs attributions, soit en conseil, soit individuellement pour les affaires dont ils ont la charge.
 
 <a id="art_91"></a>
 
 ### Art. 91.
 
-Les juges de paix, les juges des tribunaux d´arrondissement et les conseillers de la Cour sont inamovibles. – Aucun d’eux ne peut être privé de sa place ni être suspendu que par un jugement. – Le déplacement d’un de ces juges ne peut avoir lieu que par une nomination nouvelle et de son consentement.
-
-Toutefois, en cas d’infirmité ou d’inconduite, il peut être suspendu, révoqué ou déplacé, suivant les conditions déterminées par la loi.
+Le Premier ministre coordonne l’action du Gouvernement et veille au maintien de l’unité de l’action gouvernementale.
 
 <a id="art_92"></a>
 
 ### Art. 92.
 
-Les traitements des membres de l’ordre judiciaire sont fixés par la loi.
+Le Gouvernement détermine son organisation et son fonctionnement par voie de règlement interne, approuvé par arrêté grand-ducal, à l’exception des matières que la Constitution réserve à la loi.
 
 <a id="art_93"></a>
 
 ### Art. 93.
 
-Sauf les cas d’exception prévus par la loi, aucun juge ne peut accepter du Gouvernement des fonctions salariées, à moins qu’il ne les exerce gratuitement, sans préjudice toutefois aux cas d’incompatibilité déterminés par la loi.
+**(1)** Le Premier ministre engage la responsabilité du nouveau Gouvernement à l’occasion de la présentation du programme gouvernemental devant la Chambre des Députés.
+
+**(2)** Le Premier ministre peut, après délibération du Gouvernement en conseil, engager la responsabilité du Gouvernement devant la Chambre des Députés à l’occasion du vote d’un projet de loi ou d’une déclaration gouvernementale.
+
+**(3)** La Chambre des Députés peut engager la responsabilité du Gouvernement par une motion de censure.
+
+**(4)** Lorsque la Chambre des Députés refuse la confiance au Gouvernement, le Premier ministre présente la démission du Gouvernement au Grand-Duc.
+
+**(5)** Le Gouvernement démissionnaire continue à conduire la politique générale.
 
 <a id="art_94"></a>
 
 ### Art. 94.
 
-Des lois particulières règlent l’organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions.
+**(1)** Le Gouvernement et ses membres sont responsables devant la Chambre des Députés.
 
-La loi règle aussi l'organisation des juridictions du travail et des juridictions en matière d'assurances sociales, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.
+**(2)** Les membres du Gouvernement ne répondent ni civilement ni pénalement des opinions qu’ils émettent à l’occasion de l’exercice de leur fonction.
+
+**(3)** Les membres du Gouvernement sont pénalement responsables des actes commis par eux dans l’exercice de leur fonction.
+
+Seul le ministère public peut intenter et diriger les poursuites à l’encontre d’un membre du Gouvernement pour ces actes, même après cessation de sa fonction.
+
+**(4)** Sauf le cas de flagrant délit, toute arrestation d’un membre du Gouvernement nécessite l’autorisation préalable de la Chambre des Députés. Cette autorisation n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un membre du Gouvernement.
+
+## Chapitre VI. — Du Conseil d’État
 
 <a id="art_95"></a>
 
 ### Art. 95.
 
-Les cours et tribunaux n’appliquent les arrêtés et règlements généraux et locaux qu’autant qu’ils sont conformes aux lois. – La Cour supérieure de justice règlera les conflits d’attribution d’après le mode déterminé par la loi.
+Le Conseil d’État donne son avis sur les projets de loi et les propositions de loi ainsi que sur les amendements qui pourraient y être proposés.
 
-<a id="art_95bis"></a>
+S’il estime qu’un projet de loi ou une proposition de loi comporte des dispositions non conformes à la Constitution, aux traités internationaux auxquels le Grand-Duché de Luxembourg est partie, aux actes juridiques de l’Union européenne ou aux principes généraux du droit, il en fait mention dans son avis.
 
-### Art. 95bis.
+Lorsque la Chambre des Députés a procédé à un vote article par article d’un projet ou d’une proposition de loi, sans que le Conseil d’État ait émis son avis, la Chambre des Députés peut voter sur l’ensemble de la loi en observant un délai d’au moins trois mois après en avoir informé le Conseil d’État.
 
-**(1)** Le contentieux administratif est du ressort du tribunal administratif et de la Cour administrative.
+Sauf les cas d’urgence à apprécier dans les limites de la loi par le Grand-Duc, le Conseil d’État donne son avis sur les projets de règlement à prendre pour l’exécution des lois et des traités internationaux et pour l’application des actes juridiques de l’Union européenne. S’il estime que le projet de règlement n’est pas conforme aux normes de droit supérieures, il en fait mention dans son avis.
 
-Ces juridictions connaissent du contentieux fiscal dans les cas et sous les conditions à déterminer par la loi.
-
-**(2)** La loi peut créer d'autres juridictions administratives.
-
-**(3)** La Cour administrative constitue la juridiction suprême de l'ordre administratif.
-
-**(4)** Les attributions et l'organisation des juridictions administratives sont réglées par la loi.
-
-**(5)** Les magistrats de la Cour administrative et du tribunal administratif sont nommés par le Grand-Duc. La nomination des membres de la Cour administrative ainsi que des président et vice-présidents du tribunal administratif se fait, sauf en ce qui concerne les premières nominations, sur avis de la Cour administrative.
-
-**(6)** Les dispositions des articles 91, 92 et 93 sont applicables aux membres de la Cour administrative et du tribunal administratif.
-
-<a id="art_95ter"></a>
-
-### Art. 95ter.
-
-**(1)** La Cour Constitutionnelle statue, par voie d'arrêt, sur la conformité des lois à la Constitution.
-
-**(2)** La Cour Constitutionnelle est saisie, à titre préjudiciel, suivant les modalités à déterminer par la loi, par toute juridiction pour statuer sur la conformité des lois, à l'exception des lois portant approbation de traités, à la Constitution.
-
-**(3)** La Cour Constitutionnelle est composée :
-
-1. 1. le Président de la Cour Supérieure de Justice, le Président de la Cour administrative ;
-2. deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conjoint de la Cour Supérieure de Justice et de la Cour administrative ;
-2. de sept membres suppléants nommés par le Grand-Duc, sur l’avis conjoint de la Cour Supérieure de Justice et de la Cour administrative.
-
-Les dispositions des articles 91, 92 et 93 leur sont applicables.
-
-**(4)** La Cour Constitutionnelle siège en chambre de cinq membres.
-
-Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
-
-**(5)** L'organisation de la Cour Constitutionnelle et la manière d'exercer ses attributions sont réglées par la loi.
-
-**(6)** Les dispositions des lois déclarées non conformes à la Constitution par un arrêt de la Cour Constitutionnelle cessent d’avoir un effet juridique le lendemain de la publication de cet arrêt dans les formes prévues pour la loi, à moins que la Cour Constitutionnelle n’ait ordonné un autre délai. La Cour Constitutionnelle détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d’être remis en cause.
-
-## **Chapitre VII.** — * De la Force publique.*
+La Chambre des Députés et le Gouvernement peuvent déférer au Conseil d’État toutes autres questions selon les modalités déterminées par la loi.
 
 <a id="art_96"></a>
 
 ### Art. 96.
 
-Tout ce qui concerne la force armée est réglé par la loi.
+L’organisation du Conseil d’État et la manière d’exercer ses attributions sont réglées par la loi.
+
+## Chapitre VII. — De la Justice
+
+### Section 1re. — De l’organisation de la Justice
 
 <a id="art_97"></a>
 
 ### Art. 97.
 
-L'organisation et les attributions des forces de l'ordre font l'objet d'une loi.
+Le pouvoir judiciaire est exercé par les cours et tribunaux.
+
+Les arrêts et jugements sont exécutés au nom du Grand-Duc.
 
 <a id="art_98"></a>
 
 ### Art. 98.
 
-Il peut être formé une garde civique, dont l’organisation est réglée par la loi.
-
-## **Chapitre VIII.** — *Des Finances.*
+Les juridictions de l’ordre judiciaire ont compétence générale en toute matière, à l’exception des attributions conférées par la Constitution à d’autres juridictions à compétence particulière.
 
 <a id="art_99"></a>
 
 ### Art. 99.
 
-Aucun impôt au profit de l'État ne peut être établi que par une loi. – Aucun emprunt à charge de l'État ne peut être contracté sans l’assentiment de la Chambre. – Aucune propriété immobilière de l'État ne peut être aliénée si l'aliénation n'en est autorisée par une loi spéciale.Toutefois une loi générale peut déterminer un seuil en dessous duquel une autorisation spéciale de la Chambre n'est pas requise – Toute acquisition par l'État d'une propriété immobilière importante, toute réalisation au profit de l'État d'un grand projet d´infrastructure ou d'un bâtiment considérable, tout engagement financier important de l'État doivent être autorisés par une loi spéciale. Une loi générale détermine les seuils à partir desquels cette autorisation est requise. – Aucune charge grevant le budget de l'État pour plus d’un exercice ne peut être établie que par une loi spéciale. – Aucune charge, aucune imposition communale ne peut être établie que du consentement du conseil communal. – La loi détermine les exceptions dont l’expérience démontrera la nécessité relativement aux impositions communales.
+Le contentieux administratif et fiscal est du ressort des juridictions de l’ordre administratif, dans les cas et sous les conditions déterminés par la loi.
 
 <a id="art_100"></a>
 
 ### Art. 100.
 
-Les impôts au profit de l’État sont votés annuellement. – Les lois qui les établissent n’ont de force que pour un an, si elles ne sont renouvelées.
+Les juridictions en matière de sécurité sociale sont réglées par la loi.
 
 <a id="art_101"></a>
 
 ### Art. 101.
 
-Il ne peut être établi de privilège en matière d’impôts. Nulle exemption ou modération ne peut être établie que par une loi.
+La loi règle l’organisation des juridictions ainsi que les voies de recours.
 
 <a id="art_102"></a>
 
 ### Art. 102.
 
-Hors les cas formellement exceptés par la loi aucune rétribution ne peut être exigée des citoyens ou des établissements publics qu’à titre d’impôt au profit de l’Etat ou de la commune.
+Les juridictions n’appliquent les lois et règlements que pour autant qu’ils sont conformes aux normes de droit supérieures.
 
 <a id="art_103"></a>
 
 ### Art. 103.
 
-Aucune pension, aucun traitement d’attente, aucune gratification à la charge du trésor ne peuvent être accordés qu’en vertu de la loi.
+L’annulation d’un règlement par une juridiction de l’ordre administratif a un caractère absolu à partir du jour où le jugement ou l’arrêt est coulé en force de chose jugée, à moins que la juridiction prononçant l’annulation n’ordonne un autre délai.
+
+La juridiction prononçant l’annulation détermine les conditions et limites dans lesquelles les effets que le règlement a produits sont susceptibles d’être remis en cause.
+
+### Section 2. — Du statut des magistrats
 
 <a id="art_104"></a>
 
 ### Art. 104.
 
-Chaque année la Chambre arrête la loi des comptes et vote le budget. – Toutes les recettes et dépenses de l’État doivent être portées au budget et dans les comptes.
+**(1)** Les magistrats du siège sont indépendants dans l’exercice des fonctions juridictionnelles.
+
+**(2)** Le ministère public exerce l’action publique et requiert l’application de la loi. Il est indépendant dans l’exercice des recherches et poursuites individuelles, sans préjudice du droit du gouvernement d’arrêter des directives de politique pénale.
 
 <a id="art_105"></a>
 
 ### Art. 105.
 
-**(1)** Une Cour des comptes est chargée du contrôle de la gestion financière des organes, administrations et services de l'État ; la loi peut lui confier d'autres missions de contrôle de gestion financière des deniers publics.
+**(1)** Le statut des magistrats du siège et de ceux du ministère public est déterminé par la loi.
 
-**(2)** Les attributions et l'organisation de la Cour des comptes ainsi que les modalités de son contrôle et les relations avec la Chambre des Députés sont déterminées par la loi.
+**(2)** Les magistrats du siège sont inamovibles.
 
-**(3)** Les membres de la Cour des comptes sont nommés par le Grand-Duc sur proposition de la Chambre des Députés.
-
-**(4)** Le compte général de l'État est soumis à la Chambre des Députés, accompagné des observations de la Cour des comptes.
+**(3)** La loi règle la mise à la retraite des magistrats du siège et de ceux du ministère public pour raison d’âge, d’infirmité ou d’inaptitude.
 
 <a id="art_106"></a>
 
 ### Art. 106.
 
-Les traitements et pensions des ministres des cultes sont à charge de l’État et réglés par la loi.
+Avant d’entrer en fonction, les magistrats du siège et ceux du ministère public prêtent le serment prévu par la loi.
 
-## **Chapitre IX.** — *Des Communes.*
+### Section 3. — Du Conseil national de la justice
 
 <a id="art_107"></a>
 
 ### Art. 107.
 
-**(1)** Les communes forment des collectivités autonomes, à base territoriale, possédant la personnalité juridique et gérant par leurs organes leur patrimoine et leurs intérêts propres.
+Le Conseil national de la justice veille au bon fonctionnement de la justice dans le respect de son indépendance.
 
-**(2)** Il y a dans chaque commune un conseil communal élu directement par les habitants de la commune ; les conditions pour être électeur ou éligible sont réglées par la loi.
+La composition et l’organisation du Conseil national de la justice sont réglées par la loi. Le Conseil national de la justice doit être majoritairement composé de magistrats.
 
-**(3)** Le conseil établit annuellement le budget de la commune et en arrête les comptes. Il fait les règlements communaux, sauf les cas d'urgence. Il peut établir des impositions communales, sous l'approbation du Grand-Duc. Le Grand-Duc a le droit de dissoudre le conseil.
+Le Grand-Duc nomme les magistrats proposés par le Conseil national de la justice et suivant les conditions déterminées par la loi.
 
-**(4)** La commune est administrée sous l'autorité du collège des bourgmestre et échevins, dont les membres doivent être choisis parmi les conseillers communaux. Les conditions de nationalité que doivent remplir les membres du collège des bourgmestre et échevins sont déterminées par une loi votée dans les conditions de l'article 114, alinéa 2 de la Constitution.
+Les attributions du Conseil national de la justice dans les procédures disciplinaires contre les magistrats sont déterminées par la loi.
 
-**(5)** La loi règle la composition, l'organisation et les attributions des organes de la commune. Elle établit le statut des fonctionnaires communaux. La commune participe à la mise en oeuvre de l'enseignement de la manière fixée par la loi.
+Les autres attributions du Conseil national de la justice sont fixées par la loi qui détermine également la manière de les exercer.
 
-**(6)** La loi règle la surveillance de la gestion communale. Elle peut soumettre certains actes des organes communaux à l'approbation de l'autorité de surveillance et même en prévoir l'annulation ou la suspension en cas d'illégalité ou d'incompatibilité avec l'intérêt général, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
+### Section 4. — Des garanties du justiciable
 
 <a id="art_108"></a>
 
 ### Art. 108.
 
-La rédaction des actes de l’état civil et la tenue des registres sont exclusivement dans les attributions des autorités communales.
-
-## **Chapitre X** — Des établissements publics
-
-<a id="art_108bis"></a>
-
-### Art. 108bis.
-
-La loi peut créer des établissements publics, dotés de la personnalité civile, dont elle détermine l'organisation et l'objet. Dans la limite de leur spécialité, le pouvoir de prendre des règlements peut leur être accordé par la loi qui peut en outre soumettre ces règlements à l’approbation de l'autorité de tutelle ou même en prévoir l'annulation ou la suspension en cas d'illégalité, sans préjudice des attributions des tribunaux judiciaires ou administratifs.
-
-## **Chapitre XI.** — *Dispositions générales.*
+Les audiences des juridictions sont publiques, à moins que cette publicité ne soit dangereuse pour l’ordre ou les mœurs, et, dans ce cas, la juridiction le déclare par une décision de justice.
 
 <a id="art_109"></a>
 
 ### Art. 109.
 
-La ville de Luxembourg est la capitale du Grand-Duché et le siège du Gouvernement. – Le siège du Gouvernement ne peut être déplacé que momentanément pour des raisons graves.
+Tout jugement est motivé. Il est prononcé en audience publique.
 
 <a id="art_110"></a>
 
 ### Art. 110.
 
-**(1)** Aucun serment ne peut être imposé qu'en vertu de la loi ; elle en détermine la formule.
-
-**(2)** Tous les fonctionnaires publics civils, avant d'entrer en fonctions, prêtent le serment suivant :
-
-«Je jure fidelité au Grand-Duc, obéissance à la Constitution et aux lois de l'État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.»
+La loi garantit l’impartialité du magistrat du siège, le caractère équitable et loyal ainsi que le délai raisonnable des procédures, le respect du contradictoire et des droits de la défense.
 
 <a id="art_111"></a>
 
 ### Art. 111.
 
-Tout étranger qui se trouve sur le territoire du Grand-Duché, jouit de la protection accordée aux personnes et aux biens, sauf les exceptions établies par la loi.
+Les dispositions de la Constitution ne font pas obstacle aux obligations découlant du Statut de la Cour Pénale Internationale.
+
+### Section 5. — De la Cour Constitutionnelle
 
 <a id="art_112"></a>
 
 ### Art. 112.
 
-Aucune loi, aucun arrêté ou règlement d’administration générale ou communale n’est obligatoire qu’après avoir été publié dans la forme déterminée par la loi.
+**(1)** La Cour Constitutionnelle statue, par voie d’arrêt, sur la conformité des lois à la Constitution.
+
+**(2)** La Cour Constitutionnelle est saisie, à titre préjudiciel, suivant les modalités à déterminer par la loi, par toute juridiction pour statuer sur la conformité des lois, à l’exception des lois portant approbation de traités, à la Constitution.
+
+**(3)** La Cour Constitutionnelle règlera les conflits d’attribution d’après le mode déterminé par la loi.
+
+**(4)** Les attributions de la Cour Constitutionnelle peuvent être élargies par une loi votée à la majorité qualifiée réunissant au moins les deux tiers des suffrages des membres de la Chambre des Députés, les votes par procuration n’étant pas admis.
+
+**(5)** La Cour Constitutionnelle est composée :
+
+1. 1. le Président de la Cour Supérieure de Justice et le Président de la Cour administrative ;
+2. deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative ;
+2. de sept membres suppléants nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative.
+
+**(6)** La Cour Constitutionnelle siège en chambre de cinq membres. Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
+
+**(7)** L’organisation de la Cour Constitutionnelle et la manière d’exercer ses attributions sont réglées par la loi.
+
+**(8)** Les dispositions des lois déclarées non conformes à la Constitution par un arrêt de la Cour Constitutionnelle cessent d’avoir un effet juridique le lendemain de la publication de cet arrêt dans les formes prévues pour la loi, à moins que la Cour Constitutionnelle n’ait ordonné un autre délai. La Cour Constitutionnelle détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d’être remis en cause.
+
+## Chapitre VIII. — De certaines dispositions relatives à l’administration de l’État
+
+### Section 1re. — Des règles générales d’administration
 
 <a id="art_113"></a>
 
 ### Art. 113.
 
-Aucune disposition de la Constitution ne peut être suspendue.
+Aucune loi ni aucun règlement ou arrêté d’administration générale ne sont obligatoires qu’après avoir été publiés dans la forme déterminée par la loi.
 
 <a id="art_114"></a>
 
 ### Art. 114.
 
-Toute révision de la Constitution doit être adoptée dans les mêmes termes par la Chambre des députés en deux votes successifs, séparés par un intervalle d’au moins trois mois.
-
-Nulle révision ne sera adoptée si elle ne réunit au moins les deux tiers des suffrages des membres de la Chambre, les votes par procuration n’étant pas admis.
-
-Le texte adopté en première lecture par la Chambre des députés est soumis à un référendum, qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite soit par plus d’un quart des membres de la Chambre, soit par vingt-cinq mille électeurs inscrits sur les listes électorales pour les élections législatives. La révision n’est adoptée que si elle recueille la majorité des suffrages valablement exprimés. La loi règle les modalités d’organisation du référendum.
+La loi détermine les conditions et les limites ainsi que les modalités de mise en œuvre de la responsabilité de l’État et des autres personnes morales de droit public pour les dommages qu’ils ont causés ou qu’ont causés leurs mandataires publics et agents dans l’exercice de leurs fonctions.
 
 <a id="art_115"></a>
 
 ### Art. 115.
 
-Pendant une régence, aucun changement ne peut être apporté à la Constitution en ce qui concerne les prérogatives constitutionnelles du Grand-Duc, son statut ainsi que l'ordre de succession.
+L’organisation et les attributions de la force publique sont réglées par la loi.
 
-## **Chapitre XII.** — *Dispositions transitoires et supplémentaires.*
+Toute déclaration relative à l’état de guerre et tout engagement de la force publique dans des opérations à l’étranger requièrent l’autorisation de la Chambre des Députés selon les modalités à établir par la loi.
+
+### Section 2. — Des Finances
 
 <a id="art_116"></a>
 
 ### Art. 116.
 
-Jusqu’à ce qu’il y soit pourvu par une loi, la Chambre des Députés aura un pouvoir discrétionnaire pour accuser un membre du Gouvernement, et la Cour supérieure, en assemblée générale, le jugera, en caractérisant le délit et en déterminant la peine. – Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice des cas expressément prévus par les lois pénales.
+**(1)** Tout impôt de l’État ainsi que toute exemption ou modération d’impôt sont établis par la loi.
 
-Les conseillers de la Cour faisant partie de la Chambre, s’abstiendront de toute participation à la procédure et au jugement.
+**(2)** Les impôts au profit de l’État sont votés annuellement. Les lois qui les établissent n’ont de force que pour un an, si elles ne sont pas renouvelées.
+
+**(3)** Hormis les cas formellement exceptés par la loi, aucune rétribution ne peut être exigée des citoyens ou des établissements publics qu’à titre d’impôt au profit de l’État ou de la commune.
 
 <a id="art_117"></a>
 
 ### Art. 117.
 
-A compter du jour où la Constitution sera exécutoire, toutes les lois, tous les décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
+**(1)** Tout emprunt à charge de l’État doit être contracté avec l’assentiment de la Chambre des Députés.
 
-<a id="art_118_20200519"></a>
+**(2)** Toute aliénation d’une propriété immobilière ou mobilière de l’État doit être autorisée par une loi spéciale. Toutefois, une loi générale peut déterminer un seuil en dessous duquel une autorisation spéciale de la Chambre des Députés n’est pas requise.
 
-### Art. 118.
+**(3)** Toute acquisition par l’État d’une propriété immobilière ou mobilière importante, toute réalisation au profit de l’État d’un grand projet d’infrastructure ou d’un bâtiment considérable ainsi que tout engagement financier important de l’État doivent être autorisés par une loi spéciale. Une loi générale détermine les seuils à partir desquels cette autorisation est requise, ainsi que les conditions et les modalités pour financer les travaux préparatoires.
 
-La peine de mort, abolie en matière politique, est remplacée par la peine immédiatement inférieure, jusqu’à ce qu’il y soit statué par la loi nouvelle.
+**(4)** Toute charge grevant le budget de l’État pour plus d’un exercice doit être établie par une loi spéciale.
+
+**(5)** Toute pension, tout traitement d’attente ainsi que toute gratification à la charge de l’État sont accordés par une loi.
 
 <a id="art_118"></a>
 
 ### Art. 118.
 
-Les dispositions de la Constitution ne font pas obstacle à l'approbation du Statut de la Cour Pénale Internationale, fait à Rome, le 17 juillet 1998, et à l'exécution des obligations en découlant dans les conditions prévues par ledit Statut.
+Chaque année, la Chambre des Députés arrête la loi des comptes et vote le budget. Toutes les recettes et dépenses de l’État doivent être portées au budget et dans les comptes.
 
 <a id="art_119"></a>
 
 ### Art. 119.
 
-En attendant la conclusion des conventions prévues à l’art. 22, les dispositions actuelles relatives aux cultes restent en vigueur.
+**(1)** Une Cour des comptes est chargée du contrôle de la gestion financière des organes, administrations et services de l’État. La loi peut lui confier d’autres missions de contrôle de gestion financière des deniers publics.
+
+**(2)** La Cour des comptes soumet ses contestations et recommandations sur le compte général de l’État à la Chambre des Députés.
+
+**(3)** Les attributions et l’organisation de la Cour des comptes ainsi que les modalités de son contrôle et les relations avec la Chambre des Députés sont déterminées par la loi.
+
+**(4)** Les membres de la Cour des comptes sont nommés par le Grand-Duc sur proposition de la Chambre des Députés.
+
+### Section 3. — Des relations entre l’État et les communautés religieuses
 
 <a id="art_120"></a>
 
 ### Art. 120.
 
-Jusqu’à la promulgation des lois et règlements prévus par la Constitution, les lois et règlements actuellement en vigueur, continuent à être appliqués.
+Les églises et les communautés religieuses sont séparées de l’État.
 
-<a id="art_121_20200519"></a>
+La loi règle les relations entre l’État et les églises et communautés religieuses.
+
+Dans les limites et formes déterminées par la loi, des conventions à approuver par la Chambre des Députés peuvent préciser les relations entre l’État et les églises et communautés religieuses.
+
+## Chapitre IX. — Des communes
+
+<a id="art_121"></a>
 
 ### Art. 121.
 
-La Constitution d’États du 12 octobre 1841 est abolie.
+**(1)** Les communes forment des collectivités autonomes, à base territoriale, possédant la personnalité juridique et gérant par leurs organes leurs intérêts et leur patrimoine propres.
 
-Toutes les autorités conservent et exercent leurs attributions, jusqu’à ce qu’il y ait été autrement pourvu, conformément à la Constitution.
+**(2)** La loi règle la composition, l’organisation et les attributions des organes de la commune.
+
+<a id="art_122"></a>
+
+### Art. 122.
+
+**(1)** Il y a dans chaque commune un conseil communal élu directement sur base du suffrage universel et par vote secret.
+
+**(2)** La commune est administrée sous l’autorité du collège des bourgmestre et échevins, qui sont nommés parmi les membres du conseil communal dans la forme déterminée par la loi.
+
+<a id="art_123"></a>
+
+### Art. 123.
+
+**(1)** Les impôts au profit des communes sont établis par la loi.
+
+Dans le respect de ses compétences constitutionnelles et légales, le conseil communal peut établir les impôts et les taxes nécessaires à la réalisation de l’intérêt communal. Les impôts et les taxes communaux sont approuvés par l’autorité de surveillance.
+
+**(2)** Le conseil communal établit annuellement le budget de la commune et en arrête les comptes.
+
+**(3)** Les communes ont droit aux ressources financières pour remplir les missions qui leur sont confiées par la loi.
+
+<a id="art_124"></a>
+
+### Art. 124.
+
+Le conseil communal fait les règlements communaux, sauf les cas d’urgence.
+
+Dans les matières réservées à la loi par la Constitution, les règlements communaux ne peuvent être pris qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et, le cas échéant, les conditions auxquelles elles sont soumises.
+
+Les règlements communaux doivent être conformes aux lois et aux règlements pris en application de l’article 45.
+
+<a id="art_125"></a>
+
+### Art. 125.
+
+**(1)** La rédaction des actes de l’état civil et la tenue des registres de ces actes sont exclusivement dans les attributions des organes de la commune que la loi détermine.
+
+**(2)** La loi établit le statut des fonctionnaires communaux.
+
+<a id="art_126"></a>
+
+### Art. 126.
+
+Toute commune peut créer, seule ou avec d’autres communes, des établissements publics dans les limites et selon la manière déterminée par la loi.
+
+<a id="art_127"></a>
+
+### Art. 127.
+
+La loi règle la surveillance de la gestion communale et détermine limitativement les actes des organes communaux à approuver par l’autorité de surveillance. Elle peut soumettre certains actes des organes communaux à l’appro­bation de l’autorité de surveillance et prévoir leur annulation ou leur suspension en cas d’illégalité ou de contrariété à l’intérêt général, sans préjudice des attributions des juridictions de l’ordre judiciaire ou de l’ordre administratif.
+
+Le Gouvernement en conseil peut dissoudre le conseil communal dans l’intérêt de la gestion de la commune.
+
+## Chapitre X. — Des établissements publics de l’État et des organes professionnels
+
+<a id="art_128"></a>
+
+### Art. 128.
+
+**(1)** La loi peut créer des établissements publics, qui ont la personnalité juridique et qui sont placés sous la tutelle de l’État.
+
+**(2)** La loi peut créer des chambres professionnelles, qui ont la personnalité juridique.
+
+**(3)** La loi peut constituer des organes représentatifs des professions libérales et les doter de la personnalité juridique.
+
+<a id="art_129"></a>
+
+### Art. 129.
+
+**(1)** La loi détermine l’objet, l’organisation et les compétences des établissements publics, des chambres professionnelles et des organes des professions libérales, qui ont la personnalité juridique.
+
+**(2)** Dans la limite de leur objet, la loi peut leur accorder la compétence de prendre des règlements.
+
+Dans les matières réservées à la loi par la Constitution, ces règlements ne peuvent être pris qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et, le cas échéant, les conditions auxquelles elles sont soumises.
+
+Ces règlements doivent être conformes aux lois et aux règlements pris en application de l’article 45.
+
+## Chapitre XI. — De la révision de la Constitution
+
+<a id="art_130"></a>
+
+### Art. 130.
+
+Aucune disposition de la Constitution ne peut être suspendue.
+
+<a id="art_131"></a>
+
+### Art. 131.
+
+Toute révision de la Constitution doit être adoptée dans les mêmes termes par la Chambre des Députés en deux votes successifs, séparés par un intervalle d’au moins trois mois.
+
+Nulle révision ne sera adoptée si elle ne réunit au moins les deux tiers des suffrages des membres de la Chambre, les votes par procuration n’étant pas admis.
+
+Le texte adopté en première lecture par la Chambre des Députés est soumis à un référendum, qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite soit par plus d’un quart des membres de la Chambre, soit par vingt-cinq mille électeurs inscrits sur les listes électorales pour les élections législatives. La révision n’est adoptée que si elle recueille la majorité des suffrages valablement exprimés. La loi règle les modalités d’organisation du référendum.
+
+## Chapitre XII. — Dispositions transitoires
+
+<a id="art_132"></a>
+
+### Art. 132.
+
+Les dispositions de l’article 56 sont pour la première fois applicables à la descendance de Son Altesse Royale Henri, Grand-Duc de Luxembourg, Duc de Nassau.
