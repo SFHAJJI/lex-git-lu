@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-patrimoine_culturel:2022-03-14
+lex_id: lu-legilux:recueil-patrimoine_culturel:2023-07-07
 title: Patrimoine culturel
-valid_from: 2022-03-14
-valid_to: 2023-07-06
-source: https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20220314/fr
-source_sha256: dee1a60909b6381a1681554c98d5ffd7fde162150ab757b930d79c3011650246
+valid_from: 2023-07-07
+valid_to: 2024-05-10
+source: https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20230707/fr
+source_sha256: eca069dd9e613197550ef80c94ba9846a4e0cd92f18f3e3622cd7be7d05687b2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -14,7 +14,7 @@ generator: akn-lu/1 · lex derive
 
 ### Chapitre 1er — Objet et définitions
 
-<a id="art_N10042"></a>
+<a id="art_N10043"></a>
 
 ### Art. 1er.
 
@@ -24,7 +24,7 @@ La présente loi a pour objectifs :
 2. la valorisation du patrimoine culturel à travers son identification, son étude, son interprétation, sa sauvegarde, sa conservation et sa protection ;
 3. de renforcer la cohésion sociale en favorisant le sens de responsabilité partagée envers l’espace de vie commun.
 
-<a id="art_N10057"></a>
+<a id="art_N10064"></a>
 
 ### Art. 2.
 
@@ -64,7 +64,7 @@ Au sens de la présente loi, l’on entend par :
 
 #### Section 1 — Inventaire du patrimoine archéologique et zone d’observation archéologique
 
-<a id="art_N100DB"></a>
+<a id="art_N10111"></a>
 
 ### Art. 3.
 
@@ -76,7 +76,7 @@ Le ministre ayant la Culture dans ses attributions, ci-après « ministre », co
 
 La carte archéologique peut, sur demande à adresser à l’Institut national de recherches archéologiques, être consultée par toute personne présentant un intérêt suffisant.
 
-<a id="art_N100EF"></a>
+<a id="art_N1013C"></a>
 
 ### Art. 4.
 
@@ -111,7 +111,7 @@ La zone d’observation archéologique fait partie intégrante en tant que zone 
 
 #### Section 2 — Archéologie préventive et programmée
 
-<a id="art_N10153"></a>
+<a id="art_N101EC"></a>
 
 ### Art. 5.
 
@@ -123,7 +123,7 @@ Pour tous les travaux de construction, de démolition ou de remblai et de débla
 
 En l’absence de prescriptions par le ministre dans les délais, il est réputé y avoir renoncé et le terrain bénéficie d’une levée de contrainte archéologique pour le projet en question.
 
-<a id="art_N10169"></a>
+<a id="art_N10213"></a>
 
 ### Art. 6.
 
@@ -144,13 +144,13 @@ Le propriétaire du terrain sur lequel la découverte exceptionnelle d’éléme
 
 Dès l’achèvement des opérations d’archéologie préventive et au plus tard à l’expiration des délais précités, le terrain bénéficie d’une levée de contrainte archéologique pour le projet en question.
 
-<a id="art_N10191"></a>
+<a id="art_N10261"></a>
 
 ### Art. 7.
 
 À défaut de travaux de construction, de démolition ou de remblai et de déblai précis, des opérations de diagnostic archéologique peuvent être effectuées à la demande de l’État et des communes, en tant que propriétaires de terrain, ou de tout autre propriétaire de terrain.
 
-<a id="art_N10199"></a>
+<a id="art_N10271"></a>
 
 ### Art. 8.
 
@@ -166,7 +166,7 @@ Le cahier des charges contient :
 6. la durée minimale de l’opération d’archéologie préventive en jours de travail par personne ;
 7. le cas échéant, des prescriptions spécifiques pour le projet en question.
 
-<a id="art_N101B7"></a>
+<a id="art_N102A4"></a>
 
 ### Art. 9.
 
@@ -197,7 +197,7 @@ L’opérateur archéologique réalise l’opération d’archéologie préventi
 
 **(2)** Les opérations d’archéologie programmées sont effectuées par l’Institut national de recherches archéologiques, en collaboration avec un autre institut culturel, par des institutions de recherche scientifique ou par des personnes ou organismes pouvant justifier l’intérêt scientifique de l’opération archéologique et pouvant prouver des connaissances scientifiques et moyens techniques adéquats.
 
-<a id="art_N101FD"></a>
+<a id="art_N10326"></a>
 
 ### Art. 10.
 
@@ -209,7 +209,7 @@ En l’absence de consentement écrit et préalable du propriétaire et en cas d
 
 #### Section 3 — Autorisation ministérielle des opérations d’archéologie
 
-<a id="art_N10219"></a>
+<a id="art_N10356"></a>
 
 ### Art. 11.
 
@@ -219,7 +219,7 @@ Le cahier des charges visé à l’article 8 fait partie de l’autorisation min
 
 Un règlement grand-ducal fixe les conditions de demande et d’octroi de l’autorisation ministérielle préalable.
 
-<a id="art_N10229"></a>
+<a id="art_N10378"></a>
 
 ### Art. 12.
 
@@ -231,7 +231,7 @@ L’autorisation ministérielle est délivrée à condition pour le demandeur :
 2. d’effectuer la recherche dans un but scientifique ;
 3. de procéder à la recherche en étroite collaboration avec l’Institut national de recherches archéologiques.
 
-<a id="art_N1023F"></a>
+<a id="art_N1039F"></a>
 
 ### Art. 13.
 
@@ -239,7 +239,7 @@ Tout vendeur, tout annonceur de publicités et tout fabricant de détecteurs de 
 
 #### Section 4 — Financement des opérations d’archéologie
 
-<a id="art_N10262"></a>
+<a id="art_N103CA"></a>
 
 ### Art. 14.
 
@@ -249,7 +249,7 @@ Tout vendeur, tout annonceur de publicités et tout fabricant de détecteurs de 
 
 #### Section 5 — Régime de propriété des éléments du patrimoine archéologique
 
-<a id="art_N10282"></a>
+<a id="art_N103FF"></a>
 
 ### Art. 15.
 
@@ -267,7 +267,7 @@ Les éléments qui sont restitués à leur propriétaire à l’issue de leur é
 
 #### Section 6 — Découvertes fortuites d’éléments du patrimoine archéologique
 
-<a id="art_N102BC"></a>
+<a id="art_N10462"></a>
 
 ### Art. 16.
 
@@ -280,7 +280,7 @@ Par conservation provisoire au sens de l’alinéa qui précède, on entend :
 
 Par auteur au sens de l’alinéa qui précède, on entend toute personne physique ou morale, de droit public ou privé, qui découvre des éléments du patrimoine archéologique lors de travaux de construction, de démolition ou de remblai et de déblai ou de tout autre fait quelconque.
 
-<a id="art_N102D4"></a>
+<a id="art_N1048F"></a>
 
 ### Art. 17.
 
@@ -290,7 +290,7 @@ Face à un risque de dégradation de l’état de conservation des découvertes,
 
 #### Section 7 — Classement des éléments du patrimoine archéologique comme patrimoine culturel national
 
-<a id="art_N102EF"></a>
+<a id="art_N104B9"></a>
 
 ### Art. 18.
 
@@ -308,7 +308,7 @@ Une demande de protection peut être adressée au ministre par :
 
 Un règlement grand-ducal détermine les modalités de saisine et les documents à joindre à la demande de protection.
 
-<a id="art_N10311"></a>
+<a id="art_N104F8"></a>
 
 ### Art. 19.
 
@@ -332,7 +332,7 @@ La notification de l’intention de classer le bien immeuble est susceptible d�
 
 Passé ce délai, la procédure devient caduque.
 
-<a id="art_N10351"></a>
+<a id="art_N1057C"></a>
 
 ### Art. 20.
 
@@ -346,7 +346,7 @@ Le ministre transmet l’arrêté de classement au ministre ayant l’Aménageme
 
 **(2)** La liste des biens immeubles relevant du patrimoine archéologique et classés comme patrimoine culturel national est régulièrement tenue à jour sur une plateforme numérique et publiée au moins tous les trois ans au Journal officiel du Grand-Duché de Luxembourg.
 
-<a id="art_N10371"></a>
+<a id="art_N105BE"></a>
 
 ### Art. 21.
 
@@ -361,7 +361,7 @@ Le ministre transmet l’arrêté de classement au ministre ayant l’Aménageme
 
 **(3)** L’arrêté de déclassement est notifié au propriétaire du bien immeuble ainsi qu’à l’auteur de la demande de déclassement et est transcrit par les soins du ministre au bureau des hypothèques de la situation du bien immeuble classé comme patrimoine culturel national.
 
-<a id="art_N10399"></a>
+<a id="art_N10606"></a>
 
 ### Art. 22.
 
@@ -371,7 +371,7 @@ Les éléments mobiliers du patrimoine archéologique peuvent être classés com
 
 #### Section 1 — Inventaire du patrimoine architectural, classement comme patrimoine culturel national, secteurs protégés d’intérêt national
 
-<a id="art_N103B9"></a>
+<a id="art_N10632"></a>
 
 ### Art. 23.
 
@@ -404,7 +404,7 @@ En l’absence de consentement écrit et préalable du propriétaire et en cas d
 
 **(3)** Un règlement grand-ducal détermine les informations minimales et la documentation que l’inventaire du patrimoine architectural doit contenir.
 
-<a id="art_N10408"></a>
+<a id="art_N106BF"></a>
 
 ### Art. 24.
 
@@ -420,7 +420,7 @@ En l’absence de consentement écrit et préalable du propriétaire et en cas d
 
 **(3)** L’avant-projet de règlement grand-ducal relatif aux classements comme patrimoine culturel national et, le cas échéant, à la création de secteurs protégés d’intérêt national est joint à l’inventaire du patrimoine architectural.
 
-<a id="art_N10432"></a>
+<a id="art_N1070A"></a>
 
 ### Art. 25.
 
@@ -434,13 +434,13 @@ Le dépôt est publié par voie d’affiches apposées dans la commune de la man
 
 **(3)** Dans un délai de quarante-cinq jours qui suivent la publication de l’inventaire sur le support électronique prévu au paragraphe 1er, sous peine de forclusion, les contributions au projet de classement et le cas échéant de création de secteurs protégés d’intérêt national doivent être déposées par le biais d’un assistant électronique à cet effet ou doivent être adressées au collège des bourgmestre et échevins qui en donne connaissance au conseil communal pour avis. Ce dossier, avec les contributions et l’avis du conseil communal, est transmis dans le mois de l’expiration du délai de quarante-cinq jours à compter de la publication au ministre qui continue la procédure suite à l’adaptation, le cas échéant, de l’avant-projet de règlement grand-ducal visé à l’article 24, paragraphe 3, sur base des contributions formulées à l’encontre du projet initial.
 
-<a id="art_N1045C"></a>
+<a id="art_N10759"></a>
 
 ### Art. 26.
 
 Le classement comme patrimoine culturel national des biens immeubles figurant sur l’inventaire du patrimoine architectural et la création de secteurs protégés d’intérêt national se fait par règlement grand-ducal, le Conseil d’État demandé en son avis.
 
-<a id="art_N10464"></a>
+<a id="art_N10769"></a>
 
 ### Art. 27.
 
@@ -462,7 +462,7 @@ Le ministre peut demander l’avis de la commission avant de rendre sa décision
 
 **(4)** Les effets de la protection liée à la création d’un secteur protégé d’intérêt national suivent les immeubles concernés en quelque main qu’ils passent. Les actes et promesses de vente ou de location ainsi que ceux ayant pour objet de transférer un droit réel immobilier sur un bien immeuble situé dans un secteur protégé d’intérêt national font mention des servitudes qui peuvent en découler. En cas d’inobservation des dispositions qui précèdent, la nullité de l’acte de vente, de location ou de transfert d’un droit réel immobilier pourra être poursuivie à la requête de l’acquéreur ou autre contractant lésé aux frais et dommages du vendeur et du notaire instrumentaire tenus solidairement ou du bailleur sans préjudice d’éventuelles réparations civiles.
 
-<a id="art_N1049E"></a>
+<a id="art_N107D6"></a>
 
 ### Art. 28.
 
@@ -470,7 +470,7 @@ Le ministre peut demander l’avis de la commission avant de rendre sa décision
 
 #### Section 2 — Effets du classement comme patrimoine culturel national
 
-<a id="art_N104B5"></a>
+<a id="art_N107F7"></a>
 
 ### Art. 29.
 
@@ -480,7 +480,7 @@ Le ministre peut demander l’avis de la commission avant de rendre sa décision
 
 ##### Sous-Section 1 — Autorisation ministérielle pour travaux, droit de préemption et expropriation pour cause d’utilité publique
 
-<a id="art_N104D2"></a>
+<a id="art_N10829"></a>
 
 ### Art. 30.
 
@@ -498,7 +498,7 @@ Un règlement grand-ducal détermine les pièces à joindre à la demande d’au
 
 **(5)** Les effets du classement suivent les immeubles concernés en quelque main qu’ils passent. Les actes et promesses de vente ou de location ainsi que ceux ayant pour objet de transférer un droit réel immobilier sur un bien immeuble classé comme patrimoine culturel national font mention de cette mesure de classement et des servitudes qui peuvent en découler. En cas d’inobservation des dispositions qui précèdent, la nullité de l’acte de vente, de location ou de transfert d’un droit réel immobilier pourra être poursuivie à la requête de l’acquéreur ou autre contractant lésé aux frais et dommages du vendeur et du notaire instrumentaire tenus solidairement ou du bailleur sans préjudice d’éventuelles réparations civiles.
 
-<a id="art_N10506"></a>
+<a id="art_N10892"></a>
 
 ### Art. 31.
 
@@ -508,7 +508,7 @@ Il en est de même pour les immeubles dont l’acquisition est nécessaire pour 
 
 **(2)** Un bien immeuble classé comme patrimoine culturel national ne peut être compris dans une enquête aux fins d’expropriation pour cause d’utilité publique qu’après que le ministre ait été appelé à présenter ses observations.
 
-<a id="art_N10523"></a>
+<a id="art_N108C7"></a>
 
 ### Art. 32.
 
@@ -518,7 +518,7 @@ Il en est de même pour les immeubles dont l’acquisition est nécessaire pour 
 
 Nul ne peut acquérir, par voie de prescription acquisitive, telle que prévue par les articles 2219 et suivants du Code civil, de droit sur un bien immeuble classé comme patrimoine culturel national.
 
-<a id="art_N10538"></a>
+<a id="art_N108EE"></a>
 
 ### Art. 33.
 
@@ -526,7 +526,7 @@ Le bien immeuble classé comme patrimoine culturel national peut être identifi�
 
 ##### Sous-Section 2 — Subventions pour travaux
 
-<a id="art_N10549"></a>
+<a id="art_N1090A"></a>
 
 ### Art. 34.
 
@@ -552,7 +552,7 @@ Suite à l’instruction de la demande par l’Institut national pour le patrimo
 
 Cette promesse indique les travaux à subventionner ainsi que le pourcentage ou le forfait que présente la subvention en relation avec les frais à encourir.
 
-<a id="art_N10590"></a>
+<a id="art_N10991"></a>
 
 ### Art. 35.
 
@@ -560,7 +560,7 @@ Cette promesse indique les travaux à subventionner ainsi que le pourcentage ou 
 
 **(2)** Sur avis de l’Institut national pour le patrimoine architectural, le montant de la subvention est fixé par le ministre après la réalisation des travaux de restauration, sur présentation par le demandeur d’un formulaire et des factures acquittées relatives aux travaux.
 
-<a id="art_N105A4"></a>
+<a id="art_N109B8"></a>
 
 ### Art. 36.
 
@@ -568,7 +568,7 @@ Les subventions sont allouées dans la limite des crédits budgétaires disponib
 
 ##### Sous-Section 3 — Substitution au propriétaire défaillant
 
-<a id="art_N105B5"></a>
+<a id="art_N109D4"></a>
 
 ### Art. 37.
 
@@ -576,7 +576,7 @@ Pour pouvoir constater la nécessité de travaux de conservation, le ministre pe
 
 Le propriétaire de l’immeuble classé comme patrimoine culturel national en est informé, au moins quinze jours à l’avance, par une notification du ministre et en informe sans délai l’occupant éventuel concerné. En cas de refus du propriétaire de laisser procéder à une telle visite, le ministre ou celui qui le remplace peut visiter l’immeuble dans les conditions prévues à l’article 39.
 
-<a id="art_N105C1"></a>
+<a id="art_N109ED"></a>
 
 ### Art. 38.
 
@@ -584,7 +584,7 @@ Lorsque la conservation d’un bien immeuble classé comme patrimoine culturel n
 
 Cette mise en demeure est motivée et précise les travaux à effectuer par le propriétaire, le délai endéans lequel ces travaux devront être effectués et la possibilité d’obtention de subventions de l’État.
 
-<a id="art_N105CD"></a>
+<a id="art_N10A06"></a>
 
 ### Art. 39.
 
@@ -596,7 +596,7 @@ La durée de l’occupation temporaire, totale ou partielle, ne peut pas excéde
 
 Le locataire du bien immeuble occupé pour l’exécution de travaux de conservation par l’État a droit au paiement d’une indemnité destinée à compenser le dommage qui peut lui être occasionné par l’exécution, sur autorisation judicaire, des travaux de conservation par l’État. La demande d’indemnité est adressée au ministre. À défaut d’accord sur le montant de l’indemnité, celle-ci est fixée par les tribunaux de l’ordre judiciaire. Le droit de demander une indemnisation représentative du préjudice devant les tribunaux de l’ordre judiciaire se prescrit cinq ans après l’achèvement des travaux arrêté dans un rapport.
 
-<a id="art_N105E1"></a>
+<a id="art_N10A31"></a>
 
 ### Art. 40.
 
@@ -606,7 +606,7 @@ Au cas où l’État a versé une indemnité au locataire de l’immeuble affect
 
 #### Section 3 — Procédure de déclassement
 
-<a id="art_N105F9"></a>
+<a id="art_N10A59"></a>
 
 ### Art. 41.
 
@@ -621,7 +621,7 @@ Au cas où l’État a versé une indemnité au locataire de l’immeuble affect
 
 #### Section 4 — Publicité
 
-<a id="art_N10625"></a>
+<a id="art_N10A9F"></a>
 
 ### Art. 42.
 
@@ -631,7 +631,7 @@ Tout support dont le principal objet est de recevoir ces inscriptions, images, f
 
 Les dispositions de la présente section s’appliquent à la publicité au contenu immuable ou variable, installée sur un support fixe ou mobile et visible de la voie publique ou de la voie ouverte à la circulation publique. Elles ne s’appliquent pas à la publicité située à l’intérieur d’un local, sauf si l’utilisation de celui-ci est principalement celle d’un support de publicité ou si l’effet de la publicité est tourné vers l’extérieur du local.
 
-<a id="art_N10635"></a>
+<a id="art_N10AC1"></a>
 
 ### Art. 43.
 
@@ -651,7 +651,7 @@ Le ministre peut demander l’avis de la commission avant de rendre sa décision
 
 #### Section 1 — Procédure de classement
 
-<a id="art_N1067B"></a>
+<a id="art_N10B35"></a>
 
 ### Art. 44.
 
@@ -681,7 +681,7 @@ Le ministre peut demander l’avis de la commission avant de rendre sa décision
 
 **(3)** Les biens culturels classés comme patrimoine culturel national sont à considérer comme trésors nationaux au sens de l’article 36 du Traité sur le fonctionnement de l’Union européenne.
 
-<a id="art_N106CB"></a>
+<a id="art_N10BB4"></a>
 
 ### Art. 45.
 
@@ -697,7 +697,7 @@ Une demande de protection peut être adressée au ministre par :
 
 Un règlement grand-ducal détermine les modalités de saisine et les documents à joindre à la demande de protection.
 
-<a id="art_N106E9"></a>
+<a id="art_N10BEA"></a>
 
 ### Art. 46.
 
@@ -719,13 +719,13 @@ La notification de l’intention de classer le bien culturel est susceptible d�
 
 Passé ce délai, la procédure devient caduque.
 
-<a id="art_N10725"></a>
+<a id="art_N10C65"></a>
 
 ### Art. 47.
 
 L’arrêté de classement comme patrimoine culturel national est notifié par lettre recommandée par le ministre au propriétaire et au détenteur du bien culturel, lorsque cette personne n’est pas le propriétaire ainsi qu’à l’auteur de la demande de classement. L’arrêté de classement comme patrimoine culturel national indique l’état et les conditions de conservation du bien culturel classé.
 
-<a id="art_N1072D"></a>
+<a id="art_N10C75"></a>
 
 ### Art. 48.
 
@@ -733,7 +733,7 @@ La liste des biens culturels classés comme patrimoine culturel national est ré
 
 #### Section 2 — Effets du classement
 
-<a id="art_N10741"></a>
+<a id="art_N10C93"></a>
 
 ### Art. 49.
 
@@ -741,7 +741,7 @@ La liste des biens culturels classés comme patrimoine culturel national est ré
 
 Les effets du classement subsistent à l’égard des immeubles par destination classés comme patrimoine culturel national qui redeviennent des meubles proprement dits.
 
-<a id="art_N1074D"></a>
+<a id="art_N10CAC"></a>
 
 ### Art. 50.
 
@@ -749,7 +749,7 @@ Le propriétaire d’un bien culturel classé comme patrimoine culturel national
 
 ##### Sous-section 1 — Imprescriptibilité, inaliénabilité, autorisations ministérielles et notification au ministre
 
-<a id="art_N1075E"></a>
+<a id="art_N10CC7"></a>
 
 ### Art. 51.
 
@@ -769,7 +769,7 @@ Le ministre peut charger un institut culturel de l’encadrement de la réalisat
 
 **(4)** Les biens culturels classés comme patrimoine culturel national ne peuvent être transférés à titre définitif hors du territoire national.
 
-<a id="art_N10792"></a>
+<a id="art_N10D32"></a>
 
 ### Art. 52.
 
@@ -777,7 +777,7 @@ Le ministre peut charger un institut culturel de l’encadrement de la réalisat
 
 **(2)** Toute dépossession involontaire ou disparition d’un bien culturel classé comme patrimoine culturel national est, dès sa découverte, notifiée au ministre.
 
-<a id="art_N107A6"></a>
+<a id="art_N10D59"></a>
 
 ### Art. 53.
 
@@ -785,13 +785,13 @@ Le ministre peut charger un institut culturel de l’encadrement de la réalisat
 
 **(2)** Sous réserve de l’application des articles 54 et 55, toute cession d’un bien culturel classé comme patrimoine culturel national fait l’objet d’une notification préalable de la part du propriétaire au ministre au moins un mois avant sa cession.
 
-<a id="art_N107BA"></a>
+<a id="art_N10D80"></a>
 
 ### Art. 54.
 
 Les biens culturels classés comme patrimoine culturel national appartenant à l’État sont inaliénables, sous peine de l’amende prévue à l’article 117, et insaisissables, sous peine de la nullité de la saisie effectuée en violation du présent article.
 
-<a id="art_N107C2"></a>
+<a id="art_N10D90"></a>
 
 ### Art. 55.
 
@@ -799,7 +799,7 @@ Les biens culturels classés comme patrimoine culturel national appartenant à u
 
 ##### Sous-Section 2 — Subventions pour travaux
 
-<a id="art_N107D3"></a>
+<a id="art_N10DAC"></a>
 
 ### Art. 56.
 
@@ -824,7 +824,7 @@ Cette promesse indique les travaux à subventionner ainsi que le pourcentage ou 
 
 Les subventions sont allouées dans la limite des crédits budgétaires disponibles pour les biens culturels classés.
 
-<a id="art_N10813"></a>
+<a id="art_N10E28"></a>
 
 ### Art. 57.
 
@@ -836,19 +836,19 @@ La demande de restitution de la subvention est limitée à la première cession 
 
 ##### Sous-Section 3 — Substitution au propriétaire défaillant
 
-<a id="art_N1082C"></a>
+<a id="art_N10E56"></a>
 
 ### Art. 58.
 
 Le propriétaire ou détenteur d’un bien culturel classé comme patrimoine culturel national est tenu, lorsqu’il en est requis, de le présenter aux agents chargés par le ministre ou de leur en autoriser l’accès.
 
-<a id="art_N10834"></a>
+<a id="art_N10E66"></a>
 
 ### Art. 59.
 
 Lorsque la conservation d’un bien culturel classé comme patrimoine culturel national est compromise, le ministre peut mettre en demeure, par lettre recommandée avec accusé de réception, le propriétaire de faire procéder à l’exécution de mesures de conservation. Cette mise en demeure est motivée et précise les mesures de conservation à effectuer par le propriétaire, le délai endéans lequel ces mesures devront être prises et la possibilité d’obtention de subventions de l’État.
 
-<a id="art_N1083C"></a>
+<a id="art_N10E76"></a>
 
 ### Art. 60.
 
@@ -860,7 +860,7 @@ Lorsque la conservation d’un bien culturel classé comme patrimoine culturel n
 
 **(4)** Le tribunal d’arrondissement de Luxembourg est compétent pour accorder l’autorisation expresse prévue au paragraphe 1er pour les mesures conservatoires concernant des biens culturels classés comme patrimoine culturel national dont le propriétaire est domicilié à l’étranger.
 
-<a id="art_N10863"></a>
+<a id="art_N10EC0"></a>
 
 ### Art. 61.
 
@@ -868,7 +868,7 @@ Au cas où l’État supporte tout ou une partie du coût total des mesures de c
 
 #### Section 3 — Procédure de déclassement
 
-<a id="art_N10877"></a>
+<a id="art_N10EDF"></a>
 
 ### Art. 62.
 
@@ -885,7 +885,7 @@ Au cas où l’État supporte tout ou une partie du coût total des mesures de c
 
 #### Section 4 — Obligations et devoirs de diligence lors de la cession d’un bien culturel
 
-<a id="art_N108AB"></a>
+<a id="art_N10F35"></a>
 
 ### Art. 63.
 
@@ -897,7 +897,7 @@ L’avis précise la date, l’heure et le lieu de la cession publique.
 
 La décision de l’État d’user de son droit de préemption intervient, sous peine de nullité, auprès de l’acquéreur dans un délai de quinze jours à compter de la cession.
 
-<a id="art_N108C7"></a>
+<a id="art_N10F6E"></a>
 
 ### Art. 64.
 
@@ -915,7 +915,7 @@ La décision de l’État d’user de son droit de préemption intervient, sous 
 
 **(3)** L’obligation de vérification visée au paragraphe 1er comprend l’examen d’informations pertinentes relatives à des transactions antérieures du bien culturel qui peuvent être obtenues avec un effort raisonnable ou tout autre examen qu’une personne raisonnable entreprendrait dans les mêmes circonstances de cession de biens culturels.
 
-<a id="art_N108FD"></a>
+<a id="art_N10FC7"></a>
 
 ### Art. 65.
 
@@ -927,7 +927,7 @@ Les personnes dont l’activité professionnelle comprend le commerce de biens c
 4. de tenir un registre des acquisitions et cessions de biens culturels mentionnant l’origine du bien culturel, le nom et les coordonnées du fournisseur ou vendeur et de l’acquéreur et le prix d’achat ou de vente du bien culturel ;
 5. de fournir au ministre, sur sa demande, tous les renseignements nécessaires concernant l’accomplissement du devoir de diligence.
 
-<a id="art_N10913"></a>
+<a id="art_N10FEB"></a>
 
 ### Art. 66.
 
@@ -937,7 +937,7 @@ Les personnes dont l’activité professionnelle comprend le commerce de biens c
 
 #### Section 5 — Régime de circulation des biens culturels
 
-<a id="art_N10933"></a>
+<a id="art_N11020"></a>
 
 ### Art. 67.
 
@@ -945,7 +945,7 @@ Pour toutes les questions relevant du transfert, de l’introduction, de l’imp
 
 ##### Sous-Section 1 — Transfert de biens culturels
 
-<a id="art_N1094B"></a>
+<a id="art_N11047"></a>
 
 ### Art. 68.
 
@@ -962,13 +962,13 @@ La décision de refus de délivrance d’un certificat de transfert ne peut inte
 
 Le transfert vers un autre État membre de l’Union européenne d’un bien culturel transféré à titre temporaire vers le Grand-Duché de Luxembourg n’est pas subordonné à l’obtention d’un certificat de transfert.
 
-<a id="art_N1096B"></a>
+<a id="art_N11086"></a>
 
 ### Art. 69.
 
 Le certificat de transfert est délivré par le ministre sur demande du propriétaire. L’absence de réponse endéans le mois qui suit la demande équivaut à un refus.
 
-<a id="art_N10973"></a>
+<a id="art_N11096"></a>
 
 ### Art. 70.
 
@@ -976,13 +976,13 @@ Une autorisation de sortie temporaire d’un bien culturel classé comme patrimo
 
 L’autorisation du ministre indique la durée de validité et peut définir des conditions à respecter afin d’assurer l’intégrité et le retour du bien culturel. En cas de non-respect de ces conditions, l’autorisation de sortie temporaire devient caduque, et le retour du bien culturel est entrepris immédiatement par le propriétaire et à ses frais.
 
-<a id="art_N1097F"></a>
+<a id="art_N110AF"></a>
 
 ### Art. 71.
 
 Toute personne qui sort à titre temporaire un bien culturel classé ou transfère à titre définitif du Grand- Duché de Luxembourg un bien culturel entrant dans une des catégories visées par l’article 44, paragraphe 2, et remplissant les conditions de valeur et d’ancienneté définies à l’annexe I doit être en mesure de présenter l’autorisation de sortie temporaire ou le certificat de transfert obtenue pour ce bien culturel.
 
-<a id="art_N1098E"></a>
+<a id="art_N110CB"></a>
 
 ### Art. 72.
 
@@ -992,13 +992,13 @@ Toute personne qui sort à titre temporaire un bien culturel classé ou transfè
 
 ##### Sous-Section 2 — Introduction, importation et exportation de biens culturels
 
-<a id="art_N109B4"></a>
+<a id="art_N1110C"></a>
 
 ### Art. 73.
 
 Le ministre est l’autorité compétente en vertu de l’article 2, point 5°, du règlement (UE) 2019/880 pour la délivrance des licences d’importation de biens culturels.
 
-<a id="art_N109C1"></a>
+<a id="art_N11121"></a>
 
 ### Art. 74.
 
@@ -1018,13 +1018,13 @@ En cas de refus de la demande de licence d’importation, le ministre en informe
 
 **(4)** Si aucune décision n’est prise dans le délai visé au paragraphe 1er, les biens culturels sont réexportés au pays d’exportation.
 
-<a id="art_N10A1E"></a>
+<a id="art_N111B4"></a>
 
 ### Art. 75.
 
 Le ministre est l’autorité compétente en vertu de l’article 3 du règlement (CE) n° 116/2009 du Conseil du 18 décembre 2008 concernant l’exportation de biens culturels (ci-après le « règlement (CE) n° 116/2009 ») pour la délivrance des autorisations d’exportation de biens culturels.
 
-<a id="art_N10A30"></a>
+<a id="art_N111CE"></a>
 
 ### Art. 76.
 
@@ -1042,7 +1042,7 @@ En cas de rejet de la demande d’autorisation d’exportation, le ministre en i
 
 ##### Sous-section 3 — Restitution des biens culturels ayant quitté illicitement le territoire d’un État membre de l’Union européenne
 
-<a id="art_N10A76"></a>
+<a id="art_N11244"></a>
 
 ### Art. 77.
 
@@ -1058,19 +1058,19 @@ Aux fins de la présente sous-section, on entend par :
 7. « détenteur » : la personne qui a la détention matérielle du bien culturel pour compte d’autrui ;
 8. « collections publiques » : les collections, définies comme publiques conformément à la législation d’un État membre, qui sont la propriété dudit État membre, d’une autorité locale ou régionale dans ledit État membre, ou d’une institution située sur le territoire dudit État membre, à condition qu’une telle institution soit la propriété de cet État membre ou d’une autorité locale ou régionale, ou qu’elle soit financée de façon significative par cet État membre ou cette autorité locale ou régionale.
 
-<a id="art_N10AA4"></a>
+<a id="art_N11286"></a>
 
 ### Art. 78.
 
 Les biens culturels ayant quitté illicitement le territoire d’un État membre de l’Union européenne sont restitués conformément à la procédure et dans les conditions prévues à la présente sous-section.
 
-<a id="art_N10AAC"></a>
+<a id="art_N11296"></a>
 
 ### Art. 79.
 
 Le ministre est l’autorité centrale compétente pour exercer les fonctions prévues par la présente sous-section.
 
-<a id="art_N10AB4"></a>
+<a id="art_N112A6"></a>
 
 ### Art. 80.
 
@@ -1083,7 +1083,7 @@ Le ministre coopère avec les autorités centrales des autres États membres et 
 5. prévenir, par des mesures provisoires nécessaires, que le bien culturel soit soustrait à la procédure de restitution ;
 6. Les autorités centrales des États membres de l’Union européenne coopèrent et se consultent en utilisant un module du système d’information du marché intérieur, ci-après « IMI », établi par le règlement (UE) n° 1024/2012 du Parlement européen et du Conseil du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la décision 2008/49/CE de la Commission (« règlement IMI »).
 
-<a id="art_N10AD9"></a>
+<a id="art_N112DA"></a>
 
 ### Art. 81.
 
@@ -1091,7 +1091,7 @@ Les agents visés à l’article 117, paragraphe 1er, recherchent les biens cult
 
 Afin de permettre la vérification prévue à l’article 80, point 1, ils sont autorisés, dans les formes légales, à se faire ouvrir l’accès des lieux où les biens recherchés sont susceptibles de se trouver.
 
-<a id="art_N10AE8"></a>
+<a id="art_N112F6"></a>
 
 ### Art. 82.
 
@@ -1100,7 +1100,7 @@ Le ministre peut assigner le possesseur ou détenteur d’un bien culturel récl
 1. d’ordonner toute mesure nécessaire en vue d’assurer la conservation matérielle de ce bien et d’éviter qu’il soit soustrait à la procédure de restitution et, le cas échéant,
 2. d’interdire au possesseur ou détenteur de ce bien de le déplacer ou d’en disposer et de désigner un gardien pour la durée de la procédure en restitution.
 
-<a id="art_N10AF8"></a>
+<a id="art_N11311"></a>
 
 ### Art. 83.
 
@@ -1113,7 +1113,7 @@ Pour être recevable, l’acte introductif de l’action en restitution est acco
 1. d’un document décrivant le bien faisant l’objet de la demande et déclarant que celui-ci est un bien culturel,
 2. d’une déclaration des autorités compétentes de l’État membre requérant selon laquelle le bien culturel a quitté illicitement son territoire.
 
-<a id="art_N10B10"></a>
+<a id="art_N1133E"></a>
 
 ### Art. 84.
 
@@ -1123,7 +1123,7 @@ Le ministre informe sans délai les autorités centrales des autres États membr
 
 Les échanges d’information entre autorités compétentes sont effectués par l’intermédiaire de l’IMI et ce conformément aux dispositions juridiques applicables en matière de protection des données à caractère personnel.
 
-<a id="art_N10B20"></a>
+<a id="art_N11360"></a>
 
 ### Art. 85.
 
@@ -1133,7 +1133,7 @@ En tout état de cause, l’action en restitution se prescrit dans un délai de 
 
 L’action en restitution est irrecevable si la sortie du territoire national de l’État membre requérant n’est plus illégale au moment où l’action est introduite.
 
-<a id="art_N10B30"></a>
+<a id="art_N11382"></a>
 
 ### Art. 86.
 
@@ -1141,7 +1141,7 @@ Sous réserve de la prescription, la restitution du bien culturel réclamé est 
 
 La propriété du bien culturel est, après la restitution, régie par la loi de l’État requérant.
 
-<a id="art_N10B3F"></a>
+<a id="art_N1139E"></a>
 
 ### Art. 87.
 
@@ -1153,19 +1153,19 @@ En cas de donation ou de succession, le possesseur peut bénéficier d’un stat
 
 L’indemnité est payée par l’État requérant au moment de la restitution.
 
-<a id="art_N10B53"></a>
+<a id="art_N113C9"></a>
 
 ### Art. 88.
 
 Sont à charge de l’État requérant les dépenses qui résultent de l’exécution de la décision judiciaire ordonnant la restitution du bien culturel, ainsi que les frais résultants des mesures prises en vertu de l’article 80, point 4, pour assurer la conservation matérielle du bien culturel.
 
-<a id="art_N10B5B"></a>
+<a id="art_N113D9"></a>
 
 ### Art. 89.
 
 Le paiement de l’indemnité équitable visée à l’article 87 et des dépenses visées à l’article 88 ne porte pas atteinte au droit de l’État membre requérant de réclamer le remboursement de ces montants aux personnes responsables de la sortie illicite du bien culturel de son territoire.
 
-<a id="art_N10B63"></a>
+<a id="art_N113E9"></a>
 
 ### Art. 90.
 
@@ -1173,7 +1173,7 @@ La présente sous-section ne porte pas préjudice aux actions civiles ou pénale
 
 ##### Sous-section 4 — Restitution des biens culturels ayant quitté illicitement le territoire d’un État partie à la Convention UNESCO
 
-<a id="art_N10B74"></a>
+<a id="art_N11405"></a>
 
 ### Art. 91.
 
@@ -1181,13 +1181,13 @@ La présente sous-section ne porte pas préjudice aux actions civiles ou pénale
 
 L’État requérant est tenu de fournir, à ses frais, tout moyen de preuve nécessaire pour justifier sa requête en restitution.
 
-<a id="art_N10B8D"></a>
+<a id="art_N1142B"></a>
 
 ### Art. 92.
 
 Suite à la réquisition de l’État requérant par voie diplomatique, le ministre se prononce dans un délai de trois mois. Toutes les dépenses afférentes à la restitution du bien culturel sont à la charge de l’État requérant.
 
-<a id="art_N10B95"></a>
+<a id="art_N1143B"></a>
 
 ### Art. 93.
 
@@ -1195,7 +1195,7 @@ Lors de la restitution, l’acquéreur ou le sous-acquéreur de bonne foi entre 
 
 Le paiement de l’indemnité équitable et les dépenses afférentes à la restitution ne portent pas atteinte au droit de l’État requérant de réclamer le remboursement de ces montants aux personnes responsables de la sortie illicite du bien culturel de son territoire.
 
-<a id="art_N10BA1"></a>
+<a id="art_N11454"></a>
 
 ### Art. 94.
 
@@ -1203,7 +1203,7 @@ La présente sous-section ne porte pas préjudice aux actions civiles ou pénale
 
 ##### Sous-Section 5 — Restitution des biens culturels ayant quitté illicitement le territoire d’un État partie à la Convention de la Haye
 
-<a id="art_N10BB2"></a>
+<a id="art_N11470"></a>
 
 ### Art. 95.
 
@@ -1213,7 +1213,7 @@ Un bien culturel qui a été importé, après le 13 juillet 1961 et ce en applic
 
 ##### Sous-Section 1 — Garantie d’État
 
-<a id="art_N10BD2"></a>
+<a id="art_N1149E"></a>
 
 ### Art. 96.
 
@@ -1229,7 +1229,7 @@ Dans des circonstances exceptionnelles dûment motivées et sur avis de la commi
 
 **(2)** Une garantie d’État ne peut être accordée que si les lieux d’exposition, d’expertise, de recherche ou de restauration et les conditions de transport des biens culturels empruntés remplissent les conditions de sécurité nécessaires au vu de la valeur des biens culturels.
 
-<a id="art_N10C01"></a>
+<a id="art_N114EA"></a>
 
 ### Art. 97.
 
@@ -1237,7 +1237,7 @@ La garantie d’État couvre les dommages qui résultent du vol, de la perte ou 
 
 La garantie d’État peut déterminer un seuil en dessous duquel le dommage subi est à charge de l’emprunteur.
 
-<a id="art_N10C0D"></a>
+<a id="art_N11503"></a>
 
 ### Art. 98.
 
@@ -1249,7 +1249,7 @@ La garantie d’État peut déterminer un seuil en dessous duquel le dommage sub
 2. une copie du contrat de prêt ;
 3. la liste des biens culturels faisant l’objet du contrat de prêt ainsi que leur prix ou valeur respectifs et la valeur d’assurance agréée par le propriétaire et le bénéficiaire de la garantie des biens culturels.
 
-<a id="art_N10C2B"></a>
+<a id="art_N11538"></a>
 
 ### Art. 99.
 
@@ -1262,7 +1262,7 @@ La commission de circulation des biens culturels instituée à l’article 110 e
 
 L’avis de la commission de circulation des biens culturels est produit dans un délai d’un mois à partir de la réception de la demande de garantie d’État. Passé ce délai la demande de garantie est censée être agréée.
 
-<a id="art_N10C4C"></a>
+<a id="art_N1156E"></a>
 
 ### Art. 100.
 
@@ -1272,7 +1272,7 @@ La garantie d’État devient caduque si le sinistre susceptible d’engager la 
 
 ##### Sous-Section 2 — Garantie de restitution
 
-<a id="art_N10C61"></a>
+<a id="art_N11593"></a>
 
 ### Art. 101.
 
@@ -1282,7 +1282,7 @@ Une garantie de restitution peut être délivrée par le ministre sur avis du mi
 2. aux établissements publics à vocation culturelle ; ou
 3. aux personnes morales de droit privé qui jouent un rôle porteur dans le domaine culturel et bénéficient à ce titre d’un soutien financier annuel de la part de l’État.
 
-<a id="art_N10C78"></a>
+<a id="art_N115B6"></a>
 
 ### Art. 102.
 
@@ -1307,7 +1307,7 @@ La demande est publiée par le ministre par tous les moyens appropriés. La publ
 
 La garantie de restitution fait l’objet d’une publication au Journal officiel du Grand-Duché de Luxembourg.
 
-<a id="art_N10CBA"></a>
+<a id="art_N1162E"></a>
 
 ### Art. 103.
 
@@ -1324,7 +1324,7 @@ La garantie de restitution ne peut pas être annulée ni retirée.
 
 #### Section 1 — Inventaire du patrimoine immatériel
 
-<a id="art_N10CEA"></a>
+<a id="art_N11675"></a>
 
 ### Art. 104.
 
@@ -1352,7 +1352,7 @@ Pour être inscrit à l’inventaire national du patrimoine immatériel, l’él
 
 **(6)** L’inventaire du patrimoine immatériel est mis à jour après chaque nouvelle inscription et rendu accessible au public sur un support électronique installé à cet effet et par tout autre moyen approprié.
 
-<a id="art_N10D3D"></a>
+<a id="art_N1170A"></a>
 
 ### Art. 105.
 
@@ -1365,7 +1365,7 @@ Le ministre prend toute mesure propre à assurer la sauvegarde, la reconnaissanc
 
 ### Chapitre 6 — Autorisations et voies de recours judiciaires
 
-<a id="art_N10D5D"></a>
+<a id="art_N1173A"></a>
 
 ### Art. 106.
 
@@ -1375,7 +1375,7 @@ L’ordonnance peut être frappée d’appel dans un délai de quinze jours à p
 
 L’appel est porté devant la Cour d’appel. Il est formé par le dépôt d’une requête motivée au greffe du tribunal d’arrondissement. La date du dépôt est inscrite par le greffier sur l’original de la requête. Dans les trois jours du dépôt de la requête, le dossier est transmis à la Cour d’appel. L’appel est jugé selon la même procédure qu’en première instance.
 
-<a id="art_N10D72"></a>
+<a id="art_N11761"></a>
 
 ### Art. 107.
 
@@ -1383,7 +1383,7 @@ Les décisions administratives prévues par la présente loi sont susceptibles d
 
 ### Chapitre 7 — Indemnisation pour classement comme patrimoine culturel national
 
-<a id="art_N10D8B"></a>
+<a id="art_N11784"></a>
 
 ### Art. 108.
 
@@ -1395,7 +1395,7 @@ La demande d’indemnité est adressée au ministre. À défaut d’accord sur l
 
 #### Section 1 — Commission pour le patrimoine culturel
 
-<a id="art_N10DB5"></a>
+<a id="art_N117BE"></a>
 
 ### Art. 109.
 
@@ -1407,7 +1407,7 @@ Un règlement grand-ducal fixe la composition, le fonctionnement ainsi que les i
 
 #### Section 2 — Commission de circulation des biens culturels
 
-<a id="art_N10DD1"></a>
+<a id="art_N117EE"></a>
 
 ### Art. 110.
 
@@ -1419,7 +1419,7 @@ Un règlement grand-ducal fixe la composition, le fonctionnement ainsi que les i
 
 ### Chapitre 9 — Fonds pour le patrimoine architectural
 
-<a id="art_N10DED"></a>
+<a id="art_N1181F"></a>
 
 ### Art. 111.
 
@@ -1430,7 +1430,7 @@ Le Fonds pour le patrimoine architectural a pour objet de contribuer par la part
 1. la protection et la conservation des éléments du patrimoine architectural ;
 2. la valorisation et la sensibilisation quant aux éléments du patrimoine architectural.
 
-<a id="art_N10E01"></a>
+<a id="art_N11843"></a>
 
 ### Art. 112.
 
@@ -1442,7 +1442,7 @@ Le ministre est autorisé à y imputer :
 4. les subventions en capital allouées par l’État conformément aux articles 34 à 36 à toute personne morale ou physique qui procède comme propriétaire ou maître d’ouvrage à la conservation des biens immeubles classés ou pour lesquels une procédure de classement a été entamée ou encore des biens immeubles faisant partie d’un secteur protégé d’intérêt national ;
 5. loi modifiée du 19 juillet 2004
 
-<a id="art_N10E1C"></a>
+<a id="art_N1186C"></a>
 
 ### Art. 113.
 
@@ -1457,7 +1457,7 @@ Le ministre est autorisé à y imputer :
 
 **(3)** Le Fonds pour le patrimoine architectural est alimenté par des dotations budgétaires annuelles.
 
-<a id="art_N10E44"></a>
+<a id="art_N118B4"></a>
 
 ### Art. 114.
 
@@ -1469,7 +1469,7 @@ Le comité d’accompagnement a pour mission de suivre la mise au point des proj
 
 ### Chapitre 10 — Dispositions pénales
 
-<a id="art_N10E65"></a>
+<a id="art_N118E9"></a>
 
 ### Art. 115.
 
@@ -1477,7 +1477,7 @@ Le ministre interdit la continuation des travaux contraires à la loi ou à une 
 
 Est punie conformément à l’article 117, toute personne qui par infraction au présent article poursuit les travaux visés par l’interdiction ministérielle.
 
-<a id="art_N10E71"></a>
+<a id="art_N11902"></a>
 
 ### Art. 116.
 
@@ -1491,7 +1491,7 @@ Est punie conformément à l’article 117, toute personne qui par infraction au
 
 **(5)** L’article 458 du Code pénal est applicable aux agents visés au paragraphe 4.
 
-<a id="art_N10EAB"></a>
+<a id="art_N11967"></a>
 
 ### Art. 117.
 
@@ -1539,19 +1539,19 @@ La tentative est punissable d’une amende de 251 à 500 000 euros.
 
 En cas de récidive, la peine peut être portée au double.
 
-<a id="art_N10F8B"></a>
+<a id="art_N11A87"></a>
 
 ### Art. 118.
 
 Lorsque l’auteur de l’infraction est une personne agissant dans le cadre de ses fonctions professionnelles ou lorsque le bien culturel objet de l’infraction est un bien classé comme patrimoine culturel national, les infractions visées à l’article 117 sont punies d’un emprisonnement de huit jours à six mois et d’une amende de 500 à 1 000 000 euros ou l’une de ces peines seulement.
 
-<a id="art_N10F93"></a>
+<a id="art_N11A97"></a>
 
 ### Art. 119.
 
 Lorsque l’objet des infractions à l’article 72, paragraphe 1er, de la présente loi et à l’article 3, point 1, alinéa 1er, et point 2, du règlement (UE) 2019/880 est un bien culturel en provenance de pays en conflit armé, les infractions sont punies d’un emprisonnement de huit jours à six mois et d’une amende de 500 à 1 000 000 euros ou l’une de ces peines seulement.
 
-<a id="art_N10FA6"></a>
+<a id="art_N11AB2"></a>
 
 ### Art. 120.
 
@@ -1559,13 +1559,13 @@ Le juge ordonne, aux frais des contrevenants, le rétablissement des immeubles e
 
 ### Chapitre 11 — Dispositions modificatives
 
-<a id="art_N10FB8"></a>
+<a id="art_N11ACF"></a>
 
 ### Art. 121.
 
 Les articles 17-1 à 17-4 de la loi modifiée du 4 mars 1982 a) portant création d´un Fonds culturel national ; b) modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie sont abrogés.
 
-<a id="art_N10FC5"></a>
+<a id="art_N11AE4"></a>
 
 ### Art. 122.
 
@@ -1622,13 +1622,13 @@ La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels
 15. de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale **(2)** L’Institut national de recherches archéologiques comprend, outre les services administratifs et techniques nécessaires à son bon fonctionnement, dont un service de comptabilité, les deux départements suivants : 1. Département « Archéologie territoriale » ;
 2. Département « Recherche archéologique ».
 
-<a id="art_N110D9"></a>
+<a id="art_N11C8B"></a>
 
 ### Art. 123.
 
 L’article 7, paragraphe 7, de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles est modifié comme suit :(7)Lorsqu’une construction existante dans la zone verte fait l’objet d’un classement comme patrimoine culturel national ou fait partie d’un secteur protégé d’intérêt national par application de loi du 25 février 2022 relative au patrimoine culturel, le ministre peut déroger au présent article
 
-<a id="art_N110F5"></a>
+<a id="art_N11CB7"></a>
 
 ### Art. 124.
 
@@ -1636,7 +1636,7 @@ Les articles 12, 14 et 15 de la loi du 17 août 2018 relative à l’archivage s
 
 ### Chapitre 12 — Dispositions abrogatoires
 
-<a id="art_N1110E"></a>
+<a id="art_N11CDA"></a>
 
 ### Art. 125.
 
@@ -1648,25 +1648,25 @@ Sont abrogées :
 
 ### Chapitre 13 — Dispositions transitoires
 
-<a id="art_N11140"></a>
+<a id="art_N11D1A"></a>
 
 ### Art. 126.
 
 Les travaux en cours de réalisation au moment de l’entrée en vigueur de la présente loi et financés par le Fonds pour les monuments historiques, continueront à bénéficier du Fonds pour le patrimoine architectural.
 
-<a id="art_N11148"></a>
+<a id="art_N11D2A"></a>
 
 ### Art. 127.
 
 Avec l’entrée en vigueur de la présente loi, les biens immeubles classés comme monuments nationaux en vertu de la loi modifiée du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux sont considérés classés comme patrimoine culturel national aux termes de la présente loi jusqu’à l’entrée en vigueur du règlement grand-ducal de classement comme patrimoine culturel national des immeubles sur l’inventaire du patrimoine architectural pour la commune sur le territoire de laquelle les biens immeubles se situent. Ce règlement grand-ducal annule et remplace la mesure de classement de la loi précitée du 18 juillet 1983.
 
-<a id="art_N1115A"></a>
+<a id="art_N11D44"></a>
 
 ### Art. 128.
 
 Avec l’entrée en vigueur de la présente loi, les biens immeubles inscrits sur l’inventaire supplémentaire en vertu de la loi modifiée du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux continuent à être traités comme immeubles inscrits sur l’inventaire supplémentaire au sens de cette loi avec tous les effets juridiques liés à ce statut jusqu’à l’entrée en vigueur du règlement grand-ducal de classement comme patrimoine culturel national des immeubles sur l’inventaire du patrimoine architectural pour la commune sur le territoire de laquelle les biens immeubles se situent. Ce règlement grand-ducal annule et remplace la mesure de protection de la loi modifiée du 18 juillet 1983.
 
-<a id="art_N1116C"></a>
+<a id="art_N11D5E"></a>
 
 ### Art. 129.
 
@@ -1676,7 +1676,7 @@ Cette obligation d’information reste en vigueur jusqu’à ce que l’inventai
 
 **(2)** Une fois informé, le ministre peut dans un délai de trois mois initier une procédure de classement individuel pour le bien immeuble en question selon la procédure prévue aux articles ci-après. Passé ce délai, le projet est censé être agréé.
 
-<a id="art_N11187"></a>
+<a id="art_N11D91"></a>
 
 ### Art. 130.
 
@@ -1692,7 +1692,7 @@ La procédure de classement d’un bien immeuble comme patrimoine culturel natio
 
 Un règlement grand-ducal détermine les modalités de saisine et les documents à joindre à la demande de protection.
 
-<a id="art_N111A5"></a>
+<a id="art_N11DC7"></a>
 
 ### Art. 131.
 
@@ -1714,7 +1714,7 @@ La commission et le conseil communal de la commune sur le territoire de laquelle
 
 Passé ce délai, la procédure devient caduque.
 
-<a id="art_N111E1"></a>
+<a id="art_N11E42"></a>
 
 ### Art. 132.
 
@@ -1732,7 +1732,7 @@ Le ministre transmet l’arrêté de classement au ministre ayant l’aménageme
 
 **(3)** Les effets juridiques liés au statut de classement comme patrimoine culturel national sont ceux énumérés aux articles 30 à 40 et ce jusqu’à l’entrée en vigueur du règlement grand-ducal de classement comme patrimoine culturel national des immeubles sur l’inventaire du patrimoine architectural pour la commune sur le territoire de laquelle les biens immeubles se situent. Ce règlement grand-ducal annule et remplace la mesure de classement en vertu du présent article.
 
-<a id="art_N1120D"></a>
+<a id="art_N11E9D"></a>
 
 ### Art. 133.
 
@@ -1747,7 +1747,7 @@ Le ministre transmet l’arrêté de classement au ministre ayant l’aménageme
 
 **(3)** L’arrêté de déclassement est notifié au propriétaire du bien immeuble ainsi qu’à l’auteur de la demande de déclassement et est transcrit par les soins du ministre au bureau des hypothèques de la situation du bien immeuble classé comme patrimoine culturel national.
 
-<a id="art_N11235"></a>
+<a id="art_N11EE5"></a>
 
 ### Art. 134.
 
@@ -1755,13 +1755,13 @@ Le ministre transmet l’arrêté de classement au ministre ayant l’aménageme
 
 ### Chapitre 14 — Intitulé de citation et mise en vigueur
 
-<a id="art_N1124E"></a>
+<a id="art_N11F08"></a>
 
 ### Art. 135.
 
 La référence à la présente loi se fait sous la forme suivante : « loi du 25 février 2022 relative au patrimoine culturel ».
 
-<a id="art_N1125C"></a>
+<a id="art_N11F1D"></a>
 
 ### Art. 136.
 
@@ -1775,7 +1775,7 @@ La présente loi entre en vigueur le jour de sa publication au Journal officiel 
 
 ## Règlement grand-ducal du 9 mars 2022 déterminant les informations minimales et la documentation de l’inventaire national du patrimoine immatériel.
 
-<a id="art_N113E7"></a>
+<a id="art_N1219C"></a>
 
 ### Art. 1er.
 
@@ -1793,13 +1793,13 @@ L’inventaire national du patrimoine immatériel contient les informations suiv
 10. les caractéristiques des détenteurs ou des praticiens de l’élément ;
 11. loi du 25 février 2022
 
-<a id="art_N11417"></a>
+<a id="art_N121E0"></a>
 
 ### Art. 2.
 
 L’inventaire contient, pour chaque élément inventorié, des récits ou des inventaires liés à la pratique et à la tradition de l’élément, une documentation photographique ou, le cas échéant, audiovisuelle présentant l’élément dans son état actuel et, le cas échéant, une bibliographie, filmographie ou sitographie sommaire d’ouvrages de référence publiés en relation avec l’élément.
 
-<a id="art_N1141F"></a>
+<a id="art_N121F0"></a>
 
 ### Art. 3.
 
@@ -1807,7 +1807,7 @@ Notre ministre ayant la Culture dans ses attributions est chargé de l’exécut
 
 ## Règlement grand-ducal du 9 mars 2022 déterminant les modalités de saisine et les documents à joindre à la demande de protection d’un bien culturel relevant du patrimoine mobilier comme patrimoine culturel national et les pièces à joindre à la demande d’autorisation d’opérations sur un bien culturel relevant du patrimoine mobilier classé comme patrimoine culturel national.
 
-<a id="art_N1143A"></a>
+<a id="art_N12213"></a>
 
 ### Art. 1er.
 
@@ -1821,7 +1821,7 @@ En application de l’article 45 de la loi du 25 février 2022 relative au patri
 6. loi du 25 février 2022
 7. toute autre pièce ou tout autre document utile à l’appui de la demande.
 
-<a id="art_N11461"></a>
+<a id="art_N1224A"></a>
 
 ### Art. 2.
 
@@ -1835,13 +1835,13 @@ En application de l’article 51 de la loi du 25 février 2022 relative au patri
 6. informations précises sur les matériaux à utiliser ;
 7. toute autre pièce ou tout autre document utile à l’appui de la demande.
 
-<a id="art_N11480"></a>
+<a id="art_N12279"></a>
 
 ### Art. 3.
 
 Toute modification des informations et pièces à l’article 2 doit être communiquée sans délai au ministre.
 
-<a id="art_N11488"></a>
+<a id="art_N12289"></a>
 
 ### Art. 4.
 
@@ -1849,7 +1849,7 @@ Notre ministre ayant la Culture dans ses attributions est chargé de l’exécut
 
 ## Règlement grand-ducal du 9 mars 2022 déterminant les modalités de saisine et les documents à joindre à la demande de protection d’un bien immeuble comme patrimoine culturel national.
 
-<a id="art_N114A3"></a>
+<a id="art_N122AC"></a>
 
 ### Art. 1er.
 
@@ -1861,7 +1861,7 @@ En application de l’article 130 de la loi du 25 février 2022 relative au patr
 4. texte décrivant le bien immeuble et motivation quant à son classement en tant que patrimoine architectural ;
 5. toute autre pièce ou tout autre document utile à l’appui de la demande.
 
-<a id="art_N114C1"></a>
+<a id="art_N122D8"></a>
 
 ### Art. 2.
 
@@ -1869,7 +1869,7 @@ Notre ministre ayant la Culture dans ses attributions est chargé de l’exécut
 
 ## Règlement grand-ducal du 9 mars 2022 fixant la composition et le fonctionnement de la commission de circulation des biens culturels.
 
-<a id="art_N114DC"></a>
+<a id="art_N122FB"></a>
 
 ### Art. 1er.
 
@@ -1885,7 +1885,7 @@ Le secrétariat de la commission est exercé par un fonctionnaire désigné par 
 
 Pour chaque membre effectif, il est nommé un membre suppléant qui remplace définitivement un membre effectif en cas de vacance de poste et qui termine son mandat. Au cas où un membre effectif ne peut pas délibérer sur un ou plusieurs dossiers, il est ponctuellement remplacé par un membre suppléant. En cas de vacance de poste d’un membre suppléant, un nouveau membre suppléant est nommé par le ministre.
 
-<a id="art_N114FB"></a>
+<a id="art_N1233B"></a>
 
 ### Art. 2.
 
@@ -1897,31 +1897,31 @@ Au cas où l’ordre du jour renseigne sur des dossiers dans lesquels un ou plus
 
 À la demande d’un membre de la commission ainsi que de l’accord de la commission, des experts peuvent être consultés concernant certains dossiers à l’ordre du jour de la commission et assister à la réunion de la commission.
 
-<a id="art_N1150F"></a>
+<a id="art_N12366"></a>
 
 ### Art. 3.
 
 La commission ne délibère valablement qu’en présence de la majorité des membres. Les avis sont adoptés à la majorité simple des voix des membres présents. Les avis mentionnent le nombre de voix en faveur, en défaveur et les abstentions. L’avis peut être accompagné d’avis séparés émis par un ou plusieurs membres de la commission. Le président transmet les avis au ministre.
 
-<a id="art_N11517"></a>
+<a id="art_N12376"></a>
 
 ### Art. 4.
 
 Les membres de la commission sont tenus de garder le secret des délibérations et de ne pas divulguer les données inhérentes aux dossiers traités. Cette obligation de secret des délibérations vaut également à l’égard des experts pour les délibérations auxquelles ils assistent et pour les dossiers dont ils prennent connaissance.
 
-<a id="art_N1151F"></a>
+<a id="art_N12386"></a>
 
 ### Art. 5.
 
 Le bureau de la commission se réunit à la demande du président et a pour mission de préparer les réunions de la commission.
 
-<a id="art_N11527"></a>
+<a id="art_N12396"></a>
 
 ### Art. 6.
 
 Pour chaque participation à une réunion de la commission, les membres perçoivent un jeton de présence d’un montant de 25 euros.
 
-<a id="art_N1152F"></a>
+<a id="art_N123A6"></a>
 
 ### Art. 7.
 
@@ -1931,7 +1931,7 @@ Notre ministre ayant la Culture dans ses attributions et Notre ministre ayant le
 
 ### Chapitre 1er — Modalités de demande et de délivrance de l’agrément des opérateurs archéologiques
 
-<a id="art_N11556"></a>
+<a id="art_N123D7"></a>
 
 ### Art. 1er.
 
@@ -1945,7 +1945,7 @@ Les demandes de l’agrément prévu à l’article 9, paragraphe 1, de la loi d
 6. une preuve de l’assurance de responsabilité civile du demandeur ;
 7. toute autre pièce que le demandeur estime utile pour établir que les conditions d’agrément requises à l’article 9, paragraphe 1, de la loi sont remplies.
 
-<a id="art_N1157A"></a>
+<a id="art_N1240A"></a>
 
 ### Art. 2.
 
@@ -1953,13 +1953,13 @@ Les décisions du ministre relatives à l’agrément parviennent au demandeur d
 
 ### Chapitre 2 — Conditions de demande et d’octroi de l’autorisation ministérielle pour accomplir des opérations d’archéologie
 
-<a id="art_N1158B"></a>
+<a id="art_N12426"></a>
 
 ### Art. 3.
 
 Les demandes d’autorisation ministérielle visées aux articles 11 et 12 de la loi sont adressées au ministre au plus tard trente jours ouvrés avant le début prévu de la recherche ou de l’opération archéologique de terrain.
 
-<a id="art_N11593"></a>
+<a id="art_N12436"></a>
 
 ### Art. 4.
 
@@ -1986,7 +1986,7 @@ La demande d’autorisation ministérielle telle que prévue à l’article 11 d
 19. le cas échéant, le plan général ou particulier de sécurité et de santé au travail ;
 20. pour les opérations d’archéologie programmée, une description de l’intérêt scientifique de l’opération archéologique envisagée ainsi qu’une preuve des compétences scientifiques du responsable d’opération et du personnel archéologique.
 
-<a id="art_N115C7"></a>
+<a id="art_N12487"></a>
 
 ### Art. 5.
 
@@ -2004,7 +2004,7 @@ La demande d’autorisation ministérielle telle que prévue à l’article 12 d
 10. loi
 11. Code civil
 
-<a id="art_N115FA"></a>
+<a id="art_N124CD"></a>
 
 ### Art. 6.
 
@@ -2019,7 +2019,7 @@ L’autorisation ministérielle pour une opération d’archéologie préventive
 
 **(2)** L’octroi d’une autorisation ministérielle pour une opération d’archéologie programmée ou pour une autorisation de recherche sur base de l’article 12 s’intègre dans un projet de recherche scientifique de l’Institut national de recherches archéologiques et ne peut pas s’opposer aux objectifs de la loi.
 
-<a id="art_N11626"></a>
+<a id="art_N12516"></a>
 
 ### Art. 7.
 
@@ -2033,7 +2033,7 @@ L’autorisation ministérielle contient :
 6. un renvoi aux directives de fouille et de documentation ainsi qu’au contenu et modèle de rapport d’opération ;
 7. le cas échéant, des dispositions spécifiques à l’opération.
 
-<a id="art_N11640"></a>
+<a id="art_N12540"></a>
 
 ### Art. 8.
 
@@ -2045,7 +2045,7 @@ Au cas où le ministre notifie son intention de suspendre ou de retirer l’auto
 
 ### Chapitre 3 — Demande de classement d’un élément immeuble relevant du patrimoine archéologique
 
-<a id="art_N11659"></a>
+<a id="art_N1256E"></a>
 
 ### Art. 9.
 
@@ -2057,7 +2057,7 @@ La demande de classement comme patrimoine culturel national d’un bien immeuble
 4. texte décrivant le bien immeuble et motivation quant à son classement en que patrimoine architectural ;
 5. toute autre pièce ou tout autre document utile à l’appui de la demande.
 
-<a id="art_N1166F"></a>
+<a id="art_N12592"></a>
 
 ### Art. 10.
 
@@ -2065,7 +2065,7 @@ Notre ministre ayant la Culture dans ses attributions est chargé de l’exécut
 
 ## Règlement grand-ducal du 9 mars 2022 relatif aux informations contenues dans l’inventaire du patrimoine architectural et aux pièces à joindre aux demandes d’autorisation des travaux pour un bien immeuble faisant partie d’un secteur protégé d’intérêt national et d’autorisation de travaux sur un bien immeuble classé comme patrimoine culturel national.
 
-<a id="art_N1168A"></a>
+<a id="art_N125B6"></a>
 
 ### Art. 1er.
 
@@ -2078,7 +2078,7 @@ L’inventaire du patrimoine architectural contient :
 5. un texte descriptif par bien immeuble faisant partie du patrimoine architectural inventorié contenant et expliquant les critères ;
 6. une base de données analogue et digitale contenant les documents ci-avant ainsi que tous les autres documents utiles et produits ou reçus par l’Institut national pour le patrimoine architectural dans le cadre de ses travaux de recherche liés à l’établissement de l’inventaire du patrimoine architectural.
 
-<a id="art_N116A5"></a>
+<a id="art_N125E0"></a>
 
 ### Art. 2.
 
@@ -2094,7 +2094,7 @@ L’inventaire du patrimoine architectural contient :
 1. des travaux qui ne sont pas soumis à une autorisation communale de bâtir et de transformation ;
 2. des travaux n’affectant pas l’aspect extérieur de l’immeuble et son impact optique sur son environnement.
 
-<a id="art_N116CD"></a>
+<a id="art_N12623"></a>
 
 ### Art. 3.
 
@@ -2112,7 +2112,7 @@ Les pièces à joindre à la demande d’autorisation de travaux sur un bien imm
 7. des coupes longitudinales et transversales avec indication de la topographie existante du terrain, des modifications à apporter à la topographie avec indication des murs de soutènement à construire et de la hauteur libre des niveaux ;
 8. des études et analyses déjà effectuées sur l’immeuble classé comme patrimoine culturel national.
 
-<a id="art_N116F6"></a>
+<a id="art_N12664"></a>
 
 ### Art. 4.
 
@@ -2124,7 +2124,7 @@ Toute demande d’autorisation de faire apposer une publicité sur un bien immeu
 4. une représentation graphique à l’échelle de la publicité, avec des indications précises concernant le texte, la figuration et l’exécution, les matériaux, les couleurs, la luminosité, l’intensité et la sonorité ;
 5. des photos récentes de la façade ou de l’emplacement envisagé.
 
-<a id="art_N1170C"></a>
+<a id="art_N12688"></a>
 
 ### Art. 5.
 
@@ -2133,7 +2133,7 @@ Sont abrogés :
 1. règlement grand-ducal du 17 mars 1998 loi du 18 juillet 1983
 2. règlement grand-ducal du 21 décembre 2018 loi modifiée du 18 juillet 1983
 
-<a id="art_N11734"></a>
+<a id="art_N126BB"></a>
 
 ### Art. 6.
 
@@ -2141,7 +2141,7 @@ Notre ministre ayant la Culture dans ses attributions est chargé de l’exécut
 
 ## Règlement grand-ducal du 9 mars 2022 déterminant la composition, l’organisation et le fonctionnement de la commission pour le patrimoine culturel.
 
-<a id="art_N1174F"></a>
+<a id="art_N126DE"></a>
 
 ### Art. 1er.
 
@@ -2157,7 +2157,7 @@ Le secrétariat de la commission est exercé par un fonctionnaire désigné par 
 
 Pour chaque membre effectif, il est nommé un membre suppléant qui remplace définitivement un membre effectif en cas de vacance de poste et qui termine son mandat. Au cas où un membre effectif ne peut pas délibérer sur un ou plusieurs dossiers, il est ponctuellement remplacé par un membre suppléant. En cas de vacance de poste d’un membre suppléant, un nouveau membre suppléant est nommé par le ministre.
 
-<a id="art_N1176E"></a>
+<a id="art_N1271E"></a>
 
 ### Art. 2.
 
@@ -2169,37 +2169,37 @@ Au cas où l’ordre du jour renseigne sur des dossiers dans lesquels un ou plus
 
 À la demande du membre de la commission ainsi que de l’accord de la commission, des experts peuvent être consultés concernant certains dossiers à l’ordre du jour de la commission et assister à la réunion de la commission.
 
-<a id="art_N11782"></a>
+<a id="art_N12749"></a>
 
 ### Art. 3.
 
 La commission ne délibère valablement qu’en présence de la majorité des membres. Les avis sont adoptés à la majorité simple des voix des membres présents. Les avis mentionnent le nombre de voix en faveur, en défaveur et les abstentions. L’avis peut être accompagné d’avis séparés émis par un ou plusieurs membres de la commission. Le président transmet les avis au ministre.
 
-<a id="art_N1178A"></a>
+<a id="art_N12759"></a>
 
 ### Art. 4.
 
 Les membres de la commission sont tenus de garder le secret des délibérations et de ne pas divulguer les données inhérentes aux dossiers traités. Cette obligation de secret des délibérations vaut également à l’égard des experts pour les délibérations auxquelles ils assistent et pour les dossiers dont ils prennent connaissance.
 
-<a id="art_N11792"></a>
+<a id="art_N12769"></a>
 
 ### Art. 5.
 
 Le bureau de la commission se réunit à la demande du président et a pour mission de préparer les réunions de la commission.
 
-<a id="art_N1179A"></a>
+<a id="art_N12779"></a>
 
 ### Art. 6.
 
 Pour chaque participation à une réunion de la commission, les membres perçoivent un jeton de présence d’un montant de 25 euros.
 
-<a id="art_N117A2"></a>
+<a id="art_N12789"></a>
 
 ### Art. 7.
 
 Le règlement grand-ducal du 14 décembre 1983 fixant la composition et le fonctionnement de la Commission des Sites et Monuments nationaux est abrogé.
 
-<a id="art_N117B1"></a>
+<a id="art_N1279F"></a>
 
 ### Art. 8.
 
@@ -2207,13 +2207,13 @@ Notre ministre ayant la Culture dans ses attributions et Notre ministre ayant le
 
 ## Règlement grand-ducal du 9 mars 2022 fixant le programme, la durée et les modalités de contrôle des connaissances de la formation professionnelle spéciale portant sur la recherche et la constatation des infractions à la loi du 25 février 2022 relative au patrimoine culturel.
 
-<a id="art_N117CC"></a>
+<a id="art_N127C2"></a>
 
 ### Art. 1er.
 
 La formation professionnelle spéciale portant sur la recherche et la constatation des infractions à la loi relative au patrimoine culturel, à ses règlements d’exécution et aux mesures prises en vertu desdites dispositions légales et réglementaires, ci-après « formation professionnelle spéciale », est organisée par l’Institut national d’administration publique, ci-après « INAP », dans le cadre de la formation continue des agents de l’État, selon les besoins des agents de l’Institut national de recherches archéologiques, des agents du ministre ayant la Culture dans ses attributions en tant qu’autorité compétente au sens de l’article 73 et 75 de la loi du 25 février 2022 relative au patrimoine culturel ainsi que des agents de l’Institut national pour le patrimoine architectural chargés, conformément à l’article 116 de la loi relative au patrimoine culturel, de la constatation des infractions qui y sont visées.
 
-<a id="art_N117E1"></a>
+<a id="art_N127DF"></a>
 
 ### Art. 2.
 
@@ -2234,25 +2234,25 @@ Le programme de formation professionnelle spéciale est fixé comme suit :
 2. loi du 25 février 2022
 3. loi du 25 février 2022
 
-<a id="art_N1182D"></a>
+<a id="art_N1284F"></a>
 
 ### Art. 3.
 
 Le contrôle des connaissances se fait à l’issue de la formation prévue à l’article 2 et est organisé par l’INAP. Le contrôle des connaissances est organisé dans les trois mois qui suivent la fin de la période de l’organisation des cours. Il comporte une épreuve écrite dont le maximum des points à attribuer s’élève à soixante points. Si la note attribuée au candidat s’élève au moins à trente sur soixante points, le candidat est considéré avoir réussi la formation professionnelle spéciale et est admis à prêter le serment en qualité d’officier de police judiciaire au titre de la loi du 25 février 2022 relative au patrimoine culturel.
 
-<a id="art_N1183A"></a>
+<a id="art_N12864"></a>
 
 ### Art. 4.
 
 En cas d’échec, le candidat peut se présenter au prochain contrôle des connaissances. Le candidat est libre de participer de nouveau à la formation prévue à l’article 1er. Si la note attribuée au candidat s’élève au moins à trente sur soixante points, le candidat est considéré avoir réussi la formation et est admis à prêter le serment au titre de la loi du 25 février 2022 relative au patrimoine culturel.
 
-<a id="art_N1184A"></a>
+<a id="art_N1287C"></a>
 
 ### Art. 5.
 
 Les agents de l’État qui, au moment de l’entrée en vigueur du présent règlement, ont déjà suivi une formation correspondant au programme mentionné à l’article 2, organisée ou reconnue par l’INAP, sont de plein droit dispensés des première à troisième parties de la formation mentionnée à l’article 2 et du contrôle des connaissances prévu à l’article 3 en ce qui concerne ces trois parties.
 
-<a id="art_N11852"></a>
+<a id="art_N1288C"></a>
 
 ### Art. 6.
 
@@ -2260,19 +2260,19 @@ Notre ministre ayant la Culture dans ses attributions et Notre ministre ayant l�
 
 ## Version consolidée applicable au 23/12/2022 : Loi du 25 juin 2004 portant réorganisation des instituts culturels de l’Etat.
 
-<a id="art_N1186E"></a>
+<a id="art_N128AE"></a>
 
 ### Art. 1er.
 
 Les instituts culturels de l’État comprennent les Archives nationales, la Bibliothèque nationale du Luxembourg, le Centre national de l’audiovisuel, le Centre national de littérature, l’Institut national pour le patrimoine architectural, l’Institut national de recherches archéologiques, le Musée national d’archéologie, d’histoire et d’art et le Musée national d’histoire naturelle.
 
-<a id="art_N11896"></a>
+<a id="art_N128D6"></a>
 
 ### Art. 2.
 
 Les instituts culturels de l’Etat sont placés sous la tutelle du ministre ayant dans ses attributions la Culture, désigné ci-après par le terme «ministre».
 
-<a id="art_N118BB"></a>
+<a id="art_N128FB"></a>
 
 ### Art. 3.
 
@@ -2294,7 +2294,7 @@ Ils peuvent accepter des prêts et, avec l’approbation du ministre, prendre en
 
 **(5)** Chaque institut culturel publie annuellement un rapport d’activités.
 
-<a id="art_N11929"></a>
+<a id="art_N12969"></a>
 
 ### Art. 4.
 
@@ -2304,7 +2304,7 @@ Le directeur peut être assisté d’un nombre maximal de deux directeurs adjoin
 
 A la demande du ministre, les directeurs des instituts culturels de l’Etat se réunissent en conférence des directeurs pour délibérer de problèmes communs aux différents instituts.
 
-<a id="art_N11956"></a>
+<a id="art_N12996"></a>
 
 ### Art. 5.
 
@@ -2312,7 +2312,7 @@ Il peut être institué une commission d’accompagnement auprès de chaque inst
 
 Afin de guider et d’accompagner l’institut culturel dans ses missions, un comité scientifique peut être mis en place. Ce comité, composé d’experts dans le domaine du patrimoine culturel ou naturel géré par l’institut culturel en question, est nommé par le ministre sur avis du directeur. Les experts ont droit à un jeton de présence dont le montant est déterminé par règlement grand-ducal.
 
-<a id="art_N11983"></a>
+<a id="art_N129C3"></a>
 
 ### Art. 6.
 
@@ -2320,7 +2320,7 @@ Sans préjudice des dispositions des articles qui suivent et qui ont trait aux m
 
 Des règlements grand-ducaux peuvent créer des sections, départements, divisions, services et centres auprès des instituts culturels de l’Etat.
 
-<a id="art_N119B0"></a>
+<a id="art_N129F0"></a>
 
 ### Art. 12.
 
@@ -2336,13 +2336,13 @@ Le Musée national d’archéologie, d’histoire et d’art a pour missions :
 8. de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels ;
 9. de gérer les sites, le « Nationalmusée Um Fëschmaart - Archéologie, Histoire, Art » à Luxembourg-Ville-Haute, le Musée de la Forteresse dénommé « Musée Dräi Eechelen - Forteresse, Histoire, Identités » à Luxembourg-Kirchberg et la Villa romaine à Echternach ainsi que d’autres dépendances muséales, éducatives, scientifiques et techniques.
 
-<a id="art_N119EB"></a>
+<a id="art_N12A2B"></a>
 
 ### Art. 13. (abrogé)
 
 
 
-<a id="art_N11A15"></a>
+<a id="art_N12A55"></a>
 
 ### Art. 16.
 
@@ -2355,13 +2355,13 @@ L’Institut national pour le patrimoine architectural a pour missions :
 - d’organiser des campagnes de sensibilisation, des expositions et des conférences sur le patrimoine architectural ;
 - de coordonner et de surveiller les initiatives publiques en matière de restauration du patrimoine architectural ;
 
-<a id="art_N11A4F"></a>
+<a id="art_N12A8F"></a>
 
 ### Art. 17. (abrogé)
 
 
 
-<a id="art_N11A75"></a>
+<a id="art_N12AB5"></a>
 
 ### Art. 24bis.
 
@@ -2384,3 +2384,52 @@ L’Institut national pour le patrimoine architectural a pour missions :
 15. de coopérer avec le Musée national d’histoire naturelle pour la sauvegarde et la valorisation du patrimoine qu’il a en charge et toutes autres entités chargées de l’archéologie nationale
 
 **(2)** (abrogé)
+
+## Règlement grand-ducal du 21 juin 2023 déterminant le contenu et les modalités de la formation de base visée à l’article 12, point 1°, de la loi du 25 février 2022 relative au patrimoine culturel et abrogeant : 1° le règlement grand-ducal du 24 juillet 2011 portant création d’un Centre national de recherche archéologique auprès du Musée national d’histoire et d’art ; 2° le règlement grand-ducal du 19 décembre 2014 concernant l’allocation de subventions pour des travaux de restauration d’immeubles.
+
+<a id="art_N12B23"></a>
+
+### Art. 1er.
+
+Une formation de base est organisée et dispensée par l’Institut national de recherches archéologiques, ci-après « INRA », au moins une fois par an. La formation a pour objet d’initier toute personne intéressée aux méthodes de prospection, de documentation et de conservation du patrimoine archéologique ainsi qu’à la législation applicable en relation avec l’emploi de détecteurs de métaux et de tout autre équipement de détection électronique et magnétique en vue de la recherche des éléments du patrimoine archéologique.
+
+La durée totale de la formation s’élève à huit heures et comprend une partie théorique et une partie pratique.
+
+Le contenu de la formation est fixé comme suit :
+
+| **Module** | **Contenu** |
+| --- | --- |
+| Connaissances juridiques | Textes juridiques nationaux et internationaux en lien avec la pratique de l’emploi de détecteurs de métaux et de tout autre équipement électronique et magnétiqueAutorisations administratives nécessairesDémarches à effectuer et gestes à adopter en cas de découverte d’ossements humains, de déchets polluants, épaves ou d’objets volés, cachés ou perdus |
+| Pyrotechnie | Identification d’objets dangereux (munitions, explosifs, armes) pouvant être mis au jour lors de recherchesDangers émanant de munitionsMarquage et comportements à adopter en cas de découverteSignalement |
+| Contextes préhistoriques, historiques, archéologiques et géologiques et autres | Types de sites historiques et archéologiquesChronologie généraleGéologieHydrologie |
+| Éléments du patrimoine archéologique | Nature, identification et typologieTraitement : lavage, séchage, marquage, stabilisation, conservation et stockageInventaire et rapport de prospection |
+| Documentation géographique | Maniement du GPSUtilisation de la plateforme Géoportail national |
+
+La formation est sanctionnée par la délivrance d’un certificat de formation par l’INRA.
+
+<a id="art_N12BF8"></a>
+
+### Art. 2.
+
+Est reconnue équivalente par l’INRA toute formation délivrée par un institut étranger étatique qui a pour missions la conservation et la valorisation du patrimoine archéologique et dont le contenu est au moins équivalent au cycle de formation prévu à l’article 1er, alinéa 2, dispensé par l’INRA.
+
+<a id="art_N12C0B"></a>
+
+### Art. 3.
+
+Sont abrogés :
+
+1. règlement grand-ducal du 24 juillet 2011
+2. règlement grand-ducal du 19 décembre 2014
+
+<a id="art_N12C32"></a>
+
+### Art. 4.
+
+La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 21 juin 2023 déterminant le contenu et les modalités de la formation de base visée à l’article 12, point 1°, de la loi du 25 février 2022 relative au patrimoine culturel ».
+
+<a id="art_N12C4D"></a>
+
+### Art. 5.
+
+Notre ministre ayant la Culture dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
