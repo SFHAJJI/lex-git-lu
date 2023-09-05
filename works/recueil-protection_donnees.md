@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-protection_donnees:2022-03-03
+lex_id: lu-legilux:recueil-protection_donnees:2023-09-05
 title: Protection des données
-valid_from: 2022-03-03
-valid_to: 2023-09-04
-source: https://legilux.public.lu/eli/etat/leg/recueil/protection_donnees/20220303/fr
-source_sha256: 41b614fce0f7967062d41753ec307f160249216385451ef16dfcb1a249a4e09d
+valid_from: 2023-09-05
+valid_to: open
+source: https://legilux.public.lu/eli/etat/leg/recueil/protection_donnees/20230905/fr
+source_sha256: fbc23154d6fbcffd6ab7119a55ddb9f103de180da6d713e0b19c1165544d3f9f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -1601,17 +1601,17 @@ L’article 15 de la loi du 18 juillet 2018 sur l’Inspection générale de la 
 
 La référence à la présente loi se fait sous la forme suivante : « Loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale. »
 
-## Loi du 1er août 2018 relative au traitement des données des dossiers passagers dans le cadre de la prévention et de la répression du terrorisme et de la criminalité grave et portant modification de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État.
+## Version consolidée applicable au 05/09/2023 : Loi du 1er août 2018 relative au traitement des données des dossiers passagers dans le cadre de la prévention et de la répression du terrorisme et de la criminalité grave et portant modification de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’État.
 
 ### **Chapitre 1er ** — **Dispositions générales**
 
-<a id="art_N12355"></a>
+<a id="art_N12356"></a>
 
 ### Art. 1er.
 
 La présente loi règle le transfert, par les transporteurs aériens, des données des dossiers passagers et le traitement de ces données à des fins de prévention, de recherche, de constatation et de poursuite des infractions terroristes et des formes graves de criminalité.
 
-<a id="art_N1236B"></a>
+<a id="art_N1238E"></a>
 
 ### Art. 2.
 
@@ -1631,7 +1631,7 @@ Pour l’application de la présente loi, on entend par :
 
 ### **Chapitre 2 ** — **Unité d’informations passagers**
 
-<a id="art_N123BA"></a>
+<a id="art_N12400"></a>
 
 ### Art. 3.
 
@@ -1641,13 +1641,13 @@ Il est créé au sein de la Police grand-ducale une Unité d’informations pass
 2. du transfert de ces données et des résultats de leur traitement aux services compétents ;
 3. de l’échange de ces données et des résultats de leur traitement avec les unités d’informations passagers des autres États membres de l’Union européenne, avec Europol et avec les pays tiers.
 
-<a id="art_N123D8"></a>
+La Police grand-ducale a la qualité de responsable du traitement des données PNR.
+
+<a id="art_N12455"></a>
 
 ### Art. 4.
 
-**(1)** Le responsable de l’UIP a la qualité de responsable du traitement des données PNR.
-
-Il est désigné parmi les membres de la catégorie de traitement A1 du cadre policier de la Police grand-ducale.
+**(1).** Le responsable de l’UIP est désigné parmi les membres de la catégorie de traitement A1 du cadre policier de la Police grand-ducale.
 
 **(2)** Outre le personnel de la Police grand-ducale, l’UIP peut comprendre du personnel de l’Administration des douanes et accises et du Service de renseignement de l’État. Chaque membre du personnel de l’UIP agit dans les limites des attributions légales de l’administration dont il relève.
 
@@ -1655,7 +1655,7 @@ Les membres du personnel de l’Administration des douanes et accises et du Serv
 
 ### **Chapitre 3 ** — **Transfert des données par les transporteurs aériens**
 
-<a id="art_N12420"></a>
+<a id="art_N124C5"></a>
 
 ### Art. 5.
 
@@ -1663,7 +1663,7 @@ Sans préjudice des obligations imposées en vertu de la loi modifiée du 29 ao�
 
 Lorsqu’il s’agit d’un vol en partage de code entre un ou plusieurs transporteurs aériens, l’obligation de transférer les données PNR incombe au transporteur aérien qui assure le vol.
 
-<a id="art_N1243E"></a>
+<a id="art_N12505"></a>
 
 ### Art. 6.
 
@@ -1676,7 +1676,7 @@ Le transfert visé à l’alinéa 1er, point 2°, peut se limiter à une mise à
 
 **(2)** Lorsque l'accès à des données PNR est nécessaire pour répondre à une menace précise et réelle liée à des infractions terroristes ou à des formes graves de criminalité, l’UIP peut demander, au cas par cas, le transfert de données PNR en dehors des délais prévus au paragraphe 1er.
 
-<a id="art_N12480"></a>
+<a id="art_N1256B"></a>
 
 ### Art. 7.
 
@@ -1690,7 +1690,7 @@ Les transporteurs aériens portent à la connaissance de l’UIP le protocole co
 
 ### **Chapitre 4 ** — **Traitement des données PNR**
 
-<a id="art_N124D3"></a>
+<a id="art_N125E4"></a>
 
 ### Art. 8.
 
@@ -1698,13 +1698,13 @@ Le traitement de données PNR qui révèlent l'origine raciale ou ethnique d'une
 
 Lorsque les données PNR transférées par les transporteurs aériens comportent des informations telles que visées à l’alinéa 1er, l’UIP efface ces informations dès réception et de façon définitive.
 
-<a id="art_N124EF"></a>
+<a id="art_N12622"></a>
 
 ### Art. 9.
 
 Lorsque les données PNR transférées par les transporteurs aériens comportent des données autres que celles énumérées à l’annexe I, l’UIP efface ces données supplémentaires dès réception et de façon définitive.
 
-<a id="art_N124FF"></a>
+<a id="art_N12654"></a>
 
 ### Art. 10.
 
@@ -1725,13 +1725,13 @@ L’évaluation des passagers au regard de critères préétablis est réalisée
 
 **(6)** Lorsque les évaluations sont réalisées pour des vols entre le Grand-Duché de Luxembourg et un autre État membre de l’Union européenne auquel s’applique le règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), les conséquences de ces évaluations doivent respecter ledit règlement.
 
-<a id="art_N1257E"></a>
+<a id="art_N126FB"></a>
 
 ### Art. 11.
 
 L’UIP traite les données PNR afin de mettre à jour ou de définir de nouveaux critères à utiliser pour les évaluations visées à l’article 10.
 
-<a id="art_N1258E"></a>
+<a id="art_N1272D"></a>
 
 ### Art. 12.
 
@@ -1739,7 +1739,7 @@ L’UIP traite les données PNR aux fins de répondre aux demandes des services 
 
 ### **Chapitre 5 ** — **Services compétents**
 
-<a id="art_N125B2"></a>
+<a id="art_N12774"></a>
 
 ### Art. 13.
 
@@ -1751,7 +1751,7 @@ Sont habilités à demander à l’UIP ou à recevoir de celle-ci des données P
 
 En recherchant les crimes et délits visés à l’article 2, points 8° et 9°, le procureur d’État peut, par une décision écrite et motivée, charger un officier de police judiciaire de requérir l’UIP afin de communiquer les données des passagers conformément à l’article 12.
 
-<a id="art_N125E1"></a>
+<a id="art_N127C5"></a>
 
 ### Art. 14.
 
@@ -1759,7 +1759,7 @@ Les services compétents ne peuvent traiter les données PNR et le résultat du 
 
 L’alinéa 1er est sans préjudice des compétences de la Police grand-ducale et de l’Administration des douanes et accises lorsque d'autres infractions ou indices d'autres infractions sont détectés à la suite de ce traitement.
 
-<a id="art_N12600"></a>
+<a id="art_N12806"></a>
 
 ### Art. 15.
 
@@ -1769,7 +1769,7 @@ Les décisions produisant des effets juridiques préjudiciables à une personne 
 
 ### **Chapitre 6 ** — **Échange d’informations entre les États membres de l’Union européenne**
 
-<a id="art_N1262A"></a>
+<a id="art_N12853"></a>
 
 ### Art. 16.
 
@@ -1777,7 +1777,7 @@ Lorsqu’une personne est identifiée conformément à l’article 10, l’UIP c
 
 Lorsque l’UIP est destinataire d’informations telles que visées à l’alinéa 1er de la part d’une autre UIP, elle transmet ces informations aux services compétents.
 
-<a id="art_N12646"></a>
+<a id="art_N12891"></a>
 
 ### Art. 17.
 
@@ -1793,7 +1793,7 @@ Les dispositions du présent paragraphe ne portent pas atteinte aux dispositions
 
 **(3)** À titre exceptionnel, lorsque l'accès à des données PNR est nécessaire pour répondre à une menace précise et réelle liée à des infractions terroristes ou à des formes graves de criminalité, l'UIP d'un État membre a le droit de demander à ce que l'UIP obtienne des données PNR conformément à l'article 6, paragraphe 2, et les communique à l'UIP requérante.
 
-<a id="art_N126A0"></a>
+<a id="art_N12910"></a>
 
 ### Art. 18.
 
@@ -1801,7 +1801,7 @@ L’UIP et les services compétents visés à l’article 13 peuvent demander au
 
 Lorsqu’un service compétent demande directement des données PNR auprès de l’UIP d’un autre État membre de l’Union européenne, il transmet copie de sa demande à l’UIP.
 
-<a id="art_N126B9"></a>
+<a id="art_N1294B"></a>
 
 ### Art. 19.
 
@@ -1811,7 +1811,7 @@ La langue utilisée pour la demande et l’échange des données est celle appli
 
 ### **Chapitre 7 ** — **Conditions d’accès aux données PNR par Europol**
 
-<a id="art_N126E3"></a>
+<a id="art_N12998"></a>
 
 ### Art. 20.
 
@@ -1824,7 +1824,7 @@ La langue utilisée pour la demande et l’échange des données est celle appli
 
 ### **Chapitre 8 ** — **Transfert de données vers des pays non membres de l’Union européenne**
 
-<a id="art_N12722"></a>
+<a id="art_N129FC"></a>
 
 ### Art. 21.
 
@@ -1838,7 +1838,7 @@ L’UIP peut transférer des données PNR et le résultat de traitement de ces d
 
 Les dispositions du présent article ne portent pas atteinte aux dispositions légales sur l’entraide judiciaire internationale en matière pénale.
 
-<a id="art_N12764"></a>
+<a id="art_N12A60"></a>
 
 ### Art. 22.
 
@@ -1851,13 +1851,13 @@ Les dispositions du présent article ne portent pas atteinte aux dispositions l�
 
 L’UIP de l’État membre de l’Union européenne, qui n’a pas pu donner son accord en temps utile, est informée sans retard et le transfert est dûment enregistré et soumis à une vérification à posteriori.
 
-<a id="art_N1279E"></a>
+<a id="art_N12ABE"></a>
 
 ### Art. 23.
 
 L’UIP ne peut transférer des données PNR et les résultats du traitement de ces données aux autorités compétentes de pays non membres de l’Union européenne qu’après avoir obtenu l’assurance que l’utilisation que les destinataires entendent faire de ces données PNR respecte les conditions et garanties de la présente loi.
 
-<a id="art_N127AE"></a>
+<a id="art_N12AF0"></a>
 
 ### Art. 24.
 
@@ -1865,7 +1865,7 @@ Le délégué à la protection des données visé à l’article 29 est informé
 
 ### **Chapitre 9 ** — **Durée de conservation et dépersonnalisation des données**
 
-<a id="art_N127CF"></a>
+<a id="art_N12B34"></a>
 
 ### Art. 25.
 
@@ -1873,7 +1873,7 @@ L’UIP conserve les données PNR pendant une durée maximale de cinq ans à com
 
 À l’issue de cette période de cinq ans, elle efface les données PNR de manière définitive. Cette disposition ne s’applique pas si les données PNR spécifiques ont été transférées à un service compétent et sont utilisées dans le cadre de cas spécifiques à des fins de prévention, de détection d'infractions terroristes ou de formes graves de criminalité ou d'enquêtes ou de poursuites en la matière.
 
-<a id="art_N127E8"></a>
+<a id="art_N12B6F"></a>
 
 ### Art. 26.
 
@@ -1891,7 +1891,7 @@ L’UIP conserve les données PNR pendant une durée maximale de cinq ans à com
 1. elle est nécessaire aux fins visées à l’article 12 ;
 2. loi du 5 juillet 2016
 
-<a id="art_N12837"></a>
+<a id="art_N12BE2"></a>
 
 ### Art. 27.
 
@@ -1901,13 +1901,13 @@ Lorsque, à la suite du réexamen individuel par des moyens non automatisés con
 
 ### **Chapitre 10 ** — ** Protection des données à caractère personnel**
 
-<a id="art_N12861"></a>
+<a id="art_N12C2F"></a>
 
 ### Art. 28.
 
 L’autorité de contrôle visée à l’article 39 de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale est compétente pour contrôler et vérifier le respect des dispositions de la présente loi en ce qui concerne le traitement des données à caractère personnel. Elle exerce ses missions conformément à l’article 8 de la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données et elle dispose, à cette fin, des pouvoirs prévus à l’article 14 de la même loi.
 
-<a id="art_N12881"></a>
+<a id="art_N12C76"></a>
 
 ### Art. 29.
 
@@ -1931,7 +1931,7 @@ Par dérogation à l’alinéa 2, et sans préjudice du paragraphe 4, alinéa 2,
 
 Sans préjudice de l’article 23 du Code de procédure pénale, si le délégué à la protection des données estime que le traitement de certaines données n'était pas licite, il peut renvoyer l'affaire à la Commission nationale pour la protection des données conformément à la loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données.
 
-<a id="art_N12907"></a>
+<a id="art_N12D22"></a>
 
 ### Art. 30.
 
@@ -1943,7 +1943,7 @@ L’UIP met à la disposition du public, par les moyens de communication appropr
 4. le droit d’introduire une réclamation auprès de la Commission nationale pour la protection des données et les coordonnées de cette autorité ;
 5. l’existence du droit de demander au responsable de l’UIP l’accès aux données PNR, leur rectification ou leur effacement, et la limitation du traitement des données PNR relatives à une personne concernée.
 
-<a id="art_N1292B"></a>
+<a id="art_N12D68"></a>
 
 ### Art. 31.
 
@@ -1951,13 +1951,13 @@ L’UIP met à la disposition du public, par les moyens de communication appropr
 
 **(2)** Elles disposent des mêmes droits de réclamation et de recours juridictionnel que ceux prévus aux articles 44 à 46 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
-<a id="art_N12960"></a>
+<a id="art_N12DC1"></a>
 
 ### Art. 32.
 
 L’UIP conserve, traite et analyse les données PNR en un ou des endroits sécurisés situés sur le territoire du Grand-Duché de Luxembourg.
 
-<a id="art_N12970"></a>
+<a id="art_N12DF3"></a>
 
 ### Art. 33.
 
@@ -1965,7 +1965,7 @@ Le responsable de l’UIP met en œuvre des mesures et des procédures technique
 
 En ce qui concerne le traitement automatisé, le responsable de l’UIP met en œuvre, à la suite d'une évaluation des risques, des mesures telles que prévues à l’article 28, paragraphe 2 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.
 
-<a id="art_N12991"></a>
+<a id="art_N12E36"></a>
 
 ### Art. 34.
 
@@ -1979,7 +1979,7 @@ Cette documentation comprend :
 
 L’UIP met toute la documentation à la disposition de l'autorité de contrôle, à la demande de celle-ci.
 
-<a id="art_N129C1"></a>
+<a id="art_N12E88"></a>
 
 ### Art. 35.
 
@@ -1993,7 +1993,7 @@ L’UIP met les registres à la disposition de l'autorité de contrôle, à la d
 
 Les registres sont conservés pendant cinq ans.
 
-<a id="art_N129F5"></a>
+<a id="art_N12EDE"></a>
 
 ### Art. 36.
 
@@ -2001,7 +2001,7 @@ Lorsqu'une atteinte aux données à caractère personnel est susceptible d'engen
 
 ### **Chapitre 11 ** — **Sanctions**
 
-<a id="art_N12A16"></a>
+<a id="art_N12F22"></a>
 
 ### Art. 37.
 
@@ -2009,7 +2009,7 @@ La violation intentionnelle de l’article 8, alinéa 1er et de l’article 15 e
 
 Pour le surplus, les dispositions de l’article 47, paragraphes 1er, 2, 4, 5 et 6 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale sont applicables en ce qui concerne les violations des règles relatives à la protection des données établies par la présente loi et par les lois auxquelles elle se réfère.
 
-<a id="art_N12A40"></a>
+<a id="art_N12F6E"></a>
 
 ### Art. 38.
 
@@ -2025,13 +2025,13 @@ L’amende est prononcée par le ministre ayant la Police grand-ducale dans ses 
 
 ### **Chapitre 12 ** — **Dispositions modificatives**
 
-<a id="art_N12A97"></a>
+<a id="art_N12FEB"></a>
 
 ### Art. 39.
 
 Dans l’article 5 de la loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l’Etat, il est inséré un paragraphe 4 libellé comme suit :(4)Pour un ou plusieurs faits qui ont trait à des activités de terrorisme, d’espionnage, de prolifération d’armes de destruction massive ou de produits liés à la défense et des technologies y afférentes, ou de cyber-menace dans la mesure où celle-ci est liée aux activités précitées, le SRE peut demander la communication des données PNR visées à l’article 10, paragraphe 4, et à l’article 12, de la loi du 1er août 2018 relative au traitement des données des dossiers passagers dans le cadre de la prévention et de la répression du terrorisme et de la criminalité grave.Le directeur du SRE rapporte tous les mois par écrit au Comité la liste des consultations des données des passagers ainsi que les motifs spécifiques pour lesquels l’exercice des missions a exigé la demande de communication.En cas d’urgence, la demande de communication des données PNR peut être mise en œuvre sur autorisation verbale du directeur, à confirmer par écrit dans un délai de quarante-huit heures.
 
-<a id="art_N12AD3"></a>
+<a id="art_N1304F"></a>
 
 ### Art. 40.
 
@@ -2039,7 +2039,7 @@ Dans l’article 5 de la loi du 5 juillet 2016 portant réorganisation du Servic
 
 ### **Chapitre 13 ** — **Disposition finale**
 
-<a id="art_N12AFA"></a>
+<a id="art_N13099"></a>
 
 ### Art. 41.
 
@@ -2049,66 +2049,17 @@ La référence à la présente loi peut se faire sous une forme abrégée en rec
 
 ### ANNEXE IListe des données PNR
 
-1. Code repère du dossier passager ;
-2. Date de réservation/d'émission du billet ;
-3. Date(s) prévue(s) du voyage ;
-4. Nom(s) ;
-5. Adresse et coordonnées (numéro de téléphone, adresse électronique) ;
-6. Toutes les informations relatives aux modes de paiement, y compris l'adresse de facturation ;
-7. Itinéraire complet pour le PNR concerné ;
-8. Informations « grands voyageurs » ;
-9. Agence de voyages/agent de voyages ;
-10. Statut du voyageur, y compris les confirmations, l'enregistrement, la non-présentation ou un passager de dernière minute sans réservation ;
-11. Indications concernant la scission/division du PNR ;
-12. Remarques générales (notamment toutes les informations disponibles sur les mineurs non accompagnés de moins de 18 ans, telles que le nom et le sexe du mineur, son âge, la ou les langues parlées, le nom et les coordonnées du tuteur présent au départ et son lien avec le mineur, le nom et les coordonnées du tuteur présent à l'arrivée et son lien avec le mineur, l'agent présent au départ et à l'arrivée) ;
-13. Informations sur l'établissement des billets, y compris le numéro du billet, la date d'émission, les allers simples, les champs de billets informatisés relatifs à leur prix ;
-14. Numéro du siège et autres informations concernant le siège ;
-15. Informations sur le partage de code ;
-16. Toutes les informations relatives aux bagages ;
-17. Nombre et autres noms de voyageurs figurant dans le PNR ;
-18. Toute information préalable sur les passagers (données API) qui a été recueillie (y compris le type, le numéro, le pays de délivrance et la date d'expiration de tout document d'identité, la nationalité, le nom de famille, le prénom, le sexe, la date de naissance, la compagnie aérienne, le numéro de vol, la date de départ, la date d'arrivée, l'aéroport de départ, l'aéroport d'arrivée, l'heure de départ et l'heure d'arrivée) ;
-19. Historique complet des modifications des données PNR énumérées aux points 1 à 18.
 
-<a id="annexe_iiliste_des_infractions_visees_a_l_article_2_point_9"></a>
-
-### Annexe IIListe des infractions visées à l’article 2, point 9
-
-1. Participation à une organisation criminelle ;
-2. Traite des êtres humains ;
-3. Exploitation sexuelle des enfants et pédopornographie ;
-4. Trafic de stupéfiants et de substances psychotropes ;
-5. Trafic d'armes, de munitions et d'explosifs ;
-6. Corruption ;
-7. Fraude, y compris la fraude portant atteinte aux intérêts financiers de l'Union ;
-8. Blanchiment du produit du crime et faux monnayage, y compris la contrefaçon de l'euro ;
-9. Cybercriminalité ;
-10. Infractions graves contre l'environnement, y compris le trafic d'espèces animales menacées et le trafic d'espèces et d'essences végétales menacées ;
-11. Aide à l'entrée et au séjour irréguliers ;
-12. Meurtre, coups et blessures graves ;
-13. Trafic d'organes et de tissus humains ;
-14. Enlèvement, séquestration et prise d'otage ;
-15. Vol organisé ou vol à main armée ;
-16. Trafic de biens culturels, y compris d'antiquités et d'œuvres d'art ;
-17. Contrefaçon et piratage de produits ;
-18. Falsification de documents administratifs et trafic de faux ;
-19. Trafic de substances hormonales et d'autres facteurs de croissance ;
-20. Trafic de matières nucléaires et radioactives ;
-21. Viol ;
-22. Infractions graves relevant de la Cour pénale internationale ;
-23. Détournement d'avion/de navire ;
-24. Sabotage ;
-25. Trafic de véhicules volés ;
-26. Espionnage industriel.
 
 ## Version consolidée applicable au 25/12/2020 : Loi modifiée du 30 mai 2005 - relative aux dispositions spécifiques de protection de la personne à l’égard du traitement des données à caractère personnel dans le secteur des communications électroniques et - portant modification des articles 88-2 et 88-4 du Code d’instruction criminelle.
 
-<a id="art_N12C94"></a>
+<a id="art_N13244"></a>
 
 ### Art. 1er. Champ d’application
 
 Sous réserve des dispositions générales concernant la protection des personnes à l’égard du traitement des données à caractère personnel ou régissant les réseaux et services de communications électroniques, les dispositions suivantes s’appliquent spécifiquement au traitement de ces données à caractère personnel dans le cadre de la fourniture de services de communications électroniques accessibles au public sur les réseaux de communications publics, y compris les réseaux de communications publics qui prennent en charge les dispositifs de collecte de données et d’identification.
 
-<a id="art_N12CD1"></a>
+<a id="art_N13281"></a>
 
 ### Art. 2. Définitions
 
@@ -2129,7 +2080,7 @@ Aux fins de la présente loi on entend par:
 13. (l) «utilisateur»: une personne physique ou morale qui utilise ou demande un service de communications électroniques accessible au public à des fins privées ou professionnelles sans être nécessairement abonnée à ce service;
 14. «violation de données à caractère personnel»: une violation de la sécurité entraînant accidentellement ou de manière illicite la destruction, la perte, l’altération, la divulgation ou l’accès non autorisés de données à caractère personnel transmises, stockées ou traitées d’une autre manière en relation avec la fourniture de services de communications électroniques accessibles au public.
 
-<a id="art_N12D87"></a>
+<a id="art_N13337"></a>
 
 ### Art. 3. Sécurité du traitement
 
@@ -2165,7 +2116,7 @@ Un recours en réformation est ouvert devant le tribunal administratif contre le
 
 **(5)** Quiconque contrevient aux dispositions des paragraphes (1), (2) et (4) est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
-<a id="art_N12E6A"></a>
+<a id="art_N1341A"></a>
 
 ### Art. 4. Confidentialité des communications
 
@@ -2183,7 +2134,7 @@ Un recours en réformation est ouvert devant le tribunal administratif contre le
 
 **(4)** Quiconque contrevient aux dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
-<a id="art_N12EF6"></a>
+<a id="art_N134A6"></a>
 
 ### Art. 5. Données relatives au trafic
 
@@ -2204,7 +2155,7 @@ Un recours en réformation est ouvert devant le tribunal administratif contre le
 
 **(6)** Quiconque contrevient aux dispositions des paragraphes (1) à (5) du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
-<a id="art_N12F9D"></a>
+<a id="art_N1354D"></a>
 
 ### Art. 5-1.
 
@@ -2212,7 +2163,7 @@ Un recours en réformation est ouvert devant le tribunal administratif contre le
 
 **(2)** Les données sont détruites lorsque la durée de conservation prend fin, à l’exception des données auxquelles on a pu légalement accéder et qui ont été préservées.
 
-<a id="art_N12FEB"></a>
+<a id="art_N1359B"></a>
 
 ### Art. 5-2.
 
@@ -2226,7 +2177,7 @@ A cet effet les fournisseurs de services ou opérateurs conservent et continuent
 
 **(2)** Ces statistiques ne contiennent pas de données à caractère personnel.
 
-<a id="art_N1304D"></a>
+<a id="art_N135FD"></a>
 
 ### Art. 6. Facturation détaillée
 
@@ -2234,7 +2185,7 @@ A cet effet les fournisseurs de services ou opérateurs conservent et continuent
 
 **(2)** Les appels gratuits y compris ceux aux lignes d’assistance ne sont pas indiqués sur la facture détaillée indépendamment de son degré de détail. En outre la facture détaillée ne contient aucune indication permettant d’identifier l’appelé.
 
-<a id="art_N1309A"></a>
+<a id="art_N1364A"></a>
 
 ### Art. 7. Identification de la ligne appelante et de la ligne connectée
 
@@ -2267,13 +2218,13 @@ Aux termes du présent paragraphe on entend par «données disponibles»:
 
 **(9)** Quiconque contrevient aux dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
-<a id="art_N1318E"></a>
+<a id="art_N1373E"></a>
 
 ### Art. 8. Renvoi automatique d’appels
 
 Dans le cas où le renvoi automatique d’appels (ou déviation) est offert, le fournisseur du service confère à tout abonné la possibilité de mettre fin, par un moyen simple et gratuit, au renvoi automatique d’appels par un tiers vers son appareil terminal lorsque le fournisseur du service peut identifier l’origine des appels renvoyés. Le cas échéant, cette identification se fait en collaboration avec d’autres fournisseurs de services concernés.
 
-<a id="art_N131C4"></a>
+<a id="art_N13774"></a>
 
 ### Art. 9. Données de localisation autres que les données relatives au trafic
 
@@ -2293,7 +2244,7 @@ Lorsque l’abonné ou l’utilisateur a donné son consentement au traitement d
 
 **(6)** Quiconque contrevient aux dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
-<a id="art_N13268"></a>
+<a id="art_N13818"></a>
 
 ### Art. 10. Annuaires d’abonnés
 
@@ -2305,7 +2256,7 @@ Lorsque l’abonné ou l’utilisateur a donné son consentement au traitement d
 
 **(3)** Quiconque contrevient aux dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
-<a id="art_N132CE"></a>
+<a id="art_N1387E"></a>
 
 ### Art. 10bis. Fichier centralisé auprès de l’Institut
 
@@ -2345,7 +2296,7 @@ Les données visées au paragraphe 2 doivent être effacées irrémédiablement 
 
 **(8)** L’institut fait procéder régulièrement à un audit sur le fonctionnement du fichier prévu au paragraphe 1er pour contrôler la mise en œuvre des mesures techniques et organisationnelles appropriées.
 
-<a id="art_N133FE"></a>
+<a id="art_N139AE"></a>
 
 ### Art. 11. Communications non sollicitées
 
@@ -2361,13 +2312,13 @@ Les données visées au paragraphe 2 doivent être effacées irrémédiablement 
 
 **(6)** Quiconque contrevient aux dispositions du présent article est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement. La juridiction saisie peut prononcer la cessation du traitement contraire aux dispositions du présent article sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
-<a id="art_N1348B"></a>
+<a id="art_N13A3B"></a>
 
 ### Art. 12. Commission nationale pour la protection des données
 
 La Commission nationale pour la protection des données instituée par l’article 32 de la loi du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel est chargée d’assurer l’application des dispositions de la présente loi et de ses règlements d’exécution sans préjudice de l’application de l’article 8 de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel.
 
-<a id="art_N134CB"></a>
+<a id="art_N13A7B"></a>
 
 ### Art. 12bis. Action en cessation
 
@@ -2377,13 +2328,13 @@ La Commission nationale pour la protection des données instituée par l’artic
 4. Il ne peut être procédé à l’affichage et à la publication qu’en vertu d’une décision judiciaire coulée en force de chose jugée.
 5. Tout manquement aux injonctions ou interdictions portées par une décision judiciaire prononcée en vertu du présent article et coulée en force de chose jugée est puni d’une amende de 251 à 50.000 euros.
 
-<a id="art_N13518"></a>
+<a id="art_N13AC8"></a>
 
 ### Art. 13. Disposition transitoire
 
 Le fournisseur offrant un annuaire public au sens de l’article 10 avant l’entrée en vigueur de la présente loi informe l’abonné sans délai et conformément à l’article 10 paragraphe (1) de la finalité du traitement de ses données.
 
-<a id="art_N1354E"></a>
+<a id="art_N13AFE"></a>
 
 ### Art. 14. Dispositions modificatives
 
@@ -2396,13 +2347,13 @@ Les articles suivants du Code d’instruction criminelle sont modifiés comme su
 2. Code d’instruction criminelle 1. Les décisions par lesquelles le Président du Gouvernement aura ordonné la surveillance et le contrôle de télécommunications ainsi que de correspondances seront notifiées aux opérateurs des postes ou télécommunications qui feront procéder sans retard à leur exécution.
 2. Les correspondances seront remises sous scellés et contre récépissé au service de renseignements. Le chef du service fera photocopier les correspondances pouvant servir à charge ou à décharge et renverra les écrits qu’il ne juge pas nécessaire de retenir aux opérateurs des postes qui les feront remettre au destinataire.
 
-<a id="art_N135D0"></a>
+<a id="art_N13B80"></a>
 
 ### Art. 15. Disposition diverse
 
 La référence à la présente loi se fait sous une forme abrégée en recourant à l’intitulé suivant: «*Loi du 30 mai 2005 concernant la protection de la vie privée dans le secteur des communications électroniques*».
 
-<a id="art_N1360E"></a>
+<a id="art_N13BBE"></a>
 
 ### Art. 16. Entrée en vigueur
 
@@ -2410,19 +2361,19 @@ La présente loi entre en vigueur le premier jour du mois qui suit sa publicatio
 
 ## Règlement grand-ducal du 8 octobre 2020 portant fixation du siège de la Commission nationale pour la protection des données.
 
-<a id="art_N1365F"></a>
+<a id="art_N13C0F"></a>
 
 ### Art. 1er.
 
 Le siège de la Commission nationale pour la protection des données est fixé dans la commune de Sanem, localité de Belvaux.
 
-<a id="art_N13672"></a>
+<a id="art_N13C22"></a>
 
 ### Art. 2.
 
 Le règlement grand-ducal du 1er août 2018 portant fixation du siège de la Commission nationale pour la protection des données est abrogé.
 
-<a id="art_N1368A"></a>
+<a id="art_N13C3A"></a>
 
 ### Art. 3.
 
@@ -2432,13 +2383,13 @@ Notre ministre ayant les communications et les médias dans ses attributions est
 
 ### **Chapitre I ** — **Objet de la loi et définitions**
 
-<a id="art_N136BC"></a>
+<a id="art_N13C6C"></a>
 
 ### Art. 1er.
 
 La présente loi a pour objet de régler l’archivage dans l’intérêt public tant pour les besoins de la gestion et de la justification des droits des personnes physiques ou morales, publiques ou privées que pour assurer, par le biais de la sauvegarde d’un patrimoine archivistique national et dans un esprit de transparence démocratique, l’accès à la documentation d’intérêt historique, scientifique, culturel, économique ou sociétal du Grand-Duché de Luxembourg.
 
-<a id="art_N136F4"></a>
+<a id="art_N13CA4"></a>
 
 ### Art. 2.
 
@@ -2458,7 +2409,7 @@ Pour l’application de la présente loi, l’on entend par :
 
 ### **Chapitre II** — **Proposition de versement des archives publiques aux Archives nationales**
 
-<a id="art_N13760"></a>
+<a id="art_N13D10"></a>
 
 ### Art. 3.
 
@@ -2470,7 +2421,7 @@ Les archives publiques doivent être conservées de sorte que la pérennité, l�
 
 ### **Chapitre III ** — **Régimes dérogatoires**
 
-<a id="art_N137C5"></a>
+<a id="art_N13D75"></a>
 
 ### Art. 4.
 
@@ -2501,7 +2452,7 @@ La conclusion de ces contrats avec les communes et les établissements publics d
 
 Ils peuvent détruire leurs archives à défaut de réponse du directeur des Archives nationales dans un délai de trois mois.
 
-<a id="art_N13889"></a>
+<a id="art_N13E39"></a>
 
 ### Art. 5.
 
@@ -2519,7 +2470,7 @@ Tout producteur ou détenteur d’archives publiques qui s’est vu accorder le 
 
 ### **Chapitre IV ** — **Sélection et destruction des archives publiques**
 
-<a id="art_N1390C"></a>
+<a id="art_N13EBC"></a>
 
 ### Art. 6.
 
@@ -2533,7 +2484,7 @@ Un règlement grand-ducal fixe les modalités de versement d’archives aux Arch
 
 **(4)** Lorsque les archives publiques comportent des données à caractère personnel collectées dans le cadre de traitements régis par la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, ces données font l’objet, à l’expiration de la durée prévue à l’article 4 paragraphe 1er point d) de la loi précitée du 2 août 2002, d’une sélection pour déterminer les données destinées à être conservées et celles, dépourvues d’utilité administrative ou d’intérêt scientifique, statistique ou historique, destinées à être éliminées.
 
-<a id="art_N13997"></a>
+<a id="art_N13F47"></a>
 
 ### Art. 7.
 
@@ -2549,7 +2500,7 @@ La tentative des délits prévus aux alinéas 1er et 2 est punie de la même ame
 
 ### **Chapitre V ** — **Sous-traitance**
 
-<a id="art_N13A17"></a>
+<a id="art_N13FC7"></a>
 
 ### Art. 8.
 
@@ -2563,7 +2514,7 @@ Les producteurs ou détenteurs d’archives publiques qui bénéficient d’un r
 
 ### **Chapitre VI ** — **Encadrement de la gestion et de la conservation des archives publiques**
 
-<a id="art_N13A88"></a>
+<a id="art_N14038"></a>
 
 ### Art. 9.
 
@@ -2586,7 +2537,7 @@ Les modalités d’exercice de cette mission d’encadrement sont déterminées 
 
 **(4)** Sont exclus de la mission d’encadrement des Archives nationales les notaires, ainsi que les producteurs ou détenteurs d’archives publiques bénéficiant d’un régime dérogatoire tel que défini à l’article 4, paragraphe 2. Sur demande, les organismes visés bénéficient des conseils de la part des Archives nationales.
 
-<a id="art_N13B23"></a>
+<a id="art_N140D3"></a>
 
 ### Art. 10
 
@@ -2594,7 +2545,7 @@ Le directeur des Archives nationales, après consultation du Conseil des archive
 
 ### **Chapitre VII ** — **Protection des archives publiques**
 
-<a id="art_N13B68"></a>
+<a id="art_N14118"></a>
 
 ### Art. 11.
 
@@ -2604,9 +2555,9 @@ Le directeur des Archives nationales, après consultation du Conseil des archive
 
 **(3)** Toute personne détentrice d’archives publiques en violation du paragraphe 1er est punie d’une amende de 500 à 15.000 euros.
 
-<a id="art_N13BCA"></a>
+<a id="art_N1417A"></a>
 
-### art_N13BCA
+### art_N1417A
 
 1. 
 2. 
@@ -2614,7 +2565,7 @@ Le directeur des Archives nationales, après consultation du Conseil des archive
 
 ### **Chapitre VIII ** — **Archives privées**
 
-<a id="art_N13CAF"></a>
+<a id="art_N1425F"></a>
 
 ### Art. 13.
 
@@ -2626,15 +2577,15 @@ Pour chaque don ou dépôt d’archives privées auprès des instituts culturels
 
 Le don, le legs et l’acquisition d’archives privées impliquent la transmission de la responsabilité du traitement des archives privées y compris des données à caractère personnel. La responsabilité en cas de dépôt est réglée par contrat entre le déposant et le dépositaire des archives privées.
 
-<a id="art_N13D04"></a>
+<a id="art_N142B4"></a>
 
-### art_N13D04
+### art_N142B4
 
 
 
-<a id="art_N13D9C"></a>
+<a id="art_N1434C"></a>
 
-### art_N13D9C
+### art_N1434C
 
 1. 
 2. 
@@ -2648,7 +2599,7 @@ Le don, le legs et l’acquisition d’archives privées impliquent la transmiss
 
 ### **Chapitre IX** — **Communication des archives publiques**
 
-<a id="art_N13F9E"></a>
+<a id="art_N1454E"></a>
 
 ### Art. 16.
 
@@ -2682,7 +2633,7 @@ Le délai de communication est de cent ans à partir de la date du document le p
 
 Le détenteur d’archives publiques peut mettre à disposition une copie existante du document concerné.
 
-<a id="art_N14083"></a>
+<a id="art_N14633"></a>
 
 ### Art. 17.
 
@@ -2707,7 +2658,7 @@ Le détenteur d’archives publiques peut mettre à disposition une copie exista
 
 **(9)** Les producteurs ou détenteurs d’archives publiques qui conservent eux-mêmes leurs archives publiques en vertu des articles 4, paragraphes 2 et 4, et 5 peuvent autoriser la communication des archives publiques avant l’expiration des délais de communication prolongés aux conditions énoncées aux paragraphes 2 à 8. Dans ce cas, une demande d’autorisation est adressée par le demandeur au producteur ou détenteur des archives en question.
 
-<a id="art_N14150"></a>
+<a id="art_N14700"></a>
 
 ### Art. 18.
 
@@ -2717,7 +2668,7 @@ La violation du secret professionnel est passible des peines prévues par l’ar
 
 ### **Chapitre X ** — **Renseignements donnés aux personnes concernées et contestation**
 
-<a id="art_N141A3"></a>
+<a id="art_N14753"></a>
 
 ### Art. 19.
 
@@ -2739,7 +2690,7 @@ Par dérogation aux articles 16 et 18 et conformément à l’article 89, paragr
 
 ### **Chapitre XI ** — **Reproduction et publication des archives**
 
-<a id="art_N14272"></a>
+<a id="art_N14822"></a>
 
 ### Art. 20.
 
@@ -2753,7 +2704,7 @@ Toute publication d’archives privées doit être autorisée par l’institut c
 
 ### **Chapitre XII ** — **Exemplaire justificatif**
 
-<a id="art_N142E7"></a>
+<a id="art_N14897"></a>
 
 ### Art. 21.
 
@@ -2761,7 +2712,7 @@ Sans préjudice des dispositions relatives au dépôt légal, tel que défini da
 
 ### **Chapitre XIII ** — **Conseil des archives**
 
-<a id="art_N14331"></a>
+<a id="art_N148E1"></a>
 
 ### Art. 22.
 
@@ -2782,7 +2733,7 @@ Le Conseil des archives peut recourir aux services d’experts. Les membres, les
 
 ### **Chapitre XIV ** — **Dispositions modificatives**
 
-<a id="art_N143BF"></a>
+<a id="art_N1496F"></a>
 
 ### Art. 23.
 
@@ -2802,13 +2753,13 @@ La loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels
 7. de sensibiliser les institutions, administrations et services publics aux techniques de l’archivage et à la conservation des documents d’intérêt historique, scientifique, économique, sociétal et culturel national ;
 8. de contribuer au développement de l’archivistique au niveau national et au niveau international.
 
-<a id="art_N14470"></a>
+<a id="art_N14A20"></a>
 
 ### Art. 24.
 
 Aux articles 225 et 261 de la loi électorale modifiée du 18 février 2003, les mots sont transférés aux archives de l’État où ils sont conservés sont remplacés par les mots sont conservés au ministère de l’Intérieur.
 
-<a id="art_N144B0"></a>
+<a id="art_N14A60"></a>
 
 ### Art. 25.
 
@@ -2816,7 +2767,7 @@ Aux articles 225 et 261 de la loi électorale modifiée du 18 février 2003, les
 
 ### **Chapitre XV ** — **Dispositions transitoires**
 
-<a id="art_N1450F"></a>
+<a id="art_N14ABF"></a>
 
 ### Art. 26.
 
@@ -2826,13 +2777,13 @@ Tant qu’un producteur ou détenteur d’archives publiques ne dispose pas enco
 
 Par dérogation à l’alinéa 2, les archives publiques ayant plus de soixante-dix ans au moment de la publication de la présente loi doivent être proposées au versement aux Archives nationales au plus tard dans un délai d’un an.
 
-<a id="art_N14562"></a>
+<a id="art_N14B12"></a>
 
 ### Art. 27.
 
 Par dérogation à l’article 3 paragraphe 1er, le versement des archives publiques conservées auprès du producteur ou détenteur d’archives publiques n’ayant plus d’utilité administrative et ayant plus de dix ans au moment où le tableau de tri sort ses effets peut être échelonné sur une période de cinq ans.
 
-<a id="art_N1459A"></a>
+<a id="art_N14B4A"></a>
 
 ### Art. 28.
 
@@ -2840,13 +2791,13 @@ Par dérogation à l’article 3 paragraphe 1er, le versement des archives publi
 
 **(2)** Les documents visés au paragraphe 1er peuvent être détruits par les Archives nationales dès qu’ils ne présentent plus d’utilité administrative et de l’accord préalable de l’entité versante.
 
-<a id="art_N145E9"></a>
+<a id="art_N14B99"></a>
 
 ### Art. 29.
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant « loi du 17 août 2018 relative à l’archivage ».
 
-<a id="art_N14623"></a>
+<a id="art_N14BD3"></a>
 
 ### Art. 30.
 
