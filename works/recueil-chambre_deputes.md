@@ -1,34 +1,38 @@
 ---
-lex_id: lu-legilux:recueil-chambre_deputes:2023-07-01
+lex_id: lu-legilux:recueil-chambre_deputes:2023-10-24
 title: Chambre des Députés
-valid_from: 2023-07-01
-valid_to: 2023-10-23
-source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20230701/fr
-source_sha256: d24a8b86db8890ce499c999de7ae1279c50eae61aa5174ac4e7dd9b4af180dad
+valid_from: 2023-10-24
+valid_to: 2024-03-18
+source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20231024/fr
+source_sha256: ec048985fc89297924ab23c4d2ad30ced4fb03cc16154ac4b6023d6c754f1f30
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
 ---
 
-## **Version consolidée applicable au 13/12/2014 : Loi du 27 février 2011 sur les enquêtes parlementaires.**
+## Version consolidée applicable au 03/07/2023 : Loi du 27 février 2011 sur les enquêtes parlementaires.
 
 <a id="art_N10033"></a>
 
 ### Art. 1er.
 
-La Chambre des Députés exerce le droit d’enquête prévu par l’article 64 de la Constitution par une commission formée dans son sein.
+La Chambre des Députés exerce le droit d’enquête prévu par l’article 81 de la Constitution par une commission formée dans son sein.
 
 L’enquête ne peut porter que sur une question d’intérêt public, à l’exception de toute question d’ordre individuel ou privé.
 
-La résolution de la Chambre des Députés détermine les faits à la base de l’enquête et définit la mission de la commission.
+Les faits à la base de l’enquête et la mission de la commission d’enquête doivent être ceux figurant dans la demande d’institution de la commission d’enquête, adressée au Président de la Chambre des Députés.
 
-<a id="art_N1007F"></a>
+La durée des travaux de la commission ne peut pas dépasser une période de six mois. Cette durée peut toutefois être prolongée de trois mois sur la base d’une résolution adoptée par la Chambre des Députés. Aucune commission d’enquête ne peut être instituée moins de six mois avant la date fixée pour la tenue des élections législatives conformément aux dispositions de la loi électorale modifiée du 18 février 2003. Une commission ne peut être reconstituée avec le même objet avant l’expiration d’un délai de douze mois à compter de la fin de sa mission.
+
+Si elle n’est pas en mesure de présenter le rapport visé à l’article 12 dans le délai visé à l’alinéa 4 ou avant la fin de la législature, la commission d’enquête soumet en temps utile à la Chambre des Députés un rapport d’étape sur l’état d’avancement de la procédure et les résultats de l’enquête menée jusqu’alors.
+
+<a id="art_N100C6"></a>
 
 ### Art. 2.
 
 La création, la composition et les délibérations de la commission d’enquête se font selon les dispositions applicables aux commissions de la Chambre des Députés.
 
-<a id="art_N100B1"></a>
+<a id="art_N100F8"></a>
 
 ### Art. 3.
 
@@ -42,7 +46,7 @@ L’enquête parlementaire est contradictoire.
 
 Toute personne qui estime que l’enquête pourrait lui porter préjudice a le droit de demander à y être entendue et à voir ordonner des mesures d’instruction. La commission d’enquête statuera sur l’admissibilité et le bien-fondé de cette demande. Les travaux de la commission se font dans le respect des droits de la défense.
 
-<a id="art_N10118"></a>
+<a id="art_N1015F"></a>
 
 ### Art. 4.
 
@@ -58,25 +62,25 @@ La commission peut poursuivre ses travaux d’instruction pour des faits non dir
 
 La commission d’enquête peut prendre connaissance et copie des pièces et documents utiles à l’exécution de sa mission détenus par des autorités ou établissements publics. Si ces pièces sont détenues par des autorités judiciaires, l’inspection peut se faire si elle n’est pas de nature à compromettre le secret et le déroulement de l’instruction judiciaire.
 
-<a id="art_N101A0"></a>
+<a id="art_N101E7"></a>
 
 ### Art. 5.
 
 Les citations sont faites par le ministère d’huissier ou par tout autre moyen d’information équivalent, à la requête du président de la commission; le délai sera de deux jours au moins, sauf en cas d’urgence.
 
-<a id="art_N101D2"></a>
+<a id="art_N10219"></a>
 
 ### Art. 6.
 
 Le président de la commission aura la police des séances. Il l’exerce dans les limites des pouvoirs attribués aux présidents des cours et tribunaux.
 
-<a id="art_N10204"></a>
+<a id="art_N1024B"></a>
 
 ### Art. 7.
 
 Les outrages et les violences envers les membres de la Chambre des Députés qui procèdent ou assistent à l’enquête sont punis conformément aux dispositions du chap. II, titre V. livre II du Code pénal, concernant les outrages et les violences envers les ministres, les membres de la Chambre des Députés et les dépositaires de l’autorité et de la force publique.
 
-<a id="art_N1023B"></a>
+<a id="art_N10282"></a>
 
 ### Art. 8.
 
@@ -88,53 +92,57 @@ Une personne faisant l’objet d’une instruction judiciaire peut être citée 
 
 La commission peut décider d'entendre une personne à titre de simple renseignement sans que sa déposition ait lieu sous serment.
 
-<a id="art_N10299"></a>
+Les personnes entendues par la commission d’enquête peuvent prendre connaissance du verbatim de leur audition. Aucune correction ne peut être apportée au verbatim. Toutefois, l’intéressé peut faire part de ses observations par écrit. Ces observations sont soumises à la commission, qui peut décider d’en faire état dans son rapport.
+
+<a id="art_N102F5"></a>
 
 ### Art. 9.
 
 Les dispositions du Code pénal relatives au faux témoignage et à la subornation de témoins, sont applicables aux témoins, interprètes et experts entendus par la commission d’enquête.
 
-<a id="art_N102D0"></a>
+<a id="art_N1032C"></a>
 
 ### Art. 10.
 
 Les indemnités dues aux personnes dont le concours a été requis dans l’enquête, sont réglées conformément au tarif des frais en matière civile.
 
-<a id="art_N10302"></a>
+<a id="art_N1035E"></a>
 
 ### Art. 11.
 
 Les dépenses résultant de l’enquête sont imputées sur le budget de la Chambre des Députés.
 
-<a id="art_N10334"></a>
+<a id="art_N10390"></a>
 
 ### Art. 12.
 
-Les procès-verbaux ou extraits de procès-verbaux contenant des indices d'infraction sont soumis au Procureur d'État territorialement compétent pour telle suite que de droit. Il en est de même des documents et pièces dont la commission a pu prendre connaissance.
+Les procès-verbaux ou extraits de procès-verbaux contenant des indices d'infraction sont soumis au Procureur d'État territorialement compétent pour y être donnée telle suite que de droit. Il en est de même des documents et pièces dont la commission a pu prendre connaissance.
 
 La commission d'enquête présente un rapport public sur ses travaux. Elle y acte ses conclusions et formule, le cas échéant, ses observations quant aux responsabilités que l'enquête révèle et ses propositions sur une modification de la législation. Ce rapport donne lieu à un débat en séance publique à la Chambre des Députés, qui en tire les conclusions.
 
-<a id="art_N1037B"></a>
+Si la commission d’enquête ne parvient pas à un rapport consensuel, les avis minoritaires sont intégrés dans le rapport.
+
+La mission de la commission d’enquête prend fin par le dépôt de son rapport.
+
+<a id="art_N1040D"></a>
 
 ### Art. 13.
 
-La durée des travaux de la commission ne peut pas dépasser une période de neuf mois, à moins que la Chambre des Députés n'en décide autrement.
+La mission de la commission d’enquête prend fin au moment où la Chambre des Députés se réunit conformément à l’article 67 de la Constitution.
 
-Les pouvoirs de la commission cessent de plein droit en cas de dissolution de la Chambre des Députés.
-
-<a id="art_N103C2"></a>
+<a id="art_N10450"></a>
 
 ### Art. 14.
 
 La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.
 
-## **Version consolidée applicable au 01/07/2023 : Règlement de la Chambre des Députés.**
+## Règlement de la Chambre des Députés.
 
 ### TITRE I — De l’organisation de la Chambre et de son fonctionnement
 
 #### Chapitre 1 — Du Bureau provisoire
 
-<a id="art_N105F9"></a>
+<a id="art_N1068F"></a>
 
 ### Art. 1er.
 
@@ -142,7 +150,7 @@ La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.
 
 **(2)** Sauf lorsqu’elle en décide autrement sur proposition de la Conférence des Présidents, la Chambre des Députés se réunit chaque année suivante de plein droit le deuxième mardi du mois d’octobre à 14.30 heures.
 
-<a id="art_N10623"></a>
+<a id="art_N106B9"></a>
 
 ### Art. 2.
 
@@ -152,7 +160,7 @@ La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.
 
 #### Chapitre 2 — De la vérification des pouvoirs
 
-<a id="art_N10658"></a>
+<a id="art_N106EE"></a>
 
 ### Art. 3.
 
@@ -166,7 +174,7 @@ Les députés informent le Président de tout changement de leur situation à ce
 
 **(2)** Les formalités exigées au paragraphe qui précède doivent être accomplies quatre jours au plus tard avant la réunion en séance publique prévue à l’article 1er (1). Toutefois, lorsque ces formalités ne peuvent être accomplies dans le délai prévu en raison de circonstances indépendantes de la volonté des candidats élus, elles doivent être satisfaites dans les meilleurs délais et au plus tard un jour avant la réunion en séance publique au cours de laquelle leurs pouvoirs sont vérifiés.
 
-<a id="art_N106AC"></a>
+<a id="art_N10742"></a>
 
 ### Art. 4.
 
@@ -192,7 +200,7 @@ Lorsque la Chambre décide d’examiner séparément la validité des pouvoirs d
 
 **(6)** Les députés, dont les pouvoirs ont été déclarés valides, prêtent, conformément à l’article 67 (4) de la Constitution, le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir ma fonction avec intégrité, exactitude et impartialité. ».
 
-<a id="art_N10752"></a>
+<a id="art_N107E8"></a>
 
 ### Art. 5.
 
@@ -216,7 +224,7 @@ Dans le cas où la Chambre décide que le député concerné ne remplit pas les 
 
 Dans le cas où la Chambre décide que des députés sont frappés par les incompatibilités liées à la parenté ou à l’alliance, l’un des députés concernés est appelé à renoncer volontairement à son mandat. Faute d’un renoncement volontaire, il est procédé à un tirage au sort, et le député dont le nom est tiré au sort doit cesser son mandat. Le Président constate la vacance du siège du député qui a renoncé volontairement à son mandat ou qui, le cas échéant, a été déchu par tirage au sort de son mandat.
 
-<a id="art_N107DE"></a>
+<a id="art_N10874"></a>
 
 ### Art. 6.
 
@@ -230,7 +238,7 @@ En cas de doute ou de contestation sur l’éligibilité du suppléant ou sur de
 
 **(4)** Le Président proclame député le suppléant dont les pouvoirs ont été déclarés valides. Ce député prête le serment dont la teneur figure à l’article 4 (6).
 
-<a id="art_N10831"></a>
+<a id="art_N108C7"></a>
 
 ### Art. 6bis.
 
@@ -238,7 +246,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 3 — Du Bureau définitif
 
-<a id="art_N10852"></a>
+<a id="art_N108E8"></a>
 
 ### Art. 7.
 
@@ -254,25 +262,25 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 **(6)** Le Secrétaire général fait partie du Bureau, sans toutefois pouvoir participer aux votes.
 
-<a id="art_N108B9"></a>
+<a id="art_N1094F"></a>
 
 ### Art. 8.
 
 Le Bureau provisoire vérifie le nombre des votants et dépouille le scrutin.
 
-<a id="art_N108C9"></a>
+<a id="art_N1095F"></a>
 
 ### Art. 9.
 
 Au début de la législature, la Chambre nomme un Président, trois vice-présidents et neuf membres au plus ainsi que neuf membres suppléants permanents au plus.
 
-<a id="art_N108D9"></a>
+<a id="art_N1096F"></a>
 
 ### Art. 10.
 
 Lorsque la Chambre est constituée, le Président en donne connaissance au Grand-Duc et au Gouvernement.
 
-<a id="art_N108F6"></a>
+<a id="art_N1098C"></a>
 
 ### Art. 11.
 
@@ -286,7 +294,7 @@ Dans le cadre des lois s’appliquant à l’organisation et au fonctionnement d
 
 **(4)** Le Bureau peut confier à un ou plusieurs de ses membres des tâches générales ou particulières relevant de la compétence du Bureau. En même temps sont fixées les modalités d’exécution de ces tâches.
 
-<a id="art_N10958"></a>
+<a id="art_N109EE"></a>
 
 ### Art. 12.
 
@@ -302,25 +310,25 @@ Dans le cadre des lois s’appliquant à l’organisation et au fonctionnement d
 
 **(6)** En cas d’empêchement du Président de la Chambre, ses fonctions sont exercées par un membre de la Chambre suivant l’ordre de préséance établi par le Bureau.
 
-<a id="art_N109CC"></a>
+<a id="art_N10A62"></a>
 
 ### Art. 13.
 
 Les vice-présidents exercent les mêmes attributions que le Président, lorsqu’ils le remplacent.
 
-<a id="art_N109EB"></a>
+<a id="art_N10A81"></a>
 
 ### Art. 14.
 
 Les fonctions des membres du Bureau ou des membres suppléants permanents les remplaçant sont de participer à la discussion et à la prise de décisions au sein du Bureau.
 
-<a id="art_N109FB"></a>
+<a id="art_N10A91"></a>
 
 ### Art. 15.
 
 À défaut du Président et des vice-présidents, le député le plus ancien en rang préside la Chambre ou ses députations.
 
-<a id="art_N10A0B"></a>
+<a id="art_N10AA1"></a>
 
 ### Art. 16.
 
@@ -328,7 +336,7 @@ Le Président de la Chambre des Députés touche des frais de représentation.
 
 #### Chapitre 4 — Des groupes politiques et techniques
 
-<a id="art_N10A29"></a>
+<a id="art_N10ABF"></a>
 
 ### Art. 17.
 
@@ -344,13 +352,13 @@ Le Président de la Chambre des Députés touche des frais de représentation.
 
 **(6)** Les modifications apportées à la composition d’un groupe politique sont portées à la connaissance du Président de la Chambre sous la signature du président du groupe.
 
-<a id="art_N10A90"></a>
+<a id="art_N10B26"></a>
 
 ### Art. 18.
 
 Les députés qui ne font pas partie d’un groupe politique et ceux qui ne sont pas apparentés à un groupe politique peuvent former un groupe technique, dans les conditions de l’article 17, paragraphe (2). Ils désignent un coordonnateur qui sera leur porte-parole pour toutes les questions administratives et qui les représentera dans la Conférence des Présidents. Les coordonnateurs des groupes techniques ont le même statut que les présidents des groupes politiques.
 
-<a id="art_N10AA0"></a>
+<a id="art_N10B36"></a>
 
 ### Art. 19.
 
@@ -366,7 +374,7 @@ Les aides financières accordées aux groupes politiques sont destinées exclusi
 
 #### Chapitre 5 — Des commissions
 
-<a id="art_N10AEF"></a>
+<a id="art_N10B85"></a>
 
 ### Art. 20.
 
@@ -374,7 +382,7 @@ Les aides financières accordées aux groupes politiques sont destinées exclusi
 
 **(2)** Les commissions permanentes sont composées de cinq membres au minimum et de quinze membres au maximum.
 
-<a id="art_N10B23"></a>
+<a id="art_N10BB9"></a>
 
 ### Art. 21.
 
@@ -382,7 +390,7 @@ Les aides financières accordées aux groupes politiques sont destinées exclusi
 
 **(2)** Sauf décision contraire de la Chambre, la mission des commissions spéciales prend fin par le dépôt de leur rapport sur les projets de loi ou propositions dont elles ont été saisies.
 
-<a id="art_N10B57"></a>
+<a id="art_N10BED"></a>
 
 ### Art. 22.
 
@@ -398,7 +406,7 @@ Au cas où le nombre de candidats correspond au nombre de places à pourvoir, le
 
 **(5)** Une sensibilité politique non représentée dans une commission peut y déléguer un député comme observateur ayant le droit de participer aux débats.
 
-<a id="art_N10BB7"></a>
+<a id="art_N10C4D"></a>
 
 ### Art. 23.
 
@@ -412,7 +420,7 @@ Au cas où le nombre de candidats correspond au nombre de places à pourvoir, le
 
 **(5)** À défaut du président et des vice-présidents, le député le plus ancien en rang préside la commission.
 
-<a id="art_N10C0E"></a>
+<a id="art_N10CA4"></a>
 
 ### Art. 24.
 
@@ -420,7 +428,7 @@ Au cas où le nombre de candidats correspond au nombre de places à pourvoir, le
 
 **(2)** La priorité est réservée aux projets et propositions de loi.
 
-<a id="art_N10C35"></a>
+<a id="art_N10CCB"></a>
 
 ### Art. 25.
 
@@ -452,7 +460,7 @@ Les procès-verbaux du Bureau, de la Conférence des Présidents et ceux ayant t
 
 **(9)** Exceptionnellement, la commission peut décider de garder le secret des délibérations.
 
-<a id="art_N10CF9"></a>
+<a id="art_N10D8F"></a>
 
 ### Art. 26.
 
@@ -464,7 +472,7 @@ Les procès-verbaux du Bureau, de la Conférence des Présidents et ceux ayant t
 
 **(4)** Le président de la commission arrête la liste des membres présents ou absents à chaque séance, avec mention des excuses qui auraient été portées à sa connaissance.
 
-<a id="art_N10D40"></a>
+<a id="art_N10DD6"></a>
 
 ### Art. 27.
 
@@ -472,7 +480,7 @@ Le Président de la Chambre, sur avis de la Conférence des Présidents, peut pr
 
 Dans le cas où le délai n’est pas observé et que cette carence est due au rapporteur, le Président de la Chambre peut proposer à la commission de désigner un autre rapporteur. La commission peut aussi procéder de sa propre initiative à la désignation d’un autre rapporteur.
 
-<a id="art_N10D59"></a>
+<a id="art_N10DEF"></a>
 
 ### Art. 28.
 
@@ -482,7 +490,7 @@ Dans le cas où le délai n’est pas observé et que cette carence est due au r
 
 **(3)** Chaque membre de la Chambre a le droit de faire parvenir à une commission des observations écrites sur les projets ou propositions dont elle est saisie.
 
-<a id="art_N10D90"></a>
+<a id="art_N10E26"></a>
 
 ### Art. 29.
 
@@ -502,13 +510,13 @@ La décision de la commission d’être entendue par le Conseil d’État ou par
 
 L’autorisation est accordée par le Président de la Chambre sur avis conforme de la Conférence des Présidents.
 
-<a id="art_N10E0C"></a>
+<a id="art_N10EA2"></a>
 
 ### Art. 30.
 
 Les règles de fonctionnement de la commission de contrôle parlementaire du service de renseignement de l’État figurent à l’annexe 2 du présent Règlement.
 
-<a id="art_N10E1C"></a>
+<a id="art_N10EB2"></a>
 
 ### Art. 30bis.
 
@@ -516,7 +524,7 @@ Sans préjudice des dispositions prévues par la loi, le fonctionnement d’une 
 
 #### Chapitre 6 — De la Conférence des Présidents
 
-<a id="art_N10E3D"></a>
+<a id="art_N10ED3"></a>
 
 ### Art. 31.
 
@@ -546,7 +554,7 @@ Les présidents des commissions permanentes et des commissions spéciales peuven
 
 #### Chapitre 7 — Des séances publiques
 
-<a id="art_N10F11"></a>
+<a id="art_N10FA7"></a>
 
 ### Art. 32.
 
@@ -558,7 +566,7 @@ Les présidents des commissions permanentes et des commissions spéciales peuven
 
 **(4)** Si la Chambre n’en a pas décidé autrement, le commencement des séances publiques est fixé à 14.30 heures.
 
-<a id="art_N10F65"></a>
+<a id="art_N10FFB"></a>
 
 ### Art. 33.
 
@@ -572,7 +580,7 @@ Lorsque ce quorum n’est pas atteint, le Président peut faire procéder à la 
 
 **(4)** La liste des membres présents et des membres absents est portée au procès-verbal et publiée.
 
-<a id="art_N10FC5"></a>
+<a id="art_N1105B"></a>
 
 ### Art. 34.
 
@@ -582,7 +590,7 @@ Lorsque ce quorum n’est pas atteint, le Président peut faire procéder à la 
 
 **(3)** La Chambre peut décider qu’il ne sera tenu aucun procès-verbal de sa séance non publique.
 
-<a id="art_N11009"></a>
+<a id="art_N1109F"></a>
 
 ### Art. 35.
 
@@ -592,7 +600,7 @@ Lorsque ce quorum n’est pas atteint, le Président peut faire procéder à la 
 
 **(3)** Une copie des documents est adressée d’office à chaque groupe politique, chaque groupe technique, chaque sensibilité politique et, le cas échéant, aux députés non-inscrits.
 
-<a id="art_N11040"></a>
+<a id="art_N110D6"></a>
 
 ### Art. 35bis.
 
@@ -602,7 +610,7 @@ Lorsque ce quorum n’est pas atteint, le Président peut faire procéder à la 
 
 Cette demande de modification de l’ordre du jour est renvoyée à la Conférence des Présidents qui se réunit le même jour, sauf si la Chambre décide de statuer sur celle-ci.
 
-<a id="art_N11080"></a>
+<a id="art_N11116"></a>
 
 ### Art. 36.
 
@@ -614,13 +622,13 @@ Cette demande de modification de l’ordre du jour est renvoyée à la Conféren
 
 **(4)** Lorsque le temps de la parole est limité en vertu d’une disposition du présent règlement ou d’une décision de la Chambre et lorsqu’il est dépassé par l’orateur, le Président, après un avertissement, peut décider que les paroles prononcées au-delà de la limite fixée ne figureront pas au compte rendu officiel et ce sans préjudice des peines disciplinaires prévues au chapitre 9 du présent titre.
 
-<a id="art_N110C7"></a>
+<a id="art_N1115D"></a>
 
 ### Art. 37.
 
 Toute imputation de mauvaise intention, toute attaque personnelle, toute interpellation de député à député, toute manifestation ou interruption troublant l’ordre sont interdites. Les sanctions prévues à l’article 36, paragraphe (4) sont applicables.
 
-<a id="art_N110D7"></a>
+<a id="art_N1116D"></a>
 
 ### Art. 38.
 
@@ -628,7 +636,7 @@ Toute imputation de mauvaise intention, toute attaque personnelle, toute interpe
 
 **(2)** Si un orateur, après avoir été deux fois dans le même discours rappelé à la question, continue à s’en écarter, la parole lui est retirée par le Président pour le reste de la séance sur la même question. Il en est de même si un orateur, après deux avertissements, persiste à répéter ses propres arguments ou ceux produits par un autre membre dans le débat. S’il prétend la conserver après que le Président la lui a retirée et sans préjudice de l’application des dispositions relatives à l’ordre et à la discipline, le Président peut décider que les paroles du député récalcitrant ne figureront pas au compte rendu officiel.
 
-<a id="art_N110FE"></a>
+<a id="art_N11194"></a>
 
 ### Art. 39.
 
@@ -636,7 +644,7 @@ Toute imputation de mauvaise intention, toute attaque personnelle, toute interpe
 
 **(2)** L’auteur d’une proposition a le droit de parler le dernier.
 
-<a id="art_N11132"></a>
+<a id="art_N111C8"></a>
 
 ### Art. 40.
 
@@ -744,7 +752,7 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 **(9)** Les membres d’un groupe politique ou d’une sensibilité politique peuvent librement se céder entre eux tout ou partie de leur temps de parole.
 
-<a id="art_N112F6"></a>
+<a id="art_N1138C"></a>
 
 ### Art. 41.
 
@@ -767,7 +775,7 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 **(4)** Si le Président est d’avis qu’une motion d’ajournement ne tend qu’à entraver les travaux de la Chambre, il peut la soumettre immédiatement et sans débat au vote par main levée. Les demandes de suspension sont soumises à la décision du Parlement, sauf exception.
 
-<a id="art_N1136D"></a>
+<a id="art_N11403"></a>
 
 ### Art. 42.
 
@@ -779,7 +787,7 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 **(4)** Le présent article n’est applicable ni aux interpellations ni aux questions.
 
-<a id="art_N113C1"></a>
+<a id="art_N11457"></a>
 
 ### Art. 43.
 
@@ -787,7 +795,7 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 **(2)** Le Président consulte la Chambre, qui décide par main levée.
 
-<a id="art_N113F5"></a>
+<a id="art_N1148B"></a>
 
 ### Art. 44.
 
@@ -799,7 +807,7 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 **(4)** Seuls l’auteur de la motion d’ordre et un membre pour chaque groupe politique et un membre pour chaque sensibilité politique peuvent prendre la parole, dans les limites fixées par l’article 40, paragraphe (6).
 
-<a id="art_N11449"></a>
+<a id="art_N114DF"></a>
 
 ### Art. 45.
 
@@ -807,7 +815,7 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 **(2)** Le député qui demande la parole pour un fait personnel doit se borner à de brèves rectifications de fait qui ne pourront durer plus de cinq minutes. S’il a de plus amples observations à présenter, elles seront renvoyées à la fin de la séance.
 
-<a id="art_N1147D"></a>
+<a id="art_N11513"></a>
 
 ### Art. 46.
 
@@ -819,7 +827,7 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 #### Chapitre 8 — Des modes de votation
 
-<a id="art_N114C5"></a>
+<a id="art_N1155B"></a>
 
 ### Art. 47.
 
@@ -849,19 +857,19 @@ Le ou les auteurs disposent toujours d’un temps de parole de 15 minutes. Les g
 
 Le Président a toujours le droit de recourir au vote nominal et à haute voix en cas de doute sur la régularité des opérations des votes exprimés par le système de vote électronique ou en cas de défaut de ce dernier.
 
-<a id="art_N1159A"></a>
+<a id="art_N11630"></a>
 
 ### Art. 48.
 
 La division est de droit, lorsqu’elle est demandée. L’auteur de la demande doit préciser les parties sur lesquelles il demande des votes séparés. Pour être recevable, la demande doit être appuyée par cinq députés.
 
-<a id="art_N115AA"></a>
+<a id="art_N11640"></a>
 
 ### Art. 49.
 
 Lorsque plusieurs projets ou propositions de loi relatifs à des intérêts particuliers ou locaux présentés ensemble et compris dans un seul rapport, ne donnent lieu à aucune réclamation, il sera voté sur l’ensemble par un seul vote nominal.
 
-<a id="art_N115BA"></a>
+<a id="art_N11650"></a>
 
 ### Art. 50.
 
@@ -869,7 +877,7 @@ Lorsque plusieurs projets ou propositions de loi relatifs à des intérêts part
 
 **(2)** Le député qui ne prend pas part au vote, mais qui est présent dans la salle lorsque la question est mise aux voix, compte pour le quorum et est assimilé aux abstentionnistes.
 
-<a id="art_N115E1"></a>
+<a id="art_N11677"></a>
 
 ### Art. 51.
 
@@ -888,7 +896,7 @@ Les abstentions n’entrent pas en ligne de compte pour le calcul de la majorit�
 
 #### Chapitre 9 — De la discipline
 
-<a id="art_N1165C"></a>
+<a id="art_N116F2"></a>
 
 ### Art. 52.
 
@@ -908,7 +916,7 @@ La décision est à effet immédiat. Elle est toutefois soumise à une confirmat
 
 **(7)** Le cas échéant, compte tenu de la gravité du comportement fautif, le Président de la Chambre, le président de séance, ou un président d’organe, de commission ou de délégation peuvent saisir la Conférence des Présidents d’une demande de mise en œuvre des articles 53 à 57, au plus tard huit jours après la survenance du comportement fautif grave.
 
-<a id="art_N116E9"></a>
+<a id="art_N1177F"></a>
 
 ### Art. 53.
 
@@ -919,7 +927,7 @@ Peut faire l’objet d’une ou plusieurs sanctions le député :
 3. Qui s’est rendu coupable d’outrages, d’injures ou de menaces envers la Chambre, son Président, un ou plusieurs des membres de la Chambre ou les membres du Gouvernement en séance publique ou dans les autres locaux de la Chambre ou lors d’une réunion ou d’une visite d’organe, de commission ou de délégation ;
 4. Qui a violé le secret des délibérations en commission ou le huis clos des séances non publiques de la Chambre ou le caractère confidentiel ou non public d’informations, de documents ou de procès-verbaux.
 
-<a id="art_N1170A"></a>
+<a id="art_N117A0"></a>
 
 ### Art. 54.
 
@@ -929,7 +937,7 @@ La Conférence des Présidents est également compétente pour prononcer la ou l
 
 La Conférence des Présidents se prononce dans un délai d’un mois à compter de sa saisine.
 
-<a id="art_N1172C"></a>
+<a id="art_N117C2"></a>
 
 ### Art. 55.
 
@@ -937,7 +945,7 @@ La Conférence des Présidents se prononce dans un délai d’un mois à compter
 
 **(2)** Elle apprécie le comportement fautif en tenant compte de son caractère ponctuel, récurrent ou permanent, ainsi que de son degré de gravité. Il est également tenu compte, le cas échéant, de l’atteinte éventuellement portée à la dignité et à la réputation de la Chambre.
 
-<a id="art_N11753"></a>
+<a id="art_N117E9"></a>
 
 ### Art. 56.
 
@@ -956,7 +964,7 @@ La Conférence des Présidents se prononce dans un délai d’un mois à compter
 1. Un blâme ;
 2. La perte du titre de député honoraire.
 
-<a id="art_N1179F"></a>
+<a id="art_N11835"></a>
 
 ### Art. 57.
 
@@ -964,7 +972,7 @@ La décision arrêtée par la Conférence des Présidents est notifiée au dépu
 
 À la suite de cette notification au député concerné, toute sanction prononcée à l’encontre d’un député est portée à la connaissance de la Chambre dans le cadre des communications.
 
-<a id="art_N117C5"></a>
+<a id="art_N1185B"></a>
 
 ### Art. 57bis.
 
@@ -978,7 +986,7 @@ La sous-commission du Bureau est également compétente pour examiner le recours
 
 #### Chapitre 1 — Des projets de loi
 
-<a id="art_N11806"></a>
+<a id="art_N1189C"></a>
 
 ### Art. 58.
 
@@ -998,31 +1006,31 @@ La sous-commission du Bureau est également compétente pour examiner le recours
 
 #### Chapitre 2 — Des propositions de loi
 
-<a id="art_N11879"></a>
+<a id="art_N1190F"></a>
 
 ### Art. 59.
 
 Chaque député a le droit de soumettre des propositions de loi.
 
-<a id="art_N11889"></a>
+<a id="art_N1191F"></a>
 
 ### Art. 60.
 
 Le député qui entend soumettre une proposition de loi la signe et la remet à la Chambre.
 
-<a id="art_N11899"></a>
+<a id="art_N1192F"></a>
 
 ### Art. 61.
 
 La proposition de loi est imprimée, distribuée et rendue publique sur le site internet de la Chambre des Députés.
 
-<a id="art_N118A9"></a>
+<a id="art_N1193F"></a>
 
 ### Art. 62.
 
 La proposition de loi est immédiatement transmise au Gouvernement, et, par ce dernier, dans les meilleurs délais pour avis aux chambres professionnelles concernées. Elle est également immédiatement transmise pour avis au Conseil d’État.
 
-<a id="art_N118B9"></a>
+<a id="art_N1194F"></a>
 
 ### Art. 63.
 
@@ -1038,13 +1046,13 @@ La proposition de loi est immédiatement transmise au Gouvernement, et, par ce d
 
 **(6)** Le député qui est l’auteur de la proposition de loi peut, à tout moment, demander des explications à la commission sur l’état de l’avancement de sa proposition de loi.
 
-<a id="art_N11920"></a>
+<a id="art_N119B6"></a>
 
 ### Art. 64.
 
 Le rapport fait sur une proposition de loi ayant pour conséquence une augmentation directe ou indirecte des dépenses publiques ou une diminution des recettes doit, s’il conclut à l’adoption de la proposition de loi, indiquer les ressources ou les diminutions de dépenses permettant de couvrir la dépense ou la diminution de recettes devant résulter de l’adoption de la proposition de loi.
 
-<a id="art_N11930"></a>
+<a id="art_N119C6"></a>
 
 ### Art. 65.
 
@@ -1058,7 +1066,7 @@ Le rapport fait sur une proposition de loi ayant pour conséquence une augmentat
 
 **(5)** Un député peut reprendre une proposition de loi à son nom.
 
-<a id="art_N1198A"></a>
+<a id="art_N11A20"></a>
 
 ### Art. 66.
 
@@ -1066,7 +1074,7 @@ Les propositions de loi que la Chambre n’a pas adoptées ne peuvent être réi
 
 #### Chapitre 2*bis* — Des propositions motivées aux fins de légiférer
 
-<a id="art_N119AB"></a>
+<a id="art_N11A41"></a>
 
 ### Art. 66bis.
 
@@ -1074,7 +1082,7 @@ La loi règle l’exercice du droit des électeurs de déposer une proposition d
 
 #### Chapitre 3 — De la discussion des projets de loi et propositions de loi
 
-<a id="art_N119CC"></a>
+<a id="art_N11A62"></a>
 
 ### Art. 67.
 
@@ -1090,19 +1098,19 @@ La loi règle l’exercice du droit des électeurs de déposer une proposition d
 
 **(6)** La discussion des articles s’ouvre successivement sur chaque article, suivant son ordre, et sur les amendements qui s’y rapportent.
 
-<a id="art_N11A33"></a>
+<a id="art_N11AC9"></a>
 
 ### Art. 68.
 
 Quoique la discussion soit ouverte sur une proposition, celui qui l’a faite peut la retirer; mais si un autre membre la reprend, la discussion continue.
 
-<a id="art_N11A43"></a>
+<a id="art_N11AD9"></a>
 
 ### Art. 69.
 
 L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, les commissions arrêtent définitivement les conclusions de leur rapport.
 
-<a id="art_N11A53"></a>
+<a id="art_N11AE9"></a>
 
 ### Art. 70.
 
@@ -1112,7 +1120,7 @@ L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, 
 
 #### Chapitre 4 — Des amendements
 
-<a id="art_N11A9A"></a>
+<a id="art_N11B30"></a>
 
 ### Art. 71.
 
@@ -1122,7 +1130,7 @@ L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, 
 
 **(3)** L’auteur principal d’un amendement a le droit d’être entendu par la commission chargée de l’examiner.
 
-<a id="art_N11ADE"></a>
+<a id="art_N11B74"></a>
 
 ### Art. 72.
 
@@ -1132,7 +1140,7 @@ L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, 
 
 #### Chapitre 5 — Des affaires sans rapport ou sans débat
 
-<a id="art_N11B13"></a>
+<a id="art_N11BA9"></a>
 
 ### Art. 73.
 
@@ -1154,7 +1162,7 @@ Il y est fait mention pour chacun d’eux de la décision de la commission.
 
 #### Chapitre 6 — Des seconds votes
 
-<a id="art_N11BAE"></a>
+<a id="art_N11C44"></a>
 
 ### Art. 74.
 
@@ -1174,13 +1182,13 @@ Il y est fait mention pour chacun d’eux de la décision de la commission.
 
 **(5)** Les dispositions du présent article sont applicables aux projets de loi soumis au second vote constitutionnel.
 
-<a id="art_N11C26"></a>
+<a id="art_N11CBC"></a>
 
 ### Art. 75.
 
 Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement.
 
-<a id="art_N11C36"></a>
+<a id="art_N11CCC"></a>
 
 ### Art. 76.
 
@@ -1188,7 +1196,7 @@ Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’ac
 
 **(2)** Si la Chambre décide qu’il n’y a pas lieu à second vote, le projet de loi est renvoyé au Conseil d’État, et dans le cas où le Conseil d’État se rallie à la décision de la Chambre, le projet de loi est définitivement dispensé du second vote.
 
-<a id="art_N11C5D"></a>
+<a id="art_N11CF3"></a>
 
 ### Art. 77.
 
@@ -1196,7 +1204,7 @@ Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’ac
 
 **(2)** Les dispositions du présent règlement concernant les projets de loi présentés à la Chambre seront observées à cette occasion.
 
-<a id="art_N11C84"></a>
+<a id="art_N11D1A"></a>
 
 ### Art. 78.
 
@@ -1206,7 +1214,7 @@ Dans tous les cas où la Chambre se sera prononcée en faveur de la dispense du 
 
 #### Chapitre 1 — Des questions
 
-<a id="art_N11CBD"></a>
+<a id="art_N11D53"></a>
 
 ### Art. 79.
 
@@ -1222,7 +1230,7 @@ En cas de contestation des motifs d’irrecevabilité, le Président consulte la
 
 **(5)** Une question, à laquelle le Ministre compétent a fourni une réponse, ne peut être représentée dans les mêmes conditions au cours de la même législature, avant l’expiration d’un délai de douze mois à compter de la réponse ministérielle.
 
-<a id="art_N11D2A"></a>
+<a id="art_N11DC0"></a>
 
 ### Art. 80.
 
@@ -1246,7 +1254,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire.
 
 **(5)** À défaut de réponse du Ministre à une question dans le délai d’un mois, cette question pourra être posée oralement lors de la première séance publique de la semaine suivant l’expiration du délai de réponse accordé au Gouvernement par le Président de la Chambre.
 
-<a id="art_N11DBB"></a>
+<a id="art_N11E51"></a>
 
 ### Art. 81.
 
@@ -1256,7 +1264,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire.
 
 **(3)** Au cas où il n’y a pas de séance de la Chambre, le Ministre donnera une réponse écrite dans un délai d’une semaine.
 
-<a id="art_N11DFF"></a>
+<a id="art_N11E95"></a>
 
 ### Art. 82.
 
@@ -1270,7 +1278,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire.
 
 **(5)** En séance publique le député donne lecture du libellé de sa question. Un membre du Gouvernement y répond. Le député peut y ajouter une question orale complémentaire en rapport avec la réponse du Ministre et libellée succinctement. Le Ministre pourra y répondre également de façon succincte. Le temps de parole global de l’auteur de la question est de 5 minutes et celui du Gouvernement de 10 minutes ; ce temps de parole comprend la question et la réponse complémentaires.
 
-<a id="art_N11E63"></a>
+<a id="art_N11EF9"></a>
 
 ### Art. 83.
 
@@ -1288,7 +1296,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire.
 
 **(7)** Les questions qui, par manque de temps, n’auraient pu être posées lors de l’heure de questions, seront considérées comme retirées. Ces questions pourront être réintroduites lors d’une heure de questions ultérieure.
 
-<a id="art_N11EE7"></a>
+<a id="art_N11F7D"></a>
 
 ### Art. 84.
 
@@ -1300,7 +1308,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire.
 
 #### Chapitre 1*bis* — Du droit de requérir du Gouvernement des informations et des documents
 
-<a id="art_N11F2F"></a>
+<a id="art_N11FC5"></a>
 
 ### Art. 84bis.
 
@@ -1310,7 +1318,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire.
 
 **(3)** Le droit aux documents et aux informations permet à chaque député de demander au Gouvernement les documents et informations qu’il estime nécessaires à l’exercice du contrôle parlementaire.
 
-<a id="art_N11F69"></a>
+<a id="art_N11FFF"></a>
 
 ### Art. 84ter.
 
@@ -1320,7 +1328,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire.
 
 **(3)** Les données contenues dans les documents communicables ne peuvent être noircies par le Gouvernement, sauf en vue d’assurer la protection des données personnelles. Les données personnelles ne peuvent être noircies si elles sont essentielles à l’exercice du contrôle de l’action du Gouvernement.
 
-<a id="art_N11FA3"></a>
+<a id="art_N12039"></a>
 
 ### Art. 84quater.
 
@@ -1334,7 +1342,7 @@ Une demande de documents peut également être faite par la Chambre des Député
 
 La motion visant à demander au Gouvernement des documents est également transmise par le Président au Premier Ministre et au Ministre aux Relations avec le Parlement.
 
-<a id="art_N11FEF"></a>
+<a id="art_N12085"></a>
 
 ### Art. 84quinquies.
 
@@ -1350,7 +1358,7 @@ Avant de consulter un document confidentiel, les députés sont informés des re
 
 Ces documents confidentiels sont conservés à la Chambre dans un coffre-fort.
 
-<a id="art_N12044"></a>
+<a id="art_N120DA"></a>
 
 ### Art. 84sexies.
 
@@ -1366,7 +1374,7 @@ Toute divulgation publique d’informations ou de documents confidentiels est in
 
 Les dispositions du présent paragraphe sont applicables sans préjudice de celles du paragraphe 2 de l’article 23 du Code de procédure pénale, dès lors que les faits dont le député acquiert la connaissance sont susceptibles de constituer un crime ou un délit.
 
-<a id="art_N1209E"></a>
+<a id="art_N12134"></a>
 
 ### Art. 84septies.
 
@@ -1374,7 +1382,7 @@ Les dispositions du présent chapitre sont applicables sans préjudice des droit
 
 #### Chapitre 2 — Des motions et des résolutions
 
-<a id="art_N120D1"></a>
+<a id="art_N12167"></a>
 
 ### Art. 85.
 
@@ -1382,7 +1390,7 @@ Les dispositions du présent chapitre sont applicables sans préjudice des droit
 
 **(2)** Les motions et résolutions sont rédigées par écrit et remises au Président de la Chambre.
 
-<a id="art_N120F8"></a>
+<a id="art_N1218E"></a>
 
 ### Art. 86.
 
@@ -1394,7 +1402,7 @@ Les dispositions du présent chapitre sont applicables sans préjudice des droit
 
 **(4)** Sans préjudice de l’article 179, pour les motions et résolutions formant seules un point de l’ordre du jour, le temps de parole est celui prévu à l’article 40 (7). Si la motion ou la résolution s’inscrit dans le cadre de la discussion d’un projet ou d’une proposition de loi ou d’un débat, elle est discutée pendant le temps de parole supplémentaire accordé à chaque groupe politique et à chaque sensibilité politique conformément à l’article 40 (2).
 
-<a id="art_N1213F"></a>
+<a id="art_N121D5"></a>
 
 ### Art. 87.
 
@@ -1404,7 +1412,7 @@ Les dispositions du présent chapitre sont applicables sans préjudice des droit
 
 #### Chapitre 3 — Des questions de confiance, des motions de confiance, des motions de censure et des motions de méfiance
 
-<a id="art_N12174"></a>
+<a id="art_N1220A"></a>
 
 ### Art. 87bis.
 
@@ -1414,7 +1422,7 @@ Les dispositions du présent chapitre sont applicables sans préjudice des droit
 
 **(3)** La confiance est accordée au Gouvernement à la majorité des membres de la Chambre.
 
-<a id="art_N121AE"></a>
+<a id="art_N12244"></a>
 
 ### Art. 87ter.
 
@@ -1428,25 +1436,25 @@ Le débat organisé dans les conditions de l’article 40 (2) est suivi d’un v
 
 La confiance est accordée au Gouvernement à la majorité des membres de la Chambre.
 
-<a id="art_N121F3"></a>
+<a id="art_N12289"></a>
 
 ### Art. 87quater.
 
 Cinq députés peuvent, à tout moment, déposer une motion de censure pour engager la responsabilité du Gouvernement. À partir du dépôt, aucune signature ne peut être retirée ni ajoutée.
 
-<a id="art_N12206"></a>
+<a id="art_N1229C"></a>
 
 ### Art. 87quinquies.
 
 Tout député peut, à tout moment, déposer une motion de méfiance envers un ou plusieurs membres du Gouvernement.
 
-<a id="art_N12219"></a>
+<a id="art_N122AF"></a>
 
 ### Art. 87sexies.
 
 Tout député peut, à tout moment, déposer une motion de confiance.
 
-<a id="art_N1222C"></a>
+<a id="art_N122C2"></a>
 
 ### Art. 87septies.
 
@@ -1466,7 +1474,7 @@ Toute motion adoptée est immédiatement portée à la connaissance du Premier M
 
 #### Chapitre 4 — Des interpellations
 
-<a id="art_N122A2"></a>
+<a id="art_N12338"></a>
 
 ### Art. 88.
 
@@ -1488,7 +1496,7 @@ Toute motion adoptée est immédiatement portée à la connaissance du Premier M
 
 **(9)** L’interpellateur prendra la parole le premier. Sans préjudice de l’article 74 de la Constitution, le membre du Gouvernement prendra la parole en dernier lieu.
 
-<a id="art_N1233E"></a>
+<a id="art_N123D4"></a>
 
 ### Art. 89.
 
@@ -1496,7 +1504,7 @@ La Conférence des Présidents peut décider qu’une demande d’interpellation
 
 #### Chapitre 5 — Du débat de consultation
 
-<a id="art_N1235C"></a>
+<a id="art_N123F2"></a>
 
 ### Art. 90.
 
@@ -1508,7 +1516,7 @@ La Conférence des Présidents peut décider qu’une demande d’interpellation
 
 #### Chapitre 6 — Du débat d’orientation
 
-<a id="art_N123A1"></a>
+<a id="art_N12437"></a>
 
 ### Art. 91.
 
@@ -1522,7 +1530,7 @@ Les députés qui proposent l’organisation d’un débat d’orientation, font
 
 #### Chapitre 7 — De la déclaration gouvernementale selon l’article 74 de la Constitution
 
-<a id="art_N123EF"></a>
+<a id="art_N12485"></a>
 
 ### Art. 92.
 
@@ -1534,7 +1542,7 @@ Les députés qui proposent l’organisation d’un débat d’orientation, font
 
 #### Chapitre 8 — Retrait des questions, motions, résolutions, interpellations et débats
 
-<a id="art_N12439"></a>
+<a id="art_N124CF"></a>
 
 ### Art. 93.
 
@@ -1546,7 +1554,7 @@ Les députés qui proposent l’organisation d’un débat d’orientation, font
 
 **(4)** Les cinq députés auteurs d’une motion de censure ont le droit de retirer cette motion.
 
-<a id="art_N12483"></a>
+<a id="art_N12519"></a>
 
 ### Art. 94.
 
@@ -1556,7 +1564,7 @@ Au début de législature, la Chambre, sur proposition de la Conférence des Pr�
 
 #### Chapitre 1 — Définition
 
-<a id="art_N124AF"></a>
+<a id="art_N12545"></a>
 
 ### Art. 95.
 
@@ -1568,37 +1576,37 @@ La Chambre des Députés examine et discute les options politiques et financièr
 
 #### Chapitre 2 — Débat sur l’état de la nation
 
-<a id="art_N124E8"></a>
+<a id="art_N1257E"></a>
 
 ### Art. 96.
 
 Chaque année, au cours du premier semestre, sauf décision contraire de la Conférence des Présidents, le Président du Gouvernement fait à la Chambre une déclaration de politique générale sur l’état de la nation.
 
-<a id="art_N12505"></a>
+<a id="art_N1259B"></a>
 
 ### Art. 97.
 
 La déclaration est suivie d’un débat général. Ce débat général est évacué dans l’espace d’une semaine.
 
-<a id="art_N12522"></a>
+<a id="art_N125B8"></a>
 
 ### Art. 98.
 
 Pour le débat général défini à l’article 97, le temps de parole global est fixé conformément à l’article 40.
 
-<a id="art_N12532"></a>
+<a id="art_N125C8"></a>
 
 ### Art. 99.
 
 Il est loisible aux groupes politiques et aux sensibilités politiques de présenter autant d’orateurs que bon leur semble dans le cadre du temps global leur imparti.
 
-<a id="art_N1254F"></a>
+<a id="art_N125E5"></a>
 
 ### Art. 100.
 
 Au moment où le Gouvernement s’apprête à arrêter les orientations budgétaires fondamentales pour le budget de l’année subséquente par sa circulaire budgétaire, il consulte et entend auparavant la Commission des Finances et du Budget en son avis.
 
-<a id="art_N1256C"></a>
+<a id="art_N12602"></a>
 
 ### Art. 101.
 
@@ -1606,19 +1614,19 @@ Les rapports écrits des Ministères sur l’activité de l’exercice précéde
 
 #### Chapitre 3 — Débat sur la politique financière et budgétaire
 
-<a id="art_N1259A"></a>
+<a id="art_N12630"></a>
 
 ### Art. 102.
 
 Le Gouvernement saisit le 30 juin au plus tard la Chambre des Députés d’une liste de projets prioritaires à construire par l’État au cours des exercices suivants et dont le coût dépasse le seuil de 10 millions d’euros.
 
-<a id="art_N125AA"></a>
+<a id="art_N12640"></a>
 
 ### Art. 103.
 
 Les commissions compétentes sont chargées de l’examen de cette liste. Ces commissions peuvent saisir pour avis d’autres commissions parlementaires.
 
-<a id="art_N125BA"></a>
+<a id="art_N12650"></a>
 
 ### Art. 104.
 
@@ -1626,7 +1634,7 @@ Les commissions compétentes sont chargées de l’examen de cette liste. Ces co
 
 **(2)** La Chambre adopte les motions comprenant les nouveaux projets d’infrastructure auxquels elle donne son accord de principe et dont la Chambre demande l’inscription dans la loi budgétaire afin que le Gouvernement puisse engager les frais nécessaires à des études en vue de l’établissement de l’avant-projet sommaire, de l’avant-projet détaillé, du dossier d’autorisation et, le cas échéant, des cahiers des charges nécessaires pour la mise en adjudication publique.
 
-<a id="art_N125E1"></a>
+<a id="art_N12677"></a>
 
 ### Art. 105.
 
@@ -1636,31 +1644,31 @@ Les commissions compétentes sont chargées de l’examen de cette liste. Ces co
 
 **(3)** Un nouveau projet de loi doit être déposé chaque fois que les dépenses pour un projet dépassent 5% du montant autorisé. Un dépassement inférieur à 5% du coût global doit être autorisé dans le cadre de l’approbation de la loi concernant le budget des recettes et des dépenses de l’État pour l’exercice suivant.
 
-<a id="art_N12625"></a>
+<a id="art_N126BB"></a>
 
 ### Art. 106.
 
 Le Gouvernement dépose le projet de loi concernant le budget des recettes et des dépenses de l’État pour l’année subséquente au cours de la 3e semaine d’octobre au plus tard.
 
-<a id="art_N12645"></a>
+<a id="art_N126DB"></a>
 
 ### Art. 107.
 
 Les chambres professionnelles, le Conseil d’État et, le cas échéant, la Cour des Comptes, sont invités à rendre leurs avis le 15 novembre au plus tard.
 
-<a id="art_N12662"></a>
+<a id="art_N126F8"></a>
 
 ### Art. 108.
 
 L’examen du projet de loi concernant le budget des recettes et des dépenses de l’État en commission a lieu conformément aux dispositions des Titres I et II du présent Règlement.
 
-<a id="art_N12672"></a>
+<a id="art_N12708"></a>
 
 ### Art. 109.
 
 La commission peut inviter à ses réunions les membres du Gouvernement pour les entendre dans leurs exposés et explications, conformément à l’article 23 du Règlement de la Chambre.
 
-<a id="art_N12682"></a>
+<a id="art_N12718"></a>
 
 ### Art. 110.
 
@@ -1668,7 +1676,7 @@ Les autres commissions parlementaires ont la faculté d’examiner des aspects d
 
 D’autre part, la Commission des Finances et du Budget peut demander l’avis de telle ou telle commission sur tel ou tel problème.
 
-<a id="art_N1269B"></a>
+<a id="art_N12731"></a>
 
 ### Art. 111.
 
@@ -1682,13 +1690,13 @@ Les membres du Gouvernement répondront aux questions dans les dix jours qui sui
 
 Les questions et les réponses sont publiées sous forme d’annexe au rapport de la commission.
 
-<a id="art_N126DC"></a>
+<a id="art_N12772"></a>
 
 ### Art. 112.
 
 La présentation du rapport de la Commission des Finances et du Budget par le rapporteur et du projet de loi par le Gouvernement ainsi que la discussion du projet de loi ont lieu lors de séances publiques fixées par la Conférence de Présidents.
 
-<a id="art_N126EC"></a>
+<a id="art_N12782"></a>
 
 ### Art. 113.
 
@@ -1696,7 +1704,7 @@ L’approbation du rapport en commission précède d’une semaine au moins la d
 
 #### Chapitre 4 — Approbation des comptes généraux
 
-<a id="art_N1270A"></a>
+<a id="art_N127A0"></a>
 
 ### Art. 114.
 
@@ -1708,7 +1716,7 @@ Pour le 30 septembre suivant au plus tard, la Cour des Comptes communique ses ob
 
 #### Chapitre 1 — Élections et présentation de candidats
 
-<a id="art_N1273F"></a>
+<a id="art_N127D5"></a>
 
 ### Art. 115.
 
@@ -1720,7 +1728,7 @@ Pour le 30 septembre suivant au plus tard, la Cour des Comptes communique ses ob
 
 #### Chapitre 2 — De la procédure de désignation des candidats pour les postes de conseillers d’État
 
-<a id="art_N12791"></a>
+<a id="art_N12827"></a>
 
 ### Art. 116.
 
@@ -1728,37 +1736,37 @@ Lorsque le Président est informé d’une vacance de conseiller au Conseil d’
 
 En cas de renouvellement intégral du Conseil d’État, la Chambre propose au Grand-Duc sept candidats.
 
-<a id="art_N127BD"></a>
+<a id="art_N12853"></a>
 
 ### Art. 117.
 
 Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 116, le cachet de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N127CD"></a>
+<a id="art_N12863"></a>
 
 ### Art. 118.
 
 Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature.
 
-<a id="art_N127EC"></a>
+<a id="art_N12882"></a>
 
 ### Art. 119.
 
 Le Président soumet les candidatures à la Conférence des Présidents qui les examine quant à leur recevabilité.
 
-<a id="art_N127FC"></a>
+<a id="art_N12892"></a>
 
 ### Art. 120.
 
 Toutes les candidatures déclarées recevables par la Conférence des Présidents sont soumises aux députés sur une liste remise avec la convocation de la séance publique dont l’ordre du jour comporte le vote des candidats.
 
-<a id="art_N12819"></a>
+<a id="art_N128AF"></a>
 
 ### Art. 121.
 
 Le scrutin est secret. Le vote par procuration n’est pas permis.
 
-<a id="art_N12829"></a>
+<a id="art_N128BF"></a>
 
 ### Art. 122.
 
@@ -1767,13 +1775,13 @@ Lors de la désignation du candidat, la Chambre :
 1. veille à ce que la composition du Conseil d’État tienne compte des partis politiques représentés à la Chambre des Députés à condition d’avoir obtenu au moins trois sièges au cours de chacune des deux dernières élections législatives ;
 2. tend à assurer une représentation équilibrée des femmes et des hommes dans la composition du Conseil d’État. Le nombre du sexe sous-représenté ne peut être inférieur à sept.
 
-<a id="art_N12844"></a>
+<a id="art_N128DA"></a>
 
 ### Art. 123.
 
 Le candidat élu doit avoir atteint la majorité absolue des voix, les bulletins nuls et blancs ne comptant pas pour l’établissement de cette majorité.
 
-<a id="art_N12854"></a>
+<a id="art_N128EA"></a>
 
 ### Art. 124.
 
@@ -1783,7 +1791,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour il y a toujours égalité, la nomination se fait par tirage au sort.
 
-<a id="art_N12876"></a>
+<a id="art_N1290C"></a>
 
 ### Art. 125.
 
@@ -1795,13 +1803,13 @@ Dans le cas contraire, la candidature est rejetée.
 
 De nouvelles candidatures doivent alors être proposées.
 
-<a id="art_N128A1"></a>
+<a id="art_N12937"></a>
 
 ### Art. 126.
 
 En cas de renouvellement intégral du Conseil d’État, il est procédé à un scrutin séparé pour chacun des sept candidats à proposer.
 
-<a id="art_N128C0"></a>
+<a id="art_N12956"></a>
 
 ### Art. 127.
 
@@ -1811,25 +1819,25 @@ Les résultats sont déclarés par le Président de la Chambre ou celui qui pré
 
 #### Chapitre 2*bis* — De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice
 
-<a id="art_N128F7"></a>
+<a id="art_N1298D"></a>
 
 ### Art. 127bis.
 
 Lorsque le Président est informé de la première nomination, du renouvellement ou d’une vacance de membre effectif ou de membre suppléant du Conseil national de la justice pour laquelle la Chambre est appelée à désigner un candidat, il en informe les députés lors de la première séance publique. Il communique également la date fixée par lui pour laquelle les candidatures sont à déposer à la Chambre. Ce délai doit être de trois semaines au moins sans pouvoir dépasser trois mois. Il indique également les qualifications et les conditions à remplir par les candidats, prévues aux articles 5 à 7 de la loi du 23 janvier 2023 portant organisation du Conseil national de la justice. Ces informations sont encore publiées par voie d’avis officiel par l’administration parlementaire.
 
-<a id="art_N1291D"></a>
+<a id="art_N129B3"></a>
 
 ### Art. 127ter.
 
 Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 127*bis*, le cachet de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N12933"></a>
+<a id="art_N129C9"></a>
 
 ### Art. 127quater.
 
 Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N12953"></a>
+<a id="art_N129E9"></a>
 
 ### Art. 127quinquies.
 
@@ -1837,25 +1845,25 @@ Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats
 
 **(2)** La Conférence des Présidents, renforcée conformément aux dispositions de l’article 31 (2) alinéa 3 par les présidents des commissions permanentes ayant dans leurs attributions les institutions, la justice et le règlement, entend tous les candidats, dont la candidature a été jugée recevable, lors d’entretiens individuels.
 
-<a id="art_N12983"></a>
+<a id="art_N12A19"></a>
 
 ### Art. 127sexies.
 
 La liste des candidatures déclarées recevables par la Conférence des Présidents, suivant les dispositions de l’article 127*quinquies* (1), est distribuée aux députés avant la séance publique dont l’ordre du jour comporte le vote des candidats.
 
-<a id="art_N129A6"></a>
+<a id="art_N12A3C"></a>
 
 ### Art. 127septies.
 
 Avant le vote et au cours d’une séance non publique telle que prévue à l’article 46, la Chambre apprécie l’honorabilité des candidats sur base de l’avis du procureur général d’État. L’avis du procureur général d’État est détruit endéans un délai de 6 mois.
 
-<a id="art_N129B9"></a>
+<a id="art_N12A4F"></a>
 
 ### Art. 127octies.
 
 La liste définitive des candidats est soumise au vote en séance publique. Le scrutin est secret. Le vote par procuration n’est pas permis. Le candidat élu doit avoir atteint la majorité qualifiée des voix.
 
-<a id="art_N129CC"></a>
+<a id="art_N12A62"></a>
 
 ### Art. 127nonies.
 
@@ -1865,7 +1873,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire.
 
-<a id="art_N129F4"></a>
+<a id="art_N12A8A"></a>
 
 ### Art. 127decies.
 
@@ -1873,7 +1881,7 @@ En cas d’une seule candidature, le candidat doit obtenir la majorité qualifi�
 
 De nouvelles candidatures doivent alors être proposées et la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire.
 
-<a id="art_N12A13"></a>
+<a id="art_N12AA9"></a>
 
 ### Art. 127undecies.
 
@@ -1881,7 +1889,7 @@ Il est procédé à un scrutin séparé pour chaque membre effectif et pour chaq
 
 #### Chapitre 3 — De la procédure de proposition de nomination pour le poste de président, de vice-président ou de conseiller à la Cour des Comptes
 
-<a id="art_N12A34"></a>
+<a id="art_N12ACA"></a>
 
 ### Art. 128.
 
@@ -1893,7 +1901,7 @@ Sont applicables par analogie les articles 117 à 121, 123 à 125 et 127 du Règ
 
 Au cas où un membre de la Cour des Comptes sollicite un renouvellement de sa nomination, la procédure prévue à l’article 125 du Règlement de la Chambre peut être appliquée.
 
-<a id="art_N12A5F"></a>
+<a id="art_N12AF5"></a>
 
 ### Art. 129.
 
@@ -1901,7 +1909,7 @@ Il est procédé à un scrutin séparé pour chacun des trois candidats à propo
 
 #### Chapitre 4 — De l’Ombudsman
 
-<a id="art_N12A8A"></a>
+<a id="art_N12B20"></a>
 
 ### Art. 130.
 
@@ -1909,7 +1917,7 @@ L’Ombudsman est désigné par la Chambre des Députés, siégeant en séance p
 
 L’Ombudsman est nommé pour une durée de huit ans non renouvelable.
 
-<a id="art_N12AB0"></a>
+<a id="art_N12B46"></a>
 
 ### Art. 131.
 
@@ -1919,7 +1927,7 @@ Les intéressés posent leur candidature par lettre adressée au Président de l
 
 Les Députés peuvent proposer des candidatures par lettre adressée au Président de la Chambre des Députés. Dans ce cas, ils doivent s’assurer au préalable que le candidat accepte la candidature.
 
-<a id="art_N12ADF"></a>
+<a id="art_N12B75"></a>
 
 ### Art. 132.
 
@@ -1929,7 +1937,7 @@ Le Président soumet les candidatures à la Conférence des Présidents, qui les
 
 Les dossiers des candidats sont déposés à l’administration parlementaire et peuvent y être consultés par les membres de la Chambre des Députés.
 
-<a id="art_N12B14"></a>
+<a id="art_N12BAA"></a>
 
 ### Art. 133.
 
@@ -1941,7 +1949,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 131 et suivants est recommencée autant de fois que nécessaire.
 
-<a id="art_N12B51"></a>
+<a id="art_N12BE7"></a>
 
 ### Art. 134.
 
@@ -1977,37 +1985,37 @@ La Chambre des Députés siégeant en séance publique peut discuter les conclus
 
 #### Chapitre 5 — Du Centre pour l’égalité de traitement
 
-<a id="art_N12C28"></a>
+<a id="art_N12CBE"></a>
 
 ### Art. 135.
 
 Lorsque le Président est informé de la première nomination, du renouvellement ou d’une vacance de président ou de membre du Centre pour l’égalité de traitement créé par la loi du 28 novembre 2006, il en informe les députés lors de la première séance publique. Il communique également la date fixée par lui pour laquelle les candidatures sont à déposer à la Chambre. Ce délai doit être de trois semaines au moins sans pouvoir dépasser trois mois. Il indique également les qualifications à remplir par les candidats, prévues à l’article 11 de la prédite loi. Cette information est encore publiée par voie d’avis officiel par l’administration parlementaire.
 
-<a id="art_N12C50"></a>
+<a id="art_N12CE6"></a>
 
 ### Art. 136.
 
 Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 135, l’estampille de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques et de toutes pièces utiles indiquant que les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N12C60"></a>
+<a id="art_N12CF6"></a>
 
 ### Art. 137.
 
 Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature.
 
-<a id="art_N12C7D"></a>
+<a id="art_N12D13"></a>
 
 ### Art. 138.
 
 Le Président soumet les candidatures à la Conférence des Présidents qui les examine quant à leur recevabilité.
 
-<a id="art_N12C8D"></a>
+<a id="art_N12D23"></a>
 
 ### Art. 139.
 
 Toutes les candidatures déclarées recevables par la Conférence des Présidents sont soumises aux députés sur une liste remise avec la convocation de la séance publique dont l’ordre du jour comporte le vote des candidats.
 
-<a id="art_N12CAA"></a>
+<a id="art_N12D40"></a>
 
 ### Art. 140.
 
@@ -2021,7 +2029,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour il y a toujours égalité, la nomination se fait par tirage au sort.
 
-<a id="art_N12CDE"></a>
+<a id="art_N12D74"></a>
 
 ### Art. 141.
 
@@ -2033,7 +2041,7 @@ Dans le cas contraire, la candidature est rejetée.
 
 De nouvelles candidatures doivent alors être proposées.
 
-<a id="art_N12D09"></a>
+<a id="art_N12D9F"></a>
 
 ### Art. 142.
 
@@ -2041,25 +2049,25 @@ Il est procédé à un scrutin séparé pour le président et les quatre autres 
 
 #### Chapitre 6 — De la procédure de nomination du commissaire aux comptes de la Société Nationale de Crédit et d’Investissement
 
-<a id="art_N12D27"></a>
+<a id="art_N12DBD"></a>
 
 ### Art. 143.
 
 Le commissaire aux comptes est nommé par la Chambre des Députés, siégeant en séance publique.
 
-<a id="art_N12D37"></a>
+<a id="art_N12DCD"></a>
 
 ### Art. 144.
 
 Un appel de candidatures est publié à deux reprises dans les quotidiens du pays vingt-huit jours au moins avant la date fixée par la Chambre pour la nomination.
 
-<a id="art_N12D47"></a>
+<a id="art_N12DDD"></a>
 
 ### Art. 145.
 
 Les candidatures, accompagnées de notices biographiques et de toutes pièces utiles, doivent être adressées au Président de la Chambre au plus tard quinze jours avant la date fixée par l’article 144.
 
-<a id="art_N12D57"></a>
+<a id="art_N12DED"></a>
 
 ### Art. 146.
 
@@ -2068,19 +2076,19 @@ Les candidats doivent :
 1. être de nationalité luxembourgeoise ;
 2. remplir les conditions requises pour l’exercice de la profession de réviseur d’entreprise.
 
-<a id="art_N12D72"></a>
+<a id="art_N12E08"></a>
 
 ### Art. 147.
 
 La Conférence des Présidents, à laquelle le Président de la Chambre soumet les candidatures, les examine quant à leur recevabilité et soumet la liste des candidatures retenues à la Chambre huit jours avant la date fixée par l’article 144.
 
-<a id="art_N12D82"></a>
+<a id="art_N12E18"></a>
 
 ### Art. 148.
 
 Les dossiers des candidats sont déposés à l’administration parlementaire et peuvent y être consultés par les membres de la Chambre.
 
-<a id="art_N12D92"></a>
+<a id="art_N12E28"></a>
 
 ### Art. 149.
 
@@ -2088,13 +2096,13 @@ La nomination du commissaire aux comptes se fait à la majorité absolue, les bu
 
 À partir du troisième tour, auquel ne participent que les deux candidats ayant obtenu le plus de suffrages dans le tour précédent, la majorité relative suffit. En cas d’égalité de suffrages, un tour supplémentaire est requis.
 
-<a id="art_N12DAB"></a>
+<a id="art_N12E41"></a>
 
 ### Art. 150.
 
 Les candidats sont informés des résultats des votes par le Président de la Chambre.
 
-<a id="art_N12DBB"></a>
+<a id="art_N12E51"></a>
 
 ### Art. 151.
 
@@ -2102,13 +2110,13 @@ Le commissaire aux comptes est nommé pour un terme de trois ans; sa nomination 
 
 Il peut être révoqué par la Chambre à tout moment ; la demande de révocation doit être introduite par un ou plusieurs députés et recueillir la majorité absolue des suffrages, les bulletins nuls et blancs ne comptant pas pour le calcul de cette majorité.
 
-<a id="art_N12DD4"></a>
+<a id="art_N12E6A"></a>
 
 ### Art. 152.
 
 L’indemnité du commissaire aux comptes est fixée par les ministres compétents désignés par la loi modifiée du 2 août 1977 portant création d’une Société Nationale de Crédit et d’Investissement, et est supportée par la Société Nationale.
 
-<a id="art_N12DEA"></a>
+<a id="art_N12E80"></a>
 
 ### Art. 153.
 
@@ -2116,7 +2124,7 @@ Le commissaire aux comptes contrôle, aussi souvent qu’il le juge utile, mais 
 
 Il procède, aussi souvent qu’il le juge convenir, à des vérifications totales ou partielles des valeurs et titres conservés par la Société Nationale.
 
-<a id="art_N12E03"></a>
+<a id="art_N12E99"></a>
 
 ### Art. 154.
 
@@ -2124,7 +2132,7 @@ Le commissaire aux comptes fait rapport une fois par an au moins à la Chambre s
 
 Le rapport est examiné par la Commission des Finances et du Budget qui soumet son avis à la Chambre.
 
-<a id="art_N12E1C"></a>
+<a id="art_N12EB2"></a>
 
 ### Art. 155.
 
@@ -2132,7 +2140,7 @@ Tous les trois mois, le commissaire aux comptes fait un rapport intérimaire qui
 
 Le commissaire aux comptes est convoqué par la Conférence des Présidents lorsque celle-ci le juge nécessaire. Il est entendu par la même commission lorsqu’il le demande.
 
-<a id="art_N12E35"></a>
+<a id="art_N12ECB"></a>
 
 ### Art. 156.
 
@@ -2140,7 +2148,7 @@ En cas de démission, de décès ou de révocation, il est procédé à la nomin
 
 #### Chapitre 7 — De la procédure de désignation de deux membres du conseil national des finances publiques
 
-<a id="art_N12E53"></a>
+<a id="art_N12EE9"></a>
 
 ### Art. 157.
 
@@ -2154,7 +2162,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 #### Chapitre 8 — De la procédure de désignation de deux députés comme membres du comité d’évaluation institué par la loi du 23 juillet 2016 portant mise en place d’un statut spécifique pour certaines données à caractère personnel traitées par le Service de renseignement de l’État
 
-<a id="art_N12E92"></a>
+<a id="art_N12F28"></a>
 
 ### Art. 158.
 
@@ -2168,7 +2176,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 #### Chapitre 9 — De l’Ombudsman fir Kanner a Jugendlecher
 
-<a id="art_N12ED1"></a>
+<a id="art_N12F67"></a>
 
 ### Art. 159.
 
@@ -2176,7 +2184,7 @@ La procédure prévue aux articles 130 à 133 relatifs à l’Ombudsman est appl
 
 Les candidatures doivent être accompagnées de notices biographiques et de toutes pièces utiles indiquant que les qualifications requises par l’article 13 de la loi du 1er avril 2020 instituant l’Ombudsman fir Kanner a Jugendlecher sont remplies.
 
-<a id="art_N12EF3"></a>
+<a id="art_N12F89"></a>
 
 ### Art. 160.
 
@@ -2193,7 +2201,7 @@ Le scrutin est secret. Le vote par procuration n’est pas admis.
 
 La procédure prévue aux alinéas 2 à 8 de l’article 134 (3) relatif à l’Ombudsman est applicable, lorsque la révocation de l’Ombudsman fir Kanner a Jugendlecher a été demandée.
 
-<a id="art_N12F5B"></a>
+<a id="art_N12FF1"></a>
 
 ### Art. 161.
 
@@ -2201,7 +2209,7 @@ La procédure prévue aux alinéas 2 à 8 de l’article 134 (3) relatif à l’
 
 **(2)** En application de l’article 8 (2) de la loi de la loi du 1er avril 2020 instituant l’Ombudsman fir Kanner a Jugendlecher, l’Ombudsman fir Kanner a Jugendlecher peut être entendu par la commission compétente, lorsqu’il le demande. La commission compétente peut aussi demander à entendre l’Ombudsman fir Kanner a Jugendlecher, lorsqu’elle le juge nécessaire.
 
-<a id="art_N12F97"></a>
+<a id="art_N1302D"></a>
 
 ### Art. 162.
 
@@ -2209,7 +2217,7 @@ L’Ombudsman fir Kanner a Jugendlecher présente annuellement un rapport sur la
 
 #### Chapitre 10 — De la procédure de désignation d’un député comme membre de la commission de suivi de la convention portant sur la prestation du service public luxembourgeois en matière de télévision
 
-<a id="art_N12FB5"></a>
+<a id="art_N1304B"></a>
 
 ### Art. 163.
 
@@ -2223,7 +2231,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 #### Chapitre 11 — Des pétitions
 
-<a id="art_N12FFB"></a>
+<a id="art_N13091"></a>
 
 ### Art. 164.
 
@@ -2233,7 +2241,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 **(3)** Il est fait mention des pétitions ordinaires et publiques nouvellement déposées ou introduites dans les communications que le Président fait à la Chambre lors d’une séance publique.
 
-<a id="art_N1303F"></a>
+<a id="art_N130D5"></a>
 
 ### Art. 165.
 
@@ -2263,7 +2271,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire d’un mois.
 
 À défaut de réponse du Ministre à une demande de la Commission des Pétitions dans le délai prescrit, le membre du Gouvernement concerné est invité pour une prise de position orale à la Commission des Pétitions.
 
-<a id="art_N13107"></a>
+<a id="art_N1319D"></a>
 
 ### Art. 166.
 
@@ -2307,13 +2315,13 @@ Les signatures fournies sur papier ne sont pas publiées sur le site Internet de
 
 #### Chapitre 12 — Des rapports de la Chambre avec le Grand-Duc, la Cour des Comptes et le Conseil d’État
 
-<a id="art_N13217"></a>
+<a id="art_N132AD"></a>
 
 ### Art. 167.
 
 Les rapports de la Chambre avec le Grand-Duc et la Cour des Comptes ont lieu par l’intermédiaire du Président de la Chambre.
 
-<a id="art_N13227"></a>
+<a id="art_N132BD"></a>
 
 ### Art. 168.
 
@@ -2321,7 +2329,7 @@ Les rapports de la Chambre avec le Conseil d’État ont lieu par l’intermédi
 
 #### Chapitre 13 — Du contrôle et de l’apurement des comptes de la Cour des Comptes, de l’Ombudman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher
 
-<a id="art_N13245"></a>
+<a id="art_N132DB"></a>
 
 ### Art. 169.
 
@@ -2333,7 +2341,7 @@ L’apurement des comptes de la Cour, de l’Ombudsman, du Centre pour l’égal
 
 #### Chapitre 14 — De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre
 
-<a id="art_N13275"></a>
+<a id="art_N1330B"></a>
 
 ### Art. 170.
 
@@ -2355,7 +2363,7 @@ Durant une période transitoire dont la durée est fixée par le Bureau, la Cham
 
 En cas de départ à la retraite du Secrétaire général, ce dernier peut prendre son congé restant suite à la période transitoire, tout en gardant le titre de Secrétaire général et en restant classé au grade prévu à l’article 12. 1. b) 2° du régime des traitements des fonctionnaires de la Chambre des Députés. Le Secrétaire général nouvellement élu exerce la fonction de Secrétaire général et est classé au même grade.
 
-<a id="art_N132FE"></a>
+<a id="art_N13394"></a>
 
 ### Art. 171.
 
@@ -2367,7 +2375,7 @@ En cas de départ à la retraite du Secrétaire général, ce dernier peut prend
 
 **(4)** En cas d’absence du Secrétaire général, celui-ci est remplacé par un des Secrétaires généraux adjoints désigné par lui.
 
-<a id="art_N13345"></a>
+<a id="art_N133DB"></a>
 
 ### Art. 172.
 
@@ -2381,7 +2389,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 15 — Du compte rendu
 
-<a id="art_N13398"></a>
+<a id="art_N1342E"></a>
 
 ### Art. 173.
 
@@ -2391,7 +2399,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 16 — De la retransmission des séances publiques
 
-<a id="art_N133D0"></a>
+<a id="art_N13466"></a>
 
 ### Art. 174.
 
@@ -2399,13 +2407,13 @@ Les séances publiques de la Chambre des Députés peuvent être retransmises in
 
 #### Chapitre 17 — De la comptabilité
 
-<a id="art_N133EE"></a>
+<a id="art_N13484"></a>
 
 ### Art. 175.
 
 La gestion des finances de la Chambre est effectuée par l’administration parlementaire sous la direction du secrétaire général et la surveillance et la responsabilité du Bureau.
 
-<a id="art_N133FE"></a>
+<a id="art_N13494"></a>
 
 ### Art. 176.
 
@@ -2421,13 +2429,13 @@ La gestion des finances de la Chambre est effectuée par l’administration parl
 
 #### Chapitre 18 — Des devoirs des députés
 
-<a id="art_N13463"></a>
+<a id="art_N134F9"></a>
 
 ### Art. 177.
 
 Les députés exercent leur mandat de façon indépendante. Ils ne peuvent être liés par des instructions ni recevoir de mandat impératif.
 
-<a id="art_N13473"></a>
+<a id="art_N13509"></a>
 
 ### Art. 178.
 
@@ -2437,7 +2445,7 @@ Les députés respectent les dispositions du Chapitre 18*bis* relatif au registr
 
 #### Chapitre 18*bis* — Le Registre de transparence
 
-<a id="art_N134A3"></a>
+<a id="art_N13539"></a>
 
 ### Art. 178bis.
 
@@ -2486,7 +2494,7 @@ Les informations relatives au nom, à la forme juridique et au nom du tiers repr
 
 #### Chapitre 19 — Des affaires européennes
 
-<a id="art_N13589"></a>
+<a id="art_N1361F"></a>
 
 ### Art. 179.
 
@@ -2516,7 +2524,7 @@ Au cas où aucune séance publique n’est convoquée en temps utile pour respec
 
 #### Chapitre 20 — De la police de la Chambre et des tribunes
 
-<a id="art_N1363B"></a>
+<a id="art_N136D1"></a>
 
 ### Art. 180.
 
@@ -2544,13 +2552,13 @@ Tous signes d’approbation ou d’improbation sont interdits.
 
 #### Chapitre 21 — De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre
 
-<a id="art_N136EE"></a>
+<a id="art_N13784"></a>
 
 ### Art. 181.
 
 Il est constitué pour chaque demande d’arrestation d’un membre de la Chambre une commission spéciale, conformément aux dispositions du chapitre 5, titre I, du Règlement de la Chambre.
 
-<a id="art_N136FE"></a>
+<a id="art_N13794"></a>
 
 ### Art. 182.
 
@@ -2558,31 +2566,31 @@ Les règles applicables au fonctionnement de la commission sont celles prévues 
 
 Le membre de la commission ne peut toutefois pas se faire remplacer.
 
-<a id="art_N13717"></a>
+<a id="art_N137AD"></a>
 
 ### Art. 183.
 
 La commission informe le membre intéressé et l’entend en ses explications. Il peut se faire assister ou représenter par un de ses collègues.
 
-<a id="art_N13727"></a>
+<a id="art_N137BD"></a>
 
 ### Art. 184.
 
 La commission fait rapport à la Chambre sous forme d’une proposition de résolution. Le rapport sera examiné par la Chambre en séance non publique.
 
-<a id="art_N13737"></a>
+<a id="art_N137CD"></a>
 
 ### Art. 185.
 
 Le vote se fera par bulletins secrets. Chaque député participant au vote peut représenter un collègue absent, moyennant procuration écrite.
 
-<a id="art_N13747"></a>
+<a id="art_N137DD"></a>
 
 ### Art. 186.
 
 La décision d’accord ou de refus d’arrestation d’un député prise par la Chambre sera annoncée à la prochaine séance publique.
 
-<a id="art_N13757"></a>
+<a id="art_N137ED"></a>
 
 ### Art. 187.
 
@@ -2590,25 +2598,25 @@ En cas de rejet d’une demande d’arrestation d’un membre de la Chambre, auc
 
 #### Chapitre 22 — De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution
 
-<a id="art_N13775"></a>
+<a id="art_N1380B"></a>
 
 ### Art. 188.
 
 Un projet ou une proposition de révision de la Constitution, adoptés en première lecture par la Chambre des Députés, sont soumis à un référendum qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite par plus d’un quart des membres de la Chambre, selon les dispositions qui suivent.
 
-<a id="art_N1378A"></a>
+<a id="art_N13820"></a>
 
 ### Art. 189.
 
 Chaque député a le droit de faire une demande d’organisation d’un référendum tel que prévu à l’article 131, alinéa 3 de la Constitution.
 
-<a id="art_N1379F"></a>
+<a id="art_N13835"></a>
 
 ### Art. 190.
 
 Le député initiateur qui veut faire une telle demande d’organiser un référendum doit la signer et la déposer sur le bureau de la Chambre.
 
-<a id="art_N137AF"></a>
+<a id="art_N13845"></a>
 
 ### Art. 191.
 
@@ -2619,19 +2627,19 @@ Le député initiateur qui veut faire une telle demande d’organiser un référ
 1. l’intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des Députés en première lecture ;
 2. les signatures manuscrites des députés préqualifiés.
 
-<a id="art_N137E1"></a>
+<a id="art_N13877"></a>
 
 ### Art. 192.
 
 La Conférence des Présidents décide dans la huitaine de la saisine si ladite demande satisfait aux exigences fixées par le présent règlement.
 
-<a id="art_N137F1"></a>
+<a id="art_N13887"></a>
 
 ### Art. 193.
 
 La demande d’organiser un référendum, dont la recevabilité et la régularité ont été vérifiées et constatées par la Conférence des Présidents, est transmise au Gouvernement, qui doit organiser un référendum endéans un délai de six mois, conformément à l’article 20 de la loi du 4 février 2005 relative au référendum au niveau national.
 
-<a id="art_N13807"></a>
+<a id="art_N1389D"></a>
 
 ### Art. 194.
 
@@ -2639,31 +2647,31 @@ L’organisation de ce référendum se fait conformément aux dispositions de la
 
 #### Chapitre 23 — L’octroi du titre honorifique aux anciens députés
 
-<a id="art_N1382B"></a>
+<a id="art_N138C1"></a>
 
 ### Art. 195.
 
 Le titre de député honoraire peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins quatre ans de mandat parlementaire.
 
-<a id="art_N1383B"></a>
+<a id="art_N138D1"></a>
 
 ### Art. 196.
 
 Le titre de Président d’honneur de la Chambre des Députés peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins une année de présidence.
 
-<a id="art_N1384B"></a>
+<a id="art_N138E1"></a>
 
 ### Art. 197.
 
 Les titres sont conférés par la Chambre siégeant en séance plénière, sur proposition du Bureau.
 
-<a id="art_N1385B"></a>
+<a id="art_N138F1"></a>
 
 ### Art. 198.
 
 Une carte d’identité, analogue à celle du député en exercice, portant la mention « Président d’honneur » ou « député honoraire », est délivrée au Président d’honneur et au député honoraire.
 
-<a id="art_N1386B"></a>
+<a id="art_N13901"></a>
 
 ### Art. 199.
 
@@ -2671,7 +2679,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 #### Chapitre 24 — De la vérification des pouvoirs relative au Parlement européen
 
-<a id="art_N13889"></a>
+<a id="art_N1391F"></a>
 
 ### Art. 200.
 
@@ -2684,7 +2692,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 **(2)** Les quatre formalités exigées au paragraphe qui précède doivent être accomplies quatre jours au plus tard avant la réunion en séance publique de la Chambre au cours de laquelle les pouvoirs des candidats élus aux élections européennes sont vérifiés. Toutefois, lorsque ces formalités ne peuvent être accomplies dans le délai prévu en raison de circonstances indépendantes de la volonté des candidats élus, elles doivent être satisfaites dans les meilleurs délais et au plus tard un jour avant la réunion en séance publique au cours de laquelle leurs pouvoirs sont vérifiés.
 
-<a id="art_N138DE"></a>
+<a id="art_N13974"></a>
 
 ### Art. 201.
 
@@ -2708,7 +2716,7 @@ Après le vote par scrutin secret, il est procédé en commission à un vote par
 
 Lorsque la Chambre décide d’examiner séparément la validité des pouvoirs d’un candidat élu, les dispositions des alinéas 2 et 3 de l’article 201 (4), qui déterminent les modes de scrutin et l’effet des votes séparés, sont appliqués par analogie. Le vote par procuration n’est pas permis à l’occasion du vote par scrutin secret en séance.
 
-<a id="art_N1396C"></a>
+<a id="art_N13A02"></a>
 
 ### Art. 202.
 
@@ -2732,7 +2740,7 @@ Dans le cas où la Chambre décide que le membre du Parlement européen concern�
 
 Dans le cas où la Chambre décide que des membres du Parlement européen sont frappés par les incompatibilités liées à la parenté ou à l’alliance, l’un des membres du Parlement européen concernés est appelé à renoncer volontairement à son mandat. Faute d’un renoncement volontaire, il est procédé en séance publique à un tirage au sort, et le membre du Parlement européen dont le nom est tiré au sort doit cesser son mandat. Le Président de la Chambre informe le Président du Parlement européen de ce que le membre du Parlement européen, qui a renoncé volontairement à son mandat ou qui, le cas échéant, a été tiré au sort, est déchu de son mandat.
 
-<a id="art_N13A00"></a>
+<a id="art_N13A96"></a>
 
 ### Art. 203.
 
@@ -2746,7 +2754,7 @@ En cas de doute ou de contestation sur une candidature du suppléant aux électi
 
 **(4)** Les conclusions adoptées par la Chambre relativement à l’identité du suppléant appelé à occuper le siège vacant au Parlement européen sont transmises par le Président de la Chambre au Président du Parlement européen.
 
-<a id="art_N13A53"></a>
+<a id="art_N13AE9"></a>
 
 ### Art. 203bis.
 
@@ -2754,7 +2762,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 25 — Des changements au Règlement
 
-<a id="art_N13A74"></a>
+<a id="art_N13B0A"></a>
 
 ### Art. 204.
 
@@ -2762,7 +2770,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 **(2)** La proposition est transmise à la Conférence des Présidents, qui en saisit la Commission du Règlement.
 
-<a id="art_N13A9B"></a>
+<a id="art_N13B31"></a>
 
 ### Art. 205.
 
@@ -2778,7 +2786,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 26 — Disposition transitoire
 
-<a id="art_N13B00"></a>
+<a id="art_N13B96"></a>
 
 ### Art. 206.
 
@@ -2786,7 +2794,7 @@ Les modifications au présent règlement entrent en vigueur la séance publique 
 
 #### Chapitre 27 — Disposition finale
 
-<a id="art_N13B1E"></a>
+<a id="art_N13BB4"></a>
 
 ### Art. 207.
 
@@ -2800,19 +2808,9 @@ Le présent Règlement est publié au Journal officiel.
 
 ## voir aussi :
 
-### **Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.**
+### Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.
 
-#### Chapitre Ier. — De l’État, de son territoire et de ses habitants
-
-##### Section 1re. — De l’État, de sa forme politique et de la souveraineté
-
-<a id="art_N1AE36"></a>
-
-### Art. 1er.
-
-Le Grand-Duché de Luxembourg est un État démocratique, libre, indépendant et indivisible.
-
-<a id="art_N1AE6E"></a>
+<a id="art_N1ADC2"></a>
 
 ### Art. 2.
 
@@ -2820,455 +2818,13 @@ Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parle
 
 Il est fondé sur les principes d’un État de droit et sur le respect des droits de l’Homme.
 
-<a id="art_N1AEAC"></a>
-
-### Art. 3.
-
-La souveraineté réside dans la Nation dont émanent les pouvoirs de l’État.
-
-<a id="art_N1AEE1"></a>
-
-### Art. 4.
-
-**(1)** La langue du Grand-Duché de Luxembourg est le luxembourgeois. La loi règle l’emploi des langues luxembourgeoise, française et allemande.
-
-**(2)** L’emblème national est le drapeau tricolore rouge, blanc, bleu.
-
-**(3)** La loi définit les armoiries de l’État.
-
-**(4)** L’hymne national est « Ons Heemecht ».
-
-<a id="art_N1AF4D"></a>
-
-### Art. 5.
-
-Le Grand-Duché de Luxembourg participe à l’intégration européenne.
-
-L’exercice de pouvoirs de l’État peut être transféré à l’Union européenne et à des institutions internationales par une loi adoptée dans les conditions de l’article 131, alinéa 2, de la Constitution.
-
-##### Section 2. — Du territoire
-
-<a id="art_N1AF97"></a>
-
-### Art. 6.
-
-Toute cession, tout échange, toute adjonction de territoire ne peut avoir lieu qu’en vertu d’une loi adoptée à la majorité qualifiée.
-
-<a id="art_N1AFCC"></a>
-
-### Art. 7.
-
-Les limites et les chefs-lieux des cantons, des communes et des arrondissements judiciaires sont déterminés par la loi.
-
-<a id="art_N1B001"></a>
-
-### Art. 8.
-
-La Ville de Luxembourg est la capitale du Grand-Duché de Luxembourg et le siège des institutions constitutionnelles.
-
-#### Chapitre II. — Des droits et libertés
-
-##### Section 1re. — De la nationalité et des droits politiques
-
-<a id="art_N1B051"></a>
-
-### Art. 9.
-
-La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi.
-
-<a id="art_N1B086"></a>
-
-### Art. 10.
-
-**(1)** Les Luxembourgeois jouissent de la plénitude des droits politiques qu’ils exercent dans les conditions déterminées par la Constitution et les lois.
-
-**(2)** Sans préjudice de l’article 64, la loi peut conférer l’exercice de droits politiques à des non-Luxembourgeois.
-
-<a id="art_N1B0D6"></a>
-
-### Art. 11.
-
-La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourgeois les emplois publics comportant une participation directe ou indirecte à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’État.
-
-##### Section 2. — Des droits fondamentaux
-
-<a id="art_N1B117"></a>
-
-### Art. 12.
-
-La dignité humaine est inviolable.
-
-<a id="art_N1B14C"></a>
-
-### Art. 13.
-
-**(1)** Toute personne a droit à son intégrité physique et mentale.
-
-**(2)** Nul ne peut être soumis à la torture ni à des peines ou traitements inhumains et dégradants.
-
-La peine de mort ne peut pas être établie.
-
-<a id="art_N1B1A1"></a>
-
-### Art. 14.
-
-Toute personne a droit à la liberté de pensée, de conscience et de religion.
-
-##### Section 3. — Des libertés publiques
-
-<a id="art_N1B1E2"></a>
-
-### Art. 15.
-
-**(1)** Les Luxembourgeois sont égaux devant la loi.
-
-La loi peut prévoir une différence de traitement qui procède d’une disparité objective et qui est rationnellement justifiée, adéquate et proportionnée à son but.
-
-**(2)** Nul ne peut être discriminé en raison de sa situation ou de circonstances personnelles.
-
-**(3)** Les femmes et les hommes sont égaux en droits et en devoirs.
-
-L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
-
-**(4)** Toute personne a le droit de fonder une famille.
-
-Toute personne a droit au respect de sa vie familiale.
-
-**(5)** Dans toute décision qui le concerne, l’intérêt de l’enfant est pris en considération de manière primordiale.
-
-Chaque enfant peut exprimer son opinion librement sur toute question qui le concerne. Son opinion est prise en considération, eu égard à son âge et à son discernement.
-
-Chaque enfant a droit à la protection, aux mesures et aux soins nécessaires à son bien-être et son développement.
-
-**(6)** Toute personne handicapée a le droit de jouir de façon égale de tous les droits.
-
-<a id="art_N1B29B"></a>
-
-### Art. 16.
-
-Tout non-Luxembourgeois qui se trouve sur le territoire du Grand-Duché, jouit de la protection accordée aux personnes et aux biens, sauf les exceptions établies par la loi.
-
-<a id="art_N1B2D0"></a>
-
-### Art. 17.
-
-**(1)** La liberté individuelle est garantie.
-
-**(2)** Nul ne peut être poursuivi, arrêté ou privé de sa liberté que dans les cas prévus et dans la forme déterminée par la loi.
-
-**(3)** Sauf le cas de flagrant délit, nul ne peut être arrêté qu’en vertu d’une décision de justice motivée, qui doit être notifiée au moment de l’arrestation ou au plus tard dans les vingt-quatre heures.
-
-**(4)** Toute personne accusée d’une infraction est présumée innocente jusqu’à ce que sa culpabilité ait été légalement établie.
-
-Toute personne doit être informée sans délai des raisons de son arrestation ou de la privation de sa liberté, des accusations portées contre elle et des moyens de recours légaux dont elle dispose pour recouvrer sa liberté.
-
-<a id="art_N1B345"></a>
-
-### Art. 18.
-
-Toute personne a droit à ce que sa cause soit portée devant la juridiction prévue par la loi.
-
-Nul ne peut être distrait contre son gré du juge que la loi lui assigne.
-
-<a id="art_N1B383"></a>
-
-### Art. 19.
-
-Nulle peine ne peut être établie ni appliquée qu’en vertu de la loi.
-
-Nul ne peut être condamné pour une action ou omission qui, au moment où elle a été commise, ne constituait pas une infraction prévue par la loi.
-
-Nul ne peut être condamné à une peine plus forte que celle qui était applicable au moment où l’infraction a été commise.
-
-<a id="art_N1B3CA"></a>
-
-### Art. 20.
-
-Toute personne a droit au respect de sa vie privée.
-
-<a id="art_N1B3FF"></a>
-
-### Art. 21.
-
-Le domicile est inviolable. Aucune visite domiciliaire ne peut avoir lieu que dans les cas prévus et dans la forme déterminée par la loi.
-
-<a id="art_N1B434"></a>
-
-### Art. 22.
-
-Aucun serment ne peut être imposé qu’en vertu de la loi, qui en détermine la formule.
-
-<a id="art_N1B469"></a>
-
-### Art. 23.
-
-La liberté de manifester ses opinions et la liberté de la presse sont garanties, hormis les infractions commises à l’occasion de l’exercice de ces libertés.
-
-La censure ne peut pas être établie.
-
-<a id="art_N1B4A7"></a>
-
-### Art. 24.
-
-La liberté de manifester ses convictions philosophiques ou religieuses, celle d’adhérer ou de ne pas adhérer à une religion sont garanties, hormis les infractions commises à l’occasion de l’exercice de ces libertés.
-
-La liberté des cultes et celle de leur exercice sont garanties, hormis les infractions commises à l’occasion de l’exercice de ces libertés.
-
-Nul ne peut être contraint de concourir d’une manière quelconque aux actes et aux cérémonies d’un culte ni d’en observer les jours de repos.
-
-<a id="art_N1B4EE"></a>
-
-### Art. 25.
-
-Toute personne a le droit, dans le respect de la loi, à la liberté de réunion pacifique. Ce droit ne peut être soumis à autorisation préalable que pour des rassemblements en plein air dans un lieu accessible au public.
-
-<a id="art_N1B523"></a>
-
-### Art. 26.
-
-Le droit d’association est garanti. Son exercice est régi par la loi qui ne peut pas le soumettre à autorisation préalable.
-
-<a id="art_N1B558"></a>
-
-### Art. 27.
-
-Les partis politiques concourent à la formation de la volonté populaire et à l’expression du suffrage universel. Ils expriment le pluralisme démocratique.
-
-<a id="art_N1B58D"></a>
-
-### Art. 28.
-
-Les libertés syndicales sont garanties.
-
-La loi organise l’exercice du droit de grève.
-
-<a id="art_N1B5CB"></a>
-
-### Art. 29.
-
-Toute personne a le droit d’adresser aux autorités publiques des requêtes signées par une ou plusieurs personnes.
-
-Les autorités publiques sont tenues de répondre dans un délai raisonnable aux demandes écrites des requérants.
-
-<a id="art_N1B609"></a>
-
-### Art. 30.
-
-Toute personne a droit à l’inviolabilité de ses communications.
-
-Aucune restriction ne peut être apportée à ce droit, sauf dans les cas prévus par la loi et sous les conditions et contrôles qu’elle détermine.
-
-<a id="art_N1B647"></a>
-
-### Art. 31.
-
-Toute personne a droit à l’autodétermination informationnelle et à la protection des données à caractère personnel la concernant. Ces données ne peuvent être traitées qu’à des fins et dans les conditions déterminées par la loi.
-
-<a id="art_N1B67C"></a>
-
-### Art. 32.
-
-Le droit d’asile est garanti dans les conditions déterminées par la loi.
-
-<a id="art_N1B6B1"></a>
-
-### Art. 33.
-
-**(1)** Toute personne a droit à l’éducation.
-
-**(2)** L’État organise l’enseignement et en garantit l’accès.
-
-La durée de l’enseignement obligatoire est déterminée par la loi.
-
-L’enseignement public fondamental et secondaire est gratuit.
-
-**(3)** La liberté de l’enseignement s’exerce dans le respect des valeurs d’une société démocratique fondée sur les droits fondamentaux et les libertés publiques.
-
-L’intervention de l’État dans l’enseignement privé est déterminée par la loi.
-
-**(4)** Toute personne est libre de faire ses études au Luxembourg ou à l’étranger, de fréquenter les universités de son choix. Les conditions de la reconnaissance des diplômes sont déterminées par la loi.
-
-<a id="art_N1B738"></a>
-
-### Art. 34.
-
-La sécurité sociale, la protection de la santé et les droits des travailleurs sont réglés par la loi quant à leurs principes.
-
-<a id="art_N1B76D"></a>
-
-### Art. 35.
-
-L’exercice de la liberté du commerce et de l’industrie ainsi que de la profession libérale et de l’activité agricole est garanti, sauf les restrictions déterminées par la loi.
-
-<a id="art_N1B7A2"></a>
-
-### Art. 36.
-
-Nul ne peut être privé de sa propriété que pour cause d’utilité publique et moyennant juste indemnité, dans les cas et de la manière déterminés par la loi.
-
-<a id="art_N1B7D7"></a>
-
-### Art. 37.
-
-Toute limitation de l’exercice des libertés publiques doit être prévue par la loi et respecter leur contenu essentiel. Dans le respect du principe de proportionnalité, des limitations ne peuvent être apportées que si elles sont nécessaires dans une société démocratique et répondent effectivement à des objectifs d’intérêt général ou au besoin de protection des droits et libertés d’autrui.
-
-##### Section 4. — Des objectifs à valeur constitutionnelle
-
-<a id="art_N1B818"></a>
-
-### Art. 38.
-
-L’État garantit le droit au travail et veille à assurer l’exercice de ce droit.
-
-<a id="art_N1B84D"></a>
-
-### Art. 39.
-
-L’État promeut le dialogue social.
-
-<a id="art_N1B882"></a>
-
-### Art. 40.
-
-L’État veille à ce que toute personne puisse vivre dignement et disposer d’un logement approprié.
-
-<a id="art_N1B8B7"></a>
-
-### Art. 41.
-
-L’État garantit la protection de l’environnement humain et naturel, en œuvrant à l’établissement d’un équilibre durable entre la conservation de la nature, en particulier sa capacité de renouvellement, ainsi que la sauvegarde de la biodiversité, et la satisfaction des besoins des générations présentes et futures.
-
-L’État s’engage à lutter contre le dérèglement climatique et à œuvrer en faveur de la neutralité climatique.
-
-Il reconnaît aux animaux la qualité d’êtres vivants non humains dotés de sensibilité et veille à protéger leur bien-être.
-
-<a id="art_N1B8FE"></a>
-
-### Art. 42.
-
-L’État garantit l’accès à la culture et le droit à l’épanouissement culturel.
-
-L’État promeut la protection du patrimoine culturel.
-
-<a id="art_N1B93C"></a>
-
-### Art. 43.
-
-L’État promeut la liberté de la recherche scientifique réalisée dans le respect des valeurs d’une société démocratique fondée sur les droits fondamentaux et les libertés publiques.
-
-#### Chapitre III. — Du Grand-Duc
-
-##### Section 1re. — De la fonction du Chef de l’État
-
-<a id="art_N1B98B"></a>
-
-### Art. 44.
-
-**(1)** Le Grand-Duc est le Chef de l’État.
-
-Il représente l’État. Il est le symbole de l’unité et de l’indépendance nationales.
-
-Sa personne est inviolable.
-
-**(2)** Le Grand-Duc n’a d’autres attributions que celles que lui accordent la Constitution et les lois.
-
-Il exerce conjointement avec le Gouvernement le pouvoir exécutif.
-
-**(3)** Les dispositions du Grand-Duc doivent être contresignées par un membre du Gouvernement, qui en assume la responsabilité.
-
-<a id="art_N1BA02"></a>
-
-### Art. 45.
-
-**(1)** Le Grand-Duc prend les règlements et arrêtés nécessaires pour l’exécution des lois.
-
-**(2)** Dans les matières réservées à la loi par la Constitution, le Grand-Duc ne peut prendre des règlements et arrêtés qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et le cas échéant les conditions auxquelles elles sont soumises.
-
-**(3)** Il prend les règlements nécessaires pour l’application des actes juridiques de l’Union européenne.
-
-Dans les matières réservées à la loi par la Constitution, ces règlements ne peuvent être pris qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et, le cas échéant, les conditions auxquelles elles sont soumises. Dans les conditions déterminées par la loi, ces règlements peuvent déroger aux dispositions légales existantes ou remplacer celles-ci.
-
-<a id="art_N1BA67"></a>
-
-### Art. 46.
-
-Le Grand-Duc fait et défait les traités. Les traités et, sauf clause spécifique dans un traité, leur dénonciation n’ont d’effet qu’après avoir été approuvés par la loi. Ils sont publiés dans les formes prévues pour la publication des lois.
-
-Le Grand-Duc fait les règlements et arrêtés nécessaires pour l’exécution des traités dans les formes qui règlent les mesures d’exécution des lois et avec les effets qui s’attachent à ces mesures, sans préjudice des matières qui sont réservées par la Constitution à la loi.
-
-<a id="art_N1BAA5"></a>
-
-### Art. 47.
-
-Dans l’exercice du pouvoir lui attribué par les articles 45, paragraphes 1er et 3, alinéa 1er, et 46, alinéa 2, le Grand-Duc peut, dans les cas qu’il détermine, charger les membres de son Gouvernement de prendre des mesures d’exécution.
-
-<a id="art_N1BAE0"></a>
-
-### Art. 48.
-
-En cas de crise internationale, de menaces réelles pour les intérêts vitaux de tout ou partie de la population ou de péril imminent résultant d’atteintes graves à la sécurité publique, le Grand-Duc, après avoir constaté l’urgence résultant de l’impossibilité de la Chambre des Députés de légiférer dans les délais appropriés, peut prendre en toutes matières des mesures réglementaires.
-
-Ces mesures peuvent déroger à des lois existantes. Elles doivent être nécessaires, adéquates et proportionnées au but poursuivi et être conformes à la Constitution et aux traités internationaux.
-
-La prorogation de l’état de crise au-delà de dix jours ne peut être décidée que par une ou plusieurs lois, qui en fixent la durée sans que la prorogation puisse dépasser une durée maximale de trois mois. Ces lois sont adoptées avec une majorité qualifiée des deux tiers des suffrages des députés, les votes par procuration n’étant pas admis.
-
-Tous les règlements pris en vertu de la présente disposition cessent leurs effets au plus tard à la fin de l’état de crise.
-
-La Chambre des Députés ne peut être dissoute pendant l’état de crise.
-
-<a id="art_N1BB39"></a>
+<a id="art_N1ADEE"></a>
 
 ### Art. 49.
 
 Le Grand-Duc promulgue les lois dans les trois mois de leur adoption par la Chambre des Députés.
 
-<a id="art_N1BB6E"></a>
-
-### Art. 50.
-
-**(1)** Le Grand-Duc nomme aux emplois publics, conformément à la loi, et sauf les exceptions établies par elle.
-
-**(2)** Aucune fonction salariée par l’État ne peut être créée qu’en vertu d’une loi.
-
-**(3)** Le statut des fonctionnaires de l’État est déterminé par la loi.
-
-<a id="art_N1BBCA"></a>
-
-### Art. 51.
-
-Le Grand-Duc a le droit, dans les conditions déterminées par la loi, de remettre ou de réduire les peines prononcées par les juridictions.
-
-<a id="art_N1BBFF"></a>
-
-### Art. 52.
-
-Le Grand-Duc a le droit de conférer des titres de noblesse aux membres de la famille grand-ducale, sans pouvoir jamais y attacher de privilège.
-
-<a id="art_N1BC34"></a>
-
-### Art. 53.
-
-**(1)** Le Grand-Duc porte le titre de commandant de l’armée. Ce commandement est exercé sous la responsabilité du Gouvernement.
-
-**(2)** Le Grand-Duc confère les ordres civils et militaires, en observant la loi.
-
-<a id="art_N1BC80"></a>
-
-### Art. 54.
-
-Le Grand-Duc, l’ancien Chef de l’État, le Grand-Duc Héritier, le Régent et le Lieutenant-Représentant touchent sur le budget de l’État une dotation annuelle, dont les éléments et le montant sont fixés par la loi.
-
-Le Grand-Duc, tenant compte de l’intérêt public, définit et organise son administration qui jouit de la personnalité juridique.
-
-<a id="art_N1BCBE"></a>
-
-### Art. 55.
-
-Le Palais Grand-Ducal à Luxembourg et le Château de Berg sont réservés à l’habitation du Grand-Duc.
-
-##### Section 2. — De la monarchie constitutionnelle
-
-<a id="art_N1BCFF"></a>
+<a id="art_N1AE16"></a>
 
 ### Art. 56.
 
@@ -3282,57 +2838,7 @@ Lorsque des circonstances exceptionnelles le commandent, la Chambre des Député
 
 **(4)** L’abdication du Grand-Duc requiert la forme d’un acte écrit qui est irrévocable.
 
-<a id="art_N1BD74"></a>
-
-### Art. 57.
-
-**(1)** Le Grand-Duc exerce la fonction de Chef de l’État à partir du moment où il a prêté devant la Chambre des Députés le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir fidèlement mes attributions constitutionnelles. ».
-
-**(2)** Le serment est prêté au plus tard le dixième jour qui suit le décès, l’abdication ou la désignation du Grand-Duc dans les conditions de l’article 56, paragraphe 3.
-
-**(3)** Le refus de prêter le serment comporte renonciation à la fonction de Chef de l’État.
-
-<a id="art_N1BDD4"></a>
-
-### Art. 58.
-
-Le Grand-Duc peut se faire représenter par une personne qui remplit les conditions de l’article 56, paragraphe 1er, et qui porte le titre de Lieutenant-Représentant du Grand-Duc.
-
-Le Lieutenant-Représentant du Grand-Duc n’entre en fonction qu’après avoir prêté devant la Chambre des Députés le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir fidèlement mes attributions constitutionnelles ».
-
-<a id="art_N1BE15"></a>
-
-### Art. 59.
-
-Si au décès du Grand-Duc, ou à la date de son abdication, son successeur est mineur, la Chambre des Députés se réunit dans les dix jours à l’effet de pourvoir, sur proposition du Gouvernement, à la régence.
-
-Si le Grand-Duc se trouve dans l’impossibilité temporaire de remplir ses attributions constitutionnelles ou de prêter le serment prévu à l’article 57, le Gouvernement en informe la Chambre des Députés, qui se réunit dans les dix jours à l’effet de constater cette impossibilité et de pourvoir à la régence.
-
-La régence ne peut être confiée qu’à une seule personne, qui doit être majeure et faire partie des personnes visées à l’article 56, paragraphe 1er.
-
-Le Régent n’entre en fonction qu’après avoir prêté devant la Chambre des Députés le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir fidèlement mes attributions constitutionnelles. ».
-
-La régence prend fin à la majorité du successeur ou à la cessation de l’impossibilité temporaire du Grand-Duc de remplir ses attributions constitutionnelles.
-
-Le Gouvernement en informe la Chambre des Députés, qui se réunit dans les dix jours à l’effet de mettre fin à la régence.
-
-<a id="art_N1BE7E"></a>
-
-### Art. 60.
-
-Si le Grand-Duc ne remplit pas ses attributions constitutionnelles, la Chambre des Députés, à la demande du Gouvernement, le Conseil d’État entendu en son avis, décide à la majorité qualifiée qu’il y a lieu de considérer que le Grand-Duc a abdiqué.
-
-<a id="art_N1BEB3"></a>
-
-### Art. 61.
-
-À partir du décès du Grand-Duc, de son abdication ou du constat de son impossibilité de remplir ses attributions constitutionnelles, jusqu’à la prestation de serment du successeur, la fonction de Chef de l’État est exercée par le Gouvernement. Il en est de même en cas de décès ou de démission du Régent.
-
-#### Chapitre IV. — De la Chambre des Députés
-
-##### Section 1re. — De la représentation du pays
-
-<a id="art_N1BF02"></a>
+<a id="art_N1AE5E"></a>
 
 ### Art. 62.
 
@@ -3340,7 +2846,7 @@ La Chambre des Députés représente le pays. Elle exerce le pouvoir législatif
 
 Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que l’intérêt général.
 
-<a id="art_N1BF40"></a>
+<a id="art_N1AE8A"></a>
 
 ### Art. 63.
 
@@ -3361,7 +2867,7 @@ Le vote est obligatoire et secret. Ses modalités sont déterminées par la loi.
 
 Une loi adoptée à la majorité qualifiée fixe le nombre des députés à élire dans chacune des circonscriptions.
 
-<a id="art_N1BFCF"></a>
+<a id="art_N1AEE2"></a>
 
 ### Art. 64.
 
@@ -3371,7 +2877,7 @@ Une loi adoptée à la majorité qualifiée fixe le nombre des députés à éli
 
 **(3)** Les juridictions peuvent, dans les cas prévus par la loi, prononcer l’interdiction du droit de vote et d’éligibilité.
 
-<a id="art_N1C02B"></a>
+<a id="art_N1AF1E"></a>
 
 ### Art. 65.
 
@@ -3379,7 +2885,7 @@ Le mandat de député est incompatible avec la fonction de membre du Gouvernemen
 
 Cette même incompatibilité s’applique aux emplois et fonctions publics à déterminer par une loi adoptée à la majorité qualifiée. Elle peut être étendue à d’autres mandats politiques à déterminer par une loi adoptée à la majorité qualifiée.
 
-<a id="art_N1C069"></a>
+<a id="art_N1AF4A"></a>
 
 ### Art. 66.
 
@@ -3393,9 +2899,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(3)** Les personnes qui se trouvent dans un cas d’incompatibilité ont le droit d’opter entre le mandat de député et leur emploi ou activité.
 
-##### Section 2. — De l’organisation et du fonctionnement de la Chambre des Députés
-
-<a id="art_N1C0E3"></a>
+<a id="art_N1AF8E"></a>
 
 ### Art. 67.
 
@@ -3409,7 +2913,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(5)** La réunion en séance publique de la Chambre des Députés issue des élections au sens du paragraphe 1er fait cesser les fonctions de la Chambre des Députés issue des élections précédentes.
 
-<a id="art_N1C162"></a>
+<a id="art_N1AFDD"></a>
 
 ### Art. 68.
 
@@ -3417,19 +2921,19 @@ La Chambre des Députés détermine par son Règlement le mode suivant lequel el
 
 Le Règlement de la Chambre des Députés détermine les mesures d’exécution des lois qui concernent son organisation.
 
-<a id="art_N1C1AA"></a>
+<a id="art_N1B013"></a>
 
 ### Art. 69.
 
 La Chambre des Députés nomme son président et ses vice-présidents et compose son bureau.
 
-<a id="art_N1C1DF"></a>
+<a id="art_N1B03B"></a>
 
 ### Art. 70.
 
 Les séances de la Chambre des Députés sont publiques, sauf les exceptions à déterminer par son Règlement.
 
-<a id="art_N1C219"></a>
+<a id="art_N1B068"></a>
 
 ### Art. 71.
 
@@ -3439,13 +2943,13 @@ Toute décision, toute résolution, toute motion est prise à la majorité des s
 
 Les décisions et les résolutions dont l’adoption requiert la majorité qualifiée en vertu de la Constitution doivent réunir au moins les deux tiers des suffrages des députés, le vote par procuration n’étant pas admis.
 
-<a id="art_N1C260"></a>
+<a id="art_N1B098"></a>
 
 ### Art. 72.
 
 Le Règlement de la Chambre des Députés détermine les règles de majorité pour la désignation de personnes à des mandats ou fonctions à laquelle procède la Chambre des Députés.
 
-<a id="art_N1C29A"></a>
+<a id="art_N1B0C5"></a>
 
 ### Art. 73.
 
@@ -3457,13 +2961,13 @@ Les nouvelles élections ont lieu au plus tard dans les trois mois.
 
 Le Grand-Duc ne peut pas fixer des élections anticipées pendant l’état de crise.
 
-<a id="art_N1C2EA"></a>
+<a id="art_N1B0F9"></a>
 
 ### Art. 74.
 
 Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent être entendus quand ils le demandent.
 
-<a id="art_N1C31F"></a>
+<a id="art_N1B121"></a>
 
 ### Art. 75.
 
@@ -3476,21 +2980,19 @@ Aux fins d’exercer les missions prévues à l’article 62, la Chambre des Dé
 
 L’exercice de ces prérogatives est organisé par le Règlement de la Chambre des Députés.
 
-##### Section 3. — De l’adoption des lois
-
-<a id="art_N1C37F"></a>
+<a id="art_N1B15E"></a>
 
 ### Art. 76.
 
 Le Gouvernement dépose à la Chambre des Députés des projets de loi.
 
-<a id="art_N1C3B4"></a>
+<a id="art_N1B186"></a>
 
 ### Art. 77.
 
 Chaque député a le droit de soumettre des propositions de loi à la Chambre des Députés.
 
-<a id="art_N1C3E9"></a>
+<a id="art_N1B1AE"></a>
 
 ### Art. 78.
 
@@ -3504,9 +3006,7 @@ Chaque député a le droit de soumettre des propositions de loi à la Chambre de
 
 **(4)** Toutes les lois sont soumises à un second vote, à moins que la Chambre des Députés, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. Il y aura un intervalle d’au moins trois mois entre les deux votes.
 
-##### Section 4. — Des autres attributions de la Chambre des Députés
-
-<a id="art_N1C46A"></a>
+<a id="art_N1B1F6"></a>
 
 ### Art. 79.
 
@@ -3514,13 +3014,13 @@ La Chambre des Députés se prononce en séance publique sur les propositions mo
 
 La loi règle l’exercice de ce droit d’initiative législative.
 
-<a id="art_N1C4A8"></a>
+<a id="art_N1B222"></a>
 
 ### Art. 80.
 
 La Chambre des Députés peut décider d’avoir recours au référendum dans les cas, sous les conditions et avec les effets à déterminer par la loi.
 
-<a id="art_N1C4DD"></a>
+<a id="art_N1B24A"></a>
 
 ### Art. 81.
 
@@ -3528,13 +3028,13 @@ La Chambre des Députés a le droit d’enquête. La loi règle l’exercice de 
 
 Une commission d’enquête doit être instituée si un tiers au moins des députés le demande.
 
-<a id="art_N1C51B"></a>
+<a id="art_N1B276"></a>
 
 ### Art. 82.
 
 La Chambre des Députés reçoit les pétitions qui lui sont adressées dans la forme prescrite par son Règlement.
 
-<a id="art_N1C555"></a>
+<a id="art_N1B2A3"></a>
 
 ### Art. 83.
 
@@ -3542,15 +3042,13 @@ L’Ombudsman est nommé par le Grand-Duc sur proposition de la Chambre des Dép
 
 Les attributions et les règles de fonctionnement de l’Ombudsman et les relations avec la Chambre des Députés sont déterminées par la loi.
 
-##### Section 5. — Du statut du député
-
-<a id="art_N1C59F"></a>
+<a id="art_N1B2CF"></a>
 
 ### Art. 84.
 
 Aucune action, ni civile ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
 
-<a id="art_N1C5D4"></a>
+<a id="art_N1B2F7"></a>
 
 ### Art. 85.
 
@@ -3560,436 +3058,8 @@ Cependant, l’arrestation d’un député est, sauf le cas de flagrant délit, 
 
 Une autorisation de la Chambre des Députés n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
 
-<a id="art_N1C61B"></a>
+<a id="art_N1B327"></a>
 
 ### Art. 86.
 
 Les députés touchent une indemnité, dont le montant et les conditions sont fixés par la loi.
-
-#### Chapitre V. — Du Gouvernement
-
-<a id="art_N1C65C"></a>
-
-### Art. 87.
-
-Le Gouvernement dirige la politique générale de l’État.
-
-<a id="art_N1C691"></a>
-
-### Art. 88.
-
-Le Gouvernement se compose d’un Premier ministre, d’un ou de plusieurs Vice-premiers ministres, de ministres et, le cas échéant, d’un ou de plusieurs ministres délégués et secrétaires d’État.
-
-Le Grand-Duc nomme le Premier ministre et les autres membres du Gouvernement et met fin à leurs fonctions.
-
-Avant d’entrer en fonction, les membres du Gouvernement prêtent le serment qui suit : « Je jure d’observer la Constitution et les lois et de remplir ma fonction avec intégrité, exactitude et impartialité. ».
-
-<a id="art_N1C6D8"></a>
-
-### Art. 89.
-
-La fonction de membre du Gouvernement est incompatible avec celle de député, de conseiller d’État, de membre d’un conseil communal ainsi qu’avec des fonctions publiques ou une activité professionnelle.
-
-<a id="art_N1C70D"></a>
-
-### Art. 90.
-
-Les membres du Gouvernement exercent leurs attributions, soit en conseil, soit individuellement pour les affaires dont ils ont la charge.
-
-<a id="art_N1C742"></a>
-
-### Art. 91.
-
-Le Premier ministre coordonne l’action du Gouvernement et veille au maintien de l’unité de l’action gouvernementale.
-
-<a id="art_N1C777"></a>
-
-### Art. 92.
-
-Le Gouvernement détermine son organisation et son fonctionnement par voie de règlement interne, approuvé par arrêté grand-ducal, à l’exception des matières que la Constitution réserve à la loi.
-
-<a id="art_N1C7AC"></a>
-
-### Art. 93.
-
-**(1)** Le Premier ministre engage la responsabilité du nouveau Gouvernement à l’occasion de la présentation du programme gouvernemental devant la Chambre des Députés.
-
-**(2)** Le Premier ministre peut, après délibération du Gouvernement en conseil, engager la responsabilité du Gouvernement devant la Chambre des Députés à l’occasion du vote d’un projet de loi ou d’une déclaration gouvernementale.
-
-**(3)** La Chambre des Députés peut engager la responsabilité du Gouvernement par une motion de censure.
-
-**(4)** Lorsque la Chambre des Députés refuse la confiance au Gouvernement, le Premier ministre présente la démission du Gouvernement au Grand-Duc.
-
-**(5)** Le Gouvernement démissionnaire continue à conduire la politique générale.
-
-<a id="art_N1C828"></a>
-
-### Art. 94.
-
-**(1)** Le Gouvernement et ses membres sont responsables devant la Chambre des Députés.
-
-**(2)** Les membres du Gouvernement ne répondent ni civilement ni pénalement des opinions qu’ils émettent à l’occasion de l’exercice de leur fonction.
-
-**(3)** Les membres du Gouvernement sont pénalement responsables des actes commis par eux dans l’exercice de leur fonction.
-
-Seul le ministère public peut intenter et diriger les poursuites à l’encontre d’un membre du Gouvernement pour ces actes, même après cessation de sa fonction.
-
-**(4)** Sauf le cas de flagrant délit, toute arrestation d’un membre du Gouvernement nécessite l’autorisation préalable de la Chambre des Députés. Cette autorisation n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un membre du Gouvernement.
-
-#### Chapitre VI. — Du Conseil d’État
-
-<a id="art_N1C8A8"></a>
-
-### Art. 95.
-
-Le Conseil d’État donne son avis sur les projets de loi et les propositions de loi ainsi que sur les amendements qui pourraient y être proposés.
-
-S’il estime qu’un projet de loi ou une proposition de loi comporte des dispositions non conformes à la Constitution, aux traités internationaux auxquels le Grand-Duché de Luxembourg est partie, aux actes juridiques de l’Union européenne ou aux principes généraux du droit, il en fait mention dans son avis.
-
-Lorsque la Chambre des Députés a procédé à un vote article par article d’un projet ou d’une proposition de loi, sans que le Conseil d’État ait émis son avis, la Chambre des Députés peut voter sur l’ensemble de la loi en observant un délai d’au moins trois mois après en avoir informé le Conseil d’État.
-
-Sauf les cas d’urgence à apprécier dans les limites de la loi par le Grand-Duc, le Conseil d’État donne son avis sur les projets de règlement à prendre pour l’exécution des lois et des traités internationaux et pour l’application des actes juridiques de l’Union européenne. S’il estime que le projet de règlement n’est pas conforme aux normes de droit supérieures, il en fait mention dans son avis.
-
-La Chambre des Députés et le Gouvernement peuvent déférer au Conseil d’État toutes autres questions selon les modalités déterminées par la loi.
-
-<a id="art_N1C901"></a>
-
-### Art. 96.
-
-L’organisation du Conseil d’État et la manière d’exercer ses attributions sont réglées par la loi.
-
-#### Chapitre VII. — De la Justice
-
-##### Section 1re. — De l’organisation de la Justice
-
-<a id="art_N1C94E"></a>
-
-### Art. 97.
-
-Le pouvoir judiciaire est exercé par les cours et tribunaux.
-
-Les arrêts et jugements sont exécutés au nom du Grand-Duc.
-
-<a id="art_N1C98C"></a>
-
-### Art. 98.
-
-Les juridictions de l’ordre judiciaire ont compétence générale en toute matière, à l’exception des attributions conférées par la Constitution à d’autres juridictions à compétence particulière.
-
-<a id="art_N1C9C1"></a>
-
-### Art. 99.
-
-Le contentieux administratif et fiscal est du ressort des juridictions de l’ordre administratif, dans les cas et sous les conditions déterminés par la loi.
-
-<a id="art_N1C9F6"></a>
-
-### Art. 100.
-
-Les juridictions en matière de sécurité sociale sont réglées par la loi.
-
-<a id="art_N1CA2B"></a>
-
-### Art. 101.
-
-La loi règle l’organisation des juridictions ainsi que les voies de recours.
-
-<a id="art_N1CA60"></a>
-
-### Art. 102.
-
-Les juridictions n’appliquent les lois et règlements que pour autant qu’ils sont conformes aux normes de droit supérieures.
-
-<a id="art_N1CA95"></a>
-
-### Art. 103.
-
-L’annulation d’un règlement par une juridiction de l’ordre administratif a un caractère absolu à partir du jour où le jugement ou l’arrêt est coulé en force de chose jugée, à moins que la juridiction prononçant l’annulation n’ordonne un autre délai.
-
-La juridiction prononçant l’annulation détermine les conditions et limites dans lesquelles les effets que le règlement a produits sont susceptibles d’être remis en cause.
-
-##### Section 2. — Du statut des magistrats
-
-<a id="art_N1CADE"></a>
-
-### Art. 104.
-
-**(1)** Les magistrats du siège sont indépendants dans l’exercice des fonctions juridictionnelles.
-
-**(2)** Le ministère public exerce l’action publique et requiert l’application de la loi. Il est indépendant dans l’exercice des recherches et poursuites individuelles, sans préjudice du droit du gouvernement d’arrêter des directives de politique pénale.
-
-<a id="art_N1CB2A"></a>
-
-### Art. 105.
-
-**(1)** Le statut des magistrats du siège et de ceux du ministère public est déterminé par la loi.
-
-**(2)** Les magistrats du siège sont inamovibles.
-
-**(3)** La loi règle la mise à la retraite des magistrats du siège et de ceux du ministère public pour raison d’âge, d’infirmité ou d’inaptitude.
-
-<a id="art_N1CB86"></a>
-
-### Art. 106.
-
-Avant d’entrer en fonction, les magistrats du siège et ceux du ministère public prêtent le serment prévu par la loi.
-
-##### Section 3. — Du Conseil national de la justice
-
-<a id="art_N1CBC6"></a>
-
-### Art. 107.
-
-Le Conseil national de la justice veille au bon fonctionnement de la justice dans le respect de son indépendance.
-
-La composition et l’organisation du Conseil national de la justice sont réglées par la loi. Le Conseil national de la justice doit être majoritairement composé de magistrats.
-
-Le Grand-Duc nomme les magistrats proposés par le Conseil national de la justice et suivant les conditions déterminées par la loi.
-
-Les attributions du Conseil national de la justice dans les procédures disciplinaires contre les magistrats sont déterminées par la loi.
-
-Les autres attributions du Conseil national de la justice sont fixées par la loi qui détermine également la manière de les exercer.
-
-##### Section 4. — Des garanties du justiciable
-
-<a id="art_N1CC2A"></a>
-
-### Art. 108.
-
-Les audiences des juridictions sont publiques, à moins que cette publicité ne soit dangereuse pour l’ordre ou les mœurs, et, dans ce cas, la juridiction le déclare par une décision de justice.
-
-<a id="art_N1CC5F"></a>
-
-### Art. 109.
-
-Tout jugement est motivé. Il est prononcé en audience publique.
-
-<a id="art_N1CC94"></a>
-
-### Art. 110.
-
-La loi garantit l’impartialité du magistrat du siège, le caractère équitable et loyal ainsi que le délai raisonnable des procédures, le respect du contradictoire et des droits de la défense.
-
-<a id="art_N1CCC9"></a>
-
-### Art. 111.
-
-Les dispositions de la Constitution ne font pas obstacle aux obligations découlant du Statut de la Cour Pénale Internationale.
-
-##### Section 5. — De la Cour Constitutionnelle
-
-<a id="art_N1CD09"></a>
-
-### Art. 112.
-
-**(1)** La Cour Constitutionnelle statue, par voie d’arrêt, sur la conformité des lois à la Constitution.
-
-**(2)** La Cour Constitutionnelle est saisie, à titre préjudiciel, suivant les modalités à déterminer par la loi, par toute juridiction pour statuer sur la conformité des lois, à l’exception des lois portant approbation de traités, à la Constitution.
-
-**(3)** La Cour Constitutionnelle règlera les conflits d’attribution d’après le mode déterminé par la loi.
-
-**(4)** Les attributions de la Cour Constitutionnelle peuvent être élargies par une loi votée à la majorité qualifiée réunissant au moins les deux tiers des suffrages des membres de la Chambre des Députés, les votes par procuration n’étant pas admis.
-
-**(5)** La Cour Constitutionnelle est composée :
-
-1. 1. le Président de la Cour Supérieure de Justice et le Président de la Cour administrative ;
-2. deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative ;
-2. de sept membres suppléants nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative.
-
-**(6)** La Cour Constitutionnelle siège en chambre de cinq membres. Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
-
-**(7)** L’organisation de la Cour Constitutionnelle et la manière d’exercer ses attributions sont réglées par la loi.
-
-**(8)** Les dispositions des lois déclarées non conformes à la Constitution par un arrêt de la Cour Constitutionnelle cessent d’avoir un effet juridique le lendemain de la publication de cet arrêt dans les formes prévues pour la loi, à moins que la Cour Constitutionnelle n’ait ordonné un autre délai. La Cour Constitutionnelle détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d’être remis en cause.
-
-#### Chapitre VIII. — De certaines dispositions relatives à l’administration de l’État
-
-##### Section 1re. — Des règles générales d’administration
-
-<a id="art_N1CDE4"></a>
-
-### Art. 113.
-
-Aucune loi ni aucun règlement ou arrêté d’administration générale ne sont obligatoires qu’après avoir été publiés dans la forme déterminée par la loi.
-
-<a id="art_N1CE19"></a>
-
-### Art. 114.
-
-La loi détermine les conditions et les limites ainsi que les modalités de mise en œuvre de la responsabilité de l’État et des autres personnes morales de droit public pour les dommages qu’ils ont causés ou qu’ont causés leurs mandataires publics et agents dans l’exercice de leurs fonctions.
-
-<a id="art_N1CE4E"></a>
-
-### Art. 115.
-
-L’organisation et les attributions de la force publique sont réglées par la loi.
-
-Toute déclaration relative à l’état de guerre et tout engagement de la force publique dans des opérations à l’étranger requièrent l’autorisation de la Chambre des Députés selon les modalités à établir par la loi.
-
-##### Section 2. — Des Finances
-
-<a id="art_N1CE97"></a>
-
-### Art. 116.
-
-**(1)** Tout impôt de l’État ainsi que toute exemption ou modération d’impôt sont établis par la loi.
-
-**(2)** Les impôts au profit de l’État sont votés annuellement. Les lois qui les établissent n’ont de force que pour un an, si elles ne sont pas renouvelées.
-
-**(3)** Hormis les cas formellement exceptés par la loi, aucune rétribution ne peut être exigée des citoyens ou des établissements publics qu’à titre d’impôt au profit de l’État ou de la commune.
-
-<a id="art_N1CEF3"></a>
-
-### Art. 117.
-
-**(1)** Tout emprunt à charge de l’État doit être contracté avec l’assentiment de la Chambre des Députés.
-
-**(2)** Toute aliénation d’une propriété immobilière ou mobilière de l’État doit être autorisée par une loi spéciale. Toutefois, une loi générale peut déterminer un seuil en dessous duquel une autorisation spéciale de la Chambre des Députés n’est pas requise.
-
-**(3)** Toute acquisition par l’État d’une propriété immobilière ou mobilière importante, toute réalisation au profit de l’État d’un grand projet d’infrastructure ou d’un bâtiment considérable ainsi que tout engagement financier important de l’État doivent être autorisés par une loi spéciale. Une loi générale détermine les seuils à partir desquels cette autorisation est requise, ainsi que les conditions et les modalités pour financer les travaux préparatoires.
-
-**(4)** Toute charge grevant le budget de l’État pour plus d’un exercice doit être établie par une loi spéciale.
-
-**(5)** Toute pension, tout traitement d’attente ainsi que toute gratification à la charge de l’État sont accordés par une loi.
-
-<a id="art_N1CF6F"></a>
-
-### Art. 118.
-
-Chaque année, la Chambre des Députés arrête la loi des comptes et vote le budget. Toutes les recettes et dépenses de l’État doivent être portées au budget et dans les comptes.
-
-<a id="art_N1CFA4"></a>
-
-### Art. 119.
-
-**(1)** Une Cour des comptes est chargée du contrôle de la gestion financière des organes, administrations et services de l’État. La loi peut lui confier d’autres missions de contrôle de gestion financière des deniers publics.
-
-**(2)** La Cour des comptes soumet ses contestations et recommandations sur le compte général de l’État à la Chambre des Députés.
-
-**(3)** Les attributions et l’organisation de la Cour des comptes ainsi que les modalités de son contrôle et les relations avec la Chambre des Députés sont déterminées par la loi.
-
-**(4)** Les membres de la Cour des comptes sont nommés par le Grand-Duc sur proposition de la Chambre des Députés.
-
-##### Section 3. — Des relations entre l’État et les communautés religieuses
-
-<a id="art_N1D01B"></a>
-
-### Art. 120.
-
-Les églises et les communautés religieuses sont séparées de l’État.
-
-La loi règle les relations entre l’État et les églises et communautés religieuses.
-
-Dans les limites et formes déterminées par la loi, des conventions à approuver par la Chambre des Députés peuvent préciser les relations entre l’État et les églises et communautés religieuses.
-
-#### Chapitre IX. — Des communes
-
-<a id="art_N1D06E"></a>
-
-### Art. 121.
-
-**(1)** Les communes forment des collectivités autonomes, à base territoriale, possédant la personnalité juridique et gérant par leurs organes leurs intérêts et leur patrimoine propres.
-
-**(2)** La loi règle la composition, l’organisation et les attributions des organes de la commune.
-
-<a id="art_N1D0BA"></a>
-
-### Art. 122.
-
-**(1)** Il y a dans chaque commune un conseil communal élu directement sur base du suffrage universel et par vote secret.
-
-**(2)** La commune est administrée sous l’autorité du collège des bourgmestre et échevins, qui sont nommés parmi les membres du conseil communal dans la forme déterminée par la loi.
-
-<a id="art_N1D106"></a>
-
-### Art. 123.
-
-**(1)** Les impôts au profit des communes sont établis par la loi.
-
-Dans le respect de ses compétences constitutionnelles et légales, le conseil communal peut établir les impôts et les taxes nécessaires à la réalisation de l’intérêt communal. Les impôts et les taxes communaux sont approuvés par l’autorité de surveillance.
-
-**(2)** Le conseil communal établit annuellement le budget de la commune et en arrête les comptes.
-
-**(3)** Les communes ont droit aux ressources financières pour remplir les missions qui leur sont confiées par la loi.
-
-<a id="art_N1D16B"></a>
-
-### Art. 124.
-
-Le conseil communal fait les règlements communaux, sauf les cas d’urgence.
-
-Dans les matières réservées à la loi par la Constitution, les règlements communaux ne peuvent être pris qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et, le cas échéant, les conditions auxquelles elles sont soumises.
-
-Les règlements communaux doivent être conformes aux lois et aux règlements pris en application de l’article 45.
-
-<a id="art_N1D1B2"></a>
-
-### Art. 125.
-
-**(1)** La rédaction des actes de l’état civil et la tenue des registres de ces actes sont exclusivement dans les attributions des organes de la commune que la loi détermine.
-
-**(2)** La loi établit le statut des fonctionnaires communaux.
-
-<a id="art_N1D1FE"></a>
-
-### Art. 126.
-
-Toute commune peut créer, seule ou avec d’autres communes, des établissements publics dans les limites et selon la manière déterminée par la loi.
-
-<a id="art_N1D233"></a>
-
-### Art. 127.
-
-La loi règle la surveillance de la gestion communale et détermine limitativement les actes des organes communaux à approuver par l’autorité de surveillance. Elle peut soumettre certains actes des organes communaux à l’appro­bation de l’autorité de surveillance et prévoir leur annulation ou leur suspension en cas d’illégalité ou de contrariété à l’intérêt général, sans préjudice des attributions des juridictions de l’ordre judiciaire ou de l’ordre administratif.
-
-Le Gouvernement en conseil peut dissoudre le conseil communal dans l’intérêt de la gestion de la commune.
-
-#### Chapitre X. — Des établissements publics de l’État et des organes professionnels
-
-<a id="art_N1D27C"></a>
-
-### Art. 128.
-
-**(1)** La loi peut créer des établissements publics, qui ont la personnalité juridique et qui sont placés sous la tutelle de l’État.
-
-**(2)** La loi peut créer des chambres professionnelles, qui ont la personnalité juridique.
-
-**(3)** La loi peut constituer des organes représentatifs des professions libérales et les doter de la personnalité juridique.
-
-<a id="art_N1D2D8"></a>
-
-### Art. 129.
-
-**(1)** La loi détermine l’objet, l’organisation et les compétences des établissements publics, des chambres professionnelles et des organes des professions libérales, qui ont la personnalité juridique.
-
-**(2)** Dans la limite de leur objet, la loi peut leur accorder la compétence de prendre des règlements.
-
-Dans les matières réservées à la loi par la Constitution, ces règlements ne peuvent être pris qu’en vertu d’une disposition légale particulière qui fixe l’objectif des mesures d’exécution et, le cas échéant, les conditions auxquelles elles sont soumises.
-
-Ces règlements doivent être conformes aux lois et aux règlements pris en application de l’article 45.
-
-#### Chapitre XI. — De la révision de la Constitution
-
-<a id="art_N1D341"></a>
-
-### Art. 130.
-
-Aucune disposition de la Constitution ne peut être suspendue.
-
-<a id="art_N1D376"></a>
-
-### Art. 131.
-
-Toute révision de la Constitution doit être adoptée dans les mêmes termes par la Chambre des Députés en deux votes successifs, séparés par un intervalle d’au moins trois mois.
-
-Nulle révision ne sera adoptée si elle ne réunit au moins les deux tiers des suffrages des membres de la Chambre, les votes par procuration n’étant pas admis.
-
-Le texte adopté en première lecture par la Chambre des Députés est soumis à un référendum, qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite soit par plus d’un quart des membres de la Chambre, soit par vingt-cinq mille électeurs inscrits sur les listes électorales pour les élections législatives. La révision n’est adoptée que si elle recueille la majorité des suffrages valablement exprimés. La loi règle les modalités d’organisation du référendum.
-
-#### Chapitre XII. — Dispositions transitoires
-
-<a id="art_N1D3C8"></a>
-
-### Art. 132.
-
-Les dispositions de l’article 56 sont pour la première fois applicables à la descendance de Son Altesse Royale Henri, Grand-Duc de Luxembourg, Duc de Nassau.
