@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-gouvernement:2023-11-27
+lex_id: lu-legilux:recueil-gouvernement:2023-12-18
 title: Gouvernement
-valid_from: 2023-11-27
-valid_to: 2023-12-17
-source: https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20231127/fr
-source_sha256: 502771eda671913ee2b8e05a51eb6ba60854bd70944d0083ce5fdeda258667ee
+valid_from: 2023-12-18
+valid_to: 2024-10-31
+source: https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20231218/fr
+source_sha256: 5aef5a543ce77100166e887bf37d3227ccf11b752ece412e44ee5243ca0ba57d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -14,19 +14,19 @@ generator: akn-lu/1 · lex derive
 
 ### Arrêté grand-ducal du 27 novembre 2023 portant approbation et publication du règlement interne du Gouvernement.
 
-<a id="art_N1003F"></a>
+<a id="art_N10040"></a>
 
 ### Art. 1er.
 
 Le règlement interne du Gouvernement adopté par le Gouvernement en conseil en date du 27 novembre 2023 est approuvé et sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
-<a id="art_N10052"></a>
+<a id="art_N10053"></a>
 
 ### Art. 2.
 
 Le présent arrêté entre en vigueur le 27 novembre 2023.
 
-<a id="art_N10062"></a>
+<a id="art_N10063"></a>
 
 ### Art. 3.
 
@@ -44,7 +44,7 @@ Le présent règlement interne détermine l’organisation et le fonctionnement 
 
 #### Section 2 — Des membres du Gouvernement
 
-<a id="art_N100B8"></a>
+<a id="art_N100B7"></a>
 
 ### Art. 2.
 
@@ -54,31 +54,31 @@ Le ministre délégué dispose d’une compétence propre dans le domaine d’un
 
 Le Secrétaire d’État est habilité à signer les actes relevant du champ de compétence d’un département ministériel pour lequel le ministre du ressort lui a conféré une délégation de signature, qui est approuvée par voie d’arrêté grand-ducal.
 
-<a id="art_N100DA"></a>
+<a id="art_N100D9"></a>
 
 ### Art. 3.
 
 Les membres du Gouvernement exercent leurs attributions, soit en conseil, soit individuellement, conformément aux dispositions qui suivent.
 
-<a id="art_N100EA"></a>
+<a id="art_N100E9"></a>
 
 ### Art. 4.
 
 Chaque membre du Gouvernement a la direction d’un ou de plusieurs départements ministériels et exerce, relativement aux affaires de son département, les attributions que la Constitution, les lois et les règlements lui confèrent. L’énumération et la constitution des ministères sont fixées dans l’annexe A, respectivement l’annexe B du présent règlement.
 
-<a id="art_N100FA"></a>
+<a id="art_N100F9"></a>
 
 ### Art. 5.
 
 Les membres du Gouvernement ont la faculté de se remplacer mutuellement. Toutefois, si le remplacement doit durer au-delà de vingt-et-un jours, une délégation de signature doit être accordée par voie d’arrêté grand-ducal au membre du Gouvernement qui assure le remplacement.
 
-<a id="art_N1010F"></a>
+<a id="art_N1010D"></a>
 
 ### Art. 6.
 
 Des délégations de signature peuvent être consenties aux fonctionnaires par les membres du Gouvernement pour les affaires relevant des compétences de ces derniers conformément aux dispositions figurant à l’annexe C du présent règlement.
 
-<a id="art_N1011F"></a>
+<a id="art_N1011D"></a>
 
 ### Art. 7.
 
@@ -86,7 +86,7 @@ Les membres du Gouvernement respectent les dispositions du Code de déontologie 
 
 #### Section 3 — Du Premier ministre
 
-<a id="art_N1013B"></a>
+<a id="art_N10138"></a>
 
 ### Art. 8.
 
@@ -98,7 +98,7 @@ Dans toutes les dispositions légales, réglementaires ou administratives, la r�
 
 #### Section 4 — Du Gouvernement en conseil
 
-<a id="art_N10169"></a>
+<a id="art_N10165"></a>
 
 ### Art. 9.
 
@@ -106,7 +106,7 @@ La présidence du Conseil est exercée par le Premier ministre.
 
 En cas d’empêchement du Premier ministre, la présidence du Conseil est exercée par un Vice-premier ministre, sinon par le ministre le plus ancien en rang.
 
-<a id="art_N10182"></a>
+<a id="art_N1017E"></a>
 
 ### Art. 10.
 
@@ -121,7 +121,7 @@ Sont délibérées en Conseil :
 
 En application des articles 76 et 95, alinéa 1er de la Constitution, les avant-projets de lois qui sont soumis au Conseil de Gouvernement pour approbation font l’objet d’un dépôt à la Chambre des Députés et d’une saisine simultanée du Conseil d’État par voie d’arrêté du Premier ministre.
 
-<a id="art_N101BE"></a>
+<a id="art_N101B9"></a>
 
 ### Art. 11.
 
@@ -135,13 +135,13 @@ En cas d’urgence, le président peut soumettre une décision au Conseil par vo
 
 En cas d’urgence extrême, le président peut, en l’absence des autres membres du Conseil, décider seul les affaires de la compétence du Conseil, à charge d’en rendre compte à la prochaine séance.
 
-<a id="art_N101F2"></a>
+<a id="art_N101ED"></a>
 
 ### Art. 12.
 
 La responsabilité de toute mesure arrêtée en Conseil appartient aux membres qui y ont concouru. Le membre qui a fait constater au procès-verbal son vote dissident, est affranchi de toute responsabilité.
 
-<a id="art_N10202"></a>
+<a id="art_N101FD"></a>
 
 ### Art. 13.
 
@@ -149,7 +149,7 @@ Les décisions du Conseil sont exécutées par le membre du département duquel 
 
 #### Section 5 — Des conseillers qui sont adjoints au Gouvernement
 
-<a id="art_N1021E"></a>
+<a id="art_N10218"></a>
 
 ### Art. 14.
 
@@ -157,7 +157,7 @@ Des conseillers, dont les fonctions et l’effectif maximum sont déterminés pa
 
 Les conseillers sont nommés par arrêté grand-ducal sur proposition du Premier ministre. Ils sont affectés à un département ministériel par une décision prise par le Gouvernement en conseil.
 
-<a id="art_N10237"></a>
+<a id="art_N10231"></a>
 
 ### Art. 15.
 
@@ -165,7 +165,7 @@ Les conseillers respectent les dispositions du Code de déontologie des conseill
 
 #### Section 6 — Du Secrétariat général
 
-<a id="art_N10253"></a>
+<a id="art_N1024C"></a>
 
 ### Art. 16.
 
@@ -173,13 +173,13 @@ Il est adjoint au Conseil de Gouvernement un Secrétaire général du Gouverneme
 
 Le Secrétaire général et le Secrétaire général adjoint sont révocables à tout moment. Leurs fonctions cessent de plein droit à la fin du mandat du Gouvernement.
 
-<a id="art_N1026C"></a>
+<a id="art_N10265"></a>
 
 ### Art. 17.
 
 Le Secrétaire général et le Secrétaire général adjoint préparent les séances du Conseil, assistent à celles-ci, rédigent le procès-verbal et veillent à l’exécution des décisions du Conseil. Ils peuvent être chargés d’autres attributions par le Gouvernement.
 
-<a id="art_N1027C"></a>
+<a id="art_N10275"></a>
 
 ### Art. 18.
 
@@ -187,7 +187,7 @@ Le Secrétaire général et le Secrétaire général adjoint touchent une indemn
 
 #### Section 7 — Des comités interministériels
 
-<a id="art_N1029D"></a>
+<a id="art_N10295"></a>
 
 ### Art. 19.
 
@@ -203,13 +203,13 @@ Des comités interministériels peuvent être créés, sur proposition du minist
 
 ### Arrêté grand-ducal du 17 novembre 2023 portant nomination de Monsieur Luc Frieden à la fonction de Premier ministre.
 
-<a id="art_N1239B"></a>
+<a id="art_N122C4"></a>
 
 ### Art. 1er.
 
 Monsieur Luc FRIEDEN, avocat, est nommé Premier ministre.
 
-<a id="art_N123AE"></a>
+<a id="art_N122D7"></a>
 
 ### Art. 2.
 
@@ -217,41 +217,41 @@ Le Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse est ch
 
 ### Arrêté grand-ducal du 17 novembre 2023 portant a) nomination de Monsieur Xavier BETTEL à la fonction de Vice-Premier ministre ; b) reconduction dans leur fonction de Ministre de Monsieur Claude MEISCH, Monsieur Lex DELLES, Madame Yuriko BACKES et Monsieur Max HAHN ; c) nomination de Madame Martine HANSEN, Monsieur Gilles ROTH, Madame Martine DEPREZ, Monsieur Léon GLODEN, Madame Stéphanie OBERTIN, Monsieur Georges MISCHO, Monsieur Serge WILMES, Madame Elisabeth MARGUE, Monsieur Eric THILL.
 
-<a id="art_N123D2"></a>
+<a id="art_N122FC"></a>
 
 ### Art. 1er.
 
 Est nommé à la fonction de Vice-Premier ministre : Monsieur Xavier BETTEL, avocat.
 
-<a id="art_N123E5"></a>
+<a id="art_N1230F"></a>
 
 ### Art. 2.
 
 Sont reconduits dans leur fonction de Ministre : Monsieur Claude MEISCH, Monsieur Lex DELLES, Madame Yuriko BACKES et Monsieur Max HAHN.
 
-<a id="art_N123F5"></a>
+<a id="art_N1231F"></a>
 
 ### Art. 3.
 
 Sont nommés Ministres : Madame Martine HANSEN, professeur-ingénieur, Monsieur Gilles ROTH, juriste, Madame Martine DEPREZ, professeur de sciences, spécialité mathématiques, Monsieur Léon GLODEN, avocat, Madame Stéphanie OBERTIN, médecin-généraliste, Monsieur Georges MISCHO, professeur d’éducation physique et sportive, Monsieur Serge WILMES, historien, Madame Elisabeth MARGUE, avocat et Monsieur Eric THILL, politologue.
 
-<a id="art_N12405"></a>
+<a id="art_N1232F"></a>
 
 ### Art. 4.
 
 Le Premier ministre est chargé de l’exécution du présent arrêté qui sortira ses effets au 17 novembre 2023.
 
-### Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles.
+### Version consolidée applicable au 18/12/2023 : Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles.
 
-<a id="art_N12429"></a>
+<a id="art_N12354"></a>
 
 ### Art. 1er.
 
 Les compétences ministérielles sont attribuées comme suit :
 
 - Monsieur Luc FRIEDEN : Premier ministre ;
-- Monsieur Xavier BETTEL : Vice-Premier ministre ; Ministre des Affaires étrangères et européennes, de la Coopération, du Commerce extérieur et à la Grande Région ;
-- Madame Martine HANSEN : Ministre de l’Agriculture, de l’Alimentation et de la Viticulture ;
+- Monsieur Xavier BETTEL : Vice-Premier ministre ; Ministre des Affaires étrangères et du Commerce extérieur ; Ministre de la Coopération et de l’Action humanitaire ;
+- Madame Martine HANSEN : Ministre de l’Agriculture, de l’Alimentation et de la Viticulture ; Ministre de la Protection des consommateurs ;
 - Monsieur Claude MEISCH : Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse ; Ministre du Logement et de l’Aménagement du territoire ;
 - Monsieur Lex DELLES : Ministre de l’Économie, des PME, de l’Énergie et du Tourisme ;
 - Madame Yuriko BACKES : Ministre de la Défense ; Ministre de l’Égalité des genres et de la Diversité ; Ministre de la Mobilité et des Travaux publics ;
@@ -262,16 +262,16 @@ Les compétences ministérielles sont attribuées comme suit :
 - Madame Stéphanie OBERTIN : Ministre de la Digitalisation ; Ministre de la Recherche et de l’Enseignement supérieur ;
 - Monsieur Georges MISCHO : Ministre des Sports ; Ministre du Travail ;
 - Monsieur Serge WILMES : Ministre de l’Environnement, du Climat et de la Biodiversité ; Ministre de la Fonction publique ;
-- Madame Elisabeth MARGUE : Ministre de la Justice ; Ministre déléguée auprès du Premier ministre, chargée des Médias et des Communications ; Ministre déléguée auprès du Premier ministre, chargée des Relations avec le Parlement ;
+- Madame Elisabeth MARGUE : Ministre de la Justice ; Ministre déléguée auprès du Premier ministre, chargée des Médias et de la Connectivité ; Ministre déléguée auprès du Premier ministre, chargée des Relations avec le Parlement ;
 - Monsieur Eric THILL : Ministre de la Culture ; Ministre délégué au Tourisme.
 
-<a id="art_N1246E"></a>
+<a id="art_N123E7"></a>
 
 ### Art. 2.
 
 L’arrêté du 16 novembre 2023 portant attribution des compétences ministérielles aux membres du Gouvernement est abrogé.
 
-<a id="art_N12483"></a>
+<a id="art_N1241E"></a>
 
 ### Art. 3.
 
