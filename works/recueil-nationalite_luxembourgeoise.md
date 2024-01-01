@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-nationalite_luxembourgeoise:2023-07-01
+lex_id: lu-legilux:recueil-nationalite_luxembourgeoise:2024-01-01
 title: Nationalité luxembourgeoise
-valid_from: 2023-07-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20230701/fr
-source_sha256: 86b92fdcc98dd2032ec52cfe6a325fe1ad1b37ebc6a966b4c626717fab890e0e
+valid_from: 2024-01-01
+valid_to: 2024-12-23
+source: https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20240101/fr
+source_sha256: 2d58858493d0ede30717179e85e89c8d97f382cfefae0c7b3b2d396c9b7a8e18
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -20,7 +20,7 @@ generator: akn-lu/1 · lex derive
 
 La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi.
 
-<a id="art_N10067"></a>
+<a id="art_N10079"></a>
 
 ### Art. 10.
 
@@ -28,19 +28,19 @@ La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après le
 
 **(2)** Sans préjudice de l’article 64, la loi peut conférer l’exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_N100A0"></a>
+<a id="art_N100CE"></a>
 
 ### Art. 11.
 
 La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourgeois les emplois publics comportant une participation directe ou indirecte à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’État.
 
-### Version consolidée applicable au 25/03/2023 : Loi du 8 mars 2017 sur la nationalité luxembourgeoise et portant abrogation de : 1. la loi du 23 octobre 2008 sur la nationalité luxembourgeoise ; 2. la loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise.
+### Version consolidée applicable au 01/01/2024 : Loi du 8 mars 2017 sur la nationalité luxembourgeoise et portant abrogation de : 1. la loi du 23 octobre 2008 sur la nationalité luxembourgeoise ; 2. la loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise.
 
 #### **Chapitre 1er**. **De l’attribution de la nationalité luxembourgeoise par le seul effet de la loi**
 
 ##### **Section 1ère**. **Des Luxembourgeois en raison de la filiation**
 
-<a id="art_N100F6"></a>
+<a id="art_N10139"></a>
 
 ### Art. 1er.
 
@@ -48,7 +48,7 @@ La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourg
 
 **(2)** Dans le cas où le jugement ou l’arrêt déclaratif de filiation est rendu après la mort du parent, le mineur est Luxembourgeois lorsque le parent possède la nationalité luxembourgeoise au jour de son décès ou de la naissance du mineur.
 
-<a id="art_N10140"></a>
+<a id="art_N10182"></a>
 
 ### Art. 2.
 
@@ -59,7 +59,7 @@ Obtient la nationalité luxembourgeoise :
 
 ##### **Section 2. Des Luxembourgeois en raison de l’adoption**
 
-<a id="art_N10189"></a>
+<a id="art_N101CA"></a>
 
 ### Art. 3.
 
@@ -73,13 +73,13 @@ Obtient la nationalité luxembourgeoise :
 
 ##### **Section 3. Des Luxembourgeois en raison de la naissance au Grand-Duché de Luxembourg**
 
-<a id="art_N101DB"></a>
+<a id="art_N1021B"></a>
 
 ### Art. 4.
 
 Est Luxembourgeois le mineur né au Grand-Duché de Luxembourg, dont un des parents ou adoptants non-luxembourgeois y est également né.
 
-<a id="art_N1020E"></a>
+<a id="art_N1024D"></a>
 
 ### Art. 5.
 
@@ -89,7 +89,7 @@ Est Luxembourgeois:
 2. le mineur né au Grand-Duché de Luxembourg de parents non-luxembourgeois, à condition que l’application d’aucune loi étrangère ne lui permette d’obtenir la nationalité de l’un ou l’autre de ses parents ou que l’attribution de ces nationalités étrangères ne soit possible qu’en cas de résidence dans les pays concernés; ou
 3. le mineur né au Grand-Duché de Luxembourg de parents légalement inconnus; le mineur trouvé sur le territoire luxembourgeois est présumé, jusqu’à la preuve du contraire, être né sur ce territoire.
 
-<a id="art_N10250"></a>
+<a id="art_N1028E"></a>
 
 ### Art. 6.
 
@@ -98,7 +98,7 @@ Celui qui est né au Grand-Duché de Luxembourg obtient, au moment de sa majorit
 1. qu’il ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins cinq années consécutives et précédant immédiatement la majorité ; et
 2. qu’un de ses parents ou adoptants non-luxembourgeois ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins douze mois consécutifs et précédant immédiatement la naissance.
 
-<a id="art_N1028F"></a>
+<a id="art_N102CC"></a>
 
 ### Art. 7.
 
@@ -108,7 +108,7 @@ Celui qui est né au Grand-Duché de Luxembourg obtient, au moment de sa majorit
 
 ##### **Section 4. Des Luxembourgeois en raison de la possession d’état**
 
-<a id="art_N102E6"></a>
+<a id="art_N10322"></a>
 
 ### Art. 8.
 
@@ -122,31 +122,31 @@ La preuve contraire est de droit.
 
 ##### **Section 1ère. Dispositions générales**
 
-<a id="art_N10353"></a>
+<a id="art_N1038E"></a>
 
 ### Art. 9.
 
 Aux fins de la présente loi, on entend par ministre : le membre du Gouvernement ayant la Nationalité dans ses attributions.
 
-<a id="art_N10386"></a>
+<a id="art_N103C0"></a>
 
 ### Art. 10.
 
 La nationalité luxembourgeoise peut être attribuée aux personnes non-luxembourgeoises par naturalisation, option ou recouvrement.
 
-<a id="art_N103B9"></a>
+<a id="art_N103F2"></a>
 
 ### Art. 11.
 
 La naturalisation, l’option et le recouvrement confèrent aux personnes concernées tous les droits et devoirs qui sont attachés à la qualité de Luxembourgeois.
 
-<a id="art_N103EC"></a>
+<a id="art_N10424"></a>
 
 ### Art. 12.
 
 La naturalisation, l’option et le recouvrement ne produisent d’effet que pour l’avenir.
 
-<a id="art_N1041F"></a>
+<a id="art_N10456"></a>
 
 ### Art. 13.
 
@@ -164,7 +164,7 @@ Ils sont soumis aux mêmes formalités de timbre ainsi qu’aux mêmes droits de
 
 ##### **Sous-section 1ère. Des conditions**
 
-<a id="art_N10499"></a>
+<a id="art_N104CE"></a>
 
 ### Art. 14.
 
@@ -180,7 +180,7 @@ Ils sont soumis aux mêmes formalités de timbre ainsi qu’aux mêmes droits de
 2. lorsque le candidat a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure de naturalisation ; ou
 3. lorsque le candidat a fait l’objet, au Grand-Duché de Luxembourg ou à l’étranger, d’une condamnation à une peine criminelle ou à l’emprisonnement ferme d’une durée de douze mois ou plus ou à l’emprisonnement avec sursis d’une durée de vingt-quatre mois ou plus et que les faits à la base de la condamnation prononcée à l’étranger constituent également une infraction pénale en droit luxembourgeois et que, le cas échéant et sauf le bénéfice d’une réhabilitation, la peine ait été définitivement exécutée moins de quinze années avant la demande de naturalisation.
 
-<a id="art_N10501"></a>
+<a id="art_N10535"></a>
 
 ### Art. 15.
 
@@ -220,7 +220,7 @@ Le demandeur peut être entendu par le délégué du ministre.
 
 En cas de doute, le ministre peut ordonner une expertise médicale.
 
-<a id="art_N10600"></a>
+<a id="art_N10633"></a>
 
 ### Art. 16.
 
@@ -252,7 +252,7 @@ Le demandeur peut être entendu par le délégué du ministre.
 
 En cas de doute, le ministre peut ordonner une expertise médicale.
 
-<a id="art_N106C8"></a>
+<a id="art_N106FA"></a>
 
 ### Art. 17.
 
@@ -266,7 +266,7 @@ En cas de doute, le ministre peut ordonner une expertise médicale.
 
 **(3)** Les frais de l’expertise médicale, ordonnée par le ministre dans le cadre d’une demande en dispense, sont remboursés au demandeur par la Caisse nationale de santé ou la caisse de maladie compétente, dans les conditions déterminées par les statuts.
 
-<a id="art_N1073D"></a>
+<a id="art_N1076E"></a>
 
 ### Art. 18.
 
@@ -280,7 +280,7 @@ En cas de doute, le ministre peut ordonner une expertise médicale.
 
 ##### **Sous-section 2. De la procédure**
 
-<a id="art_N107B3"></a>
+<a id="art_N107E2"></a>
 
 ### Art. 19.
 
@@ -302,7 +302,7 @@ En cas de doute, le ministre peut ordonner une expertise médicale.
 
 En cas de dispense, le candidat peut rapporter la preuve des conditions légales par tous moyens.
 
-<a id="art_N10871"></a>
+<a id="art_N1089F"></a>
 
 ### Art. 20.
 
@@ -316,7 +316,7 @@ Il notifie sa décision de refus au candidat.
 
 **(3)** L’officier de l’état civil transmet, directement et sans délai, au ministre une copie intégrale de l’acte valant demande de naturalisation et les pièces justificatives.
 
-<a id="art_N108DD"></a>
+<a id="art_N1090A"></a>
 
 ### Art. 21.
 
@@ -340,7 +340,7 @@ Ce délai ne joue pas pendant la suspension visée au paragraphe qui précède.
 
 **(6)** Mention de l’arrêté ministériel est faite par l’officier de l’état civil sur l’acte valant demande de naturalisation.
 
-<a id="art_N1099D"></a>
+<a id="art_N109C9"></a>
 
 ### Art. 22.
 
@@ -350,7 +350,7 @@ Lorsque l’officier de l’état civil a acté la demande de naturalisation, le
 
 ##### **Sous-section 1ère. Des conditions**
 
-<a id="art_N109E9"></a>
+<a id="art_N10A13"></a>
 
 ### Art. 23.
 
@@ -359,7 +359,7 @@ L’option est ouverte au majeur :
 1. lorsque son parent ou adoptant possède ou a possédé la nationalité luxembourgeoise et que cette nationalité ne lui a pas été attribuée ; ou
 2. lorsque son grand-parent possède ou a possédé la nationalité luxembourgeoise et que cette nationalité n’a pas été attribuée à son parent.
 
-<a id="art_N10A28"></a>
+<a id="art_N10A51"></a>
 
 ### Art. 24.
 
@@ -369,7 +369,7 @@ L’option est ouverte au parent d’un mineur luxembourgeois, à condition :
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours ; les dispositions de l’article 16 sont applicables.
 
-<a id="art_N10A6A"></a>
+<a id="art_N10A92"></a>
 
 ### Art. 25.
 
@@ -382,7 +382,7 @@ L’option est ouverte au parent d’un mineur luxembourgeois, à condition :
 
 La disposition de l'alinéa qui précède n'est pas applicable au candidat qui séjourne à l'étranger en raison de l'exercice par son conjoint d'une fonction conférée par une autorité publique luxembourgeoise ou une organisation internationale.
 
-<a id="art_N10AC9"></a>
+<a id="art_N10AF0"></a>
 
 ### Art. 26.
 
@@ -391,13 +391,13 @@ L’option est ouverte, à partir de l’âge de douze ans, au candidat né au G
 1. qu’il ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins cinq années consécutives et précédant immédiatement la déclaration d’option ; et
 2. qu’un de ses parents ou adoptants non-luxembourgeois ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins douze mois consécutifs et précédant immédiatement la naissance.
 
-<a id="art_N10B08"></a>
+<a id="art_N10B2E"></a>
 
 ### Art. 27.
 
 L’option est ouverte au majeur ayant accompli au moins sept années de sa scolarité dans le cadre de l’enseignement public luxembourgeois ou de l’enseignement privé appliquant les programmes d’enseignement public luxembourgeois, à condition d’avoir une résidence habituelle au Grand-Duché de Luxembourg et de s’y trouver en séjour régulier pendant au moins douze mois consécutifs et précédant immédiatement la déclaration d’option.
 
-<a id="art_N10B3B"></a>
+<a id="art_N10B60"></a>
 
 ### Art. 28.
 
@@ -411,17 +411,17 @@ Le cours est organisé par le Service de la formation des adultes dont le progra
 
 L’organisateur certifie la participation au cours.
 
-<a id="art_N10BAC"></a>
+<a id="art_N10BD0"></a>
 
 ### Art. 29.
 
-L’option est ouverte au majeur ayant accompli les engagements résultant du contrat d’accueil et d’intégration, visé par la loi modifiée du 16 décembre 2008 concernant l’accueil et l’intégration des étrangers au Grand-Duché de Luxembourg, à condition :
+L’option est ouverte au majeur ayant accompli les engagements résultant du contrat d’accueil et d’intégration, visé par la loi modifiée du 16 décembre 2008 concernant l’accueil et l’intégration des étrangers au Grand-Duché de Luxembourg ou les modules d’introduction à la vie au Grand-Duché de Luxembourg, organisés dans le cadre du pacte citoyen du vivre-ensemble interculturel, visé par la loi du 23 août 2023 relative au vivre-ensemble interculturel , à condition :
 
 1. d’avoir une résidence habituelle au Grand-Duché de Luxembourg et de s’y trouver en séjour régulier depuis au moins cinq années, dont la dernière année de résidence précédant immédiatement la déclaration d’option doit être ininterrompue ;
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. er
 
-<a id="art_N10BF5"></a>
+<a id="art_N10C35"></a>
 
 ### Art. 30.
 
@@ -431,7 +431,7 @@ L’option est ouverte au majeur qui s’est installé au Grand-Duché de Luxemb
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours ; les dispositions de l’article 16 sont applicables.
 
-<a id="art_N10C37"></a>
+<a id="art_N10C76"></a>
 
 ### Art. 31.
 
@@ -441,13 +441,13 @@ L’option est ouverte au majeur bénéficiant du statut d’apatride, du statut
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours ; les dispositions de l’article 16 sont applicables.
 
-<a id="art_N10C79"></a>
+<a id="art_N10CB7"></a>
 
 ### Art. 32.
 
 L’option est ouverte au soldat volontaire ayant accompli au moins une année de bons et loyaux services, certifiés par le chef d’état-major de l'armée luxembourgeoise.
 
-<a id="art_N10CAC"></a>
+<a id="art_N10CE9"></a>
 
 ### Art. 33.
 
@@ -459,7 +459,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 ##### **Sous-section 2. De la procédure**
 
-<a id="art_N10CFA"></a>
+<a id="art_N10D35"></a>
 
 ### Art. 34.
 
@@ -484,7 +484,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 5. le cas échéant, un certificat attestant l’exercice par le conjoint à l’étranger d’une fonction conférée par une autorité publique luxembourgeoise ou une organisation internationale ;
 11. dans le cas visé à l’article 27 : les bulletins scolaires ou autres certificats délivrés par l’autorité compétente ;
 12. dans le cas visé à l’article 28 : un certificat attestant la participation au cours de langue luxembourgeoise ;
-13. 1. un certificat attestant l’accomplissement des engagements résultant du contrat d’accueil et d’intégration ;
+13. 1. un certificat attestant l’accomplissement des engagements résultant du contrat d’accueil et d’intégration ou des modules d’introduction à la vie au Grand-Duché de Luxembourg, organisés dans le cadre du pacte citoyen du vivre-ensemble interculturel ;
 2. un certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; et
 3. un certificat attestant la participation au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou la réussite de l’examen sanctionnant ce cours ;
 14. 1. un certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; et
@@ -493,7 +493,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 **(2)** Les dispositions de l’article 19, paragraphes 2 et 3 sont applicables.
 
-<a id="art_N10DDB"></a>
+<a id="art_N10E21"></a>
 
 ### Art. 35.
 
@@ -513,7 +513,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 **(7)** *La notification de la décision portant refus d’acter la déclaration d’option est faite par l’officier de l’état civil à la personne concernée.*
 
-<a id="art_N10EA2"></a>
+<a id="art_N10EE7"></a>
 
 ### Art. 36.
 
@@ -523,7 +523,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 **(3)** La notification de la déclaration d’option, munie de la mention visée au paragraphe qui précède, est faite par l’officier de l’état civil à la personne concernée.
 
-<a id="art_N10EFC"></a>
+<a id="art_N10F40"></a>
 
 ### Art. 37.
 
@@ -540,7 +540,7 @@ Lorsque l’annulation de la déclaration d’option est devenue définitive, l�
 
 **(3)** Celui qui a souscrit une déclaration d’option ne peut pas être éloigné ou expulsé du territoire du Grand-Duché de Luxembourg jusqu’au jour où l’annulation de cette déclaration devient définitive.
 
-<a id="art_N10F83"></a>
+<a id="art_N10FC6"></a>
 
 ### Art. 38.
 
@@ -552,13 +552,13 @@ Lorsque l’annulation de la déclaration d’option est devenue définitive, l�
 
 ##### **Sous-section 1ère. Des conditions**
 
-<a id="art_N10FF5"></a>
+<a id="art_N11036"></a>
 
 ### Art. 39.
 
 Le recouvrement de la nationalité luxembourgeoise est ouvert au majeur ayant perdu la qualité de Luxembourgeois.
 
-<a id="art_N11028"></a>
+<a id="art_N11068"></a>
 
 ### Art. 40.
 
@@ -570,7 +570,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 ##### **Sous-section 2. De la procédure**
 
-<a id="art_N11076"></a>
+<a id="art_N110B4"></a>
 
 ### Art. 41.
 
@@ -591,7 +591,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 **(2)** Les dispositions de l’article 19, paragraphes 2 et 3 sont applicables.
 
-<a id="art_N11130"></a>
+<a id="art_N1116D"></a>
 
 ### Art. 42.
 
@@ -607,7 +607,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 **(6)** *La notification de la décision portant refus d’acter la déclaration de recouvrement est faite par l’officier de l’état civil à la personne concernée.*
 
-<a id="art_N111D8"></a>
+<a id="art_N11214"></a>
 
 ### Art. 43.
 
@@ -617,7 +617,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 **(3)** La notification de la déclaration de recouvrement, munie de la mention visée au paragraphe qui précède, est faite par l’officier de l’état civil à la personne concernée.
 
-<a id="art_N11232"></a>
+<a id="art_N1126D"></a>
 
 ### Art. 44.
 
@@ -634,7 +634,7 @@ Lorsque l’annulation de la déclaration de recouvrement est devenue définitiv
 
 **(3)** Celui qui a souscrit une déclaration de recouvrement ne peut pas être éloigné ou expulsé du territoire du Grand-Duché de Luxembourg jusqu’au jour où l’annulation de cette déclaration devient définitive.
 
-<a id="art_N112B9"></a>
+<a id="art_N112F3"></a>
 
 ### Art. 45.
 
@@ -646,7 +646,7 @@ Lorsque l’annulation de la déclaration de recouvrement est devenue définitiv
 
 ##### ****
 
-<a id="art_N11339"></a>
+<a id="art_N11372"></a>
 
 ### Art. 46.
 
@@ -654,13 +654,13 @@ Lorsque l’annulation de la déclaration de recouvrement est devenue définitiv
 
 **(2)** Il en est de même pour le mineur qui obtient la nationalité luxembourgeoise conjointement avec la personne visée au paragraphe qui précède.
 
-<a id="art_N11383"></a>
+<a id="art_N113BB"></a>
 
 ### Art. 47.
 
 Les titres académiques et titres de noblesse ne font pas partie intégrante du nom et des prénoms.
 
-<a id="art_N113B6"></a>
+<a id="art_N113ED"></a>
 
 ### Art. 48.
 
@@ -668,13 +668,13 @@ Lorsque le nom et les prénoms indiqués dans l’arrêté ministériel portant 
 
 ##### ****
 
-<a id="art_N11421"></a>
+<a id="art_N11456"></a>
 
 ### Art. 49.
 
 Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou recouvrement, peut demander le changement du nom et des prénoms suivant les conditions déterminées par la loi du 19 décembre 2020 sur le changement du nom et des prénoms.
 
-<a id="art_N11466"></a>
+<a id="art_N11499"></a>
 
 ### Art. 50.
 
@@ -682,15 +682,15 @@ Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou 
 
 **(2)** Le candidat à la nationalité luxembourgeoise présente une demande motivée au ministre qui autorise ou refuse l’attribution sollicitée.
 
-<a id="art_N114BC"></a>
+<a id="art_N114EE"></a>
 
-### art_N114BC
+### art_N114EE
 
 **
 
-<a id="art_N11546"></a>
+<a id="art_N11577"></a>
 
-### art_N11546
+### art_N11577
 
 1. 
 2. 
@@ -698,15 +698,15 @@ Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou 
 4. 
 5. 
 
-<a id="art_N1161F"></a>
+<a id="art_N1164E"></a>
 
-### art_N1161F
+### art_N1164E
 
 
 
-<a id="art_N116DC"></a>
+<a id="art_N1170A"></a>
 
-### art_N116DC
+### art_N1170A
 
 
 
@@ -714,13 +714,13 @@ Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou 
 
 ##### **Section 1ère. Dispositions générales**
 
-<a id="art_N1177D"></a>
+<a id="art_N117AA"></a>
 
 ### Art. 55.
 
 La nationalité luxembourgeoise se perd par renonciation ou par déchéance.
 
-<a id="art_N117B0"></a>
+<a id="art_N117DC"></a>
 
 ### Art. 56.
 
@@ -732,13 +732,13 @@ La nationalité luxembourgeoise se perd par renonciation ou par déchéance.
 
 ##### **Sous-section**** 1ère. ****Des conditions**
 
-<a id="art_N11818"></a>
+<a id="art_N11842"></a>
 
 ### Art. 57.
 
 Le majeur peut renoncer à la nationalité luxembourgeoise, à condition que la renonciation ne le rende pas apatride.
 
-<a id="art_N1184B"></a>
+<a id="art_N11874"></a>
 
 ### Art. 58.
 
@@ -749,7 +749,7 @@ L’officier de l’état civil refuse d’acter la déclaration de renonciation
 
 ##### **Sous-section 2. De la procédure**
 
-<a id="art_N11896"></a>
+<a id="art_N118BD"></a>
 
 ### Art. 59.
 
@@ -764,7 +764,7 @@ L’officier de l’état civil refuse d’acter la déclaration de renonciation
 
 **(2)** Les dispositions de l’article 19, paragraphes 2 et 3 sont applicables.
 
-<a id="art_N118F8"></a>
+<a id="art_N1191E"></a>
 
 ### Art. 60.
 
@@ -784,7 +784,7 @@ Le ministre informe l’officier de l’état civil de la date de perte de la na
 
 La notification de la déclaration de renonciation, munie de la mention visée à l’alinéa qui précède, est faite par l’officier de l’état civil à la personne concernée.
 
-<a id="art_N11978"></a>
+<a id="art_N1199D"></a>
 
 ### Art. 61.
 
@@ -801,7 +801,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 ##### **Section 3. De la déchéance de la nationalité luxembourgeoise**
 
-<a id="art_N119FA"></a>
+<a id="art_N11A1E"></a>
 
 ### Art. 62.
 
@@ -812,7 +812,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 **(2)** La déchéance de la nationalité luxembourgeoise n’est pas admise lorsqu’elle a pour résultat de rendre apatride la personne concernée.
 
-<a id="art_N11A50"></a>
+<a id="art_N11A73"></a>
 
 ### Art. 63.
 
@@ -824,7 +824,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 **(3)** La déchéance de la nationalité luxembourgeoise sort ses effets le jour de l’apposition de la mention visée au paragraphe qui précède.
 
-<a id="art_N11AB3"></a>
+<a id="art_N11AD5"></a>
 
 ### Art. 64.
 
@@ -834,7 +834,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 #### **Chapitre 5. De la compétence des officiers de l’état civil**
 
-<a id="art_N11B08"></a>
+<a id="art_N11B29"></a>
 
 ### Art. 65.
 
@@ -850,7 +850,7 @@ Il peut être assisté par une tierce personne de son choix.
 
 La signature par procuration est interdite.
 
-<a id="art_N11B7D"></a>
+<a id="art_N11B9D"></a>
 
 ### Art. 66.
 
@@ -862,13 +862,13 @@ La signature par procuration est interdite.
 
 **(4)** Les extraits des registres sont soumis aux mêmes formalités de timbre ainsi qu’aux mêmes droits de recherche et d’expédition que les actes de naissance.
 
-<a id="art_N11BEB"></a>
+<a id="art_N11C0A"></a>
 
 ### Art. 67.
 
 Le ministre vérifie la légalité des actes d’indigénat dressés par les officiers de l’état civil.
 
-<a id="art_N11C1E"></a>
+<a id="art_N11C3C"></a>
 
 ### Art. 68.
 
@@ -876,7 +876,7 @@ Le ministre vérifie la légalité des actes d’indigénat dressés par les off
 
 **(2)** Les dispositions du présent article sont également applicables en cas d’indication de la mauvaise base légale de l’acte d’indigénat ou en cas de mauvaise désignation de l’état civil de la personne concernée.
 
-<a id="art_N11C68"></a>
+<a id="art_N11C85"></a>
 
 ### Art. 69.
 
@@ -884,13 +884,13 @@ La rectification s’opère par l’apposition d’une mention sur l’acte d’
 
 #### **Chapitre 6. De la preuve de la nationalité luxembourgeoise**
 
-<a id="art_N11CA5"></a>
+<a id="art_N11CC1"></a>
 
 ### Art. 70.
 
 La nationalité luxembourgeoise d’une personne est établie, jusqu’à la preuve du contraire, par la détention soit d’un passeport luxembourgeois en cours de validité, soit d’une carte d’identité nationale luxembourgeoise en cours de validité.
 
-<a id="art_N11CD8"></a>
+<a id="art_N11CF3"></a>
 
 ### Art. 71.
 
@@ -910,7 +910,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 **(4)** *Le certificat de nationalité luxembourgeoise fait foi jusqu’à la preuve du contraire.*
 
-<a id="art_N11D99"></a>
+<a id="art_N11DB3"></a>
 
 ### Art. 72.
 
@@ -921,7 +921,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 **(2)** Le certificat visé au paragraphe qui précède indique la disposition légale en application de laquelle l’intéressé a perdu la nationalité luxembourgeoise et la date de perte de la qualité de Luxembourgeois.
 
-<a id="art_N11DEF"></a>
+<a id="art_N11E08"></a>
 
 ### Art. 73.
 
@@ -931,7 +931,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 #### **Chapitre 7. Du contentieux de la nationalité luxembourgeoise**
 
-<a id="art_N11E43"></a>
+<a id="art_N11E5B"></a>
 
 ### Art. 74.
 
@@ -944,7 +944,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 3. l’arrêté ministériel portant déchéance de la qualité de Luxembourgeois ;
 4. l’arrêté ministériel portant interdiction d’introduire une procédure de naturalisation, d’option ou de recouvrement.
 
-<a id="art_N11EAB"></a>
+<a id="art_N11EC2"></a>
 
 ### Art. 75.
 
@@ -954,7 +954,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 **(3)** Un recours en réformation est ouvert devant le tribunal administratif contre la décision du ministre confirmant la décision de l’officier de l’état civil portant refus de dresser un acte d’indigénat.
 
-<a id="art_N11F05"></a>
+<a id="art_N11F1B"></a>
 
 ### Art. 76.
 
@@ -962,43 +962,43 @@ Lorsque l’état civil résulte d’une décision rendue par une juridiction é
 
 #### **Chapitre 8. Du conflit de lois**
 
-<a id="art_N11F42"></a>
+<a id="art_N11F57"></a>
 
 ### Art. 77.
 
 L'attribution et la perte de la nationalité luxembourgeoise sont régies par la loi en vigueur au temps de l'acte ou du fait auquel la loi attache ces effets.
 
-<a id="art_N11F75"></a>
+<a id="art_N11F89"></a>
 
 ### Art. 78.
 
 Les questions préalables de droit civil conditionnant l’attribution de la nationalité luxembourgeoise sont régies par la loi applicable conformément à la règle générale de conflit de lois.
 
-<a id="art_N11FA8"></a>
+<a id="art_N11FBB"></a>
 
 ### Art. 79.
 
 Dans la présente loi, majorité et minorité s'entendent au sens de la loi luxembourgeoise.
 
-<a id="art_N11FDB"></a>
+<a id="art_N11FED"></a>
 
 ### Art. 80.
 
 La résidence habituelle du candidat au Grand-Duché de Luxembourg est déterminée en application des dispositions de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques.
 
-<a id="art_N12012"></a>
+<a id="art_N12023"></a>
 
 ### Art. 81.
 
 Le séjour régulier du candidat au Grand-Duché de Luxembourg est déterminé en application des dispositions de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
 
-<a id="art_N12049"></a>
+<a id="art_N12059"></a>
 
 ### Art. 82.
 
 La période entre le jour du dépôt de la demande de protection internationale ou de la demande de reconnaissance du statut d’apatride et celui de l’octroi du statut de réfugié, de celui de la protection subsidiaire ou de celui d’apatride est assimilée à une résidence habituelle et à un séjour régulier au sens de la présente loi.
 
-<a id="art_N1207C"></a>
+<a id="art_N1208B"></a>
 
 ### Art. 83.
 
@@ -1006,7 +1006,7 @@ Sous réserve des conventions internationales et lois en vigueur au Grand-Duché
 
 #### **Chapitre 9. Dispositions transitoires particulières**
 
-<a id="art_N120B9"></a>
+<a id="art_N120C7"></a>
 
 ### Art. 84.
 
@@ -1018,13 +1018,13 @@ Ces articles s’appliquent même si les actes et faits de nature à entraîner 
 
 **(3)** L’intéressé ne peut invoquer les droits découlant de la nationalité luxembourgeoise qu’à partir de l’entrée en vigueur de la présente loi.
 
-<a id="art_N12122"></a>
+<a id="art_N1212F"></a>
 
 ### Art. 85.
 
 Celui qui est né au Grand-Duché de Luxembourg avant le 1er juillet 2013, obtient, au moment de sa majorité, la nationalité luxembourgeoise, à condition qu’il ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins cinq années consécutives et précédant immédiatement la majorité.
 
-<a id="art_N12158"></a>
+<a id="art_N12164"></a>
 
 ### Art. 86.
 
@@ -1032,19 +1032,19 @@ Celui qui est né au Grand-Duché de Luxembourg avant le 1er juillet 2013, obtie
 
 **(2)** Les dispositions des articles 33 à 38 sont applicables.
 
-<a id="art_N121A5"></a>
+<a id="art_N121B0"></a>
 
 ### Art. 87.
 
 L’application rétroactive des dispositions relatives à l’établissement du lien de filiation résultant de la loi du 13 avril 1979 portant réforme du droit de la filiation n’a pu avoir pour effet de dénier la nationalité luxembourgeoise à une personne qui la possédait régulièrement en vertu des textes en vigueur au moment du fait attributif de nationalité.
 
-<a id="art_N121DC"></a>
+<a id="art_N121E6"></a>
 
 ### Art. 88.
 
 Les dispositions de l’article 40, point 3° ne s’appliquent pas au recouvrement de la nationalité luxembourgeoise par la femme qui a perdu la qualité de Luxembourgeoise pour avoir acquis du fait de son mariage, ou du fait de l’acquisition par son mari d’une nationalité autre que luxembourgeoise, sans manifestation de volonté de sa part, la nationalité de son mari.
 
-<a id="art_N1220F"></a>
+<a id="art_N12218"></a>
 
 ### Art. 89.
 
@@ -1057,7 +1057,7 @@ Ces délais sont à observer sous peine d’irrecevabilité de la procédure.
 
 **(2)** Les dispositions des articles 40 à 45 sont applicables.
 
-<a id="art_N12299"></a>
+<a id="art_N122A1"></a>
 
 ### Art. 90.
 
@@ -1065,7 +1065,7 @@ Dans toute disposition légale ou règlementaire, sous réserve du droit interna
 
 #### **Chapitre 10. Du traitement des données**
 
-<a id="art_N122D6"></a>
+<a id="art_N122DD"></a>
 
 ### Art. 91.
 
@@ -1078,7 +1078,7 @@ Il est créé un registre de la nationalité luxembourgeoise, dont les finalité
 2. la certification de la possession et de la perte de la nationalité luxembourgeoise ; et
 3. la préservation de l’historique des données à des fins administratives ou, à condition qu’elles soient anonymisées ou sous forme de données agrégées, à des fins statistiques.
 
-<a id="art_N12329"></a>
+<a id="art_N1232F"></a>
 
 ### Art. 92.
 
@@ -1104,7 +1104,7 @@ Le registre national est mis à jour avec les plus récentes modifications appor
 
 **(3)** Les données mentionnées aux points 10° à 13° du paragraphe 1er sont effacées du registre de la nationalité luxembourgeoise dans les dix jours à compter de la clôture des procédures et certifications au sens de l’article 91.
 
-<a id="art_N123CB"></a>
+<a id="art_N123D0"></a>
 
 ### Art. 93.
 
@@ -1121,7 +1121,7 @@ Il désigne les agents qui sont en charge, sous son autorité, des opérations r
 
 Les données de journalisation doivent être conservées pendant un délai de cinq ans à partir de leur enregistrement, délai après lequel elles sont effacées, sauf lorsqu'elles font l'objet d'une procédure de contrôle.
 
-<a id="art_N12448"></a>
+<a id="art_N1244C"></a>
 
 ### Art. 94.
 
@@ -1132,7 +1132,7 @@ Le ministre veille à ce :
 3. que les données ne soient pas traitées ou conservées ultérieurement de manière incompatible avec ces finalités ; et
 4. que les mesures techniques et une organisation appropriée soient mises en œuvre en vue d’assurer la sécurité et la confidentialité des données.
 
-<a id="art_N1248D"></a>
+<a id="art_N12490"></a>
 
 ### Art. 95.
 
@@ -1156,7 +1156,7 @@ Cet extrait prend la forme papier ou électronique.
 
 Le refus de communication doit être motivé et notifié au demandeur.
 
-<a id="art_N12534"></a>
+<a id="art_N12536"></a>
 
 ### Art. 96.
 
@@ -1186,7 +1186,7 @@ Les dispositions de l’article 95, paragraphe 4 sont applicables.
 
 **(6)** Le refus de rectification doit être motivé et notifié au demandeur.
 
-<a id="art_N125FD"></a>
+<a id="art_N125FE"></a>
 
 ### Art. 97.
 
@@ -1208,7 +1208,7 @@ Les dispositions de l’article 95, paragraphe 4 sont applicables.
 
 **(2)** Les dispositions de l’article 95, paragraphes 2 à 5 sont applicables.
 
-<a id="art_N126BB"></a>
+<a id="art_N126BA"></a>
 
 ### Art. 99.
 
@@ -1220,7 +1220,7 @@ Les dispositions de l’article 95, paragraphe 4 sont applicables.
 2. au ministre ayant l’Asile et l’Immigration dans ses attributions, en vue de la mise à jour de la nationalité au niveau du fichier des étrangers et du fichier des demandeurs de protection internationale ; et
 3. au procureur général d’État, en vue de la mise à jour de la nationalité au niveau du casier judiciaire.
 
-<a id="art_N12714"></a>
+<a id="art_N12712"></a>
 
 ### Art. 100.
 
@@ -1239,7 +1239,7 @@ Les données utilisées pour la production de statistiques sont considérées co
 
 Pour déterminer si une personne physique est identifiable, il est tenu compte de tous les moyens dont on peut raisonnablement admettre qu’ils puissent être utilisés par le destinataire ou par un tiers pour identifier cette personne.
 
-<a id="art_N1278E"></a>
+<a id="art_N1278B"></a>
 
 ### Art. 101.
 
@@ -1259,25 +1259,25 @@ l’article 44-2 du règlement (UE) 2018/1862 du Parlement européen et du Conse
 
 #### **Chapitre 11. Dispositions abrogatoires et transitoires**
 
-<a id="art_N12819"></a>
+<a id="art_N12813"></a>
 
 ### Art. 102.
 
 Est abrogée la loi du 23 octobre 2008 sur la nationalité luxembourgeoise.
 
-<a id="art_N12850"></a>
+<a id="art_N12849"></a>
 
 ### Art. 103.
 
 Est abrogée la loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise.
 
-<a id="art_N12887"></a>
+<a id="art_N1287F"></a>
 
 ### Art. 104.
 
 La présente loi s’applique aux procédures de naturalisation, d’option ou de recouvrement, introduites à partir de la date d’entrée en vigueur de la présente loi.
 
-<a id="art_N128BA"></a>
+<a id="art_N128B1"></a>
 
 ### Art. 105.
 
@@ -1289,7 +1289,7 @@ Les notifications et mentions sont faites conformément aux dispositions de l’
 
 **(3)** Les arrêtés ministériels portant refus de naturalisation, d’option ou de recouvrement sont susceptibles d’un recours en réformation devant le tribunal administratif.
 
-<a id="art_N12921"></a>
+<a id="art_N12917"></a>
 
 ### Art. 106.
 
@@ -1301,7 +1301,7 @@ Les notifications et mentions sont faites conformément aux dispositions de l’
 
 **(3)** Les arrêtés ministériels portant refus de naturalisation ou de recouvrement sont susceptibles d’un recours en réformation devant le tribunal administratif.
 
-<a id="art_N1298B"></a>
+<a id="art_N12980"></a>
 
 ### Art. 107.
 
@@ -1309,13 +1309,13 @@ La présente loi s’applique aux demandes en transposition du nom et des préno
 
 #### **Chapitre 12. Dispositions finales**
 
-<a id="art_N129CC"></a>
+<a id="art_N129C0"></a>
 
 ### Art. 108.
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant : « loi du 8 mars 2017 sur la nationalité luxembourgeoise ».
 
-<a id="art_N12A05"></a>
+<a id="art_N129F7"></a>
 
 ### Art. 109.
 
@@ -1323,13 +1323,13 @@ La présente loi entre en vigueur le 1er avril 2017.
 
 ### Règlement grand-ducal du 31 octobre 2008 concernant l'organisation des cours d'instruction civique à suivre pour être admis à la naturalisation.
 
-<a id="art_N12A52"></a>
+<a id="art_N12A41"></a>
 
 ### Art. 1er.
 
 Le Service de la Formation des Adultes est chargé de l'organisation des cours d'instruction civique à suivre pour être admis à la naturalisation.
 
-<a id="art_N12A65"></a>
+<a id="art_N12A54"></a>
 
 ### Art. 2.
 
@@ -1337,7 +1337,7 @@ Les cours s'adressent prioritairement aux candidats à la naturalisation. Ils s'
 
 Toute autre personne qui n'est plus soumise à l'obligation scolaire peut également s'inscrire aux cours dans la limite des places qui restent disponibles.
 
-<a id="art_N12A78"></a>
+<a id="art_N12A67"></a>
 
 ### Art. 3.
 
@@ -1347,13 +1347,13 @@ La liste des sujets sur lesquels portent les cours est arrêtée conjointement p
 
 Chaque cours a une durée de deux heures. Il peut être tenu en luxembourgeois, en français, en allemand, en portugais ou en anglais.
 
-<a id="art_N12A8E"></a>
+<a id="art_N12A7D"></a>
 
 ### Art. 4.
 
 Le nombre de cours et la nature des cours qu'une personne doit avoir suivis avant d'introduire une demande pour être admise à la naturalisation sont ceux fixés à l'article 7c de la loi sur la nationalité luxembourgeoise.
 
-<a id="art_N12A9E"></a>
+<a id="art_N12A8D"></a>
 
 ### Art. 5.
 
@@ -1365,7 +1365,7 @@ Le délégué à la formation des adultes dresse un relevé des participants qu'
 
 L'indemnisation du délégué à la formation des adultes et, le cas échéant, du concierge se fait selon les dispositions valables pour les cours pour adultes.
 
-<a id="art_N12AB7"></a>
+<a id="art_N12AA6"></a>
 
 ### Art. 6.
 
@@ -1375,7 +1375,7 @@ Un cours programmé n'a lieu que s'il y a un minimum de 5 inscriptions. Si le co
 
 L'inscription aux cours est gratuite.
 
-<a id="art_N12ACD"></a>
+<a id="art_N12ABC"></a>
 
 ### Art. 7.
 
@@ -1383,7 +1383,7 @@ Sur base des listes de présence, le Service de la Formation des Adultes établi
 
 Les certificats sont numérotés et enregistrés au Service de la Formation professionnelle. Ils sont signés par le Ministre de l'Éducation nationale et de la Formation professionnelle ou un fonctionnaire désigné par lui.
 
-<a id="art_N12AE0"></a>
+<a id="art_N12ACF"></a>
 
 ### Art. 8.
 
@@ -1391,53 +1391,27 @@ La liste des personnes chargées de la tenue des cours est établie annuellement
 
 L'indemnité est fixée à 200 €, tarif non indexé, pour un cours de 2 heures comprenant la préparation du cours et les coûts de documentation, la tenue du cours, les travaux administratifs et les coûts de déplacement.
 
-<a id="art_N12AF3"></a>
+<a id="art_N12AE2"></a>
 
 ### Art. 9.
 
 Les modalités d'organisation qui ne sont pas prévues par le présent règlement grand-ducal sont réglées par les lois et par les règlements qui régissent les cours organisés par le Service de la Formation des Adultes.
 
-<a id="art_N12B03"></a>
+<a id="art_N12AF2"></a>
 
 ### Art. 10.
 
 Notre Ministre de la Justice et Notre Ministre de l'Éducation nationale et de la Formation professionnelle sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.
 
-### Règlement grand-ducal du 14 novembre 2008 portant fixation du montant du droit de timbre applicable aux certificats de nationalité.
-
-<a id="art_N12B27"></a>
-
-### Art. Ier.
-
-Les certificats de nationalité sont passibles d'un droit de timbre de quatre euros, lorsque leur validité est d'un an ou inférieure à un an, et de dix euros, lorsque leur durée de validité est supérieure à un an sans dépasser cinq ans.
-
-<a id="art_N12B3A"></a>
-
-### Art. II.
-
-L'article 81 du règlement grand-ducal du 1er août 2001 relatif au basculement en euro le 1er janvier 2002 et modifiant certaines dispositions réglementaires est abrogé.
-
-<a id="art_N12B54"></a>
-
-### Art. III.
-
-Le présent règlement entre en vigueur le 1er janvier 2009.
-
-<a id="art_N12B67"></a>
-
-### Art. IV.
-
-Notre Ministre de la Justice est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
-
 ### Règlement grand-ducal du 22 juillet 2019 relatif à l’examen d’évaluation de la langue luxembourgeoise organisé dans le cadre des procédures d’acquisition de la nationalité luxembourgeoise.
 
-<a id="art_N12B8B"></a>
+<a id="art_N12B16"></a>
 
 ### Art. 1er.
 
 Toute personne non-luxembourgeoise peut s’inscrire à l’examen d’évaluation de la langue luxembourgeoise, ci-après « examen » visé à l’article 15, de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise.
 
-<a id="art_N12BA3"></a>
+<a id="art_N12B2E"></a>
 
 ### Art. 2.
 
@@ -1445,7 +1419,7 @@ L’Institut national des langues, ci-après « Institut », organise au moins d
 
 Au moins un mois avant la date limite d’inscription à la session d’examen, l’Institut publie les dates et lieux prévus pour le déroulement des épreuves de l’examen sur son site Internet.
 
-<a id="art_N12BBC"></a>
+<a id="art_N12B47"></a>
 
 ### Art. 3.
 
@@ -1458,7 +1432,7 @@ Au moins un mois avant la date limite d’inscription à la session d’examen, 
 
 **(2)** L’inscription définitive à l’examen se fait dans l’ordre de la date d’entrée des dossiers d’inscription complets et dans la limite des capacités d’accueil à l’examen. L’institut adresse aux candidats, au moins quinze jours avant la date de la première épreuve, une convocation à l’examen qui indique les dates, heures et lieux du déroulement des épreuves.
 
-<a id="art_N12BF5"></a>
+<a id="art_N12B7F"></a>
 
 ### Art. 4.
 
@@ -1470,7 +1444,7 @@ Au moins un mois avant la date limite d’inscription à la session d’examen, 
 
 Si la demande de report de l’inscription est adressée à l’Institut au moins dix jours avant le début de la première épreuve de l’examen, l’Institut reporte l’inscription à un examen organisé dans les douze mois suivant l’inscription initiale du candidat. Si la demande de report de l’inscription est adressée à l’Institut moins de dix jours avant le début de la première épreuve de l’examen, le candidat doit faire une nouvelle inscription à l’examen et payer les frais d’inscription prévus au paragraphe 1er.
 
-<a id="art_N12C40"></a>
+<a id="art_N12BCA"></a>
 
 ### Art. 5.
 
@@ -1483,7 +1457,7 @@ Si la demande de report de l’inscription est adressée à l’Institut au moin
 
 La note finale de l’épreuve d’expression orale à attribuer au candidat s’élève à un maximum de cent points. La note de l’interlocuteur compte pour 20 pour cent et celle de l’observateur pour 80 pour cent de la note finale.
 
-<a id="art_N12C7C"></a>
+<a id="art_N12C05"></a>
 
 ### Art. 6.
 
@@ -1498,7 +1472,7 @@ La note finale de l’épreuve d’expression orale à attribuer au candidat s�
 
 **(3)** Les fiches réponse sont corrigées suivant une grille de correction d’un total de cent points.
 
-<a id="art_N12CCD"></a>
+<a id="art_N12C55"></a>
 
 ### Art. 7.
 
@@ -1506,7 +1480,7 @@ Seuls sont admis en salle d’examen, les candidats convoqués, les membres de l
 
 Pour être admis en salle d’examen, le candidat, muni de la convocation aux épreuves, de son passeport et, à défaut, de sa carte d’identité ou de son titre de voyage, se présente au moins quinze minutes avant le début prévu de l’épreuve devant la salle d’examen. Le candidat qui ne présente pas ces documents ne peut pas participer à l’examen.
 
-<a id="art_N12CE6"></a>
+<a id="art_N12C6E"></a>
 
 ### Art. 8.
 
@@ -1518,7 +1492,7 @@ Avant le début de l’épreuve, le responsable de l’épreuve informe les cand
 
 Le responsable de l’épreuve informe le candidat qui ne respecte pas les dispositions énumérées aux points 1° à 3° ou qui commet toute autre fraude ou tentative de fraude qu’il a échoué à l’examen.
 
-<a id="art_N12D10"></a>
+<a id="art_N12C97"></a>
 
 ### Art. 9.
 
@@ -1530,7 +1504,7 @@ Les questionnaires sont recueillis par les surveillants, lorsque le directeur ou
 
 **(2)** Le jour ouvrable suivant l’interruption de l’épreuve, une nouvelle date d’épreuve est déterminée par le directeur de l’Institut et les candidats ayant participé à l’épreuve interrompue y sont convoqués par l’Institut.
 
-<a id="art_N12D49"></a>
+<a id="art_N12CD0"></a>
 
 ### Art. 10.
 
@@ -1546,7 +1520,7 @@ La composition de la commission est arrêtée par le ministre ayant l’Éducati
 
 **(2)** Le président de la commission est le commissaire du Gouvernement. En cas d’empêchement, la présidence est assurée par le directeur de l’Institut ou son délégué.
 
-<a id="art_N12D91"></a>
+<a id="art_N12D17"></a>
 
 ### Art. 11.
 
@@ -1558,7 +1532,7 @@ La composition de la commission est arrêtée par le ministre ayant l’Éducati
 
 **(4)** Les membres des commissions ont l’obligation de garder le secret sur les notes attribuées et les délibérations de la commission. Sur demande écrite adressée au commissaire, le candidat peut consulter à l’Institut l’enregistrement de son épreuve d’expression orale et le questionnaire qu’il a rempli lors de l’épreuve de compréhension de l’oral et des explications sont fournies par le commissaire, le directeur de l’Institut ou son délégué ou l’un des examinateurs.
 
-<a id="art_N12DD8"></a>
+<a id="art_N12D5E"></a>
 
 ### Art. 12.
 
@@ -1566,7 +1540,7 @@ Le certificat de réussite de l’examen d’évaluation de la langue luxembourg
 
 En cas d’échec aux épreuves d’évaluation, la décision de la commission est notifiée par lettre recommandée au candidat.
 
-<a id="art_N12DF1"></a>
+<a id="art_N12D77"></a>
 
 ### Art. 13.
 
@@ -1585,13 +1559,13 @@ En cas d’échec aux épreuves d’évaluation, la décision de la commission e
 9. règlement grand-ducal modifié du 18 décembre 2015
 10. règlement grand-ducal modifié du 12 mai 2010 est, s’il en fait la demande, dispensé de l’examen. Sur sa demande, l’Institut lui délivre alors le certificat de réussite de l’examen.
 
-<a id="art_N12E59"></a>
+<a id="art_N12DDE"></a>
 
 ### Art. 14.
 
 Le ministre publie annuellement une analyse statistique des examens, indiquant le taux de réussite et d’échec.
 
-<a id="art_N12E69"></a>
+<a id="art_N12DEE"></a>
 
 ### Art. 15.
 
@@ -1607,13 +1581,13 @@ Le ministre publie annuellement une analyse statistique des examens, indiquant l
 1. d’un justificatif du paiement des frais d’inscription ;
 2. le cas échéant, d’un certificat établi par un médecin spécialiste attestant la nécessité de l’aménagement raisonnable.
 
-<a id="art_N12EC5"></a>
+<a id="art_N12E48"></a>
 
 ### Art. 16.
 
 Le règlement grand-ducal du 30 juin 2017 relatif à l’examen d’évaluation de la langue luxembourgeoise organisé dans le cadre des procédures d’acquisition de la nationalité luxembourgeoise est abrogé.
 
-<a id="art_N12EDA"></a>
+<a id="art_N12E5D"></a>
 
 ### Art. 17.
 
@@ -1623,7 +1597,7 @@ Notre ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse et 
 
 ### Version consolidée applicable au 18/03/1979 : Loi du 18 juin 1971 portant approbation de la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, ouverte à la signature à Strasbourg, le 6 mai 1963. ( voir chapitre 1er à 3 )
 
-<a id="art_N12F0A"></a>
+<a id="art_N12E8C"></a>
 
 ### Article unique.
 
@@ -1639,7 +1613,7 @@ Est approuvée la Convention sur la réduction des cas de pluralité de national
 
 ### Loi du 27 février 1979 portant approbation du Protocole additionnel à la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, signé à Strasbourg, le 24 novembre 1977. ( Voir articles 5,6 et 7 des chapitres 1er à 3 )
 
-<a id="art_N13413"></a>
+<a id="art_N1337F"></a>
 
 ### Article unique.
 
