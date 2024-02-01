@@ -1,20 +1,1131 @@
 ---
-lex_id: lu-legilux:recueil-cours_tribunaux:2023-09-16
+lex_id: lu-legilux:recueil-cours_tribunaux:2024-02-01
 title: Cours et Tribunaux
-valid_from: 2023-09-16
-valid_to: 2024-01-31
-source: https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20230916/fr
-source_sha256: 68596acc8bf8a2d199ec4fe4eacf0a7126d3065f77e2033e10987d550cc7dcca
+valid_from: 2024-02-01
+valid_to: 2024-08-04
+source: https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20240201/fr
+source_sha256: 3c1df7b30e3fb4cbbe2ab00c2157358ff3b41b3dbb5c6dc254964534f9c86c8b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
 ---
 
+## COUR CONSTITUTIONNELLE
+
+### Version consolidée applicable au 03/07/2023 : Loi du 27 juillet 1997 portant organisation de la Cour Constitutionnelle
+
+#### Chapitre 1er.**- De l’institution et du siège**
+
+<a id="art_N1004D"></a>
+
+### Art. 1er.
+
+La présente loi porte organisation de la Cour Constitutionnelle.
+
+Le siège de la Cour est à Luxembourg.
+
+#### Chapitre 2. - **Des attributions**
+
+<a id="art_N10098"></a>
+
+### Art. 2.
+
+**(1)** La Cour Constitutionnelle statue, suivant les modalités déterminées par la présente loi, sur la conformité des lois à la Constitution, à l’exception de celles qui portent approbation de traités.
+
+**(2)** La Cour Constitutionnelle règle les conflits d’attribution d’après le mode déterminé par la loi du 23 janvier 2023 portant règlement des conflits d’attribution et portant modification de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle.
+
+<a id="art_N10105"></a>
+
+### Art. 2bis.
+
+La Cour Constitutionnelle statue également sur les recours introduits sur la base de l’article 67, paragraphe 3, de la Constitution ainsi que de l’article 289*bis *de la loi électorale modifiée du 18 février 2003.
+
+#### Chapitre 3. - **De la composition**
+
+<a id="art_N10160"></a>
+
+### Art. 3.
+
+**(1)** La Cour Constitutionnelle est composée de :
+
+1. neuf membres effectifs, à savoir d’un président, d’un vice-président et de sept conseillers ;
+2. sept membres suppléants, qui portent le titre de conseiller suppléant.
+
+**(2)** Le Grand-Duc nomme le président, le vice-président, les sept conseillers et les sept conseillers suppléants.
+
+**(3)** Le président de la Cour supérieure de justice, le président de la Cour administrative et les deux conseillers à la Cour de cassation les plus anciens en rang sont de droit membres de la Cour Constitutionnelle*.*
+
+**(4)** Les cinq autres conseillers et les sept conseillers suppléants de la Cour Constitutionnelle sont nommés par le Grand-Duc, sur l’avis conjoint de la Cour supérieure de justice et de la Cour administrative.
+
+Aux fins de rendre cet avis, la Cour supérieure de justice et la Cour administrative se réunissent en assemblée générale conjointe, convoquée par le président de la Cour supérieure de justice. Pour chaque place vacante, l’assemblée générale conjointe présente trois candidats ; la présentation de chaque candidat a lieu séparément.
+
+**(5)** Le président de la Cour supérieure de justice est président de la Cour Constitutionnelle. Il est chargé de surveiller la bonne marche des affaires et d’assurer le fonctionnement de la juridiction.
+
+Le président de la Cour administrative est vice-président de la Cour Constitutionnelle.
+
+**(6)** Les membres de la Cour Constitutionnelle continuent à exercer leurs fonctions à leur juridiction d’origine.
+
+La cessation des fonctions des membres de droit de la Cour Constitutionnelle et la cessation temporaire ou définitive de la fonction de magistrat entraînent celle des fonctions à la Cour Constitutionnelle.
+
+<a id="art_N1025A"></a>
+
+### Art. 4.
+
+La Cour Constitutionnelle siège en chambre de cinq membres.
+
+Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
+
+<a id="art_N102A1"></a>
+
+### Art. 5.
+
+Les membres de la Cour Constitutionnelle ne peuvent siéger dans aucune affaire dans laquelle soit eux-mêmes, soit leur conjoint ou partenaire au titre de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, soit leurs parents ou alliés jusqu’au quatrième degré inclusivement ont un intérêt personnel.
+
+Les membres de la Cour ne peuvent siéger sur les affaires dont ils ont déjà connu dans une qualité autre que celle de membre de la Cour Constitutionnelle.
+
+Les membres de la Cour peuvent en outre être récusés pour les causes et selon les modalités indiquées aux dispositions afférentes du Nouveau Code de procédure civile.
+
+#### Chapitre 4. - **De la saisine et du fonctionnement**
+
+<a id="art_N1031E"></a>
+
+### Art. 6.
+
+Lorsqu’une partie soulève une question relative à la conformité d’une loi à la Constitution devant une juridiction , celle-ci est tenue de saisir la Cour Constitutionnelle.
+
+Une juridiction est dispensée de saisir la Cour Constitutionnelle lorsqu’elle estime que:
+
+1. une décision sur la question soulevée n’est pas nécessaire pour rendre son jugement;
+2. la question de constitutionnalité est dénuée de tout fondement;
+3. la Cour Constitutionnelle a déjà statué sur une question ayant le même objet.
+
+Si une juridiction estime qu’une question de conformité d’une loi à la Constitution se pose et qu’une décision sur ce point est nécessaire pour rendre son jugement, elle doit la soulever d’office après avoir invité au préalable les parties à présenter leurs observations.
+
+<a id="art_N1037E"></a>
+
+### Art. 7.
+
+La décision de poser une question préjudicielle à la Cour Constitutionnelle suspend la procédure et tous délais de procédure et de prescription depuis la date de cette décision jusqu’à celle à laquelle l’arrêt de la Cour est notifié à la juridiction qui a posé la question préjudicielle.
+
+Cette décision, contre laquelle aucun recours n’est possible, est notifiée par courrier recommandé par les soins du greffe de la Cour aux parties en cause.
+
+<a id="art_N103B9"></a>
+
+### Art. 8.
+
+La question préjudicielle qui figure au dispositif du jugement ne doit répondre à aucune condition particulière de forme. Elle indique avec précision les dispositions législatives et constitutionnelles sur lesquelles elle porte.
+
+Le greffe de la juridiction qui pose la question préjudicielle transmet la décision de saisine au greffe de la Cour Constitutionnelle.
+
+<a id="art_N103F4"></a>
+
+### Art. 9.
+
+Le président de la Cour Constitutionnelle arrête la composition de la Cour pour chaque affaire et désigne un conseiller-rapporteur.
+
+Le président et le vice-président peuvent, à leur demande, siéger dans chaque affaire.
+
+Lorsque la Cour Constitutionnelle ne peut se composer utilement dans une affaire au moyen de ses membres effectifs, le président désigne les conseillers suppléants qui y siègent.
+
+Lors de la désignation des conseillers, des conseillers suppléants et du conseiller-rapporteur pour les affaires successives, le président procède suivant la liste de rang arrêtée à l’article 19, de manière à garantir une rotation régulière entre les différents membres de la Cour Constitutionnelle.
+
+<a id="art_N10471"></a>
+
+### Art. 10.
+
+Dans un délai de trente jours qui court à compter de la notification aux parties de la question préjudicielle, celles-ci ont le droit de déposer au greffe de la Cour des conclusions écrites; de ce fait elles sont parties à la procédure devant la Cour Constitutionnelle.
+
+Le greffe transmet de suite aux parties copie des conclusions qui ont été déposées. Ces parties diposent alors de trente jours à dater du jour de la notification, pour adresser au greffe des conclusions additionnelles.
+
+Dans les trente jours qui suivent l’expiration des délais indiqués aux alinéas précédents, la Cour entend, en audience publique, le rapport du conseiller-rapporteur et les parties en leurs plaidoiries. Le délai prévu ci-avant est suspendu entre le 15 juillet et le 16 septembre de chaque année. La date de cette audience est fixée par la Cour, hors présence des parties; elle est communiquée par courrier recommandé aux avocats, au moins quinze jours à l’avance, par le greffe de la Cour.
+
+Les délais prévus au présent article ne donnent pas lieu à une augmentation à raison des distances.
+
+La computation des délais se fait à partir de minuit du jour de la notification qui fait courir le délai. Le délai expire le dernier jour à minuit. Les jours fériés sont comptés dans les délais. Tout délai qui expirerait normalement un samedi, un dimanche, un jour férié légal ou un jour férié de rechange, est prorogé jusqu’au premier jour ouvrable suivant.
+
+<a id="art_N104C7"></a>
+
+### Art. 11.
+
+Les parties sont admises à conclure et à plaider devant la Cour Constitutionnelle par le ministère d’un avocat inscrit à la liste I des tableaux dressés annuellement par les conseils des ordres des avocats.
+
+En cas de saisine de la Cour Constitutionnelle par une juridiction de l’ordre administratif dans une affaire où l’Etat est partie, celui-ci peut se faire représenter par un délégué ou un avocat inscrit à la liste I des tableaux dressés annuellement par les conseils des ordres des avocats.
+
+En cas de saisine de la Cour par une juridiction de l’ordre judiciaire d’une décision à laquelle est partie le ministère public, celui-ci est représenté par le procureur général d’Etat ou un membre de son parquet par lui désigné, lequel peut intervenir en tant que partie devant la Cour Constitutionnelle.
+
+<a id="art_N1050B"></a>
+
+### Art. 12.
+
+La Cour Constitutionnelle prend l’affaire en délibéré. Les délibérations de la Cour sont secrètes. Les décisions sont prises à la majorité des voix.
+
+<a id="art_N1053D"></a>
+
+### Art. 13.
+
+La Cour statue par voie d’arrêt sur la conformité de la loi à la Constitution.
+
+Les arrêts sont rendus dans les deux mois à compter de la clôture des débats. Les arrêts de la Cour sont motivés.
+
+<a id="art_N10578"></a>
+
+### Art. 14.
+
+L’arrêt est lu en audience publique par le président ou par un autre membre de la Cour Constitutionnelle, délégué à cette fin, sans que la présence des autres membres de la Cour soit requise.
+
+L’arrêt est publié au Journal officiel du Grand-Duché de Luxembourg dans les trente jours de son prononcé.
+
+Lors de la publication, la Cour Constitutionnelle fait abstraction des données à caractère personnel des parties en cause.
+
+<a id="art_N105E0"></a>
+
+### Art. 15.
+
+L’expédition de l’arrêt est envoyée par le greffe de la Cour à la juridiction dont émanait la saisine et une copie certifiée conforme est envoyée aux parties en cause devant cette juridiction.
+
+La juridiction qui a posé la question préjudicielle, ainsi que toutes les autres juridictions appelées à statuer dans la même affaire, sont tenues, pour la solution du litige dont elles sont saisies, de se conformer à l’arrêt rendu par la Cour.
+
+<a id="art_N1061B"></a>
+
+### Art. 16.
+
+La procédure devant la Cour est gratuite. Les arrêts de la Cour ne donnent pas lieu à la liquidation de frais et dépens.
+
+#### Chapitre 5. - **De l’organisation**
+
+##### Section 1re. - *De la réception et de la prestation du serment*
+
+<a id="art_N1066C"></a>
+
+### Art. 17.
+
+La réception des membres de la Cour se fait à l’audience publique de la Cour Constitutionnelle.
+
+Les membres de la Cour prêtent serment entre les mains du Grand-Duc ou de la personne désignée par Lui.
+
+<a id="art_N106B9"></a>
+
+### Art. 18.
+
+Avant d’entrer en fonctions, les membres de la Cour prêtent le serment suivant:
+
+«Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.»
+
+##### Section 2. - *Du rang et de la préséance*
+
+<a id="art_N10719"></a>
+
+### Art. 19.
+
+Il est tenu une liste de rang sur laquelle les membres de la Cour Constitutionnelle sont inscrits dans l’ordre qui suit :
+
+1. le président ;
+2. le vice-président ;
+3. les conseillers, dans l’ordre de leur nomination ;
+4. les conseillers suppléants, dans l’ordre de leur nomination.
+
+Les conseillers et les conseillers suppléants sont portés sur cette liste dans l’ordre que suivent les arrêtés de nomination, ou dans celui de leur inscription dans l’arrêté de nomination simultanée.
+
+La liste détermine le rang des membres dans les cérémonies et aux audiences de la Cour Constitutionnelle.
+
+##### Section 3. - *Des empêchements et des remplacements*
+
+<a id="art_N1078A"></a>
+
+### Art. 20.
+
+Le président de la Cour Constitutionnelle est, en cas d’absence, d’empêchement ou de vacance de poste, remplacé par le vice-président ou, à défaut de celui-ci, par le membre le plus élevé en rang, dans l’ordre de la liste prévue par l’article 19.
+
+##### Section 4. - *De la discipline*
+
+<a id="art_N107CC"></a>
+
+### Art. 21.
+
+**(1)** Les membres de la Cour ne peuvent, directement ou indirectement, avoir des entretiens particuliers avec les parties ou leurs avocats sur les contestations qui leur sont soumises.
+
+**(2)** Aucun membre de la Cour Constitutionnelle ne peut s’absenter si le service doit souffrir de son absence.
+
+**(3)** Ceux qui ont manqué à la dignité de leurs fonctions ou aux devoirs de leur état peuvent faire l’objet d’une peine disciplinaire.
+
+**(4)** Toute affaire disciplinaire est initiée, instruite et poursuivie par le président de la Cour Constitutionnelle.
+
+<a id="art_N10862"></a>
+
+### Art. 22.
+
+Les peines disciplinaires sont:
+
+1. l’avertissement;
+2. la réprimande;
+3. la suspension des fonctions pour une durée qui ne peut dépasser six mois;
+4. la révocation.
+
+<a id="art_N108A4"></a>
+
+### Art. 23.
+
+Les peines disciplinaires sont infligées par la Cour Constitutionnelle siégeant en assemblée générale et statuant en chambre du conseil.
+
+Le président de la Cour, ou le membre de la Cour qui a instruit l’affaire disciplinaire en cas d’empêchement du président, ne participe pas aux délibérations et décisions en la matière.
+
+<a id="art_N108DF"></a>
+
+### Art. 24.
+
+Aucune peine ne peut être infligée sans que le membre mis en cause ait été entendu ou dûment appelé. S’il ne comparaît pas en la chambre du conseil, il peut se pourvoir, en cas de condamnation, par voie d’opposition, dans les cinq jours de la notification par la voie du greffe.
+
+<a id="art_N10911"></a>
+
+### Art. 25.
+
+La Cour Constitutionnelle peut prononcer la suspension provisoire de tout membre poursuivi judiciairement ou administrativement pendant tout le cours de la procédure jusqu’à la décision définitive.
+
+<a id="art_N10943"></a>
+
+### Art. 26.
+
+L’action disciplinaire est indépendante de toutes poursuites judiciaires et peut être cumulée avec elles.
+
+##### Section 5.- *Dispositions diverses*
+
+<a id="art_N10988"></a>
+
+### Art. 27.
+
+Le greffe de la Cour supérieure de justice fait fonction de greffe de la Cour Constitutionnelle. Le greffier assiste aux audiences publiques de la Cour et aux assemblées générales ainsi qu’à l’instruction des affaires disciplinaires à charge des membres de la Cour.
+
+<a id="art_N109BA"></a>
+
+### Art. 27-1.
+
+*Sur demande adressée par le président de la Cour Constitutionnelle au procureur général d’État ou au président de la Cour administrative, des référendaires de justice de l’ordre judiciaire ou de l’ordre administratif peuvent faire l’objet d’un détachement à temps complet ou partiel auprès de la Cour Constitutionnelle.*
+
+<a id="art_N109FB"></a>
+
+### Art. 28.
+
+La Cour Constitutionnelle arrête son règlement d’ordre intérieur.
+
+Celui-ci est publié au Journal officiel du Grand-Duché de Luxembourg.
+
+<a id="art_N10A4E"></a>
+
+### Art. 29.
+
+1. Une indemnité mensuelle est accordée : 1. aux membres effectifs de la Cour Constitutionnelle, dont le taux est de soixante points indiciaires ;
+2. au greffier de la Cour Constitutionnelle, dont le taux est de trente points indiciaires.
+2. Les membres suppléants de la Cour Constitutionnelle bénéficient d’une indemnité de vacation, dont le taux est de quarante points indiciaires par affaire dans laquelle ils siègent.
+3. er
+
+<a id="art_N10AB4"></a>
+
+### Art. 30.
+
+Les crédits nécessaires au fonctionnement de la Cour sont inscrits au budget de l’Etat.
+
+<a id="art_N10AE6"></a>
+
+### Art. 31.
+
+La présente loi entre en vigueur le 1er octobre 1997.
+
+### Règlement d'ordre intérieur de la Cour Constitutionnelle du 31 octobre 1997.
+
+<a id="art_N10B32"></a>
+
+### Art. 1.
+
+La Cour Constitutionnelle siège à Luxembourg, 12, Côte d'Eich.
+
+La Cour tient audience le vendredi à 15 heures; elle peut fixer des audiences extraordinaires.
+
+<a id="art_N10B45"></a>
+
+### Art. 2.
+
+Le greffier en chef de la Cour supérieure de justice est le greffier de la Cour Constitutionnelle. En cas d'empêchement, le greffier est suppléé par le greffier de la Cour supérieure de justice qu'il désigne. S'il se trouve dans l'impossibilité de faire lui-même cette désignation, il y est pourvu par le président de la Cour Constitutionnelle.
+
+<a id="art_N10B55"></a>
+
+### Art. 3.
+
+Il est tenu au greffe de la Cour Constitutionnelle un rôle général, coté et paraphé par le président de la Cour, sur lequel sont inscrites toutes les causes dans l'ordre de leur présentation. L'inscription au rôle général détermine le rang d'après lequel les causes sont plaidées. La Cour peut, au vu de circonstances particulières, décider de faire juger une affaire par priorité.
+
+Le greffier inscrit au rôle général la date des arrêts rendus et la date de leur publication au Mémorial.
+
+<a id="art_N10B68"></a>
+
+### Art. 4.
+
+Le présent règlement sera publié au Mémorial.
+
+### Règlement grand-ducal du 21 novembre 1997 fixant le taux et le mode de répartition des indemnités des membres suppléants de la Cour administrative et du Tribunal administratif.
+
+<a id="art_N10B8D"></a>
+
+### Art. 1er.
+
+Il est alloué aux membres suppléants de la Cour administrative une indemnité de 5.000,– francs par audience.
+
+<a id="art_N10BA0"></a>
+
+### Art. 2.
+
+Il est alloué aux membres suppléants du Tribunal administratif une indemnité de 3.500,– francs par audience.
+
+<a id="art_N10BB0"></a>
+
+### Art. 3.
+
+Les frais de voyage et de séjour des membres suppléants de la Cour administrative et du Tribunal administratif sont identiques à ceux alloués aux fonctionnaires de l'Etat.
+
+<a id="art_N10BC0"></a>
+
+### Art. 4.
+
+Le règlement grand-ducal du 27 octobre 1995 portant fixation des indemnités et des frais de voyage et de séjour des membres suppléants du Comité du contentieux est abrogé.
+
+<a id="art_N10BD0"></a>
+
+### Art. 5.
+
+Notre Ministre de la Justice et du Budget est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
+
+## CONSEIL NATIONAL DE LA JUSTICE
+
+### Version consolidée applicable au 01/07/2023 : Loi du 23 janvier 2023 portant organisation du Conseil national de la justice et modification de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+#### Chapitre 1er. — De la composition
+
+<a id="art_N10C12"></a>
+
+### Art. 1er.
+
+Le Conseil national de la justice, dénommé ci-après « Conseil », est composé de neuf membres effectifs, c’est-à-dire :
+
+1. 1. un magistrat de la Cour supérieure de justice ;
+2. un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
+3. un magistrat du Parquet général ;
+4. un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
+5. un magistrat de la Cour administrative ;
+6. un magistrat du Tribunal administratif ;
+2. 1. un avocat, à désigner dans les conditions déterminées par l’article 4 ;
+2. deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
+
+<a id="art_N10C74"></a>
+
+### Art. 2.
+
+Le Conseil se complète par neuf membres suppléants, c’est-à-dire :
+
+1. 1. un magistrat de la Cour supérieure de justice ;
+2. un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
+3. un magistrat du Parquet général ;
+4. un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
+5. un magistrat de la Cour administrative ;
+6. un magistrat du Tribunal administratif ;
+2. 1. un avocat, à désigner dans les conditions déterminées par l’article 4 ;
+2. deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
+
+<a id="art_N10CD3"></a>
+
+### Art. 3.
+
+**(1)** Il y a six collèges électoraux, c’est-à-dire :
+
+1. er
+2. er
+3. er
+4. er
+5. er
+6. er
+
+**(2)** Les élections sont organisées par les chefs de corps.
+
+Les chefs de corps communiquent le procès-verbal des élections au Conseil.
+
+Lorsque le chef de corps présente une candidature en vue d’être membre du Conseil, il charge un autre magistrat de l’organisation de l’élection.
+
+**(3)** Les collèges électoraux ne peuvent prendre de décision que si la moitié au moins des électeurs se trouve réunie.
+
+Chaque électeur a une voix.
+
+Le scrutin est secret.
+
+Le vote par procuration n’est pas admis.
+
+**(4)** Les candidats sont classés dans l’ordre du nombre de voix obtenues.
+
+Est élu membre effectif le candidat qui est classé premier.
+
+Est élu membre suppléant le candidat qui est classé second.
+
+En cas d’égalité des voix, le candidat élu est déterminé par voie de tirage au sort. Le chef de corps procède au tirage au sort.
+
+<a id="art_N10DAD"></a>
+
+### Art. 4.
+
+**(1)** Pour pouvoir siéger au Conseil, l’avocat doit soit exercer la fonction de bâtonnier ou de bâtonnier sortant de l’Ordre des avocats du Barreau de Luxembourg ou de l’Ordre des avocats du Barreau de Diekirch, soit avoir exercé une de ces fonctions.
+
+**(2)** La désignation est faite par les conseils réunis de l’Ordre des avocats du Barreau de Luxembourg et de l’Ordre des avocats du Barreau de Diekirch, à la majorité des membres présents et votants.
+
+**(3)** En cas de cessation de la fonction de bâtonnier ou de bâtonnier sortant après la désignation, l’avocat continue d’exercer le mandat de membre du Conseil.
+
+<a id="art_N10E06"></a>
+
+### Art. 5.
+
+Pour pouvoir siéger au Conseil, il faut :
+
+1. être de nationalité luxembourgeoise ;
+2. jouir des droits civils et politiques ;
+3. présenter toutes les garanties d’honorabilité.
+
+<a id="art_N10E46"></a>
+
+### Art. 6.
+
+**(1)** La Chambre des députés apprécie l’honorabilité des candidats aux postes vacants au sein du Conseil sur base d’un avis à émettre par le procureur général d’État.
+
+**(2)** Le procureur général d’État fait état dans son avis des :
+
+1. inscriptions au bulletin N° 2 du casier judiciaire ;
+2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
+
+**(3)** Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+**(4)** Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
+
+1. loi modifiée du 19 juin 2013
+2. la qualification juridique des faits reprochés.
+
+**(5)** L’avis du procureur général d’État est détruit endéans les six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
+
+<a id="art_N10EEB"></a>
+
+### Art. 7.
+
+Ne peuvent être membres du Conseil :
+
+1. les membres de la Chambre des députés, du Gouvernement et du Conseil d’État ;
+2. les bourgmestres, échevins et conseillers communaux ;
+3. les membres du Parlement européen, de la Commission européenne et de la Cour des comptes de l’Union européenne ;
+4. 1. les juges de la Cour de justice de l’Union européenne, du Tribunal de l’Union européenne, de la Cour européenne des droits de l’homme et de la Cour pénale internationale ;
+2. les membres du collège du Parquet européen et les procureurs européens délégués ;
+3. les membres du Tribunal disciplinaire des magistrats et de la Cour disciplinaire des magistrats.
+
+<a id="art_N10F3C"></a>
+
+### Art. 8.
+
+Les membres du Conseil ne peuvent avoir entre eux un lien de parenté ou d’alliance jusqu’au quatrième degré inclusivement, un partenariat légal ou un ménage de fait.
+
+Lorsqu’une telle incompatibilité est constatée, le membre admis à siéger est celui avec la plus grande ancienneté de service au Conseil. En cas d’ancienneté égale, le membre admis à siéger est déterminé par voie de tirage au sort. Le secrétaire général du Conseil procède au tirage au sort.
+
+<a id="art_N10F77"></a>
+
+### Art. 9.
+
+**(1)** La durée du mandat des membres du Conseil est de quatre ans.
+
+**(2)** Le mandat est renouvelable une seule fois pour une durée de quatre ans.
+
+**(3)** Le renouvellement du mandat se fait suivant les conditions du premier mandat.
+
+**(4)** En cas de fin prématurée d’un mandat, le nouveau membre achève le mandat de l’ancien membre.
+
+<a id="art_N10FE0"></a>
+
+### Art. 10.
+
+**(1)** Il est mis fin de plein droit au mandat de membre du Conseil dans les cas suivants :
+
+1. la cessation de la fonction ou de la qualité en vertu de laquelle le membre siège au Conseil ;
+2. la démission présentée par le membre ;
+3. la survenance d’une incompatibilité au sens de l’article 7 en cours de mandat ;
+4. la condamnation à une peine privative de liberté avec ou sans sursis, du chef d’une infraction intentionnelle.
+
+**(2)** En cas d’ouverture d’une instruction judiciaire contre un membre du Conseil, son mandat de membre du Conseil est suspendu de plein droit.
+
+<a id="art_N1103A"></a>
+
+### Art. 11.
+
+**(1)** Le Conseil comprend un président et deux vice-présidents.
+
+Parmi le président et les vice-présidents, il y a deux magistrats et un non-magistrat.
+
+Le Conseil élit le président et les vice-présidents.
+
+**(2)** Seuls les membres effectifs ont la qualité d’électeur.
+
+Chaque électeur a une voix par poste vacant.
+
+Le scrutin est secret.
+
+Le vote par procuration n’est pas admis.
+
+En cas d’égalité des voix, le candidat ayant le plus d’ancienneté de service en tant que membre du Conseil est élu. En cas d’ancienneté égale, le candidat élu est déterminé par voie de tirage au sort. Le secrétaire général du Conseil procède au tirage au sort.
+
+<a id="art_N110B9"></a>
+
+### Art. 12.
+
+**(1)** La durée des mandats de président et de vice-président est de deux ans.
+
+**(2)** Les mandats sont renouvelables une seule fois pour une durée de deux ans.
+
+**(3)** En cas de fin prématurée d’un mandat, le Conseil organise une nouvelle élection.
+
+<a id="art_N11112"></a>
+
+### Art. 13.
+
+**(1)** Le bureau du Conseil se compose du président et des deux vice-présidents.
+
+**(2)** Le secrétaire général du Conseil participe aux réunions du bureau avec voix consultative.
+
+<a id="art_N1115B"></a>
+
+### Art. 14.
+
+Le Grand-Duc nomme le président, les vice-présidents et les autres membres du Conseil qui sont élus et désignés dans les conditions déterminées par le présent chapitre.
+
+<a id="art_N1118D"></a>
+
+### Art. 15.
+
+Avant d’entrer en fonctions, le président, les vice-présidents et les autres membres du Conseil prêtent, entre les mains du Grand-Duc ou de son délégué, le serment suivant :
+
+« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité ».
+
+#### Chapitre 2. — Des compétences
+
+##### Section 1re. — De la mission générale
+
+<a id="art_N111E1"></a>
+
+### Art. 16.
+
+**(1)** Le Conseil veille au bon fonctionnement de la justice dans le respect de son indépendance.
+
+**(2)** Le Conseil ne peut ni intervenir directement ou indirectement dans une procédure juridictionnelle, ni remettre en cause le bien-fondé d’une décision de justice.
+
+##### Section 2. — Des attributions à l’égard des magistrats
+
+<a id="art_N11236"></a>
+
+### Art. 17.
+
+À l’égard des magistrats, le Conseil exerce, dans les conditions déterminées par la loi, ses attributions en matière de recrutement, de formation, de nominations, de déontologie, de discipline, d’absences, de congés, de service à temps partiel, de détachement et de mise à la retraite.
+
+##### Section 3. — De la saisine directe par les citoyens
+
+<a id="art_N11274"></a>
+
+### Art. 18.
+
+**(1)** Toute personne peut adresser au Conseil une doléance relative au fonctionnement de la justice.
+
+**(2)** Sous peine d’irrecevabilité, la doléance contient :
+
+1. l’identité, l’adresse et la signature de son auteur ;
+2. l’indication sommaire des faits et griefs allégués.
+
+**(3)** Sont irrecevables les doléances :
+
+1. portant sur le contenu d’une décision de justice ;
+2. dont l’objet peut ou pouvait être atteint par l’exercice des voies de recours ordinaires ou extraordinaires ;
+3. déjà traitées et ne contenant aucun élément nouveau.
+
+<a id="art_N112E6"></a>
+
+### Art. 19.
+
+**(1)** Lorsque le justiciable estime qu’à l’occasion d’une procédure juridictionnelle le concernant le comportement adopté par un magistrat dans l’exercice de ses fonctions est susceptible de recevoir une qualification disciplinaire, il peut adresser une plainte disciplinaire au Conseil.
+
+**(2)** La plainte disciplinaire indique sous peine d’irrecevabilité :
+
+1. l’identité, l’adresse et la signature de son auteur ;
+2. les éléments permettant d’identifier la procédure en cause ;
+3. de manière sommaire les faits et griefs allégués.
+
+**(3)** Sous peine d’irrecevabilité, la plainte disciplinaire :
+
+1. ne peut être dirigée contre un magistrat du ministère public lorsque le parquet auquel il appartient demeure chargé de la procédure ;
+2. ne peut être dirigée contre un magistrat du siège qui demeure saisi de la procédure ;
+3. ne peut être présentée après l’expiration d’un délai d’une année suivant une décision irrévocable mettant fin à la procédure.
+
+<a id="art_N1135B"></a>
+
+### Art. 20.
+
+**(1)** Le Conseil est exclusivement compétent pour recevoir et traiter les doléances relatives au fonctionnement de la justice et les plaintes disciplinaires à l’égard des magistrats.
+
+**(2)** L’Ombudsman n’a aucune compétence à l’égard du Conseil.
+
+<a id="art_N113B0"></a>
+
+### Art. 21.
+
+Le Conseil peut :
+
+1. soit procéder au classement du dossier lorsque la doléance ou la plainte disciplinaire est irrecevable ;
+2. 1. la réalisation d’une enquête ;
+2. la présentation d’une recommandation ;
+3. l’introduction d’une procédure disciplinaire contre un magistrat ;
+4. le renvoi au chef d’administration aux fins qu’il juge utiles.
+
+<a id="art_N113FE"></a>
+
+### Art. 22.
+
+**(1)** Le Conseil informe :
+
+1. l’auteur des suites réservées à sa doléance ou sa plainte disciplinaire ;
+2. le magistrat concerné par une doléance des suites réservées à celle-ci.
+
+L’information doit être sommairement motivée en droit et en fait.
+
+**(2)** L’auteur d’une doléance ou d’une plainte disciplinaire ne peut introduire contre l’information ni de recours juridictionnel ni de réclamation devant l’Ombudsman .
+
+Cette disposition est également applicable au magistrat concerné par une doléance.
+
+##### Section 4. — Des enquêtes
+
+<a id="art_N1147C"></a>
+
+### Art. 23.
+
+**(1)** Lorsque le Conseil a connaissance de faits susceptibles de mettre en cause le bon fonctionnement de la justice, il ordonne une enquête.
+
+Il désigne, parmi ses membres, un ou plusieurs enquêteurs.
+
+**(2)** L’enquêteur peut :
+
+1. descendre sur les lieux afin de faire toutes les constatations utiles, sans toutefois procéder à une perquisition ;
+2. consulter et se faire produire, sans déplacement, pour en prendre connaissance, des dossiers et documents ; l’enquêteur peut faire des copies d’extraits de pièces sans frais ;
+3. entendre, à titre d’information et, le cas échéant, sous serment, des magistrats et agents de l’État affectés aux services de la justice ainsi que toute autre personne dont l’audition est utile à l’enquête ; la personne entendue est autorisée à faire des déclarations qui sont couvertes par le secret professionnel.
+
+**(3)** Pour chaque enquête, l’enquêteur rédige un rapport.
+
+Le rapport d’enquête est communiqué au président du Conseil.
+
+<a id="art_N114F5"></a>
+
+### Art. 24.
+
+Sur base du rapport d’enquête, le Conseil peut :
+
+1. soit procéder au classement du dossier ;
+2. 1. la présentation d’une recommandation en vue d’améliorer le fonctionnement de la justice ;
+2. l’introduction d’une procédure disciplinaire contre un magistrat ;
+3. le renvoi au chef d’administration aux fins qu’il juge utiles.
+
+##### Section 5. — Du rôle consultatif
+
+<a id="art_N1154C"></a>
+
+### Art. 25.
+
+Le Conseil peut adresser aux chefs de corps et responsables de service des recommandations en vue d’améliorer le fonctionnement de la justice.
+
+<a id="art_N1157E"></a>
+
+### Art. 26.
+
+Le Conseil peut présenter à la Chambre des députés et au ministre de la justice, soit de sa propre initiative, soit à la demande de ces derniers, des recommandations visant :
+
+1. l’organisation et le fonctionnement de la justice ;
+2. l’organisation et le fonctionnement du Conseil ;
+3. le statut des magistrats, attachés de justice et référendaires de justice ainsi que du personnel de justice.
+
+##### Section 6. — De la communication
+
+<a id="art_N115CA"></a>
+
+### Art. 27.
+
+Le Conseil communique dans les matières relevant de ses missions et attributions.
+
+<a id="art_N115FC"></a>
+
+### Art. 28.
+
+**(1)** Avant le 15 février de chaque année, le Conseil présente son rapport d’activités à la Chambre des députés et au ministre de la justice.
+
+**(2)** Le rapport d’activités du Conseil est rendu public.
+
+#### Chapitre 3. — Du fonctionnement
+
+##### Section 1ère. — De la manière de procéder
+
+<a id="art_N11660"></a>
+
+### Art. 29.
+
+**(1)** Le président veille au bon fonctionnement du Conseil.
+
+Il convoque le Conseil et dirige les débats.
+
+Il assure la représentation du Conseil.
+
+Il veille au respect des règles déontologiques par les membres du Conseil.
+
+**(2)** En cas d’empêchement, le président est remplacé par les vice-présidents suivant leur ancienneté de service au niveau du Conseil.
+
+Lorsque les vice-présidents ont la même ancienneté de service au niveau du Conseil, le vice-président remplaçant le président est déterminé par voie de tirage au sort.
+
+Si les vice-présidents sont empêchés, la présidence est exercée par le membre effectif le plus ancien en service au niveau du Conseil.
+
+Dans le cas où les membres effectifs ont la même ancienneté de service au niveau du Conseil, le membre effectif remplaçant le président est déterminé par voie de tirage au sort. Le secrétaire général du Conseil procède au tirage au sort.
+
+<a id="art_N116DF"></a>
+
+### Art. 30.
+
+**(1)** Le bureau fixe l’ordre du jour des séances plénières du Conseil.
+
+Il coordonne les travaux du Conseil.
+
+Il règle les questions financières du Conseil dans les conditions déterminées par le règlement d’ordre intérieur.
+
+**(2)** Le président convoque le bureau soit de sa propre initiative, soit à la demande d’un vice-président.
+
+Après consultation des vice-présidents, le président fixe l’ordre du jour des réunions du bureau.
+
+<a id="art_N11743"></a>
+
+### Art. 31.
+
+**(1)** Le secrétariat du Conseil assiste les membres du Conseil dans l’accomplissement de leurs tâches.
+
+Il exécute les autres tâches attribuées par la loi.
+
+**(2)** Le cadre du personnel du secrétariat comprend un secrétaire général et des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État selon les besoins du service et dans les limites des crédits budgétaires.
+
+**(3)** Avant d’entrer en fonctions, le secrétaire général et les fonctionnaires énumérés au paragraphe 2 prêtent, entre les mains du président du Conseil, le serment visé à l’article 15.
+
+<a id="art_N117B3"></a>
+
+### Art. 32.
+
+**(1)** Pour pouvoir être nommé à la fonction de secrétaire général du Conseil, il faut :
+
+1. remplir les conditions prescrites à l’article 5 ;
+2. être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent.
+
+**(2)** Le bureau du Conseil établit le profil recherché et fait publier un appel à candidatures.
+
+La nomination à la fonction de secrétaire général est faite par le Grand-Duc sur proposition motivée du Conseil.
+
+**(3)** Le secrétaire général dirige et surveille les travaux du secrétariat du Conseil.
+
+Il a la qualité de chef d’administration.
+
+Il établit les procès-verbaux des séances plénières du Conseil et des réunions du bureau.
+
+Il atteste l’authenticité des délibérations du Conseil et surveille leur exécution.
+
+**(4)** En cas d’empêchement du secrétaire général, ses fonctions sont assurées par le fonctionnaire le plus élevé en rang de la carrière supérieure du secrétariat du Conseil.
+
+<a id="art_N1184B"></a>
+
+### Art. 33.
+
+**(1)** Le président convoque le Conseil en séance plénière soit de sa propre initiative, soit à la demande d’un vice-président ou de deux membres effectifs au moins.
+
+**(2)** Sauf dans les cas d’urgence, les convocations sont faites au plus tard huit jours avant les séances plénières du Conseil.
+
+**(3)** Les convocations indiquent l’ordre du jour des séances plénières, qui est déterminé par le bureau du Conseil.
+
+**(4)** Le secrétaire général participe aux séances plénières avec voix consultative.
+
+<a id="art_N118B4"></a>
+
+### Art. 34.
+
+**(1)** Le Conseil ne peut délibérer qu’en présence d’au moins cinq membres.
+
+Les délibérations du Conseil sont arrêtées à la majorité des voix.
+
+En cas d’égalité des voix, celle du membre qui préside le Conseil est déterminante.
+
+**(2)** Le procès-verbal indique :
+
+1. le nombre et le nom des membres qui ont participé au vote ;
+2. le nombre de membres qui ont voté pour l’acte ;
+3. le nombre de membres qui ont voté contre l’acte.
+
+<a id="art_N1191D"></a>
+
+### Art. 35.
+
+Le Conseil peut entendre toute personne susceptible de l’éclairer.
+
+<a id="art_N1194F"></a>
+
+### Art. 36.
+
+Les membres du Conseil ne peuvent siéger dans aucune affaire dans laquelle soit eux-mêmes, soit leurs parents ou leurs alliés jusqu’au quatrième degré inclus, leur partenaire légal ou les personnes avec lesquelles ils forment un ménage de fait, ont un intérêt personnel.
+
+<a id="art_N11981"></a>
+
+### Art. 37.
+
+Les membres du Conseil et de son secrétariat ainsi que toutes les autres personnes qui concourent à ses travaux sont tenus au secret professionnel dans les conditions et en application des peines prévues par l’article 458 du Code pénal.
+
+<a id="art_N119B8"></a>
+
+### Art. 38.
+
+Le Conseil arrête son règlement d’ordre intérieur et les règles déontologiques de ses membres, qui sont déclarés obligatoires par règlement grand-ducal.
+
+##### Section 2. — Du budget et de l’indemnisation
+
+<a id="art_N119F6"></a>
+
+### Art. 39.
+
+**(1)** Les propositions budgétaires du Conseil sont élaborées par le bureau et soumises aux délibérations en séance plénière.
+
+**(2)** Les règles internes pour l’exécution du budget du Conseil sont déterminées par le règlement d’ordre intérieur.
+
+<a id="art_N11A3F"></a>
+
+### Art. 40.
+
+Le budget des recettes et des dépenses de l’État arrête annuellement la dotation au profit du Conseil au vu de l’état prévisionnel établi par ce dernier.
+
+<a id="art_N11A71"></a>
+
+### Art. 41.
+
+**(1)** L’examen de la comptabilité des fonds est confié à la commission des comptes, instituée au sein du Conseil.
+
+La commission des comptes est assistée par un réviseur d’entreprises, à désigner annuellement par le Conseil.
+
+Sur le rapport de la commission des comptes, le Conseil se prononce sur l’apurement des comptes.
+
+Le président et les vice-présidents ne peuvent participer aux délibérations relatives à la désignation du réviseur d’entreprises et à l’apurement des comptes.
+
+Les modalités d’opérer de la commission des comptes et la désignation du réviseur d’entreprises sont déterminées par le règlement d’ordre intérieur du Conseil.
+
+**(2)** La commission des comptes est composée de trois membres du Conseil.
+
+Le président et les vice-présidents du Conseil ne peuvent ni être membres de la commission des comptes, ni participer à l’élection des membres de cette commission.
+
+Le Conseil élit les membres de la commission des comptes.
+
+Les membres de la commission des comptes élisent le président de celle-ci.
+
+<a id="art_N11AF9"></a>
+
+### Art. 42.
+
+**(1)** Il est accordé une indemnité de :
+
+1. cent soixante points indiciaires par mois au président du Conseil ;
+2. cent trente points indiciaires par mois aux vice-présidents du Conseil ;
+3. cent points indiciaires par mois aux autres membres effectifs du Conseil.
+
+**(2)** Les membres suppléants touchent un jeton de présence de vingt points indiciaires par séance plénière à laquelle ils participent.
+
+**(3)** Les indemnités visées au présent article sont non pensionnables.
+
+##### Section 3. — De la discipline
+
+<a id="art_N11B6C"></a>
+
+### Art. 43.
+
+Est qualifié faute disciplinaire tout acte commis dans l’exercice ou hors de l’exercice des fonctions, par lequel le membre du Conseil méconnaît les obligations de confidentialité, d’impartialité, d’exactitude et d’intégrité, telles que mises en oeuvre dans les règles déontologiques pour les membres du Conseil.
+
+<a id="art_N11B9E"></a>
+
+### Art. 44.
+
+Selon la gravité de la faute, les sanctions suivantes peuvent être prononcées :
+
+1. l’avertissement ;
+2. la réprimande ;
+3. l’exclusion temporaire des fonctions, avec privation de l’indemnité pour une période de six mois au maximum ;
+4. la révocation, qui emporte la perte du titre.
+
+<a id="art_N11BE1"></a>
+
+### Art. 45.
+
+**(1)** Il est institué un comité de déontologie, composé de trois membres effectifs et de trois membres suppléants.
+
+**(2)** Les membres du comité de déontologie sont désignés pour un terme de trois ans, renouvelable, par le Conseil en raison de leur expérience et de leur autorité morale en matière de déontologie professionnelle.
+
+**(3)** Les fonctions de membre du comité de déontologie sont incompatibles avec celles de membre du Conseil et de son secrétariat.
+
+**(4)** Les membres du comité de déontologie ont droit au jeton de présence visé à l’article 42, paragraphe 2.
+
+<a id="art_N11C4A"></a>
+
+### Art. 46.
+
+Lorsque le bureau est saisi ou a connaissance de faits susceptibles de recevoir la qualification de faute disciplinaire au sens de l’article 43, il saisit le comité de déontologie.
+
+<a id="art_N11C7C"></a>
+
+### Art. 47.
+
+**(1)** Le comité de déontologie examine les circonstances de la faute alléguée.
+
+Il entend les auteurs de la saisine, des tiers et le membre visé par la procédure.
+
+**(2)** Le comité de déontologie établit un rapport dans lequel il présente les résultats de l’enquête, donne une évaluation sur les faits et formule des recommandations.
+
+Il communique son rapport au Conseil.
+
+<a id="art_N11CD7"></a>
+
+### Art. 48.
+
+**(1)** L’avertissement, la réprimande et l’exclusion temporaire des fonctions sont prononcés par le Conseil.
+
+La révocation d’un membre est proposée au Grand-Duc par le Conseil.
+
+**(2)** Le membre concerné ne peut pas participer à la délibération du Conseil.
+
+Le Conseil est valablement composé même si suite à l’exclusion temporaire ou la révocation d’un membre, le nombre requis de membres n’est plus atteint.
+
+<a id="art_N11D32"></a>
+
+### Art. 49.
+
+Les sanctions disciplinaires sont susceptibles d’un recours en réformation devant le Tribunal administratif.
+
+<a id="art_N11D64"></a>
+
+### Art. 50.
+
+Si le président du Conseil est visé par la procédure disciplinaire, la présidence est exercée dans les conditions prévues à l’article 29, paragraphe 2.
+
+#### Chapitre 4. — Dispositions modificatives
+
+<a id="art_N11DA3"></a>
+
+### Art. 51.
+
+La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
+
+1. er 1. *Les fonctions de secrétaire général du Conseil d’État, de secrétaire général du Conseil économique et social ainsi que de secrétaire général du Conseil national de la justice sont classées au grade 17.*
+2. er 1. *Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires :* *« directeurs généraux, directeurs généraux adjoints, directeurs, premier conseiller de légation, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire, colonel-chef d’état-major, inspecteur général adjoint de la sécurité dans la Fonction publique, inspecteur général de la sécurité dans la Fonction publique, Haut-Commissaire à la Protection nationale, lieutenant-colonel/chef d’état-major adjoint, lieutenant-colonel/commandant du centre militaire, vice-présidents, directeurs adjoints, inspecteur général de la Police, inspecteur général adjoint de la police, directeurs centraux de la police, médecins directeurs, représentant permanent auprès de l’Union européenne, secrétaire du Grand-Duc, secrétaire général du Conseil d’État, secrétaire général du Conseil économique et social, secrétaire général du Conseil national de la justice, secrétaire général du département des affaires étrangères, Ombudsman fir Kanner a Jugendlecher. Bénéficient de la même mesure le médecin dirigeant chargé de la direction de la division de la santé au travail du secteur public et le médecin dirigeant de la division de la médecine de contrôle du secteur public, ainsi que les fonctionnaires classés aux grades M5, M6, M7 et S1. » *
+
+#### Chapitre 5. — Dispositions transitoires
+
+<a id="art_N11E21"></a>
+
+### Art. 52.
+
+**(1)** Avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, les membres du Conseil :
+
+1. 1. er
+2. les collèges électoraux des magistrats procèdent à l’élection de six membres effectifs et de six membres suppléants dans les conditions prescrites à l’article 3 ;
+3. les conseils réunis de l’Ordre des avocats du Barreau de Luxembourg et de l’Ordre des avocats du Barreau de Diekirch désignent un membre effectif et un membre suppléant dans les conditions prescrites à l’article 4 ;
+2. sont nommés et assermentés dans les conditions prescrites aux articles 14 et 15.
+
+**(2)** Le mandat de membre du Conseil prend effet le premier jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution.
+
+<a id="art_N11E9A"></a>
+
+### Art. 53.
+
+**(1)** Avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, le président et les vice-présidents du Conseil :
+
+1. sont élus dans les conditions déterminées par l’article 11 ;
+2. sont nommés et assermentés dans les conditions déterminées par les articles 14 et 15.
+
+**(2)** Les mandats de président et de vice-président du Conseil prennent effet le premier jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution.
+
+<a id="art_N11F02"></a>
+
+### Art. 54.
+
+**(1)** Il est institué un comité chargé d’entamer, avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, le processus de recrutement :
+
+1. du secrétaire général du Conseil dans les conditions déterminées par le paragraphe 2 ;
+2. des autres agents du secrétariat du Conseil.
+
+Ce comité est composé des membres nommés en application de l’article 52.
+
+**(2)** Par dérogation aux dispositions de l’article 32, le comité est chargé :
+
+1. de déterminer le profil de la fonction de secrétaire général du Conseil ;
+2. de faire publier l’appel à candidatures ;
+3. d’organiser des entretiens individuels avec les candidats ;
+4. de sélectionner les candidats en tenant compte de leur adéquation au profil recherché ;
+5. de proposer la nomination d’un candidat au Grand-Duc.
+
+**(3)** Si la nomination a lieu avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, elle prend effet le premier jour de celle-ci.
+
+**(4)** À partir du jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, les missions visées au paragraphe 2 sont assumées par le Conseil.
+
+#### Chapitre 6. — Dispositions finales
+
+<a id="art_N11FBD"></a>
+
+### Art. 55.
+
+La référence à la présente loi se fait sous la forme suivante : « loi du 23 janvier 2023 portant organisation du Conseil national de la justice ».
+
+<a id="art_N11FF4"></a>
+
+### Art. 56.
+
+La présente loi entre en vigueur le premier jour du mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg, à l’exception du chapitre 2, qui entre en vigueur le jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution.
+
+### Modification du Règlement de la Chambre des Députés du 8 mars 2023 relative à l’Ombudsman et au Conseil national de la justice.
+
+<a id="art_N12046"></a>
+
+### Article I.
+
+Au Titre V « Procédures et dispositions particulières », la dénomination médiateur est remplacée par la dénomination Ombudsman.
+
+<a id="art_N1205C"></a>
+
+### Article II.
+
+À l’article 133, alinéa 1er, les termes des députés présents sont remplacés par les termes qualifiée prévue à l’article 71 alinéa 3 de la Constitution.
+
+<a id="art_N1207A"></a>
+
+### Article III.
+
+À l’article 133, alinéa 4, la dernière phrase est modifiée pour avoir la teneur suivante : Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 131 et suivants est recommencée autant de fois que nécessaire.
+
+<a id="art_N12090"></a>
+
+### Article IV.
+
+Il est introduit dans le Titre V « Procédures et dispositions particulières « un nouveau Chapitre 2*bis* intitulé De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice et dont la teneur est la suivante :**« Chapitre 2*bis*****De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice***Information***Art. 127*bis***.Lorsque le Président est informé de la première nomination, du renouvellement ou d’une vacance de membre effectif ou de membre suppléant du Conseil national de la justice pour laquelle la Chambre est appelée à désigner un candidat, il en informe les députés lors de la première séance publique. Il communique également la date fixée par lui pour laquelle les candidatures sont à déposer à la Chambre. Ce délai doit être de trois semaines au moins sans pouvoir dépasser trois mois. Il indique également les qualifications et les conditions à remplir par les candidats, prévues aux articles 5 à 7 de la loi du 23 janvier 2023 portant organisation du Conseil national de la justice. Ces informations sont encore publiées par voie d’avis officiel par l’administration parlementaire.*Dépôt et déclaration des candidatures***Art. 127*ter*.**Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 127*bis*, le cachet de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.**Art. 127*quater***.Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.*Recevabilité***Art. 127*quinquies*.**(1)Au terme du délai fixé pour le dépôt des candidatures, le Président dresse une liste des candidats qu’il communique au procureur général d’État. Dans les meilleurs délais, le procureur général d’État communique au Président son avis conformément aux dispositions de l’article 6 de la loi du 23 janvier 2023 portant organisation du Conseil national de la justice. Le Président soumet les candidatures à la Conférence des Présidents qui les examine quant à leur recevabilité sans se prononcer sur l’honorabilité des candidats.(2)La Conférence des Présidents, renforcée conformément aux dispositions de l’article 31 (2) alinéa 3 par les présidents des commissions permanentes ayant dans leurs attributions les institutions, la justice et le règlement, entend tous les candidats, dont la candidature a été jugée recevable, lors d’entretiens individuels.**Art. 127*sexies***.La liste des candidatures déclarées recevables par la Conférence des Présidents, suivant les dispositions de l’article 127*quinquies* (1), est distribuée aux députés avant la séance publique dont l’ordre du jour comporte le vote des candidats.*Procédure de vote***Art. 127*septies*.**Avant le vote et au cours d’une séance non publique telle que prévue à l’article 46, la Chambre apprécie l’honorabilité des candidats sur base de l’avis du procureur général d’État. L’avis du procureur général d’État est détruit endéans un délai de 6 mois.**Art. 127*octies*.**La liste définitive des candidats est soumise au vote en séance publique. Le scrutin est secret. Le vote par procuration n'est pas permis. Le candidat élu doit avoir atteint la majorité qualifiée des voix.**Art. 127*nonies*.**Si aucun des candidats n'a obtenu la majorité qualifiée, il est procédé à un second tour qui est celui du ballottage. Seuls les deux candidats ayant obtenu le plus de voix au premier tour participent au ballottage.En cas d'égalité de voix de plusieurs candidats, il est procédé à un tour spécial pour déterminer les deux candidats au ballottage. La majorité relative suffit.En cas d'égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire.**Art. 127*decies*. **En cas d'une seule candidature, le candidat doit obtenir la majorité qualifiée. Dans le cas contraire, la candidature est rejetée.De nouvelles candidatures doivent alors être proposées et la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire. **Art. 127*undecies*.**Il est procédé à un scrutin séparé pour chaque membre effectif et pour chaque membre suppléant du Conseil national de la justice.
+
+<a id="art_N1220E"></a>
+
+### Article V.
+
+L’article IV entre en vigueur le jour de son adoption en séance publique.
+
+Les articles I à III entrent en vigueur le 1er juillet 2023.
+
 ## ORGANISATION JUDICIAIRE
 
 ### Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.
 
-<a id="art_N1003D"></a>
+<a id="art_N1224D"></a>
 
 ### Art. 4.
 
@@ -26,7 +1137,7 @@ generator: akn-lu/1 · lex derive
 
 **(4)** L’hymne national est « Ons Heemecht ».
 
-<a id="art_N100AE"></a>
+<a id="art_N122BE"></a>
 
 ### Art. 13.
 
@@ -36,7 +1147,7 @@ generator: akn-lu/1 · lex derive
 
 La peine de mort ne peut pas être établie.
 
-<a id="art_N10108"></a>
+<a id="art_N12318"></a>
 
 ### Art. 17.
 
@@ -50,7 +1161,7 @@ La peine de mort ne peut pas être établie.
 
 Toute personne doit être informée sans délai des raisons de son arrestation ou de la privation de sa liberté, des accusations portées contre elle et des moyens de recours légaux dont elle dispose pour recouvrer sa liberté.
 
-<a id="art_N10182"></a>
+<a id="art_N12392"></a>
 
 ### Art. 18.
 
@@ -58,7 +1169,7 @@ Toute personne a droit à ce que sa cause soit portée devant la juridiction pr�
 
 Nul ne peut être distrait contre son gré du juge que la loi lui assigne.
 
-<a id="art_N101C5"></a>
+<a id="art_N123D5"></a>
 
 ### Art. 19.
 
@@ -68,7 +1179,7 @@ Nul ne peut être condamné pour une action ou omission qui, au moment où elle 
 
 Nul ne peut être condamné à une peine plus forte que celle qui était applicable au moment où l’infraction a été commise.
 
-<a id="art_N10211"></a>
+<a id="art_N12421"></a>
 
 ### Art. 50.
 
@@ -78,7 +1189,7 @@ Nul ne peut être condamné à une peine plus forte que celle qui était applica
 
 **(3)** Le statut des fonctionnaires de l’État est déterminé par la loi.
 
-<a id="art_N10272"></a>
+<a id="art_N12482"></a>
 
 ### Art. 65.
 
@@ -86,7 +1197,7 @@ Le mandat de député est incompatible avec la fonction de membre du Gouvernemen
 
 Cette même incompatibilité s’applique aux emplois et fonctions publics à déterminer par une loi adoptée à la majorité qualifiée. Elle peut être étendue à d’autres mandats politiques à déterminer par une loi adoptée à la majorité qualifiée.
 
-<a id="art_N102B5"></a>
+<a id="art_N124C5"></a>
 
 ### Art. 66.
 
@@ -100,7 +1211,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(3)** Les personnes qui se trouvent dans un cas d’incompatibilité ont le droit d’opter entre le mandat de député et leur emploi ou activité.
 
-<a id="art_N10328"></a>
+<a id="art_N12538"></a>
 
 ### Art. 94.
 
@@ -114,7 +1225,7 @@ Seul le ministère public peut intenter et diriger les poursuites à l’encontr
 
 **(4)** Sauf le cas de flagrant délit, toute arrestation d’un membre du Gouvernement nécessite l’autorisation préalable de la Chambre des Députés. Cette autorisation n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un membre du Gouvernement.
 
-<a id="art_N103A2"></a>
+<a id="art_N125B2"></a>
 
 ### Art. 97.
 
@@ -122,37 +1233,37 @@ Le pouvoir judiciaire est exercé par les cours et tribunaux.
 
 Les arrêts et jugements sont exécutés au nom du Grand-Duc.
 
-<a id="art_N103E5"></a>
+<a id="art_N125F5"></a>
 
 ### Art. 98.
 
 Les juridictions de l’ordre judiciaire ont compétence générale en toute matière, à l’exception des attributions conférées par la Constitution à d’autres juridictions à compétence particulière.
 
-<a id="art_N1041F"></a>
+<a id="art_N1262F"></a>
 
 ### Art. 99.
 
 Le contentieux administratif et fiscal est du ressort des juridictions de l’ordre administratif, dans les cas et sous les conditions déterminés par la loi.
 
-<a id="art_N10459"></a>
+<a id="art_N12669"></a>
 
 ### Art. 100.
 
 Les juridictions en matière de sécurité sociale sont réglées par la loi.
 
-<a id="art_N10493"></a>
+<a id="art_N126A3"></a>
 
 ### Art. 101.
 
 La loi règle l’organisation des juridictions ainsi que les voies de recours.
 
-<a id="art_N104CD"></a>
+<a id="art_N126DD"></a>
 
 ### Art. 102.
 
 Les juridictions n’appliquent les lois et règlements que pour autant qu’ils sont conformes aux normes de droit supérieures.
 
-<a id="art_N10507"></a>
+<a id="art_N12717"></a>
 
 ### Art. 105.
 
@@ -162,7 +1273,7 @@ Les juridictions n’appliquent les lois et règlements que pour autant qu’ils
 
 **(3)** La loi règle la mise à la retraite des magistrats du siège et de ceux du ministère public pour raison d’âge, d’infirmité ou d’inaptitude.
 
-<a id="art_N10568"></a>
+<a id="art_N12778"></a>
 
 ### Art. 107.
 
@@ -176,19 +1287,19 @@ Les attributions du Conseil national de la justice dans les procédures discipli
 
 Les autres attributions du Conseil national de la justice sont fixées par la loi qui détermine également la manière de les exercer.
 
-<a id="art_N105C6"></a>
+<a id="art_N127D6"></a>
 
 ### Art. 108.
 
 Les audiences des juridictions sont publiques, à moins que cette publicité ne soit dangereuse pour l’ordre ou les mœurs, et, dans ce cas, la juridiction le déclare par une décision de justice.
 
-<a id="art_N10600"></a>
+<a id="art_N12810"></a>
 
 ### Art. 109.
 
 Tout jugement est motivé. Il est prononcé en audience publique.
 
-<a id="art_N1063A"></a>
+<a id="art_N1284A"></a>
 
 ### Art. 112.
 
@@ -218,7 +1329,7 @@ Tout jugement est motivé. Il est prononcé en audience publique.
 
 ##### Chapitre I. — Des justices de paix
 
-<a id="art_N10734"></a>
+<a id="art_N12944"></a>
 
 ### Art. 1er.
 
@@ -226,7 +1337,7 @@ Il y a trois justices de paix, dont une à Luxembourg, une à Esch-sur-Alzette e
 
 La justice de paix de Luxembourg comprend les cantons de Luxembourg, Grevenmacher, Mersch, Remich et les communes de Garnich, Hobscheid, Kehlen, Koerich, Kopstal, Mamer, Septfontaines et Steinfort, celle d’Esch-sur-Alzette comprend le canton d’Esch-sur-Alzette et les communes de Bascharage, Clemency et Dippach, celle de Diekirch comprend les cantons de Diekirch, Clervaux, Echternach, Redange, Vianden et Wiltz.
 
-<a id="art_N10772"></a>
+<a id="art_N12982"></a>
 
 ### Art. 2.
 
@@ -234,7 +1345,7 @@ La justice de paix de Luxembourg est composée d’un juge de paix directeur, de
 
 Les juges de paix directeurs administrent la justice de paix, répartissent le service entre les juges et assurent le bon fonctionnement du service.
 
-<a id="art_N10837"></a>
+<a id="art_N12A47"></a>
 
 ### Art. 5.
 
@@ -242,7 +1353,7 @@ Les audiences en matière civile et commerciale ainsi qu’en matière de police
 
 Néanmoins, le Grand-Duc peut, sur avis de la cour supérieure de justice, autoriser une justice de paix à tenir des audiences dans les localités du ressort autres que celles où est fixé le siège.
 
-<a id="art_N10875"></a>
+<a id="art_N12A85"></a>
 
 ### Art. 6.
 
@@ -260,7 +1371,7 @@ Cette ordonnance est rendue sur les réquisitions du procureur général d’Eta
 
 Pendant la durée de la délégation, le magistrat reste valablement saisi des affaires en cours de débats ou en délibéré, dans lesquelles il a siégé avant que la délégation produise ses effets.
 
-<a id="art_N108F1"></a>
+<a id="art_N12B01"></a>
 
 ### Art. 7.
 
@@ -270,13 +1381,13 @@ En matière civile l’arrêt de renvoi est rendu à la demande de la partie la 
 
 En matière de police l’arrêt de renvoi est rendu sur la réquisition du procureur général d’État.
 
-<a id="art_N10935"></a>
+<a id="art_N12B45"></a>
 
 ### Art. 8.
 
 Il y a dans chaque justice de paix un greffier en chef et des greffiers selon les besoins du service. D’autres fonctionnaires ainsi que des employés peuvent y être affectés.
 
-<a id="art_N10967"></a>
+<a id="art_N12B77"></a>
 
 ### Art. 9.
 
@@ -286,13 +1397,13 @@ L’affectation à l’emploi de greffier et la désaffectation sont faites par 
 
 ##### Chapitre II. — Des tribunaux d’arrondissement
 
-<a id="art_N109AE"></a>
+<a id="art_N12BBE"></a>
 
 ### Art. 10.
 
 Les tribunaux d’arrondissement de Luxembourg et de Diekirch sont maintenus avec leurs circonscriptions actuelles, suivant le tableau annexé à la présente loi.
 
-<a id="art_N109E0"></a>
+<a id="art_N12BF0"></a>
 
 ### Art. 11.
 
@@ -302,7 +1413,7 @@ Les tribunaux d’arrondissement de Luxembourg et de Diekirch sont maintenus ave
 
 D’autres fonctionnaires ou employés de l’État peuvent y être affectés.
 
-<a id="art_N10A32"></a>
+<a id="art_N12C42"></a>
 
 ### Art. 12.
 
@@ -312,7 +1423,7 @@ D’autres fonctionnaires ou employés de l’État peuvent y être affectés.
 
 D’autres fonctionnaires ou employés de l’État peuvent y être affectés.
 
-<a id="art_N10A84"></a>
+<a id="art_N12C94"></a>
 
 ### Art. 13.
 
@@ -327,19 +1438,19 @@ Cette ordonnance est rendue sur les réquisitions du procureur général d’Eta
 
 Pendant la durée de la délégation, le juge reste valablement saisi des affaires en cours de débats ou en délibéré, dans lesquelles il a siégé avant que la délégation produise ses effets.
 
-<a id="art_N10AED"></a>
+<a id="art_N12CFD"></a>
 
 ### Art. 13bis.
 
 Le procureur d’État auprès du tribunal d’arrondissement de Luxembourg désigne plus particulièrement les magistrats de son parquet, qui traitent, sous la direction d’un procureur d’État adjoint, les affaires économiques et financières.
 
-<a id="art_N10B00"></a>
+<a id="art_N12D10"></a>
 
 ### Art. 14.
 
 (...)
 
-<a id="art_N10B32"></a>
+<a id="art_N12D42"></a>
 
 ### Art. 15.
 
@@ -361,7 +1472,7 @@ Ils exercent également les fonctions du ministère public près le tribunal d�
 
 Un autre magistrat du parquet est désigné par le procureur d’État pour remplacer les titulaires en cas d’empêchement.
 
-<a id="art_N10BC1"></a>
+<a id="art_N12DD1"></a>
 
 ### Art. 15-1.
 
@@ -373,7 +1484,7 @@ Les juges aux affaires familiales sont nommés par le Grand-Duc parmi les magist
 
 Les juges aux affaires familiales se suppléent mutuellement. En cas d’empêchement d’un juge aux affaires familiales, ses fonctions sont exercées par un autre juge aux affaires familiales ou bien par un magistrat désigné à cet effet par le président du tribunal d’arrondissement.
 
-<a id="art_N10BEC"></a>
+<a id="art_N12DFC"></a>
 
 ### Art. 16.
 
@@ -386,7 +1497,7 @@ Pour être nommé à des fonctions judiciaires, il faut:
 5. avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice;
 6. loi modifiée du 7 juin 2012
 
-<a id="art_N10C90"></a>
+<a id="art_N12EA0"></a>
 
 ### Art. 18.
 
@@ -394,7 +1505,7 @@ Le juge d’instruction directeur est choisi parmi les magistrats ayant une exp�
 
 Il est chargé de la direction du cabinet des juges d’instruction et fait la répartition des affaires entre les juges chargés de l’information. Il exerce lui-même les fonctions de juge d’instruction.
 
-<a id="art_N10CDA"></a>
+<a id="art_N12EEA"></a>
 
 ### Art. 19.
 
@@ -408,19 +1519,19 @@ Ils peuvent obtenir le renouvellement de leurs fonctions.
 
 Ils siègent suivant le rang de leur réception au jugement des affaires civiles, commerciales et correctionnelles, sauf l’exception prévue à l’article 64-1.
 
-<a id="art_N10D4A"></a>
+<a id="art_N12F5A"></a>
 
 ### Art. 20.
 
 (...)
 
-<a id="art_N10D7C"></a>
+<a id="art_N12F8C"></a>
 
 ### Art. 21.
 
 Lorsque le juge d’instruction se trouve empêché, par quelque cause que ce soit, le tribunal et, en cas d’urgence, le président désigne un juge titulaire pour le remplacer.
 
-<a id="art_N10DAE"></a>
+<a id="art_N12FBE"></a>
 
 ### Art. 22.
 
@@ -428,13 +1539,13 @@ L’affectation aux emplois de greffier en chef et la désaffectation sont faite
 
 L’affectation à l’emploi de greffier et la désaffectation sont faites par le procureur général d’Etat, sur avis du président du tribunal d’arrondissement.
 
-<a id="art_N10DE9"></a>
+<a id="art_N12FF9"></a>
 
 ### Art. 23.
 
 Nul ne peut être nommé greffier en chef d’un tribunal d’arrondissement, s’il n’est âgé de 25 ans accomplis, s’il n’est détenteur d’un diplôme de docteur en droit délivré par un jury luxembourgeois ou titulaire d’un grade étranger d’enseignement supérieur homologué conformément au règlement grand-ducal du 28 décembre 1979 fixant les critères d’homologation des titres et grades étrangers en droit et transcrit conformément à la loi du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur ou s’il n’a rempli pendant cinq ans les fonctions de greffier d’un des tribunaux d’arrondissement, de chef de bureau d’un des parquets ou de greffier d’une justice de paix.
 
-<a id="art_N10E26"></a>
+<a id="art_N13036"></a>
 
 ### Art. 24.
 
@@ -450,7 +1561,7 @@ Dans le cas où un ou plusieurs magistrats du siège composant une chambre corre
 
 Faute de pouvoir procéder de la manière qui précède, le président de la Cour supérieure de justice délègue un magistrat de l’autre tribunal d’arrondissement.
 
-<a id="art_N10EAE"></a>
+<a id="art_N130BE"></a>
 
 ### Art. 25.
 
@@ -460,7 +1571,7 @@ Faute de pouvoir procéder de la manière qui précède, le président de la Cou
 
 Celui-ci fixe également les tâches des juges qui ne sont pas affectés à une chambre.
 
-<a id="art_N10F00"></a>
+<a id="art_N13110"></a>
 
 ### Art. 26.
 
@@ -468,13 +1579,13 @@ Chacune des chambres des tribunaux d’arrondissement pourvoit d’abord à l’
 
 Lorsqu’une chambre n’est pas en nombre pour siéger, pour quelque cause que ce soit, elle se complète par un juge n’appartenant à aucune chambre, sinon par un juge appartenant à une autre chambre.
 
-<a id="art_N10F3B"></a>
+<a id="art_N1314B"></a>
 
 ### Art. 27.
 
 Lorsque le besoin momentané du service l’exige, les tribunaux d’arrondissement, soit d’office, soit sur l’injonction de la Cour supérieure de Justice, constituent une chambre temporaire avec l’assistance des attachés de justice délégués conformément aux dispositions de la loi sur les attachés de justice.
 
-<a id="art_N10FB2"></a>
+<a id="art_N131C2"></a>
 
 ### Art. 29.
 
@@ -482,7 +1593,7 @@ Les tribunaux d’arrondissement de Luxembourg et de Diekirch exercent la juridi
 
 En dehors des cas prévus par l’article 112 du Code de procédure civile, ils siègent en cette matière sans l’assistance du ministère public.
 
-<a id="art_N10FF2"></a>
+<a id="art_N13202"></a>
 
 ### Art. 30 et 31.
 
@@ -490,13 +1601,13 @@ En dehors des cas prévus par l’article 112 du Code de procédure civile, ils 
 
 ##### Chapitre III. — De la Cour Supérieure de Justice
 
-<a id="art_N11030"></a>
+<a id="art_N13240"></a>
 
 ### Art. 32.
 
 La cour supérieure de justice comprend une cour de cassation et une cour d’appel ainsi qu’un parquet et un greffe communs à ces deux cours.
 
-<a id="art_N11062"></a>
+<a id="art_N13272"></a>
 
 ### Art. 33.
 
@@ -508,7 +1619,7 @@ La cour supérieure de justice comprend une cour de cassation et une cour d’ap
 
 D’autres fonctionnaires et employés de l’État peuvent y être affectés.
 
-<a id="art_N110D3"></a>
+<a id="art_N132E3"></a>
 
 ### Art. 33-1.
 
@@ -520,13 +1631,13 @@ Ce pool comprend quatre premiers juges et quatre juges.
 
 Ce pool comprend deux premiers substituts et deux substituts.
 
-<a id="art_N1113A"></a>
+<a id="art_N1334A"></a>
 
 ### Art. 34.
 
 Le procureur général d’État peut déléguer deux magistrats de son parquet et, en cas de besoin, un magistrat de l’un des parquets auprès des tribunaux d’arrondissement à l’exécution des peines, telle que prévue aux articles 669 et suivants du Code de procédure pénale*.*
 
-<a id="art_N11174"></a>
+<a id="art_N13384"></a>
 
 ### Art. 35.
 
@@ -542,19 +1653,19 @@ En cas d’empêchement de tous les conseillers de la Cour d’appel, la Cour de
 
 **(5)** Le greffier en chef de la Cour supérieure de justice fait le service de greffier à la Cour de cassation ; il peut être remplacé par l’un des greffiers de cette cour.
 
-<a id="art_N111F6"></a>
+<a id="art_N13406"></a>
 
 ### Art. 36.
 
 Le président de la cour supérieure de justice et les conseillers à la cour de cassation ne peuvent pas concourir au jugement des affaires portées devant la cour d’appel, ni siéger à la haute cour militaire.
 
-<a id="art_N11228"></a>
+<a id="art_N13438"></a>
 
 ### Art. 37.
 
 Les membres de la cour supérieure de justice qui ont concouru à l’arrêt ou au jugement attaqué, ou qui ont connu de l’affaire antérieurement comme juges, ne peuvent pas siéger en cassation; il en est de même pour les officiers du ministère public promus aux fonctions de juge qui ont pris antérieurement des conclusions dans l’affaire.
 
-<a id="art_N1125A"></a>
+<a id="art_N1346A"></a>
 
 ### Art. 38.
 
@@ -570,7 +1681,7 @@ Sont portés devant la cour de cassation:
 8. les demandes en renvoi devant un autre tribunal d’arrondissement lorsque celui qui devrait connaître de l’affaire ne peut pas se composer
 9. loi du 14 août 2000
 
-<a id="art_N112B1"></a>
+<a id="art_N134C1"></a>
 
 ### Art. 39.
 
@@ -594,7 +1705,7 @@ Dans le cas où, par suite de leurs attributions respectives, une des chambres e
 
 **(8)** L’assemblée générale de la Cour supérieure de justice délègue, parmi ses membres, le président et les deux assesseurs-magistrats du Conseil supérieur de la sécurité sociale ainsi que leurs suppléants.
 
-<a id="art_N11374"></a>
+<a id="art_N13584"></a>
 
 ### Art. 40.
 
@@ -604,13 +1715,13 @@ Dans le cas où, par suite de leurs attributions respectives, une des chambres e
 
 S’il y a partage des voix, la cour siégeant en nombre pair, le suffrage du conseiller le plus jeune en rang n’est pas compté.
 
-<a id="art_N114BE"></a>
+<a id="art_N136CE"></a>
 
 ### Art. 44.
 
 L’affectation aux emplois de greffier en chef et de greffier ainsi que la désaffectation sont faites par le procureur général d’État après consultation du président de la Cour supérieure de justice.
 
-<a id="art_N11535"></a>
+<a id="art_N13745"></a>
 
 ### Art. 46.
 
@@ -624,7 +1735,7 @@ Il est institué une bibliothèque centrale de la magistrature dont la gestion e
 
 L’accès à la bibliothèque est réservé aux magistrats. Elle est également accessible aux conditions et modalités à déterminer par règlement grand-ducal aux membres des barreaux luxembourgeois, aux notaires et aux huissiers de justice. A titre exceptionnel, l’accès peut être accordé par autorisation spéciale du procureur général d’Etat à des personnes autres que celles énumérées ci-avant, aux conditions et modalités à déterminer par règlement grand-ducal.
 
-<a id="art_N1158B"></a>
+<a id="art_N1379B"></a>
 
 ### Art. 47.
 
@@ -637,7 +1748,7 @@ L’accès à la bibliothèque est réservé aux magistrats. Elle est également
 
 ##### Chapitre IV. — De la chambre du conseil de la cour d’appel
 
-<a id="art_N115F8"></a>
+<a id="art_N13808"></a>
 
 ### Art. 48.
 
@@ -649,7 +1760,7 @@ L’accès à la bibliothèque est réservé aux magistrats. Elle est également
 
 ##### Chapitre IV-1. — De la chambre de l’application des peines
 
-<a id="art_N1165D"></a>
+<a id="art_N1386D"></a>
 
 ### Art. 49.
 
@@ -661,19 +1772,19 @@ L’accès à la bibliothèque est réservé aux magistrats. Elle est également
 
 ##### Chapitre V. — De la cour militaire
 
-<a id="art_N116AC"></a>
+<a id="art_N138BC"></a>
 
 ### Art. 54.
 
 La cour militaire exerce les attributions qui lui sont conférées par les lois.
 
-<a id="art_N116DE"></a>
+<a id="art_N138EE"></a>
 
 ### Art. 55.
 
 Pour le jugement du fond de l’affaire après cassation d’un arrêt de la cour militaire, il est adjoint à la cour de cassation deux officiers nommés par le Grand-Duc.
 
-<a id="art_N11710"></a>
+<a id="art_N13920"></a>
 
 ### Art. 56.
 
@@ -683,7 +1794,7 @@ Le même ordre est observé dans les cérémonies publiques.
 
 ##### Chapitre VI. — Des juridictions du travail
 
-<a id="art_N11756"></a>
+<a id="art_N13966"></a>
 
 ### Art. 56-1.
 
@@ -693,7 +1804,7 @@ Le tribunal du travail est composé d’un juge de paix qui siège comme présid
 
 Le greffe du tribunal du travail est assuré par le greffe de la justice de paix.
 
-<a id="art_N11778"></a>
+<a id="art_N13988"></a>
 
 ### Art. 56-2.
 
@@ -723,7 +1834,7 @@ Si l’assesseur subit par le fait de l’exercice de ses fonctions une perte de
 
 **(5)** Lorsque le tribunal ne peut se composer régulièrement pour l’une ou l’autre cause, le juge de paix appelle, en remplacement des assesseurs effectifs ou suppléants défaillants, d’autres assesseurs.
 
-<a id="art_N11821"></a>
+<a id="art_N13A31"></a>
 
 ### Art. 56-3.
 
@@ -735,7 +1846,7 @@ Néanmoins, le Grand-Duc peut, sur avis de la Cour supérieure de Justice, autor
 
 ##### Chapitre I. — De l’exercice des fonctions judiciaires
 
-<a id="art_N11861"></a>
+<a id="art_N13A71"></a>
 
 ### Art. 57.
 
@@ -743,7 +1854,7 @@ Le juge n’a de pouvoir que dans le ressort territorial qui lui est assigné pa
 
 Toutefois, lorsque leurs fonctions concernent une personne détenue dans un centre pénitentiaire, les juges peuvent exercer en dehors de leur ressort territorial pour se rendre au centre pénitentiaire où cette personne est détenue.
 
-<a id="art_N1189C"></a>
+<a id="art_N13AAC"></a>
 
 ### Art. 58.
 
@@ -751,7 +1862,7 @@ Les juges ne peuvent déléguer leur juridiction; ils n’ont que la faculté de
 
 Le tribunal ou le juge délégué est tenu d’exécuter les commissions rogatoires qu’il reçoit, sauf au tribunal délégué à nommer, suivant les circonstances, soit un de ses membres, soit un juge de paix, pour procéder aux opérations ordonnées, et sans préjudice du droit du juge d’instruction délégué de commettre un juge de paix.
 
-<a id="art_N118D7"></a>
+<a id="art_N13AE7"></a>
 
 ### Art. 59.
 
@@ -759,13 +1870,13 @@ Les juges peuvent adresser des commissions rogatoires même aux juges étrangers
 
 Le présent article n’est pas applicable pour les demandes d’entraide judiciaire en matière pénale.
 
-<a id="art_N11912"></a>
+<a id="art_N13B22"></a>
 
 ### Art. 60.
 
 Les décisions sont prises à la majorité absolue des voix.
 
-<a id="art_N11944"></a>
+<a id="art_N13B54"></a>
 
 ### Art. 61.
 
@@ -777,7 +1888,7 @@ Dans les affaires jugées sur rapport, le rapporteur opine le premier.
 
 Si différents avis sont ouverts, on procède à un second vote.
 
-<a id="art_N11991"></a>
+<a id="art_N13BA1"></a>
 
 ### Art. 62.
 
@@ -785,19 +1896,19 @@ En matière civile, s’il se forme plus de deux opinions sans qu’il y ait maj
 
 Si toutes les opinions réunissent le même nombre de voix, ou si une seule obtient plus de voix que chacune des autres,on appelle deux juges pour vider le partage.
 
-<a id="art_N119CC"></a>
+<a id="art_N13BDC"></a>
 
 ### Art. 63.
 
 S’il se forme plus de deux opinions en matière pénale ou disciplinaire, les juges qui ont émis l’opinion la moins favorable à l’inculpé, sont tenus de se réunir à l’une des autres opinions.
 
-<a id="art_N119FE"></a>
+<a id="art_N13C0E"></a>
 
 ### Art. 64.
 
 Les juges ne peuvent, directement ou indirectement, avoir des entretiens particuliers avec les parties ou leurs avocats ou défenseurs sur les contestations qui sont soumises à leur décision.
 
-<a id="art_N11A30"></a>
+<a id="art_N13C40"></a>
 
 ### Art. 64-1.
 
@@ -809,7 +1920,7 @@ Il en est de même pour:
 - les officiers du ministère public nommés aux fonctions de juge ou de conseiller qui ont antérieurement pris ou fait prendre des conclusions ou réquisitions dans l’affaire;
 - code d’instruction criminelle
 
-<a id="art_N11A5B"></a>
+<a id="art_N13C6B"></a>
 
 ### Art. 65.
 
@@ -817,13 +1928,13 @@ En toute matière, si le jugement ne peut être prononcé en cours d’audience 
 
 La décision judiciaire est lue en audience publique par le président ou par un autre juge délégué par lui, sans que la présence des autres juges soit requise.
 
-<a id="art_N11A96"></a>
+<a id="art_N13CA6"></a>
 
 ### Art. 66.
 
 (...)
 
-<a id="art_N11AC8"></a>
+<a id="art_N13CD8"></a>
 
 ### Art. 67.
 
@@ -835,13 +1946,13 @@ Lorsque l’enquête fait apparaître des déficiences, la cour peut donner tout
 
 Toute inobservation de ces injonctions est signalée au procureur général d’Etat.
 
-<a id="art_N11B15"></a>
+<a id="art_N13D25"></a>
 
 ### Art. 68.
 
 (...)
 
-<a id="art_N11B54"></a>
+<a id="art_N13D64"></a>
 
 ### Art. 69.
 
@@ -849,7 +1960,7 @@ Toute inobservation de ces injonctions est signalée au procureur général d’
 
 **(2)** Les fonctions du ministère public près les tribunaux de police sont remplies par les magistrats du parquet près le tribunal d’arrondissement dans le ressort duquel se trouve le siège du tribunal de police.
 
-<a id="art_N11BA9"></a>
+<a id="art_N13DB9"></a>
 
 ### Art. 70.
 
@@ -858,7 +1969,7 @@ Les fonctions du ministère public sont exercées par :
 1. le procureur général d’État et les autres magistrats du Parquet général ;
 2. les procureurs d’État et les autres magistrats des parquets près les tribunaux d’arrondissement.
 
-<a id="art_N11BF2"></a>
+<a id="art_N13E02"></a>
 
 ### Art. 71.
 
@@ -866,7 +1977,7 @@ Les fonctions du ministère public sont exercées par :
 
 **(2)** Les magistrats des parquets près les tribunaux d’arrondissement exercent leurs fonctions également sous la surveillance et la direction du procureur d’État dont ils dépendent.
 
-<a id="art_N11CDD"></a>
+<a id="art_N13EED"></a>
 
 ### Art. 74.
 
@@ -874,7 +1985,7 @@ En matière civile, le ministère public agit d’office dans les cas spécifié
 
 Il poursuit d’office l’exécution des lois, règlements et jugements dans les dispositions qui intéressent l’ordre public.
 
-<a id="art_N11D31"></a>
+<a id="art_N13F41"></a>
 
 ### Art. 74-1.
 
@@ -892,7 +2003,7 @@ Les quatre premiers substituts remplacent le directeur de la Cellule de renseign
 
 Elle a l’autorité et la capacité nécessaires d’exercer librement ses fonctions, y compris celle de décider d’une manière autonome d’analyser, de demander et de disséminer des informations spécifiques aux autorités judiciaires et aux administrations compétentes en matière de lutte contre le blanchiment, les infractions sous-jacentes associées et contre le financement du terrorisme.
 
-<a id="art_N11D93"></a>
+<a id="art_N13FA3"></a>
 
 ### Art. 74-1 bis.
 
@@ -905,7 +2016,7 @@ Elle a l’autorité et la capacité nécessaires d’exercer librement ses fonc
 3. satisfaire aux conditions d’accès au statut de fonctionnaire ou de fonctionnaire stagiaire de la catégorie de traitement A, groupe de traitement A1, ou d’employé de l’État de la catégorie d’indemnité A, groupe d’indemnité A1 ;
 4. présenter les garanties d’honorabilité requises pour l'exercice de la fonction.
 
-<a id="art_N11DDC"></a>
+<a id="art_N13FEC"></a>
 
 ### Art. 74-2.
 
@@ -927,7 +2038,7 @@ Dans la mesure du possible, la dissémination spontanée des informations est fa
 1. l’analyse opérationnelle centrée sur des cas individuels et des objectifs spécifiques ou sur des informations appropriées sélectionnées, en fonction du type et du volume d’informations reçues et de l’utilisation des informations qui en est escomptée après leur dissémination ; et
 2. l’analyse stratégique portant sur les tendances et les formes du blanchiment et du financement du terrorisme.
 
-<a id="art_N11E64"></a>
+<a id="art_N14074"></a>
 
 ### Art. 74-3.
 
@@ -941,7 +2052,7 @@ Dans la mesure du possible, la dissémination spontanée des informations est fa
 
 **(3)** La CRF veille, en collaboration avec les autorités de contrôle, les organismes d’autorégulation ou les associations de professionnels concernées, à une bonne connaissance des lois, règlements et recommandations s’appliquant aux personnes soumises aux dispositions régissant la lutte contre le blanchiment et le financement du terrorisme en vue d’assurer l’application de la loi et une coopération adéquate avec les autorités.
 
-<a id="art_N11EB6"></a>
+<a id="art_N140C6"></a>
 
 ### Art. 74-4.
 
@@ -953,7 +2064,7 @@ La CRF ne peut refuser la communication d’informations et de pièces aux parqu
 
 **(3)** Les autorités judiciaires et les administrations compétentes en matière de lutte contre le blanchiment, les infractions sous-jacentes associées et contre le financement du terrorisme fournissent à la CRF un retour d’information sur l’utilisation qui a été faite des informations transmises conformément au présent article et sur les résultats des enquêtes ou inspections menées sur la base de ces informations.
 
-<a id="art_N11F03"></a>
+<a id="art_N14113"></a>
 
 ### Art. 74-5.
 
@@ -999,7 +2110,7 @@ La CRF ne peut autoriser l’utilisation des informations et pièces dans une pr
 
 **(12)** La CRF et Europol peuvent échanger toutes informations relatives aux analyses qui relèvent des missions d’Europol telles que définies au règlement (UE) 2016/794 du Parlement européen et du Conseil du 11 mai 2016 relatif à l’Agence de l’Union européenne pour la coopération des services répressifs (Europol) et remplaçant et abrogeant les décisions du Conseil 2009/371/JAI, 2009/934/JAI, 2009/935/JAI, 2009/936/JAI et 2009/968/JAI.
 
-<a id="art_N12075"></a>
+<a id="art_N14285"></a>
 
 ### Art. 74-6.
 
@@ -1009,7 +2120,7 @@ La CRF peut accéder, sur demande sommairement motivée, aux informations et pi�
 
 La CRF peut accéder, sur simple demande, aux informations administratives et financières nécessaires pour remplir ses missions, détenues par toute autre administration publique.
 
-<a id="art_N120A8"></a>
+<a id="art_N142B8"></a>
 
 ### Art. 74-7.
 
@@ -1025,7 +2136,7 @@ Toute référence au BRA s’entend comme référence aux représentants du proc
 
 **(3)** Le BRA est désigné « Bureau national de recouvrement des avoirs patrimoniaux » au sens de la décision 2007/845/JAI du Conseil du 6 décembre 2007 relative à la coopération entre les bureaux de recouvrement des avoirs des États membres en matière de dépistage et d’identification des produits du crime ou des autres biens en rapport avec le crime.
 
-<a id="art_N12100"></a>
+<a id="art_N14310"></a>
 
 ### Art. 74-8.
 
@@ -1049,13 +2160,13 @@ Il peut charger la police judiciaire de mener une enquête pour dépister et ide
 
 **(6)** Le BRA peut autoriser un bureau de recouvrement des avoirs étranger à transmettre les informations communiquées à d’autres autorités soit aux fins pour lesquelles elles ont été demandées soit à d’autres fins.
 
-<a id="art_N12187"></a>
+<a id="art_N14397"></a>
 
 ### Art. 75.
 
 (...)
 
-<a id="art_N121A3"></a>
+<a id="art_N143B3"></a>
 
 ### Art. 75-1.
 
@@ -1069,19 +2180,19 @@ Le membre national transmet un rapport annuel au ministre de la Justice et au pr
 
 **(2)** L’assistant est choisi parmi les fonctionnaires de l’administration judiciaire.
 
-<a id="art_N121EF"></a>
+<a id="art_N143FF"></a>
 
 ### Art. 75-2.
 
 (...)
 
-<a id="art_N121FF"></a>
+<a id="art_N1440F"></a>
 
 ### Art. 75-3.
 
 (...)
 
-<a id="art_N1220F"></a>
+<a id="art_N1441F"></a>
 
 ### Art. 75-4.
 
@@ -1094,37 +2205,37 @@ Le membre national transmet un rapport annuel au ministre de la Justice et au pr
 
 **(3)** En cas de doute sur le point de savoir quelle est l’autorité compétente, la demande est adressée au procureur général d’État, qui détermine l’autorité compétente et lui transmet la demande.
 
-<a id="art_N1225C"></a>
+<a id="art_N1446C"></a>
 
 ### Art. 75-5.
 
 (...)
 
-<a id="art_N1226C"></a>
+<a id="art_N1447C"></a>
 
 ### Art. 75-5bis.
 
 (...)
 
-<a id="art_N1227C"></a>
+<a id="art_N1448C"></a>
 
 ### Art. 75-5ter.
 
 (...)
 
-<a id="art_N1228C"></a>
+<a id="art_N1449C"></a>
 
 ### Art. 75-6.
 
 (...)
 
-<a id="art_N1229C"></a>
+<a id="art_N144AC"></a>
 
 ### Art. 75-7.
 
 Pour les besoins de la réception et de la transmission des informations entre Eurojust et l’Office européen de lutte antifraude, ci-après « OLAF », le membre national est considéré comme autorité compétente pour les besoins du règlement (UE, Euratom) n° 883/2013 du Parlement européen et du Conseil du 11 septembre 2013 relatif aux enquêtes effectuées par l’Office européen 3 de lutte antifraude (OLAF) et abrogeant le règlement (CE) n° 1073/1999 du Parlement européen et du Conseil et le règlement (Euratom) n° 1074/1999 du Conseil.
 
-<a id="art_N122BB"></a>
+<a id="art_N144CB"></a>
 
 ### Art. 75-8.
 
@@ -1135,7 +2246,7 @@ Pour les besoins de la réception et de la transmission des informations entre E
 
 **(2)** Dans les cas d’urgence lorsqu’il n’est pas possible d’identifier ou de contacter l’autorité judiciaire luxembourgeoise com pétente en temps utile, le membre national ou son adjoint sont habilités à prendre les mesures visées au paragraphe (1) conformément au droit luxembourgeois, à condition qu’ils en informent les autorités judiciaires luxembourgeoises compétentes dans les meilleurs délais.
 
-<a id="art_N12312"></a>
+<a id="art_N14522"></a>
 
 ### Art. 75-8bis.
 
@@ -1147,7 +2258,7 @@ Les procureurs européens délégués ont le grade de substitut principal. Ils s
 
 Les procureurs européens délégués conservent les droits et obligations attachés à leur qualité de magistrat luxembourgeois.
 
-<a id="art_N12369"></a>
+<a id="art_N14579"></a>
 
 ### Art. 75-8ter.
 
@@ -1159,7 +2270,7 @@ Les cotisations sociales ainsi que les contributions à l’assurance dépendanc
 
 Au cas où leur traitement après réintégration serait inférieur à celui touché en tant que procureur européen délégué, les magistrats concernés bénéficieront d’un supplément personnel de traitement pensionnable tenant compte de la différence entre le traitement touché à la fin de leur mandat de procureur européen délégué et le nouveau traitement. Ce supplément personnel de traitement diminue au fur et à mesure que le traitement augmente avec l’évolution de la carrière.
 
-<a id="art_N123B6"></a>
+<a id="art_N145C6"></a>
 
 ### Art. 75-8quater.
 
@@ -1167,7 +2278,7 @@ Le procureur général d’État met à la disposition des procureurs européens
 
 Ces fonctionnaires et employés de l’État sont placés sous la direction des procureurs européens délégués.
 
-<a id="art_N123FE"></a>
+<a id="art_N1460E"></a>
 
 ### Art. 75-9.
 
@@ -1175,7 +2286,7 @@ Les magistrats et futurs magistrats d’Etats étrangers, régulièrement admis 
 
 Ils n’exercent aucune fonction judiciaire.
 
-<a id="art_N12439"></a>
+<a id="art_N14649"></a>
 
 ### Art. 75-10.
 
@@ -1183,7 +2294,7 @@ Le ministre de la Justice statue sur les demandes d’admission au stage, qui lu
 
 Le procureur général d’Etat affecte les magistrats et futurs magistrats d’Etats étrangers, admis à faire un stage, à l’une des juridictions de l’ordre judiciaire ou à l’un des parquets.
 
-<a id="art_N12474"></a>
+<a id="art_N14684"></a>
 
 ### Art. 75-11.
 
@@ -1191,7 +2302,7 @@ Avant de commencer le stage, les magistrats et futurs magistrats d’Etats étra
 
 Ils sont soumis au secret professionnel conformément à l’article 458 du code pénal.
 
-<a id="art_N124C1"></a>
+<a id="art_N146D1"></a>
 
 ### Art. 76.
 
@@ -1212,7 +2323,7 @@ L’engagement et le licenciement des salariés de l’État sont faits par le m
 
 Les affectations et désaffectations sont faites par le procureur général d’État après consultation des chefs de corps concernés*.*
 
-<a id="art_N12560"></a>
+<a id="art_N14770"></a>
 
 ### Art. 76-1.
 
@@ -1239,7 +2350,7 @@ Le procureur général d’État fait état dans son avis des informations issue
 
 ***(6)*** L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée*.*
 
-<a id="art_N1262B"></a>
+<a id="art_N1483B"></a>
 
 ### Art. 77.
 
@@ -1257,7 +2368,7 @@ Le procureur général d’État fait état dans son avis des informations issue
 
 *Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État selon les besoins du service et dans les limites des crédits budgétaires.*
 
-<a id="art_N126DC"></a>
+<a id="art_N148EC"></a>
 
 ### Art. 78.
 
@@ -1265,7 +2376,7 @@ Le greffier assiste le juge dans tous les actes et procès-verbaux de son minist
 
 Elle reçoit encore exception quand il n’y a pas lieu de garder minute de l’acte à faire.
 
-<a id="art_N126F5"></a>
+<a id="art_N14905"></a>
 
 ### Art. 79.
 
@@ -1275,7 +2386,7 @@ Il doit, en outre, dresser, à la fin de chaque année, par ordre alphabétique 
 
 Le greffier écrit ce qui est prononcé ou dicté par le juge et dresse acte des diverses formalités dont l’accomplissement doit être constaté.
 
-<a id="art_N12717"></a>
+<a id="art_N14927"></a>
 
 ### Art. 80.
 
@@ -1283,13 +2394,13 @@ Les greffes sont ouverts tous les jours, excepté les dimanches, samedis et fêt
 
 Lorsque le délai fixé par la loi pour faire au greffe une déclaration, un acte ou un dépôt, expire un dimanche, un samedi ou un jour de fête légale, des déclarations, actes et dépôts peuvent encore être faits le premier jour ouvrable suivant.
 
-<a id="art_N12730"></a>
+<a id="art_N14940"></a>
 
 ### Art. 81.
 
 Les greffiers sont responsables, à l’égard des parties, des pièces produites; ils sont aussi responsables des pièces à conviction remises à leur garde.
 
-<a id="art_N12740"></a>
+<a id="art_N14950"></a>
 
 ### Art. 82.
 
@@ -1297,7 +2408,7 @@ En matière civile et commerciale, si un acte ne peut être signé par le greffi
 
 Si le président se trouve dans l’impossibilité de signer la feuille d’audience, le greffier doit la faire signer par le plus ancien des juges ayant assisté à l’audience.
 
-<a id="art_N12759"></a>
+<a id="art_N14969"></a>
 
 ### Art. 83.
 
@@ -1311,7 +2422,7 @@ Dans le cas où l’impossibilité de signer existe de la part de tous les juges
 
 Ce procès-verbal est annexé à la minute, et il suffit que le greffier seul signe.
 
-<a id="art_N1278D"></a>
+<a id="art_N1499D"></a>
 
 ### Art. 84.
 
@@ -1319,7 +2430,7 @@ Cette dernière formalité est également observée toutes les fois qu’un juge
 
 Lorsque l’impossibilité existe de la part du greffier, le juge de paix ou le juge de police signe seul, en mentionnant l’accident.
 
-<a id="art_N127A6"></a>
+<a id="art_N149B6"></a>
 
 ### Art. 85.
 
@@ -1327,13 +2438,13 @@ Le procureur général d’Etat se fait représenter tous les mois les feuilles 
 
 Le procureur d’Etat remplit les mêmes devoirs en ce qui concerne les feuilles ou procès-verbaux d’audience des tribunaux d’arrondissement.
 
-<a id="art_N127BF"></a>
+<a id="art_N149CF"></a>
 
 ### Art. 86.
 
 Dans le cas de l’article précédent, le greffier est tenu d’informer de l’omission, selon qu’il y a lieu, le procureur général d’Etat ou le procureur d’Etat, dans le délai de huit jours.
 
-<a id="art_N127CF"></a>
+<a id="art_N149DF"></a>
 
 ### Art. 87.
 
@@ -1342,25 +2453,25 @@ En matière civile et commerciale, en vue de la reconnaissance et de l’exécut
 1. certifie les titres exécutoires en vue de leur reconnaissance et de leur exécution dans un autre État membre de l’Union européenne ;
 2. délivre, sur demande, les titres exécutoires et certificats.
 
-<a id="art_N127EA"></a>
+<a id="art_N149FA"></a>
 
 ### Art. 88 à 89.
 
 (...)
 
-<a id="art_N127FA"></a>
+<a id="art_N14A0A"></a>
 
 ### Art. 90.
 
 Le greffe est tenu et le service des audiences solennelles est fait par le greffier en chef.
 
-<a id="art_N12816"></a>
+<a id="art_N14A26"></a>
 
 ### Art. 91. à 95.
 
 (...)
 
-<a id="art_N12826"></a>
+<a id="art_N14A36"></a>
 
 ### Art. 96.
 
@@ -1368,13 +2479,13 @@ Sous réserve des conditions particulières prévues en faveur des ressortissant
 
 Toutefois, le président d’une juridiction peut, par exception, autoriser un avocat étranger à plaider devant sa juridiction lorsque des motifs graves ou l’intérêt du client paraissent justifier cette exception.
 
-<a id="art_N1283F"></a>
+<a id="art_N14A4F"></a>
 
 ### Art. 97.
 
 Le costume des membres de l’ordre judiciaire et des membres du barreau, dans l’exercice de leurs fonctions et professions et dans les cérémonies publiques, est déterminé par règlement grand-ducal.
 
-<a id="art_N1285B"></a>
+<a id="art_N14A6B"></a>
 
 ### Art. 98.
 
@@ -1382,31 +2493,31 @@ Les tarifs des frais de justice de toute nature sont arrêtés et modifiés par 
 
 ##### Chapitre II. — Des incompatibilités
 
-<a id="art_N12887"></a>
+<a id="art_N14A97"></a>
 
 ### Art. 99.
 
 Le cumul des fonctions judiciaires est interdit.
 
-<a id="art_N128B9"></a>
+<a id="art_N14AC9"></a>
 
 ### Art. 100.
 
 Sans préjudice des incompatibilités prévues par des lois spéciales, les fonctions de l’ordre judiciaire sont incompatibles avec le mandat de député, avec toute fonction salariée publique ou privée, avec les fonctions de notaire, d’huissier, avec l’état militaire et l’état ecclésiastique et avec la profession d’avocat.
 
-<a id="art_N128EB"></a>
+<a id="art_N14AFB"></a>
 
 ### Art. 101.
 
 Les membres de la cour, des tribunaux d’arrondissement et des justices de paix et les membres des parquets ne peuvent être bourgmestre, échevin ou conseiller communal.
 
-<a id="art_N1291D"></a>
+<a id="art_N14B2D"></a>
 
 ### Art. 101-1.
 
 Les fonctions de magistrat du siège et de magistrat du parquet sont incompatibles avec la qualité de membre du Conseil d’État.
 
-<a id="art_N1295B"></a>
+<a id="art_N14B6B"></a>
 
 ### Art. 102.
 
@@ -1414,31 +2525,31 @@ Les parties ne peuvent charger de leur défense, soit verbale, soit par écrit m
 
 Ces magistrats et fonctionnaires peuvent néanmoins plaider, devant tous les tribunaux, leurs causes personnelles et celles de leurs conjoints, partenaires au sens de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, parents ou alliés en ligne directe et de leurs pupilles.
 
-<a id="art_N1299B"></a>
+<a id="art_N14BAB"></a>
 
 ### Art. 103.
 
 (...)
 
-<a id="art_N129CD"></a>
+<a id="art_N14BDD"></a>
 
 ### Art. 104.
 
 Il est interdit, sous les peines disciplinaires, à tout membre de l’ordre judiciaire, d’exercer, soit par lui-même, soit sous le nom de son conjoint ou par toute autre personne interposée, aucune affaire de commerce, d’être agent d’affaires, ou de participer à la direction, à l’administration ou à la surveillance de toute société ou établissement industriel ou financier.
 
-<a id="art_N12A0C"></a>
+<a id="art_N14C1C"></a>
 
 ### Art. 105.
 
 Les conjoints, les partenaires au sens de la loi du 9 juillet 2004 précitée, les parents ou alliés jusqu’au degré d’oncle et de neveu inclusivement ne peuvent être simultanément membres de la Cour ou d’un même tribunal, soit comme magistrat du siège, soit comme magistrat du ministère public, soit comme greffier en chef, soit comme greffier, sans une dispense du Grand-Duc.
 
-<a id="art_N12A43"></a>
+<a id="art_N14C53"></a>
 
 ### Art. 106.
 
 Même en cas de dispense, les conjoints, les partenaires, parents ou alliés au degré prohibé ne peuvent siéger simultanément dans une même cause.
 
-<a id="art_N12A75"></a>
+<a id="art_N14C85"></a>
 
 ### Art. 107.
 
@@ -1446,19 +2557,19 @@ Les conjoints, les partenaires au sens de la loi du 9 juillet 2004 précitée, l
 
 Ne peuvent siéger simultanément le juge et le magistrat du ministère public, conjoints ou partenaires au sens de la loi du 9 juillet 2004 précitée, ou parents ou alliés entre eux au degré visé à l’alinéa qui précède.
 
-<a id="art_N12ABA"></a>
+<a id="art_N14CCA"></a>
 
 ### Art. 108.
 
 En cas de mariage, de partenariat ou d’alliance survenue depuis la nomination, celui qui l’a contracté ne peut continuer ses fonctions sans obtenir dispense, conformément aux articles 105 et 107.
 
-<a id="art_N12AEC"></a>
+<a id="art_N14CFC"></a>
 
 ### Art. 109.
 
 En toute matière le juge ou l’officier du ministère public doit s’abstenir, sous telle peine disciplinaire que de droit, s’il est conjoint ou partenaire au sens de la loi du 9 juillet 2004 précitée, ou parent ou allié en ligne directe ou au second degré en ligne collatérale, de l’avocat ou du mandataire de l’une des parties.
 
-<a id="art_N12B23"></a>
+<a id="art_N14D33"></a>
 
 ### Art. 110.
 
@@ -1466,7 +2577,7 @@ L’avocat ou le mandataire qui ont prêté leur nom pour éluder la disposition
 
 ##### Chapitre III. — De la réception et de la prestation du serment
 
-<a id="art_N12B62"></a>
+<a id="art_N14D72"></a>
 
 ### Art. 111.
 
@@ -1476,13 +2587,13 @@ La réception des présidents, premiers vice-présidents, vice-présidents, juge
 
 La réception des juges de paix directeurs, des juges de paix directeurs adjoints et des juges de paix est faite devant le tribunal d’arrondissement de leur ressort, à l’audience civile du tribunal ou à l’audience de la chambre des vacations.
 
-<a id="art_N12BA6"></a>
+<a id="art_N14DB6"></a>
 
 ### Art. 112.
 
 Avant d’entrer en fonctions, les magistrats et les fonctionnaires de l’ordre judiciaire prêtent le serment prescrit par l’article 110 de la Constitution et par l’article 3 de la loi du 16 avril 1979 fixant le statut des fonctionnaires de l’Etat.
 
-<a id="art_N12BE2"></a>
+<a id="art_N14DF2"></a>
 
 ### Art. 113.
 
@@ -1490,7 +2601,7 @@ Le président de la cour et le procureur général d’Etat prêtent ce serment 
 
 Les autres magistrats et fonctionnaires dénommés dans l’article 111 ci-dessus prêtent le serment lors de leur réception entre les mains du président de la cour ou du président du tribunal.
 
-<a id="art_N12C1D"></a>
+<a id="art_N14E2D"></a>
 
 ### Art. 114.
 
@@ -1498,7 +2609,7 @@ Tout citoyen nommé à une fonction dans l’ordre judiciaire est tenu de prête
 
 ##### **Chapitre IV.**
 
-<a id="art_N12C69"></a>
+<a id="art_N14E79"></a>
 
 ### Art. 115.
 
@@ -1519,7 +2630,7 @@ Les magistrats nommés ensemble sont inscrits sur cette liste dans l’ordre que
 
 Cette liste est arrêtée par la cour en assemblée générale; elle est complétée à chaque nouvelle nomination dans l’ordre judiciaire.
 
-<a id="art_N12CEE"></a>
+<a id="art_N14EFE"></a>
 
 ### Art. 116.
 
@@ -1542,25 +2653,25 @@ Cette liste est arrêtée par la cour en assemblée générale; elle est complé
 
 Cette liste détermine la préséance lorsque les membres des deux tribunaux sont appelés à siéger ou à exercer leurs fonctions ensemble, comme aussi dans le cas de mutation dans le personnel des deux tribunaux.
 
-<a id="art_N12D4A"></a>
+<a id="art_N14F5A"></a>
 
 ### Art. 117.
 
 Il est tenu dans chaque tribunal d’arrondissement une liste de préséance extraite de la liste générale prescrite par l’article qui précède, et sur laquelle sont inscrits les juges et les membres du parquet dans l’ordre qui leur est assigné par ladite liste générale.
 
-<a id="art_N12D5A"></a>
+<a id="art_N14F6A"></a>
 
 ### Art. 118.
 
 Les listes prévues par les trois articles qui précèdent établissent la préséance dans les cérémonies, dans les assemblées de la cour ou du tribunal, ainsi que la préséance des magistrats siégeant dans la même chambre.
 
-<a id="art_N12D6A"></a>
+<a id="art_N14F7A"></a>
 
 ### Art. 119.
 
 La cour et les tribunaux, quand ils assistent à une cérémonie publique, sont réunis en un seul corps, observant entre eux l’ordre de préséance.
 
-<a id="art_N12D86"></a>
+<a id="art_N14F96"></a>
 
 ### Art. 120.
 
@@ -1570,7 +2681,7 @@ Les magistrats nommés ensemble sont inscrits sur cette liste de rang dans l’o
 
 Ne sont pas repris les magistrats figurant sur la liste de rang visée à l’article 16-1 de la loi modifiée du 7 juin 2012 sur les attachés de justice.
 
-<a id="art_N12DE5"></a>
+<a id="art_N14FF5"></a>
 
 ### Art.121.
 
@@ -1578,7 +2689,7 @@ Le magistrat qui a été appelé à d’autres fonctions, reprend le rang qu’i
 
 ##### Chapitre V.- — Du service des audiences et du roulement
 
-<a id="art_N12E3A"></a>
+<a id="art_N1504A"></a>
 
 ### Art. 122.
 
@@ -1586,7 +2697,7 @@ Indépendamment des listes de préséance, il est dressé, dans la cour et les t
 
 Chaque conseiller ou juge, lors de sa nomination, entre dans la chambre à laquelle appartenait le conseiller ou juge dont la démission, la retraite ou le décès a donné lieu à sa nomination.
 
-<a id="art_N12E75"></a>
+<a id="art_N15085"></a>
 
 ### Art. 123.
 
@@ -1596,13 +2707,13 @@ Ce roulement a lieu de manière que chacun fasse consécutivement le service de 
 
 Dans le tribunal d’arrondissement de Diekirch, ce roulement se borne à la désignation des juges qui ont à faire le service des audiences civiles, commerciales et correctionnelles.
 
-<a id="art_N12EB9"></a>
+<a id="art_N150C9"></a>
 
 ### Art. 124.
 
 Néanmoins, celui qui a été rapporteur dans la chambre dont il est ensuite sorti par le roulement, revient dans cette chambre pour y faire le rapport dont il avait été chargé.
 
-<a id="art_N12EEB"></a>
+<a id="art_N150FB"></a>
 
 ### Art. 125.
 
@@ -1610,7 +2721,7 @@ Si les membres d’une chambre dépassent le nombre requis pour siéger, le serv
 
 Lorsque, par des circonstances extraordinaires, les membres d’une chambre appelés à siéger dépassent le nombre requis, le dernier nommé s’abstient.
 
-<a id="art_N12F26"></a>
+<a id="art_N15136"></a>
 
 ### Art. 126.
 
@@ -1626,25 +2737,25 @@ Le président de la cour supérieure de justice et les présidents des tribunaux
 
 Il y a chaque mois, à l’intérieur de la cour supérieure de justice et de chaque tribunal, une conférence des présidents et présidents de chambres ainsi que des présidents et vice-présidents consacrée aux problèmes intéressant le fonctionnement des différentes chambres et la répartition des affaires.
 
-<a id="art_N12F85"></a>
+<a id="art_N15195"></a>
 
 ### Art. 127.
 
 Les présidents de chambre et les vice-présidents président les chambres auxquelles ils sont affectés et dirigent les débats. Les conseillers et juges de la chambre peuvent avec l’autorisation du président poser directement aux parties et aux témoins les questions qu’ils jugent convenir.
 
-<a id="art_N12FB7"></a>
+<a id="art_N151C7"></a>
 
 ### Art. 128.
 
 Les prestations de serment qui doivent se faire devant le tribunal d’arrondissement, sont reçues à l’audience de la chambre civile ou à l’audience de la chambre des vacations, si on se présente pour ces prestations de serment pendant les vacances.
 
-<a id="art_N12FE9"></a>
+<a id="art_N151F9"></a>
 
 ### Art. 129.
 
 Le procureur général d’Etat règle le service du parquet de la cour ainsi que le service des audiences à faire par les avocats généraux.
 
-<a id="art_N1301B"></a>
+<a id="art_N1522B"></a>
 
 ### Art. 130.
 
@@ -1652,7 +2763,7 @@ Le service d’audience et le service du parquet sont distribués, par le procur
 
 Le procureur d’Etat est toujours maître de changer cette distribution. Il peut aussi, quand il le juge convenable, remplir lui-même les fonctions qu’il a spécialement déléguées à un substitut.
 
-<a id="art_N13056"></a>
+<a id="art_N15266"></a>
 
 ### Art. 131.
 
@@ -1660,19 +2771,19 @@ Les greffiers en chef distribuent le service entre les membres du greffe, sous l
 
 ##### Chapitre VI. — Des empêchements et des remplacements
 
-<a id="art_N13093"></a>
+<a id="art_N152A3"></a>
 
 ### Art. 132.
 
 Lorsque le président de la cour ou le président d’un tribunal d’arrondissement est dans le cas d’être suppléé pour des fonctions qui lui sont spécialement attribuées, il est remplacé par le magistrat le plus élevé en rang de la juridiction qu’il préside dans l’ordre de la liste prévue par les articles 115 et 116.
 
-<a id="art_N130C5"></a>
+<a id="art_N152D5"></a>
 
 ### Art. 133.
 
 Les présidents de chambre à la cour d’appel, les présidents, premier vice-président et vice-présidents des tribunaux d’arrondissement sont, en cas de vacance de poste ou d’empêchement, remplacés pour le service à l’audience par le magistrat le plus élevé en rang de leur juridiction, dans l’ordre de la liste prévue par les articles 115 et 116.
 
-<a id="art_N130F7"></a>
+<a id="art_N15307"></a>
 
 ### Art. 134.
 
@@ -1680,7 +2791,7 @@ Les conseillers à la Cour d’appel ou les juges des tribunaux d’arrondisseme
 
 Dans les tribunaux d’arrondissement, le juge empêché peut être remplacé, à défaut d’un autre juge, par un attaché de justice délégué conformément aux dispositions de la loi sur les attachés de justice.
 
-<a id="art_N13132"></a>
+<a id="art_N15342"></a>
 
 ### Art. 135.
 
@@ -1689,7 +2800,7 @@ La Cour supérieure de Justice se complète au nombre respectif exigé par les a
 1. par les présidents des tribunaux d’arrondissement, les premiers vice-présidents, les vice-présidents, les premiers juges et les juges des deux tribunaux d’arrondissement, en suivant l’ordre de leur inscription sur la liste prévue à l’article 116;
 2. et à leur défaut, par les juges de paix directeurs, les juges de paix directeurs adjoints et les juges de paix, en suivant l’ordre de leur nomination.
 
-<a id="art_N1316F"></a>
+<a id="art_N1537F"></a>
 
 ### Art. 136.
 
@@ -1699,13 +2810,13 @@ L’impossibilité de former la cour ou le tribunal est constatée par un procè
 
 Cette liste est dressée par les membres de la magistrature qui sont appelés à siéger, et doit être approuvée par le Grand-Duc.
 
-<a id="art_N131B3"></a>
+<a id="art_N153C3"></a>
 
 ### Art. 137.
 
 Le procureur général d’Etat, le procureur général d’Etat adjoint, les premiers avocats généraux et les avocats généraux se suppléent réciproquement. Il en est de même du procureur d’Etat, des procureurs d’Etat adjoints, des substituts principaux, des premiers substituts et des substituts.
 
-<a id="art_N131E5"></a>
+<a id="art_N153F5"></a>
 
 ### Art. 138.
 
@@ -1714,13 +2825,13 @@ En cas d’empêchement légitime ou de vacance de poste au sein d’un parquet,
 1. pour le service du parquet près la Cour supérieure de Justice, un magistrat du pool de complément visé à l’article 33-1, paragraphe 2 ou un magistrat d’un des parquets près le tribunal d’arrondissement; et
 2. pour le service d’un des parquets près le tribunal d’arrondissement, un magistrat du pool de complément visé à l’article 33-1, paragraphe 2 ou un magistrat de l’autre parquet près le tribunal d’arrondissement.
 
-<a id="art_N13222"></a>
+<a id="art_N15432"></a>
 
 ### Art. 139.
 
 En cas d’empêchement, le greffier en chef est suppléé par le greffier qu’il désigne, sans préjudice de la répartition générale du service entre les greffiers. S’il se trouve dans l’impossibilité de faire lui-même cette désignation, ou s’il vient à décéder ou à cesser ses fonctions, il y est pourvu par le juge de paix directeur, par le président du tribunal ou par le président de la cour.
 
-<a id="art_N13254"></a>
+<a id="art_N15464"></a>
 
 ### Art. 140.
 
@@ -1728,7 +2839,7 @@ Lorsque les besoins du service l’exigent, le juge peut assumer, en qualité de
 
 ##### Chapitre VII.- — De l’ordre de service et de la durée des audiences
 
-<a id="art_N13292"></a>
+<a id="art_N154A2"></a>
 
 ### Art. 141.
 
@@ -1738,7 +2849,7 @@ Ce règlement contient les dispositions concernant la tenue des audiences, l’i
 
 Un règlement grand-ducal peut également arrêter l’ordre de service dans les justices de paix sur avis des juges de paix directeurs.
 
-<a id="art_N132D6"></a>
+<a id="art_N154E6"></a>
 
 ### Art. 142.
 
@@ -1752,7 +2863,7 @@ Les arrêtés afférents sont publiés au Mémorial.
 
 Néanmoins, les juridictions peuvent, en cas de besoin, tenir des audiences extraordinaires.
 
-<a id="art_N13328"></a>
+<a id="art_N15538"></a>
 
 ### Art. 143.
 
@@ -1762,7 +2873,7 @@ Ils ont le droit de faire inscrire sur les registres les réquisitions qu’ils 
 
 ##### Chapitre IX.- — Des absences et des congés
 
-<a id="art_N134F8"></a>
+<a id="art_N15708"></a>
 
 ### Art. 148.
 
@@ -1778,7 +2889,7 @@ Le greffier informe le procureur général d’État avant son absence.
 
 Le procureur général d’État peut demander l’avis du chef de corps dont relève le greffier et l’avis des magistrats auprès desquels le greffier est affecté.
 
-<a id="art_N135BD"></a>
+<a id="art_N157CD"></a>
 
 ### Art. 149-1.
 
@@ -1786,7 +2897,7 @@ Le poste laissé vacant par un magistrat bénéficiaire d’un congé sans trait
 
 Au terme de son congé, le magistrat ainsi remplacé est réintégré dans la magistrature à un poste équivalent à la fonction qu’il exerçait avant l’octroi de son congé spécial. A défaut de vacance de poste adéquat, il est nommé hors cadre à un poste comportant le même rang et le même traitement que ceux dont il bénéficiait avant son départ.
 
-<a id="art_N135DB"></a>
+<a id="art_N157EB"></a>
 
 ### Art. 149-2.
 
@@ -1798,7 +2909,7 @@ Au terme de son congé, le magistrat ainsi remplacé est réintégré dans la ma
 
 ##### Chapitre X. — Des vacances et des chambres de vacation
 
-<a id="art_N13658"></a>
+<a id="art_N15868"></a>
 
 ### Art. 150.
 
@@ -1808,13 +2919,13 @@ La permanence et la continuité du service demeurent assurés pendant les vacanc
 
 ##### Chapitre XI. — Des assemblées générales
 
-<a id="art_N1369F"></a>
+<a id="art_N158AF"></a>
 
 ### Art. 151.
 
 Les assemblées générales de la cour et des tribunaux d’arrondissement sont convoquées par le président, soit d’office, soit sur la demande faite par l’une des chambres de la cour ou du tribunal, soit sur la réquisition du ministère public. Sauf les cas d’urgence, l’assemblée générale est convoquée à deux jours francs; la convocation indique l’ordre du jour.
 
-<a id="art_N136D1"></a>
+<a id="art_N158E1"></a>
 
 ### Art. 152.
 
@@ -1836,7 +2947,7 @@ Le greffier dresse procès-verbal des opérations de l’assemblée; ce procès-
 
 Une expédition de ce procès-verbal est remise au procureur général d’Etat qui l’adresse au ministre de la Justice.
 
-<a id="art_N1374B"></a>
+<a id="art_N1595B"></a>
 
 ### Art. 153.
 
@@ -1844,7 +2955,7 @@ La rentrée de la cour supérieure de justice se fait chaque année dans une aud
 
 L’audience se tient au cours du mois de septembre. Il y est fait un exposé de l’activité de la juridiction durant l’année judiciaire écoulée. Cet exposé peut être suivi d’un discours portant sur un sujet d’actualité d’intérêt juridique ou judiciaire.
 
-<a id="art_N13786"></a>
+<a id="art_N15996"></a>
 
 ### Art. 154.
 
@@ -1852,7 +2963,7 @@ Le service des assemblées générales est fait par le greffier en chef ou par s
 
 ##### Chapitre XII. — De la discipline
 
-<a id="art_N13B50"></a>
+<a id="art_N15D60"></a>
 
 ### Art. 168.
 
@@ -1860,7 +2971,7 @@ Le service des assemblées générales est fait par le greffier en chef ou par s
 
 ##### Chapitre XIV.- — Dispositions diverses
 
-<a id="art_N13EBB"></a>
+<a id="art_N160CB"></a>
 
 ### Art. 181.
 
@@ -1881,7 +2992,7 @@ Les fonctionnaires, employés et salariés de l’État affectés ou détachés 
 
 **(3)** Les indemnités spéciales et primes de risque sont non pensionnables.
 
-<a id="art_N13F4D"></a>
+<a id="art_N1615D"></a>
 
 ### Art. 182.
 
@@ -1889,19 +3000,19 @@ Les fonctionnaires, employés et salariés de l’État affectés ou détachés 
 
 **(2)** Les affectations et désaffectations des référendaires de justice sont faites par le procureur général d’État après consultation des chefs de corps concernés*.*
 
-<a id="art_N13F80"></a>
+<a id="art_N16190"></a>
 
 ### Art. 183 à Art. 184.
 
 (...)
 
-<a id="art_N13FB2"></a>
+<a id="art_N161C2"></a>
 
 ### Art. 185.
 
 
 
-<a id="art_N13FE3"></a>
+<a id="art_N161F3"></a>
 
 ### Art. 186.
 
@@ -1911,13 +3022,13 @@ Sont supprimés tous droits, taxes et émoluments prévus par les textes en vigu
 
 Le matériel de bureau y compris notamment les imprimés et les articles de papeterie nécessaires au fonctionnement du greffe et appartenant aux greffiers en chef est repris par l’Etat à sa valeur actuelle.
 
-<a id="art_N14027"></a>
+<a id="art_N16237"></a>
 
 ### Art. 187.
 
 Sont abrogées toutes les dispositions qui comminent des peines pécuniaires contre les greffiers ou qui prévoient à leur encontre une responsabilité civile personnelle.
 
-<a id="art_N14059"></a>
+<a id="art_N16269"></a>
 
 ### Art. 188.
 
@@ -1925,7 +3036,7 @@ Dans tous les cas où les textes prévoient le dépôt au greffe d’une provisi
 
 ##### Chapitre XV.- — Du service d’accueil et d’information juridique
 
-<a id="art_N14097"></a>
+<a id="art_N162A7"></a>
 
 ### Art. 189.
 
@@ -1935,13 +3046,13 @@ Un règlement grand-ducal établira les modalités d’organisation et de foncti
 
 ##### Chapitre XVI. — Dispositions transitoires et finales
 
-<a id="art_N140DD"></a>
+<a id="art_N162ED"></a>
 
 ### Art. 190.
 
 Les pourvois en cassation dans lesquels le rapport n’a pas encore été fait au moment de l’entrée en vigueur de la présente loi sont jugés par la cour de cassation conformément à l’article 36.
 
-<a id="art_N1410F"></a>
+<a id="art_N1631F"></a>
 
 ### Art. 191.
 
@@ -1949,13 +3060,13 @@ Les engagements aux postes nouveaux créés par la présente loi se font par dé
 
 Il en est de même pour l’engagement de huit employés ou expéditionnaires.
 
-<a id="art_N1414F"></a>
+<a id="art_N1635F"></a>
 
 ### Art. 192.
 
 L’ancienne nomenclature de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat et de la loi modifiée du 18 février 1885 sur l’organisation judiciaire est remplacée par la nouvelle nomenclature des fonctions ci-après:
 
-<a id="art_N14195"></a>
+<a id="art_N163A5"></a>
 
 ### Art. 193.
 
@@ -1965,7 +3076,7 @@ Les années passées au service de l’Etat, déduction faite d’une période d
 
 Le personnel ouvrier occupé moins de deux ans au service de l’Etat peut obtenir une réduction de stage en proportion avec son temps de service passé auprès de l’administration judiciaire.
 
-<a id="art_N141DE"></a>
+<a id="art_N163EE"></a>
 
 ### Art. 194.
 
@@ -1975,7 +3086,7 @@ Toutefois, les traitements et les pensions calculés d’après les dispositions
 
 **2°** Les greffiers pensionnés, qui au moment de leur mise à la retraite bénéficient d’un casuel, obtiennent un supplément personnel de pension de trente-six points indiciaires après leur reconstitution de carrière conformément aux dispositions de la présente loi en compensation du casuel aboli.
 
-<a id="art_N14230"></a>
+<a id="art_N16440"></a>
 
 ### Art. 195.
 
@@ -1983,7 +3094,7 @@ La loi du 18 février 1885 sur l’organisation judiciaire, telle qu’elle a é
 
 Est de même abrogé le numéro 1° de la section II. de l’article 13 de la loi du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, telle qu’elle a été modifiée par les lois subséquentes.
 
-<a id="art_N14275"></a>
+<a id="art_N16485"></a>
 
 ### Art. 196. Entrée en vigueur.
 
@@ -1999,19 +3110,19 @@ Un règlement grand-ducal fixera l’entrée en vigueur de la présente loi et p
 
 ### Version consolidée applicable au 16/09/1998 : Règlement grand-ducal du 29 juin 1990 portant règlement d’ordre intérieur pour la cour d’appel, les tribunaux d’arrondissement et les justices de paix.
 
-<a id="art_N1441D"></a>
+<a id="art_N1662F"></a>
 
 ### Art. Ier.
 
 L’ordre de service de la cour d’appel, des tribunaux d’arrondissement et des justices de paix est établi comme suit: Titre I. Cour d’appelChapitre Ier. Des audiencesArt. 1er.Les audiences ordinaires des chambres de la cour d’appel sont fixées par le ministre de la Justice conformément à l’article 142 de la loi du 7 mars 1980 sur l’organisation judiciaire.En dehors de ces audiences, chaque chambre fixe les audiences extraordinaires exigées par les besoins du service. Les débats ont lieu au jour et, dans la mesure où le déroulement de l'audience le permet, à l'heure préalablement fixés selon les modalités propres à chaque juridiction. Ils peuvent se poursuivre au cours d'une audience ultérieure. Art. 2.Le greffier inscrit au registre d’audience les heures d’ouverture et de levée de l’audience, ainsi que la durée et la cause des suspensions d’audience et y mentionne les faits de l’audience.Chapitre II. De l’inscription et de l’instruction des causesArt. 3. Il est tenu au greffe de la cour un répertoire général dénommé aussi rôle général, coté et paraphé par le président de la Cour Supérieure de Justice ou par le magistrat par lui délégué, sur lequel sont inscrites toutes les causes dans l'ordre de leur présentation. Cette inscription est faite au plus tard le dernier jour ouvrable précédent l’audience, à 17 heures, sous peine d’être refusée, à l’exception des causes visées à l’article 5.1 du présent règlement. L’inscription est faite à la suite du dépôt d’une chemise portant les noms, profession, domicile et qualités des parties, l’objet, la cause et la nature de la demande, une colonne réservée aux observations ainsi que, le cas échéant, les noms des mandataires des parties.Le greffier y porte le numéro d’ordre de la cause et la date de l’inscription au rôle général.La chemise contient trois copies libres du jugement entrepris ainsi que trois copies libres de l’acte d’appel. Art. 4.L’inscription au rôle général détermine le rang d’après lequel les causes présentées sont plaidées.Art. 5.Sont appelés sur simples conclusions et avenir pour être plaidées sans remise et sans tour de rôle:les causes introduites par assignation à bref délai;celles relatives à un déclinatoire de compétence ou à la recevabilité de la demande et qui ne tiennent pas au fond;celles qui sont relatives aux voies d’exécution;celles qui ont trait à des pensions alimentaires;toutes autres demandes de pareille urgence.Si, par circonstances spéciales, les juges croient devoir accorder remise, elle est ordonnée contradictoirement à jour fixe. Aux appels des causes, celles ci-dessus énumérées sont retenues pour être jugées avant toutes autres.Celles de ces causes qui, par le fait des parties, n’ont pas pu être jugées dans le délai de trois mois, perdent leur caractère d’urgence et doivent suivre leur tour de rôle général.Art. 6. Lorsqu’il a été formé opposition à un arrêt par défaut, la cause reprend le rang qu’elle occupait au rôle. Les causes dans lesquelles il a été prononcé un arrêt d’instruction reprennent, après l’instruction faite, le rang qu’elles occupaient au rôle.Art. 7.Dans toutes les causes, à l’exception de celles visées à l’article 5.1.du présent règlement, les avocats-avoués déposent au greffe, quatre jours au moins avant l’audience fixée pour les plaidoiries, leurs conclusions motivées en trois exemplaires, signées d’eux et portant la date de la signification à avoué, le numéro du rôle et les qualités des parties. En cas de réquisition d’un arrêt par défaut et dans les affaires visées à l’article 5.1 du présent règlement, ce dépôt peut être fait à l’audience même entre les mains du greffier.Lorsque les avocats-avoués modifient les conclusions par eux déposées ou qu’ils prennent à la barre des conclusions nouvelles, ils sont tenus de les signifier dans les cinq jours à l’avoué adverse et d’en déposer au greffe trois copies signées et portant mention expresse de la date de la signification à avoué. A défaut d’accomplissement de l’une ou de l’autre de ces formalités, ces conclusions sont considérées comme non avenues et il est jugé sur les pièces du dossier.Art. 8.Les assignations, sommations d’audience et avenirs sont donnés à l’heure fixée pour l’ouverture de l’audience.Art. 9.Les conclusions, sommations d’audience et avenirs sont signifiés à avoué cinq jours au moins avant celui fixé pour les débats.Art. 10.A l’ouverture de l’audience, il est procédé à l’appel des causes, dans l’ordre de leur inscription au rôle général.Sur cet appel et à la même audience ou à l’audience suivante, sont donnés les défauts congés et les défauts au fond.Art. 11.En cas de non-comparution des parties ou de leurs mandataires à cet appel, l’affaire est renvoyée au rôle général. Les avocats-avoués qui se présentent sont tenus de requérir jugement; s’ils refusent de prendre jugement, l’affaire est renvoyée au rôle général. Cependant la cour peut accorder toutes remises de cause dûment justifiées. Si tous les avocats-avoués des parties sont présents, ils sont tenus de prendre des conclusions et de plaider. S’il y a des obstacles à ce que les avocats-avoués ou l’un d’eux se trouvent à l’audience indiquée, ils doivent sur-le-champ en faire l’observation et, si elle est trouvée fondée, il est indiqué un autre jour.Art. 12. Le greffier porte sur la feuille d’audience du jour la teneur de chaque arrêt dès qu’il est rendu; il fait mention en marge de celui-ci des noms des juges ayant concouru à l’arrêt ainsi que du nom de celui ayant procédé à sa lecture et, le cas échéant, de celui du représenant du ministère public. Le magistrat qui a présidé et le greffier signent la minute de l’arrêt ainsi que les mentions faites en marge.Art. 13.Le greffier inscrit, à la colonne d’observations de la chemise, la date et la nature de tous les arrêts rendus dans chaque cause, y compris les arrêts de remise et de radiation.Art. 14. Les causes jugées définitivement sont rayées du rôle.Celles dans lesquelles il a été rendu un arrêt attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe, conformément à l’article 163 du code de procédure civile, la cause est définitivement rayée du rôle.Art. 15.Les abréviations de délais sont accordées par le président de la chambre à laquelle l’affaire appartient.Art. 16.Sauf les cas d’urgence, toutes les requêtes sont présentées par la voie du greffe.Art. 17.Dans le prononcé des arrêts et ordonnances, les parties ne sont désignées que par leurs noms, prénoms, états et professions.Chapitre III.Des plaidoiriesArt. 18.Les avocats-avoués et les avocats plaident debout; il leur est interdit de s’introduire sans la permission du président dans l’enceinte réservée devant la cour.Art. 19.Lorsque l’avocat-avoué ou l’avocat chargé de l’affaire et saisi des pièces ne peut, pour cause de maladie ou autre cause grave, se présenter le jour où elle doit être plaidée, il doit en instruire au plus tôt le président de chambre.En ce cas, la cause peut être remise à une prochaine audience. La cour peut alors ordonner que, pour cette nouvelle audience, l’avocat-avoué empêché doit se faire remplacer par un confrère pour plaider l’affaire.Art. 20.De même, la cause peut être remise, lorsqu’au moment où elle est appelée l’avocat-avoué ou l’avocat qui doit la plaider est engagé à l’audience d’une autre chambre de la cour d’appel.Art. 21.Lorsque les juges trouvent qu’une cause est suffisamment éclaircie, le président fait cesser les plaidoiries.Avant les plaidoiries, le président peut indiquer aux plaideurs les moyens et réponses contenus dans leurs conclusions sur lesquels les débats oraux doivent exclusivement porter, sauf la faculté pour eux de remettre à la cour, dans les trois jours qui suivant la prise en délibéré, une note au sujet des questions exclues des débats oraux, après communication préalable à l’avoué de l’adversaire, qui dispose également, pour y répondre par une note contradictoire, d’un délai de trois jours à partir de la communication de la note.Art. 22. Au plus tard immédiatement après les plaidoiries, les pièces du procès, formées en liasse et accompagnées d'un inventaire, sont remises au président de la chambre à moins que ces pièces n'aient été remises antérieurement au magistrat chargé de la mise en état. Chapitre IV. De la communication au ministère publicArt. 23. La communication au ministère public est, sauf disposition particulière, faite à la diligence du juge. Elle doit avoir lieu en temps voulu pour ne pas retarder le jugement. Lorsqu'il y a eu communication, le ministère public est avisé de la date de l'audience. Art. 24. L’officier du ministère public peut requérir la communication des pièces dans toute autre cause, en veillant à ce que cette communication ne retarde pas le jugement de l’affaire. La cour peut aussi ordonner cette communication d’office.Art. 25.L’officier du ministère public qui désire prendre des conclusions ou émettre son avis, prend la parole sur-le-champ, ou à l’une des prochaines audiences qu’il indique.Art. 26.Après l’audition du ministère public, les parties ne peuvent plus obtenir la parole; elles peuvent toutefois remettre des notes dans les vingt-quatre heures.Titre II. Tribunal d’arrondissement de LuxembourgChapitre Ier. Des audiencesArt. 1er.Les audiences ordinaires des chambres du tribunal d’arrondissement de Luxembourg sont fixées par le ministre de la Justice conformément à l’article 142 de la loi du 7 mars 1980 sur l’organisation judiciaire.En dehors de ces audiences, le tribunal peut, en assemblée générale, fixer les audiences extraordinaires exigées par les besoins du service. Les débats ont lieu au jour et, dans la mesure où le déroulement de l'audience le permet, à l'heure préalablement fixés selon les modalités propres à chaque juridiction. Ils peuvent se poursuivre au cours d'une audience ultérieure. Art. 2.Le greffier inscrit au registre d’audience les heures d’ouverture et de levée de l’audience, ainsi que la durée et la cause des suspensions d’audience et y mentionne les faits de l’audience.Chapitre II. De l’inscription et de l’instruction des causesArt. 3. Il est tenu au greffe du tribunal deux répertoires généraux, dénommés aussi rôles généraux, cotés et paraphés par le président ou par le magistrat par lui délégué, sur lesquels sont inscrites, dans l'un les causes civiles, dans l'autre les causes commerciales dans l'ordre de leur présentation. Cette inscription est faite au plus tard le dernier jour ouvrable précédent l’audience, à 17 heures, sous peine d’être refusée, à l’exception des causes visées à l’article 5.1 du présent règlement.L’inscription est faite à la suite du dépôt d’une chemise portant les noms, professions, domiciles et qualités des parties, l’objet, la cause et la nature de la demande, une colonne réservée aux observations ainsi que, le cas échéant, les noms des mandataires des parties. Le greffier y porte le numéro d’ordre de la cause et la date de l’inscription au rôle général. La chemise contient, en matière civile trois copies libres des conclusions de la partie qui requiert l’inscription et, en matière commerciale, trois copies libres de l’exploit introductif d’instance. Les affaires introduites par requête sont portées sur un registre particulier. Elles ne sont inscrites au rôle général que lorsqu’elles donnent lieu à des contestations à décider à l’audience. Les ordres sont également portés sur un registre séparé. Ils ne figurent au rôle général qu’en cas de contredit. Il est fait mention en marge du registre particulier et du rôle général du transport de l’un à l’autre.Les causes de référé ordinaire et les causes de référé divorce sont portées sur deux registres spéciaux et y sont numérotées.Art. 4.L’inscription au rôle général détermine le rang d’après lequel les affaires présentées sont plaidées.Art. 5. Sont appelées sur simples conclusions pour être plaidées sans remise et sans tour de rôle: les causes introduites par assignation à bref délai;celles relatives à un déclinatoire de compétence ou à la recevabilité de la demande et qui ne tiennent pas au fond;celles qui sont relatives aux voies d’exécution;celles qui ont trait à des pensions alimentaires;toutes autres demandes de pareille urgence.Si, par circonstances spéciales, les juges croient devoir accorder remise, elle est ordonnée contradictoirement à jour fixe.Aux appels des causes, celles ci-dessus énumérées sont retenues pour être jugées avant toutes autres.Celles de ces causes, qui, par le fait des parties, n’ont pas pu être jugées dans le délai de trois mois, perdent leur caractère d’urgence et doivent suivre leur tour du rôle général.Art. 6. Lorsqu’il a été formé opposition à un jugement par défaut, la cause reprend le rang qu’elle occupait au rôle. Les causes dans lesquelles il a été prononcé un jugement d’instruction reprennent, après l’instruction faite, le rang qu’elles occupaient au rôle.Art. 7.Dans les causes civiles, à l’exception de celles visées à l’article 5.1 du présent règlement, les avocats-avoués déposent au greffe, quatre jours au moins avant l’audience fixée pour les plaidoiries, trois copies de leurs conclusions motivées, signées d’eux et portant la date de la signification à avoué, le numéro du rôle et les qualités des parties.En cas de réquisition d’un jugement par défaut et dans les affaires visées à l’article 5.1 du présent règlement, ce dépôt peut être fait à l’audience même entre les mains du greffier.Lorsque les avocats-avoués modifient les conclusions par eux déposées ou qu’ils prennent à la barre des conclusions nouvelles, ils sont tenus de les signifier dans les cinq jours à l’avoué adverse et d’en déposer au greffe trois copies signées et portant mention expresse de la date de la signification à avoué. A défaut d’accomplissement de l’une ou de l’autre de ces formalités, ces conclusions sont considérées comme non avenues et il est jugé sur les pièces du dossier.Art. 8.Les assignations, sommations d’audience et avenirs sont donnés à l’heure fixée pour l’ouverture de l’audience.Art. 9. En matière civile, à l’exception des causes visées à l’article 5.1 du présent règlement, les conclusions, sommations d’audience et avenirs sont signifiés à avoué cinq jours au moins avant celui fixé pour les débats.En matière commerciale, les avenirs doivent être notifiés dans le même délai, par simple lettre au fondé de pouvoir de la partie adverse ou, à défaut, par lettre recommandée à la partie adverse elle-même.Art. 10.A l’ouverture d’une audience hebdomadaire à fixer par le tribunal siégeant en assemblée générale, la première chambre, pour les affaires civiles, et la deuxième chambre, pour les affaires commerciales, après l’appel des affaires fixées à cette audience dans l’ordre de leur placement au rôle général, font successivement, dans le même ordre, l’appel des affaires reproduites et, ensuite, l’appel des affaires nouvellement portées devant le tribunal.Les affaires reproduites ou nouvelles qui sont instruites sont soit fixées pour plaidoiries aux autres audiences de ces deux chambres, soit renvoyées devant une autre chambre qui, à son tour, à une audience hebdomadaire à fixer par le tribunal en assemblée générale, fait l’appel des affaires ainsi renvoyées et les fixe définitivement pour plaidoiries. Le tribunal peut décider en assemblée générale que pour certaines catégories d’affaires l’appel prévu à l’alinéa premier du présent article se fait devant une autre chambre du tribunal.A l’ouverture de chaque audience, il est procédé à l’appel des affaires fixées, dans l’ordre de leur inscription au rôle général.Sur cet appel et à la même audience ou à l’audience suivante, sont donnés les défauts-congés et les défauts au fond.Art. 11.En cas de non-comparution des parties ou de leurs mandataires à l’appel de l’affaire, celle-ci est renvoyée au rôle général.Les parties qui se présentent sont tenues de requérir jugement. Si elles refusent, l’affaire est renvoyée au rôle général. Cependant le tribunal peut accorder toutes remises dûment justifiées.Si toutes les parties sont présentes, elles sont tenues de prendre des conclusions et de plaider S’il y a des obstacles à ce que les parties se trouvent à l’audience indiquée, elles doivent sur-le-champ en faire l’observation et, si celle-ci est jugée fondée, une autre date est fixée.Art. 12. Le greffier inscrit au plumitif d’audience la teneur de chaque jugement dès qu’il est prononcé. Il fait mention en marge de celui-ci des noms des juges ayant concouru au jugement ainsi que du nom de celui ayant procédé à sa lecture et, le cas échéant, de celui du représentant du ministère public. Le magistrat qui a présidé et le greffier signent la minute du jugement ainsi que les mentions faites en marge.Art. 13.Le greffier inscrit à la colonne d’observations de la chemise la date et la nature de tous les jugements rendus dans chaque affaire, y compris les jugements de remise et de radiation.Art. 14.Les affaires jugées définitivement sont rayées du rôle.Celles dans lesquelles il a été rendu un jugement attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe conformément à l’article 163 du code de procédure civile, l’affaire est définitivement rayée du rôle. Art. 15.Les abréviations de délais sont accordées par le président de la chambre à laquelle l’affaire appartient.Art. 16.Sauf les cas d’urgence, toutes les requêtes sont présentées par la voie du greffe.Art. 17.Dans le prononcé des jugements et ordonnances, les parties ne sont désignées que par leurs noms, prénoms, états et professions.Art. 18.Deux jours ouvrables, au plus tard, avant la date fixée pour un transport sur les lieux, une comparution personnelle des parties ou une enquête, les parties déposent au greffe le dossier de la procédure et les pièces qu’elles entendent invoquer.Chapitre III. Des plaidoiriesArt. 19.Aux entrées et aux sorties du tribunal, les personnes se trouvant dans la salle d’audience se lèvent.Les parties au litige ainsi que leurs mandataires plaident debout.Art. 20.Lorsque les parties ne peuvent, pour cause de maladie ou autre motif grave, se présenter à la date fixée pour les plaidoiries, elles doivent en avertir au plus tôt le président de chambre. En ce cas, l’affaire peut être remise à une prochaine audience. Le tribunal peut alors ordonner que, pour cette nouvelle audience, le mandataire de la partie empêchée doit se faire remplacer pour la plaidoirie de l’affaire.Art. 21.De même, l’affaire peut être remise, lorsqu’au moment où elle est appelée, celui qui doit la plaider est engagé à une audience de la Cour supérieure de Justice, du Conseil d’Etat ou d’une autre chambre du tribunal d’arrondissement.Art. 22.Lorsque les juges trouvent qu’une cause est suffisamment éclaircie, le président du siège fait cesser les plaidoiries.Avant les plaidoiries, le président du siège peut indiquer aux plaideurs les moyens et réponses contenus dans leurs conclusions sur lesquels les débats oraux porteront exclusivement, sauf la faculté pour eux de remettre au tribunal, dans les trois jours qui suivent la prise en délibéré, une note au sujet des questions exclues des débats oraux, après communication préalable à l’adversaire, qui dispose également, pour y répondre par une note contradictoire, d’un délai de trois jours à partir de la communication de la note.Art. 23. Au plus tard immédiatement après les plaidoiries, les pièces du procès, formées en liasse et accompagnées d'un inventaire, sont remises au président de la chambre à moins que ces pièces n'aient été remises antérieurement au magistrat chargé de la mise en état. Art. 24.Les avocats sont invités à prendre pour autant que possible connaissance au parquet des dossiers correctionnels concernant les prévenus qu’ils doivent défendre. Toute communication de ces dossiers est interdite pendant l’audience, sauf dispense, pour motifs graves et légitimes, à accorder par l’officier du ministère public.Chapitre IV. De la communication au ministère publicArt. 25. La communication au ministère public est, sauf disposition particulière, faite à la diligence du juge. Elle doit avoir lieu en temps voulu pour ne pas retarder le jugement. Lorsqu'il y a eu communication, le ministère public est avisé de la date de l'audience. Art. 26. L’officier du ministère public peut requérir la communication des pièces dans toute autre cause, en veillant à ce que cette communication ne retarde pas le jugement de l’affaire.Le tribunal peut aussi ordonner cette communication d’office.Art. 27.L’officier du ministère public qui désire prendre des conclusions ou émettre son avis prend la parole sur-le-champ, ou à l’une des prochaines audiences qu’il indique.Art. 28.Après l’audition du ministère public, les parties ne peuvent plus obtenir la parole; elles peuvent toutefois remettre des notes dans les vingt-quatre heures.Titre III. Tribunal d’arrondissement de DiekirchChapitre Ier. Des audiencesArt. 1er.Les audiences ordinaires des chambres du tribunal d’arrondissement de Diekirch sont fixées par le ministre de la Justice conformément à l’article 142 de la loi du 7 mars 1980 sur l’organisation judiciaire.En dehors de ces audiences, le tribunal peut, en assemblée générale, fixer les audiences extraordinaires exigées par les besoins du service. Les débats ont lieu au jour et, dans la mesure où le déroulement de l'audience le permet, à l'heure préalablement fixés selon les modalités propres à chaque juridiction. Ils peuvent se poursuivre au cours d'une audience ultérieure. Art. 2.Le greffier inscrit au registre d’audience les heures d’ouverture et de levée d’audience ainsi que la durée et la cause des suspensions d’audience et y mentionne les faits de l’audience.Chapitre II. De l’inscription et de l’instruction des causesArt. 3. Il est tenu au greffe du tribunal deux répertoires généraux, dénommés aussi rôles généraux, cotés et paraphés par le président ou par le magistrat par lui délégué, sur lesquels sont inscrites, dans l'un les causes civiles, dans l'autre les causes commerciales dans l'ordre de leur présentation. Cette inscription est faite au plus tard le dernier jour ouvrable précédant l’audience, à 17 heures, sous peine d’être refusée, à l’exception des causes visées à l’article 5.1. du présent règlement.L’inscription est faite à la suite du dépôt d’une chemise portant les noms, professions, domiciles et qualités des parties, l’objet, la cause et la nature de la demande, une colonne réservée aux observations, ainsi que, le cas échéant, les noms des mandataires des parties. Le greffier y porte le numéro d’ordre de la cause et la date de l’inscription au rôle général. La chemise contient, en matière civile trois copies libres des conclusions de la partie qui requiert l’inscription et, en matière commerciale, trois copies libres de l’exploit introductif d’instance. Les affaires introduites par requête sont portées sur un registre particulier. Elles ne sont inscrites au rôle général que lorsqu’elles donnent lieu à des contestations à décider à l’audience.Les ordres sont également portés sur un registre séparé. Ils ne figurent au rôle général qu’en cas de contredit.Il est fait mention en marge du registre particulier et du rôle général du transport de l’un à l’autre. Les causes de référé ordinaire et les causes de référé-divorce sont portées sur deux registres spéciaux et y sont numérotées.Art. 4.L’inscription au rôle général détermine le rang d’après lequel les affaires présentées sont plaidées.Art. 5.Sont appelés sur simples conclusions et avenir pour être plaidées sans remise et sans tour de rôle:les causes introduites par assignation à bref délai;celles relatives à un déclinatoire de compétence ou à la recevabilité de la demande et qui ne tiennent pas au fond;celles qui sont relatives aux voies d’exécution;celles qui ont trait à des pensions alimentaires; toutes autres demandes de pareille urgence.Si, par circonstances spéciales, les juges croient devoir accorder une remise, elle est ordonnée contradictoirement à jour fixe.Aux appels des causes, celles ci-dessus énumérées sont retenues pour être jugées avant toutes autres.Celles de ces causes, qui, par le fait des parties n’ont pas pu être jugées dans le délai de trois mois, perdent leur caractère d’urgence et doivent suivre leur tour du rôle général.Art. 6.Lorsqu’il a été formé opposition à un jugement par défaut, la cause reprend le rang qu’elle occupait au rôle.Les causes dans lesquelles il a été prononcé un jugement d’instruction reprennent, après l’instruction faite, le rang qu’elles occupaient au rôle.Art. 7.Dans les causes civiles, à l’exception de celles visées à l’article 5.1 du présent règlement, les avocats-avoués déposent au greffe, quatre jours au moins avant l’audience fixée pour les plaidoiries, trois copies de leurs conclusions motivées, signées d’eux et portant la date de la signification à avoué, le numéro du rôle et les qualités des parties. En cas de réquisition d’un jugement par défaut et dans les affaires visées à l’article 5.1 du présent règlement, ce dépôt peut être fait à l’audience même entre les mains du greffier.Lorsque les avocats-avoués modifient les conclusions par eux déposées ou qu’ils prennent à la barre des conclusions nouvelles, ils sont tenus de les signifier dans les cinq jours à l’avoué adverse et d’en déposer au greffe trois copies signées et portant mention expresse de la date de la signification à l’avoué. A défaut d’accomplissement de l’une ou de l’autre de ces formalités ces conclusions sont considérées comme non avenues et il est jugé sur les pièces du dossier.Art. 8.Les assignations, sommations d’audience et avenirs sont donnés à l’heure fixée pour l’ouverture de l’audience.Art. 9.En matière civile, à l’exception des causes visées à l’article 5.1 du présent règlement, les conclusions, sommations d’audience et avenirs sont signifiés à avoué cinq jours au moins avant celui fixé pour les débats.En matière commerciale, les avenirs doivent être notifiés dans le même délai, par simple lettre au fondé de pouvoir de la partie adverse ou, à défaut, par lettre recommandée à la partie adverse elle-même.Art. 10.A l’ouverture de chaque audience, après l’appel des affaires fixées à cette audience dans l’ordre de leur placement au rôle général, est fait successivement, dans le même ordre, l’appel des affaires reproduites et, ensuite, l’appel des affaires nouvellement portées devant le tribunal.Sur cet appel et à la même audience ou à l’audience suivante, sont donnés les défauts-congés et les défauts au fond. Les affaires reproduites ou nouvelles qui sont instruites sont fixées pour plaidoiries à la première audience utile; les affaires non instruites sont reportées sur le rôle général.Art. 11.En cas de non-comparution des parties ou de leurs mandataires à l’appel de l’affaire, celle-ci est renvoyée au rôle général. Les parties qui se présentent sont tenues de requérir jugement. Si elles refusent, l’affaire est renvoyée au rôle général. Cependant le tribunal peut accorder toutes remises dûment justifiées. Si toutes les parties sont présentes, elles sont tenues de prendre des conclusions et de plaider. S’il y a des obstacles à ce que les parties se trouvent à l’audience indiquée, elles doivent sur-le-champ en faire l’observation et, si celle-ci est jugée fondée, une autre date est fixée.Art. 12.Le greffier inscrit au plumitif d’audience la teneur de chaque jugement dès qu’il est prononcé. Il fait mention en marge de celui-ci des noms des juges ayant concouru au jugement ainsi que du nom de celui ayant procédé à sa lecture et, le cas échéant, de celui du représentant du ministère public. Le magistrat qui a présidé et le greffier signent la minute du jugement ainsi que les mentions faites en marge.Art. 13.Le greffier inscrit à la colonne d’observations de la chemise la date et la nature de tous les jugements rendus dans chaque affaire, y compris les jugements de remise et de radiation.Art. 14. Les affaires jugées définitivement sont rayées du rôle.Celles dans lesquelles il a été rendu un jugement attaquable par la voie de l’opposition y sont maintenues provisoirement. Toutefois, lorsqu’il s’est écoulé plus de sept mois sans qu’il ait été fait mention d’une opposition sur le registre tenu au greffe conformément à l’article 163 du code de procédure civile, l’affaire est définitivement rayée du rôle.Art. 15.Les abréviations de délais sont accordées par le président ou le juge par lui délégué.Art. 16.Sauf les cas d’urgence, toutes les requêtes sont présentées par la voie du greffe.Art. 17.Dans le prononcé des jugements et ordonnances, les parties ne sont désignées que par leurs noms, prénoms, états et professions.Art. 18.Deux jours ouvrables, au plus tard, avant la date fixée pour un transport sur les lieux, une comparution personnelle des parties ou une enquête, les parties déposent au greffe le dossier de la procédure et les pièces qu’elles entendent invoquer.Chapitre III. Des plaidoiriesArt. 19.Aux entrées et aux sorties du tribunal, les personnes se trouvant dans la salle d’audience se lèvent.Les parties au litige ainsi que leurs mandataires plaident debout.Art. 20.Lorsque les parties ne peuvent, pour cause de maladie ou autre motif, se présenter à la date fixée pour les plaidoiries, elles doivent en avertir au plus tôt le président.En ce cas, l’affaire peut être remise à une prochaine audience. Le tribunal peut alors ordonner que, pour cette nouvelle audience, la partie empêchée doit se faire remplacer pour la plaidoirie de l’affaire.Art. 21.De même l’affaire peut être remise lorsqu’au moment où elle est appelée celui qui doit la plaider est engagé à une autre audience ayant rang de préférence.Art. 22.Lorsque les juges trouvent qu’une cause est suffisamment éclaircie, le président du siège fait cesser les plaidoiries.Avant les plaidoiries, le président du siège peut indiquer aux plaideurs les moyens et réponses contenus dans leurs conclusions sur lesquels les débats oraux porteront exclusivement, sauf la faculté pour eux de remettre au tribunal, dans les trois jours qui suivent la prise en délibéré, une note au sujet des questions exclues des débats oraux, après communication préalable à l’adversaire, qui dispose également, pour y répondre par une note contradictoire, d’un délai de trois jours à partir de la communication de la note.Art. 23. Au plus tard immédiatement après les plaidoiries, les pièces du procès, formées en liasse et accompagnées d'un inventaire, sont remises au président de la chambre à moins que ces pièces n'aient été remises antérieurement au magistrat chargé de la mise en état. Art. 24.Les avocats sont invités à prendre pour autant que possible connaissance au parquet des dossiers correctionnels concernant les prévenus qu’ils doivent défendre. Toute communication de ces dossiers est interdite pendant l’audience, sauf dispense, pour motifs graves et légitimes, à accorder par l’officier du ministère public.Chapitre IV. De la communication au ministère publicArt. 25. La communication au ministère public est, sauf disposition particulière, faite à la diligence du juge. Elle doit avoir lieu en temps voulu pour ne pas retarder le jugement. Lorsqu'il y a eu communication, le ministère public est avisé de la date de l'audience. Art. 26. L’officier du ministère public peut requérir la communication des pièces dans toute autre cause, en veillant à ce que cette communication ne retarde pas le jugement de l’affaire. Le tribunal peut aussi ordonner cette communication d’office.Art. 27.L’officier du ministère public qui désire prendre des conclusions ou émettre son avis prend la parole sur-le-champ, ou à l’une des prochaines audiences qu’il indique.Art. 28.Après l’audition du ministère public les parties ne peuvent plus obtenir la parole; elles peuvent toutefois remettre des notes dans les vingt-quatre heures.Titre IV. Justices de paix de Luxembourg, Esch-sur-Alzette et DiekirchChapitre Ier. Des audiencesArt. 1er. Les audiences ordinaires de la justice de paix sont fixées par le ministre de la Justice conformément à l’article 142 de la loi du 7 mars 1980 sur l’organisation judiciaire. En dehors de ces audiences, chaque juge fixe les audiences extraordinaires exigées par les besoins du service.Art. 2.Le greffier inscrit au registre d’audience les heures d’ouverture et de levée de l’audience, ainsi que la durée et la cause des suspensions d’audience et y mentionne les faits de l’audience.Chapitre II. De l’inscription et de l’instruction des causesArt. 3. Il est tenu au greffe de la justice de paix un répertoire général dénommé aussi rôle général, coté et paraphé par le juge de paix directeur ou le magistrat par lui délégué, sur lequel sont inscrites toutes les causes dans l'ordre de leur présentation. L’inscription au rôle général est faite au plus tard avant midi du dernier jour ouvrable précédant l’audience. Elle est faite à la requête de l’huissier de justice instrumentant, des parties intéressées ou de leurs mandataires.Elle est faite à la suite du dépôt d’une chemise portant les noms, professions, domiciles et qualités des parties, l’objet, la cause et la nature de la demande, une colonne réservée aux observations, ainsi que, le cas échéant, les noms des mandataires des parties. La chemise contient l’original de l’exploit de citation. Le greffier y porte le numéro d’ordre de la cause et la date de l’inscription au rôle général. Les demandes introduites sur requête sont inscrites sur les registres particuliers prévus par les lois spéciales.Toutefois, les causes introduites par requête en matière d’ordonnance de paiement sont inscrites au rôle général par les soins du greffe au moment de la formation du contredit, prévu aux articles 54 et suivants du code de procédure civile.Art. 4.L’inscription au rôle général détermine le rang d’après lequel les causes présentées sont plaidées.Art. 5.Sont toutefois plaidées sans remise et sans tour de rôle: les affaires introduites par citation à bref délai, visées à l’article 6 du code de procédure civile; celles relatives à un déclinatoire de compétence ou à la recevabilité de la demande et qui ne tiennent pas au fond;celles qui sont introduites aux fins d’expédient;celles qui sont relatives aux voies d’exécution;celles qui ont trait aux pensions alimentaires visées à l’article 4 du titre préliminaire du code de procédure civile;les demandes en paiement d’indemnité d’occupation et en expulsion des lieux occupés sans droit visées à l’article 3 du titre préliminaire du code de procédure civile;toutes autres affaires de pareille urgence.Si, par circonstances spéciales, le juge croit devoir accorder une remise, elle est ordonnée contradictoirement à jour fixe.Aux appels des causes, celles ci-dessus énumérées sont retenues pour être jugées avant toutes autres.Celles de ces causes qui, par le fait des parties n’ont pu être jugées dans le délai de trois mois, perdent leur caractère d’urgence et doivent suivre leur tour du rôle général.Art. 6.Lorsqu’il a été formé opposition à un jugement par défaut, la cause reprend le rang qu’elle occupait au rôle.Les causes dans lesquelles il a été prononcé une mesure d’instruction sont, après l’instruction faite, plaidées dans le rang qu’elles occupaient au rôle.Art. 7. Les parties adressent aux fins de reproduction d’une affaire mise au rôle général une lettre au greffe contenant les noms des parties, le numéro du rôle et la date de la mise au rôle général. Les parties sont informées, par un bulletin du greffe, de la date d’audience à laquelle l’affaire sera reproduite.Art. 8.Les citations et convocations sont données à l’heure fixée pour l’ouverture de l’audience.Art. 9.A l’ouverture de l’audience, il est procédé à l’appel des causes, dans l’ordre de leur inscription au rôle général. Sur cet appel et à la même audience, sont donnés les défauts-congés et les défauts au fond.Art. 10. En cas de non-comparution des parties ou de leurs mandataires, à l’appel de la cause, celle-ci est rayée d’office du rôle. Les parties ou leurs mandataires qui se présentent peuvent soit requérir jugement, soit demander la radiation de la cause du rôle, soit demander la remise de la cause à une audience ultérieure, sous réserve de régulariser dans ce cas la procédure pour ladite audience. La cause rayée du rôle général ne peut y être rétablie que par la comparution volontaire des parties à l’audience après information préalable du greffe ou par une citation nouvelle. Si les parties ou leurs mandataires sont présents, ils sont tenus de plaider, sauf leur droit de demander la remise de la cause dûment justifiée.Art. 11.Le greffier porte sur le registre d’audience les minutes de chaque jugement dès qu’il est rendu; il fait mention en marge du nom du juge et du représentant du ministère public s’il y a lieu.Art. 12.Les causes jugées définitivement sont rayées du rôle. Celles dans lesquelles il a été rendu un jugement attaquable par la voie de l’opposition y sont maintenues provisoirement.Art. 13.Les abréviations de délais sont accordées par le juge de paix directeur ou le juge par lui délégué.Art. 14.Sauf le cas d’urgence, toutes les requêtes sont présentées par la voie du greffe.Art. 15.Dans le prononcé des jugements et ordonnances, les parties ne sont désignées que par leurs noms, prénoms, états et professions.Art. 16.Deux jours ouvrables, au plus tard, avant la date fixée pour un transport sur les lieux, une comparution personnelle des parties ou une enquête, les parties déposent au greffe le dossier de la procédure et les pièces qu’elles entendent invoquer.Chapitre III. Des plaidoiriesArt. 17.Les parties au litige ainsi que leurs mandataires plaident debout; il leur est interdit de s’introduire dans l’enceinte réservée devant le juge, sauf la permission de celui-ci.Art. 18. Lorsqu’une partie ou son mandataire ne peut, pour cause de maladie ou autre motif grave, se présenter à la date fixée pour les plaidoiries, il doit en avertir au plus tôt le juge saisi de l’affaire. En ce cas, la cause peut être remise à une prochaine audience. Le juge peut alors ordonner que, pour cette nouvelle audience, la partie ou le mandataire empêché, doit se faire remplacerArt. 19. Lorsque le juge trouve qu’une cause est suffisamment éclaircie, il fait cesser les plaidoiries.Après les plaidoiries, le juge peut inviter les parties à déposer dans les quarante-huit heures de la prise en délibéré une note écrite, préalablement communiquée à la partie adverse, sur les points ayant fait l’objet des débats oraux.Lorsqu’une partie dépose une note de plaidoiries, la partie adverse dispose d’un délai de quarante-huit heures à partir de la communication de la note pour y répondre.Le libellé des offres de preuve et serments faits à l’audience fait l’objet d’une réduction écrite.Art. 20.Immédiatement après les paidoiries, les pièces du procès, formées en liasse, cotées et accompagnées d’un inventaire, sont remises au juge.Chapitre IV. De la communication de la décision aux partiesArt. 21.Le greffier envoie d’office aux parties non assistées par un mandataire de justice une copie libre de la décision intervenue.
 
-<a id="art_N14ECF"></a>
+<a id="art_N170E1"></a>
 
 ### Art. II.
 
 L’arrêté grand-ducal modifié du 4 mars 1885 approuvant les règlements d’ordre intérieur pour la cour et pour les tribunaux d’arrondissement est abrogé.
 
-<a id="art_N14F08"></a>
+<a id="art_N1711A"></a>
 
 ### Art. III.
 
@@ -2021,37 +3132,37 @@ Notre ministre de la Justice est chargé de l’exécution du présent règlemen
 
 #### TITRE PREMIER. — Des Arbitres.
 
-<a id="art_N14F58"></a>
+<a id="art_N1716A"></a>
 
 ### ARTICLE PREMIER.
 
 L'ARBITRAGE étant le moyen le plus raisonnable de terminer les contestations entre les citoyens, les législatures ne pourront faire aucunes dispositions qui tendroient à diminuer, soit la faveur, soit l'efficacité des compromis.
 
-<a id="art_N14F68"></a>
+<a id="art_N1717A"></a>
 
 ### II.
 
 TOUTES personnes ayant le libre exercice de leurs droits & de leurs actions, pourront nommer un ou plusieurs arbitres, pour prononcer sur leurs intérêts privés, dans tous les cas & en toutes matières sans exception.
 
-<a id="art_N14F78"></a>
+<a id="art_N1718A"></a>
 
 ### III.
 
 LES compromis qui ne fixeront aucun délai dans lequel les arbitres devront prononcer, & ceux dont le délai sera expiré, seront néanmoins valables & auront leur exécution, jusqu'à ce qu'une des parties ait fait signifier aux arbitres qu'elle ne veut plus tenir à l'arbitrage.
 
-<a id="art_N14F88"></a>
+<a id="art_N1719A"></a>
 
 ### IV.
 
 IL ne sera point permis d'appeler des sentences arbitraires, à moins que les parties ne se soient expressément réservé, par le compromis, la faculté de l'appel.
 
-<a id="art_N14F98"></a>
+<a id="art_N171AA"></a>
 
 ### V.
 
 LES parties qui conviendront de se réserver l'appel seront tenues de convenir également par le compromis, d'un tribunal, entre tous ceux du royaume, auquel l'appel sera déféré, faute de quoi l'appel ne sera pas reçu.
 
-<a id="art_N14FA8"></a>
+<a id="art_N171BA"></a>
 
 ### VI.
 
@@ -2059,127 +3170,127 @@ LES sentences arbitrales dont il n'y aura pas d'appel seront rendues exécutoire
 
 #### TITRE II. — Des Juges en général.
 
-<a id="art_N14FC2"></a>
+<a id="art_N171D4"></a>
 
 ### ARTICLE PREMIER.
 
 LA justice sera rendue au nom du roi.
 
-<a id="art_N14FD2"></a>
+<a id="art_N171E4"></a>
 
 ### II.
 
 LA vénalité des offices de judicature est abolie pour toujours; les juges rendront gratuitement la justice, & seront salariés par l'état.
 
-<a id="art_N14FE2"></a>
+<a id="art_N171F4"></a>
 
 ### III.
 
 LES juges seront élus par les justiciables.
 
-<a id="art_N14FF2"></a>
+<a id="art_N17204"></a>
 
 ### IV.
 
 ILS seront élus pour six années; à l'expiration de ce terme, il sera procédé à une élection nouvelle, dans laquelle les mêmes juges pourront être réélus.
 
-<a id="art_N15002"></a>
+<a id="art_N17214"></a>
 
 ### V.
 
 IL sera nommé aussi des suppléans, qui, selon l'ordre de leur nomination, remplaceront, jusqu'à l'époque de la prochaine élection, les juges dont les places viendront à vaquer dans le cours des six années. Une partie sera prise dans la ville même du tribunal, pour servir d'assesseurs en cas d'empêchement momentané de quelques-uns des juges.
 
-<a id="art_N15012"></a>
+<a id="art_N17224"></a>
 
 ### VI.
 
 LES juges élus & les suppléans, lorsqu'ils devront entrer en activité après la mort ou la démission des juges, recevront du roi des lettres patentes scellées du sceau de l'état, lesquelles ne pourront être refusées, & seront expédiées sans retard & sans frais, sur la seule présentation du procès-verbal d'élection.
 
-<a id="art_N15022"></a>
+<a id="art_N17234"></a>
 
 ### VII.
 
 LES lettres patentes seront conçues dans les termes suivans: «Louis, &c. Les électeurs du district de ............... nous ayant fait représenter le procès-verbal de l'élection qu'ils ont faite, conformément aux décrets constitutionnels, de la personne du sieur .............. pour remplir pendant six années un office de juge du district de .................. nous avons déclaré & déclarons que ledit sieur ................. est juge du district de qu'honneur doit lui être porté en cette qualité, & que la force publique sera employée, en cas de nécessité, pour l'exécution des jugemens auxquels il concourra, après avoir prêté le serment requis, & avoir été duement installé».
 
-<a id="art_N15039"></a>
+<a id="art_N1724B"></a>
 
 ### VIII.
 
 LES officiers chargés des fonctions du ministère public seront nommés à vie par le roi, & ne pourront, ainsi que les juges, être destitués que pour forfaiture duement jugée par juges compétens.
 
-<a id="art_N15049"></a>
+<a id="art_N1725B"></a>
 
 ### IX.
 
 NUL ne pourra être élu juge ou suppléant, ou chargé des fonctions du ministère public, s'il n'est âgé de trente ans accomplis, & s'il n'a été pendant cinq ans juge ou homme de loi, exerçant publiquement auprès d'un tribunal.
 
-<a id="art_N15059"></a>
+<a id="art_N1726B"></a>
 
 ### X.
 
 LES tribunaux ne pourront prendre directement ou indirectement aucune part à l'exercice du pouvoir législatif, ni empêcher ou suspendre l'exécution des décrets du corps législatif, sanctionnés par le roi, à peine de forfaiture.
 
-<a id="art_N15069"></a>
+<a id="art_N1727B"></a>
 
 ### XI.
 
 ILS seront tenus de faire transcrire purement & simplement dans un registre particulier, & de publier dans la huitaine les loix qui leur feront envoyées.
 
-<a id="art_N15079"></a>
+<a id="art_N1728B"></a>
 
 ### XII.
 
 ILS ne pourront point faire de règlemens, mais ils s'adresseront au corps législatif toutes les fois qu'ils croiront nécessaire, soit d'interpréter une loi, soit d'en faire une nouvelle.
 
-<a id="art_N15089"></a>
+<a id="art_N1729B"></a>
 
 ### XIII.
 
 LES fonctions judiciaires sont distinctes & demeureront toujours séparées des fonctions administratives. Les juges ne pourront, à peine de forfaiture, troubler, de quelque manière que ce soit, les opérations des corps administratifs, ni citer devant eux les administrateurs pour raison de leurs fonctions.
 
-<a id="art_N15099"></a>
+<a id="art_N172AB"></a>
 
 ### XIV.
 
 EN toute matière civile ou criminelle, les plaidoyers, rapports & jugemens seront publics; & tout citoyen aura e droit de défendre lui-même sa cause, soit verbalement, soit par écrit.
 
-<a id="art_N150A9"></a>
+<a id="art_N172BB"></a>
 
 ### XV.
 
 LA procédure par jurés aura lieu en matière criminelle; l'instruction sera faite publiquement, & aura la publicité qui sera déterminée.
 
-<a id="art_N150B9"></a>
+<a id="art_N172CB"></a>
 
 ### XVI.
 
 TOUT privilège en matière de juridiction est aboli; tous les citoyens, sans distinction, plaideront en la même forme & devant les mêmes juges, dans les mêmes cas.
 
-<a id="art_N150C9"></a>
+<a id="art_N172DB"></a>
 
 ### XVII.
 
 L'ORDRE constitutionnel des juridictions ne pourra être troublé, ni les justiciables distraits de leurs juges naturels, par aucunes commissions, ni par d'autres attributions ou évocations que celles qui seront déterminées par la loi.
 
-<a id="art_N150D9"></a>
+<a id="art_N172EB"></a>
 
 ### XVIII.
 
 TOUS les citoyens étant égaux devant la loi, & toute préférence pour le rang & le tour d'être jugé étant une injustice, toutes les affaires, suivant leur nature, seront jugées lorsqu'elles seront instruites, dans l'ordre selon lequel le jugement en aura été requis par les parties.
 
-<a id="art_N150E9"></a>
+<a id="art_N172FB"></a>
 
 ### XIX.
 
 LES loix civiles seront revues & réformées par les législatures; & il sera fait un code général de loix simples, claires, & appropriées à la constitution.
 
-<a id="art_N150F9"></a>
+<a id="art_N1730B"></a>
 
 ### XX.
 
 LE code de la procédure civile sera incessamment réformé, de manière qu'elle soit rendue plus simple, plus expéditive & moins coûteuse.
 
-<a id="art_N15109"></a>
+<a id="art_N1731B"></a>
 
 ### XXI.
 
@@ -2187,61 +3298,61 @@ LE code pénal sera incessamment réformé, de manière que les peines soient pr
 
 #### TITRE III. — Des Juges de paix.
 
-<a id="art_N15123"></a>
+<a id="art_N17335"></a>
 
 ### ARTICLE PREMIER.
 
 IL y aura dans chaque canton un juge de paix, & des prudhommes-assesseurs du juge de paix.
 
-<a id="art_N15133"></a>
+<a id="art_N17345"></a>
 
 ### II.
 
 S'IL y a dans le canton une ou plusieurs villes ou bourgs dont la population excède deux mille ames, ces villes ou bourgs auront un juge de paix & des prudhommes particuliers. Les villes & bourgs qui contiendront plus de huit mille ames auront le nombre de juges de paix qui sera déterminé par le corps législatif, d'après les renseignemens qui seront donnés par les administrations du département.
 
-<a id="art_N15143"></a>
+<a id="art_N17355"></a>
 
 ### III.
 
 LE juge de paix ne pourra être choisi que parmi les citoyens éligibles aux administrations de département & de district, & âgés de trente ans accomplis, sans autre condition d'éligibilité.
 
-<a id="art_N15153"></a>
+<a id="art_N17365"></a>
 
 ### IV.
 
 LE juge de paix sera élu au scrutin individuel, & à la pluralité absolue des suffrages, par les citoyens actifs réunis en assemblées primaires. S'il y a plusieurs assemblées primaires dans le canton, le recensement de leurs scrutins particuliers sera fait en commun, par des commissaires de chaque assemblée. Il en sera de même, dans les villes & bourgs au-dessus de huit mille ames, à l'égard des sections qui concourront à la nomination du même juge de paix.
 
-<a id="art_N15163"></a>
+<a id="art_N17375"></a>
 
 ### V.
 
 UNE expédition de l'acte de nomination du juge de paix sera envoyée & déposée au greffe du tribunal de district. L'acte de nomination & celui du dépôt au greffe tiendront lieu de lettres patentes au juge de paix.
 
-<a id="art_N15173"></a>
+<a id="art_N17385"></a>
 
 ### VI.
 
 LES mêmes électeurs nommeront parmi les citoyens actifs de chaque municipalité, au scrutin de liste, & à la pluralité relative, quatre notables destinés à faire les fonctions d'assesseurs du juge de paix. Ce juge appellera ceux qui seront nommés dans la municipalité du lieu où il aura besoin de leur assistance.
 
-<a id="art_N15183"></a>
+<a id="art_N17395"></a>
 
 ### VII.
 
 DANS les villes & bourgs dont la population excédera huit mille ames, les prudhommes-assesseurs seront nommés en commun par les sections qui concourront à l'élection d'un juge de paix. Elles recenseront à cet effet leurs scrutins particuliers, comme il est dit en l'article IV ci-dessus.
 
-<a id="art_N15193"></a>
+<a id="art_N173A5"></a>
 
 ### VIII.
 
 LE juge de paix & les prudhommes seront élus pour deux ans, & pourront être continués par réélection.
 
-<a id="art_N151A3"></a>
+<a id="art_N173B5"></a>
 
 ### IX.
 
 LE juge de paix, assisté de deux assesseurs, connoîtra avec eux de toutes les causes purement personnelles & mobiliaires sans appel, jusqu'à la valeur de cinquante livres, & à charge d'appel jusqu'à la valeur de cent livres; en ce dernier cas, les jugemens seront exécutoires par provision, nonobstant l'appel, en donnant caution. Les législatures pourront élever le taux de cette compétence.
 
-<a id="art_N151B3"></a>
+<a id="art_N173C5"></a>
 
 ### X.
 
@@ -2254,13 +3365,13 @@ IL connoîtra de même sans appel jusqu'a la valeur de cinquante livres; & à ch
 5. Du payement des salaires des gens de travail, des gages des domestiques, & de l'exécution des engagemens respectifs des maîtres & de leurs domestiques ou gens de travail;
 6. Des actions pour injures verbales, rixes & voies de fait, pour lesquelles les parties ne se seront point pourvues par la voie criminelle.
 
-<a id="art_N151E0"></a>
+<a id="art_N173F2"></a>
 
 ### XI.
 
 LORSQU'IL y aura lieu à l'apposition des scellés, elle sera faite par le juge de paix, qui procédera aussi à leur reconnoissance & levée, mais sans qu'il puisse connoître des contestations qui pourront s'élever à l'occasion de cette reconnoissance. Il recevra les délibérations de famille pour la nomination des tuteurs, des curateurs aux absens & aux enfans à naître, & pour l'émancipation & la curatelle des mineurs, & toutes celles auxquelles la personne, l'état ou les affaires des mineurs & des absens pourront donner lieu, pendant la durée de la tutelle ou curatelle; à charge de renvoyer devant les juges de district la connoissance de tout ce qui deviendra contentieux dans le cours ou par suite des délibérations ci-dessus. Il pourra recevoir, dans tous les cas, le serment des tuteurs & des curateurs.
 
-<a id="art_N151F0"></a>
+<a id="art_N17402"></a>
 
 ### XII.
 
@@ -2270,43 +3381,43 @@ Si le juge de paix vient à décéder dans le cours des deux années de son exer
 
 #### TITRE IV. — Des Juges de première instance.
 
-<a id="art_N1520D"></a>
+<a id="art_N1741F"></a>
 
 ### ARTICLE PREMIER.
 
 IL sera établi en chaque district un tribunal composé de cinq juges, auprès duquel il y aura un officier chargé des fonctions du ministère public. Les suppléans y seront au nombre de quatre, dont deux au moins seront pris dans la ville de l'établissement, ou tenus de l'habiter.
 
-<a id="art_N1521D"></a>
+<a id="art_N1742F"></a>
 
 ### II.
 
 DANS les districts où il se trouvera une ville dont la population excédera cinquante mille ames, le nombre des juges pourra être porté à six, lorsque le corps législatif aura reconnu la nécessité de cette augmentation, d'après les instructions des administrations de département. Ces six juges se diviseront en deux chambres, qui jugeront concurremment, tant les causes de première instance, que les appels des jugemens des juges de paix.
 
-<a id="art_N1522D"></a>
+<a id="art_N1743F"></a>
 
 ### III.
 
 CELUI des juges qui aura été élu le premier présidera; & dans les tribunaux qui se trouveroient divisés en deux chambres, le juge qui auroit été élu le second présideroit à la seconde chambre.
 
-<a id="art_N1523D"></a>
+<a id="art_N1744F"></a>
 
 ### IV.
 
 LES juges de district connoîtront en première instance de toutes les affaires personnelles, réelles & mixtes en toutes matières, excepté seulement celles qui ont été déclarées cidessus être de la compétence des juges de paix, les affaires de commerce, dans les districts où il y aura des tribunaux de commerce établis, & le contentieux de la police municipale.
 
-<a id="art_N1524D"></a>
+<a id="art_N1745F"></a>
 
 ### V.
 
 LES juges de district connoîtront en premier & dernier ressort de toutes affaires personnelles & mobiliaires, jusqu'à la valeur de mille livres de principal, & des affaires réelles dont l'objet principal sera de cinquante livres de revenu déterminé, soit en rente, soit par prix de bail.
 
-<a id="art_N1525D"></a>
+<a id="art_N1746F"></a>
 
 ### VI.
 
 EN toutes matières personnelles, réelles ou mixtes, à quelque somme ou valeur que l'objet de la contestation puisse monter, les parties seront tenues de déclarer au commencement de la procédure si elles consentent à être jugées sans appel, & auront encore pendant le cours de l'instruction la faculté d'en convenir, auquel cas les juges de district prononceront en premier & dernier ressort.
 
-<a id="art_N1526D"></a>
+<a id="art_N1747F"></a>
 
 ### VII.
 
@@ -2314,91 +3425,91 @@ LORSQUE le tribunal de district connoîtra, soit en première instance, à charg
 
 #### TITRE V. — Des Juges d'appel.
 
-<a id="art_N15287"></a>
+<a id="art_N17499"></a>
 
 ### ARTICLE PREMIER.
 
 LES juges de district seront juges d'appel les uns à l'égard des autres, selon les rapports qui vont être déterminés dans les articles suivans.
 
-<a id="art_N15297"></a>
+<a id="art_N174A9"></a>
 
 ### II.
 
 LORSQU'IL y aura appel d'un jugement, les parties pourront convenir d'un tribunal entre ceux de tous les districts du royaume, pour lui en déférer la connoissance, & elles en feront au greffe leur déclaration signée d'elles, ou de leurs procureurs spécialement fondés.
 
-<a id="art_N152A7"></a>
+<a id="art_N174B9"></a>
 
 ### III.
 
 SI les parties ne peuveut s'accorder pour le choix d'un tribunal, il sera déterminé selon les formes ci-dessous prescrites.
 
-<a id="art_N152B7"></a>
+<a id="art_N174C9"></a>
 
 ### IV.
 
 LE directoire de chaque district proposera un tableau des sept tribunaux les plus voisins du district, lequel sera rapporté à l'assemblée nationale, arrêté par elle, & ensuite déposé au greffe & affiché dans l'auditoire.
 
-<a id="art_N152C7"></a>
+<a id="art_N174D9"></a>
 
 ### V.
 
 L'UN des sept tribunaux au moins sera choisi hors du département.
 
-<a id="art_N152D7"></a>
+<a id="art_N174E9"></a>
 
 ### VI.
 
 LORSQU'IL n'y aura que deux parties, l'appelant pourra exclure péremptoirement, & sans qu'il puisse en donner aucun motif, trois des sept tribunaux composant le tableau.
 
-<a id="art_N152E7"></a>
+<a id="art_N174F9"></a>
 
 ### VII.
 
 IL sera libre à l'intimé de proposer une semblable exclusion de trois des tribunaux composant le tableau.
 
-<a id="art_N152F7"></a>
+<a id="art_N17509"></a>
 
 ### VIII.
 
 S'IL y a plusieurs appelans ou plusieurs intimés consorts, ou qui ayent eu en première instance les mêmes défenseurs, ils seront respectivement tenus de se réunir & de s'accorder, ainsi qu'ils aviseront, pour proposer leurs exclusions.
 
-<a id="art_N15307"></a>
+<a id="art_N17519"></a>
 
 ### IX.
 
 LORSQU'IL y aura eu en première instance trois parties ayant des intérêts opposés & défendues séparément, chacune d'elles pourra exclure seulement deux des sept tribunaux du tableau. Si le nombre des parties est au-dessus de trois jusqu'à six, chacune d'elles excluera seulement l'un des sept tribunaux. Lorsqu'il y aura plus de six parties, l'appelant s'adressera au directoire de district, qui fera au tableau un supplément d'autant de nouveaux tribunaux de district les plus voisins qu'il y aura de parties au-dessus du nombre de six.
 
-<a id="art_N15317"></a>
+<a id="art_N17529"></a>
 
 ### X.
 
 L'APPELANT proposera dans son acte d'appel l'exclusion qui lui est attribuée; & les autres parties seront tenues de proposer les leurs par acte au greffe, signé d'elles ou de leurs procureurs spécialement fondés, dans la huitaine franche après la signification qui leur aura été faite de l'appel; & à l'égard de celles dont le domicile sera à la distance de plus de vingt lieues, le délai sera augmenté d'un jour pour dix lieues.
 
-<a id="art_N15327"></a>
+<a id="art_N17539"></a>
 
 ### XI.
 
 AUCUNES exclusions ne seront reçues de la part de l'appelant après l'acte d'appel, ni de la part des autres parties après le délai prescrit dans l'article précédent.
 
-<a id="art_N15337"></a>
+<a id="art_N17549"></a>
 
 ### XII.
 
 LORSQUE les parties auront proposé leurs exclusions, si des sept tribunaux du tableau il n'en reste qu'un qui n'ait pas été exclu, la connoissance de l'appel lui sera dévolue.
 
-<a id="art_N15347"></a>
+<a id="art_N17559"></a>
 
 ### XIII.
 
 SI les parties négligent d'user de leur faculté d'exclure en tout ou en partie, ou si, eu égard au nombre des parties, les exclusions n'atteignent pas six des sept tribunaux du tableau, il sera permis à celle des parties qui ajournera la première sur l'appel de choisir celui des tribunaux non exclus qu'elle avisera; & en cas de concurrence de date, le choix fait par l'appelant sera préféré.
 
-<a id="art_N15357"></a>
+<a id="art_N17569"></a>
 
 ### XIV.
 
 NUL appel d'un jugement contradictoire ne pourra être signifié, ni avant le délai de huitaine, à dater du jour du jugement, ni après l'expiration de trois mois, à dater du jour de la signification du jugement faite à personne ou domicile: ces deux termes sont de rigueur, & leur inobservation emportera la déchéance de l'appel; en conséquence, l'exécution des jugemens qui ne sont pas exécutoires par provision demeurera suspendue pendant le délai de huitaine.
 
-<a id="art_N15367"></a>
+<a id="art_N17579"></a>
 
 ### XV.
 
@@ -2406,25 +3517,25 @@ LA rédaction des jugemens, tant sur l'appel qu'en première instance, contiendr
 
 #### TITRE VI. — De la forme des Elections.
 
-<a id="art_N15381"></a>
+<a id="art_N17593"></a>
 
 ### ARTICLE PREMIER.
 
 POUR procéder à la nomination des juges, les électeurs du district, convoqués par le procureur-syndic, se réuniront au jour & au lieu qui auront été indiqués par la convocation; & après avoir formé l'assemblée électorale dans les formes prescrites par l'article XXIV de la première section du décret du 22 décembre dernier, ils éliront les juges au scrutin individuel & à la pluralité absolue des suffrages.
 
-<a id="art_N15391"></a>
+<a id="art_N175A3"></a>
 
 ### II.
 
 CEUX des électeurs nommés par les précédentes assemblées primaires qui se trouvent membres des corps administratifs pourront participer comme électeurs à la nomination des juges.
 
-<a id="art_N153A1"></a>
+<a id="art_N175B3"></a>
 
 ### III.
 
 LORSQU'IL s'agira de renouveler les juges après le terme des six ans, les électeurs seront convoqués quatre mois avant l'expiration de la sixième année, de manière que toutes les élections puissent être faites, & les procès-verbaux présentés au roi deux mois avant la fin de cette sixième année.
 
-<a id="art_N153B1"></a>
+<a id="art_N175C3"></a>
 
 ### IV.
 
@@ -2432,37 +3543,37 @@ SI, par quelque événement que ce puisse être, le renouvellement des juges d'u
 
 #### TITRE VII. — De l'installation des Juges.
 
-<a id="art_N153CB"></a>
+<a id="art_N175DD"></a>
 
 ### ARTICLE PREMIER.
 
 LORSQUE les juges élus auront reçu les lettres patentes du roi, ils seront installés en la forme suivante.
 
-<a id="art_N153DB"></a>
+<a id="art_N175ED"></a>
 
 ### II.
 
 LES membres du conseil général de la commune du lieu où le tribunal sera établi se rendront en la salle d'audience, & y occuperont le siège.
 
-<a id="art_N153EB"></a>
+<a id="art_N175FD"></a>
 
 ### III.
 
 LES juges, introduits dans l'intérieur du parquet, prêteront à la nation & au roi, devant les membres du conseil général de la commune pour ce délégués par la constitution, & en présence de la commune assistant, le serment de maintenir de tout leur pouvoir la constitution du royaume, décrétée par l'assemblée nationale & acceptée par le roi; d'être fidèles à la nation, à la loi & au roi, & de remplir avec exactitude & impartialité les fonctions de leurs offices.
 
-<a id="art_N153FB"></a>
+<a id="art_N1760D"></a>
 
 ### IV.
 
 APRÈS ce serment prêté, les membres du conseil général de la commune, descendus dans le parquet, installeront les juges, & au nom du peuple prononceront pour lui l'engagement de porter au tribunal & à ses jugemens le respect & l'obéissance que tout citoyen doit à la loi & à ses organes.
 
-<a id="art_N1540B"></a>
+<a id="art_N1761D"></a>
 
 ### V.
 
 LES officiers du ministère public seront reçus & prêteront le serment devant les juges, avant d'être admis à l'exercice de leurs fonctions.
 
-<a id="art_N1541B"></a>
+<a id="art_N1762D"></a>
 
 ### VI.
 
@@ -2470,43 +3581,43 @@ LES juges de paix seront tenus, avant de commencer leurs fonctions, de prêter l
 
 #### TITRE VIII. — Du Ministère public.
 
-<a id="art_N15435"></a>
+<a id="art_N17647"></a>
 
 ### ARTICLE PREMIER.
 
 LES officiers du ministère public sont agens du pouvoir exécutif auprès des tribunaux. Leurs fonctions consistent à faire observer, dans les jugemens à rendre, les loix qui intéressent l'ordre général, & à faire exécuter les jugemens rendus. Ils porteront le titre de commissaires du roi.
 
-<a id="art_N15445"></a>
+<a id="art_N17657"></a>
 
 ### II.
 
 AU civil, les commissaires du roi exerceront leur ministère, non par voie d'action, mais seulement par celle de réquisition, dans les procès dont les juges auront été saisis.
 
-<a id="art_N15455"></a>
+<a id="art_N17667"></a>
 
 ### III.
 
 ILS seront entendus dans toutes les causes des pupilles, des mineurs, des interdits, des femmes mariées, & dans celles où les propriétés & les droits, soit de la nation, soit d'une commune, seront intéressés. Ils seront chargés en outre de veiller pour les absens indéfendus.
 
-<a id="art_N15465"></a>
+<a id="art_N17677"></a>
 
 ### IV.
 
 LES commissaires du roi ne seront point accusateurs publics, mais ils seront entendus sur toutes les accusations intentées & poursuivies, suivant le mode que l'assemblée nationale se réserve de déterminer. Ils requerront pendant le cours de l'instruction pour la régularité des formes, & avant le jugement, pour l'application de la loi.
 
-<a id="art_N15475"></a>
+<a id="art_N17687"></a>
 
 ### V.
 
 LES commissaires du roi, chargés de tenir la main à l'exécution des jugemens, poursuivront d'office cette exécution dans toutes les dispositions qui intéresseront l'ordre public; & en ce qui concernera les particuliers, ils pourront, sur la demande qui leur en sera faite, soit enjoindre aux huissiers de prêter leur ministère, soit ordonner les ouvertures de porte, soit requérir main-forte lorsqu'elle sera nécessaire.
 
-<a id="art_N15485"></a>
+<a id="art_N17697"></a>
 
 ### VI.
 
 LE commissaire du roi en chaque tribunal veillera au maintien de la discipline & à la régularité du service dans le tribunal, suivant le mode qui sera déterminé par l'assemblée nationale.
 
-<a id="art_N15495"></a>
+<a id="art_N176A7"></a>
 
 ### VII.
 
@@ -2514,31 +3625,31 @@ AUCUN des commissaires du roi ne pourra être membre des corps administratifs, n
 
 #### TITRE IX. — Des Greffiers,
 
-<a id="art_N154AF"></a>
+<a id="art_N176C1"></a>
 
 ### ARTICLE PREMIER.
 
 LES greffiers seront nommés au scrutin & à la majorité absolue des voix par les juges, qui leur délivreront une commission & recevront leur serment. Ils ne pourront être parens ni alliés au troisième degré des juges qui les nommeront.
 
-<a id="art_N154BF"></a>
+<a id="art_N176D1"></a>
 
 ### II.
 
 IL y aura en chaque tribunal un greffier âgé au moins de vingt-cinq ans, lequel sera tenu de présenter aux juges & de faire admettre au serment un ou plusieurs commis, également âgés au moins de vingt-cinq ans, en nombre suffisant pour le remplacer en cas d'empêchement légitime, desquels il sera responsable.
 
-<a id="art_N154CF"></a>
+<a id="art_N176E1"></a>
 
 ### III.
 
 LES greffiers seront tenus de fournir un cautionnement de douze mille livres en immeubles, qui sera reçu par les juges.
 
-<a id="art_N154DF"></a>
+<a id="art_N176F1"></a>
 
 ### IV.
 
 ILS seront nommés à vie, & ne pourront être destitués que pour cause de prévarication jugée.
 
-<a id="art_N154EF"></a>
+<a id="art_N17701"></a>
 
 ### V.
 
@@ -2546,103 +3657,103 @@ LE secrétaire-greffier, que le juge de paix pourra commettre, prêtera serment 
 
 #### TITRE X. — Des Bureaux de paix & du Tribunal de famille.
 
-<a id="art_N15509"></a>
+<a id="art_N1771B"></a>
 
 ### ARTICLE PREMIER.
 
 DANS toutes les matières qui excèderont la compétence du juge de paix, ce juge & les assesseurs formeront un bureau de paix & de conciliation.
 
-<a id="art_N15519"></a>
+<a id="art_N1772B"></a>
 
 ### II.
 
 AUCUNE action principale ne sera reçue au civil devant les juges de district, entre parties qui seront toutes domiciliées, dans le ressort du même juge de paix, soit à la ville, soit à la campagne, si le demandeur n'a pas donné en tête de son exploit copie du certificat du bureau de paix, constatant que sa partie a été inutilement appelée à ce bureau, ou qu'il a employé sans fruit sa médiation.
 
-<a id="art_N15529"></a>
+<a id="art_N1773B"></a>
 
 ### III.
 
 DANS le cas où les deux parties comparoîtront devant le bureau de paix, il dressera un procès-verbal sommaire de leurs dires, aveux ou dénégations sur les points de fait; ce procès-verbal sera signé des parties, ou, à leur requête, il sera fait mention de leur refus.
 
-<a id="art_N15539"></a>
+<a id="art_N1774B"></a>
 
 ### IV.
 
 EN chaque ville où il y aura un tribunal de district, le conseil général de la commune formera un bureau de paix composé de six membres choisis pour deux ans, parmi les citoyens recommandables par leur patriotisme & leur probité, dont deux au moins seront hommes de loi.
 
-<a id="art_N15549"></a>
+<a id="art_N1775B"></a>
 
 ### V.
 
 AUCUNE action principale ne sera reçue au civil dans le tribunal de district, entre parties domiciliées dans les ressorts de différens juges de paix, si le demandeur n'a pas donné copie du certificat du bureau de paix du district, ainsi qu'il est dit dans l'article II ci-dessus; & si les parties comparoissent, il sera de même dressé procès-verbal sommaire par le bureau, de leurs dires, aveux ou dénégations sur les points de fait, lequel procès-verbal sera également signé d'elles, ou mention sera faite de leur refus.
 
-<a id="art_N15559"></a>
+<a id="art_N1776B"></a>
 
 ### VI.
 
 LA citation faite devant le bureau de paix suffira seule pour autoriser les poursuites conservatoires, lorsque d'ailleurs elles seront légitimes elle aura aussi l'effet d'interrompre la prescription lorsqu'elle aura été suivie d'ajournement.
 
-<a id="art_N15569"></a>
+<a id="art_N1777B"></a>
 
 ### VII.
 
 L'APPEL des jugemens des tribunaux de district ne sera pas reçu, si l'appelant n'a pas signifié copie du certificat du bureau de paix du district où l'affaire a été jugée, constatant que sa partie adverse a été inutilement appelée devant ce bureau, pour être conciliée sur l'appel, ou qu'il a employé sans fruit sa médiation.
 
-<a id="art_N15579"></a>
+<a id="art_N1778B"></a>
 
 ### VIII.
 
 LE bureau de paix du district sera en même-temps bureau de jurisprudence charitable, chargé d'examiner les affaires des pauvres qui s'y présenteront, de leur donner des conseils, & de défendre ou faire défendre leurs causes.
 
-<a id="art_N15589"></a>
+<a id="art_N1779B"></a>
 
 ### IX.
 
 LE service qui sera fait par les hommes de loi dans les bureaux de paix & de jurisprudence charitable leur vaudra d'exercice public des fonctions de leur état auprès des tribunaux, & le temps en sera compté pour l'éligibilité aux places de juges.
 
-<a id="art_N15599"></a>
+<a id="art_N177AB"></a>
 
 ### X.
 
 TOUT appelant dont l'appel sera jugé mal fondé sera condamné à une amende de neuf livres pour un appel de jugement des juges de paix, & de soixante livres pour l'appel d'un jugement du tribunal de district, sans que cette amende puisse être remise ni modérée sous aucun prétexte. Elle aura également lieu contre les intimés qui n'auront pas comparu devant le bureau de paix, lorsque le jugement sera réformé, & elle sera double contre ceux qui, ayant appelé sans s'être présentés au bureau de paix & en avoir obtenu le certificat, seront par cette raison jugés non-recevables.
 
-<a id="art_N155A9"></a>
+<a id="art_N177BB"></a>
 
 ### XI.
 
 LE produit de ces amendes, versé dans la caisse de l'administration e chaque district, sera employé au service des bureaux de jurisprudence charitable.
 
-<a id="art_N155B9"></a>
+<a id="art_N177CB"></a>
 
 ### XII.
 
 S'IL s'élève quelque contestation entre mari & femme, père & fils, grand-père & petit-fils, frères & soeurs, neveux & oncles, ou entre alliés aux degrés ci-dessus, comme aussi entre les pupilles & leurs tuteurs, pour choses relatives à la tutelle, les parties seront tenues de nommer des parens, ou, à leur défaut, des amis ou voisins pour arbitres, devant lesquels, ils éclairciront leur différend, & qui, après les avoir entendues & avoir pris les connoissances nécessaires, rendront une décision motivée.
 
-<a id="art_N155C9"></a>
+<a id="art_N177DB"></a>
 
 ### XIII.
 
 CHACUNE des parties nommera deux arbitres, & si l'une s'y refuse, l'autre pourra s'adresser au juge, qui, après avoir constaté le refus, nommera des arbitres d'office pour la partie refusante. Lorsque les quatre arbitres se trouveront divisés d'opinion, ils choisiront un sur-arbitre pour lever le partage.
 
-<a id="art_N155D9"></a>
+<a id="art_N177EB"></a>
 
 ### XIV.
 
 LA partie qui se croira lésée par la décision arbitrale pourra se pourvoir par appel devant le tribunal du district, qui prononcera en dernier ressort.
 
-<a id="art_N155E9"></a>
+<a id="art_N177FB"></a>
 
 ### XV.
 
 SI un père ou une mère, ou un aïeul, ou un tuteur a des sujets de mécontentement très-graves sur la conduite d'un enfant ou d'un pupille dont il ne puisse plus réprimer les écarts, il pourra porter sa plainte au tribunal domestique de la famille assemblée, au nombre de huit parens les plus proches ou de six au moins, s'il n est pas possible d'en réunir un plus grand nombre; & à défaut de parens, il y sera suppléé par des amis ou des voisins.
 
-<a id="art_N155F9"></a>
+<a id="art_N1780B"></a>
 
 ### XVI.
 
 LE tribunal de famille, après avoir vérifié les sujets de plainte, pourra arrêter que l'enfant, s'il est âgé de moins de vingt ans accomplis, sera renfermé pendant un temps qui ne pourra excéder celui d'une année, dans les cas les plus graves.
 
-<a id="art_N15609"></a>
+<a id="art_N1781B"></a>
 
 ### XVII.
 
@@ -2650,43 +3761,43 @@ L'ARRÊTÉ de la famille ne pourra être exécuté qu'après avoir été présen
 
 #### TITRE XI. — Des Juges en matière de Police.
 
-<a id="art_N15623"></a>
+<a id="art_N17835"></a>
 
 ### ARTICLE PREMIER.
 
 LES corps municipaux veilleront & tiendront la main, dans l'étendue de chaque municipalité, à l'exécution des loix & des règlemens de police, & connoîtront du contentieux auquel cette exécution pourra donner lieu.
 
-<a id="art_N15633"></a>
+<a id="art_N17845"></a>
 
 ### II.
 
 LE procureur de la commune poursuivra d'office les contraventions aux loix & aux règlemens de police, & cependant, chaque citoyen qui en ressentira un tort ou un danger personnel pourra intenter l'action en son nom.
 
-<a id="art_N15643"></a>
+<a id="art_N17855"></a>
 
 ### III.
 
 LES objets de police confiés à la vigilance & à l'autorité des corps municipaux sont: 1°. Tout ce qui intéresse la sûreté & la commodité du passage dans les rues, quais, places & voies publiques; ce qui comprend le nétoyement, l'illumination, l'enlèvement des encombremens, la démolition ou la réparation des bâtimens menaçant ruine, l'interdiction de rien exposer aux fenêtres ou autres parties des bâtimens qui puisse nuire par sa chute, & celle de rien jeter qui puisse blesser ou endommager les passans, ou causer des exhalaisons nuisibles; 2°. Le soin de réprimer & punir les délits contre la tranquillité publique, telles que les rixes & disputes accompagnées d'ameutemens dans les rues, le tumulte excité dans les lieux d'assemblée publique, les bruits & attroupemens nocturnes qui troublent le repos des citoyens; 3°. Le maintien du bon ordre dans les endroits où il se fait de grands rassemblemens d'hommes, tels que les foires, marchés, réjouissances & cérémonies publiques, spectacles, jeux, cafés, églises & autres lieux publics; 4°. L'inspection sur la fidélité du débit des denrées qui se vendent au poids, à l'aune ou à la mesure, & sur la salubrité des comestibles exposés en vente publique; 5°. Le soin de prévenir par les précautions convenables, & celui de faire cesser par la distribution des secours nécessaires, les accidens & fléaux calamiteux, tels que les incendies, les épidémies, les épizooties, en provoquant aussi, dans ces deux derniers cas, l'autorité des administrations de département & de district; 6°. Le soin d'obvier ou de remédier aux évènemens fâcheux qui pourroient être occasionnés par les insensés ou les furieux laissés en liberté, & par la divagation des animaux malfaisans ou féroces.
 
-<a id="art_N15653"></a>
+<a id="art_N17865"></a>
 
 ### VI.
 
 LES spectacles publics ne pourront être permis & autorisés que par les officiers municipaux. Ceux des entrepreneurs & directeurs actuels qui ont obtenu des autorisations, soit des gouverneurs des anciennes provinces, soit de toute autre manière, se pourvoiront devant les officiers municipaux, qui confirmeront leur jouissance pour le temps qui en reste à courir, à charge d'une redevance envers les pauvres.
 
-<a id="art_N15663"></a>
+<a id="art_N17875"></a>
 
 ### V.
 
 LES contraventions à la police ne pourront être punies que de l'une de ces deux peines, ou de la condamnation à une amende pécuniaire, ou de l'emprisonnement par forme de correction, pour un temps qui ne pourra excéder trois jours dans les campagnes, & huit jours dans les villes, dans les cas les plus graves.
 
-<a id="art_N15673"></a>
+<a id="art_N17885"></a>
 
 ### VI.
 
 LES appels des jugemens en matière de police seront portés au tribunal du district; & ces jugemens seront exécutés par provision, nonobstant l'appel & sans y préjudicier.
 
-<a id="art_N15683"></a>
+<a id="art_N17895"></a>
 
 ### VII.
 
@@ -2694,848 +3805,119 @@ LES officiers municipaux sont spécialement chargés de dissiper les attroupemen
 
 #### TITRE XII. — Des Juges en matière de Commerce.
 
-<a id="art_N1569D"></a>
+<a id="art_N178AF"></a>
 
 ### ARTICLE PREMIER.
 
 IL sera établi un tribunal de commerce dans les villes ou l'administration de département, jugeant ces établissemens nécessaires, en formera la demande.
 
-<a id="art_N156AD"></a>
+<a id="art_N178BF"></a>
 
 ### II.
 
 CE tribunal connoîtra de toutes les affaires de commerce tant de terre que de mer, sans distinction.
 
-<a id="art_N156BD"></a>
+<a id="art_N178CF"></a>
 
 ### III.
 
 IL sera fait un règlement particulier, pour déterminer d'une manière précise l'étendue & les limites de la compétence des juges de commerce.
 
-<a id="art_N156CD"></a>
+<a id="art_N178DF"></a>
 
 ### IV.
 
 CES juges prononceront en dernier ressort sur toutes les demandes dont l'objet n'excédera pas la valeur de mille livres: tous leurs jugemens seront exécutoires par provision nonobstant l'appel, en donnant caution, à quelque somme ou valeur que les condamnations puissent monter.
 
-<a id="art_N156DD"></a>
+<a id="art_N178EF"></a>
 
 ### V.
 
 LA contrainte par corps continuera d'avoir lieu pour l'exécution de tous leurs jugemens. S'il survient des contestations sur la validité des emprisonnemens, elles seront portées devant eux, & les jugemens qu'ils rendront sur cet objet seront de même exécutés par provision nonobstant l'appel.
 
-<a id="art_N156ED"></a>
+<a id="art_N178FF"></a>
 
 ### VI.
 
 CHAQUE tribunal de commerce sera composé de cinq juges; ils ne pourront rendre aucun jugement, s'ils ne sont au nombre de trois au moins.
 
-<a id="art_N156FD"></a>
+<a id="art_N1790F"></a>
 
 ### VII.
 
 LES juges de commerce seront élus dans l'assemblée des négocians, banquiers, marchands, manufacturiers, armateurs & capitaines de navire de la ville où le tribunal sera établi.
 
-<a id="art_N1570D"></a>
+<a id="art_N1791F"></a>
 
 ### VIII.
 
 CETTE assemblée sera convoquée huit jours en avant par affiches & à cri public, par les juges-consuls en exercice dans les lieux où ils sont actuellement établis, & pour la première fois par les officiers municipaux, dans les lieux où il sera fait un établissement nouveau.
 
-<a id="art_N1571D"></a>
+<a id="art_N1792F"></a>
 
 ### IX.
 
 NUL ne pourra être élu juge d'un tribunal de commerce, s'il n'a résidé & fait le commerce au moins depuis cinq ans dans la ville où le tribunal sera établi, & s'il n'a trente ans accomplis. Il faudra être âgé de trente-cinq ans, & avoir fait le commerce depuis dix ans pour être président.
 
-<a id="art_N1572D"></a>
+<a id="art_N1793F"></a>
 
 ### X.
 
 L'ÉLECTION sera faite au scrutin individuel, & à la pluralité absolue des suffrages; & lorsqu'il s'agira d'élire le président, l'objet spécial de cette élection sera annoncé avant d'aller au scrutin.
 
-<a id="art_N1573D"></a>
+<a id="art_N1794F"></a>
 
 ### XI.
 
 LES juges du tribunal de commerce seront deux ans en exercice: le président sera renouvelé par une élection particulière tous les deux ans; les autres juges le seront tous les ans par moitié. La première fois les deux juges qui auront eu le moins de voix sortiront de fonctions à l'expiration de la première année; les autres sortiront ensuite à tour d'ancienneté.
 
-<a id="art_N1574D"></a>
+<a id="art_N1795F"></a>
 
 ### XII.
 
 LES juges de commerce établis dans une des villes d'un district connoîtront des affaires de commerce dans toute l'étendue du district.
 
-<a id="art_N1575D"></a>
+<a id="art_N1796F"></a>
 
 ### XIII.
 
 DANS les districts où il n'y aura pas de juges de commerce, les juges du district connoîtront de toutes les matières de commerce, & les jugeront dans la même forme que les juges de commerce. Leurs jugemens seront de même sans appel jusqu'à la somme de mille livres, exécutoires nonobstant l'appel, au-dessus de mille livres en donnant caution, & produisant dans tous les cas la contrainte par corps.
 
-<a id="art_N1576D"></a>
+<a id="art_N1797F"></a>
 
 ### XIV.
 
 DANS les affaires qui seront portées aux tribunaux de commerce, les parties auront la faculté de consentir à être jugées sans appel, auquel cas les juges de commerce prononceront en premier & dernier ressort.
 
-<a id="art_N1577D"></a>
+<a id="art_N1798F"></a>
 
 ### Du même jour 16 Août 1790.
 
 L'ASSEMBLÉE nationale a décrété :
 
-<a id="art_N15790"></a>
+<a id="art_N179A2"></a>
 
 ### ARTICLE PREMIER.
 
 LES articles décrétés jusqu'à-présent sur l'organisation judiciaire seront présentés à l'acceptation & sanction du roi, & il sera supplié d'en faire incessamment l'envoi aux corps administratifs, aux municipalités & aux tribunaux.
 
-<a id="art_N157A0"></a>
+<a id="art_N179B2"></a>
 
 ### II.
 
 AUSSI-TÔT que les directoires de département les auront reçus, ils les feront publier, & les enverront sans retard aux directoires de district.
 
-<a id="art_N157B0"></a>
+<a id="art_N179C2"></a>
 
 ### III.
 
 EN chaque district, le procureur-syndic convoquera les électeurs dans la huitaine de la réception des décrets, & indiquera le jour pour l'élection, de manière qu'il y ait au moins huit jours francs entre le jour de la convocation & celui de l'assemblée des électeurs.
 
-<a id="art_N157C0"></a>
+<a id="art_N179D2"></a>
 
 ### IV.
 
 L'ASSEMBLÉE nationale se réserve de distinguer dans les articles ci-dessus les dispositions qui sont constitutionnelles de celles qui ne sont que réglementaires. NOUS avons accepté & sanctionné, & par ces présentes, signées de notre main, acceptons & sanctionnons lesdits décrets.
-
-## CONSEIL NATIONAL DE LA JUSTICE
-
-### Version consolidée applicable au 01/07/2023 : Loi du 23 janvier 2023 portant organisation du Conseil national de la justice et modification de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
-
-#### Chapitre 1er. — De la composition
-
-<a id="art_N1580C"></a>
-
-### Art. 1er.
-
-Le Conseil national de la justice, dénommé ci-après « Conseil », est composé de neuf membres effectifs, c’est-à-dire :
-
-1. 1. un magistrat de la Cour supérieure de justice ;
-2. un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
-3. un magistrat du Parquet général ;
-4. un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
-5. un magistrat de la Cour administrative ;
-6. un magistrat du Tribunal administratif ;
-2. 1. un avocat, à désigner dans les conditions déterminées par l’article 4 ;
-2. deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
-
-<a id="art_N1586E"></a>
-
-### Art. 2.
-
-Le Conseil se complète par neuf membres suppléants, c’est-à-dire :
-
-1. 1. un magistrat de la Cour supérieure de justice ;
-2. un magistrat des tribunaux d’arrondissement, des justices de paix et du pool de complément des magistrats du siège ;
-3. un magistrat du Parquet général ;
-4. un magistrat des parquets, du pool de complément des magistrats du parquet et de la Cellule de renseignement financier ;
-5. un magistrat de la Cour administrative ;
-6. un magistrat du Tribunal administratif ;
-2. 1. un avocat, à désigner dans les conditions déterminées par l’article 4 ;
-2. deux personnalités qualifiées en raison de leur formation et de leur expérience professionnelle, à désigner par la Chambre des députés à la majorité des deux tiers des suffrages de ses membres.
-
-<a id="art_N158CD"></a>
-
-### Art. 3.
-
-**(1)** Il y a six collèges électoraux, c’est-à-dire :
-
-1. er
-2. er
-3. er
-4. er
-5. er
-6. er
-
-**(2)** Les élections sont organisées par les chefs de corps.
-
-Les chefs de corps communiquent le procès-verbal des élections au Conseil.
-
-Lorsque le chef de corps présente une candidature en vue d’être membre du Conseil, il charge un autre magistrat de l’organisation de l’élection.
-
-**(3)** Les collèges électoraux ne peuvent prendre de décision que si la moitié au moins des électeurs se trouve réunie.
-
-Chaque électeur a une voix.
-
-Le scrutin est secret.
-
-Le vote par procuration n’est pas admis.
-
-**(4)** Les candidats sont classés dans l’ordre du nombre de voix obtenues.
-
-Est élu membre effectif le candidat qui est classé premier.
-
-Est élu membre suppléant le candidat qui est classé second.
-
-En cas d’égalité des voix, le candidat élu est déterminé par voie de tirage au sort. Le chef de corps procède au tirage au sort.
-
-<a id="art_N159A7"></a>
-
-### Art. 4.
-
-**(1)** Pour pouvoir siéger au Conseil, l’avocat doit soit exercer la fonction de bâtonnier ou de bâtonnier sortant de l’Ordre des avocats du Barreau de Luxembourg ou de l’Ordre des avocats du Barreau de Diekirch, soit avoir exercé une de ces fonctions.
-
-**(2)** La désignation est faite par les conseils réunis de l’Ordre des avocats du Barreau de Luxembourg et de l’Ordre des avocats du Barreau de Diekirch, à la majorité des membres présents et votants.
-
-**(3)** En cas de cessation de la fonction de bâtonnier ou de bâtonnier sortant après la désignation, l’avocat continue d’exercer le mandat de membre du Conseil.
-
-<a id="art_N15A00"></a>
-
-### Art. 5.
-
-Pour pouvoir siéger au Conseil, il faut :
-
-1. être de nationalité luxembourgeoise ;
-2. jouir des droits civils et politiques ;
-3. présenter toutes les garanties d’honorabilité.
-
-<a id="art_N15A40"></a>
-
-### Art. 6.
-
-**(1)** La Chambre des députés apprécie l’honorabilité des candidats aux postes vacants au sein du Conseil sur base d’un avis à émettre par le procureur général d’État.
-
-**(2)** Le procureur général d’État fait état dans son avis des :
-
-1. inscriptions au bulletin N° 2 du casier judiciaire ;
-2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
-3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
-
-**(3)** Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
-
-Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
-
-**(4)** Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
-
-1. loi modifiée du 19 juin 2013
-2. la qualification juridique des faits reprochés.
-
-**(5)** L’avis du procureur général d’État est détruit endéans les six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
-
-<a id="art_N15AE5"></a>
-
-### Art. 7.
-
-Ne peuvent être membres du Conseil :
-
-1. les membres de la Chambre des députés, du Gouvernement et du Conseil d’État ;
-2. les bourgmestres, échevins et conseillers communaux ;
-3. les membres du Parlement européen, de la Commission européenne et de la Cour des comptes de l’Union européenne ;
-4. 1. les juges de la Cour de justice de l’Union européenne, du Tribunal de l’Union européenne, de la Cour européenne des droits de l’homme et de la Cour pénale internationale ;
-2. les membres du collège du Parquet européen et les procureurs européens délégués ;
-3. les membres du Tribunal disciplinaire des magistrats et de la Cour disciplinaire des magistrats.
-
-<a id="art_N15B36"></a>
-
-### Art. 8.
-
-Les membres du Conseil ne peuvent avoir entre eux un lien de parenté ou d’alliance jusqu’au quatrième degré inclusivement, un partenariat légal ou un ménage de fait.
-
-Lorsqu’une telle incompatibilité est constatée, le membre admis à siéger est celui avec la plus grande ancienneté de service au Conseil. En cas d’ancienneté égale, le membre admis à siéger est déterminé par voie de tirage au sort. Le secrétaire général du Conseil procède au tirage au sort.
-
-<a id="art_N15B71"></a>
-
-### Art. 9.
-
-**(1)** La durée du mandat des membres du Conseil est de quatre ans.
-
-**(2)** Le mandat est renouvelable une seule fois pour une durée de quatre ans.
-
-**(3)** Le renouvellement du mandat se fait suivant les conditions du premier mandat.
-
-**(4)** En cas de fin prématurée d’un mandat, le nouveau membre achève le mandat de l’ancien membre.
-
-<a id="art_N15BDA"></a>
-
-### Art. 10.
-
-**(1)** Il est mis fin de plein droit au mandat de membre du Conseil dans les cas suivants :
-
-1. la cessation de la fonction ou de la qualité en vertu de laquelle le membre siège au Conseil ;
-2. la démission présentée par le membre ;
-3. la survenance d’une incompatibilité au sens de l’article 7 en cours de mandat ;
-4. la condamnation à une peine privative de liberté avec ou sans sursis, du chef d’une infraction intentionnelle.
-
-**(2)** En cas d’ouverture d’une instruction judiciaire contre un membre du Conseil, son mandat de membre du Conseil est suspendu de plein droit.
-
-<a id="art_N15C34"></a>
-
-### Art. 11.
-
-**(1)** Le Conseil comprend un président et deux vice-présidents.
-
-Parmi le président et les vice-présidents, il y a deux magistrats et un non-magistrat.
-
-Le Conseil élit le président et les vice-présidents.
-
-**(2)** Seuls les membres effectifs ont la qualité d’électeur.
-
-Chaque électeur a une voix par poste vacant.
-
-Le scrutin est secret.
-
-Le vote par procuration n’est pas admis.
-
-En cas d’égalité des voix, le candidat ayant le plus d’ancienneté de service en tant que membre du Conseil est élu. En cas d’ancienneté égale, le candidat élu est déterminé par voie de tirage au sort. Le secrétaire général du Conseil procède au tirage au sort.
-
-<a id="art_N15CB3"></a>
-
-### Art. 12.
-
-**(1)** La durée des mandats de président et de vice-président est de deux ans.
-
-**(2)** Les mandats sont renouvelables une seule fois pour une durée de deux ans.
-
-**(3)** En cas de fin prématurée d’un mandat, le Conseil organise une nouvelle élection.
-
-<a id="art_N15D0C"></a>
-
-### Art. 13.
-
-**(1)** Le bureau du Conseil se compose du président et des deux vice-présidents.
-
-**(2)** Le secrétaire général du Conseil participe aux réunions du bureau avec voix consultative.
-
-<a id="art_N15D55"></a>
-
-### Art. 14.
-
-Le Grand-Duc nomme le président, les vice-présidents et les autres membres du Conseil qui sont élus et désignés dans les conditions déterminées par le présent chapitre.
-
-<a id="art_N15D87"></a>
-
-### Art. 15.
-
-Avant d’entrer en fonctions, le président, les vice-présidents et les autres membres du Conseil prêtent, entre les mains du Grand-Duc ou de son délégué, le serment suivant :
-
-« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité ».
-
-#### Chapitre 2. — Des compétences
-
-##### Section 1re. — De la mission générale
-
-<a id="art_N15DDB"></a>
-
-### Art. 16.
-
-**(1)** Le Conseil veille au bon fonctionnement de la justice dans le respect de son indépendance.
-
-**(2)** Le Conseil ne peut ni intervenir directement ou indirectement dans une procédure juridictionnelle, ni remettre en cause le bien-fondé d’une décision de justice.
-
-##### Section 2. — Des attributions à l’égard des magistrats
-
-<a id="art_N15E30"></a>
-
-### Art. 17.
-
-À l’égard des magistrats, le Conseil exerce, dans les conditions déterminées par la loi, ses attributions en matière de recrutement, de formation, de nominations, de déontologie, de discipline, d’absences, de congés, de service à temps partiel, de détachement et de mise à la retraite.
-
-##### Section 3. — De la saisine directe par les citoyens
-
-<a id="art_N15E6E"></a>
-
-### Art. 18.
-
-**(1)** Toute personne peut adresser au Conseil une doléance relative au fonctionnement de la justice.
-
-**(2)** Sous peine d’irrecevabilité, la doléance contient :
-
-1. l’identité, l’adresse et la signature de son auteur ;
-2. l’indication sommaire des faits et griefs allégués.
-
-**(3)** Sont irrecevables les doléances :
-
-1. portant sur le contenu d’une décision de justice ;
-2. dont l’objet peut ou pouvait être atteint par l’exercice des voies de recours ordinaires ou extraordinaires ;
-3. déjà traitées et ne contenant aucun élément nouveau.
-
-<a id="art_N15EE0"></a>
-
-### Art. 19.
-
-**(1)** Lorsque le justiciable estime qu’à l’occasion d’une procédure juridictionnelle le concernant le comportement adopté par un magistrat dans l’exercice de ses fonctions est susceptible de recevoir une qualification disciplinaire, il peut adresser une plainte disciplinaire au Conseil.
-
-**(2)** La plainte disciplinaire indique sous peine d’irrecevabilité :
-
-1. l’identité, l’adresse et la signature de son auteur ;
-2. les éléments permettant d’identifier la procédure en cause ;
-3. de manière sommaire les faits et griefs allégués.
-
-**(3)** Sous peine d’irrecevabilité, la plainte disciplinaire :
-
-1. ne peut être dirigée contre un magistrat du ministère public lorsque le parquet auquel il appartient demeure chargé de la procédure ;
-2. ne peut être dirigée contre un magistrat du siège qui demeure saisi de la procédure ;
-3. ne peut être présentée après l’expiration d’un délai d’une année suivant une décision irrévocable mettant fin à la procédure.
-
-<a id="art_N15F55"></a>
-
-### Art. 20.
-
-**(1)** Le Conseil est exclusivement compétent pour recevoir et traiter les doléances relatives au fonctionnement de la justice et les plaintes disciplinaires à l’égard des magistrats.
-
-**(2)** L’Ombudsman n’a aucune compétence à l’égard du Conseil.
-
-<a id="art_N15FAA"></a>
-
-### Art. 21.
-
-Le Conseil peut :
-
-1. soit procéder au classement du dossier lorsque la doléance ou la plainte disciplinaire est irrecevable ;
-2. 1. la réalisation d’une enquête ;
-2. la présentation d’une recommandation ;
-3. l’introduction d’une procédure disciplinaire contre un magistrat ;
-4. le renvoi au chef d’administration aux fins qu’il juge utiles.
-
-<a id="art_N15FF8"></a>
-
-### Art. 22.
-
-**(1)** Le Conseil informe :
-
-1. l’auteur des suites réservées à sa doléance ou sa plainte disciplinaire ;
-2. le magistrat concerné par une doléance des suites réservées à celle-ci.
-
-L’information doit être sommairement motivée en droit et en fait.
-
-**(2)** L’auteur d’une doléance ou d’une plainte disciplinaire ne peut introduire contre l’information ni de recours juridictionnel ni de réclamation devant l’Ombudsman .
-
-Cette disposition est également applicable au magistrat concerné par une doléance.
-
-##### Section 4. — Des enquêtes
-
-<a id="art_N16076"></a>
-
-### Art. 23.
-
-**(1)** Lorsque le Conseil a connaissance de faits susceptibles de mettre en cause le bon fonctionnement de la justice, il ordonne une enquête.
-
-Il désigne, parmi ses membres, un ou plusieurs enquêteurs.
-
-**(2)** L’enquêteur peut :
-
-1. descendre sur les lieux afin de faire toutes les constatations utiles, sans toutefois procéder à une perquisition ;
-2. consulter et se faire produire, sans déplacement, pour en prendre connaissance, des dossiers et documents ; l’enquêteur peut faire des copies d’extraits de pièces sans frais ;
-3. entendre, à titre d’information et, le cas échéant, sous serment, des magistrats et agents de l’État affectés aux services de la justice ainsi que toute autre personne dont l’audition est utile à l’enquête ; la personne entendue est autorisée à faire des déclarations qui sont couvertes par le secret professionnel.
-
-**(3)** Pour chaque enquête, l’enquêteur rédige un rapport.
-
-Le rapport d’enquête est communiqué au président du Conseil.
-
-<a id="art_N160EF"></a>
-
-### Art. 24.
-
-Sur base du rapport d’enquête, le Conseil peut :
-
-1. soit procéder au classement du dossier ;
-2. 1. la présentation d’une recommandation en vue d’améliorer le fonctionnement de la justice ;
-2. l’introduction d’une procédure disciplinaire contre un magistrat ;
-3. le renvoi au chef d’administration aux fins qu’il juge utiles.
-
-##### Section 5. — Du rôle consultatif
-
-<a id="art_N16146"></a>
-
-### Art. 25.
-
-Le Conseil peut adresser aux chefs de corps et responsables de service des recommandations en vue d’améliorer le fonctionnement de la justice.
-
-<a id="art_N16178"></a>
-
-### Art. 26.
-
-Le Conseil peut présenter à la Chambre des députés et au ministre de la justice, soit de sa propre initiative, soit à la demande de ces derniers, des recommandations visant :
-
-1. l’organisation et le fonctionnement de la justice ;
-2. l’organisation et le fonctionnement du Conseil ;
-3. le statut des magistrats, attachés de justice et référendaires de justice ainsi que du personnel de justice.
-
-##### Section 6. — De la communication
-
-<a id="art_N161C4"></a>
-
-### Art. 27.
-
-Le Conseil communique dans les matières relevant de ses missions et attributions.
-
-<a id="art_N161F6"></a>
-
-### Art. 28.
-
-**(1)** Avant le 15 février de chaque année, le Conseil présente son rapport d’activités à la Chambre des députés et au ministre de la justice.
-
-**(2)** Le rapport d’activités du Conseil est rendu public.
-
-#### Chapitre 3. — Du fonctionnement
-
-##### Section 1ère. — De la manière de procéder
-
-<a id="art_N1625A"></a>
-
-### Art. 29.
-
-**(1)** Le président veille au bon fonctionnement du Conseil.
-
-Il convoque le Conseil et dirige les débats.
-
-Il assure la représentation du Conseil.
-
-Il veille au respect des règles déontologiques par les membres du Conseil.
-
-**(2)** En cas d’empêchement, le président est remplacé par les vice-présidents suivant leur ancienneté de service au niveau du Conseil.
-
-Lorsque les vice-présidents ont la même ancienneté de service au niveau du Conseil, le vice-président remplaçant le président est déterminé par voie de tirage au sort.
-
-Si les vice-présidents sont empêchés, la présidence est exercée par le membre effectif le plus ancien en service au niveau du Conseil.
-
-Dans le cas où les membres effectifs ont la même ancienneté de service au niveau du Conseil, le membre effectif remplaçant le président est déterminé par voie de tirage au sort. Le secrétaire général du Conseil procède au tirage au sort.
-
-<a id="art_N162D9"></a>
-
-### Art. 30.
-
-**(1)** Le bureau fixe l’ordre du jour des séances plénières du Conseil.
-
-Il coordonne les travaux du Conseil.
-
-Il règle les questions financières du Conseil dans les conditions déterminées par le règlement d’ordre intérieur.
-
-**(2)** Le président convoque le bureau soit de sa propre initiative, soit à la demande d’un vice-président.
-
-Après consultation des vice-présidents, le président fixe l’ordre du jour des réunions du bureau.
-
-<a id="art_N1633D"></a>
-
-### Art. 31.
-
-**(1)** Le secrétariat du Conseil assiste les membres du Conseil dans l’accomplissement de leurs tâches.
-
-Il exécute les autres tâches attribuées par la loi.
-
-**(2)** Le cadre du personnel du secrétariat comprend un secrétaire général et des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
-
-Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État selon les besoins du service et dans les limites des crédits budgétaires.
-
-**(3)** Avant d’entrer en fonctions, le secrétaire général et les fonctionnaires énumérés au paragraphe 2 prêtent, entre les mains du président du Conseil, le serment visé à l’article 15.
-
-<a id="art_N163AD"></a>
-
-### Art. 32.
-
-**(1)** Pour pouvoir être nommé à la fonction de secrétaire général du Conseil, il faut :
-
-1. remplir les conditions prescrites à l’article 5 ;
-2. être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent.
-
-**(2)** Le bureau du Conseil établit le profil recherché et fait publier un appel à candidatures.
-
-La nomination à la fonction de secrétaire général est faite par le Grand-Duc sur proposition motivée du Conseil.
-
-**(3)** Le secrétaire général dirige et surveille les travaux du secrétariat du Conseil.
-
-Il a la qualité de chef d’administration.
-
-Il établit les procès-verbaux des séances plénières du Conseil et des réunions du bureau.
-
-Il atteste l’authenticité des délibérations du Conseil et surveille leur exécution.
-
-**(4)** En cas d’empêchement du secrétaire général, ses fonctions sont assurées par le fonctionnaire le plus élevé en rang de la carrière supérieure du secrétariat du Conseil.
-
-<a id="art_N16445"></a>
-
-### Art. 33.
-
-**(1)** Le président convoque le Conseil en séance plénière soit de sa propre initiative, soit à la demande d’un vice-président ou de deux membres effectifs au moins.
-
-**(2)** Sauf dans les cas d’urgence, les convocations sont faites au plus tard huit jours avant les séances plénières du Conseil.
-
-**(3)** Les convocations indiquent l’ordre du jour des séances plénières, qui est déterminé par le bureau du Conseil.
-
-**(4)** Le secrétaire général participe aux séances plénières avec voix consultative.
-
-<a id="art_N164AE"></a>
-
-### Art. 34.
-
-**(1)** Le Conseil ne peut délibérer qu’en présence d’au moins cinq membres.
-
-Les délibérations du Conseil sont arrêtées à la majorité des voix.
-
-En cas d’égalité des voix, celle du membre qui préside le Conseil est déterminante.
-
-**(2)** Le procès-verbal indique :
-
-1. le nombre et le nom des membres qui ont participé au vote ;
-2. le nombre de membres qui ont voté pour l’acte ;
-3. le nombre de membres qui ont voté contre l’acte.
-
-<a id="art_N16517"></a>
-
-### Art. 35.
-
-Le Conseil peut entendre toute personne susceptible de l’éclairer.
-
-<a id="art_N16549"></a>
-
-### Art. 36.
-
-Les membres du Conseil ne peuvent siéger dans aucune affaire dans laquelle soit eux-mêmes, soit leurs parents ou leurs alliés jusqu’au quatrième degré inclus, leur partenaire légal ou les personnes avec lesquelles ils forment un ménage de fait, ont un intérêt personnel.
-
-<a id="art_N1657B"></a>
-
-### Art. 37.
-
-Les membres du Conseil et de son secrétariat ainsi que toutes les autres personnes qui concourent à ses travaux sont tenus au secret professionnel dans les conditions et en application des peines prévues par l’article 458 du Code pénal.
-
-<a id="art_N165B2"></a>
-
-### Art. 38.
-
-Le Conseil arrête son règlement d’ordre intérieur et les règles déontologiques de ses membres, qui sont déclarés obligatoires par règlement grand-ducal.
-
-##### Section 2. — Du budget et de l’indemnisation
-
-<a id="art_N165F0"></a>
-
-### Art. 39.
-
-**(1)** Les propositions budgétaires du Conseil sont élaborées par le bureau et soumises aux délibérations en séance plénière.
-
-**(2)** Les règles internes pour l’exécution du budget du Conseil sont déterminées par le règlement d’ordre intérieur.
-
-<a id="art_N16639"></a>
-
-### Art. 40.
-
-Le budget des recettes et des dépenses de l’État arrête annuellement la dotation au profit du Conseil au vu de l’état prévisionnel établi par ce dernier.
-
-<a id="art_N1666B"></a>
-
-### Art. 41.
-
-**(1)** L’examen de la comptabilité des fonds est confié à la commission des comptes, instituée au sein du Conseil.
-
-La commission des comptes est assistée par un réviseur d’entreprises, à désigner annuellement par le Conseil.
-
-Sur le rapport de la commission des comptes, le Conseil se prononce sur l’apurement des comptes.
-
-Le président et les vice-présidents ne peuvent participer aux délibérations relatives à la désignation du réviseur d’entreprises et à l’apurement des comptes.
-
-Les modalités d’opérer de la commission des comptes et la désignation du réviseur d’entreprises sont déterminées par le règlement d’ordre intérieur du Conseil.
-
-**(2)** La commission des comptes est composée de trois membres du Conseil.
-
-Le président et les vice-présidents du Conseil ne peuvent ni être membres de la commission des comptes, ni participer à l’élection des membres de cette commission.
-
-Le Conseil élit les membres de la commission des comptes.
-
-Les membres de la commission des comptes élisent le président de celle-ci.
-
-<a id="art_N166F3"></a>
-
-### Art. 42.
-
-**(1)** Il est accordé une indemnité de :
-
-1. cent soixante points indiciaires par mois au président du Conseil ;
-2. cent trente points indiciaires par mois aux vice-présidents du Conseil ;
-3. cent points indiciaires par mois aux autres membres effectifs du Conseil.
-
-**(2)** Les membres suppléants touchent un jeton de présence de vingt points indiciaires par séance plénière à laquelle ils participent.
-
-**(3)** Les indemnités visées au présent article sont non pensionnables.
-
-##### Section 3. — De la discipline
-
-<a id="art_N16766"></a>
-
-### Art. 43.
-
-Est qualifié faute disciplinaire tout acte commis dans l’exercice ou hors de l’exercice des fonctions, par lequel le membre du Conseil méconnaît les obligations de confidentialité, d’impartialité, d’exactitude et d’intégrité, telles que mises en oeuvre dans les règles déontologiques pour les membres du Conseil.
-
-<a id="art_N16798"></a>
-
-### Art. 44.
-
-Selon la gravité de la faute, les sanctions suivantes peuvent être prononcées :
-
-1. l’avertissement ;
-2. la réprimande ;
-3. l’exclusion temporaire des fonctions, avec privation de l’indemnité pour une période de six mois au maximum ;
-4. la révocation, qui emporte la perte du titre.
-
-<a id="art_N167DB"></a>
-
-### Art. 45.
-
-**(1)** Il est institué un comité de déontologie, composé de trois membres effectifs et de trois membres suppléants.
-
-**(2)** Les membres du comité de déontologie sont désignés pour un terme de trois ans, renouvelable, par le Conseil en raison de leur expérience et de leur autorité morale en matière de déontologie professionnelle.
-
-**(3)** Les fonctions de membre du comité de déontologie sont incompatibles avec celles de membre du Conseil et de son secrétariat.
-
-**(4)** Les membres du comité de déontologie ont droit au jeton de présence visé à l’article 42, paragraphe 2.
-
-<a id="art_N16844"></a>
-
-### Art. 46.
-
-Lorsque le bureau est saisi ou a connaissance de faits susceptibles de recevoir la qualification de faute disciplinaire au sens de l’article 43, il saisit le comité de déontologie.
-
-<a id="art_N16876"></a>
-
-### Art. 47.
-
-**(1)** Le comité de déontologie examine les circonstances de la faute alléguée.
-
-Il entend les auteurs de la saisine, des tiers et le membre visé par la procédure.
-
-**(2)** Le comité de déontologie établit un rapport dans lequel il présente les résultats de l’enquête, donne une évaluation sur les faits et formule des recommandations.
-
-Il communique son rapport au Conseil.
-
-<a id="art_N168D1"></a>
-
-### Art. 48.
-
-**(1)** L’avertissement, la réprimande et l’exclusion temporaire des fonctions sont prononcés par le Conseil.
-
-La révocation d’un membre est proposée au Grand-Duc par le Conseil.
-
-**(2)** Le membre concerné ne peut pas participer à la délibération du Conseil.
-
-Le Conseil est valablement composé même si suite à l’exclusion temporaire ou la révocation d’un membre, le nombre requis de membres n’est plus atteint.
-
-<a id="art_N1692C"></a>
-
-### Art. 49.
-
-Les sanctions disciplinaires sont susceptibles d’un recours en réformation devant le Tribunal administratif.
-
-<a id="art_N1695E"></a>
-
-### Art. 50.
-
-Si le président du Conseil est visé par la procédure disciplinaire, la présidence est exercée dans les conditions prévues à l’article 29, paragraphe 2.
-
-#### Chapitre 4. — Dispositions modificatives
-
-<a id="art_N1699D"></a>
-
-### Art. 51.
-
-La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
-
-1. er 1. *Les fonctions de secrétaire général du Conseil d’État, de secrétaire général du Conseil économique et social ainsi que de secrétaire général du Conseil national de la justice sont classées au grade 17.*
-2. er 1. *Pour les fonctionnaires énumérés ci-après, la valeur des différents échelons de leurs grades respectifs est augmentée de 25 points indiciaires :* *« directeurs généraux, directeurs généraux adjoints, directeurs, premier conseiller de légation, présidents, ministres plénipotentiaires, administrateurs généraux, commissaires, commissaire du Gouvernement adjoint chargé de l’instruction disciplinaire, colonel-chef d’état-major, inspecteur général adjoint de la sécurité dans la Fonction publique, inspecteur général de la sécurité dans la Fonction publique, Haut-Commissaire à la Protection nationale, lieutenant-colonel/chef d’état-major adjoint, lieutenant-colonel/commandant du centre militaire, vice-présidents, directeurs adjoints, inspecteur général de la Police, inspecteur général adjoint de la police, directeurs centraux de la police, médecins directeurs, représentant permanent auprès de l’Union européenne, secrétaire du Grand-Duc, secrétaire général du Conseil d’État, secrétaire général du Conseil économique et social, secrétaire général du Conseil national de la justice, secrétaire général du département des affaires étrangères, Ombudsman fir Kanner a Jugendlecher. Bénéficient de la même mesure le médecin dirigeant chargé de la direction de la division de la santé au travail du secteur public et le médecin dirigeant de la division de la médecine de contrôle du secteur public, ainsi que les fonctionnaires classés aux grades M5, M6, M7 et S1. » *
-
-#### Chapitre 5. — Dispositions transitoires
-
-<a id="art_N16A1B"></a>
-
-### Art. 52.
-
-**(1)** Avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, les membres du Conseil :
-
-1. 1. er
-2. les collèges électoraux des magistrats procèdent à l’élection de six membres effectifs et de six membres suppléants dans les conditions prescrites à l’article 3 ;
-3. les conseils réunis de l’Ordre des avocats du Barreau de Luxembourg et de l’Ordre des avocats du Barreau de Diekirch désignent un membre effectif et un membre suppléant dans les conditions prescrites à l’article 4 ;
-2. sont nommés et assermentés dans les conditions prescrites aux articles 14 et 15.
-
-**(2)** Le mandat de membre du Conseil prend effet le premier jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution.
-
-<a id="art_N16A94"></a>
-
-### Art. 53.
-
-**(1)** Avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, le président et les vice-présidents du Conseil :
-
-1. sont élus dans les conditions déterminées par l’article 11 ;
-2. sont nommés et assermentés dans les conditions déterminées par les articles 14 et 15.
-
-**(2)** Les mandats de président et de vice-président du Conseil prennent effet le premier jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution.
-
-<a id="art_N16AFC"></a>
-
-### Art. 54.
-
-**(1)** Il est institué un comité chargé d’entamer, avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, le processus de recrutement :
-
-1. du secrétaire général du Conseil dans les conditions déterminées par le paragraphe 2 ;
-2. des autres agents du secrétariat du Conseil.
-
-Ce comité est composé des membres nommés en application de l’article 52.
-
-**(2)** Par dérogation aux dispositions de l’article 32, le comité est chargé :
-
-1. de déterminer le profil de la fonction de secrétaire général du Conseil ;
-2. de faire publier l’appel à candidatures ;
-3. d’organiser des entretiens individuels avec les candidats ;
-4. de sélectionner les candidats en tenant compte de leur adéquation au profil recherché ;
-5. de proposer la nomination d’un candidat au Grand-Duc.
-
-**(3)** Si la nomination a lieu avant l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, elle prend effet le premier jour de celle-ci.
-
-**(4)** À partir du jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, les missions visées au paragraphe 2 sont assumées par le Conseil.
-
-#### Chapitre 6. — Dispositions finales
-
-<a id="art_N16BB7"></a>
-
-### Art. 55.
-
-La référence à la présente loi se fait sous la forme suivante : « loi du 23 janvier 2023 portant organisation du Conseil national de la justice ».
-
-<a id="art_N16BEE"></a>
-
-### Art. 56.
-
-La présente loi entre en vigueur le premier jour du mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg, à l’exception du chapitre 2, qui entre en vigueur le jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution.
-
-### Modification du Règlement de la Chambre des Députés du 8 mars 2023 relative à l’Ombudsman et au Conseil national de la justice.
-
-<a id="art_N16C40"></a>
-
-### Article I.
-
-Au Titre V « Procédures et dispositions particulières », la dénomination médiateur est remplacée par la dénomination Ombudsman.
-
-<a id="art_N16C56"></a>
-
-### Article II.
-
-À l’article 133, alinéa 1er, les termes des députés présents sont remplacés par les termes qualifiée prévue à l’article 71 alinéa 3 de la Constitution.
-
-<a id="art_N16C74"></a>
-
-### Article III.
-
-À l’article 133, alinéa 4, la dernière phrase est modifiée pour avoir la teneur suivante : Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 131 et suivants est recommencée autant de fois que nécessaire.
-
-<a id="art_N16C8A"></a>
-
-### Article IV.
-
-Il est introduit dans le Titre V « Procédures et dispositions particulières « un nouveau Chapitre 2*bis* intitulé De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice et dont la teneur est la suivante :**« Chapitre 2*bis*****De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice***Information***Art. 127*bis***.Lorsque le Président est informé de la première nomination, du renouvellement ou d’une vacance de membre effectif ou de membre suppléant du Conseil national de la justice pour laquelle la Chambre est appelée à désigner un candidat, il en informe les députés lors de la première séance publique. Il communique également la date fixée par lui pour laquelle les candidatures sont à déposer à la Chambre. Ce délai doit être de trois semaines au moins sans pouvoir dépasser trois mois. Il indique également les qualifications et les conditions à remplir par les candidats, prévues aux articles 5 à 7 de la loi du 23 janvier 2023 portant organisation du Conseil national de la justice. Ces informations sont encore publiées par voie d’avis officiel par l’administration parlementaire.*Dépôt et déclaration des candidatures***Art. 127*ter*.**Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 127*bis*, le cachet de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.**Art. 127*quater***.Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.*Recevabilité***Art. 127*quinquies*.**(1)Au terme du délai fixé pour le dépôt des candidatures, le Président dresse une liste des candidats qu’il communique au procureur général d’État. Dans les meilleurs délais, le procureur général d’État communique au Président son avis conformément aux dispositions de l’article 6 de la loi du 23 janvier 2023 portant organisation du Conseil national de la justice. Le Président soumet les candidatures à la Conférence des Présidents qui les examine quant à leur recevabilité sans se prononcer sur l’honorabilité des candidats.(2)La Conférence des Présidents, renforcée conformément aux dispositions de l’article 31 (2) alinéa 3 par les présidents des commissions permanentes ayant dans leurs attributions les institutions, la justice et le règlement, entend tous les candidats, dont la candidature a été jugée recevable, lors d’entretiens individuels.**Art. 127*sexies***.La liste des candidatures déclarées recevables par la Conférence des Présidents, suivant les dispositions de l’article 127*quinquies* (1), est distribuée aux députés avant la séance publique dont l’ordre du jour comporte le vote des candidats.*Procédure de vote***Art. 127*septies*.**Avant le vote et au cours d’une séance non publique telle que prévue à l’article 46, la Chambre apprécie l’honorabilité des candidats sur base de l’avis du procureur général d’État. L’avis du procureur général d’État est détruit endéans un délai de 6 mois.**Art. 127*octies*.**La liste définitive des candidats est soumise au vote en séance publique. Le scrutin est secret. Le vote par procuration n'est pas permis. Le candidat élu doit avoir atteint la majorité qualifiée des voix.**Art. 127*nonies*.**Si aucun des candidats n'a obtenu la majorité qualifiée, il est procédé à un second tour qui est celui du ballottage. Seuls les deux candidats ayant obtenu le plus de voix au premier tour participent au ballottage.En cas d'égalité de voix de plusieurs candidats, il est procédé à un tour spécial pour déterminer les deux candidats au ballottage. La majorité relative suffit.En cas d'égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire.**Art. 127*decies*. **En cas d'une seule candidature, le candidat doit obtenir la majorité qualifiée. Dans le cas contraire, la candidature est rejetée.De nouvelles candidatures doivent alors être proposées et la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire. **Art. 127*undecies*.**Il est procédé à un scrutin séparé pour chaque membre effectif et pour chaque membre suppléant du Conseil national de la justice.
-
-<a id="art_N16E08"></a>
-
-### Article V.
-
-L’article IV entre en vigueur le jour de son adoption en séance publique.
-
-Les articles I à III entrent en vigueur le 1er juillet 2023.
 
 ## JURIDICTIONS ADMINISTRATIVES
 
@@ -3543,7 +3925,7 @@ Les articles I à III entrent en vigueur le 1er juillet 2023.
 
 #### Chapitre 1er.- — De l’organisation des juridictions de l’ordre administratif
 
-<a id="art_N16E5A"></a>
+<a id="art_N17A1F"></a>
 
 ### Art. 1er.
 
@@ -3555,7 +3937,7 @@ Le siège de ces juridictions est à Luxembourg.
 
 ##### *Section 1.* — * Des recours en matière administrative dévolus en première instance au tribunal administratif*
 
-<a id="art_N16EBA"></a>
+<a id="art_N17A7F"></a>
 
 ### Art. 2.
 
@@ -3569,7 +3951,7 @@ Le recours au tribunal administratif prévu au présent article est admis même 
 
 **(4)** Lorsque le jugement ou l’arrêt annule la décision attaquée, l’affaire est renvoyée en cas d’annulation pour incompétence devant l’autorité compétente et, dans les autres cas, devant l’autorité dont la décision a été annulée, laquelle, en décidant du fond, doit se conformer audit jugement ou arrêt.
 
-<a id="art_N16F2C"></a>
+<a id="art_N17AF1"></a>
 
 ### Art. 3.
 
@@ -3577,7 +3959,7 @@ Le recours au tribunal administratif prévu au présent article est admis même 
 
 **(2)** Sauf disposition contraire de la loi, appel peut être interjeté devant la Cour administrative contre les décisions visées au paragraphe 1er.
 
-<a id="art_N16F78"></a>
+<a id="art_N17B3D"></a>
 
 ### Art. 4.
 
@@ -3591,7 +3973,7 @@ Le recours au tribunal administratif prévu au présent article est admis même 
 
 ##### *Section 2.* — * Des recours en matière administrative dévolus en première instance aux autres juridictions administratives*
 
-<a id="art_N16FFB"></a>
+<a id="art_N17BC0"></a>
 
 ### Art. 5.
 
@@ -3599,7 +3981,7 @@ Le recours au tribunal administratif prévu au présent article est admis même 
 
 **(2)** Lorsque l’arrêt annule la décision attaquée, l’affaire est renvoyée en cas d’annulation pour incompétence devant l’autorité compétente et, dans les autres cas, devant l’autorité dont la décision a été annulée, laquelle, en décidant du fond, doit se conformer audit arrêt.
 
-<a id="art_N17044"></a>
+<a id="art_N17C09"></a>
 
 ### Art. 6.
 
@@ -3607,7 +3989,7 @@ La Cour administrative statue en appel et comme juge du fond sur les recours dir
 
 ##### *Section 3.* — * Du recours en annulation contre les actes administratifs à caractère réglementaire*
 
-<a id="art_N1708D"></a>
+<a id="art_N17C52"></a>
 
 ### Art. 7.
 
@@ -3625,7 +4007,7 @@ Le recours visé ci-avant n’est ouvert dans le chef des associations que pour 
 
 ##### *Section 4.* — * Des recours en matière fiscale*
 
-<a id="art_N17122"></a>
+<a id="art_N17CE7"></a>
 
 ### Art. 8.
 
@@ -3648,7 +4030,7 @@ Le recours visé ci-avant n’est ouvert dans le chef des associations que pour 
 
 ##### *Section 5.* — * Des conflits entre le Gouvernement et la Chambre des comptes*
 
-<a id="art_N171CA"></a>
+<a id="art_N17D8F"></a>
 
 ### Art. 9.
 
@@ -3660,7 +4042,7 @@ La Chambre des comptes obtient communication des mémoires. Elle soumet ses obse
 
 ##### *Section 6.* — *Des recours en matière de sanctions administratives communales*
 
-<a id="art_N17232"></a>
+<a id="art_N17DF7"></a>
 
 ### Art. 9-1.
 
@@ -3680,7 +4062,7 @@ La Chambre des comptes obtient communication des mémoires. Elle soumet ses obse
 
 ##### *Section 1.* — * De la composition et du fonctionnement*
 
-<a id="art_N172EF"></a>
+<a id="art_N17EB4"></a>
 
 ### Art. 10.
 
@@ -3690,7 +4072,7 @@ Elle est complétée par cinq membres suppléants qui portent le titre de consei
 
 Un greffier en chef est affecté à la Cour administrative ainsi qu’un ou plusieurs greffiers selon les besoins du service. Les affectations et désaffectations sont faites par le président de la Cour administrative.
 
-<a id="art_N17390"></a>
+<a id="art_N17F55"></a>
 
 ### Art. 12.
 
@@ -3704,13 +4086,13 @@ Pour être membre de la Cour administrative, il faut:
 6. loi sur les attachés de justice
 7. loi modifiée du 7 juin 2012
 
-<a id="art_N173ED"></a>
+<a id="art_N17FB2"></a>
 
 ### Art. 13.
 
 Les membres de la Cour administrative sont inamovibles.
 
-<a id="art_N17437"></a>
+<a id="art_N17FFC"></a>
 
 ### Art. 14.
 
@@ -3724,7 +4106,7 @@ Si la Cour administrative ne peut se composer utilement, elle se complète par u
 
 Les affaires sont plaidées et jugées en audience publique.
 
-<a id="art_N1748D"></a>
+<a id="art_N18052"></a>
 
 ### Art. 15.
 
@@ -3734,7 +4116,7 @@ La Cour administrative fixe le nombre et la date des audiences nécessaires à l
 
 Néanmoins, la Cour administrative doit, en cas de besoin, tenir des audiences extraordinaires, même en dehors de la période fixée à l’alinéa premier.
 
-<a id="art_N174D1"></a>
+<a id="art_N18096"></a>
 
 ### Art. 16.
 
@@ -3742,7 +4124,7 @@ Le président de la Cour administrative est chargé de surveiller la bonne march
 
 Il veille à la prompte expédition des affaires.
 
-<a id="art_N1750C"></a>
+<a id="art_N180D1"></a>
 
 ### Art. 17.
 
@@ -3753,7 +4135,7 @@ Il veille à la prompte expédition des affaires.
 
 ***(2)*** *Les rapports d’activités sont rendus publics.*
 
-<a id="art_N1757F"></a>
+<a id="art_N18144"></a>
 
 ### Art. 18.
 
@@ -3765,31 +4147,31 @@ L’Etat se fait représenter devant la Cour administrative par un délégué ou
 
 ##### *Section 2.* — * Des incompatibilités*
 
-<a id="art_N175DA"></a>
+<a id="art_N1819F"></a>
 
 ### Art. 19.
 
 Les membres de la Cour administrative ne peuvent, directement ou indirectement, avoir des entretiens particuliers avec les parties ou leurs avocats ou défenseurs sur les contestations qui sont soumises à leur décision.
 
-<a id="art_N1760C"></a>
+<a id="art_N181D1"></a>
 
 ### Art. 20.
 
 Sans préjudice des incompatibilités prévues par des lois spéciales, les fonctions de membre de la Cour administrative sont incompatibles avec le mandat de député, avec toute fonction salariée publique ou privée, avec les fonctions de notaire, d’huissier avec l’état militaire et l’état ecclésiastique, avec la profession d’avocat, avec la fonction de magistrat de l’ordre judiciaire sauf si le magistrat exerce les fonctions de membre suppléant de la Cour administrative.
 
-<a id="art_N1763E"></a>
+<a id="art_N18203"></a>
 
 ### Art. 21.
 
 Les membres de la Cour administrative ne peuvent être bourgmestre, échevin ou conseiller communal. Ils ne peuvent remplir un mandat au sein d’un organe d’une personne juridique de droit public.
 
-<a id="art_N17670"></a>
+<a id="art_N18235"></a>
 
 ### Art. 22.
 
 La fonction de membre de la Cour administrative est incompatible avec la fonction de membre du Conseil d’Etat.
 
-<a id="art_N176A2"></a>
+<a id="art_N18267"></a>
 
 ### Art. 23.
 
@@ -3801,25 +4183,25 @@ Les membres de la Cour administrative ne peuvent siéger, décider ou prendre pa
 
 Les membres de la Cour peuvent en outre être récusés pour les causes et selon les modalités indiquées aux dispositions afférentes du code de procédure civile.
 
-<a id="art_N176EF"></a>
+<a id="art_N182B4"></a>
 
 ### Art. 24.
 
 Il est interdit, sous les peines disciplinaires, à tout membre effectif ou suppléant de la Cour administrative d’exercer, soit par lui-même, soit sous le nom de son conjoint ou par toute autre personne interposée, aucune affaire de commerce, d’être agent d’affaires, ou de participer à la direction, à l’administration ou à la surveillance de toute société ou établissement industriel ou financier.
 
-<a id="art_N17721"></a>
+<a id="art_N182E6"></a>
 
 ### Art. 25.
 
 Les parents ou alliés jusqu’au troisième degré inclusivement ne peuvent être simultanément membre effectif ou suppléant de la Cour administrative.
 
-<a id="art_N17753"></a>
+<a id="art_N18318"></a>
 
 ### Art. 26.
 
 En toute matière le membre effectif ou suppléant de la Cour administrative doit s’abstenir, sous telle peine disciplinaire que de droit, s’il est parent ou allié de l’avocat, du délégué du Gouvernement ou du mandataire de l’une des parties jusqu’au troisième degré inclusivement.
 
-<a id="art_N17785"></a>
+<a id="art_N1834A"></a>
 
 ### Art. 27.
 
@@ -3827,7 +4209,7 @@ L’avocat ou le mandataire qui ont prêté leur nom pour éluder la disposition
 
 ##### *Section 3.* — * De la réception et de la prestation du serment*
 
-<a id="art_N177CE"></a>
+<a id="art_N18393"></a>
 
 ### Art. 28.
 
@@ -3835,7 +4217,7 @@ La réception des membres de la Cour administrative se fait à l’audience publ
 
 Le président et le vice-président prêtent serment entre les mains du Grand-Duc, ou de la personne désignée par Lui; le premier conseiller et les conseillers prêtent serment entre les mains du président, ou en cas d’empêchement de celui-ci, entre les mains du vice-président de la Cour administrative.
 
-<a id="art_N17809"></a>
+<a id="art_N183CE"></a>
 
 ### Art. 29.
 
@@ -3843,7 +4225,7 @@ Avant d’entrer en fonctions, les membres effectifs et les membres suppléants 
 
 «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.»
 
-<a id="art_N17844"></a>
+<a id="art_N18409"></a>
 
 ### Art. 30.
 
@@ -3851,7 +4233,7 @@ Toute personne nommée à une fonction à la Cour administrative est tenue de pr
 
 ##### *Section 4.* — * Du rang et de la préséance*
 
-<a id="art_N1788D"></a>
+<a id="art_N18452"></a>
 
 ### Art.31.
 
@@ -3863,13 +4245,13 @@ Ne sont pas repris les magistrats figurant sur la liste de rang visée à l’ar
 
 ##### *Section 5.* — * Des empêchements et des remplacements*
 
-<a id="art_N17903"></a>
+<a id="art_N184C8"></a>
 
 ### Art. 32.
 
 Le président de la Cour administrative est, en cas d’absence, d’empêchement ou de vacance de poste, remplacé par le vice-président ou à défaut de celui-ci, par le membre le plus élevé en rang, dans l’ordre de la liste prévue par l’article 31.
 
-<a id="art_N17935"></a>
+<a id="art_N184FA"></a>
 
 ### Art. 33.
 
@@ -3879,7 +4261,7 @@ Lorsque les besoins du service l’exigent, peut être assumé en qualité de gr
 
 ##### *Section 6.* — * Des absences et des congés*
 
-<a id="art_N17987"></a>
+<a id="art_N1854C"></a>
 
 ### Art. 34.
 
@@ -3889,7 +4271,7 @@ Lorsque les besoins du service l’exigent, peut être assumé en qualité de gr
 
 ***(3)*** *Le président de la Cour administrative peut demander l’avis des magistrats auprès desquels le greffier est affecté.*
 
-<a id="art_N17AC1"></a>
+<a id="art_N18686"></a>
 
 ### Art. 37-1.
 
@@ -3899,7 +4281,7 @@ Lorsque les besoins du service l’exigent, peut être assumé en qualité de gr
 
 ***(3)*** *Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables. *
 
-<a id="art_N17B3B"></a>
+<a id="art_N18700"></a>
 
 ### Art. 37-2.
 
@@ -3909,13 +4291,13 @@ Au terme de son congé, le magistrat ainsi remplacé est réintégré dans la ma
 
 ##### *Section 9.* — * De la procédure*
 
-<a id="art_N18048"></a>
+<a id="art_N18C0D"></a>
 
 ### Art. 55.
 
 La loi détermine la procédure à suivre devant la Cour administrative. Un règlement grand-ducal pris sur avis du Conseil d’Etat fixe le taux et le mode de répartition des indemnités des membres suppléants de la Cour administrative et le tarif des frais et dépens en matière contentieuse et arrête le règlement d’ordre intérieur de la Cour administrative.
 
-<a id="art_N1807A"></a>
+<a id="art_N18C3F"></a>
 
 ### Art. 56.
 
@@ -3927,7 +4309,7 @@ Ces expéditions sont exécutoires.
 
 ##### *Section 1.* — * De la composition et du fonctionnement du tribunal administratif*
 
-<a id="art_N180D8"></a>
+<a id="art_N18C9D"></a>
 
 ### Art. 57.
 
@@ -3939,7 +4321,7 @@ Il est complété par neuf membres suppléants qui portent le titre de juge supp
 
 Les affectations et désaffectations des agents du greffe sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.
 
-<a id="art_N1819C"></a>
+<a id="art_N18D61"></a>
 
 ### Art. 59.
 
@@ -3953,13 +4335,13 @@ Pour être membre du tribunal administratif, il faut:
 6. avoir accompli un service comme attaché de justice conformément aux dispositions de la loi sur les attachés de justice;
 7. loi modifiée du 7 juin 2012
 
-<a id="art_N181F4"></a>
+<a id="art_N18DB9"></a>
 
 ### Art. 60.
 
 Les membres du tribunal administratif sont inamovibles.
 
-<a id="art_N1823E"></a>
+<a id="art_N18E03"></a>
 
 ### Art. 61.
 
@@ -3977,7 +4359,7 @@ Les décisions sont lues en audience publique par le président ou par un autre 
 
 Les affaires sont plaidées et jugées en audience publique.
 
-<a id="art_N182C0"></a>
+<a id="art_N18E85"></a>
 
 ### Art. 62.
 
@@ -3987,7 +4369,7 @@ Le tribunal administratif fixe le nombre et la date des audiences nécessaires �
 
 Néanmoins, le tribunal administratif doit, en cas de besoin, tenir des audiences extraordinaires, même en dehors de la période fixée à l’alinéa premier.
 
-<a id="art_N18304"></a>
+<a id="art_N18EC9"></a>
 
 ### Art. 63.
 
@@ -3995,7 +4377,7 @@ Le président du tribunal administratif est chargé de surveiller la bonne march
 
 Il veille à la prompte expédition des affaires.
 
-<a id="art_N1833F"></a>
+<a id="art_N18F04"></a>
 
 ### Art. 64.
 
@@ -4006,7 +4388,7 @@ Il veille à la prompte expédition des affaires.
 
 ***(2)*** *Les rapports d’activités sont rendus publics.*
 
-<a id="art_N183B2"></a>
+<a id="art_N18F77"></a>
 
 ### Art. 65.
 
@@ -4016,7 +4398,7 @@ Lorsqu’elle est informée de faits mettant en cause le bon fonctionnement du s
 
 Lorsque l’enquête fait apparaître des déficiences, la Cour administrative peut donner toutes injonctions nécessaires pour assurer le bon fonctionnement du service.
 
-<a id="art_N183F6"></a>
+<a id="art_N18FBB"></a>
 
 ### Art. 66.
 
@@ -4028,7 +4410,7 @@ L’Etat se fait représenter devant le tribunal administratif par un délégué
 
 ##### *Section 2.* — * Des incompatibilités*
 
-<a id="art_N18451"></a>
+<a id="art_N19016"></a>
 
 ### Art. 67.
 
@@ -4036,7 +4418,7 @@ Les articles 19 à 27 sont applicables par analogie aux membres du tribunal admi
 
 ##### *Section 3.* — * De la réception et de la prestation du serment*
 
-<a id="art_N1849A"></a>
+<a id="art_N1905F"></a>
 
 ### Art. 68.
 
@@ -4044,7 +4426,7 @@ La réception des membres du tribunal administratif se fait à l’audience publ
 
 Ils prêtent serment entre les mains du président, ou en cas d’empêchement de celui-ci, entre les mains du vice-président de la Cour administrative.
 
-<a id="art_N184D5"></a>
+<a id="art_N1909A"></a>
 
 ### Art. 69.
 
@@ -4052,7 +4434,7 @@ Avant d’entrer en fonctions, les membres du tribunal administratif prêtent le
 
 «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.»
 
-<a id="art_N18510"></a>
+<a id="art_N190D5"></a>
 
 ### Art. 70.
 
@@ -4060,13 +4442,13 @@ Toute personne nommée à une fonction au tribunal administratif est tenue de pr
 
 ##### *Section 5.* — * Des empêchements et des remplacements*
 
-<a id="art_N1862A"></a>
+<a id="art_N191EF"></a>
 
 ### Art. 72.
 
 Le président du tribunal administratif est, en cas d’absence, d’empêchement ou de vacance de poste, remplacé par le premier vice-président ou, à défaut de celui-ci, par le vice-président, le premier juge ou le juge le plus élevé en rang, dans l’ordre de la liste prévue par l’article 71.
 
-<a id="art_N1865C"></a>
+<a id="art_N19221"></a>
 
 ### Art. 73.
 
@@ -4076,7 +4458,7 @@ En cas d’absence, d’empêchement ou de vacance de poste, un attaché de just
 
 A défaut de membre effectif et d’attaché de justice, un membre suppléant du tribunal administratif procède au remplacement.
 
-<a id="art_N186A0"></a>
+<a id="art_N19265"></a>
 
 ### Art. 74.
 
@@ -4084,7 +4466,7 @@ Lorsque les besoins du service l’exigent, peut être assumé en qualité de gr
 
 ##### *Section 6.* — * Des absences et des congés*
 
-<a id="art_N186E9"></a>
+<a id="art_N192AE"></a>
 
 ### Art. 75.
 
@@ -4100,13 +4482,13 @@ Lorsque les besoins du service l’exigent, peut être assumé en qualité de gr
 
 *Le président de la Cour administrative peut demander l’avis du président du tribunal administratif et l’avis des magistrats auprès desquels le greffier est affecté.*
 
-<a id="art_N18856"></a>
+<a id="art_N1941B"></a>
 
 ### Art. 78-1.
 
 L’article 37-1 est applicable aux membres du tribunal administratif.
 
-<a id="art_N18888"></a>
+<a id="art_N1944D"></a>
 
 ### Art. 78-2.
 
@@ -4114,13 +4496,13 @@ L’article 37-2 est applicable aux membres du tribunal administratif.
 
 ##### *Section 9.* — * De la procédure*
 
-<a id="art_N189D6"></a>
+<a id="art_N1959B"></a>
 
 ### Art. 82.
 
 La loi détermine la procédure à suivre devant le tribunal administratif. Un règlement grand-ducal pris sur avis du Conseil d’Etat fixe le taux et le mode de répartition des indemnités des membres suppléants du tribunal administratif ainsi que le tarif des frais et dépens en matière contentieuse et arrête le règlement d’ordre intérieur du tribunal administratif.
 
-<a id="art_N18A08"></a>
+<a id="art_N195CD"></a>
 
 ### Art. 83.
 
@@ -4130,7 +4512,7 @@ Ces expéditions sont exécutoires.
 
 #### Chapitre 5.- — Du stage des magistrats et futurs magistrats étrangers
 
-<a id="art_N18A50"></a>
+<a id="art_N19615"></a>
 
 ### Art. 83-1.
 
@@ -4138,7 +4520,7 @@ Les magistrats et futurs magistrats d’Etats étrangers, régulièrement admis 
 
 Ils n’exercent aucune fonction judiciaire.
 
-<a id="art_N18A8B"></a>
+<a id="art_N19650"></a>
 
 ### Art. 83-2.
 
@@ -4146,7 +4528,7 @@ Le ministre de la Justice statue sur les demandes d’admission au stage, qui lu
 
 Le président de la Cour administrative affecte les magistrats et futurs magistrats d’Etats étrangers, admis à faire un stage, à l’une des juridictions de l’ordre administratif.
 
-<a id="art_N18AC6"></a>
+<a id="art_N1968B"></a>
 
 ### Art. 83-3.
 
@@ -4156,13 +4538,13 @@ Ils sont soumis au secret professionnel conformément à l’article 458 du code
 
 #### Chapitre 6.- — De l’exécution des arrêts et jugements en matière administrative
 
-<a id="art_N18B12"></a>
+<a id="art_N196D7"></a>
 
 ### Art. 84.
 
 Lorsqu’en cas d’annulation ou de réformation, coulée en force de chose jugée, d’une décision administrative qui n’est pas réservée par la Constitution à un organe déterminé, la juridiction ayant annulé ou réformé la décision a renvoyé l’affaire devant l’autorité compétente et que celle-ci omet de prendre une décision en se conformant au jugement ou à l’arrêt, la partie intéressée peut, à l’expiration d’un délai de trois mois à partir du prononcé de l’arrêt ou du jugement, saisir la juridiction qui a renvoyé l’affaire en vue de charger un commissaire spécial de prendre la décision aux lieu et place de l’autorité compétente et aux frais de celle-ci. La juridiction fixe au commissaire spécial un délai dans lequel il doit accomplir sa mission. La désignation du commissaire spécial dessaisit l’autorité compétente.
 
-<a id="art_N18B44"></a>
+<a id="art_N19709"></a>
 
 ### Art. 85.
 
@@ -4170,13 +4552,13 @@ Au cas où la décision devait être prise par une personne publique décentrali
 
 Dans les autres cas, le commissaire spécial est choisi parmi les membres de la juridiction.
 
-<a id="art_N18B7F"></a>
+<a id="art_N19744"></a>
 
 ### Art. 86.
 
 La décision rendue par le commissaire spécial est, selon le cas, susceptible d’un recours en annulation ou d’un recours en réformation.
 
-<a id="art_N18BB1"></a>
+<a id="art_N19776"></a>
 
 ### Art. 87.
 
@@ -4184,7 +4566,7 @@ Les commissaires spéciaux ont droit à une indemnité. Elle est fixée par la j
 
 #### Chapitre 7.- — Du personnel des juridictions de l’ordre administratif
 
-<a id="art_N18BFB"></a>
+<a id="art_N197C0"></a>
 
 ### Art. 88.
 
@@ -4194,7 +4576,7 @@ Les commissaires spéciaux ont droit à une indemnité. Elle est fixée par la j
 
 **(3)** Les affectations et désaffectations des agents des greffes et services communs sont faites dans les conditions déterminées par les articles 10 et 57.
 
-<a id="art_N18C60"></a>
+<a id="art_N19825"></a>
 
 ### Art. 89.
 
@@ -4202,7 +4584,7 @@ Les commissaires spéciaux ont droit à une indemnité. Elle est fixée par la j
 
 **(2)** Les affectations et désaffectations sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.
 
-<a id="art_N18CB3"></a>
+<a id="art_N19878"></a>
 
 ### Art. 90.
 
@@ -4210,7 +4592,7 @@ Les commissaires spéciaux ont droit à une indemnité. Elle est fixée par la j
 
 **(2)** Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.
 
-<a id="art_N18D0C"></a>
+<a id="art_N198D1"></a>
 
 ### Art. 91.
 
@@ -4225,7 +4607,7 @@ L’engagement et le licenciement des employés de l’État sont faits par le m
 
 L’engagement et le licenciement des salariés de l’État sont faits par le ministre de la justice.
 
-<a id="art_N18D71"></a>
+<a id="art_N19936"></a>
 
 ### Art. 91-1.
 
@@ -4250,7 +4632,7 @@ Le procureur général d’État fait état dans son avis des informations issue
 
 **(5)** L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
 
-<a id="art_N18E05"></a>
+<a id="art_N199CA"></a>
 
 ### Art. 92.
 
@@ -4260,7 +4642,7 @@ Avant d’entrer en fonctions, les fonctionnaires visés à l’article 90 prêt
 
 #### Chapitre 8.- — Dispositions diverses
 
-<a id="art_N18E57"></a>
+<a id="art_N19A1C"></a>
 
 ### Art. 93.
 
@@ -4277,7 +4659,7 @@ Les nouvelles fonctions créées par la présente loi sont classées comme suit:
 | le premier juge du tribunal administratif | grade M3 |
 | le juge du tribunal administratif | grade M2 |
 
-<a id="art_N18F19"></a>
+<a id="art_N19ADE"></a>
 
 ### Art. 95.
 
@@ -4285,7 +4667,7 @@ L’article 1er (2) alinéa 1er de la loi modifiée du 16 avril 1979 fixant le s
 
 #### Chapitre 9.- — Des dispositions transitoires, modificatives, budgétaires et abrogatoires et de l’entrée en vigueur
 
-<a id="art_N18F6F"></a>
+<a id="art_N19B34"></a>
 
 ### Art. 96.
 
@@ -4293,7 +4675,7 @@ L’article 1er (2) alinéa 1er de la loi modifiée du 16 avril 1979 fixant le s
 
 **(2)** Aucun appel ne peut être relevé contre une décision du Comité du contentieux régi par la loi applicable au moment de l’entrée en vigueur de la présente loi.
 
-<a id="art_N18FB8"></a>
+<a id="art_N19B7D"></a>
 
 ### Art. 97.
 
@@ -4301,31 +4683,31 @@ L’article 1er (2) alinéa 1er de la loi modifiée du 16 avril 1979 fixant le s
 
 **(2)** Les réclamations et les demandes en remise ou en modération actuellement pendantes devant le directeur de l’Administration des contributions directes peuvent être considérées après un écoulement de six mois après la mise en vigueur de la présente loi comme rejetées et recours peut être interjeté devant le tribunal administratif contre la décision frappée de réclamation ou, lorsqu’il s’agit d’une demande de remise ou en modération, contre la décision implicite de refus. Dans ce cas, le délai prévu à l’article 8, alinéa (3) 4. de la présente loi ne court pas.
 
-<a id="art_N19001"></a>
+<a id="art_N19BC6"></a>
 
 ### Art. 98.
 
 **(1)** En attendant l’entrée en vigueur des loi et règlement grand-ducal visés aux articles 55 et 82, l’arrêté royal grand-ducal du 21 août 1866 portant règlement de procédure en matière de contentieux devant le Conseil d’Etat, tel qu’il a été modifié dans la suite, reste en vigueur, sans préjudice des dispositions dérogatoires de la présente loi. De même, restent en vigueur l’arrêté royal grand-ducal modifié du 4 juillet 1883 concernant le tarif des dépens en matière contentieuse devant le Conseil d’Etat et le règlement grand-ducal du 27 octobre 1995 portant fixation des indemnités et des frais de voyage et de séjour des membres suppléants du comité du contentieux.
 
-<a id="art_N1903F"></a>
+<a id="art_N19C04"></a>
 
 ### Art. 100.
 
 **(1)** Dans tous les textes de loi et de règlement, la référence au Comité du contentieux ou au Comité du contentieux du Conseil d’Etat ou encore au Conseil d’Etat tout court, si la fonction juridictionnelle du Conseil d’Etat est visée, s’entend comme référence au tribunal administratif, tel qu’il est organisé par la présente loi. De même, dans ces textes, la référence au président du Conseil d’Etat ou du Comité du contentieux, si sa fonction juridictionnelle est visée, s’entend comme référence au président du tribunal administratif. Dans l’hypothèse visée à l’article 88-3 du Code d’instruction criminelle, les termes président du Comité du contentieux du Conseil d’Etat sont remplacés par les termes président de la Cour administrative.
 
-<a id="art_N190AA"></a>
+<a id="art_N19C6F"></a>
 
 ### Art. 101.
 
 Le mandat des membres effectifs du Comité du contentieux en fonction prend fin lors de l’entrée en vigueur de la présente loi.
 
-<a id="art_N190DC"></a>
+<a id="art_N19CA1"></a>
 
 ### Art. 102.
 
 Aucun membre effectif du Comité du contentieux en fonctions avant l’entrée en vigueur de la présente loi ne peut être appelé à siéger aux juridictions de l’ordre administratif après l’entrée en vigueur de la présente loi.
 
-<a id="art_N1910E"></a>
+<a id="art_N19CD3"></a>
 
 ### Art. 103.
 
@@ -4337,7 +4719,7 @@ Le paragraphe (9) de l’article 15 de la loi modifiée du 28 mars 1972 concerna
 
 (9)Contre les décisions visées aux paragraphes (1) et (2) un recours est ouvert devant le tribunal administratif, qui statue comme juge du fond.Ce recours doit être introduit dans le délai d’un mois à partir de la notification.Le tribunal administratif statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête.Contre la décision du tribunal administratif appel peut être interjeté devant la Cour administrative. A peine de forclusion le recours doit être introduit dans le délai de trois jours à partir de la notification de la décision du tribunal administratif.La Cour administrative statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête.Pendant le délai et l’instance d’appel il sera sursis à l’exécution des jugements ayant annulé ou réformé des décisions attaquées.
 
-<a id="art_N1919C"></a>
+<a id="art_N19D61"></a>
 
 ### Art. 104.
 
@@ -4347,13 +4729,13 @@ La loi du 3 avril 1996 portant création d’une procédure relative à l’exam
 
 2) L’article 13 est complété comme suit:Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative.Le recours doit être introduit dans le délai d’un mois à partir de la notification par les soins du greffe.Le recours a un effet suspensif.
 
-<a id="art_N19222"></a>
+<a id="art_N19DE7"></a>
 
 ### Art. 105.
 
 Il est ajouté à la loi du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la Directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics un article 10 libellé comme suit:Art. 10.Contre l’ordonnance de référé du Président du tribunal administratif appel peut être interjeté devant le Président de la Cour administrative dans un délai de quinze jours à partir de la signification.
 
-<a id="art_N19271"></a>
+<a id="art_N19E36"></a>
 
 ### Art. 109.
 
@@ -4367,7 +4749,7 @@ Il est ajouté à la loi du 13 mars 1993 relative à l’exécution en droit lux
 
 ##### **Chapitre Ier.** — ** De l’introduction et de l’instruction des instances**
 
-<a id="art_N19326"></a>
+<a id="art_N19EEB"></a>
 
 ### Art. 1er.
 
@@ -4381,7 +4763,7 @@ La requête, qui porte date, contient:
 4. l’objet de la demande, et
 5. le relevé des pièces dont le requérant entend se servir.
 
-<a id="art_N19380"></a>
+<a id="art_N19F45"></a>
 
 ### Art. 2.
 
@@ -4389,13 +4771,13 @@ La requête introductive est déposée au greffe du tribunal, en original et qua
 
 Le tribunal peut exiger le dépôt des originaux des pièces. Ce dépôt s’opère moyennant dépôt au greffe du tribunal où les pièces peuvent être consultées sans déplacement.
 
-<a id="art_N193C0"></a>
+<a id="art_N19F85"></a>
 
 ### Art. 3.
 
 Au regard des délais de procédure, seule la date du dépôt au greffe est prise en considération.
 
-<a id="art_N193F2"></a>
+<a id="art_N19FB7"></a>
 
 ### Art. 4.
 
@@ -4409,7 +4791,7 @@ Au regard des délais de procédure, seule la date du dépôt au greffe est pris
 
 **(5)** Les règles établies pour les significations en matière de procédure civile sont applicables.
 
-<a id="art_N1946B"></a>
+<a id="art_N1A030"></a>
 
 ### Art. 5.
 
@@ -4429,13 +4811,13 @@ Au regard des délais de procédure, seule la date du dépôt au greffe est pris
 
 **(8)** Dans les affaires urgentes, les délais peuvent être abrégés par ordonnance du président du tribunal. La demande en abréviation des délais est signifiée ou notifiée aux autres parties. Le président rend une ordonnance non susceptible de recours après avoir entendu les parties ou les avoir dûment appelées.
 
-<a id="art_N19517"></a>
+<a id="art_N1A0DC"></a>
 
 ### Art. 6.
 
 Si la partie défenderesse ou un tiers intéressé ne comparaît pas dans le délai prévu à l’article 5, le tribunal statue néanmoins à l’égard de toutes les parties.
 
-<a id="art_N19549"></a>
+<a id="art_N1A10E"></a>
 
 ### Art. 7.
 
@@ -4445,7 +4827,7 @@ Néanmoins, en cas de jugement avant dire droit ou de mesure d’instruction, ch
 
 Toutefois, dans l’intérêt de l’instruction de l’affaire, le président du tribunal ou le président de la chambre appelée à connaître de l’affaire peut ordonner d’office la production de mémoires supplémentaires.
 
-<a id="art_N1958D"></a>
+<a id="art_N1A152"></a>
 
 ### Art. 8.
 
@@ -4461,7 +4843,7 @@ Toutefois, dans l’intérêt de l’instruction de l’affaire, le président d
 
 **(6)** Toute pièce versée après que le juge-rapporteur a commencé son rapport en audience publique est écartée des débats, sauf si le dépôt en est ordonné par le tribunal.
 
-<a id="art_N19616"></a>
+<a id="art_N1A1DB"></a>
 
 ### Art. 9.
 
@@ -4469,7 +4851,7 @@ Par dérogation à l’article 1er , en cas d’introduction d’un recours par 
 
 Par dérogation à l’article 4, en cas d’introduction d’un recours par l’Etat, le greffier communique, selon les formalités prévues à l’article 34, à la partie défenderesse et au tiers intéressé, copie des mémoires et pièces fournis. La partie défenderesse et le tiers intéressé sont tenus de répondre dans le délai prévu à l’article 5.
 
-<a id="art_N19654"></a>
+<a id="art_N1A219"></a>
 
 ### Art. 10.
 
@@ -4479,7 +4861,7 @@ La signification est constatée par l’apposition du cachet et de la signature 
 
 La notification directe s’opère par la remise de l’acte en double exemplaire au délégué du Gouvernement ou à l’avocat destinataire, lequel restitue aussitôt l’un des exemplaires après l’avoir daté et visé.
 
-<a id="art_N19698"></a>
+<a id="art_N1A25D"></a>
 
 ### Art. 11.
 
@@ -4497,7 +4879,7 @@ La notification directe s’opère par la remise de l’acte en double exemplair
 
 **(7)** Le juge qui a connu de la demande d’effet suspensif du recours ne peut plus siéger au fond.
 
-<a id="art_N19731"></a>
+<a id="art_N1A2F6"></a>
 
 ### Art. 12.
 
@@ -4505,7 +4887,7 @@ Lorsque le tribunal est saisi d’une requête en annulation ou en réformation,
 
 La demande est instruite et jugée selon la procédure prévue à l’article 11, paragraphes 3 à 7.
 
-<a id="art_N1976C"></a>
+<a id="art_N1A331"></a>
 
 ### Art. 12bis.
 
@@ -4531,7 +4913,7 @@ Toute communication faite par le greffe par courrier électronique aux avocats e
 
 **(5)** Une requête tendant à obtenir un sursis à exécution ou une mesure de sauvegarde sur base de l’article 114 de la loi modifiée du 27 août 2008 sur la libre circulation des personnes et l’immigration, qui est déposée conformément au paragraphe 1er du présent article, ne bénéficie d’un effet suspensif immédiat que si elle a été enregistrée sur la plateforme entre 08.00 et 17.00 heures d’un jour ouvrable.
 
-<a id="art_N1982A"></a>
+<a id="art_N1A3EF"></a>
 
 ### Art. 13.
 
@@ -4545,7 +4927,7 @@ Toute communication faite par le greffe par courrier électronique aux avocats e
 
 **(5)** Néanmoins le tiers intéressé peut former incidemment recours alors même qu’il aurait acquiescé à la décision attaquée avant le recours principal.
 
-<a id="art_N198A8"></a>
+<a id="art_N1A46D"></a>
 
 ### Art. 14.
 
@@ -4553,7 +4935,7 @@ Lorsque, d’après l’examen d’une affaire, il y a lieu d’ordonner des mis
 
 Le principe du contradictoire doit en tout état de cause être respecté.
 
-<a id="art_N198E3"></a>
+<a id="art_N1A4A8"></a>
 
 ### Art. 14-1.
 
@@ -4598,19 +4980,19 @@ Dans le même délai, l’autorité qui a posé l’acte visé par le recours d�
 
 ##### **Chapitre II.** — **Des recours contre les actes administratifs à caractère réglementaire**
 
-<a id="art_N19A35"></a>
+<a id="art_N1A5FA"></a>
 
 ### Art. 15.
 
 Les recours dirigés contre les actes administratifs à caractère réglementaire sont introduits et instruits conformément aux dispositions des articles 1er à 14, sous réserve des dispositions qui suivent.
 
-<a id="art_N19A6A"></a>
+<a id="art_N1A62F"></a>
 
 ### Art. 16.
 
 Le délai d’introduction est de trois mois à partir de la publication de l’acte attaqué ou, à défaut de publication, de la notification ou du jour où le requérant en a eu connaissance.
 
-<a id="art_N19A9C"></a>
+<a id="art_N1A661"></a>
 
 ### Art. 17.
 
@@ -4618,7 +5000,7 @@ Si la décision attaquée est publiée au Mémorial, le demandeur est dispensé 
 
 En cas de recours introduit par une association sur base de l’article 7, paragraphe (2) de la loi du 7 novembre 1996, celle-ci doit déposer toutes pièces documentant ses qualités de personnalité morale et d’association agréée au voeu de l’article 7, paragraphe (2), alinéa 2 de la même loi.
 
-<a id="art_N19AE1"></a>
+<a id="art_N1A6A6"></a>
 
 ### Art. 18.
 
@@ -4628,7 +5010,7 @@ Le président du tribunal ou le magistrat qui le remplace peut ordonner l’effe
 
 ##### *De l’inscription en faux*
 
-<a id="art_N19B33"></a>
+<a id="art_N1A6F8"></a>
 
 ### Art. 19.
 
@@ -4640,7 +5022,7 @@ Si la partie déclare qu’elle entend se servir de la pièce, le tribunal statu
 
 ##### *De l’intervention*
 
-<a id="art_N19B86"></a>
+<a id="art_N1A74B"></a>
 
 ### Art. 20.
 
@@ -4652,7 +5034,7 @@ L’intervention n’est plus recevable après que le juge-rapporteur a commenc�
 
 ##### *Des reprises d’instance et constitution de nouvel avocat*
 
-<a id="art_N19BDC"></a>
+<a id="art_N1A7A1"></a>
 
 ### Art. 21.
 
@@ -4664,7 +5046,7 @@ L’intervention n’est plus recevable après que le juge-rapporteur a commenc�
 
 **(4)** La reprise d’instance et la constitution de nouvel avocat se fait en conformité avec les articles 5, paragraphe 2 et 10.
 
-<a id="art_N19C45"></a>
+<a id="art_N1A80A"></a>
 
 ### Art. 22.
 
@@ -4672,7 +5054,7 @@ L’acte de révocation d’un avocat par la partie est sans effet pour la parti
 
 ##### *Du désaveu*
 
-<a id="art_N19C85"></a>
+<a id="art_N1A84A"></a>
 
 ### Art. 23.
 
@@ -4682,7 +5064,7 @@ A l’expiration de ce délai, il est passé outre au rapport de l’affaire pri
 
 ##### *De la récusation*
 
-<a id="art_N19CCE"></a>
+<a id="art_N1A893"></a>
 
 ### Art. 24.
 
@@ -4690,7 +5072,7 @@ Sont applicables les dispositions relatives à la récusation applicables en mat
 
 ##### *Du désistement*
 
-<a id="art_N19D0E"></a>
+<a id="art_N1A8D3"></a>
 
 ### Art. 25.
 
@@ -4700,19 +5082,19 @@ Il emporte de plein droit déchéance du recours et obligation de payer les frai
 
 ##### **Chapitre IV.** — **De la tenue des audiences et des décisions du tribunal**
 
-<a id="art_N19D5C"></a>
+<a id="art_N1A921"></a>
 
 ### Art. 26.
 
 Ceux qui assistent aux audiences, se tiennent découverts, dans le respect et le silence: tout ce que le président ordonne pour le maintien de l’ordre, est exécuté ponctuellement et à l’instant.
 
-<a id="art_N19D8E"></a>
+<a id="art_N1A953"></a>
 
 ### Art. 27.
 
 Si un ou plusieurs individus interrompent le silence, donnent des signes d’approbation ou d’improbation, soit à la défense des parties, soit aux discours des juges, soit aux interpellations, avertissements ou ordre du président, soit aux jugements ou ordonnances, causent ou excitent du tumulte de quelque manière que ce soit, et si, après l’avertissement du président, ils ne rentrent pas dans l’ordre sur-le-champ, il leur est enjoint de se retirer, et les résistants seront saisis et déposés à l’instant dans la maison d’arrêt pour vingt-quatre heures: ils y seront reçus sur l’exhibition de l’ordre du président, qui sera mentionné au procès-verbal de l’audience; le tout sans préjudice des poursuites pénales devant la juridiction compétente.
 
-<a id="art_N19DC0"></a>
+<a id="art_N1A985"></a>
 
 ### Art. 28.
 
@@ -4724,37 +5106,37 @@ Si un ou plusieurs individus interrompent le silence, donnent des signes d’app
 
 **(4)** Le jugement contient les noms des juges, du délégué du Gouvernement ainsi que des mandataires, les noms, prénoms et demeures des parties, leurs prétentions, l’exposé sommaire des points de fait et de droit, les motifs et le dispositif.
 
-<a id="art_N19E29"></a>
+<a id="art_N1A9EE"></a>
 
 ### Art. 29.
 
 L’inobservation des règles de procédure n’entraîne l'irrecevabilité de la demande que si elle a pour effet de porter effectivement atteinte aux droits de la défense.
 
-<a id="art_N19E5B"></a>
+<a id="art_N1AA20"></a>
 
 ### Art. 30.
 
 Le tribunal ne peut pas statuer sur un moyen soulevé d’office sans avoir préalablement invité les parties à présenter leurs observations.
 
-<a id="art_N19E8D"></a>
+<a id="art_N1AA52"></a>
 
 ### Art. 31.
 
 Le tribunal, suivant la gravité des circonstances, peut, dans les causes dont il sera saisi, prononcer, même d’office, des injonctions, supprimer des écrits, les déclarer calomnieux et ordonner l’impression et l’affiche de ses jugements.
 
-<a id="art_N19EBF"></a>
+<a id="art_N1AA84"></a>
 
 ### Art. 32.
 
 Toute partie qui succombera sera condamnée au dépens, sauf au tribunal à laisser la totalité, ou une fraction des dépens à la charge d’une autre partie par décision spéciale et motivée.
 
-<a id="art_N19EF1"></a>
+<a id="art_N1AAB6"></a>
 
 ### Art. 33.
 
 Lorsqu’il paraît inéquitable de laisser à la charge d’une partie les sommes exposées par elle et non comprises dans les dépens, le juge peut condamner l’autre partie à lui payer le montant qu’il détermine.
 
-<a id="art_N19F23"></a>
+<a id="art_N1AAE8"></a>
 
 ### Art. 34.
 
@@ -4778,7 +5160,7 @@ Lorsqu’il paraît inéquitable de laisser à la charge d’une partie les somm
 
 **(9)** Les jugements du tribunal ne sont mis à exécution qu’après avoir été préalablement notifiés aux parties.
 
-<a id="art_N19FF8"></a>
+<a id="art_N1ABBD"></a>
 
 ### Art. 35.
 
@@ -4790,7 +5172,7 @@ La décision ordonnant l’effet suspensif n’est pas susceptible d’appel.
 
 ##### *De la tierce-opposition*
 
-<a id="art_N1A052"></a>
+<a id="art_N1AC17"></a>
 
 ### Art. 36.
 
@@ -4798,7 +5180,7 @@ Ceux qui veulent s’opposer à des décisions du tribunal et lors desquelles ni
 
 ##### *De l’appel*
 
-<a id="art_N1A095"></a>
+<a id="art_N1AC5A"></a>
 
 ### Art. 37.
 
@@ -4808,7 +5190,7 @@ L’appel contre les décisions du tribunal est instruit devant la Cour administ
 
 ##### **Chapitre I.** — **De l’appel et de l’instruction sur appel**
 
-<a id="art_N1A0EC"></a>
+<a id="art_N1ACB1"></a>
 
 ### Art. 38.
 
@@ -4818,7 +5200,7 @@ Ce délai court pour toutes les parties du jour où le jugement leur aura été 
 
 L’intimé peut interjeter appel incident.
 
-<a id="art_N1A135"></a>
+<a id="art_N1ACFA"></a>
 
 ### Art. 39.
 
@@ -4832,7 +5214,7 @@ L’intimé peut interjeter appel incident.
 
 **(5)** Les règles établies pour les significations en matière de procédure civile sont applicables.
 
-<a id="art_N1A1AE"></a>
+<a id="art_N1AD73"></a>
 
 ### Art. 40.
 
@@ -4840,7 +5222,7 @@ La signature de l’avocat ou du délégué du Gouvernement au bas de la requêt
 
 Si l’Etat relève appel par voie du délégué du Gouvernement, le mandat du membre du gouvernement dont émane la décision en cause doit figurer en annexe de la requête d’appel, à peine d’irrecevabilité.
 
-<a id="art_N1A1E9"></a>
+<a id="art_N1ADAE"></a>
 
 ### Art. 41.
 
@@ -4860,19 +5242,19 @@ Si l’Etat relève appel par voie du délégué du Gouvernement, le mandat du m
 
 **(5)** Toute pièce versée après que le magistrat-rapporteur a commencé son rapport en audience publique est écartée des débats, sauf si le dépôt en est ordonné par la Cour.
 
-<a id="art_N1A27C"></a>
+<a id="art_N1AE41"></a>
 
 ### Art. 42.
 
 Au regard des délais de procédure, seule la date du dépôt au greffe est prise en considération.
 
-<a id="art_N1A2AE"></a>
+<a id="art_N1AE73"></a>
 
 ### Art. 43.
 
 Aucune intervention volontaire n’est reçue en cas d’appel si ce n’est de la part de ceux qui ont droit de former tierce-opposition.
 
-<a id="art_N1A2E0"></a>
+<a id="art_N1AEA5"></a>
 
 ### Art. 44.
 
@@ -4882,13 +5264,13 @@ Il en est de même lorsque le jugement, qui statue sur une exception de procédu
 
 Les autres jugements ne peuvent être frappés d’appel, indépendamment des jugements sur le fond, que dans les cas spécifiés par le législateur.
 
-<a id="art_N1A324"></a>
+<a id="art_N1AEE9"></a>
 
 ### Art. 45.
 
 Sans préjudice de la disposition de l’article 35, pendant le délai et l’instance d’appel, il est sursis à l’exécution des jugements ayant annulé ou réformé des décisions attaquées.
 
-<a id="art_N1A356"></a>
+<a id="art_N1AF1B"></a>
 
 ### Art. 46.
 
@@ -4902,19 +5284,19 @@ Sans préjudice de la disposition de l’article 35, pendant le délai et l’in
 
 **(5)** Dans les affaires urgentes, les délais peuvent être abrégés par ordonnance du président de la Cour. La demande en abréviation des délais est communiquée aux autres parties. Le président rend une ordonnance non susceptible de recours après avoir entendu les parties ou les avoir dûment appelés.
 
-<a id="art_N1A3D2"></a>
+<a id="art_N1AF97"></a>
 
 ### Art. 47.
 
 Si la partie intimée ne comparaît pas, la Cour statue néanmoins à son égard.
 
-<a id="art_N1A404"></a>
+<a id="art_N1AFC9"></a>
 
 ### Art. 48.
 
 Sauf en cas d’arrêt avant dire droit ou de mesure d’instruction, il ne pourra y avoir plus de deux mémoires de la part de chaque partie, y comprise la requête d’appel. Toutefois, dans l’intérêt de l’instruction de l’affaire, le président de la Cour ou le magistrat présidant la juridiction d’appel peut ordonner d’office la production de mémoires supplémentaires.
 
-<a id="art_N1A436"></a>
+<a id="art_N1AFFB"></a>
 
 ### Art. 49.
 
@@ -4922,13 +5304,13 @@ Le dépôt et la communication des mémoires en réponse, en réplique et en dup
 
 Pour les mémoires présentés par le délégué du Gouvernement, les dispositions prévues à l’article 8, paragraphes 3 à 7 et à l’article 10 sont applicables.
 
-<a id="art_N1A471"></a>
+<a id="art_N1B036"></a>
 
 ### Art. 50.
 
 Par dérogation à l’article 39, en cas d’appel interjeté de la part de l’Etat, le greffier communique, selon les formalités prévues à l’article 34, aux parties en cause en première instance copies de la requête d’appel, des mémoires et pièces fournis. La partie intimée et le tiers intéressé sont tenus de répondre dans le délai prévu à l’article 46.
 
-<a id="art_N1A4A3"></a>
+<a id="art_N1B068"></a>
 
 ### Art. 51.
 
@@ -4938,7 +5320,7 @@ Le principe du contradictoire doit en tout état de cause être respecté.
 
 ##### **Chapitre II.** — **Des incidents en cours d’instruction des affaires**
 
-<a id="art_N1A4F0"></a>
+<a id="art_N1B0B5"></a>
 
 ### Art. 52.
 
@@ -4946,7 +5328,7 @@ Les articles 19 à 25 sont applicables aux instances devant la Cour.
 
 ##### **Chapitre III.** — **Des décisions de la Cour**
 
-<a id="art_N1A534"></a>
+<a id="art_N1B0F9"></a>
 
 ### Art. 53.
 
@@ -4958,7 +5340,7 @@ Les articles 19 à 25 sont applicables aux instances devant la Cour.
 
 **(4)** L’arrêt contient les noms des conseillers, du délégué du gouvernement ainsi que des mandataires, les noms, prénoms et demeures des parties, leurs prétentions, l’exposé sommaire des points de fait et de droit, les motifs et le dispositif.
 
-<a id="art_N1A59D"></a>
+<a id="art_N1B162"></a>
 
 ### Art. 54.
 
@@ -4966,7 +5348,7 @@ Sont applicables à la Cour, les articles 26, 27 et 29 à 34.
 
 ##### **Chapitre IV.** — **Des voies de recours contre les décisions de la Cour**
 
-<a id="art_N1A5ED"></a>
+<a id="art_N1B1B2"></a>
 
 ### Art. 55.
 
@@ -4974,25 +5356,25 @@ Les arrêts de la Cour ne sont susceptibles d’aucune voie de recours, si ce n�
 
 #### **Titre III.** — **Dispositions spécifiques en matière fiscale**
 
-<a id="art_N1A632"></a>
+<a id="art_N1B1F7"></a>
 
 ### Art. 56.
 
 En matière fiscale, les dispositions prévues aux titres I et II sont applicables, sauf les exceptions qui sont prévues aux dispositions des articles suivants.
 
-<a id="art_N1A664"></a>
+<a id="art_N1B229"></a>
 
 ### Art. 57.
 
 La requête introductive d’instance signée par le requérant ou son mandataire contient outre les indications prévues à l’article 1er une élection de domicile au Grand-Duché lorsque le requérant ou son mandataire demeurent à l’étranger.
 
-<a id="art_N1A699"></a>
+<a id="art_N1B25E"></a>
 
 ### Art. 58.
 
 Les demandes nouvelles n’ayant pas figuré dans la réclamation sont prohibées. En revanche, les moyens nouveaux sont admis.
 
-<a id="art_N1A6CB"></a>
+<a id="art_N1B290"></a>
 
 ### Art. 59.
 
@@ -5002,7 +5384,7 @@ La charge de la régularité de la procédure fiscale appartient à l’administ
 
 La preuve peut être rapportée par tous les moyens, hormis le serment.
 
-<a id="art_N1A70F"></a>
+<a id="art_N1B2D4"></a>
 
 ### Art. 60.
 
@@ -5012,13 +5394,13 @@ Toutefois, les communications concernant les entreprises ou personnes nommément
 
 #### Titre III*bis*. — Dispositions spécifiques en matière de concurrence
 
-<a id="art_N1A75D"></a>
+<a id="art_N1B322"></a>
 
 ### Art. 60-1.
 
 Lors d’un recours introduit à l’encontre d’une décision rendue par l’Autorité de concurrence du Grand-Duché de Luxembourg dans le cadre de l’exercice des pouvoirs lui attribués par les articles 22, 31, 32, 44, 45, 46, 48, 49, 50, 58 et 60 de la loi du 30 novembre 2022 relative à la concurrence, les dispositions prévues aux titres Ier et II sont applicables, sauf les exceptions qui sont prévues aux dispositions des articles suivants.
 
-<a id="art_N1A798"></a>
+<a id="art_N1B35D"></a>
 
 ### Art. 60-2.
 
@@ -5026,7 +5408,7 @@ L’Autorité de concurrence du Grand-Duché de Luxembourg n’est pas tenue de 
 
 La transmission par le greffier d’un exemplaire des pièces déposées par le demandeur prévue à l’article 5, paragraphe 4, est adressée au président de l’Autorité de concurrence.
 
-<a id="art_N1A7DC"></a>
+<a id="art_N1B3A1"></a>
 
 ### Art. 60-3.
 
@@ -5036,7 +5418,7 @@ La signification est constatée par l’apposition du cachet et de la signature 
 
 La notification directe s’opère par la remise de l’acte en double exemplaire au président de l’Autorité de concurrence, lequel restitue aussitôt l’un des exemplaires après l’avoir daté et visé.
 
-<a id="art_N1A820"></a>
+<a id="art_N1B3E5"></a>
 
 ### Art. 60-4.
 
@@ -5044,7 +5426,7 @@ Lorsque l’Autorité de concurrence interjette appel sans constituer avocat, la
 
 #### **Titre IV.** — **Dispositions modificatives, abrogatoires et additionnelles**
 
-<a id="art_N1A86C"></a>
+<a id="art_N1B431"></a>
 
 ### Art. 61.
 
@@ -5060,19 +5442,19 @@ La loi du 7 novembre 1996 portant organisation des juridictions de l’ordre adm
 8. L’article 99 est abrogé.
 9. er
 
-<a id="art_N1A8FA"></a>
+<a id="art_N1B4BF"></a>
 
 ### Art. 62.
 
 L’article 10 de la loi modifiée du 13 mars 1993 relative à l’exécution en droit luxembourgeois de la directive n° 89/665 du Conseil du 21 décembre 1989 portant coordination des dispositions législatives, réglementaires et administratives relatives à l’application des procédures de recours en matière de marchés publics est remplacé par la disposition suivante:**«Art. 10.**L’ordonnance est exécutoire dès sa notification. Elle n’est susceptible d’aucune voie de recours. Elle cesse ses effets lorsque le tribunal a définitivement statué au fond.Le juge qui a connu de la demande d’effet suspensif du recours ne peut plus siéger au fond.»
 
-<a id="art_N1A955"></a>
+<a id="art_N1B51A"></a>
 
 ### Art. 63.
 
 A l’article 1er, alinéa 2 de la loi du 27 août 1977 concernant le statut des fonctionnaires au service d’institutions internationales, les mots les magistrats de l’ordre judiciaire sont remplacés par ceux de «les magistrats de l’ordre judiciaire et de l’ordre administratif.
 
-<a id="art_N1A992"></a>
+<a id="art_N1B557"></a>
 
 ### Art. 64.
 
@@ -5096,7 +5478,7 @@ L’alinéa 2 du § 245 A0 est rétabli dans sa version antérieure:«Lorsque le
 
 Dans l’alinéa 2, la référence au § 94 Absätze 1 und 2 est supprimée.
 
-<a id="art_N1AA56"></a>
+<a id="art_N1B61B"></a>
 
 ### Art. 65.
 
@@ -5105,19 +5487,19 @@ L’article 7 de la loi du 1er mars 1952 modifiant certaines dispositions relati
 1. réclamation décision
 2. En matière de ventilation (§ 388 A0) le recours est porté directement devant le tribunal.
 
-<a id="art_N1AAA6"></a>
+<a id="art_N1B66B"></a>
 
 ### Art. 66.
 
 Au deuxième tiret du deuxième alinéa du paragraphe (1er) de l’article 2 de la loi modifiée du 10 août 1991 sur la profession d’avocat, les termes avocat inscrit à la liste II des tableaux dressés annuellement par les conseils des ordres des avocats, sont intercalés entre les termes assister par un et expert-comptable.
 
-<a id="art_N1AAE9"></a>
+<a id="art_N1B6AE"></a>
 
 ### Art. 67.
 
 L’arrêté royal grand-ducal du 21 août 1866 portant règlement de procédure en matière de contentieux devant le Conseil d’Etat, tel qu’il a été modifié dans la suite, est abrogé.
 
-<a id="art_N1AB20"></a>
+<a id="art_N1B6E5"></a>
 
 ### Art. 68.
 
@@ -5125,7 +5507,7 @@ La référence à la présente loi pourra se faire sous une forme abrégée en u
 
 #### **Titre V.** — **Entrée en vigueur et dispositions transitoires**
 
-<a id="art_N1AB67"></a>
+<a id="art_N1B72C"></a>
 
 ### Art. 69.
 
@@ -5133,7 +5515,7 @@ La présente loi entre en vigueur le 16 septembre 1999.
 
 Les affaires introduites avant cette date continueront à être instruites selon les anciennes règles de procédure.
 
-<a id="art_N1ABA2"></a>
+<a id="art_N1B767"></a>
 
 ### Art. 70.
 
@@ -5143,1497 +5525,868 @@ Les affaires dans lesquelles la partie défenderesse aura communiqué son mémoi
 
 Dans les affaires dans lesquelles seule la requête introductive aura été communiquée, le tribunal enjoindra par ordonnance non susceptible d’appel, au demandeur de déclarer au greffe, dans un délai d’un mois, à peine de forclusion, s’il entend poursuivre le recours. Dans ce cas, l’affaire sera instruite conformément aux dispositions de la présente loi. Sinon, le demandeur est censé s’être désisté de son recours.
 
-<a id="art_N1ABE6"></a>
+<a id="art_N1B7AB"></a>
 
 ### Art. 71.
 
 Les recours introduits devant la Cour administrative à l’encontre des actes administratifs à caractère réglementaire pour lesquels le rapport prévu à l’article 53, paragraphes (1er) et (2) n’a pas été présenté et ceux qui ont donné lieu à un jugement d’avant dire droit sont transmis au tribunal administratif sans autre forme de procédure.
 
-## COUR CONSTITUTIONNELLE
+## MAGISTRATURE
 
-### Version consolidée applicable au 03/07/2023 : Loi du 27 juillet 1997 portant organisation de la Cour Constitutionnelle
+### Loi du 23 janvier 2023 sur le statut des magistrats et portant modification : 1° du Code pénal ; 2° du Code de procédure pénale ; 3° de la loi modifiée du 18 février 1885 sur les pourvois et la procédure de cassation ; 4° de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire ; 5° de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif ; 6° de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle ; 7° de la loi modifiée du 7 juin 2012 sur les attachés de justice ; 8° de la loi modifiée du 27 août 1977 concernant le statut des fonctionnaires entrés au service d’Institutions internationales ; 9° de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ; 10° de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
-#### Chapitre 1er.**- De l’institution et du siège**
+#### **Chapitre 1er. ** — **Dispositions générales**
 
-<a id="art_N1AC4C"></a>
+<a id="art_N1B818"></a>
 
 ### Art. 1er.
 
-La présente loi porte organisation de la Cour Constitutionnelle.
+La présente loi s’applique aux magistrats de l’ordre judiciaire, qu’ils relèvent du siège ou du parquet, et aux magistrats de l’ordre administratif.
 
-Le siège de la Cour est à Luxembourg.
-
-#### Chapitre 2. - **Des attributions**
-
-<a id="art_N1AC97"></a>
+<a id="art_N1B82B"></a>
 
 ### Art. 2.
 
-**(1)** La Cour Constitutionnelle statue, suivant les modalités déterminées par la présente loi, sur la conformité des lois à la Constitution, à l’exception de celles qui portent approbation de traités.
+Sont chef de corps au sens de la présente loi :
 
-**(2)** La Cour Constitutionnelle règle les conflits d’attribution d’après le mode déterminé par la loi du 23 janvier 2023 portant règlement des conflits d’attribution et portant modification de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle.
+1. pour les magistrats de la Cour supérieure de justice, le président de la Cour supérieure de justice ;
+2. pour les magistrats des tribunaux d’arrondissement, les présidents des tribunaux d’arrondissement respectifs ;
+3. pour les juges de paix, les juges de paix directeurs respectifs ;
+4. pour les magistrats du Parquet général, le procureur général d’État ;
+5. pour les magistrats des parquets, les procureurs d’État respectifs ;
+6. pour les magistrats de la Cellule de renseignement financier, le directeur de la Cellule de renseignement financier ;
+7. pour les magistrats de la Cour administrative, le président de la Cour administrative ;
+8. pour les magistrats du Tribunal administratif, le président du Tribunal administratif.
 
-<a id="art_N1AD04"></a>
+#### **Chapitre 2. ** — **Des nominations**
 
-### Art. 2bis.
-
-La Cour Constitutionnelle statue également sur les recours introduits sur la base de l’article 67, paragraphe 3, de la Constitution ainsi que de l’article 289*bis *de la loi électorale modifiée du 18 février 2003.
-
-#### Chapitre 3. - **De la composition**
-
-<a id="art_N1AD5F"></a>
+<a id="art_N1B86A"></a>
 
 ### Art. 3.
 
-**(1)** La Cour Constitutionnelle est composée de :
+**(1)** Le dossier personnel du magistrat est conservé et tenu à jour par le secrétariat du Conseil national de la justice.
 
-1. neuf membres effectifs, à savoir d’un président, d’un vice-président et de sept conseillers ;
-2. sept membres suppléants, qui portent le titre de conseiller suppléant.
+**(2)** Le secrétariat du Conseil national de la justice procède à la destruction du dossier personnel endéans les six mois à compter du jour de la cessation de la fonction de magistrat.
 
-**(2)** Le Grand-Duc nomme le président, le vice-président, les sept conseillers et les sept conseillers suppléants.
-
-**(3)** Le président de la Cour supérieure de justice, le président de la Cour administrative et les deux conseillers à la Cour de cassation les plus anciens en rang sont de droit membres de la Cour Constitutionnelle*.*
-
-**(4)** Les cinq autres conseillers et les sept conseillers suppléants de la Cour Constitutionnelle sont nommés par le Grand-Duc, sur l’avis conjoint de la Cour supérieure de justice et de la Cour administrative.
-
-Aux fins de rendre cet avis, la Cour supérieure de justice et la Cour administrative se réunissent en assemblée générale conjointe, convoquée par le président de la Cour supérieure de justice. Pour chaque place vacante, l’assemblée générale conjointe présente trois candidats ; la présentation de chaque candidat a lieu séparément.
-
-**(5)** Le président de la Cour supérieure de justice est président de la Cour Constitutionnelle. Il est chargé de surveiller la bonne marche des affaires et d’assurer le fonctionnement de la juridiction.
-
-Le président de la Cour administrative est vice-président de la Cour Constitutionnelle.
-
-**(6)** Les membres de la Cour Constitutionnelle continuent à exercer leurs fonctions à leur juridiction d’origine.
-
-La cessation des fonctions des membres de droit de la Cour Constitutionnelle et la cessation temporaire ou définitive de la fonction de magistrat entraînent celle des fonctions à la Cour Constitutionnelle.
-
-<a id="art_N1AE59"></a>
+<a id="art_N1B891"></a>
 
 ### Art. 4.
 
-La Cour Constitutionnelle siège en chambre de cinq membres.
+Les appels à candidatures aux fonctions vacantes dans la magistrature sont publiés sur le site internet de la justice.
 
-Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
-
-<a id="art_N1AEA0"></a>
+<a id="art_N1B8A1"></a>
 
 ### Art. 5.
 
-Les membres de la Cour Constitutionnelle ne peuvent siéger dans aucune affaire dans laquelle soit eux-mêmes, soit leur conjoint ou partenaire au titre de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, soit leurs parents ou alliés jusqu’au quatrième degré inclusivement ont un intérêt personnel.
+**(1)** En cas de vacance des fonctions de président de la Cour supérieure de justice, de procureur général d’État ou de président de la Cour administrative, le Conseil national de la justice détermine le profil recherché.
 
-Les membres de la Cour ne peuvent siéger sur les affaires dont ils ont déjà connu dans une qualité autre que celle de membre de la Cour Constitutionnelle.
+**(2)** Pour les fonctions vacantes de magistrat autres que celles visées au paragraphe 1er, la détermination du profil recherché est facultative.
 
-Les membres de la Cour peuvent en outre être récusés pour les causes et selon les modalités indiquées aux dispositions afférentes du Nouveau Code de procédure civile.
+**(3)** L’appel à candidatures et le profil sont publiés ensemble sur le site internet de la justice.
 
-#### Chapitre 4. - **De la saisine et du fonctionnement**
-
-<a id="art_N1AF1D"></a>
+<a id="art_N1B8DB"></a>
 
 ### Art. 6.
 
-Lorsqu’une partie soulève une question relative à la conformité d’une loi à la Constitution devant une juridiction , celle-ci est tenue de saisir la Cour Constitutionnelle.
+**(1)** Les candidats remplissent une notice biographique et indiquent leur expérience professionnelle, acquise avant l’entrée dans la magistrature et, le cas échéant, pendant l’exercice de la fonction de magistrat.
 
-Une juridiction est dispensée de saisir la Cour Constitutionnelle lorsqu’elle estime que:
+**(2)** Les candidatures sont transmises par la voie hiérarchique au président du Conseil national de la justice.
 
-1. une décision sur la question soulevée n’est pas nécessaire pour rendre son jugement;
-2. la question de constitutionnalité est dénuée de tout fondement;
-3. la Cour Constitutionnelle a déjà statué sur une question ayant le même objet.
-
-Si une juridiction estime qu’une question de conformité d’une loi à la Constitution se pose et qu’une décision sur ce point est nécessaire pour rendre son jugement, elle doit la soulever d’office après avoir invité au préalable les parties à présenter leurs observations.
-
-<a id="art_N1AF7D"></a>
+<a id="art_N1B902"></a>
 
 ### Art. 7.
 
-La décision de poser une question préjudicielle à la Cour Constitutionnelle suspend la procédure et tous délais de procédure et de prescription depuis la date de cette décision jusqu’à celle à laquelle l’arrêt de la Cour est notifié à la juridiction qui a posé la question préjudicielle.
+**(1)** En cas de candidature à une fonction vacante, le Conseil national de la justice sollicite l’avis motivé :
 
-Cette décision, contre laquelle aucun recours n’est possible, est notifiée par courrier recommandé par les soins du greffe de la Cour aux parties en cause.
+1. du chef de corps dont le magistrat relève au moment de la présentation de sa candidature ;
+2. du chef de corps disposant de la vacance de poste lorsque le magistrat souhaite intégrer une autre juridiction, un autre parquet ou un autre service de la justice.
 
-<a id="art_N1AFB8"></a>
+**(2)** Les dispositions du paragraphe 1er sont également applicables lorsque l’attaché de justice postule à une fonction de magistrat.
+
+<a id="art_N1B937"></a>
 
 ### Art. 8.
 
-La question préjudicielle qui figure au dispositif du jugement ne doit répondre à aucune condition particulière de forme. Elle indique avec précision les dispositions législatives et constitutionnelles sur lesquelles elle porte.
+**(1)** En vue de l’émission de l’avis visé à l’article 7, les compétences professionnelles et qualités humaines du candidat sont appréciées par le chef de corps dont il relève.
 
-Le greffe de la juridiction qui pose la question préjudicielle transmet la décision de saisine au greffe de la Cour Constitutionnelle.
+Lorsque le candidat a lui-même la qualité de chef de corps, l’appréciation des compétences professionnelles et qualités humaines est faite par :
 
-<a id="art_N1AFF3"></a>
+1. le président de la Cour supérieure de justice à l’égard des présidents des tribunaux d’arrondissement et juges de paix directeurs ;
+2. le procureur général d’État à l’égard des procureurs d’État et du directeur de la Cellule de renseignement financier ;
+3. le président de la Cour administrative à l’égard du président du Tribunal administratif.
+
+**(2)** Le chef de corps compétent peut solliciter les avis de tout magistrat et de tout agent de l’État affecté aux services de la justice.
+
+Il émet son avis motivé.
+
+Il communique son avis et, le cas échéant, les avis visés à l’alinéa 1er au candidat.
+
+Le candidat peut présenter ses observations endéans les dix jours à compter de la communication.
+
+**(3)** Le secrétariat du Conseil national de la justice procède :
+
+1. au classement des avis et observations dans le dossier personnel du candidat ;
+2. à la destruction des avis et observations endéans les six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
+
+<a id="art_N1B9B9"></a>
 
 ### Art. 9.
 
-Le président de la Cour Constitutionnelle arrête la composition de la Cour pour chaque affaire et désigne un conseiller-rapporteur.
+**(1)** Pour pouvoir être nommé à une fonction de magistrat, il faut présenter toutes les garanties d’honorabilité.
 
-Le président et le vice-président peuvent, à leur demande, siéger dans chaque affaire.
+**(2)** Le Conseil national de la justice peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité du candidat à un poste vacant dans la magistrature.
 
-Lorsque la Cour Constitutionnelle ne peut se composer utilement dans une affaire au moyen de ses membres effectifs, le président désigne les conseillers suppléants qui y siègent.
+Il apprécie l’honorabilité du candidat sur base d’un avis à émettre par le procureur général d’État.
 
-Lors de la désignation des conseillers, des conseillers suppléants et du conseiller-rapporteur pour les affaires successives, le président procède suivant la liste de rang arrêtée à l’article 19, de manière à garantir une rotation régulière entre les différents membres de la Cour Constitutionnelle.
+**(3)** Le procureur général d’État fait état dans son avis des :
 
-<a id="art_N1B070"></a>
+1. inscriptions au bulletin N° 2 du casier judiciaire ;
+2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
+
+**(4)** Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+**(5)** Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
+
+1. loi modifiée du 19 juin 2013
+2. la qualification juridique des faits reprochés.
+
+**(6)** Le secrétariat du Conseil national de la justice est chargé :
+
+1. du classement de l’avis du procureur général d’État dans le dossier personnel du candidat ;
+2. de la destruction de l’avis du procureur général d’État endéans les six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
+
+<a id="art_N1BA61"></a>
 
 ### Art. 10.
 
-Dans un délai de trente jours qui court à compter de la notification aux parties de la question préjudicielle, celles-ci ont le droit de déposer au greffe de la Cour des conclusions écrites; de ce fait elles sont parties à la procédure devant la Cour Constitutionnelle.
+**(1)** En cas de vacance des fonctions de président de la Cour supérieure de justice, de procureur général d’État ou de président de la Cour administrative, le Conseil national de la justice convoque les candidats à un entretien individuel avec ses membres.
 
-Le greffe transmet de suite aux parties copie des conclusions qui ont été déposées. Ces parties diposent alors de trente jours à dater du jour de la notification, pour adresser au greffe des conclusions additionnelles.
+**(2)** Pour les fonctions vacantes de magistrat autres que celles visées au paragraphe 1er, l’entretien individuel est facultatif.
 
-Dans les trente jours qui suivent l’expiration des délais indiqués aux alinéas précédents, la Cour entend, en audience publique, le rapport du conseiller-rapporteur et les parties en leurs plaidoiries. Le délai prévu ci-avant est suspendu entre le 15 juillet et le 16 septembre de chaque année. La date de cette audience est fixée par la Cour, hors présence des parties; elle est communiquée par courrier recommandé aux avocats, au moins quinze jours à l’avance, par le greffe de la Cour.
-
-Les délais prévus au présent article ne donnent pas lieu à une augmentation à raison des distances.
-
-La computation des délais se fait à partir de minuit du jour de la notification qui fait courir le délai. Le délai expire le dernier jour à minuit. Les jours fériés sont comptés dans les délais. Tout délai qui expirerait normalement un samedi, un dimanche, un jour férié légal ou un jour férié de rechange, est prorogé jusqu’au premier jour ouvrable suivant.
-
-<a id="art_N1B0C6"></a>
+<a id="art_N1BA8B"></a>
 
 ### Art. 11.
 
-Les parties sont admises à conclure et à plaider devant la Cour Constitutionnelle par le ministère d’un avocat inscrit à la liste I des tableaux dressés annuellement par les conseils des ordres des avocats.
+Les candidats sont sélectionnés par le Conseil national de la justice sur base de leurs compétences professionnelles et qualités humaines ainsi que sur base de leur rang dans la magistrature.
 
-En cas de saisine de la Cour Constitutionnelle par une juridiction de l’ordre administratif dans une affaire où l’Etat est partie, celui-ci peut se faire représenter par un délégué ou un avocat inscrit à la liste I des tableaux dressés annuellement par les conseils des ordres des avocats.
-
-En cas de saisine de la Cour par une juridiction de l’ordre judiciaire d’une décision à laquelle est partie le ministère public, celui-ci est représenté par le procureur général d’Etat ou un membre de son parquet par lui désigné, lequel peut intervenir en tant que partie devant la Cour Constitutionnelle.
-
-<a id="art_N1B10A"></a>
+<a id="art_N1BA9B"></a>
 
 ### Art. 12.
 
-La Cour Constitutionnelle prend l’affaire en délibéré. Les délibérations de la Cour sont secrètes. Les décisions sont prises à la majorité des voix.
+Les compétences professionnelles et qualités humaines du candidat sont appréciées en tenant compte :
 
-<a id="art_N1B13C"></a>
-
-### Art. 13.
-
-La Cour statue par voie d’arrêt sur la conformité de la loi à la Constitution.
-
-Les arrêts sont rendus dans les deux mois à compter de la clôture des débats. Les arrêts de la Cour sont motivés.
-
-<a id="art_N1B177"></a>
-
-### Art. 14.
-
-L’arrêt est lu en audience publique par le président ou par un autre membre de la Cour Constitutionnelle, délégué à cette fin, sans que la présence des autres membres de la Cour soit requise.
-
-L’arrêt est publié au Journal officiel du Grand-Duché de Luxembourg dans les trente jours de son prononcé.
-
-Lors de la publication, la Cour Constitutionnelle fait abstraction des données à caractère personnel des parties en cause.
-
-<a id="art_N1B1DF"></a>
-
-### Art. 15.
-
-L’expédition de l’arrêt est envoyée par le greffe de la Cour à la juridiction dont émanait la saisine et une copie certifiée conforme est envoyée aux parties en cause devant cette juridiction.
-
-La juridiction qui a posé la question préjudicielle, ainsi que toutes les autres juridictions appelées à statuer dans la même affaire, sont tenues, pour la solution du litige dont elles sont saisies, de se conformer à l’arrêt rendu par la Cour.
-
-<a id="art_N1B21A"></a>
-
-### Art. 16.
-
-La procédure devant la Cour est gratuite. Les arrêts de la Cour ne donnent pas lieu à la liquidation de frais et dépens.
-
-#### Chapitre 5. - **De l’organisation**
-
-##### Section 1re. - *De la réception et de la prestation du serment*
-
-<a id="art_N1B26B"></a>
-
-### Art. 17.
-
-La réception des membres de la Cour se fait à l’audience publique de la Cour Constitutionnelle.
-
-Les membres de la Cour prêtent serment entre les mains du Grand-Duc ou de la personne désignée par Lui.
-
-<a id="art_N1B2B8"></a>
-
-### Art. 18.
-
-Avant d’entrer en fonctions, les membres de la Cour prêtent le serment suivant:
-
-«Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.»
-
-##### Section 2. - *Du rang et de la préséance*
-
-<a id="art_N1B318"></a>
-
-### Art. 19.
-
-Il est tenu une liste de rang sur laquelle les membres de la Cour Constitutionnelle sont inscrits dans l’ordre qui suit :
-
-1. le président ;
-2. le vice-président ;
-3. les conseillers, dans l’ordre de leur nomination ;
-4. les conseillers suppléants, dans l’ordre de leur nomination.
-
-Les conseillers et les conseillers suppléants sont portés sur cette liste dans l’ordre que suivent les arrêtés de nomination, ou dans celui de leur inscription dans l’arrêté de nomination simultanée.
-
-La liste détermine le rang des membres dans les cérémonies et aux audiences de la Cour Constitutionnelle.
-
-##### Section 3. - *Des empêchements et des remplacements*
-
-<a id="art_N1B389"></a>
-
-### Art. 20.
-
-Le président de la Cour Constitutionnelle est, en cas d’absence, d’empêchement ou de vacance de poste, remplacé par le vice-président ou, à défaut de celui-ci, par le membre le plus élevé en rang, dans l’ordre de la liste prévue par l’article 19.
-
-##### Section 4. - *De la discipline*
-
-<a id="art_N1B3CB"></a>
-
-### Art. 21.
-
-**(1)** Les membres de la Cour ne peuvent, directement ou indirectement, avoir des entretiens particuliers avec les parties ou leurs avocats sur les contestations qui leur sont soumises.
-
-**(2)** Aucun membre de la Cour Constitutionnelle ne peut s’absenter si le service doit souffrir de son absence.
-
-**(3)** Ceux qui ont manqué à la dignité de leurs fonctions ou aux devoirs de leur état peuvent faire l’objet d’une peine disciplinaire.
-
-**(4)** Toute affaire disciplinaire est initiée, instruite et poursuivie par le président de la Cour Constitutionnelle.
-
-<a id="art_N1B461"></a>
-
-### Art. 22.
-
-Les peines disciplinaires sont:
-
-1. l’avertissement;
-2. la réprimande;
-3. la suspension des fonctions pour une durée qui ne peut dépasser six mois;
-4. la révocation.
-
-<a id="art_N1B4A3"></a>
-
-### Art. 23.
-
-Les peines disciplinaires sont infligées par la Cour Constitutionnelle siégeant en assemblée générale et statuant en chambre du conseil.
-
-Le président de la Cour, ou le membre de la Cour qui a instruit l’affaire disciplinaire en cas d’empêchement du président, ne participe pas aux délibérations et décisions en la matière.
-
-<a id="art_N1B4DE"></a>
-
-### Art. 24.
-
-Aucune peine ne peut être infligée sans que le membre mis en cause ait été entendu ou dûment appelé. S’il ne comparaît pas en la chambre du conseil, il peut se pourvoir, en cas de condamnation, par voie d’opposition, dans les cinq jours de la notification par la voie du greffe.
-
-<a id="art_N1B510"></a>
-
-### Art. 25.
-
-La Cour Constitutionnelle peut prononcer la suspension provisoire de tout membre poursuivi judiciairement ou administrativement pendant tout le cours de la procédure jusqu’à la décision définitive.
-
-<a id="art_N1B542"></a>
-
-### Art. 26.
-
-L’action disciplinaire est indépendante de toutes poursuites judiciaires et peut être cumulée avec elles.
-
-##### Section 5.- *Dispositions diverses*
-
-<a id="art_N1B587"></a>
-
-### Art. 27.
-
-Le greffe de la Cour supérieure de justice fait fonction de greffe de la Cour Constitutionnelle. Le greffier assiste aux audiences publiques de la Cour et aux assemblées générales ainsi qu’à l’instruction des affaires disciplinaires à charge des membres de la Cour.
-
-<a id="art_N1B5B9"></a>
-
-### Art. 27-1.
-
-*Sur demande adressée par le président de la Cour Constitutionnelle au procureur général d’État ou au président de la Cour administrative, des référendaires de justice de l’ordre judiciaire ou de l’ordre administratif peuvent faire l’objet d’un détachement à temps complet ou partiel auprès de la Cour Constitutionnelle.*
-
-<a id="art_N1B5FA"></a>
-
-### Art. 28.
-
-La Cour Constitutionnelle arrête son règlement d’ordre intérieur.
-
-Celui-ci est publié au Journal officiel du Grand-Duché de Luxembourg.
-
-<a id="art_N1B64D"></a>
-
-### Art. 29.
-
-1. Une indemnité mensuelle est accordée : 1. aux membres effectifs de la Cour Constitutionnelle, dont le taux est de soixante points indiciaires ;
-2. au greffier de la Cour Constitutionnelle, dont le taux est de trente points indiciaires.
-2. Les membres suppléants de la Cour Constitutionnelle bénéficient d’une indemnité de vacation, dont le taux est de quarante points indiciaires par affaire dans laquelle ils siègent.
+1. le cas échéant, de l’adéquation au profil visé à l’article 5 ;
+2. er
 3. er
+4. des informations obtenues, le cas échéant, lors du contrôle de l’honorabilité visé à l’article 9 ;
+5. le cas échéant, de l’entretien individuel visé à l’article 10.
 
-<a id="art_N1B6B3"></a>
-
-### Art. 30.
-
-Les crédits nécessaires au fonctionnement de la Cour sont inscrits au budget de l’Etat.
-
-<a id="art_N1B6E5"></a>
-
-### Art. 31.
-
-La présente loi entre en vigueur le 1er octobre 1997.
-
-### Règlement d'ordre intérieur de la Cour Constitutionnelle du 31 octobre 1997.
-
-<a id="art_N1B731"></a>
-
-### Art. 1.
-
-La Cour Constitutionnelle siège à Luxembourg, 12, Côte d'Eich.
-
-La Cour tient audience le vendredi à 15 heures; elle peut fixer des audiences extraordinaires.
-
-<a id="art_N1B744"></a>
-
-### Art. 2.
-
-Le greffier en chef de la Cour supérieure de justice est le greffier de la Cour Constitutionnelle. En cas d'empêchement, le greffier est suppléé par le greffier de la Cour supérieure de justice qu'il désigne. S'il se trouve dans l'impossibilité de faire lui-même cette désignation, il y est pourvu par le président de la Cour Constitutionnelle.
-
-<a id="art_N1B754"></a>
-
-### Art. 3.
-
-Il est tenu au greffe de la Cour Constitutionnelle un rôle général, coté et paraphé par le président de la Cour, sur lequel sont inscrites toutes les causes dans l'ordre de leur présentation. L'inscription au rôle général détermine le rang d'après lequel les causes sont plaidées. La Cour peut, au vu de circonstances particulières, décider de faire juger une affaire par priorité.
-
-Le greffier inscrit au rôle général la date des arrêts rendus et la date de leur publication au Mémorial.
-
-<a id="art_N1B767"></a>
-
-### Art. 4.
-
-Le présent règlement sera publié au Mémorial.
-
-### Règlement grand-ducal du 21 novembre 1997 fixant le taux et le mode de répartition des indemnités des membres suppléants de la Cour administrative et du Tribunal administratif.
-
-<a id="art_N1B78C"></a>
-
-### Art. 1er.
-
-Il est alloué aux membres suppléants de la Cour administrative une indemnité de 5.000,– francs par audience.
-
-<a id="art_N1B79F"></a>
-
-### Art. 2.
-
-Il est alloué aux membres suppléants du Tribunal administratif une indemnité de 3.500,– francs par audience.
-
-<a id="art_N1B7AF"></a>
-
-### Art. 3.
-
-Les frais de voyage et de séjour des membres suppléants de la Cour administrative et du Tribunal administratif sont identiques à ceux alloués aux fonctionnaires de l'Etat.
-
-<a id="art_N1B7BF"></a>
-
-### Art. 4.
-
-Le règlement grand-ducal du 27 octobre 1995 portant fixation des indemnités et des frais de voyage et de séjour des membres suppléants du Comité du contentieux est abrogé.
-
-<a id="art_N1B7CF"></a>
-
-### Art. 5.
-
-Notre Ministre de la Justice et du Budget est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
-
-## PROFESSION D'AVOCAT
-
-### Version consolidée applicable au 16/09/2023 : Loi du 10 août 1991 sur la profession d’avocat.
-
-#### Chapitre I. — De la profession d’avocat
-
-<a id="art_N1B80A"></a>
-
-### Art. 1er.
-
-La profession d’avocat est une profession libérale et indépendante.
-
-Sont incompatibles avec l’exercice de cette profession:
-
-1. les fonctions de magistrat;
-2. les fonctions de greffier et d’huissier de justice;
-3. les fonctions de notaire;
-4. les professions de réviseurs d’entreprises et d’expert-comptable;
-5. loi électorale modifiée du 18 février 2003
-6. les fonctions de directeur d’entreprise, de gérant ou d’administrateur-délégué de sociétés commerciales à objet commercial, artisanal ou industriel et de mandataire général ou d’agent de compagnie d’assurances;
-7. l’exercice d’une activité commerciale ou artisanale;
-8. toute activité de nature à porter atteinte à l’indépendance de l’avocat ou à la dignité de la profession.
-
-La profession d’avocat peut être exercée à titre individuel. Les avocats peuvent s’associer librement. Ils peuvent encore exercer la profession d’avocat sous forme de personne morale conformément aux dispositions de la présente loi.
-
-<a id="art_N1B872"></a>
-
-### Art. 2.
-
-**(1)** Les avocats seuls peuvent assister ou représenter les parties, postuler et plaider pour elles devant les juridictions de quelque nature qu’elles soient, recevoir leurs pièces et titres afin de les représenter aux juges, faire et signer les actes nécessaires pour la régularité de la procédure et mettre l’affaire en état de recevoir jugement.
-
-Les dispositions de l’alinéa précédent ne font pas obstacle à l’application de dispositions législatives spéciales et à la faculté:
-
-1. loi modifiée du 9 juillet 2004
-2. de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics, de la Caisse de maladie des fonctionnaires et employés communaux, de l’Entraide médicale de la société nationale des chemins de fer luxembourgeois, de la Mutualité des employeurs, de l’Association d’assurance accident, de la Caisse nationale d’assurance pension, du Fonds de compensation, de la Caisse nationale des prestations familiales, du Centre commun de la sécurité sociale, du Fonds national de solidarité, des offices sociaux et de tout autre administration ou service de l’Etat de se faire représenter ou assister par un de leurs agents, dûment mandaté par le ministre du ressort respectivement le président de l’organisme concerné, devant le Conseil arbitral de la sécurité sociale ou le Conseil supérieur de la sécurité sociale;
-3. des justiciables d’agir par eux-mêmes ou de se faire représenter ou assister par un expert-comptable ou un réviseur d’entreprises, dûment autorisé à exercer sa profession, devant le tribunal administratif appelé à connaître d’un recours en matière de contributions directes;
-4. de l’Etat, des communes et des autres personnes morales de droit public de se faire représenter ou assister par un fonctionnaire ou un agent de leur administration, dûment mandaté, devant la justice de paix, devant le président du tribunal d’arrondissement ou le juge qui le remplace, statuant en matière de référé;
-5. du ministère public, de représenter des parties en justice dans les cas prévus par la loi.
-6. loi du 30 novembre 2022
-
-**(2)** Nul ne peut, directement ou par personne interposée, donner, à titre habituel et contre rémunération, des consultations juridiques, ou rédiger pour autrui des actes sous seing privé, s’il n’est autorisé, aux termes de la présente loi, à exercer la profession d’avocat.
-
-Les consultations écrites, portant en tout ou en partie sur des matières juridiques, contiennent les noms, prénoms et qualités de ceux qui les donnent, ainsi que la date de leur confection.
-
-**(3)** Les dispositions du paragraphe (2) ne font pas obstacle à la faculté:
-
-1. pour les administrations publiques et les personnes de droit public de fournir des renseignements et avis juridiques relevant soit de leurs attributions soit de leurs obligations découlant de conventions internationales;
-2. pour les personnes exerçant une autre activité professionnelle réglementée par la loi ou une profession dont l’accès et l’objet sont réglementés par la loi de donner des renseignements sur le droit applicable au Luxembourg relevant directement de leur activité ou profession et de rédiger des actes juridiques qui constituent l’accessoire nécessaire de la prestation fournie;
-3. pour les juristes d’entreprises, exerçant leurs activités en exécution d’un contrat d’emploi au sein d’une entreprise, d’une société ou d’un groupe de sociétés, de donner tous les conseils et d’effectuer toutes les opérations d’ordre juridique nécessaires à l’activité et en rapport direct avec les activités de leur employeur;
-4. pour les personnes morales à but non lucratif et pour les syndicats de donner à leurs membres les renseignements relatifs aux questions juridiques se rapportant directement à leur objet, ces personnes morales à but non lucratif ou syndicats devant par ailleurs, au cas où ils reçoivent des subventions de la part de l’Etat et prennent en charge les frais d’avocat relatifs à la représentation ou l’assistance de leurs membres devant une juridiction, garantir à leurs membres le libre choix de l’avocat qui doit les représenter ou les assister;
-5. pour les professeurs et maîtres de conférence d’un enseignement juridique dans les universités et les unités de formation et de recherche de niveau universitaire ou post-universitaire, actifs ou émérites, de donner occasionnellement et contre rémunération des consultations juridiques et de rédiger des avis juridiques.
-
-<a id="art_N1B91E"></a>
-
-### Art. 3.
-
-La présente loi ne fait pas obstacle à la diffusion en matière juridique de renseignements et d’informations à caractère documentaire.
-
-<a id="art_N1B950"></a>
-
-### Art. 4.
-
-**(1)** Les avocats habilités à exercer leurs activités dans un Etat membre de l’Union européenne prêtent les services prévus par la loi du 29 avril 1980 réglant l’activité de ces avocats aux conditions de cette loi et des mesures prises en application des traités instituant l’Union européenne.
-
-**(2)** Les dispositions de la présente loi ne préjudicient pas de la détermination des conditions d’inscription au tableau des avocats ressortissants des Etats membres auxquelles s’appliquent les dispositions de la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles telle que modifiée par le Directive 2013/55/UE du Parlement européen et du Conseil du 20 novembre 2013 ou les dispositions de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise.
-
-<a id="art_N1B9AD"></a>
-
-### Art. 5.
-
-Nul ne peut exercer la profession d’avocat s’il n’est inscrit au tableau d’un Ordre des avocats établi au Grand-Duché de Luxembourg.
-
-<a id="art_N1B9DF"></a>
-
-### Art. 6.
-
-**(1)** Pour être inscrit au tableau comme avocat exerçant à titre individuel, il faut:
-
-1. présenter la garantie nécessaire d’honorabilité.
-2. loi du 13 novembre 2002 Directive 98/5/CE Exceptionnellement, le Conseil de l’ordre peut dispenser les personnes ayant accompli leur stage professionnel dans leur Etat d’origine et pouvant attester d’une pratique professionnelle d’au moins cinq ans, de certaines conditions d’admission au stage.
-3. 
-4. loi du 24 février 1984 Par dérogation à l’alinéa qui précède, les avocats européens visés à l’article 10 de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise ainsi que les avocats visés par la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles telle que modifiée par le Directive 2013/55/UE du Parlement européen et du Conseil du 20 novembre 2013, au moment de leur admission à la liste I du tableau d’un Ordre des avocats doivent maîtriser la langue de la législation au sens de la loi du 24 février 1984 sur le régime des langues dans la mesure où ils limitent leurs activités professionnelles à celles qui ne nécessitent pas la maîtrise des autres langues au sens de la loi du 24 février 1984. Le niveau de connaissances des langues exigé est celui indiqué à l’alinéa qui précède.
-
-**(2)** Avant d’être inscrits au tableau des avocats, les candidats-avocats, sur présentation par le Bâtonnier de l’Ordre ou de son délégué, prêtent devant la Cour de cassation le serment en ces termes «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat; de ne pas m’écarter du respect dû aux tribunaux; de ne conseiller ou défendre aucune cause que je ne croirais pas juste en mon âme et conscience».
-
-#### Chapitre II.- — Organisation de la profession
-
-<a id="art_N1BA7E"></a>
-
-### Art. 7.
-
-Il existe un Ordre des avocats à Luxembourg et un Ordre des avocats à Diekirch. Chaque Ordre a la personnalité civile.
-
-<a id="art_N1BAB0"></a>
-
-### Art. 8.
-
-**(1)** L’Ordre des avocats est composé des avocats inscrits au tableau.
-
-**(2)** Le tableau des avocats de chaque Ordre est tenu par le Conseil de l’ordre.
-
-**(3)** Le tableau des avocats comprend sept listes:
-
-1. la liste I des avocats qui remplissent les conditions des articles 5 et 6 et qui sont détenteurs du diplôme de l’examen de fin de stage judiciaire;
-2. la liste II des avocats qui remplissent les conditions des articles 5 et 6;
-3. la liste III des avocats honoraires;
-4. la liste IV des avocats exerçant sous leur titre professionnel d’origine;
-5. la liste V des personnes morales exerçant la profession d’avocat et ayant un ou plusieurs associés inscrits à la liste I exerçant une influence significative sur l’activité de la personne morale au Grand-Duché de Luxembourg;
-6. la liste VI des autres personnes morales exerçant la profession d’avocat ;
-7. Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part accord précité accord précité
-
-**(4)** Les avocats sont inscrits ou, le cas échéant, réinscrits aux listes du tableau avec rang à partir de leur prestation de serment d’avocat.
-
-**(5)** Les personnes morales exerçant la profession d’avocat sont inscrites au tableau des avocats de l’Ordre du lieu de leur établissement au Grand-Duché de Luxembourg.
-
-**(6)** Une demande d’inscription à la liste V ou VI du tableau des avocats est adressée par lettre recommandée au Bâtonnier de l’Ordre des avocats auprès duquel la personne morale sera inscrite. Elle est accompagnée d’un dossier qui doit comprendre, à peine d’irrecevabilité de la demande:
-
-1. une copie certifiée conforme des documents constitutifs;
-2. la liste des associés avec, pour chaque associé, son nom, prénom, domicile et l’indication de l’Ordre ou de l’autorité compétente étrangère auprès de laquelle il est inscrit;
-3. pour les personnes morales de droit étranger, une preuve que cette personne morale est habilitée à exercer la profession d’avocat dans son Etat d’origine.
-
-La liste prévue sous le point 2 et la preuve visée sous le point 3 doivent être reproduites tous les ans, au cours du premier mois de l’année, auprès du Bâtonnier de l’Ordre des avocats auprès duquel la personne morale est inscrite.
-
-La preuve visée sous le point 3 ne doit pas dater de plus de deux mois.
-
-Le Conseil de l’ordre peut demander à tout moment la preuve de l’inscription d’un associé auprès de l’Ordre ou de l’autorité compétente étrangère renseignée dans la liste indiquée sous le point 2.
-
-Le Conseil de l’ordre statue sur la demande d’inscription au tableau.
-
-Une personne morale qui ne satisfait plus les conditions d’inscription à la liste à laquelle elle est inscrite peut être suspendue ou rayée par le Conseil de l’ordre.
-
-La personne morale intéressée dispose contre la décision de refus, de suspension ou de radiation de l’inscription d’un recours devant le Conseil disciplinaire et administratif, conformément à l’article 26 de la présente loi.
-
-La personne morale pourra exercer la profession d’avocat à partir de son inscription au tableau des avocats. Elle ne pourra pas exercer d’autre profession.
-
-Les personnes morales inscrites à la liste V du tableau ont la qualité d’«avocat à la Cour».
-
-**(7)** En cas d’admission dans une personne morale inscrite au tableau d’un nouvel associé exerçant la profession d’avocat au Luxembourg, le Bâtonnier de l’Ordre des avocats auprès duquel la personne morale est inscrite en est informé dans la quinzaine par lettre recommandée.
-
-**(8)** Dans la quinzaine de tout acte modificatif aux documents constitutifs d’une personne morale inscrite au tableau, un exemplaire est envoyé par lettre recommandée au Conseil de l’ordre qui peut, dans le mois de la réception, mettre en demeure cette personne morale de modifier l’acte pour qu’il soit en conformité avec les règles professionnelles. La personne morale inscrite au tableau peut interjeter appel devant le Conseil disciplinaire et administratif de cette décision par requête dans un délai de quarante jours de l’envoi de la décision.
-
-**(9)** Toutes les dispositions législatives et réglementaires relatives à l’exercice de la profession d’avocat sont applicables aux sociétés inscrites au tableau et à leurs associés.
-
-**(10)** Un avocat ne peut exercer la profession d’avocat au Luxembourg qu’à travers une seule association ou personne morale ayant plusieurs associés. Il peut exercer la profession d’avocat au sein d’une personne morale inscrite au tableau des avocats et à titre individuel.
-
-**(11)** Dans tous les actes relevant de l’exercice de la profession d’avocat au Luxembourg, la personne morale devra être représentée par un avocat inscrit à un Ordre prévu par la présente loi. Pour les actes requérant le ministère d’avocat à la Cour, la personne morale doit être représentée par un avocat inscrit à la liste I du tableau. Sa signature devra être identifiée par ses nom et prénom suivis de la désignation et de la forme de la société ou association qu’il représente.
-
-**(12)** L’inscription des associés inscrits au tableau est suivie de la mention de la personne morale dans laquelle il exerce.
-
-<a id="art_N1BC3B"></a>
-
-### Art. 9.
-
-**(1)** Les avocats inscrits à la liste I et à la liste V des avocats sont seuls habilités à accomplir les actes pour lesquels les lois et règlements prescrivent le ministère d’avocat à la Cour.
-
-**(2)** Les avocats inscrits aux listes II, IV et VI du tableau des avocats peuvent exercer les activités prévues aux paragraphes (1) et (2) de l’article 2; ils peuvent accomplir les actes énoncés au paragraphe (1) du présent article s’ils sont assistés d’un avocat à la Cour inscrit à la liste I ou à la liste V des avocats.
-
-Ils sont admis à conclure à l’audience sans cette assistance dans les termes des conclusions signées par un avocat inscrit à la liste I ou à la liste V des avocats.
-
-**(3)** Par dérogation à l’article 2, les avocats inscrits à la liste VII du tableau des avocats sont uniquement autorisés à fournir les services juridiques désignés tels que définis à l’article 193, lettre a), de l’Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part, fait à Bruxelles et à Londres, le 30 décembre 2020.
-
-<a id="art_N1BCAE"></a>
-
-### Art. 10.
-
-**(1)** Le fait de ne pas satisfaire aux exigences du stage judiciaire pendant une année entraîne l’omission au tableau.
-
-**(2)** Sur demande de l’avocat et par décision du Conseil de l’ordre, le stage judiciaire peut être suspendu pendant un délai ne dépassant pas trois ans. La suspension entraîne l’omission au tableau pendant toute sa durée.
-
-**(3)** L’avocat ayant effectué le stage prescrit qui ne s’est pas présenté à l’examen de fin de stage judiciaire dans un délai de trois ans après la fin du stage, ainsi que l’avocat qui n’a pas obtenu le diplôme de l’examen de fin de stage judiciaire dans un délai de cinq ans après la fin du stage, sont omis au tableau. Le Conseil de l’ordre peut prolonger ces délais pour des causes exceptionnelles, dûment justifiées.
-
-#### Chapitre III.- — Des structures de la profession
-
-<a id="art_N1BD13"></a>
-
-### Art. 11.
-
-Les organes des la profession sont, pour chaque Ordre,
-
-- l’Assemblée,
-- le Conseil de l’ordre,
-- et, pour l’ensemble de la profession,
-- le Conseil disciplinaire et administratif.
-
-##### *Section I.* — *L’Assemblée*
-
-<a id="art_N1BD6F"></a>
-
-### Art. 12.
-
-L’Assemblée se compose des avocats inscrits aux listes I et IV du tableau des avocats. Ces avocats sont désignés comme «membres de l’Assemblée». Les avocats honoraires et les avocats inscrits à la liste II des avocats ont le droit d’y assister.
-
-<a id="art_N1BDA1"></a>
+<a id="art_N1BAC5"></a>
 
 ### Art. 13.
 
-L’Assemblée est présidée par le Bâtonnier ou, en cas d’empêchement, par le membre du Conseil de l’ordre le plus ancien en rang. Elle désigne deux ou plusieurs membres pour remplir les fonctions de scrutateurs. Le Bâtonnier désigne un membre du Conseil de l’ordre pour remplir l’office de secrétaire.
+Par une décision motivée, le Conseil national de la justice propose la nomination d’un candidat au Grand-Duc.
 
-<a id="art_N1BDD3"></a>
+<a id="art_N1BAD5"></a>
 
 ### Art. 14.
 
-**(1)** L’Assemblée est constituée valablement quel que soit le nombre de membres de l’Assemblée présents.
+Le Grand-Duc nomme le candidat qui lui est proposé par le Conseil national de la justice.
 
-**(2)** S’il n’est pas autrement disposé, les décisions de l’Assemblée sont prises valablement à la majorité absolue des membres présents et votants.
+#### **Chapitre 3. ** — **De la formation continue**
 
-<a id="art_N1BE1C"></a>
+<a id="art_N1BAF6"></a>
 
 ### Art. 15.
 
-**(1)** L’Assemblée générale annuelle se tient dans la première quinzaine du mois de juillet.
+**(1)** Le magistrat participe aux actions de formation continue sur autorisation préalable du chef de corps dont il relève.
 
-**(2)** L’ordre du jour de l’assemblée générale annuelle comprend notamment la présentation du rapport d’activités du Bâtonnier et du Conseil de l’Ordre, la présentation des comptes relatifs à l’année écoulée, l’approbation de ces comptes, la désignation parmi les membres de l’Assemblée d’un ou de plusieurs réviseurs des comptes pour l’exercice à venir et, s’il y a lieu, l’élection du Bâtonnier, des membres du Conseil de l’Ordre et celle des membres du Conseil disciplinaire et administratif ainsi que la proposition des membres du Conseil disciplinaire et administratif d’appel.
+**(2)** Le Conseil national de la justice est informé des participations aux actions de formation continue ; mention en est faite au dossier personnel du magistrat concerné.
 
-**(3)** L’assemblée annuelle fixe, sur proposition du Conseil de l’ordre, les cotisations annuelles respectives à charge des avocats inscrits aux listes I, II, III, IV, V et VI du tableau des avocats.
-
-A défaut de paiement, le Bâtonnier peut requérir l’exécutoire de la cotisation par le Président du tribunal d’arrondissement.
-
-**(4)** Des assemblées générales extraordinaires peuvent être convoquées avec un ordre du jour à fixer par le Conseil de l’ordre.
-
-**(5)** Une assemblée générale extraordinaire doit être convoquée dans le mois toutes les fois qu’un cinquième des membres de l’Assemblée au moins en fait la demande écrite et précise l’ordre du jour.
-
-##### *Section II.* — *Le Conseil de l’ordre*
-
-<a id="art_N1BEB0"></a>
+<a id="art_N1BB1D"></a>
 
 ### Art. 16.
 
-**(1)** Le Conseil de l’Ordre se compose du Bâtonnier et de deux membres, dont le Bâtonnier sortant; pour chaque tranche supplémentaire entière ou partielle de soixante-quinze avocats inscrits sur chacune des listes I et IV du tableau des avocats, le nombre des membres est augmenté de deux unités, sans dépasser le nombre de quinze membres.
+**(1)** Les chefs de corps organisent la formation continue des magistrats.
 
-**(2)** Le Conseil de l’Ordre élu par l’assemblée générale annuelle entre en fonction le 15 septembre qui suit l’assemblée générale et reste en fonction pendant deux ans.
+Ils sont assistés dans leurs travaux par le secrétariat du Conseil national de la justice.
 
-**(3)** Le Bâtonnier et les membres du Conseil de l’ordre sont rééligibles.
+**(2)** Le Conseil national de la justice coordonne la formation continue des magistrats de manière suivante :
 
-**(4)** Les membres du Conseil de l’ordre autres que le Bâtonnier et le Bâtonnier sortant sont élus parmi les avocats inscrits à la liste I des avocats au scrutin secret et à la majorité relative; dans les cas de parité de suffrage, le plus ancien en rang est élu.
+1. il présente des recommandations aux magistrats et chefs de corps ;
+2. il assure les relations avec le ministre de la justice ;
+3. il participe aux travaux menés au sein d’instances internationales ou européennes.
 
-En cas de vacance d’un poste, le remplaçant est coopté par le Conseil de l’ordre.
+**(3)** Sur proposition motivée du Conseil national de la justice, le ministre de la justice peut conclure des conventions avec les prestataires de formation.
 
-Le Conseil de l’ordre ne peut comprendre en même temps qu’un seul avocat d’une même personne morale admise au tableau ou association d’avocats.
+#### **Chapitre 4. ** — **De la déontologie**
 
-**(5)** Sur proposition du Conseil de l’ordre, il peut être pourvu à l’attribution d’un des sièges du Conseil selon les règles de scrutin prévues pour la désignation du Bâtonnier, I’attributaire de ce siège étant désigné comme le vice-bâtonnier.
-
-**(6)** Le Conseil de l’ordre ne peut délibérer que si la majorité des membres qui le composent est présente. Si cette majorité ne peut être constituée pour cause de maladie, absence ou autres empêchements, il est appelé par le Bâtonnier, pour compléter le nombre indispensable, des remplaçants parmi les avocats inscrits à la liste I des avocats.
-
-**(7)** Les décisions du Conseil de l’ordre sont prises à la majorité des membres votants. En cas de partage de voix, celle du Bâtonnier est prépondérante.
-
-<a id="art_N1BF5B"></a>
+<a id="art_N1BB7C"></a>
 
 ### Art. 17.
 
-Le Conseil de l’ordre est chargé:
+Les règles déontologiques des magistrats, élaborées par le Conseil national de la justice, sont déclarées obligatoires par un règlement grand-ducal.
 
-- de veiller à la sauvegarde de l’honneur de l’Ordre, de maintenir les principes de dignité, de probité et de délicatesse qui forment la base de la profession d’avocat et les usages du barreau qui les consacrent,
-- de veiller à l’observation des règles édictées selon l’article 19, de déférer au Conseil disciplinaire et administratif les auteurs des infractions et des manquements, sans préjudice de l’action des tribunaux et du ministère public, s’il y a lieu,
-- de veiller au respect par les membres de l’ordre de leurs obligations découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme.
-
-<a id="art_N1BF9E"></a>
+<a id="art_N1BB8C"></a>
 
 ### Art. 18.
 
-Les attributions du Conseil de l’ordre comprennent en outre l’administration de l’ordre et notamment la tenue du tableau des avocats et la certification des espaces professionnels électroniques des avocats nécessaires pour la connexion aux plateformes d’échanges sécurisés avec les juridictions, les devoirs requis par l’assistance judiciaire, la taxation des honoraires et des frais des avocats, la rédaction des avis en matière de législation et de justice, et plus généralement l’examen de toutes les questions intéressant l’exercice de la profession et la défense des droits des avocats.
+Le Conseil national de la justice surveille l’application des règles déontologiques par les magistrats.
 
-Les attributions qui ne sont pas réservées par la loi à d’autres organes de l’ordre sont du ressort du Conseil de l’ordre.
-
-<a id="art_N1BFE5"></a>
+<a id="art_N1BB9C"></a>
 
 ### Art. 19.
 
-Le Conseil de l’ordre peut arrêter des règlements d’ordre intérieur qui déterminent les règles professionnelles, relatives notamment:
+Tout magistrat peut saisir le Conseil national de la justice en vue d’avoir un avis sur une question de déontologie.
 
-1. à la déontologie entre avocats et à l’égard des clients et des tiers;
-2. au secret professionnel;
-3. aux honoraires et frais;
-4. à l’information du public concernant les avocats et leur activité professionnelle;
-5. à la protection des intérêts des clients et des tiers; les règlements y relatifs peuvent prévoir des mesures d’assurance individuelle ou collective facultatives ou obligataires ainsi que les prescriptions concernant la conservation des fonds de tiers;
-6. aux obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ainsi qu’aux procédures de contrôle, notamment de contrôle sur place auprès des membres de l’ordre.
-
-##### *Section III.* — *Le Bâtonnier de l’ordre*
-
-<a id="art_N1C03F"></a>
+<a id="art_N1BBAC"></a>
 
 ### Art. 20.
 
-Le Bâtonnier est élu parmi les avocats inscrits à la liste I des avocats au scrutin secret à la majorité absolue de ces avocats présents.
+**(1)** Le magistrat peut être rappelé aux devoirs par le chef de corps dont il relève, en dehors de toute action disciplinaire.
 
-<a id="art_N1C071"></a>
+**(2)** Lorsque le chef de corps entend prononcer un rappel aux devoirs, il communique au magistrat concerné les éléments qui l’amènent à agir et lui demande une prise de position à communiquer endéans les quinze jours.
+
+**(3)** Si le magistrat concerné demande un entretien individuel avec le chef de corps dans sa prise de position, l’organisation d’un entretien individuel est obligatoire.
+
+**(4)** À l’issue des formalités visées aux paragraphes 2 et 3, le chef de corps prononce le rappel aux devoirs et le transmet au Conseil national de la justice, accompagné, le cas échéant, de la prise de position.
+
+**(5)** Le secrétariat du Conseil national de la justice classe le rappel aux devoirs et, le cas échéant, la prise de position dans le dossier personnel du magistrat concerné.
+
+#### **Chapitre 5. ** — **De la discipline**
+
+##### **Section 1re. ** — **De la faute disciplinaire et des sanctions disciplinaires**
+
+<a id="art_N1BC27"></a>
 
 ### Art. 21.
 
-Le Bâtonnier est le chef de l’Ordre. Il représente l’Ordre judiciairement et extrajudiciairement. Il convoque et préside l’assemblée générale et le Conseil de l’ordre. Il peut déléguer l’exercice de fonctions déterminées à un ou plusieurs membres du Conseil de l’ordre. En cas de décès, de démission ou d’empêchement du Bâtonnier, ses fonctions sont exercées par le vice-bâtonnier, ou, à défaut ou en cas d’empêchement du vice-bâtonnier, par le membre du Conseil de l’ordre désigné à ces fins par le Conseil de l’ordre.
+Constitue une faute disciplinaire tout acte commis dans l’exercice ou en dehors de l’exercice de ses fonctions par lequel :
 
-<a id="art_N1C0A3"></a>
+1. le magistrat peut compromettre le service de la justice ;
+2. le magistrat méconnaît les devoirs de son état, à savoir l’indépendance, l’impartialité, l’intégrité, la probité, la loyauté, la conscience professionnelle, la dignité, l’honneur, le respect, l’attention portée à autrui, la réserve et la discrétion, tels que mis en œuvre dans les règles déontologiques des magistrats ;
+3. le magistrat viole de manière grave et délibérée une règle de procédure constituant une garantie essentielle des droits des parties, constatée par une décision de justice devenue définitive.
+
+<a id="art_N1BC45"></a>
 
 ### Art. 22.
 
-**(1)** Le Bâtonnier règle les différends qui peuvent naître entre avocats dans l’exercice de leur profession.
-
-**(2)** L’appel de ses décisions peut être porté devant le Conseil disciplinaire et administratif qui statue en dernier ressort.
-
-L’appel est introduit auprès du Président du Conseil disciplinaire et administratif sous forme de lettre recommandée dans un délai de dix jours à partir de la notification par lettre recommandée de la décision du Bâtonnier.
-
-**(3)** La décision, passée en force de chose jugée, lie les avocats impliqués dans un tel différend et, le cas échéant, ceux qui les remplacent ainsi que les tribunaux devant lesquels elle est invoquée.
-
-<a id="art_N1C105"></a>
-
-### Art. 23.
-
-Dans le cas où les affaires dont un avocat est chargé se trouvent à l’abandon pour cause de décès, d’absence, de maladie, de suspension ou d’interdiction ou pour toute autre raison et dans tous les cas où la protection des clients, d’un avocat ou des tiers l’exige, le Bâtonnier a qualité pour prendre toute mesure conservatoire que la prudence exige ou pour saisir les organes judiciaires compétents aux fins de voir ordonner les mesures qu’il juge nécessaires ou utiles.
-
-Dans le cas où des faits reprochés à un avocat font craindre que l’exercice ultérieur de son activité professionnelle soit de nature à causer préjudice à des tiers ou à l’honneur de l’Ordre, le Bâtonnier a qualité pour prendre toute mesure conservatoire que la prudence exige et notamment, en cas de besoin, pour faire défense à l’avocat de fréquenter les cours et tribunaux pendant une période n’excédant pas trois mois ou pour saisir les organes judiciaires compétents aux fins de voir ordonner les mesures qu’il juge nécessaires ou utiles.
-
-La période de trois mois visée à l’alinéa 2 peut être prorogée par le Conseil de l’ordre à la demande du Bâtonnier, après avoir procédé préalablement à l’audition de l’avocat concerné dûment convoqué.
-
-Les décisions prises par le Bâtonnier en vertu des alinéas 1er et 2 sont susceptibles de faire l’objet d’un recours devant le Conseil disciplinaire et administratif. Le recours est introduit auprès du Président du Conseil disciplinaire et administratif sous forme de lettre recommandée dans un délai de dix jours à partir de la notification de la décision du Bâtonnier. Le Conseil disciplinaire et administratif ou l’un de ses membres délégué à cet effet entend sans délai le requérant dûment convoqué en ses explications.
-
-Par dérogation à l’article 28, paragraphe 3, l’appel est introduit sous forme de lettre recommandée dans le délai de quarante jours qui court à partir du jour où la décision a été notifiée aux parties en cause.
-
-Le recours visé à l’alinéa 4 n’a pas d’effet suspensif s’il n’en est autrement ordonné par le Président du Conseil disciplinaire et administratif ou le membre du Conseil disciplinaire et administratif qui le remplace. Le sursis à exécution ne peut être décrété qu’à la double condition que, d’une part, l’exécution de la décision attaquée risque de causer au requérant un préjudice grave et définitif et que, d’autre part, les moyens invoqués à l’appui du recours dirigé contre la décision apparaissent comme sérieux. Le sursis est rejeté si l’affaire est en état d’être plaidée et décidée à brève échéance.
-
-La demande en sursis à exécution est à présenter par requête distincte à adresser au Président du Conseil disciplinaire et administratif. La procédure est orale. L’affaire est plaidée à l’audience à laquelle l’avocat a été convoqué.
-
-L’ordonnance est exécutoire dès sa notification. Elle n’est susceptible d’aucune voie de recours. Elle cesse ses effets lorsque le Conseil disciplinaire et administratif a tranché le principal ou une partie du principal. Le Président du Conseil disciplinaire et administratif ou le membre du Conseil disciplinaire et administratif qui le remplace qui a connu de la demande d’effet suspensif du recours ne peut plus siéger au fond.
-
-L’appel visé à l’alinéa 5 n’a pas d’effet suspensif.
-
-##### *Section IV.* — *Le Conseil disciplinaire et administratif*
-
-<a id="art_N1C1A0"></a>
-
-### Art. 24.
-
-**(1)** Il est pourvu par la présente loi à la création d’un Conseil disciplinaire et administratif composé de neuf avocats inscrits à la liste I des avocats dont huit sont élus à la majorité relative par l’assemblée générale de l’Ordre de Luxembourg et un par l’assemblée générale de l’Ordre de Diekirch. L’assemblée générale de l’Ordre de Luxembourg élit huit suppléants et l’assemblée générale de l’Ordre de Diekirch un suppléant. Tout membre effectif est, en cas d’empêchement, remplacé suivant le rang d’ancienneté par un suppléant de l’ordre dont il relève, et, en cas d’empêchement des suppléants de son Ordre, par un suppléant de l’autre Ordre.
-
-**(2)** La durée de fonction des membres est de deux ans à partir du 15 septembre qui suit leur élection. En cas de vacance d’un poste de membre effectif ou de membre suppléant, son remplaçant est coopté par le Conseil disciplinaire et administratif. Les fonctions des membres effectifs et suppléants cooptés se terminent à la date où les fonctions du membre élu qu’ils remplacent auraient pris fin. Les membres du Conseil disciplinaire et administratif sont rééligibles.
-
-**(3)** Le Conseil disciplinaire et administratif élit un président et un vice-président. Au cas où le président et le vice-président sont empêchés, le Conseil est présidé par le membre titulaire le plus ancien en rang. Le membre le plus jeune du Conseil fait office de secrétaire.
-
-**(4)** Pour être membre du Conseil disciplinaire et administratif, il faut être inscrit à la liste I des avocats depuis cinq ans au moins et ne pas être membre d’un Conseil de l’ordre.
-
-**(5)** Lorsque le Conseil disciplinaire et administratif ne peut se composer selon ce qui précède, ses membres sont désignés par le Conseil de l’ordre dont relèvent les membres à suppléer.
-
-**(6)** Le Conseil disciplinaire et administratif siège au nombre de 3 membres.
-
-La composition du Conseil disciplinaire et administratif est arrêtée pour chaque affaire par son président ou en cas d’empêchement par son vice-président.
-
-<a id="art_N1C23E"></a>
-
-### Art. 24-1.
-
-Le Conseil disciplinaire et administratif peut commettre toute personne de son choix pour l’éclairer par des constatations, par une consultation ou par une expertise sur une question de fait qui requiert les lumières d’un technicien.
-
-En cas d’usage de la faculté lui réservée par l’alinéa 1er, le Conseil disciplinaire et administratif fixe un délai dans lequel le technicien doit remettre son rapport.
-
-<a id="art_N1C288"></a>
-
-### Art. 25.
-
-Le Conseil disciplinaire et administratif connaît, pour les deux Ordres, des affaires disciplinaires et administratives qui lui sont déférées selon les dispositions et la procédure prévues par la présente loi et selon les dispositions de la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise.
-
-#### Chapitre IV.- — De la discipline et des voies de recours
-
-<a id="art_N1C2D3"></a>
-
-### Art. 26.
-
-**(1)** Le Bâtonnier instruit les affaires dont il est saisi soit par le procureur d’État ou par le procureur général d’État, soit sur plainte, soit conformément à l’article 33, paragraphe (5), ou dont il se saisit d’office.
-
-**(2)** Le Bâtonnier ou son délégué dresse un procès-verbal des faits qui ont motivé l’instruction. Il peut s’adresser au procureur général d’État pour voir charger un officier de police judiciaire de procéder à une enquête.
-
-**(3)** Si le Bâtonnier estime, en cas d’infraction ou de manquement à la discipline, que la sanction à prononcer ne dépasse pas la peine de l’avertissement, de la réprimande ou d’une amende inférieure à 1000 euros, il peut seul prononcer cette sanction. L’avocat sanctionné peut former contredit, par requête, dans les dix jours de la notification de la décision du Bâtonnier, auprès du Conseil disciplinaire et administratif. Dans les autres cas, l’instruction se poursuit conformément aux dispositions qui suivent.
-
-**(4)** L’instruction préalable terminée, le Bâtonnier en soumet le résultat au Conseil de l’ordre qui défère l’avocat au Conseil disciplinaire et administratif, s’il estime qu’il y a infraction ou manquement à la discipline.
-
-**(5)** Une personne morale inscrite au tableau peut faire l’objet de poursuites disciplinaires.
-
-**(6)** Au cas où le Conseil de l’ordre ne défère pas au Conseil disciplinaire et administratif les affaires dont le Bâtonnier a été saisi par le procureur d’État ou par le procureur général d’État, ceux-ci peuvent directement saisir le Conseil disciplinaire et administratif.
-
-**(7)** En matière disciplinaire, l’avocat est cité devant le Conseil disciplinaire et administratif à la diligence du Bâtonnier, ou, dans le cas du paragraphe (6), à la diligence du procureur d’État ou du procureur général d’État.
-
-La citation, sous pli fermé, est soit remise en l’étude par un délégué du Conseil de l’ordre, soit signifiée par un huissier, soit envoyée sous forme de lettre recommandée avec avis de réception.
-
-Le délai de citation est de quinze jours au moins à partir de la remise, de la signification ou de l’envoi.
-
-La citation contient l’énoncé des griefs.
-
-Si l’avocat qui fait l’objet de la citation visée ci-dessus est l’associé d’une personne morale exerçant la profession d’avocat, une citation est également adressée à cette personne morale et les dispositions des paragraphes suivants s’appliquent également à elle.
-
-**(8)** En cas de prétérition d’un avocat du tableau, le refus d’inscription ou de réinscription, de contestation du rang, ainsi que dans les cas prévus aux articles 34-1, paragraphe (2), et 40, paragraphe (1), l’intéressé peut saisir le Conseil disciplinaire et administratif par requête dans un délai de quarante jours à partir soit de la remise, soit de la signification, soit de l’envoi de la décision entreprise opérés selon l’un des modes prévus au paragraphe (7). La procédure est dispensée du ministère d’avocat à la Cour.
-
-**(9)** Le Conseil disciplinaire et administratif informe, par lettre recommandée avec avis de réception, l’avocat intéressé et le Conseil de l’ordre intéressé des lieu, date et heure de l’audience.
-
-Le Conseil de l’ordre intéressé peut déléguer l’un de ses membres pour assister à l’audience du Conseil disciplinaire et administratif et y être entendu en son avis et en ses conclusions.
-
-Lorsque le Conseil disciplinaire et administratif est saisi par le procureur d’État ou par le procureur général d’État conformément aux paragraphes (6) et (7), ceux-ci peuvent assister à l’audience pour y être entendus en leurs avis ou conclusions.
-
-**(10)** L’avocat peut prendre inspection du dossier ou s’en faire délivrer copie à ses frais.
-
-**(11)** L’avocat inculpé comparaît en personne. Il peut se faire assister par un avocat.
-
-S’il ne comparaît pas, il est statué par décision par défaut non susceptible d’opposition.
-
-**(12)** Le Conseil disciplinaire et administratif instruit l’affaire en audience publique. L’avocat inculpé ou intéressé peut demander que la cause soit entendue en audience non publique.
-
-**(13)** Le Conseil disciplinaire et administratif peut ordonner des enquêtes et des expertises. Les enquêtes sont faites soit par le Conseil, soit par l’un de ses membres, soit par un officier de police judiciaire.
-
-**(14)** La décision du Conseil disciplinaire et administratif est prise à la majorité absolue des voix. Elle est signée par tous les membres du Conseil.
-
-**(15)** La décision est motivée. Elle est lue en audience publique.
-
-**(16)** Une copie de la décision est notifiée, à la diligence du Président du Conseil disciplinaire et administratif, aux parties en cause, ainsi qu’au procureur général d’État ou au Conseil de l’ordre intéressé, par lettre recommandée avec avis de réception à la dernière adresse professionnelle déclarée auprès du barreau.
-
-Si l’avocat sanctionné ne peut pas être joint à la dernière adresse professionnelle déclarée, la notification de la décision est faite par publication sur le site internet du barreau concerné.
-
-**(17)** Les lettres aux témoins et aux techniciens ainsi que les copies des décisions du Conseil sont signées par le Président du Conseil disciplinaire et administratif.
-
-**(18)** Les minutes des décisions sont déposées et conservées aux archives du Conseil disciplinaire et administratif.
-
-<a id="art_N1C470"></a>
-
-### Art. 27.
-
-**(1)** Outre les sanctions prévues à l’article 30-1, le Conseil disciplinaire et administratif peut, suivant l’exigence des cas, prononcer les sanctions suivantes :
+Les sanctions disciplinaires sont :
 
 1. l’avertissement ;
 2. la réprimande ;
-3. 2*bis*)
-4. l’amende de 1 000 à 100 000 euros ;
-5. la suspension de l’exercice de la profession pour un terme qui ne peut excéder cinq ans ;
-6. l’interdiction à vie de l’exercice de la profession.
+3. l’amende, qui ne peut être ni inférieure à un dixième d’une mensualité brute du traitement de base, ni supérieure à cette mensualité et qui est recouvrable au moyen d’une contrainte non susceptible d’opposition, à décerner par le receveur de l’Administration de l’enregistrement, des domaines et de la TVA ;
+4. la rétrogradation, qui consiste dans le classement du magistrat au grade immédiatement inférieur à son ancien grade avant la rétrogradation ou au grade précédant le grade immédiatement inférieur. Le grade et l’échelon de traitement dans lesquels le magistrat est classé sont fixés par la juridiction disciplinaire dont la décision doit aboutir au résultat que le traitement nouvellement fixé soit inférieur au traitement d’avant la sanction disciplinaire. Le magistrat rétrogradé est nommé hors cadre ;
+5. l’exclusion temporaire des fonctions, qui peut être prononcée, avec ou sans privation partielle ou totale de la rémunération, pour une période de deux ans au maximum. La période de l’exclusion ne compte pas comme temps de service pour les biennales, l’avancement en traitement et la pension ;
+6. la mise à la retraite ;
+7. la révocation : la sanction emporte la perte de l’emploi, du titre et du droit à la pension, sans préjudice des droits découlant de l’assurance rétroactive prévue en matière de coordination des régimes de pension.
 
-**(2)** La peine de la suspension peut être assortie du sursis pour tout ou partie de sa durée. Le bénéfice du sursis est perdu si le condamné fait l’objet d’une nouvelle peine de suspension pour un fait qui s’est produit dans un délai de cinq ans à compter de la date où la première condamnation est passée en force de chose jugée.
+<a id="art_N1BC6F"></a>
 
-**(3)** Le Conseil disciplinaire et administratif peut ordonner l’affichage aux lieux qu’il indique et la publication, totale ou partielle, de sa décision dans un ou plusieurs journaux ou périodiques aux frais du condamné.
+### Art. 23.
 
-**(4)** L’avocat suspendu ou interdit doit s’abstenir de tout acte de profession d’avocat au sens de l’article 2, paragraphes (1) et (2), à dater du jour où la décision est passée en force de chose jugée, à moins que le Conseil n’ait, par décision motivée, ordonné l’exécution provisoire de la décision ou fixé la date du début de l’exécution.
+**(1)** L’application des sanctions disciplinaires se règle d’après la gravité de la faute commise, la nature des fonctions et les antécédents du magistrat mis en cause.
 
-**(5)** Le recours d’un avocat omis du tableau n’aura point d’effet suspensif, s’il n’en est autrement décidé par le Conseil disciplinaire et administratif, saisi par lettre recommandée dans le délai de quarante jours à partir soit de la remise, soit de la signification, soit de l’envoi de la décision d’omission opérés selon l’un des modes prescrits à l’article 26, paragraphe (7).
+**(2)** Les sanctions disciplinaires peuvent être appliquées cumulativement.
 
-**(6)** Toutes les peines sont mentionnées dans un registre qui est tenu par le Bâtonnier auprès de chaque barreau. L’avocat concerné peut consulter ce registre au sujet des données le concernant. Le Conseil de l’ordre, le Conseil disciplinaire et administratif ainsi que le Conseil disciplinaire et administratif d’appel obtiennent à leur demande un extrait de ce registre concernant un avocat déterminé. L’avocat concerné obtient également à sa demande un extrait de ce registre comprenant les données le concernant.
+<a id="art_N1BC96"></a>
 
-Le Bâtonnier veille à ce que :
+### Art. 24.
 
-1. les données à caractère personnel de ce registre soient traitées loyalement et licitement ;
-2. les données à caractère personnel soient collectées pour la finalité déterminée par le présent article ;
-3. les mesures techniques et une organisation appropriées soient mises en œuvre en vue d’assurer la sécurité et la confidentialité des données à caractère personnel.
+**(1)** Les décisions de justice intervenues sur l’action publique ne forment pas obstacle à l’application des sanctions disciplinaires.
 
-Le Bâtonnier compétent a la qualité de responsable du traitement des données au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) tel que modifié.
+**(2)** En cas de poursuite devant une juridiction répressive, la juridiction disciplinaire peut suspendre la procédure disciplinaire jusqu’à la décision définitive de la juridiction pénale.
 
-<a id="art_N1C559"></a>
+##### **Section 2. ** — **De la suspension**
+
+<a id="art_N1BCCE"></a>
+
+### Art. 25.
+
+Est suspendu de plein droit de l’exercice de ses fonctions le magistrat :
+
+1. détenu en vertu d’une condamnation pénale, pour la durée de sa détention ;
+2. détenu préventivement, pour la durée de sa détention ;
+3. contre lequel il existe une décision de justice non encore définitive, qui emporte la perte de l’emploi, jusqu’à la décision définitive qui l’acquitte ou ne le condamne qu’à une peine moindre ;
+4. condamné disciplinairement à la mise à la retraite ou à la révocation par une décision non encore définitive, jusqu’à la fin de la procédure disciplinaire.
+
+<a id="art_N1BCEF"></a>
+
+### Art. 26.
+
+Par une ordonnance motivée, la suspension peut être prononcée à tout moment en cas de poursuite pénale ou disciplinaire par :
+
+1. le Conseil national de la justice à l’égard du président de la Cour supérieure de justice, du procureur général d’État et du président de la Cour administrative ;
+2. le président de la Cour supérieure de justice à l’égard des magistrats de cette cour et des présidents des tribunaux d’arrondissement ;
+3. le procureur général d’État à l’égard des magistrats du Parquet général, des procureurs d’État et du directeur de la Cellule de renseignement financier ;
+4. les présidents des tribunaux d’arrondissement à l’égard des magistrats de ces tribunaux ainsi que des juges de paix directeurs ;
+5. les procureurs d’État à l’égard des magistrats des parquets près les tribunaux d’arrondissement ;
+6. les juges de paix directeurs à l’égard des magistrats des justices de paix ;
+7. le directeur de la Cellule de renseignement financier à l’égard des magistrats de cette cellule ;
+8. le président de la Cour administrative à l’égard des magistrats de cette cour et du président du Tribunal administratif ;
+9. le président du Tribunal administratif à l’égard des magistrats de ce tribunal.
+
+##### **Section 3. ** — **Des juridictions disciplinaires**
+
+<a id="art_N1BD30"></a>
+
+### Art. 27.
+
+**(1)** Il est institué :
+
+1. un Tribunal disciplinaire des magistrats, qui juge en première instance les affaires disciplinaires visant ceux-ci ;
+2. une Cour disciplinaire des magistrats, qui juge en appel les affaires disciplinaires visant ceux-ci.
+
+**(2)** Le Tribunal disciplinaire des magistrats et la Cour disciplinaire des magistrats sont communs aux juridictions de l’ordre judiciaire et à celles de l’ordre administratif.
+
+<a id="art_N1BD62"></a>
 
 ### Art. 28.
 
-**(1)** Les parties en cause, ainsi que le procureur général d’État et le Conseil de l’ordre intéressé peuvent faire appel contre toute décision du Conseil disciplinaire et administratif, à l’exception de celle prise selon l’article 22, paragraphe (2).
+**(1)** Le Tribunal disciplinaire des magistrats est composé de trois membres effectifs, c’est-à-dire :
 
-**(2)** Il est créé à ces fins un Conseil disciplinaire et administratif d’appel composé de deux magistrats de la Cour d’appel, de deux magistrats de la Cour administrative et de trois assesseurs-avocats inscrits sur la liste I du tableau des avocats dont un inscrit au barreau de Diekirch. Sont également nommés deux magistrats de la Cour d’appel suppléants, deux magistrats de la Cour administrative suppléants ainsi que trois assesseurs-avocats suppléants dont un inscrit au barreau de Diekirch.
+1. deux magistrats des tribunaux d’arrondissement, des parquets, des justices de paix, de la Cellule de renseignement financier, du pool de complément des magistrats du siège ou du pool de complément des magistrats du parquet ;
+2. un magistrat du Tribunal administratif.
 
-Il siège au nombre de trois dont un magistrat de la Cour d’appel**,** un magistrat de la Cour administrative et un assesseur-avocat.
+Il se complète par six membres suppléants, c’est-à-dire :
 
-La composition du Conseil disciplinaire et administratif d’appel est arrêtée pour chaque affaire par son président ou en cas d’empêchement par son vice-président.
+1. quatre magistrats des tribunaux d’arrondissement, des parquets, des justices de paix, de la Cellule de renseignement financier, du pool de complément des magistrats du siège ou du pool de complément des magistrats du parquet ;
+2. deux magistrats du Tribunal administratif.
 
-Les membres magistrats de la Cour d’appel et leurs suppléants, ainsi que le greffier affecté au Conseil sont nommés par arrêté grand-ducal, sur présentation de la Cour supérieure de justice, pour une durée de deux ans.
+**(2)** Les membres effectifs élisent le président et le vice-président du Tribunal disciplinaire des magistrats.
 
-Les membres magistrats de la Cour administrative et leurs suppléants sont nommés par arrêté grand-ducal, sur présentation de la Cour administrative, pour une durée de deux ans.
+Le président est chargé de surveiller la bonne marche des affaires et d’assurer le fonctionnement du tribunal.
 
-Les assesseurs-avocats et leurs suppléants sont nommés par arrêté grand-ducal pour une durée de deux ans. Ils sont choisis sur une liste de huit avocats à la Cour inscrits sur la liste I du tableau des avocats depuis cinq ans au moins présentée par chaque Conseil de l’ordre pour chaque fonction.
+En cas d’empêchement du président, le vice-président le remplace.
 
-La fonction d’assesseur est incompatible avec celle de membre d’un Conseil de l’ordre ou avec celle de membre du Conseil disciplinaire et administratif.
+Lorsque le président et le vice-président sont empêchés, la présidence est assurée par l’autre membre effectif et, à défaut, par le membre suppléant le plus ancien en rang dans la magistrature.
 
-Une indemnité de vacation est allouée aux membres. Son taux est de quarante points indiciaires par audience dans laquelle ils siègent. Cette indemnité n’est pas pensionnable.
+**(3)** Le Tribunal disciplinaire des magistrats siège en formation de trois membres, c’est-à-dire :
 
-Le Conseil disciplinaire et administratif d’appel siège dans les locaux de la Cour supérieure de justice où est également assuré le service du greffe.
+1. deux magistrats de l’ordre judiciaire, qu’ils relèvent du siège ou du parquet ;
+2. un magistrat de l’ordre administratif.
 
-Le Conseil disciplinaire et administratif d’appel est présidé par le magistrat le plus ancien en rang de la Cour d’appel. Le vice-président est le magistrat de la Cour d’appel le second plus ancien en rang.
+Si le tribunal ne peut pas se composer utilement par ses membres effectifs, il se complète par les membres suppléants.
 
-**(3)** L’appel est déclaré au greffe de la Cour supérieure de justice dans le délai de quarante jours qui court pour les parties en cause et pour le procureur général d’État et le Conseil de l’ordre intéressé du jour où la décision leur a été notifiée, à la diligence du Président du Conseil disciplinaire et administratif, par lettre recommandée avec accusé de réception. En cas d’appel relevé par les parties en cause ou par le procureur général d’État contre une décision rendue à l’encontre d’un avocat européen exerçant sous son titre professionnel d’origine, le greffe en informe sans délai le Conseil de l’ordre des Avocats du Grand-Duché de Luxembourg auprès duquel cet avocat européen est inscrit.
+Lorsque le tribunal est dans l’impossibilité de se composer utilement par ses membres effectifs et membres suppléants, un remplaçant est nommé dans les conditions prescrites à l’article 30 pour la durée de l’affaire concernée.
 
-**(4)** Les dispositions de l’article 26 concernant l’instruction et la procédure sont applicables au Conseil disciplinaire et administratif d’appel.
+Les affaires sont plaidées et jugées en audience publique. Toutefois, si le magistrat en formule la demande, le huis clos est prononcé. Le huis clos peut encore être prononcé dans l’intérêt de la moralité, de l’ordre public ou de la sécurité nationale.
 
-<a id="art_N1C622"></a>
+**(4)** Le greffe du Tribunal disciplinaire des magistrats est assuré par le greffier en chef du Tribunal d’arrondissement de Luxembourg ou son délégué.
+
+<a id="art_N1BE09"></a>
 
 ### Art. 29.
 
-**(1)** Les parties en cause, ainsi que le procureur général d’Etat et le Conseil de l’ordre intéressé peuvent se pourvoir en cassation contre l’arrêt rendu en appel.
+**(1)** La Cour disciplinaire des magistrats est composée de trois membres effectifs, c’est-à-dire :
 
-**(2)** Le pourvoi est introduit, instruit et jugé comme en matière civile. Le délai pour se pourvoir court du jour où l’arrêt d’appel a été notifié par le greffier par lettre recommandée avec accusé de réception.
+1. deux magistrats de la Cour supérieure de justice ou du Parquet général ;
+2. un magistrat de la Cour administrative.
 
-<a id="art_N1C66B"></a>
+Elle se complète par six membres suppléants, c’est-à-dire :
 
-### Art. 29-1.
+1. quatre magistrats de la Cour supérieure de justice ou du Parquet général ;
+2. deux magistrats de la Cour administrative.
 
-**(1)** Les sanctions suivantes sont effacées de plein droit après une période de cinq ans à compter du moment où elles ont acquis autorité de chose décidée :
+**(2)** Les membres effectifs élisent le président et le vice-président de la Cour disciplinaire des magistrats.
 
-1. l’avertissement, la réprimande et l’amende inférieure à 1000 euros, prévues à l’article 27, paragraphe (1) ;
-2. loi modifiée du 12 novembre 2004
+Le président est chargé de surveiller la bonne marche des affaires et d’assurer le fonctionnement de la cour.
 
-**(2)** L’avocat interdit ne peut être inscrit à l’une des listes du tableau de l’Ordre visées par l’article 8, paragraphe 3 qu’après l’expiration d’un délai de dix ans depuis la date où la décision d’interdiction est passée en force de chose jugée et si des circonstances exceptionnelles le justifient. L’inscription n’est permise qu’après avis motivé du Conseil de l’ordre du barreau auquel l’avocat appartenait. Le refus d’inscription est motivé.
+En cas d’empêchement du président, le vice-président le remplace.
 
-**(3)** Un avocat suspendu peut, après un délai de six ans à compter de la date où la décision de suspension est passée en force de chose jugée, demander sa réhabilitation au Conseil disciplinaire et administratif ou au Conseil disciplinaire et administratif d’appel qui a prononcé la suspension. Le refus de réhabilitation est motivé. La décision n’est pas susceptible d’appel. La demande de réhabilitation peut être réintroduite tous les six ans.
+Lorsque le président et le vice-président sont empêchés, la présidence est assurée par l’autre membre effectif et, à défaut, par le membre suppléant le plus ancien en rang dans la magistrature.
 
-**(4)** L’effacement de peine, la réinscription ou la réhabilitation entraînent le retrait des mentions visées à l’article 27, paragraphe 6.
+**(3)** La Cour disciplinaire des magistrats siège en formation de trois membres, c’est-à-dire :
 
-<a id="art_N1C6F0"></a>
+1. deux magistrats de la Cour supérieure de justice ou du Parquet général ;
+2. un magistrat de la Cour administrative.
+
+Si la cour ne peut pas se composer utilement par ses membres effectifs, elle se complète par les membres suppléants.
+
+Lorsque la cour est dans l’impossibilité de se composer utilement par ses membres effectifs et membres suppléants, un remplaçant est nommé dans les conditions prescrites à l’article 30 pour la durée de l’affaire concernée.
+
+Les affaires sont plaidées et jugées en audience publique. Toutefois, si le magistrat en formule la demande, le huis clos est prononcé. Le huis clos peut encore être prononcé dans l’intérêt de la moralité, de l’ordre public ou de la sécurité nationale.
+
+**(4)** Le greffe de la Cour disciplinaire des magistrats est assuré par le greffier en chef de la Cour supérieure de justice ou son délégué.
+
+<a id="art_N1BEB0"></a>
 
 ### Art. 30.
 
-**(1)** Les témoins et techniciens appelés devant le Conseil disciplinaire et administratif et le Conseil disciplinaire et administratif d’appel ou devant un membre de ces conseils sont entendus sous la foi du serment.
+**(1)** Les membres du Tribunal disciplinaire des magistrats et ceux de la Cour disciplinaire des magistrats sont nommés par le Grand-Duc pour une durée de cinq ans renouvelable, sur proposition du Conseil national de la justice.
 
-**(2)** Les témoins ou techniciens cités qui refusent de comparaître ou de déposer sont passibles des peines comminées par l’article 77, paragraphe (2), du Code de procédure pénale à prononcer par le Conseil disciplinaire et administratif ou par le Conseil disciplinaire et administratif d’appel.
+**(2)** Les nominations sont faites dans les conditions prescrites aux articles 4 à 14.
 
-**(3)** Les articles 220, 223 et 224 du code pénal sont applicables en la matière.
-
-**(4)** Les décisions disciplinaires passées en force de chose jugée sont exécutées à la requête du procureur général d’État. Les amendes prononcées en application des articles 27, paragraphe (1), et 30, paragraphe (2), sont recouvrées par l’Administration de l’enregistrement, des domaines et de la TVA au profit de l’État.
-
-**(5)** Les notifications qui sont faites par le Bâtonnier, le Conseil de l’ordre, le Conseil disciplinaire et administratif et le Conseil disciplinaire et administratif d’appel contiennent l’information sur les voies de recours éventuellement ouvertes contre les décisions notifiées.
-
-Les délais de recours ne commencent à courir qu’à partir de cette information.
-
-#### Chapitre IV-1.- — Des attributions en matière de lutte contre le blanchiment et contre le financement du terrorisme.
-
-<a id="art_N1C794"></a>
-
-### Art. 30-1.
-
-Aux fins de l’application des attributions résultant de l’article 17, troisième tiret, le Conseil de l’ordre est investi des pouvoirs prévus à l’article 8-2*bis *de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.
-
-En cas de non-respect des obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ou en cas d’obstacle à l’exercice des pouvoirs du Conseil de l’ordre définis à l’alinéa 1er les sanctions et mesures prévues à l’article 8-10 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme sont appliquées selon la procédure prévue au chapitre IV.
-
-Si le Conseil de l’ordre estime que la sanction à prononcer ne dépasse pas la peine de l’avertissement, du blâme, de la déclaration publique qui précise l’identité de la personne physique ou morale et la nature de la violation, ou d’une amende inférieure à 25.000 euros, il peut prononcer seul cette sanction. L’avocat sanctionné peut former contredit, par requête, dans les dix jours de la notification de la décision du Conseil de l’ordre, auprès du Conseil disciplinaire et administratif.
-
-Lorsqu’ils prononcent une sanction sur le fondement de l’article 8-10 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, le Conseil disciplinaire et administratif et le Conseil de l’ordre se prononcent sur la publication de la décision conformément au paragraphe 2 de l’article 8-12 de la même loi.
-
-<a id="art_N1C807"></a>
-
-### Art. 30-2.
-
-En cas d’urgence dûment justifiée, le bâtonnier peut prendre les mesures prévues à l’article 8-2bis, paragraphe 1er, sans attendre une réunion du Conseil de l’ordre. Le bâtonnier fait rapport et soumet les mesures à l’approbation du Conseil de l’ordre lors d’une réunion convoquée sans délai. Les mesures prises par le bâtonnier sont caduques si le Conseil de l’ordre ne les a pas approuvées dans un délai de quinze jours. Si le bâtonnier a pris plusieurs mesures consécutives, toutes les mesures prises devront être approuvées dans le délai de quinze jours à compter de la première mesure.
-
-#### Chapitre V.- — Les droits et devoirs de l’avocat
-
-<a id="art_N1C848"></a>
+<a id="art_N1BED7"></a>
 
 ### Art. 31.
 
-Nul ne peut porter le titre d’avocat s’il ne remplit les conditions prévues par les articles 5 et 6.
+Les qualités de membre du Tribunal disciplinaire des magistrats et de membre de la Cour disciplinaire des magistrats sont incompatibles avec la qualité de membre du Conseil national de la justice.
 
-<a id="art_N1C87A"></a>
+##### **Section 4. ** — **De l’engagement des affaires disciplinaires**
 
-### Art. 31-1.
-
-Les avocats inscrits à titre individuel doivent maîtriser la langue de la législation au sens de la loi du 24 février 1984 sur le régime des langues ainsi que toute autre langue nécessaire à l’exercice de leurs activités professionnelles, sans préjudice de l’article 6. (1) d).
-
-Les avocats inscrits à la liste II doivent en outre maîtriser les langues administratives et judiciaires du Grand-Duché de Luxembourg nécessaires pour l’accomplissement de leurs obligations résultant du stage judiciaire.
-
-L’avocat qui accepte de se charger d’une affaire doit avoir les compétences professionnelles et linguistiques nécessaires sous peine de s’exposer aux sanctions disciplinaires prévues.
-
-<a id="art_N1C8C4"></a>
+<a id="art_N1BEF8"></a>
 
 ### Art. 32.
 
-**(1)** L’avocat porte, dans l’exercice de ses fonctions judiciaires, la robe. Seul l’avocat est placé dans l’intérieur du parquet. Il plaide debout.
+Les chefs de corps dénoncent au Conseil national de la justice tous les faits parvenus à leur connaissance, qui pourraient donner lieu à poursuite disciplinaire contre un magistrat.
 
-**(2)** Il est appelé, dans les cas déterminés par la loi, à suppléer les juges et ne peut s’y refuser sans motif d’excuse ou d’empêchement.
-
-<a id="art_N1C90D"></a>
+<a id="art_N1BF08"></a>
 
 ### Art. 33.
 
-**(1)** Dans l’exercice de sa profession, l’avocat est maître de ses moyens.
+Chaque magistrat relève les fautes disciplinaires qui ont été commises ou découvertes à son audience et les signale au chef de corps dont il relève.
 
-**(2)** L’avocat exerce librement son ministère pour la défense de la justice et de la vérité; il s’abstient de toutes altérations de faits et de toute surprise déloyale. Il lui est défendu de se livrer à des injures et remarques offensantes envers les parties ou leurs défenseurs. Il s’abstient d’avancer aucun fait grave contre l’honneur et la réputation des parties, à moins que la cause ne l’exige.
-
-**(3)** L’avocat ne s’écarte pas, soit dans ses discours, soit dans ses écrits ou de toute autre manière, du respect dû à la justice et aux tribunaux.
-
-**(4)** L’avocat ne peut assister, ni représenter des parties ayant des intérêts opposés. Il en est de même d’une association d’avocats.
-
-**(5)** Si l’avocat, dans ses plaidoiries ou dans ses écrits, contrevient aux dispositions des paragraphes (2), (3) et (4) du présent article, le tribunal ou la Cour qui connaît de l’affaire peut faire dresser procès-verbal par le greffier et saisir le Bâtonnier du Conseil de l’ordre de l’incident, sans préjudice d’autres poursuites s’il y a lieu.
-
-<a id="art_N1C986"></a>
+<a id="art_N1BF18"></a>
 
 ### Art. 34.
 
-**(1)** Les avocats peuvent s’associer entre eux au sein d’une association d’avocats. Ils peuvent également s’associer entre eux au sein d’une personne morale de droit luxembourgeois ou de droit étranger.
+En cas d’ouverture d’une procédure pénale contre un magistrat, le procureur d’État en informe le Conseil national de la justice.
 
-**(2)** Tous les associés dans une association d’avocats ou dans une personne morale exerçant la profession d’avocat doivent être des avocats inscrits à un Ordre ou à une organisation représentant l’autorité compétente d’un Etat membre de l’Union européenne.
+##### **Section 5. ** — **De l’instruction des affaires disciplinaires**
 
-Le Conseil de l’ordre peut permettre l’association avec des avocats inscrits à un Ordre ou à une organisation représentant l’autorité professionnelle d’un Etat non membre de l’Union européenne à la condition de constater que cet Ordre ou cette organisation assure des conditions d’inscription, d’exercice de la profession et d’association équivalentes à celles prévues dans la présente loi.
-
-<a id="art_N1C9D8"></a>
-
-### Art. 34-1.
-
-**(1)** Les associés d’une association d’avocats arrêtent la forme juridique et les modalités de leur association, sa représentation à l’égard des tiers et les droits et devoirs des associés.
-
-**(2)** Dans la quinzaine de la conclusion du contrat d’association ou de l’acte modificatif, un exemplaire est envoyé par lettre recommandée au Conseil de l’ordre qui peut, dans le mois de la réception, mettre en demeure les avocats associés de modifier la convention pour qu’elle soit en conformité avec les règles professionnelles. Les avocats associés peuvent interjeter appel devant le Conseil disciplinaire et administratif de cette décision par requête dans un délai de quarante jours de l’envoi de la décision.
-
-<a id="art_N1CA21"></a>
-
-### Art. 34-2.
-
-**(1)** Toute personne morale de droit luxembourgeois exerçant la profession d’avocat doit être constituée sous forme de société civile ou de société ayant la forme d’une des sociétés prévues à l’article 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales y inclus en société unipersonnelle.
-
-**(2)** L’exercice de la profession d’avocat doit figurer dans l’objet social de toute société de droit luxembourgeois exerçant la profession d’avocat.
-
-**(3)** Les dispositions de la loi concernant les sociétés commerciales sont applicables aux sociétés d’avocats qui ont adopté une des formes de sociétés prévues à l’article 2 de la loi concernant les sociétés commerciales chaque fois qu’il n’y est pas dérogé expressément par la présente loi.
-
-Par dérogation à l’article 3, alinéa 3 de la loi concernant les sociétés commerciales, les sociétés d’avocats admises au tableau d’un Ordre ont une nature civile malgré l’adoption de la forme d’une société commerciale. Elles n’ont pas la qualité de commerçant et ne sont pas de ce fait sujettes à cotisation à la Chambre de commerce. L’immatriculation au registre de commerce et des sociétés n’emporte pas présomption de commercialité dans leur chef.
-
-**(4)** Le tribunal d’arrondissement siégeant en matière civile, peut, sur requête du Procureur d’Etat, prononcer la dissolution et la liquidation d’une société de droit luxembourgeois exerçant la profession d’avocat et constituée sous la forme d’une des sociétés prévues à l’article 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales, si la société a cessé ses paiements et que son crédit est ébranlé.
-
-En ordonnant la liquidation, le Tribunal nomme un juge-commissaire ainsi qu’un ou plusieurs liquidateurs à choisir parmi les avocats inscrits à la liste I du tableau de l’Ordre où la société a été inscrite en dernier, à l’exception des associés. Il arrête le mode de liquidation. Il peut rendre applicable, dans la mesure qu’il détermine, les règles régissant la faillite. Le mode de liquidation peut être modifié ultérieurement, soit d’office, soit sur requête des liquidateurs.
-
-<a id="art_N1CAB6"></a>
-
-### Art. 34-3.
-
-**(1)** Les personnes morales de droit luxembourgeois ou de droit étranger admises au tableau d’un Ordre ont pour seule activité l’exercice de la profession d’avocat.
-
-**(2)** La dénomination de la personne morale doit être suivie ou précédée de la forme juridique sous laquelle elle est organisée et si elle agit à travers son établissement au Luxembourg, de la mention «inscrit au barreau de Luxembourg/Diekirch».
-
-**(3)** Les titres représentant le capital de la personne morale de droit luxembourgeois ou de droit étranger exerçant la profession d’avocat doivent être nominatifs et ne peuvent être détenus que par une personne remplissant les conditions pour être associée dans une personne morale exerçant la profession d’avocat au Grand-Duché de Luxembourg.
-
-**(4)** Les documents constitutifs de toute personne morale exerçant la profession d’avocat au Grand-Duché de Luxembourg doivent comporter:
-
-- les modalités de la cession des parts sociales ou des actions entre vifs ou pour cause de mort;
-- les droits et obligations de l’associé ayant perdu la qualité de professionnel en exercice et de ses ayants droit; et
-- la description de son activité consistant dans le seul exercice de la profession d’avocat.
-
-**(5)** Une personne morale de droit luxembourgeois ou de droit étranger exerçant la profession d’avocat ne peut être ou rester inscrite à la liste V du tableau de l’Ordre de son siège si elle ne comporte pas un ou plusieurs associés inscrits à la liste I du tableau de l’Ordre exerçant leur profession de façon permanente au Luxembourg qui exercent une influence significative sur l’activité de la personne morale au Luxembourg. Une personne morale de droit luxembourgeois ou de droit étranger exerçant la profession d’avocat ne peut être ou rester inscrite à la liste VI du tableau de l’Ordre de son siège si elle ne comporte pas au moins un associé inscrit à la liste I ou à la liste IV du tableau de l’Ordre qui exerce sa profession de façon permanente au Luxembourg.
-
-**(6)** Les membres des organes de gestion d’une personne morale exerçant la profession d’avocat doivent être des associés de la personne morale.
-
-<a id="art_N1CB50"></a>
+<a id="art_N1BF39"></a>
 
 ### Art. 35.
 
-**(1)** L’avocat est soumis au secret professionnel conformément à l’article 458 du code pénal.
+Si le Conseil national de la justice a connaissance de faits susceptibles de recevoir une qualification disciplinaire, il ouvre une instruction disciplinaire.
 
-**(2)** Sans préjudice du droit de communiquer avec son mandant dans le respect des droits de la défense, il doit respecter le secret de l’instruction en matière pénale en s’abstenant de communiquer des renseignements extraits du dossier ou de publier ou faire publier des documents, pièces ou lettres intéressant une information en cours.
-
-**(3)** Le lieu de travail de l’avocat et le secret des communications, par quelque moyen que ce soit, entre l’avocat et son client, sont inviolables. Lorsqu’une mesure de procédure civile ou d’instruction criminelle ou de contrôle ou d’inspection prévues respectivement aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence ou d’inspection prévue par l’article L. 311-8 du Code de la consommation est effectuée auprès ou à l’égard d’un avocat dans les cas prévus par la loi, il ne peut y être procédé qu’en présence du Bâtonnier ou de son représentant, ou ceux-ci dûment appelés.
-
-Le Bâtonnier ou son représentant peut adresser aux autorités ayant ordonné ces mesures toutes observations concernant la sauvegarde du secret professionnel. Les actes de saisie et les procès-verbaux de perquisition mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou qu’ils ont été dûment appelés, ainsi que les observations que le cas échéant le Bâtonnier ou son représentant ont estimé devoir faire.
-
-Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le Bâtonnier ou son représentant ont estimé devoir faire.
-
-<a id="art_N1CBE9"></a>
-
-### Art. 35-1.
-
-Nonobstant les dispositions de l’article précédent et sous réserve de l’article 2 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, l’avocat est soumis aux obligations professionnelles telles que définies par le titre Ier de cette loi et par les mesures prises pour son exécution.
-
-<a id="art_N1CC23"></a>
+<a id="art_N1BF49"></a>
 
 ### Art. 36.
 
-**(1)** Les moyens auxquels il est recouru pour procurer au public l’information nécessaire sur l’avocat, sur les conditions d’exercice de sa profession et sur les affaires dont il est chargé sont mis en oeuvre dans le respect de l’intérêt de son client et de façon à ne pas porter atteinte à la dignité de la profession, dans les conditions à déterminer par le Conseil de l’ordre conformément à l’article 19 de la présente loi.
+**(1)** Le Conseil national de la justice délègue un de ses membres pour faire les actes de l’instruction disciplinaire, à la condition qu’il accepte cette délégation.
 
-**(2)** Tout acte de démarchage ou de sollicitation est interdit à l’avocat.
+**(2)** La fonction d’instructeur disciplinaire est incompatible avec les fonctions de membre du Tribunal disciplinaire des magistrats et de membre de la Cour disciplinaire des magistrats.
 
-<a id="art_N1CC6C"></a>
+**(3)** Après avoir consulté l’instructeur disciplinaire, le procureur général d’État désigne le greffier de celui-ci parmi les greffiers des juridictions de l’ordre judiciaire.
+
+<a id="art_N1BF80"></a>
 
 ### Art. 37.
 
-**(1)** Le Conseil de l’ordre assure l’assistance des personnes qui ne trouvent pas de défenseur ou dont les ressources sont insuffisantes pour la défense de leurs intérêts.
+**(1)** L’instruction disciplinaire est faite à charge et à décharge du magistrat mis en cause.
 
-**(2)** Le Conseil de l’ordre collabore avec le service d’accueil et d’information juridique institué par l’article 189 de la loi du 7 mars 1980 sur l’organisation judiciaire. A cet effet le Conseil de l’ordre maintient un bureau de consultation et de défense. Le Bâtonnier désigne les avocats qui assurent ce service.
+**(2)** L’instructeur disciplinaire est indépendant dans l’exercice de ses fonctions.
 
-**(3)** Si une partie ne trouve pas de défenseur, le Bâtonnier ou, suivant les circonstances, le juge, lui désigne d’office un avocat s’il y a lieu. L’avocat nommé d’office pour défendre un justiciable ne peut refuser son ministère sans motif valable.
-
-**(4)** Si, en application de l’article 3-6 du Code de procédure pénale une partie ne trouve pas de défenseur, l’avocat est choisi et désigné d’office sur base des listes de permanence à disposition des cabinets d’instruction, des Parquets ainsi que de la Police grand-ducale, listes établies par le Bâtonnier. Si les conditions légales prévues pour l’attribution de l’assistance judiciaire sont remplies dans le chef de la personne concernée, les indemnités de l’avocat sont à charge de l’Etat.
-
-L’avocat figurant sur cette liste ne peut pas refuser son ministère sans motif valable.
-
-<a id="art_N1CCE9"></a>
-
-### Art. 37-1.
-
-**(1)** Les personnes physiques dont les ressources sont insuffisantes ont droit à une assistance judiciaire pour la défense de leurs intérêts au Grand-Duché de Luxembourg, à condition qu’il s’agisse:
-
-1. de ressortissants luxembourgeois, ou
-2. de ressortissants étrangers autorisés à s’établir au pays, ou
-3. de ressortissants d’un Etat membre de l’Union européenne, ou
-4. de ressortissants étrangers assimilés aux ressortissants luxembourgeois en matière d’assistance judiciaire par l’effet d’un traité international
-5. Code du travail
-
-Ont également droit à l’assistance judiciaire, pour toute procédure en matière civile et commerciale dans les affaires transfrontalières visées par la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l’accès à la justice dans les affaires transfrontalières par l’établissement de règles minimales communes relatives à l’aide judiciaire accordée dans le cadre de telles affaires, les ressortissants étrangers qui ont leur domicile ou leur résidence dans un autre Etat membre de l’Union européenne, à l’exception du Danemark.
-
-A également droit à l’assistance judiciaire, en matière civile ou commerciale, toute personne visée à l’alinéa premier qui a son domicile ou sa résidence habituelle au Luxembourg, aux fins d’obtention de conseils juridiques d’un avocat au Luxembourg, y compris la préparation du dossier d’une demande d’aide judiciaire destinée à être présenté dans un autre État membre de l’Union européenne, jusqu’à ce que la demande d’aide judiciaire y ait été reçue, conformément aux dispositions de la Directive 2003/8/CE précitée du Conseil du 27 janvier 2003.
-
-Ont également droit à l’assistance judiciaire, sans condition de résidence et quelle que soit leur nationalité, les personnes visées à l’article 3-6, paragraphe 1er, du Code de procédure pénale, les personnes visées à l’article 18-1, paragraphe 3, de la loi modifiée du 20 juin 2001 sur l’extradition et les personnes visées aux articles 7-1, paragraphe 3, et 27-1 de la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne et dont les ressources sont insuffisantes.
-
-Les personnes ayant droit à l’assistance d’un avocat mais dont le droit n’est pas exercé en application de l’article 3-6, paragraphes 6 et 8, du Code de procédure pénale, de l’article 18-1, paragraphes 3, alinéas 3 et 4, de la loi modifiée du 20 juin 2001 sur l’extradition et de l’article 7-1, paragraphe 3, alinéas 3 et 4, de la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne, peuvent obtenir l’assistance judiciaire à partir du moment où la dérogation cesse d’exister ou à partir de la révocation de la renonciation.
-
-Ont également droit à l’assistance judiciaire, sans condition de résidence et quelle que soit leur nationalité, les personnes ayant la qualité de victime suivant les dispositions de l’article 4-1 du Code de procédure pénale dans le cadre d’une procédure pénale se déroulant au Grand-Duché de Luxembourg qui entendent se constituer partie civile suivant les dispositions du Code de procédure pénale et dont les ressources sont insuffisantes.
-
-A droit à l’assistance judiciaire tout autre ressortissant étranger dont les ressources sont insuffisantes:
-
-- pour les procédures d’accès au territoire, de séjour, d’établissement et d’éloignement des étrangers, ainsi qu’en matière de procédure disciplinaire s’il est détenu dans un centre pénitentiaire.
-- loi du 18 décembre 2015
-- pour la procédure relative à la limitation ou le retrait des conditions matérielles d’accueil de la présente loi.
-
-Au cas où ces ressortissants étrangers se voient reconnaître par d’autres dispositions légales le droit de se faire désigner un avocat par le Bâtonnier de l’Ordre des avocats, ils bénéficient de l’assistance judiciaire limitée à l’indemnité à allouer à l’avocat sur la seule justification de l’insuffisance de leurs ressources.
-
-L’insuffisance des ressources des personnes physiques demandant à bénéficier de l’assistance judiciaire s’apprécie par rapport au revenu brut intégral et à la fortune du requérant ainsi que des personnes qui vivent avec lui en communauté domestique, suivant les dispositions des articles 9 et 10 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale et dans la limite des montants fixés à l’article 5 de la loi précitée. Toutefois, les ressources des personnes vivant en communauté domestique avec le requérant ne sont pas prises en considération, si la procédure oppose entre eux les conjoints ou les personnes vivant habituellement au même foyer, ou s’il existe entre eux, eu égard à l’objet du litige, une divergence d’intérêts rendant nécessaire une appréciation distincte des ressources.
-
-Si le requérant est un mineur d’âge impliqué dans une procédure judiciaire, le droit à l’assistance judiciaire lui est accordé indépendamment de la situation de ressources de ses parents ou des personnes qui vivent en communauté domestique avec le mineur, sans préjudice du droit de l’Etat d’exiger le remboursement des dépenses qu’il a exposées pour l’assistance judiciaire du mineur contre ses père ou mère disposant de ressources suffisantes.
-
-Le droit à l’assistance judiciaire peut également être reconnu à des personnes qui en seraient exclues au regard de la détermination des ressources, si des raisons sérieuses, tenant à la situation sociale, familiale ou matérielle du requérant justifient cette admission.
-
-Un règlement grand-ducal détermine les modalités d’application des présentes dispositions.
-
-**(2)** L’assistance judiciaire est accordée en matière extrajudiciaire et en matière judiciaire, en matière gracieuse ou contentieuse, en demande ou en défense, ainsi qu’en matière de procédure disciplinaire si le bénéficiaire est détenu dans un centre pénitentiaire. Elle s’applique à toute instance portée devant une juridiction de l’ordre judiciaire ou de l’ordre administratif. Elle peut être demandée au cours de l’instance pour laquelle elle est sollicitée, avec, en cas d’admission, effet rétroactif au jour de l’introduction de l’instance ou à toute autre date à déterminer par le Bâtonnier. Elle peut être accordée également pour les actes conservatoires ainsi que pour les voies d’exécution des décisions de justice ou de tout autre titre exécutoire.
-
-Elle ne saurait toutefois être accordée au propriétaire, au détenteur ou au conducteur d’un véhicule automoteur pour des litiges résultant d’un tel véhicule, à un commerçant, un industriel, un artisan ou un membre d’une profession libérale pour un litige ayant trait à son activité commerciale ou professionnelle, sauf cas de rigueur dûment justifié, ni, de façon générale, pour un litige résultant d’une activité à caractère spéculatif dans le chef du demandeur d’assistance judiciaire.
-
-Dans le cadre de litiges transfrontaliers couverts par la Directive 2003/8/CE précitée du Conseil du 27 janvier 2003, le Bâtonnier peut néanmoins accorder l’assistance judiciaire dans les cas visés à l’alinéa qui précède.
-
-En matière pénale, l’assistance judiciaire ne couvre pas les frais et amendes prononcés à charge des condamnés, à l’exception des frais d’interprétation ou de traduction prévus aux articles 3-2 à 3-5 du Code de procédure pénale.
-
-En matière civile, l’assistance judiciaire ne couvre ni les indemnités de procédure ni les indemnités pour procédure abusive et vexatoire.
-
-En matière civile et commerciale, l’assistance judiciaire ne couvre pas les frais liés à une médiation conventionnelle.
-
-**(3)** L’assistance judiciaire est refusée à la personne dont l’action apparaît, manifestement, irrecevable, dénuée de fondement, abusive, ou disproportionnée de par son objet par rapport aux frais à exposer.
-
-L’assistance judiciaire est refusée si le requérant est en droit d’obtenir d’un tiers, à un titre quelconque, le remboursement des frais à couvrir par l’assistance judiciaire.
-
-**(4)** Le bénéficiaire de l’assistance judiciaire a droit à l’assistance d’un avocat et de tous officiers ministériels dont la cause, l’instance ou son exécution requiert le concours.
-
-**(5)** Le Bâtonnier de l’Ordre des avocats ou le membre du Conseil de l’ordre par lui délégué à ces fins de l’arrondissement du lieu de résidence du requérant décide de l’attribution du bénéfice de l’assistance judiciaire. A défaut de résidence, le Bâtonnier du Conseil de l’ordre de Luxembourg ou le membre du Conseil de l’ordre par lui délégué à ces fins est compétent.
-
-Les personnes dont les ressources sont insuffisantes s’adressent au Bâtonnier soit à ses audiences, soit par écrit.
-
-Si une personne retenue par la police affirme être en droit de bénéficier de l’assistance judiciaire et en fait la demande, l’avocat qui l’assiste durant sa rétention transmet la demande au Bâtonnier.
-
-Si le juge d’instruction désigne un défenseur au prévenu qui affirme être en droit de bénéficier de l’assistance judiciaire et qui en fait la demande, le juge d’instruction transmet la demande au Bâtonnier.
-
-Une copie de la constitution de partie civile dûment déposée auprès des autorités judiciaires compétentes est communiquée, par l’avocat désigné, au bâtonnier dans le mois à partir du jour du dépôt.
-
-Une copie des décisions judiciaires statuant sur la partie civile également est communiquée au bâtonnier par l’avocat désigné.
-
-Les demandes d’assistance judiciaire sont déposées ensemble avec les pièces à l’appui dans une des langues de procédure applicables au Grand-Duché de Luxembourg auprès du bâtonnier de l’Ordre des avocats de Luxembourg.
-
-Le Bâtonnier vérifie l’insuffisance des ressources et, si elle est établie, admet le requérant à l’assistance judiciaire et commet l’avocat que le requérant a choisi librement ou, à défaut de choix ou lorsque le Bâtonnier estime le choix inapproprié, l’avocat qu’il désigne. L’avocat est, sauf empêchement ou conflit d’intérêt, tenu d’assumer le mandat qui lui a été ainsi conféré.
-
-Dans tous les cas d’urgence, l’admission provisoire à l’assistance judiciaire peut être prononcée, sans autres formalités, par le Bâtonnier, pour les actes qu’il déterminera.
-
-**(5bis)** Si le Bâtonnier fait droit à la demande d’assistance judiciaire d’un mineur d’âge dont les parents disposent de ressources telles que le mineur n’entrerait pas dans la catégorie des personnes ayant des ressources insuffisantes au sens du paragraphe (1), la décision d’admission du mineur à l’assistance judiciaire leur est communiquée avec l’indication que l’Etat est en droit d’exiger des parents, tenus solidairement, qu’ils remboursent les sommes décaissées par l’Etat au titre de l’assistance judiciaire du mineur.
-
-Dans un délai de dix jours à partir de la notification de la décision du Bâtonnier, chacun des parents visés ci-dessus pourra introduire appel devant le Conseil disciplinaire et administratif qui statue en dernier ressort. L’appel est introduit et instruit de la manière prévue au paragraphe (7). Le Conseil disciplinaire et administratif statue dans les quarante jours de l’introduction du recours.
-
-Le Bâtonnier transmet au Ministre de la Justice une copie de la décision définitive sur l’admission du mineur d’âge à l’assistance judiciaire.
-
-L’administration de l’enregistrement et des domaines, saisie par le Ministre de la Justice, est chargée du recouvrement, contre les parents disposant de ressources suffisantes, des sommes décaissées par l’Etat au titre de l’assistance judiciaire du mineur.
-
-**(6)** Le Bâtonnier retire le bénéfice de l’assistance judiciaire attribuée au requérant, même après l’instance ou l’accomplissement des actes pour lesquels il a été accordé, si ce bénéfice a été obtenu à l’aide de déclarations ou au vu de pièces inexactes. Le Bâtonnier peut retirer le bénéfice de l’assistance judiciaire s’il survient au bénéficiaire pendant cette instance ou pendant l’accomplissement de ces actes ou comme résultant de ceux-ci des ressources telles que si elles avaient existé au jour de la demande d’assistance judiciaire, celle-ci n’aurait pas été accordée. Tout changement de cette nature doit être déclaré au Bâtonnier par le bénéficiaire, ou par l’avocat commis dans les cas prévus au paragraphe (9) du présent article.
-
-Le bâtonnier retire encore le bénéfice de l’assistance judiciaire lorsque le demandeur visé au paragraphe 1er, alinéa 6, ne s’est pas constitué partie civile ou n’a pas déposé de copie de la constitution de partie civile endéans le délai prévu au paragraphe 5, alinéa 5.
-
-Le retrait rend immédiatement exigibles contre le bénéficiaire les frais, droits, honoraires, indemnités, redevances, émoluments, consignations et avances de toute nature dont il a déjà bénéficié.
-
-La décision du Bâtonnier prononçant le retrait est immédiatement communiquée au Ministre de la Justice. L’administration de l’enregistrement et des domaines est chargée de procéder au recouvrement auprès du bénéficiaire des montants qui ont été décaissés par l’Etat.
-
-**(7)** En cas de refus ou de retrait total ou partiel du bénéfice de l’assistance judiciaire, les motifs de la décision sont indiqués. Contre les décisions de refus ou de retrait du bénéfice de l’assistance judiciaire prises par le Bâtonnier, le requérant peut introduire un recours devant le Conseil disciplinaire et administratif. Le recours est introduit auprès du Président du Conseil disciplinaire et administratif sous forme de lettre recommandée dans un délai de dix jours à partir de la notification de la décision du Bâtonnier. Le Conseil disciplinaire et administratif ou l’un de ses membres délégué à cet effet entend le requérant en ses explications.
-
-La décision du Conseil disciplinaire et administratif est susceptible d’appel devant le Conseil disciplinaire et administratif d’appel. Par dérogation à l’article 28, paragraphe (3), le délai pour la déclaration d’appel est de quinze jours.
-
-**(8)** Les notaires et les huissiers de justice sont commis d’office par la juridiction saisie de l’affaire pour l’assistance des personnes qui bénéficient de l’assistance judiciaire. A défaut de juridiction saisie, les notaires sont commis d’office par le Président de la Chambre des Notaires et les huissiers de justice sont commis d’office par le Président de la Chambre des Huissiers de Justice.
-
-**(9)** Un règlement grand-ducal détermine les modalités selon lesquelles l’assistance judiciaire est attribuée en application des paragraphes qui précèdent, les frais couverts par l’assistance, les conditions et modalités de recouvrement par l’Etat des sommes décaissées pour l’assistance et les modalités selon lesquelles l’avocat qui assume, selon les dispositions du paragraphe (5) ci-dessus, l’assistance des personnes dont les ressources sont insuffisantes, est indemnisé à charge de l’Etat, sans préjudice de son droit éventuel à des honoraires selon l’article 38 au cas où ces personnes, soit par le résultat du procès, soit pour d’autres raisons, reviendraient à meilleure fortune.
-
-**(10)** Toutes les administrations publiques sont tenues de prêter leur concours tant pour l’établissement des documents requis pour présenter une demande d’assistance judiciaire que pour leur vérification, sans pouvoir faire état d’un secret professionnel ou administratif.
-
-<a id="art_N1CF60"></a>
+<a id="art_N1BFA7"></a>
 
 ### Art. 38.
 
-**(1)** L’avocat arrête ses honoraires et met en charge ses frais professionnels. Dans la fixation des honoraires l’avocat prend en compte les différents éléments du dossier, tels l’importance de l’affaire, le degré de difficulté, le résultat obtenu et la situation de fortune du client.
+L’instructeur disciplinaire peut :
 
-**(2)** Dans les cas où cette fixation excéderait des normes raisonnables, le Conseil de l’ordre les réduit, eu égard aux différents éléments du dossier mentionnés au paragraphe (1) précédent.
+1. descendre sur les lieux afin de faire toutes les constatations utiles, sans toutefois procéder à une perquisition ;
+2. consulter et se faire produire, sans déplacement, pour en prendre connaissance, des dossiers et documents ; l’instructeur disciplinaire peut faire des copies d’extraits de pièces sans frais ;
+3. entendre, à titre d’information et, le cas échéant, sous serment, des magistrats et agents de l’État affectés aux services de la justice ainsi que toute autre personne dont l’audition est utile à l’instruction disciplinaire ; la personne entendue est autorisée à faire des déclarations qui sont couvertes par le secret professionnel.
 
-<a id="art_N1CFA9"></a>
+<a id="art_N1BFC5"></a>
 
 ### Art. 39.
 
-**(1)** L’avocat ne peut établir qu’un seul cabinet au Grand-Duché de Luxembourg. Le cabinet de l’avocat est établi dans l’arrondissement judiciaire où se trouve l’Ordre des avocats auprès duquel l’avocat est inscrit.
+**(1)** Toute personne, citée par le magistrat instructeur pour être entendue comme témoin, est tenue de comparaître, de prêter serment et de déposer, sous réserve des dispositions des articles 72, 73 et 76 du Code de procédure pénale.
 
-**(2)** Les publications à faire par l’avocat et toutes publications prévues par la présente loi se font dans le local affecté à l’usage des avocats.
+**(2)** Les personnes qui refusent de comparaître, de prêter serment ou de déposer sont passibles des peines comminées par l’article 77 du Code de procédure pénale.
 
-<a id="art_N1CFF2"></a>
+Ces peines sont prononcées par le tribunal d’arrondissement siégeant en matière correctionnelle, sur réquisition du ministère public.
+
+**(3)** Le tribunal d’arrondissement siégeant en matière correctionnelle peut également ordonner que le témoin défaillant soit contraint par corps à venir donner son témoignage.
+
+<a id="art_N1C00F"></a>
 
 ### Art. 40.
 
-**(1)** Le titre d’avocat honoraire peut être conféré par le Conseil de l’ordre à l’avocat qui a été inscrit au tableau pendant vingt années au moins et a donné volontairement sa démission. Le temps pendant lequel un avocat n’était pas inscrit n’est pas décompté si cet avocat, après avoir démissionné, obtient sa réinscription avec conservation du rang qu’il avait initialement occupé au tableau.
+**(1)** L’instructeur disciplinaire convoque le magistrat mis en cause à une audition.
 
-La décision du Conseil de l’ordre est notifiée à l’avocat intéressé par lettre recommandée avec accusé de réception. Elle est susceptible d’un recours devant le Conseil disciplinaire et administratif dans un délai de quarante jours à partir de la notification à l’avocat.
+**(2)** La convocation informe le magistrat mis en cause du fait qu’une instruction disciplinaire est en cours et des manquements qui lui sont reprochés.
 
-**(2)** L’avocat honoraire reste soumis à la juridiction disciplinaire des avocats.
-
-**(3)** L’avocat honoraire est libre d’exercer toute activité autre que celle contraire à la dignité de l’Ordre; il ne peut faire aucun acte rentrant dans l’exercice de la profession d’avocat.
-
-**(4)** L’avocat honoraire peut prendre part aux réunions et aux cérémonies de l’Ordre; il n’a pas droit de vote aux assemblées générales. Il peut revêtir la robe au cours des cérémonies de l’Ordre auquel il participe. Il prend la place que lui assigne son ancienneté d’inscription au tableau. Il a droit d’accès à la bibliothèque de l’Ordre.
-
-#### Chapitre VI.- — Dispositions pénales
-
-<a id="art_N1D070"></a>
+<a id="art_N1C036"></a>
 
 ### Art. 41.
 
-**(1)** L’usage non autorisé des titres «avocat», «avocat à la Cour», «avocat-avoué», «avoué», «avocat honoraire» ainsi que l’usage de tous autres termes comprenant ces mots ou leur équivalent et l’usage non autorisé d’un titre professionnel étranger prévu par la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise, sont punis d’une amende de 500,- à 25.000,- euros. En cas de récidive, l’amende est portée au double.
+Le magistrat mis en cause peut se faire assister par un avocat à l’occasion de l’audition et des actes subséquents de l’instruction disciplinaire.
 
-**(2)** L’exercice illégal de la profession d’avocat ou l’exercice illégal de la profession d’avocat sous le titre professionnel d’origine visée par la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise, est puni d’une amende de 500,- à 25.000,- euros et d’un emprisonnement de huit jours à six mois ou d’une de ces peines seulement.
-
-**(3)** Les dispositions du Livre premier du code pénal et des articles 130-1 à 132-1 du code d’instruction criminelle sont applicables aux infractions prévues aux deux paragraphes qui précèdent.
-
-**(4)** La violation du secret des communications entre l’avocat et son client et la révélation des documents et des secrets confiés à l’avocat dans l’exercice de ses fonctions, commises par un fonctionnaire ou officier public, par un dépositaire ou agent de l’autorité et de la force publique sont punies par les peines comminées par l’article 151 du code pénal, sans préjudice des dispositions des articles 152 et 260 du même code.
-
-La violation du secret des communications entre l’avocat et son client et la révélation des documents et des secrets confiés à l’avocat dans l’exercice de ses fonctions commises par toutes autres personnes que celles visées dans l’alinéa qui précède sont punies par les peines comminées par l’article 151 du code pénal.
-
-**(5)** Les infractions à l’article 35, paragraphes (1) à (3) sont punies des peines prévues à l’article 458 du code pénal.
-
-#### Chapitre VII.- — Dispositions abrogatoires et modificatives
-
-<a id="art_N1D130"></a>
+<a id="art_N1C046"></a>
 
 ### Art. 42.
 
-Sont abrogés:
+Le magistrat mis en cause et son avocat peuvent prendre inspection du dossier dès la convocation visée à l’article 40 et par la suite à tout moment de l’instruction disciplinaire.
 
-1. décret impérial du 19 juillet 1810
-2. décret impérial du 14 décembre 1810
-3. loi du 23 août 1882
-4. loi du 7 mars 1980
-5. code de commerce
-6. loi du 10 avril 1911 arrêté grand-ducal du 14 août 1911 loi
-7. règlement grand-ducal du 27 mars 1964
-
-<a id="art_N1D1AC"></a>
+<a id="art_N1C056"></a>
 
 ### Art. 43.
 
-Sont modifiés comme suit:
+Le magistrat mis en cause peut demander un complément d’instruction disciplinaire à l’instructeur disciplinaire.
 
-1. 
-2. La loi du 7 mars 1980 sur l’organisation judiciaire. Le troisième alinéa de l’article 134 est modifié comme suit: L’article 172 est modifié par l’ajout de la disposition suivante:
-3. La loi du 29 avril 1980 réglant l’activité en prestations de service, au Grand-Duché de Luxembourg, des avocats habilités à exercer leurs activités dans un autre Etat membre des Communautés Européennes. L’article 6 est remplacé par la disposition suivante:
-4. La loi du 8 février 1961 portant organisation du Conseil d’Etat, telle qu’elle a été modifiée: A l’article 13, alinéa 2, les termes avocats inscrits aux tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat.
-5. L’arrêté royal grand-ducal du 21 août 1866 portant règlement de procédure en matière de contentieux devant le Conseil d’Etat, tel qu’il a été modifié. 1. avocat inscrit à l’un des tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement loi sur la profession d’avocat
-2. Le troisième alinéa de l’article premier est supprimé.
-3. loi du 16 janvier 1866 loi sur la profession d’avocat
-4. avocats inscrits au tableau dressé chaque année par le Tribunal d’arrondissement, à Luxembourg, loi sur la profession d’avocat
-6. Le code de procédure civile. A l’article 421 les termes par le ministère d’un fondé de procuration spéciale sont remplacés par par le ministère d’un avocat.
-7. La loi électorale du 31 juillet 1924 telle qu’elle a été modifiée. A l’alinéa 1er du point 9) de l’article 97 il est ajouté la phrase suivante: Le contrat de travail peut être remplacé par une convention d’honoraires dans le cas où il s’agit de l’engagement d’un avocat inscrit au tableau de l’un des ordres des avocats ou d’un membre d’une autre profession indépendante dont l’accès et l’exercice sont réglementés.
-
-#### Chapitre VIII.- — Entrée en vigueur
-
-<a id="art_N1D2E6"></a>
+<a id="art_N1C066"></a>
 
 ### Art. 44.
 
-**(1)** Les dispositions de la présente loi entrent en vigueur le troisième jour qui suit leur publication au Mémorial, sous réserve des dispositions des paragraphes suivants.
+Aussitôt que l’instruction disciplinaire lui paraît terminée, l’instructeur disciplinaire communique son rapport au Conseil national de la justice.
 
-**(2)** L’élection des Bâtonniers, des Conseils de l’ordre et du Conseil discipliniaire et administratif a lieu dans le mois qui suit le 15 septembre 1991.
+<a id="art_N1C076"></a>
 
-**(3)** Les fonctions des Bâtonniers et Conseils de l’ordre en exercice prennent fin le jour des élections visées au paragraphe (2).
+### Art. 45.
 
-**(4)** Les dispositions de l’article 10 (3) ne sont applicables qu’aux avocats admis au stage après l’entrée en vigueur de la présente loi.
+**(1)** À l’issue de l’instruction disciplinaire, le Conseil national de la justice ordonne :
 
-**(5)** Les dispositions de l’article 37 (4) entrent en vigueur à la date de mise en vigueur du règlement grand-ducal qui y est prévu.
+1. soit le classement sans suites de l’affaire lorsqu’il estime que les faits ne sont pas susceptibles d’être qualifiés de faute disciplinaire ;
+2. soit le renvoi de l’affaire devant le Tribunal disciplinaire des magistrats lorsqu’il estime que les faits sont susceptibles d’être qualifiés de faute disciplinaire ;
+3. soit un supplément d’instruction disciplinaire lorsqu’il estime que l’affaire n’est pas encore suffisamment instruite.
 
-Jusqu’à cette date, par dérogation à l’article 42 (1), les dispositions en vigueur en matière de défense des intérêts en justice des indigents restent d’application.
+**(2)** L’instructeur disciplinaire ne participe pas aux décisions visées au paragraphe 1er.
 
-### Version consolidée applicable au 22/08/2021 : Loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l'exercice permanent de la profession d'avocat dans un Etat membre autre que celui où la qualification a été acquise et portant: 1. modification de la loi modifiée du 10 août 1991 sur la profession d'avocat; 2. modification de la loi du 31 mai 1999 régissant la domiciliation des sociétés.
+<a id="art_N1C0AE"></a>
 
-<a id="art_N1D386"></a>
+### Art. 46.
 
-### Art. 1er.
+Le Conseil national de la justice délègue un de ses membres pour :
 
-**(1)** La présente loi règle l’exercice permanent au Grand-Duché de Luxembourg de la profession d’avocat de toute personne, ressortissant d’un État membre de l’Union européenne ou d’un État qui, en vertu d’un accord en vigueur au Luxembourg, bénéficie d’une extension à son égard de l’application de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un État membre autre que celui où la qualification a été acquise, qui a acquis la qualification professionnelle et est habilitée à exercer ses activités professionnelles dans un autre État membre de l’Union européenne ou d’un État qui, en vertu d’un accord en vigueur au Luxembourg, bénéficie d’une extension à son égard de l’application de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un État membre autre que celui où la qualification a été acquise, ci-après appelé « État membre d’origine », sous l’un des titres professionnels mentionnés ci-après :
+1. prendre des réquisitions devant les juridictions disciplinaires ;
+2. déclarer l’appel au greffe.
 
-- en Belgique: Avocat/Advocaat/Rechtsanwalt,
-- en Bulgarie: Aдвокат,
-- en République tchèque: Advokát,
-- au Danemark: Advokat,
-- en Allemagne: Rechtsanwalt,
-- en Estonie: Vandeadvokaat,
-- Δικηγόρος
-- en Espagne: Abogado/Advocat/Avogado/Abokatu,
-- en France: Avocat,
-- en Irlande: Barrister/Solicitor,
-- en Italie: Avvocato,
-- Δικηγόρος
-- en Lettonie: Zvērināts advokāts,
-- en Lituanie: Advokatas,
-- en Hongrie: Ügyvéd,
-- à Malte: Avukat/Prokuratur Legali,
-- aux Pays-Bas: Advocaat,
-- en Autriche: Rechtsanwalt,
-- en Pologne: Adwokat/Radca prawny,
-- au Portugal: Advogado,
-- en Roumanie: Avocat,
-- en Slovénie: Odvetnik/Odvetnica,
-- en Slovaquie: Advokát/Komerĉný právnik,
-- en Finlande: Asianajaja/Advokat,
-- en Suède: Advokat,
-- au Royaume-Uni: Advocate/Barrister/Solicitor
-- en Croatie: Odvjetnik/Odvjetnica.
-- en Islande: Lögmaour
-- au Liechtenstein: Rechtsanwalt
-- en Norvège: Advokat,
-- en Suisse: Avocat, Avvocato, Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech.
+##### **Section 6. ** — **Du jugement des affaires disciplinaires**
 
-**(2)** Aux fins de la présente loi, la personne visée au point (1) ci-dessus est désignée par les termes «avocat européen». Cette désignation ne constitue pas un titre professionnel et il ne peut en être fait usage à des fins professionnelles ou publicitaires.
+<a id="art_N1C0DA"></a>
 
-Les dispositions de la loi modifiée du 10 août 1991 sur la profession d'avocat, ci-après dénommé «la loi du 10 août 1991», s'appliquent à l'avocat européen dans la mesure où il n'y est pas dérogé par la présente loi.
+### Art. 47.
 
-<a id="art_N1D47B"></a>
+**(1)** Au plus tard quinze jours avant l’audience, le greffier du Tribunal disciplinaire des magistrats notifie la convocation au magistrat mis en cause, à son avocat et au Conseil national de la justice.
 
-### Art. 2.
+**(2)** Le magistrat mis en cause et son avocat ont droit à la communication intégrale du dossier disciplinaire dès la notification de la convocation.
 
-Tout avocat européen a le droit d'exercer à titre permanent au Grand-Duché de Luxembourg, sous son titre professionnel d'origine, les activités d'avocat à titre indépendant ou salarié conformément aux dispositions de la loi du 10 août 1991 et de la présente loi.
+**(3)** Le dossier disciplinaire peut être communiqué par la voie électronique.
 
-<a id="art_N1D4B3"></a>
+<a id="art_N1C111"></a>
 
-### Art. 3.
+### Art. 48.
 
-**(1)** Pour pouvoir exercer au Grand-Duché de Luxembourg sous son titre d'origine, l'avocat européen doit avoir obtenu son inscription au tableau de l'un des Ordres des Avocats du Grand-Duché de Luxembourg.
+**(1)** Sur les réquisitions du délégué du Conseil national de la justice, le Tribunal disciplinaire des magistrats ne peut statuer qu’après avoir entendu le magistrat mis en cause en ses explications ou convoqué ce magistrat.
 
-A ces fins, il doit adresser une demande complète en langue française au Bâtonnier de l'Ordre des Avocats dans l'arrondissement judiciaire où il entend s'établir. Outre les documents et informations visés au point (2) ci-après, l'avocat européen doit également indiquer dans sa demande s'il est membre d'un groupe dans son Etat membre d'origine et, le cas échéant, fournir toutes les informations utiles relatives à ce groupe.
+**(2)** Le Tribunal disciplinaire des magistrats peut ordonner un complément d’instruction disciplinaire soit d’office, soit à la demande du magistrat mis en cause ou du délégué du Conseil national de la justice.
 
-**(2)** Le Conseil de l’Ordre des Avocats du Grand-Duché de Luxembourg saisi de la demande de l’avocat européen à pouvoir exercer sous son titre professionnel d’origine, procède à l’inscription de l’avocat européen au tableau des avocats de cet Ordre au vu de la présentation :
+Il désigne un de ses membres pour procéder au complément d’instruction disciplinaire.
 
-- loi du 10 août 1991
-- Directive 98/5/UE
-- de l’attestation de l’inscription de l’avocat européen concerné auprès de l’autorité compétente de l’État membre d’origine. Cette attestation de l’État membre d’origine ne doit pas dater de plus de trois mois.
+<a id="art_N1C141"></a>
 
-L’inscription de l’avocat européen au tableau de l’Ordre des Avocats a lieu sur la liste IV des avocats exerçant sous leur titre professionnel d’origine, tel que visé par l’article 8 (3) point 4 de la loi du 10 août 1991. La condition d’inscription prévue à l’article 6 (1) d) de la loi du 10 août 1991 ne s’applique pas aux inscriptions à la liste IV précitée.
+### Art. 49.
 
-Le Conseil de l’Ordre qui procède à l’inscription, en informe l’autorité compétente de l’État membre d’origine.
+**(1)** Lorsque le magistrat mis en cause ne comparaît pas, la décision de la juridiction disciplinaire est rendue par défaut lorsque la convocation n’a pas été notifiée à la personne de ce magistrat.
 
-**(3)** Les décisions de refus de l'inscription visée au paragraphe (2) ci-dessus ou de retrait de cette inscription doivent être motivées. Elles sont notifiées à l'avocat européen par lettre recommandée avec avis de réception. Les décisions sont susceptibles des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+La décision est réputée contradictoire en cas de notification à personne de la convocation.
 
-**(4)** Lorsqu'un des Ordres des Avocats du Grand-Duché de Luxembourg publie les noms des avocats inscrits sur son tableau, il publie également le nom des avocats européens y inscrits qui exercent sous leur titre professionnel d'origine.
+**(2)** Le magistrat condamné disciplinairement peut former opposition contre la décision rendue par défaut.
 
-**(5)** Lorsque l'autorité compétente d'un Etat membre autre que le Luxembourg procède à l'inscription d'un avocat à la Cour inscrit auprès de l'un des Ordres des Avocats du Grand-Duché de Luxembourg, l'information visée à l'article 3, paragraphe (2) de la directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 est transmise au Bâtonnier de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel est inscrit cet avocat.
+Le délai d’opposition est de quinze jours à compter de la notification de la décision.
 
-<a id="art_N1D598"></a>
+L’opposition est faite par déclaration au greffe de la juridiction ayant rendu la décision.
 
-### Art. 4.
+<a id="art_N1C183"></a>
 
-L'avocat européen exerçant au Grand-Duché de Luxembourg sous son titre professionnel d'origine est tenu de le faire sous ce titre, qui doit être indiqué dans la ou l'une des langues officielles de l'Etat membre d'origine, de manière intelligible et susceptible d'éviter toute confusion avec le titre professionnel luxembourgeois attribué aux avocats inscrits sur les listes I, II et III des tableaux des avocats visés par l'article 8 (3) de la loi du 10 août 1991.
+### Art. 50.
 
-A cet effet, si l'avocat européen exerce sous le titre professionnel d'origine «avocat», il doit ajouter la mention de l'organisation professionnelle dont il relève dans l'Etat membre d'origine ou de la juridiction auprès de laquelle il est admis en application de la législation de l'Etat membre d'origine.
+**(1)** Le magistrat condamné disciplinairement et le Conseil national de la justice peuvent faire appel contre le jugement du Tribunal disciplinaire des magistrats.
 
-<a id="art_N1D5D3"></a>
+**(2)** L’appel est formé par déclaration au greffe du Tribunal disciplinaire des magistrats dans un délai de trente jours à compter de la notification du jugement par le greffier.
 
-### Art. 5.
+**(3)** Les dispositions des articles 47 à 49 sont applicables.
 
-**(1)** Sous réserve des paragraphes (2), (3) et (4), l'avocat exerçant sous son titre professionnel d'origine pratique les mêmes activités professionnelles que l'avocat exerçant sous le titre professionnel luxembourgeois d'avocat ou d'avocat à la Cour d'un des Ordres des Avocats du Grand-Duché de Luxembourg. Il peut notamment donner des consultations juridiques dans le droit de son Etat membre d'origine, en droit communautaire, en droit international et en droit luxembourgeois. Il respecte en tout cas les règles de procédure applicables devant les juridictions luxembourgeoises.
+**(4)** L’arrêt de la Cour disciplinaire des magistrats n’est susceptible d’aucun pourvoi en cassation.
 
-**(2)** Sont exclues des activités dudit avocat, les activités réservées au Luxembourg à des professions différentes de celles de l'avocat, tels les notaires.
+<a id="art_N1C1CA"></a>
 
-**(3)** Sont également exclues du domaine d'activité des avocats européens les activités exercées en libre prestation de services au sens de la directive 77/249/CEE du Conseil du 22 mars 1977, telle que modifiée.
+### Art. 51.
 
-**(4)** Pour les actes et procédures soumis par les lois et règlements au ministère d'avocat à la Cour, l'avocat européen exerçant sous son titre professionnel d'origine doit agir de concert avec un avocat à la Cour qui se constitue et qui est responsable à l'égard de la juridiction.
+**(1)** Le magistrat suspendu de ses fonctions peut présenter au président de la Cour disciplinaire des magistrats une requête en sursis à exécution de la suspension.
 
-<a id="art_N1D641"></a>
+**(2)** Les dispositions des articles 47 et 48, paragraphe 1er, sont applicables.
 
-### Art. 6.
+**(3)** L’ordonnance du président de la Cour disciplinaire des magistrats, ou du magistrat qui l’a remplacé, n’est susceptible d’aucune voie de recours.
 
-**(1)** Indépendamment des règles professionnelles et déontologiques auxquelles il est soumis dans son Etat membre d'origine, l'avocat européen exerçant sous son titre professionnel d'origine est soumis, pour toutes les activités qu'il exerce sur le territoire luxembourgeois, aux mêmes règles professionnelles et déontologiques que les avocats inscrits sur les listes I, II et III des tableaux des avocats visés par l'article 8 (3) de la loi du 10 août 1991.
+**(4)** Ne peut plus siéger au fond le magistrat ayant statué sur la requête en sursis à exécution de la suspension.
 
-**(2)** L'avocat européen exerçant sous son titre professionnel d'origine, dûment inscrit au tableau d'un des Ordres des Avocats du Grand-Duché de Luxembourg, a le droit de vote aux élections de l'assemblée générale de cet Ordre.
+<a id="art_N1C214"></a>
 
-**(3)** L'avocat européen exerçant sous son titre professionnel d'origine est obligé de payer sa cotisation à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit. Il est de même tenu de justifier de la souscription d'une assurance de responsabilité professionnelle, dans les conditions et selon les modalités prévues pour les avocats à la Cour par le règlement d'ordre intérieur du Conseil de l'Ordre visé à l'article 19, point 5 de la loi modifiée du 10 août 1991, à moins qu'il ne justifie être couvert par une assurance équivalente souscrite selon les modalités de l'Etat d'origine.
+### Art. 52.
 
-<a id="art_N1D6A6"></a>
+Le greffier fait les notifications et convocations par lettre recommandée dans les conditions déterminées par l’article 170 du Nouveau Code de procédure civile.
 
-### Art. 7.
+<a id="art_N1C229"></a>
 
-**(1)** En cas de manquement de l'avocat européen exerçant sous son titre professionnel d'origine aux obligations en vigueur au Grand-Duché de Luxembourg, les règles de procédure, les sanctions et les recours prévus par le chapitre IV de la loi du 10 août 1991 sont d'application.
+### Art. 53.
 
-**(2)** Avant d'ouvrir une procédure disciplinaire à l'encontre de l'avocat européen exerçant sous son titre professionnel d'origine, le Conseil de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel ledit avocat est inscrit, en informe dans les plus brefs délais l'autorité compétente de l'Etat membre d'origine en lui donnant toutes les informations utiles.
+Lorsque les décisions rendues en matière disciplinaire sont devenues définitives, elles sont communiquées, dans un délai de cinq jours, au ministre de la justice aux fins de leur exécution.
 
-**(3)** Sans préjudice du pouvoir décisionnel du Conseil de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel l'avocat européen est inscrit sous son titre professionnel d'origine, le Conseil de l'Ordre des Avocats coopère tout au long de la procédure disciplinaire avec l'autorité compétente de l'Etat membre d'origine.
+#### **Chapitre 6. ** — **Des absences, du service à temps partiel et du détachement**
 
-Le Conseil de l'Ordre des Avocats informe dans les plus brefs délais l'autorité compétente de l'Etat membre d'origine de la décision prise par les instances disciplinaires de l'Ordre des Avocats auprès duquel l'avocat européen est inscrit, sans préjudice des suites que pourrait y donner l'autorité compétente de l'Etat membre d'origine.
+<a id="art_N1C24B"></a>
 
-**(4)** Lorsque le Conseil disciplinaire et administratif d'appel est saisi du recours de l'avocat européen contre une décision prononçant une sanction disciplinaire, le Conseil de l'Ordre des Avocats auprès duquel l'avocat européen est inscrit en informe dans les plus brefs délais, par lettre recommandée avec avis de réception, l'autorité compétente de l'Etat membre d'origine de l'avocat sanctionné. L'autorité compétente de l'Etat membre d'origine peut, dans le délai d'un mois de cette information, transmettre ses observations au Conseil de l'Ordre, qui les continuera au Conseil disciplinaire et administratif d'appel.
+### Art. 54.
 
-**(5)** L'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel l'avocat européen exerçant sous son titre professionnel d'origine est inscrit est l'autorité compétente pour recevoir les informations concernant l'ouverture par une autorité compétente de l'Etat membre d'origine d'une procédure disciplinaire contre ledit avocat.
+Aucun magistrat ne peut s’absenter si le service va souffrir de son absence.
 
-Le retrait temporaire ou définitif de l'autorisation d'exercer la profession d'avocat par l'autorité compétente de l'Etat membre d'origine, entraine automatiquement, pour l'avocat européen concerné, l'interdiction temporaire ou définitive d'exercer sous son titre professionnel d'origine dans l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit ou tout autre Ordre des Avocats du Grand-Duché de Luxembourg.
+<a id="art_N1C25B"></a>
 
-<a id="art_N1D737"></a>
+### Art. 55.
 
-### Art. 8.
+**(1)** Pour les absences de plus de trois jours, le magistrat demande l’autorisation préalable du chef de corps dont il relève et informe le Conseil national de la justice avant son absence.
 
-Les emplois salariés sont incompatibles avec l'exercice de la profession d'avocat européen exerçant sous son titre professionnel d'origine, à l'exception de l'emploi sous ce titre en qualité d'avocat salarié auprès d'un autre avocat, inscrit à l'un des Ordres des Avocats du Grand-Duché de Luxembourg.
+Pour les absences de plus d’un mois, le magistrat demande l’autorisation préalable du Conseil national de la justice, qui sollicite l’avis motivé du chef de corps.
 
-<a id="art_N1D769"></a>
+**(2)** Pour les absences de plus de trois jours :
 
-### Art. 9.
+1. les présidents des tribunaux d’arrondissement et les juges de paix directeurs demandent l’autorisation préalable du président de la Cour supérieure de justice et informent le Conseil national de la justice avant leur absence ;
+2. les procureurs d’État et le directeur de la Cellule de renseignement financier demandent l’autorisation préalable du procureur général d’État et informent le Conseil national de la justice avant leur absence ;
+3. le président du Tribunal administratif demande l’autorisation préalable du président de la Cour administrative et informe le Conseil national de la justice avant son absence.
 
-**(1)** L'avocat européen exerçant sous son titre professionnel d'origine qui justifie d'une activité effective et régulière d'une durée d'au moins trois ans au Luxembourg et dans le droit luxembourgeois, y compris le droit communautaire, est dispensé de l'épreuve d'aptitude prévue par la loi du 10 août 1991 déterminant, pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, pour accéder à la profession d'avocat à la Cour inscrit à la liste I du tableau de l'un des Ordres des Avocats du Grand-Duché de Luxembourg. On entend par activité «effective et régulière» l'exercice réel de l'activité d'avocat sans interruption autre que celle résultant des événements de la vie courante.
+Pour les absences de plus d’un mois, les chefs de corps demandent l’autorisation préalable du Conseil national de la justice, qui sollicite l’avis motivé :
 
-Il incombe à l'avocat européen exerçant sous son titre professionnel d'origine d'apporter à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit sous son titre professionnel d'origine, la preuve de cette activité effective et régulière d'une durée d'au moins trois ans dans le droit luxembourgeois. A cet effet:
+1. du président de la Cour supérieure de justice lorsque la demande émane d’un président du tribunal d’arrondissement ou d’un juge de paix directeur ;
+2. du procureur général d’État lorsque la demande émane d’un procureur d’État ou du directeur de la Cellule de renseignement financier ;
+3. du président de la Cour administrative lorsque la demande émane du président du Tribunal administratif.
 
-1. l'avocat européen exerçant sous son titre professionnel d'origine fournit à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit, toute information et tout document utiles, notamment le nombre et la nature des dossiers traités par lui;
-2. l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel l'avocat européen est inscrit, peut vérifier le caractère régulier et effectif de l'activité exercée et, en cas de besoin, inviter l'avocat à fournir oralement ou par écrit des clarifications ou des précisions additionnelles relatives aux informations et documents mentionnés au point a)
+**(3)** Le président de la Cour supérieure de justice, le procureur général d’État et le président de la Cour administrative informent le Conseil national de la justice avant toute absence supérieure à trois jours.
 
-La décision de l'Ordre des Avocats du Grand-Duché de Luxembourg compétent de ne pas accorder la dispense de l'épreuve d'aptitude prévue par la loi du 10 août 1991 déterminant, pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, doit être motivée. Elle est notifiée à l'avocat européen par lettre recommandée avec avis de réception. La décision est susceptible des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+**(4)** Les paragraphes 1er à 3 ne s’appliquent pas aux absences qui peuvent être faites pendant les vacances par le magistrat qui n’est retenu par aucun service.
 
-**(2)** L'avocat européen exerçant sous son titre professionnel d'origine, qui justifie d'une activité effective et régulière d'une durée d'au moins trois ans dans l'un des Ordres des Avocats du Grand-Duché de Luxembourg mais d'une durée moindre dans le droit luxembourgeois, peut obtenir de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit, son accès à la profession d'avocat à la Cour inscrit à la liste I du tableau de cet Ordre et le droit d'exercer cette profession sous le titre professionnel d'avocat à la Cour, sans être tenu de se soumettre à l'épreuve d'aptitude prévue par la loi du 10 août 1991 déterminant, pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, dans les conditions et modalités décrites ci-après:
+<a id="art_N1C2D3"></a>
 
-1. l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel ledit avocat européen est inscrit, prend en considération l'activité effective et régulière pendant la période visée ci-dessus, ainsi que toute connaissance et toute expérience professionnelle en droit luxembourgeois et toute participation à des cours ou à des séminaires portant sur le droit luxembourgeois y compris le droit professionnel et la déontologie;
-2. l'avocat européen exerçant sous son titre professionnel d'origine fournit à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit, toute information et tout document utiles notamment sur les dossiers traités par lui. L'appréciation de l'activité effective et régulière de l'avocat européen développée à Luxembourg, comme l'appréciation de sa capacité à poursuivre l'activité qu'il y a exercée, est faite dans le cadre d'un entretien avec l'Ordre des Avocats du Grand-Duché de Luxembourg, spécialement destiné à ces fins.
+### Art. 56.
 
-La décision de l'Ordre des Avocats compétent de ne pas accorder à l'avocat européen l'accès à la profession d'avocat à la Cour si la preuve n'est pas rapportée que les exigences fixées ci-dessus sont remplies, doit être motivée. Elle est notifiée à l'avocat européen par lettre recommandée avec avis de réception. La décision est susceptible des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+**(1)** Les demandes de service à temps partiel sont adressées au Conseil national de la justice.
 
-**(3)** L'avocat européen qui accède à la liste I des avocats à la Cour du tableau de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit peut, à tout moment, obtenir à sa demande le transfert de son inscription à la liste I des avocats à la Cour du tableau d'un autre Ordre des Avocats du Grand-Duché de Luxembourg.
+**(2)** Après avoir sollicité l’avis motivé du chef de corps, le Conseil national de la justice accorde ou refuse le service à temps partiel.
 
-**(4)** L'avocat européen exerçant sous son titre professionnel d'origine dans un Ordre des Avocats du Grand-Duché de Luxembourg peut, à tout moment, demander la reconnaissance de son diplôme selon la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 aux fins d'accéder à la profession d'avocat dans l'un des Ordres des Avocats du Grand-Duché de Luxembourg et de l'exercer sous le titre d'avocat à la Cour, sur base de la loi du 10 août 1991 déterminant, 3204 pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans.
+<a id="art_N1C2FA"></a>
 
-**(5)** L'Ordre des Avocats du Grand-Duché de Luxembourg chargé de l'examen de la demande d'un avocat européen en application des paragraphes qui précèdent, assure le secret des informations obtenues.
+### Art. 57.
 
-<a id="art_N1D846"></a>
+**(1)** Le magistrat peut, de son accord, être temporairement détaché auprès d’une juridiction internationale ou européenne, d’une autre instance internationale ou européenne ou d’une administration nationale.
 
-### Art. 10.
+**(2)** Les demandes de détachement sont adressées au Conseil national de la justice, qui demande l’avis motivé du chef de corps.
 
-L'Ordre des Avocats du Grand-Duché de Luxembourg concerné peut, par décision motivée, refuser d'admettre l'avocat européen au bénéfice des dispositions de l'article 9, s'il apparaît que l'odre public serait atteint en raison, plus particulièrement de poursuites disciplinaires, plaintes ou incidents de toute nature. La décision est notifiée à l'avocat européen par lettre recommandée avec avis de réception. La décision est susceptible des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+Le détachement est accordé ou refusé par le Grand-Duc sur avis motivé du Conseil national de la justice.
 
-<a id="art_N1D87E"></a>
+**(3)** Le poste laissé vacant par le magistrat détaché est occupé par un nouveau titulaire.
 
-### Art. 11.
+Au terme du détachement, le magistrat ainsi remplacé est réintégré à un poste équivalent à la fonction qu’il exerçait avant le détachement.
 
-L'exercice en groupe de la profession d'avocat n'est permis que dans les limites prévues par les dispositions de l'article 34 de la loi du 10 août 1991.
+À défaut de vacance de poste adéquat, ce magistrat est nommé hors cadre à un poste comportant le même rang et le même traitement que ceux dont il bénéficiait avant le détachement.
 
-L'exercice de la profession d'avocat au sein d'un groupe comportant des personnes extérieures à la profession d'avocat est interdit. Un avocat européen inscrit à l'un des Ordres des Avocats du Grand-Duché de Luxembourg sous son titre professionnel d'origine, et membre d'un tel groupe, n'a pas le droit d'exercer au Luxembourg en qualité de membre de ce groupe.
+#### **Chapitre 7. ** — **De la mise à la retraite**
 
-Le groupe est considéré comme comportant des personnes extérieures à la profession si:
+<a id="art_N1C35D"></a>
 
-- le capital de celui-ci est détenu en tout ou en partie, ou
-- la dénomination sous laquelle il exerce est utilisée, ou
-- le pouvoir de décision y est exercé, en fait ou en droit,
+### Art. 58.
 
-par des personnes n'ayant pas la qualité d'avocat au sens de l'article 1er de la loi du 10 août 1991.
+Le magistrat est de plein droit mis à la retraite lorsqu’il a atteint l’âge de soixante-huit ans.
 
-L'ouverture au Grand-Duché de Luxembourg d'une succursale ou d'une agence d'un groupe d'avocats comportant dans l'Etat membre d'origine, des personnes extérieures à la profession d'avocat, est interdite.
+<a id="art_N1C36D"></a>
 
-<a id="art_N1D8D8"></a>
+### Art. 59.
 
-### Art. 12.
+**(1)** Le magistrat est mis à la retraite lorsqu’une affection grave et permanente ne lui permet plus de remplir convenablement ses fonctions.
 
-**(1)** L'avocat européen exerçant sous son titre professionnel d'origine qui accède à la liste I des avocats à la Cour du tableau de l'un des Ordres des Avocats du Grand-Duché de Luxembourg, a le droit de faire usage, à côté du titre professionnel d'avocat inscrit à cet Ordre, de son titre professionnel d'origine indiqué dans la ou les langues officielles de l'Etat membre d'origine.
+**(2)** Le Conseil national de la justice peut demander au magistrat de se soumettre à un examen médical par un médecin de contrôle en service auprès de l’Administration des services médicaux du secteur public.
 
-**(2)** Sous réserve des dispositions de l'article 11, l'avocat européen exerçant sous son titre professionnel d'origine, inscrit à l'un des Ordres des Avocats du Grand-Duché de Luxembourg, et membre d'un groupe d'avocats dans son Etat membre d'origine peut faire mention de la dénomination dudit groupe.
+**(3)** La Commission des pensions est saisie par le Conseil national de la justice :
 
-L'Ordre des Avocats auquel l'avocat européen est inscrit peut exiger que soit indiqué, en plus de la dénomination visée à l'alinéa ci-dessus la forme juridique du groupe dans l'Etat membre d'origine et/ou les noms des membres du groupe exerçant dans l'Etat membre d'accueil.
+1. lorsque le médecin de contrôle certifie une affection ne permettant plus au magistrat de remplir convenablement ses fonctions ;
+2. lorsque le magistrat refuse de se soumettre à un examen médical.
 
-<a id="art_N1D92A"></a>
+#### **Chapitre 8. ** — **Dispositions modificatives**
 
-### Art. 13.
+##### **Section 1re. ** — **Modification du Code pénal**
 
-Afin d'éviter que les dispositions de la Directive 98/5 du Parlement européen et du Conseil du 16 février 1998 et de la présente loi ne soient, le cas échéant, détournées dans le seul but d'échapper aux règles applicables au Grand-Duché de Luxembourg, le Conseil de l'Ordre compétent et l'autorité compétente de l'Etat membre d'origine collaborent étroitement et s'accordent une assistance mutuelle.
+<a id="art_N1C3D3"></a>
 
-Les autorités compétentes assurent la confidentialité des informations qu'elles échangent.
+### Art. 60.
 
-<a id="art_N1D965"></a>
+Le Code pénal est modifié comme suit :
 
-### Art. 14.
+1. *Le faux témoignage en matière civile et administrative est puni d’un emprisonnement de deux mois à trois ans.* *Les dispositions de l’alinéa qui précède sont également applicables au faux témoignage devant le Tribunal disciplinaire des magistrats et la Cour disciplinaire des magistrats.*
+2. *L’interprète et l’expert coupables de fausses déclarations, soit en matière criminelle, contre l’accusé ou en sa faveur, soit en matière correctionnelle ou de police, contre le prévenu ou en sa faveur, soit en matière civile, sont punis comme faux témoins, conformément aux articles 215, 216, 218, 219 et 220.* *Les dispositions de l’alinéa qui précède sont également applicables à l’expert et à l’interprète coupables de fausses déclarations devant le Tribunal disciplinaire des magistrats et la Cour disciplinaire des magistrats.* *L’expert en matière criminelle qui aurait été entendu sans prestation de serment est puni conformément à l’article 217.*
 
-La loi modifiée du 10 août 1991 sur la profession d'avocat est modifiée comme suit:
+##### **Section 2. ** — **Modification du Code de procédure pénale**
 
-1. L'article 4, paragraphe (2) est modifié comme suit:
-2. La première phrase de l'article 6 (1) b) est modifiée comme suit:
-3. Il est ajouté à l'article 6 (1) un point d) libellé comme suit:
-4. ère
-5. Il est ajouté à l'article 8 (3) un point 4, libellé comme suit:
-6. La première phrase de l'article 9 (2) est modifiée comme suit:
-7. La première phrase de l'article 12 est modifiée comme suit:
-8. La première phrase de l'article 15 (3) est modifiée comme suit:
-9. L'article 16 (1) est modifié comme suit:
-10. L'article 25 est modifié comme suit:
-11. La première phrase du paragraphe (2) de l'article 28 est modifié comme suit:
-12. ème
-13. Il est ajouté à l'article 28 (2) un 6ème alinéa libellé comme suit:
-14. L'article 28 (3) est complété par une seconde phrase libellée comme suit:
-15. La première phrase de l'article 39 est modifiée comme suit:
-16. Le paragraphe (1) de l'article 41 est modifié comme suit:
-17. Le paragraphe (2) de l'article 41 est modifié comme suit:
+<a id="art_N1C458"></a>
 
-<a id="art_N1DB3A"></a>
+### Art. 61.
 
-### Art. 15.
+Le Code de procédure pénale est modifié comme suit :
 
-Le deuxième alinéa de l'article 1er (1) de la loi du 31 mai 1999 régissant la domiciliation des sociétés est modifié comme suit:
+1. *Le magistrat du parquet est tenu de prendre des réquisitions écrites conformes aux instructions qui lui sont données par le procureur général d’État respectivement par le procureur d’État auquel il est rattaché.* *Il développe librement les observations orales qu’il croit convenables au bien de la justice.*
+2. *Le procureur général d’État est chargé de veiller à l’application de la loi pénale sur toute l’étendue du territoire national.* *Il coordonne l’action des procureurs d’État en ce qui concerne tant la prévention que la répression des infractions à la loi pénale, ainsi que la conduite de la politique d’action publique par les parquets.* *Il a, dans l’exercice de ses fonctions, le droit de requérir directement la force publique.*
+3. *Le ministre de la justice peut adresser au procureur général d’État des directives de politique pénale, arrêtées par le Gouvernement en conseil.*
+4. *Le procureur général d’État a autorité sur tous les magistrats du parquet.* *Il peut enjoindre aux procureurs d’État, par des instructions écrites et versées au dossier de la procédure, d’engager ou de faire engager des poursuites ou de saisir la juridiction compétente de telles réquisitions écrites qu’il juge opportunes*.
+5. L’article 421 est abrogé.
+
+##### **Section 3. ** — **Modification de la loi modifiée du 18 février 1885 sur les pourvois et la procédure de cassation**
+
+<a id="art_N1C52E"></a>
+
+### Art. 62.
+
+L’article 6 de la loi modifiée du 18 février 1885 sur les pourvois et la procédure de cassation est abrogé.
+
+##### **Section 4. ** — ** Modification de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire**
+
+<a id="art_N1C555"></a>
+
+### Art. 63.
+
+La loi modifiée du 7 mars 1980 sur l’organisation judiciaire est modifiée comme suit :
+
+1. Les articles 3, 4, 17, 28, 41 à 43, 72, 73, 144 à 147, 149, 155 à 167 et 169 à 180 sont abrogés.
+2. er par le Grand-Duc
+3. er *Les juges d’instruction sont nommés par le Grand-Duc, sur proposition du Conseil national de la justice, parmi les vice-présidents, les premiers juges et les juges, chaque fois pour une période de trois ans.*
+4. er ***(1)*** *La Cour supérieure de justice est composée d’un président, de cinq conseillers à la Cour de cassation, de onze présidents de chambre à la Cour d’appel, de douze premiers conseillers, de treize conseillers à la Cour d’appel, d’un procureur général d’État, de deux procureurs généraux d’État adjoints, de sept premiers avocats généraux, de cinq avocats généraux et d’un substitut.*
+5. ministère public parquet
+6. ***(1)*** *Sont portées devant la Cour supérieure de justice les affaires à toiser en assemblée générale.* ***(2)*** *Les décisions de la cour ne peuvent être rendues par moins de neuf conseillers.* *S’il y a partage des voix, la cour siégeant en nombre pair, le suffrage du conseiller le plus jeune en rang n’est pas compté.*
+7. ***(1)*** *Avant le 15 février de chaque année, le président de la Cour supérieure de justice, le procureur général d’État, les présidents des tribunaux d’arrondissement, les procureurs d’État et les juges de paix directeurs communiquent au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :* 1. le fonctionnement de leurs services pendant l’année judiciaire écoulée ;
+2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires. ***(2)*** *Les rapports d’activités sont rendus publics.*
+8. officiers magistrats
+9. ***(1)*** *Le ministère public remplit les devoirs de son office auprès de la Cour supérieure de justice et des tribunaux d’arrondissement, dans le ressort territorial qui lui est assigné par la loi, sauf les cas où la loi en a disposé autrement.* ***(2)*** *Les fonctions du ministère public près les tribunaux de police sont remplies par les magistrats du parquet près le tribunal d’arrondissement dans le ressort duquel se trouve le siège du tribunal de police.*
+10. *Les fonctions du ministère public sont exercées par :* 1. le procureur général d’État et les autres magistrats du Parquet général ;
+2. les procureurs d’État et les autres magistrats des parquets près les tribunaux d’arrondissement.
+11. ***(1)*** *Les fonctions du ministère public sont exercées sous la surveillance et la direction du procureur général d’État.* ***(2)*** *Les magistrats des parquets près les tribunaux d’arrondissement exercent leurs fonctions également sous la surveillance et la direction du procureur d’État dont ils dépendent.*
+12. ***(1)*** *Le Service central d’assistance sociale regroupe tous les services chargés d’enquêtes sociales et d’assistance à des personnes sous surveillance judiciaire, comme le service de la protection de la jeunesse, le service de probation, le service d’aide aux victimes, le service de médiation, le service des tutelles pour mineurs et incapables majeurs ainsi que les services chargés de l’établissement des dossiers de personnalité.* ***(2)*** *Le Service central d’assistance sociale est dirigé, sous l’autorité du procureur général d’État ou de son délégué, par un directeur qui en est le chef d’administration.* *Le directeur est assisté d’un directeur adjoint auquel il peut déléguer certaines de ses attributions et qui le remplace.* ***(3)*** *Pour exercer la fonction de directeur ou de directeur adjoint, il faut être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent dans l’une des matières déterminées par le procureur général d’État.* *Ce grade ou diplôme doit être inscrit au registre des titres de formation et classé au moins au niveau 7 du cadre luxembourgeois des qualifications dans les conditions déterminées par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.* ***(4)*** *Le cadre du personnel du Service central d’assistance sociale comprend un directeur, un directeur adjoint et des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.* *Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État selon les besoins du service et dans les limites des crédits budgétaires.*
+13. *Les fonctions de magistrat du siège et de magistrat du parquet sont incompatibles avec la qualité de membre du Conseil d’État.*
+14. ***(1)*** *Aucun greffier ne peut s’absenter si le service va souffrir de son absence.* ***(2)*** *Pour pouvoir s’absenter, le greffier demande l’autorisation préalable du chef de corps dont il relève.* *Ce chef de corps peut demander l’avis des magistrats auprès desquels le greffier est affecté.* *Le greffier informe le procureur général d’État avant son absence.* ***(3)*** *Les absences de plus d’un mois requièrent l’autorisation préalable du procureur général d’État.* *Le procureur général d’État peut demander l’avis du chef de corps dont relève le greffier et l’avis des magistrats auprès desquels le greffier est affecté.*
+15. ***(1)*** *Il est accordé une indemnité spéciale de cinquante points indiciaires par mois au magistrat quittant temporairement le service de la justice pour exercer à temps plein une fonction auprès soit d’une juridiction internationale ou européenne, soit d’une autre instance internationale ou européenne, soit d’une administration nationale, à condition que la loi ou une norme de droit supranational réserve cette fonction à un magistrat.* **(2)** *Les membres effectifs et suppléants de la Cour de justice Benelux bénéficient d’une indemnité de vacation, dont le taux est de quarante points indiciaires par affaire dans laquelle ils interviennent en qualité de magistrat du siège ou de magistrat du parquet.* ***(3)*** *Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables.*
+
+##### **Section 5. ** — **Modification de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif**
+
+<a id="art_N1C87E"></a>
+
+### Art. 64.
+
+La loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif est modifiée comme suit :
+
+1. Les articles 35 à 37, 38 à 54, 76 à 78 et 79 à 81 sont abrogés
+2. er *La Cour administrative est composée d’un président, d’un vice-président, de deux premiers conseillers et de deux conseillers.*
+3. À l’article 13, l’alinéa 2 est supprimé.
+4. ***(1)*** *Avant le 15 février de chaque année, le président de la Cour administrative communique au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :* 1. le fonctionnement de la cour pendant l’année judiciaire écoulée ;
+2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires. ***(2)*** *Les rapports d’activités sont rendus publics.*
+5. ***(1)*** *Aucun greffier de la Cour administrative ne peut s’absenter si le service va souffrir de son absence.* ***(2)*** *Pour pouvoir s’absenter, le greffier demande l’autorisation préalable du président de la Cour administrative.* ***(3)*** *Le président de la Cour administrative peut demander l’avis des magistrats auprès desquels le greffier est affecté.*
+6. ***(1)*** *Il est accordé une indemnité spéciale de cinquante points indiciaires par mois au magistrat de la Cour administrative quittant temporairement le service de la justice pour exercer à temps plein une fonction auprès soit d’une juridiction internationale ou européenne, soit d’une autre instance internationale ou européenne, soit d’une administration nationale, à condition que la loi ou une norme de droit supranational réserve cette fonction à un magistrat.* ***(2)*** *Lorsque le magistrat de la Cour administrative a la qualité de membre effectif ou de membre suppléant de la Cour de justice Benelux, celui-ci bénéficie d’une indemnité de vacation, équivalente à quarante points par affaire dans laquelle il intervient.* ***(3)*** *Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables.*
+7. À l’article 60, l’alinéa 2 est supprimé.
+8. ***(1)*** *Avant le 15 février de chaque année, le président du tribunal administratif communique au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :* 1. le fonctionnement du tribunal pendant l’année judiciaire écoulée ;
+2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires. ***(2)*** *Les rapports d’activités sont rendus publics.*
+9. ***(1)*** *Aucun greffier du tribunal administratif ne peut s’absenter si le service va souffrir de son absence.* ***(2)*** *Pour pouvoir s’absenter, le greffier demande l’autorisation préalable du président du tribunal administratif.* *Le président du tribunal administratif peut demander l’avis des magistrats auprès desquels le greffier est affecté.* *Le greffier informe le président de la Cour administrative avant son absence.* ***(3)*** *Les absences de plus d’un mois requièrent l’autorisation préalable du président de la Cour administrative.* *Le président de la Cour administrative peut demander l’avis du président du tribunal administratif et l’avis des magistrats auprès desquels le greffier est affecté.*
+
+##### **Section 6. ** — **Modification de ****la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle**
+
+<a id="art_N1CA78"></a>
+
+### Art. 65.
+
+L’article 29 de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle prend la teneur suivante :Art. 29.*(1)**Une indemnité mensuelle est accordée :**aux membres effectifs de la Cour Constitutionnelle, dont le taux est de soixante points indiciaires ;**au greffier de la Cour Constitutionnelle, dont le taux est de trente points indiciaires.**(2)**Les membres suppléants de la Cour Constitutionnelle bénéficient d’une indemnité de vacation, dont le taux est de quarante points indiciaires par affaire dans laquelle ils siègent.**(3)**Les indemnités visées aux paragraphes 1er et 2 sont non pensionnables.*
+
+##### **Section 7. ** — **Modification de la loi modifiée du 7 juin 2012 sur les attachés de justice**
+
+<a id="art_N1CB0A"></a>
+
+### Art. 66.
+
+La loi modifiée du 7 juin 2012 sur les attachés de justice est modifiée comme suit :
+
+1. er 1. ***(2)*** *Sur proposition motivée de la Commission du recrutement et de la formation des attachés de justice, ci-après « commission », le ministre de la justice détermine annuellement le nombre des attachés de justice à recruter.*
+2. ***(3)*** *Sur le plan administratif, tous les attachés de justice relèvent de la commission.*
+2. ***(1)*** *La commission apprécie l’honorabilité du candidat à un poste d’attaché de justice sur base d’un avis du procureur général d’État.* ***(2)*** *Le procureur général d’État fait état dans son avis des :* 1. inscriptions au bulletin N° 2 du casier judiciaire ;
+2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites. ***(3)*** *Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.* *Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.* ***(4)*** *Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :* 1. loi modifiée du 19 juin 2013
+2. la qualification juridique des faits reprochés. ***(5)*** *L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
+3. 1. er ***(1)*** *Il est procédé au recrutement sur dossier dans les conditions déterminées par les paragraphes qui suivent.*
+2. ***(2)*** *Un appel à candidatures est publié par la commission.*
+4. *En cas de vacance de poste, les attachés de justice peuvent être nommés aux fonctions de juge du tribunal d’arrondissement, de substitut ou de juge du tribunal administratif.*
+5. *Le Conseil national de la justice émet des recommandations en matière de recrutement et de formation des attachés de justice.*
+6. ***(1)*** *La Commission du recrutement et de la formation des attachés de justice est composée de neuf membres effectifs.* *Sont membres de droit le président de la Cour supérieure de justice, le procureur général d’État, le président du Tribunal d’arrondissement de Luxembourg, le procureur d’État près le Tribunal d’arrondissement de Luxembourg, le président du Tribunal d’arrondissement de Diekirch, le procureur d’État près le Tribunal d’arrondissement de Diekirch, le président de la Cour administrative et le président du Tribunal administratif.* *Un magistrat est désigné par le Conseil national de la justice en qualité de membre effectif de la commission.* ***(2)*** *La commission se complète par neuf membres suppléants, à désigner dans les conditions qui suivent.* *Le président de la Cour supérieure de justice, le procureur général d’État, le président du Tribunal d’arrondissement de Luxembourg, le procureur d’État près le Tribunal d’arrondissement de Luxembourg, le président du Tribunal d’arrondissement de Diekirch, le procureur d’État près le Tribunal d’arrondissement de Diekirch, le président de la Cour administrative et le président du Tribunal administratif désignent leur suppléant.* *Un magistrat est désigné par le Conseil national de la justice en qualité de membre suppléant de la commission.* ***(3)*** *La commission élit, parmi les membres effectifs, son président et son vice-président.* *La durée des mandats de président et de vice-président est de deux ans ; le mandat est renouvelable.* *Le président convoque la commission, détermine l’ordre du jour et dirige les débats.* *En cas d’empêchement du président, le vice-président le remplace.* *Lorsque le président et le vice-président sont empêchés, la présidence est assurée par le membre effectif le plus ancien en rang dans la magistrature.* ***(4)*** *La fonction de coordinateur du recrutement et de la formation des attachés de justice est exercée par le magistrat désigné par le Conseil national de la justice en qualité de membre effectif de la commission.* *Le coordinateur est chargé de la gestion journalière de la commission.* ***(5)*** *Les membres de la commission sont assistés dans leurs travaux par un secrétariat.* *Le Conseil national de la justice désigne les secrétaires de la commission parmi le personnel de son secrétariat.* ***(6)*** *La commission ne peut délibérer que lorsqu’au moins cinq de ses membres sont présents.* *Les décisions sont prises à la majorité absolue des voix.*
+7. ***(1)*** *Les intervenants du secteur public luxembourgeois lors du recrutement et de la formation des attachés de justice et lors de la formation continue des magistrats sont indemnisés dans les conditions déterminées par les paragraphes 2 à 4.* ***(2)*** *Une indemnité mensuelle forfaitaire est accordée :* 1. au coordinateur du recrutement et de la formation des attachés de justice, dont le taux est de soixante points indiciaires ;
+2. aux magistrats référents, dont le taux est de quarante points indiciaires par attaché de justice encadré et dont le versement est limité à la période d’encadrement ;
+3. aux secrétaires de la commission, dont le taux est de trente points indiciaires. ***(3)*** *Une indemnité de vacation est allouée :* 1. aux experts chargés de l’examen de personnalité, dont le taux est de dix points indiciaires par candidat apprécié ;
+2. aux formateurs, dont le taux est de dix points indiciaires par séance de formation ;
+3. aux examinateurs, dont le taux est de cinq points indiciaires par copie d’examen appréciée ;
+4. aux membres effectifs, membres suppléants et secrétaires de la commission, dont le taux est de cinq points indiciaires par réunion. ***(4)*** *Les indemnités visées aux paragraphes 2 et 3 sont non pensionnables.* *Ces indemnités peuvent être cumulées.*
+8. ***(1)*** *L’intervention des experts du secteur public non luxembourgeois et du secteur privé lors du recrutement et de la formation des attachés de justice et lors de la formation continue des magistrats est réglée par la voie conventionnelle dans les conditions déterminées par les paragraphes 2 et 3.* ***(2)*** *Les conventions précisent :* 1. la mission des experts ;
+2. la rémunération des experts ;
+3. le remboursement des frais de transport, de repas et d’hébergement aux experts. ***(3)*** *Le ministre de la justice peut conclure des conventions avec les experts dans la limite des disponibilités budgétaires :* 1. soit sur proposition motivée de la commission dans le cadre du recrutement et de la formation des attachés de justice ;
+2. soit sur proposition motivée du Conseil national de la justice dans le cadre de la formation continue des magistrats.
+
+##### **Section 8. ** — **Modification de la loi modifiée du 27 août 1977 concernant le statut des fonctionnaires entrés au service d’Institutions internationales**
+
+<a id="art_N1CEE7"></a>
+
+### Art. 67.
+
+L’article 2 de la loi modifiée du 27 août 1977 concernant le statut des fonctionnaires entrés au service d’Institutions internationales prend la teneur suivante :Art. 2.1.*Le congé spécial est accordé, après délibération du Gouvernement en Conseil, par l’autorité compétente pour la nomination du bénéficiaire et dans la forme prescrite pour celle-ci.**2.**Le congé spécial des magistrats est accordé par le Grand-Duc sur avis motivé du Conseil national de la justice.*
+
+##### **Section 9. ** — **Modification de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État**
+
+<a id="art_N1CF41"></a>
+
+### Art. 68.
+
+La loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est modifiée comme suit :
+
+1. er de directeur adjoint du service central d’assistance sociale, conseiller de Gouvernement première classe, de directeur adjoint de différentes administrations
+2. er , de directeur du service central d’assistance centrale directeur général du Corps grand-ducal d’incendie et de secours et de directeur de différentes administrations
+3. L’annexe A, I. Administration générale, catégorie de traitement A, groupe de traitement A1, sous-groupe à attributions particulières est modifiée comme suit :
+4. , directeur adjoint du service central d’assistance sociale, directeur fonctionnel du Corps grand-ducal d’incendie et de secours
+5. , directeur du service central d’assistance sociale, défenseur des droits de l’enfant
+
+##### **Section 10. ** — **Modification ****de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État**
+
+<a id="art_N1CFC1"></a>
+
+### Art. 69.
+
+À l’article 1er, paragraphe 2, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, l’alinéa 1er prend la teneur suivante :*Le présent statut s’applique également aux magistrats, aux attachés de justice et au personnel de justice ayant la qualité de fonctionnaire, à l’exception des articles 4, 4bis, 4ter et 42, et sous réserve des dispositions inscrites à la loi sur l’organisation judiciaire, à la loi portant organisation des juridictions de l’ordre administratif, à la loi sur les attachés de justice et à la loi sur le statut des magistrats et concernant le recrutement, la formation, la nomination, l’affectation, la désaffectation, l’inamovibilité, les incompatibilités, la résidence, les absences, les congés, le service des audiences, la déontologie et la discipline.*
+
+#### **Chapitre 9. ** — **Dispositions financières**
+
+<a id="art_N1CFFE"></a>
+
+### Art. 70.
+
+**(1)** Une indemnité de vacation est allouée :
+
+1. aux membres effectifs et membres suppléants du Tribunal disciplinaire des magistrats et de la Cour disciplinaire des magistrats ; leur taux est de quarante points indiciaires par affaire dans laquelle ils siègent ;
+2. aux membres effectifs et membres suppléants du Conseil national de la justice, qui sont délégués pour faire l’instruction disciplinaire ou pour prendre des réquisitions devant les juridictions disciplinaires ; leur taux est de quarante points indiciaires par affaire dans laquelle ils interviennent ;
+3. aux greffiers du Tribunal disciplinaire des magistrats, de la Cour disciplinaire des magistrats et de l’instructeur disciplinaire ; leur taux est de trente points indiciaires par affaire dans laquelle ils interviennent.
+
+**(2)** L’indemnité visée au paragraphe 1er est non pensionnable.
+
+<a id="art_N1D036"></a>
+
+### Art. 71.
+
+Sont accordées à partir du 1er juillet 2021 :
+
+1. er loi modifiée du 7 mars 1980
+2. er loi modifiée du 7 novembre 1996
+
+#### **Chapitre 9. ** — **Dispositions finales**
+
+<a id="art_N1D079"></a>
+
+### Art. 72.
+
+La référence à la présente loi peut se faire sous la forme suivante : « loi du 23 janvier 2023 sur le statut des magistrats ».
+
+<a id="art_N1D08E"></a>
+
+### Art. 73.
+
+La présente loi entre en vigueur le jour de l’entrée en vigueur de la loi du 17 janvier 2023 portant révision du chapitre VI de la Constitution, à l’exception de l’article 63, points 4°, 12° et 15°, de l’article 64, points 2° et 6°, de l’article 66, points 1°, 2°, 3°, 4° et 7°, de l’article 68, de l’article 69 et de l’article 71, qui entrent en vigueur le premier jour du mois qui suit celui de la publication de la présente loi au Journal officiel du Grand-Duché de Luxembourg.
 
 ### Version consolidée applicable au 22/08/2023 : Loi du 7 juin 2012 sur les attachés de justice et portant modification: - du Code d'instruction criminelle; - de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'État; - de la loi modifiée du 7 mars 1980 sur l'organisation judiciaire; - de la loi modifiée du 10 août 1991 sur la profession d'avocat; - de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l'ordre administratif.
 
 #### **Chapitre Ier.**- — ** Recrutement et formation des attachés de justice**
 
-<a id="art_N1DBB6"></a>
+<a id="art_N1D0DD"></a>
 
 ### Art. 1er.
 
@@ -6645,7 +6398,7 @@ Les postes nécessaires pour atteindre l’effectif prévu à l’alinéa 1er so
 
 *** (3)*** *Sur le plan administratif, tous les attachés de justice relèvent de la commission.*
 
-<a id="art_N1DC4E"></a>
+<a id="art_N1D175"></a>
 
 ### Art. 2.
 
@@ -6679,7 +6432,7 @@ Les candidats ayant sciemment fait une fausse déclaration ou ayant présenté d
 3. de l’examen médical;
 4. de l’examen psychologique.
 
-<a id="art_N1DD94"></a>
+<a id="art_N1D2BB"></a>
 
 ### Art. 2-1.
 
@@ -6702,7 +6455,7 @@ Les candidats ayant sciemment fait une fausse déclaration ou ayant présenté d
 
 ***(5)*** *L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
 
-<a id="art_N1DE7E"></a>
+<a id="art_N1D3A5"></a>
 
 ### Art. 3.
 
@@ -6737,7 +6490,7 @@ Nul ne peut prendre part au jury:
 
 Les candidats classés en rang utile sont recrutés.
 
-<a id="art_N1DF83"></a>
+<a id="art_N1D4AA"></a>
 
 ### Art. 4.
 
@@ -6747,7 +6500,7 @@ Les candidats classés en rang utile sont recrutés.
 
 Cette exclusion équivaut à un échec.
 
-<a id="art_N1DFED"></a>
+<a id="art_N1D514"></a>
 
 ### Art. 4-1.
 
@@ -6773,7 +6526,7 @@ Cette exclusion équivaut à un échec.
 
 Elle adresse une proposition motivée au ministre de la Justice en vue de la nomination à titre provisoire des candidats sélectionnés dans les conditions déterminées par l’article 5.
 
-<a id="art_N1E0BF"></a>
+<a id="art_N1D5E6"></a>
 
 ### Art. 5.
 
@@ -6794,7 +6547,7 @@ Toute personne nommée à la fonction d’attaché de justice est tenue de prêt
 1. lorsqu’ils n’ont pas pu accomplir l’intégralité de la formation professionnelle pour des raisons indépendantes de leur volonté;
 2. lorsqu’ils ne remplissent pas les conditions prévues à l’article 11 paragraphe 1.
 
-<a id="art_N1E181"></a>
+<a id="art_N1D6A8"></a>
 
 ### Art. 6.
 
@@ -6805,7 +6558,7 @@ La commission peut avoir recours, pour l’organisation de l’enseignement et d
 1. d’organismes de formation judiciaire, d’universités ou d’experts du secteur privé, avec lesquels le ministre de la Justice a conclu une convention;
 2. de magistrats ou d’autres experts du secteur public.
 
-<a id="art_N1E1D6"></a>
+<a id="art_N1D6FD"></a>
 
 ### Art. 7.
 
@@ -6834,7 +6587,7 @@ Un règlement grand-ducal détermine les modalités des épreuves.
 
 Le programme des visites d’études est annuellement déterminé par la commission, après concertation avec les services accueillant des attachés de justice.
 
-<a id="art_N1E28F"></a>
+<a id="art_N1D7B6"></a>
 
 ### Art. 8.
 
@@ -6856,7 +6609,7 @@ Les magistrats référents veillent à un apprentissage utile des attachés de j
 
 Ils présentent un rapport motivé, soit d’office, soit à la demande de la commission.
 
-<a id="art_N1E35C"></a>
+<a id="art_N1D883"></a>
 
 ### Art. 9.
 
@@ -6866,7 +6619,7 @@ Les délégations visées au présent paragraphe sont accordées par arrêté gr
 
 **(2)** Par décision du procureur général d’État, les attachés de justice peuvent être délégués pour remplacer un procureur d’État à l’audience ou pour l’exercice de ses autres attributions.
 
-<a id="art_N1E3FB"></a>
+<a id="art_N1D922"></a>
 
 ### Art. 10.
 
@@ -6886,7 +6639,7 @@ Cette appréciation porte sur:
 
 Les notes sont arrêtées par la commission.
 
-<a id="art_N1E485"></a>
+<a id="art_N1D9AC"></a>
 
 ### Art. 11.
 
@@ -6902,13 +6655,13 @@ Les notes sont arrêtées par la commission.
 
 Elle arrête, dans l’ordre des notes finales, le classement des attachés de justice qui remplissent les conditions prévues au paragraphe qui précède.
 
-<a id="art_N1E50D"></a>
+<a id="art_N1DA34"></a>
 
 ### Art. 12.
 
 *En cas de vacance de poste, les attachés de justice peuvent être nommés aux fonctions de juge du tribunal d’arrondissement, de substitut ou de juge du tribunal administratif.*
 
-<a id="art_N1E551"></a>
+<a id="art_N1DA78"></a>
 
 ### Art. 13.
 
@@ -6924,13 +6677,13 @@ Aucun attaché de justice ne peut exercer la fonction visée à l’article 179,
 
 **(3)** À défaut d’une délégation visée au paragraphe qui précède, les attachés de justice sont désignés, de commun accord par le procureur général d’État, le président de la Cour supérieure de Justice et le président de la Cour administrative, pour assister des magistrats dans leurs travaux ou pour accomplir des travaux administratifs.
 
-<a id="art_N1E5EA"></a>
+<a id="art_N1DB11"></a>
 
 ### Art. 14.
 
 *Le Conseil national de la justice émet des recommandations en matière de recrutement et de formation des attachés de justice.*
 
-<a id="art_N1E62E"></a>
+<a id="art_N1DB55"></a>
 
 ### Art. 15.
 
@@ -6968,7 +6721,7 @@ Aucun attaché de justice ne peut exercer la fonction visée à l’article 179,
 
 *Les décisions sont prises à la majorité absolue des voix.*
 
-<a id="art_N1E76E"></a>
+<a id="art_N1DC95"></a>
 
 ### Art. 16.
 
@@ -6991,7 +6744,7 @@ Aucun attaché de justice ne peut exercer la fonction visée à l’article 179,
 
 *Ces indemnités peuvent être cumulées.*
 
-<a id="art_N1E843"></a>
+<a id="art_N1DD6A"></a>
 
 ### Art. 16-1.
 
@@ -7003,7 +6756,7 @@ Aucun attaché de justice ne peut exercer la fonction visée à l’article 179,
 
 En cas de nomination prenant effet le même jour, l’inscription s’effectue dans l’ordre de la date d’accomplissement du service provisoire sinon, en cas d’accomplissement du service provisoire à la même date, dans l’ordre du classement de l’article 11, paragraphe 2, alinéa 2.
 
-<a id="art_N1E8CC"></a>
+<a id="art_N1DDF3"></a>
 
 ### Art. 16-2.
 
@@ -7022,7 +6775,7 @@ En cas de nomination prenant effet le même jour, l’inscription s’effectue d
 
 #### **Chapitre II.**- — ** Dispositions modificatives**
 
-<a id="art_N1E985"></a>
+<a id="art_N1DEAC"></a>
 
 ### Art. 17.
 
@@ -7031,13 +6784,13 @@ Au Livre II, Titre IV du Code d’instruction criminelle, les chapitres II et II
 1. ... *Abrogés.*»
 2. *…* *Abrogés.*»
 
-<a id="art_N1EA1E"></a>
+<a id="art_N1DF45"></a>
 
 ### Art. 18.
 
 La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État est modifiée dans son article 1er, paragraphe 2, alinéa 1er, qui est rédigé comme suit:*«Le présent statut s’applique également aux magistrats, aux attachés de justice et au personnel de justice ayant la qualité de fonctionnaire, sous réserve des dispositions inscrites à la Constitution, à la loi sur l’organisation judiciaire, à la loi portant organisation des juridictions de l’ordre administratif et à la loi sur les attachés de justice, et concernant notamment le recrutement, la formation, l’inamovibilité, les incompatibilités, la résidence, les absences, les congés, le service des audiences et la discipline.*»
 
-<a id="art_N1EA70"></a>
+<a id="art_N1DF97"></a>
 
 ### Art. 19.
 
@@ -7099,13 +6852,13 @@ La loi modifiée du 7 mars 1980 sur l’organisation judiciaire est modifiée co
 33. L’article 183 est abrogé.
 34. L’article 184 est abrogé.
 
-<a id="art_N1F12C"></a>
+<a id="art_N1E653"></a>
 
 ### Art. 20.
 
 La loi modifiée du 10 août 1991 sur la profession d’avocat est modifiée dans son article 1er qui est rédigé comme suit:*«Art. 1er.**La profession d’avocat est une profession libérale et indépendante.**Sont incompatibles avec l’exercice de cette profession:**les fonctions de magistrat; **les fonctions de greffier et d’huissier de justice;**les fonctions de notaire; ** les professions de réviseurs d’entreprises et d’expert-comptable; **les emplois salariés du secteur public ou du secteur privé; sont toutefois compatibles l’emploi en tant qu’avocat auprès d’un avocat et en tant que collaborateur au sens de l’article 126, 9. de la loi électorale modifiée du 18 février 2003 ainsi que, pendant la durée du stage, l’emploi admis comme équivalent au stage judiciaire par la réglementation en vigueur, à condition que ces emplois ne comportent pas abandon de la liberté d’agir selon la conscience professionnelle; **les fonctions de directeur d’entreprise, de gérant ou d’administrateur-délégué de sociétés commerciales à objet commercial, artisanal ou industriel et de mandataire général ou d’agent de compagnie d’assurances; ** l’exercice d’une activité commerciale ou artisanale; ** toute activité de nature à porter atteinte à l’indépendance de l’avocat ou à la dignité de la profession.**La profession d’avocat peut être exercée à titre individuel. Les avocats peuvent s’associer librement. Ils peuvent encore exercer la profession d’avocat sous forme de personne morale conformément aux dispositions de la présente loi.*»
 
-<a id="art_N1F1D8"></a>
+<a id="art_N1E6FF"></a>
 
 ### Art. 21.
 
@@ -7129,7 +6882,7 @@ La loi modifiée du 7 novembre 1996 portant organisation des juridictions de l�
 
 #### **Chapitre III.**- — ** Dispositions abrogatoires**
 
-<a id="art_N1F305"></a>
+<a id="art_N1E82C"></a>
 
 ### Art. 22.
 
@@ -7141,7 +6894,7 @@ Sont abrogés:
 
 #### **Chapitre IV.**- — ** Dispositions transitoires et intitulé abrégé**
 
-<a id="art_N1F366"></a>
+<a id="art_N1E88D"></a>
 
 ### Art. 23.
 
@@ -7164,17 +6917,1315 @@ Sont abrogés:
 
 Les actes de procédure accomplis en application des dispositions abrogées restent valables et portent interruption de la prescription.
 
-<a id="art_N1F42A"></a>
+<a id="art_N1E951"></a>
 
 ### Art. 24.
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant: «Loi du 7 juin 2012 sur les attachés de justice».
 
+## PERSONNEL DE JUSTICE
+
+### Loi du 23 décembre 2022 sur les référendaires de justice et portant modification de : 1° la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ; 2° la loi modifiée du 7 mars 1980 sur l’organisation judiciaire ; 3° la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif ; 4° la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle ; 5° la loi modifiée du 7 juin 2012 sur les attachés de justice ; 6° la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise.
+
+#### **Chapitre 1er ** — ** La fonction de référendaire de justice**
+
+<a id="art_N1E9C0"></a>
+
+### Art. 1er.
+
+**(1)** Les référendaires de justice ont pour mission d’assister les magistrats dans le cadre de leurs travaux.
+
+**(2)** Les tâches suivantes peuvent être confiées aux référendaires de justice :
+
+1. les recherches juridiques ;
+2. l’analyse et la synthèse des actes de procédure et pièces présentées par les parties dans le cadre d’un procès ;
+3. la rédaction de notes ;
+4. la vérification des comptes dans le cadre des régimes de protection légaux et des procédures collectives.
+
+**(3)** Les référendaires de justice ne peuvent pas être chargés de tâches que la loi réserve aux greffiers des juridictions, secrétaires des parquets et analystes financiers de la Cellule de renseignement financier.
+
+<a id="art_N1EA0B"></a>
+
+### Art. 2.
+
+Pour pouvoir exercer la fonction de référendaire de justice, il faut :
+
+1. être ressortissant d’un pays membre de l’Union européenne ;
+2. être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent en droit, en économie, en finances ou dans une autre matière à déterminer par le chef d’administration ;
+3. satisfaire aux conditions d’accès au statut de fonctionnaire ou de fonctionnaire stagiaire de la catégorie de traitement A, groupe de traitement A1, ou d’employé de l’État de la catégorie d’indemnité A, groupe d’indemnité A1 ;
+4. présenter les garanties d’honorabilité requises pour l’exercice de la fonction.
+
+<a id="art_N1EA2C"></a>
+
+### Art. 3.
+
+**(1)** Le procureur général d’État émet, soit d’office, soit à la demande du président de la Cour administrative, un avis sur l’honorabilité des candidats à un poste de référendaire de justice.
+
+Il peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité.
+
+**(2)** L’avis du procureur général d’État fait état des :
+
+1. inscriptions au bulletin N° 2 du casier judiciaire ;
+2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
+3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
+
+**(3)** Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
+
+**(4)** Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
+
+1. loi modifiée du 19 juin 2013
+2. la qualification juridique des faits reprochés.
+
+**(5)** L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
+
+<a id="art_N1EAB9"></a>
+
+### Art. 4.
+
+Avant d’entrer en fonctions, le référendaire de justice prête le serment suivant :
+
+« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité. »
+
+<a id="art_N1EAD1"></a>
+
+### Art. 5.
+
+Le référendaire de justice agit sous la direction et la surveillance du chef de corps auprès duquel il est affecté, ou des magistrats qu’il délègue à cet effet.
+
+<a id="art_N1EAE1"></a>
+
+### Art. 6.
+
+Le référendaire de justice peut assister aux audiences publiques et audiences à huis clos de la juridiction d’affectation.
+
+#### **Chapitre 2 ** — **Modification de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État**
+
+<a id="art_N1EB02"></a>
+
+### Art. 7.
+
+À l’article 1er, paragraphe 2, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, l’alinéa 1er prend la teneur suivante :*Le présent statut s’applique également aux magistrats, attachés de justice et référendaires de justice ainsi qu’au personnel de justice ayant la qualité de fonctionnaire, à l’exception des articles 4, 4bis, 4ter et 42, et sous réserve des dispositions inscrites à la loi sur l’organisation judiciaire, à la loi portant organisation des juridictions de l’ordre administratif, à la loi sur les attachés de justice et à la loi sur les référendaires de justice et concernant le recrutement, la formation, la nomination, l’affectation et la désaffectation, l’inamovibilité, les incompatibilités, la résidence, les absences, les congés, le service des audiences, la déontologie et la discipline.*
+
+#### **Chapitre 3 ** — **Modification de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire**
+
+<a id="art_N1EB3E"></a>
+
+### Art. 8.
+
+À l’article 11 de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire, le paragraphe 1er prend la teneur suivante :*(1)**Le tribunal d’arrondissement de Luxembourg est composé d’un président, de quatre premiers vice-présidents, d’un juge d’instruction directeur, de vingt-sept vice-présidents, d’un juge directeur du tribunal de la jeunesse et des tutelles, de deux juges de la jeunesse, de trois juges des tutelles, de trente-sept premiers juges, de trente juges, d’un procureur d’État, de trois procureurs d’État adjoints, de sept substituts principaux, de quatorze premiers substituts et de quatorze substituts.*
+
+<a id="art_N1EB73"></a>
+
+### Art. 9.
+
+À l’article 12 de la même loi, le paragraphe 1er prend la teneur suivante :*(1)**Le tribunal d’arrondissement de Diekirch est composé d’un président, d’un premier vice-président, d’un juge d’instruction directeur, de deux vice-présidents, d’un juge de la jeunesse, d’un juge des tutelles, de trois premiers juges, de trois juges, d’un procureur d’État, d’un procureur d’État adjoint, de deux substituts principaux, de deux premiers substituts et de deux substituts.*
+
+<a id="art_N1EBA3"></a>
+
+### Art. 10.
+
+L’article 13*bis* de la même loi prend la teneur suivante :Art. 13*bis**.**Le procureur d’État auprès du tribunal d’arrondissement de Luxembourg désigne plus particulièrement les magistrats de son parquet, qui traitent, sous la direction d’un procureur d’État adjoint, les affaires économiques et financières. *
+
+<a id="art_N1EBD9"></a>
+
+### Art. 11.
+
+À l’article 19, paragraphe 1er, de la même loi, l’alinéa 1er prend la teneur suivante :*En dehors du juge d’instruction directeur visé à l’article 11, il y a quinze juges d’instruction près le tribunal d’arrondissement de Luxembourg, dont six vice-présidents.*
+
+<a id="art_N1EC03"></a>
+
+### Art. 12.
+
+À l’article 25 de la même loi, le paragraphe 1er prend la teneur suivante :*(1)**Le tribunal d’arrondissement de Luxembourg comprend vingt-et-une chambres.*
+
+<a id="art_N1EC33"></a>
+
+### Art. 13.
+
+À l’article 33 de la même loi, les termes *cinq premiers avocats généraux *sont remplacés par les termes *six premiers avocats généraux.*
+
+<a id="art_N1EC54"></a>
+
+### Art. 14.
+
+L’article 34 de la même loi prend la teneur suivante :Art. 34*.**Le procureur général d’État peut déléguer deux magistrats de son parquet et, en cas de besoin, un magistrat de l’un des parquets auprès des tribunaux d’arrondissement à l’exécution des peines, telle que prévue aux articles 669 et suivants du Code de procédure pénale.*
+
+<a id="art_N1EC89"></a>
+
+### Art. 15.
+
+L’article 44 de la même loi prend la teneur suivante :Art. 44*.**L’affectation aux emplois de greffier en chef et de greffier ainsi que la désaffectation sont faites par le procureur général d’État après consultation du président de la Cour supérieure de justice.*
+
+<a id="art_N1ECB9"></a>
+
+### Art. 16.
+
+L’article 45 de la même loi est abrogé.
+
+<a id="art_N1ECCE"></a>
+
+### Art. 17.
+
+L’article 74-1 de la même loi prend la teneur suivante :Art. 74-1*.**(1)**Il est institué, sous la surveillance administrative du procureur général d’État, une Cellule de renseignement financier, ci-après « CRF », qui a compétence pour remplir les missions inscrites aux articles 74-2 à 74-7.**(2)**La CRF comprend un substitut principal, quatre premiers substituts et deux substituts.**Elle se complète par des analystes financiers et référendaires de justice.**(3)**La CRF est placée sous la direction du substitut principal, qui porte le titre de « directeur de la Cellule de renseignement financier ».**Les quatre premiers substituts remplacent le directeur de la Cellule de renseignement financier en son absence suivant leur rang d’ancienneté et portent le titre de « directeur adjoint de la Cellule de renseignement financier ».**(4)**La CRF est opérationnellement indépendante et autonome.**Elle a l’autorité et la capacité nécessaires d’exercer librement ses fonctions, y compris celle de décider d’une manière autonome d’analyser, de demander et de disséminer des informations spécifiques aux autorités judiciaires et aux administrations compétentes en matière de lutte contre le blanchiment, les infractions sous-jacentes associées et contre le financement du terrorisme.*
+
+<a id="art_N1ED6A"></a>
+
+### Art. 18.
+
+À la suite de l’article 74-1 de la même loi, il est inséré un nouvel article 74-1*bis* qui prend la teneur suivante :Art. 74-1*bis*.*(1)**Les analystes financiers effectuent des analyses opérationnelles et stratégiques sous la direction et la surveillance des magistrats de la CRF.**(2)**Pour pouvoir exercer la fonction d’analyste financier de la CRF, il faut :**être ressortissant d’un pays membre de l’Union européenne ;**être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent en droit, en économie, en finances ou dans une autre matière à déterminer par le procureur général d’État sur avis du directeur de la CRF ;**satisfaire aux conditions d’accès au statut de fonctionnaire ou de fonctionnaire stagiaire de la catégorie de traitement A, groupe de traitement A1, ou d’employé de l’État de la catégorie d’indemnité A, groupe d’indemnité A1 ;**présenter les garanties d’honorabilité requises pour l’exercice de la fonction.*
+
+<a id="art_N1EDD9"></a>
+
+### Art. 19.
+
+L’article 76 de la même loi prend la teneur suivante :Art. 76.*(1)**Le cadre du personnel de l’administration judiciaire comprend des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.**Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.**(2)**Le procureur général d’État propose :**la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;**l’engagement et le licenciement des employés et salariés de l’État.**Les nominations du dernier grade du niveau supérieur dans chaque catégorie de traitement sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre de la justice.**L’engagement et le licenciement des employés de l’État sont faits par le ministre de la fonction publique, sur avis du ministre de la justice.**L’engagement et le licenciement des salariés de l’État sont faits par le ministre de la justice.**Les affectations et désaffectations sont faites par le procureur général d’État après consultation des chefs de corps concernés.*
+
+<a id="art_N1EE78"></a>
+
+### Art. 20.
+
+À la suite de l’article 76 de la même loi, il est inséré un nouvel article 76-1 qui prend la teneur suivante :Art. 76-1.*(1)**Le personnel de justice doit présenter les garanties d’honorabilité requises pour l’exercice de la fonction.**(2)**Le procureur général d’État émet un avis sur l’honorabilité des candidats.**Il peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité.**(3)**L’avis du procureur général d’État fait état des :**inscriptions au bulletin N° 2 du casier judiciaire ;**informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ; **informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.**(4)**Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**(5)**Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :**le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;**la qualification juridique des faits reprochés.**(6)**L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
+
+<a id="art_N1EF64"></a>
+
+### Art. 21.
+
+À l’article 181, paragraphe 1er, de la même loi, le point 4° est modifié comme suit :*quatre-vingt points indiciaires par mois aux deux magistrats du Parquet général qui sont délégués par le procureur général d’État à l’exécution des peines ;*
+
+<a id="art_N1EF91"></a>
+
+### Art. 22.
+
+L’article 182 de la même loi prend la teneur suivante :Art. 182*.**(1)**La Cour supérieure de justice, les tribunaux d’arrondissement, les justices de paix et la Cellule de renseignement financier disposent d’un pool commun de référendaires de justice.**(2)**Les affectations et désaffectations des référendaires de justice sont faites par le procureur général d’État après consultation des chefs de corps concernés.*
+
+#### **Chapitre 4 ** — **Modification de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif**
+
+<a id="art_N1EFF0"></a>
+
+### Art. 23.
+
+À l’article 10 de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif, l’alinéa 3 prend la teneur suivante : *Un greffier en chef est affecté à la Cour administrative ainsi qu’un ou plusieurs greffiers selon les besoins du service. Les affectations et désaffectations sont faites par le président de la Cour administrative.*
+
+<a id="art_N1F015"></a>
+
+### Art. 24.
+
+À l’article 57 de la même loi, l’alinéa 2 prend la teneur suivante :*Un greffier en chef est affecté au tribunal administratif ainsi qu’un ou plusieurs greffiers selon les besoins du service. Les affectations et désaffectations sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.*
+
+<a id="art_N1F039"></a>
+
+### Art. 25.
+
+L’intitulé du chapitre 7 de la loi précitée est libellé comme suit :*« Chapitre 7.**Du personnel des juridictions de l’ordre administratif ».*
+
+<a id="art_N1F062"></a>
+
+### Art. 26.
+
+L’article 88 de la même loi prend la teneur suivante :Art. 88.*(1)**La Cour administrative et le tribunal administratif disposent d’un greffe commun.**(2)**Les affectations et désaffectations sont faites dans les conditions déterminées par les articles 10 et 57.*
+
+<a id="art_N1F0AD"></a>
+
+### Art. 27.
+
+L’article 89 de la même loi prend la teneur suivante :Art. 89.*(1)**La Cour administrative et le tribunal administratif disposent d’un pool commun de référendaires de justice.**(2)**Les affectations et désaffectations sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.*
+
+<a id="art_N1F0F8"></a>
+
+### Art. 28.
+
+L’article 90 de la même loi prend la teneur suivante :Art. 90.(1)*Le cadre du personnel des juridictions de l’ordre administratif comprend des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.*(2)*Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.*
+
+<a id="art_N1F143"></a>
+
+### Art. 29.
+
+L’article 91 de la même loi prend la teneur suivante :Art. 91.*Le président de la Cour administrative propose :**la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;**l’engagement et le licenciement des employés et salariés de l’État.**Les nominations du dernier grade du niveau supérieur dans chaque catégorie de traitement sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre de la justice.**L’engagement et le licenciement des employés de l’État sont faits par le ministre de la fonction publique, sur avis du ministre de la justice.**L’engagement et le licenciement des salariés de l’État sont faits par le ministre de la justice.*
+
+<a id="art_N1F1A6"></a>
+
+### Art. 30.
+
+À la suite de l’article 91 de la même loi, il est inséré un nouvel article 91-1 libellé comme suit :Art. 91-1.*(1)**Le personnel des juridictions de l’ordre administratif doit présenter les garanties d’honorabilité requises pour l’exercice de la fonction.**Sur demande du président de la Cour administrative, le procureur général d’État émet un avis sur l’honorabilité des candidats.**(2)**L’avis du procureur général d’État fait état des :**inscriptions au bulletin N° 2 du casier judiciaire ;**informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;**informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.**(3)**Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**(4)**Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :**le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;**la qualification juridique des faits reprochés.**(5)**L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
+
+<a id="art_N1F27B"></a>
+
+### Art. 31.
+
+L’article 92 de la même loi prend la teneur suivante :Art. 92.*Avant d’entrer en fonctions, les fonctionnaires visés à l’article 90 prêtent, entre les mains du président de la Cour administrative, le serment suivant :**« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité. »*
+
+#### **Chapitre 5 ** — **Modification de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle**
+
+<a id="art_N1F2C4"></a>
+
+### Art. 32.
+
+À la suite de l’article 27 de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle, il est inséré un nouvel article 27-1 qui prend la teneur suivante :Art. 27-1.*Sur demande adressée par le président de la Cour Constitutionnelle au procureur général d’État ou au président de la Cour administrative, des référendaires de justice de l’ordre judiciaire ou de l’ordre administratif peuvent faire l’objet d’un détachement à temps complet ou partiel auprès de la Cour Constitutionnelle.*
+
+#### **Chapitre 6 ** — **Modification de la loi modifiée du 7 juin 2012 sur les attachés de justice**
+
+<a id="art_N1F303"></a>
+
+### Art. 33.
+
+À l’article 2, paragraphe 3, de la loi modifiée du 7 juin 2012 sur les attachés de justice, le point 2) prend la teneur suivante :*jouir des droits civils et politiques et présenter les garanties d’honorabilité requises ;*
+
+<a id="art_N1F32E"></a>
+
+### Art. 34.
+
+À la suite de l’article 2 de la même loi, il est inséré un nouvel article 2-1 qui prend la teneur suivante :Art. 2-1.*(1)**Sur demande de la commission, le procureur général d’État émet un avis sur l’honorabilité des candidats à un poste d’attaché de justice.**Il peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité.**(2)**L’avis du procureur général d’État fait état des :**inscriptions au bulletin N° 2 du casier judiciaire ;**informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;**informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.**(3)**Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**(4)**Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :**le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;**la qualification juridique des faits reprochés.**(5)**L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
+
+#### **Chapitre 7 ** — **Modification de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise**
+
+<a id="art_N1F416"></a>
+
+### Art. 35.
+
+À l’article 89, paragraphe 1er, alinéa 1er, point 2°, de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise, le nombre *2022 *est remplacé par le nombre de *2025.*
+
+#### **Chapitre 8 ** — **Dispositions finales**
+
+<a id="art_N1F44E"></a>
+
+### Art. 36.
+
+Par dérogation aux dispositions de la loi modifiée du 17 décembre 2021 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2022 définissant le plafond des effectifs du personnel au service de l’État, la présente loi porte création de quarante-six postes de fonctionnaire de la catégorie de traitement A, groupe de traite­ment A1, dont :
+
+1. quarante postes sont attribués aux juridictions de l’ordre judiciaire en vue de l’exercice de la fonction de référendaire de justice ;
+2. six postes sont attribués aux juridictions de l’ordre administratif en vue de l’exercice de la fonction de référendaire de justice.
+
+<a id="art_N1F46F"></a>
+
+### Art. 37.
+
+La référence à la présente loi se fait sous la forme suivante : « loi du 23 décembre 2022 sur les référendaires de justice ».
+
+<a id="art_N1F47F"></a>
+
+### Art. 38.
+
+La présente loi produit ses effets au 1er janvier 2022.
+
+## PROFESSION D'AVOCAT
+
+### Version consolidée applicable au 01/02/2024 : Loi du 10 août 1991 sur la profession d’avocat.
+
+#### Chapitre I. — De la profession d’avocat
+
+<a id="art_N1F4C7"></a>
+
+### Art. 1er.
+
+La profession d’avocat est une profession libérale et indépendante.
+
+Sont incompatibles avec l’exercice de cette profession:
+
+1. les fonctions de magistrat;
+2. les fonctions de greffier et d’huissier de justice;
+3. les fonctions de notaire;
+4. les professions de réviseurs d’entreprises et d’expert-comptable;
+5. loi électorale modifiée du 18 février 2003
+6. les fonctions de directeur d’entreprise, de gérant ou d’administrateur-délégué de sociétés commerciales à objet commercial, artisanal ou industriel et de mandataire général ou d’agent de compagnie d’assurances;
+7. l’exercice d’une activité commerciale ou artisanale;
+8. toute activité de nature à porter atteinte à l’indépendance de l’avocat ou à la dignité de la profession.
+
+La profession d’avocat peut être exercée à titre individuel. Les avocats peuvent s’associer librement. Ils peuvent encore exercer la profession d’avocat sous forme de personne morale conformément aux dispositions de la présente loi.
+
+<a id="art_N1F52F"></a>
+
+### Art. 2.
+
+**(1)** Les avocats seuls peuvent assister ou représenter les parties, postuler et plaider pour elles devant les juridictions de quelque nature qu’elles soient, recevoir leurs pièces et titres afin de les représenter aux juges, faire et signer les actes nécessaires pour la régularité de la procédure et mettre l’affaire en état de recevoir jugement.
+
+Les dispositions de l’alinéa précédent ne font pas obstacle à l’application de dispositions législatives spéciales et à la faculté:
+
+1. loi modifiée du 9 juillet 2004
+2. de la Caisse nationale de santé, de la Caisse de maladie des fonctionnaires et employés publics, de la Caisse de maladie des fonctionnaires et employés communaux, de l’Entraide médicale de la société nationale des chemins de fer luxembourgeois, de la Mutualité des employeurs, de l’Association d’assurance accident, de la Caisse nationale d’assurance pension, du Fonds de compensation, de la Caisse nationale des prestations familiales, du Centre commun de la sécurité sociale, du Fonds national de solidarité, des offices sociaux et de tout autre administration ou service de l’Etat de se faire représenter ou assister par un de leurs agents, dûment mandaté par le ministre du ressort respectivement le président de l’organisme concerné, devant le Conseil arbitral de la sécurité sociale ou le Conseil supérieur de la sécurité sociale;
+3. des justiciables d’agir par eux-mêmes ou de se faire représenter ou assister par un expert-comptable ou un réviseur d’entreprises, dûment autorisé à exercer sa profession, devant le tribunal administratif appelé à connaître d’un recours en matière de contributions directes;
+4. de l’Etat, des communes et des autres personnes morales de droit public de se faire représenter ou assister par un fonctionnaire ou un agent de leur administration, dûment mandaté, devant la justice de paix, devant le président du tribunal d’arrondissement ou le juge qui le remplace, statuant en matière de référé;
+5. du ministère public, de représenter des parties en justice dans les cas prévus par la loi.
+6. loi du 30 novembre 2022
+
+**(2)** Nul ne peut, directement ou par personne interposée, donner, à titre habituel et contre rémunération, des consultations juridiques, ou rédiger pour autrui des actes sous seing privé, s’il n’est autorisé, aux termes de la présente loi, à exercer la profession d’avocat.
+
+Les consultations écrites, portant en tout ou en partie sur des matières juridiques, contiennent les noms, prénoms et qualités de ceux qui les donnent, ainsi que la date de leur confection.
+
+**(3)** Les dispositions du paragraphe (2) ne font pas obstacle à la faculté:
+
+1. pour les administrations publiques et les personnes de droit public de fournir des renseignements et avis juridiques relevant soit de leurs attributions soit de leurs obligations découlant de conventions internationales;
+2. pour les personnes exerçant une autre activité professionnelle réglementée par la loi ou une profession dont l’accès et l’objet sont réglementés par la loi de donner des renseignements sur le droit applicable au Luxembourg relevant directement de leur activité ou profession et de rédiger des actes juridiques qui constituent l’accessoire nécessaire de la prestation fournie;
+3. pour les juristes d’entreprises, exerçant leurs activités en exécution d’un contrat d’emploi au sein d’une entreprise, d’une société ou d’un groupe de sociétés, de donner tous les conseils et d’effectuer toutes les opérations d’ordre juridique nécessaires à l’activité et en rapport direct avec les activités de leur employeur;
+4. pour les personnes morales à but non lucratif et pour les syndicats de donner à leurs membres les renseignements relatifs aux questions juridiques se rapportant directement à leur objet, ces personnes morales à but non lucratif ou syndicats devant par ailleurs, au cas où ils reçoivent des subventions de la part de l’Etat et prennent en charge les frais d’avocat relatifs à la représentation ou l’assistance de leurs membres devant une juridiction, garantir à leurs membres le libre choix de l’avocat qui doit les représenter ou les assister;
+5. pour les professeurs et maîtres de conférence d’un enseignement juridique dans les universités et les unités de formation et de recherche de niveau universitaire ou post-universitaire, actifs ou émérites, de donner occasionnellement et contre rémunération des consultations juridiques et de rédiger des avis juridiques.
+
+<a id="art_N1F5DB"></a>
+
+### Art. 3.
+
+La présente loi ne fait pas obstacle à la diffusion en matière juridique de renseignements et d’informations à caractère documentaire.
+
+<a id="art_N1F60D"></a>
+
+### Art. 4.
+
+**(1)** Les avocats habilités à exercer leurs activités dans un Etat membre de l’Union européenne prêtent les services prévus par la loi du 29 avril 1980 réglant l’activité de ces avocats aux conditions de cette loi et des mesures prises en application des traités instituant l’Union européenne.
+
+**(2)** Les dispositions de la présente loi ne préjudicient pas de la détermination des conditions d’inscription au tableau des avocats ressortissants des Etats membres auxquelles s’appliquent les dispositions de la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles telle que modifiée par le Directive 2013/55/UE du Parlement européen et du Conseil du 20 novembre 2013 ou les dispositions de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise.
+
+<a id="art_N1F66A"></a>
+
+### Art. 5.
+
+Nul ne peut exercer la profession d’avocat s’il n’est inscrit au tableau d’un Ordre des avocats établi au Grand-Duché de Luxembourg.
+
+<a id="art_N1F69C"></a>
+
+### Art. 6.
+
+**(1)** Pour être inscrit au tableau comme avocat exerçant à titre individuel, il faut:
+
+1. présenter la garantie nécessaire d’honorabilité.
+2. loi du 13 novembre 2002 Directive 98/5/CE Exceptionnellement, le Conseil de l’ordre peut dispenser les personnes ayant accompli leur stage professionnel dans leur Etat d’origine et pouvant attester d’une pratique professionnelle d’au moins cinq ans, de certaines conditions d’admission au stage.
+3. 
+4. loi du 24 février 1984 Par dérogation à l’alinéa qui précède, les avocats européens visés à l’article 10 de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise ainsi que les avocats visés par la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles telle que modifiée par le Directive 2013/55/UE du Parlement européen et du Conseil du 20 novembre 2013, au moment de leur admission à la liste I du tableau d’un Ordre des avocats doivent maîtriser la langue de la législation au sens de la loi du 24 février 1984 sur le régime des langues dans la mesure où ils limitent leurs activités professionnelles à celles qui ne nécessitent pas la maîtrise des autres langues au sens de la loi du 24 février 1984. Le niveau de connaissances des langues exigé est celui indiqué à l’alinéa qui précède.
+
+**(2)** Avant d’être inscrits au tableau des avocats, les candidats-avocats, sur présentation par le Bâtonnier de l’Ordre ou de son délégué, prêtent devant la Cour de cassation le serment en ces termes «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat; de ne pas m’écarter du respect dû aux tribunaux; de ne conseiller ou défendre aucune cause que je ne croirais pas juste en mon âme et conscience».
+
+#### Chapitre II.- — Organisation de la profession
+
+<a id="art_N1F73B"></a>
+
+### Art. 7.
+
+Il existe un Ordre des avocats à Luxembourg et un Ordre des avocats à Diekirch. Chaque Ordre a la personnalité civile.
+
+<a id="art_N1F76D"></a>
+
+### Art. 8.
+
+**(1)** L’Ordre des avocats est composé des avocats inscrits au tableau.
+
+**(2)** Le tableau des avocats de chaque Ordre est tenu par le Conseil de l’ordre.
+
+**(3)** Le tableau des avocats comprend sept listes:
+
+1. la liste I des avocats qui remplissent les conditions des articles 5 et 6 et qui sont détenteurs du diplôme de l’examen de fin de stage judiciaire;
+2. la liste II des avocats qui remplissent les conditions des articles 5 et 6;
+3. la liste III des avocats honoraires;
+4. la liste IV des avocats exerçant sous leur titre professionnel d’origine;
+5. la liste V des personnes morales exerçant la profession d’avocat et ayant un ou plusieurs associés inscrits à la liste I exerçant une influence significative sur l’activité de la personne morale au Grand-Duché de Luxembourg;
+6. la liste VI des autres personnes morales exerçant la profession d’avocat ;
+7. Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part accord précité accord précité
+
+**(4)** Les avocats sont inscrits ou, le cas échéant, réinscrits aux listes du tableau avec rang à partir de leur prestation de serment d’avocat.
+
+**(5)** Les personnes morales exerçant la profession d’avocat sont inscrites au tableau des avocats de l’Ordre du lieu de leur établissement au Grand-Duché de Luxembourg.
+
+**(6)** Une demande d’inscription à la liste V ou VI du tableau des avocats est adressée par lettre recommandée au Bâtonnier de l’Ordre des avocats auprès duquel la personne morale sera inscrite. Elle est accompagnée d’un dossier qui doit comprendre, à peine d’irrecevabilité de la demande:
+
+1. une copie certifiée conforme des documents constitutifs;
+2. la liste des associés avec, pour chaque associé, son nom, prénom, domicile et l’indication de l’Ordre ou de l’autorité compétente étrangère auprès de laquelle il est inscrit;
+3. pour les personnes morales de droit étranger, une preuve que cette personne morale est habilitée à exercer la profession d’avocat dans son Etat d’origine.
+
+La liste prévue sous le point 2 et la preuve visée sous le point 3 doivent être reproduites tous les ans, au cours du premier mois de l’année, auprès du Bâtonnier de l’Ordre des avocats auprès duquel la personne morale est inscrite.
+
+La preuve visée sous le point 3 ne doit pas dater de plus de deux mois.
+
+Le Conseil de l’ordre peut demander à tout moment la preuve de l’inscription d’un associé auprès de l’Ordre ou de l’autorité compétente étrangère renseignée dans la liste indiquée sous le point 2.
+
+Le Conseil de l’ordre statue sur la demande d’inscription au tableau.
+
+Une personne morale qui ne satisfait plus les conditions d’inscription à la liste à laquelle elle est inscrite peut être suspendue ou rayée par le Conseil de l’ordre.
+
+La personne morale intéressée dispose contre la décision de refus, de suspension ou de radiation de l’inscription d’un recours devant le Conseil disciplinaire et administratif, conformément à l’article 26 de la présente loi.
+
+La personne morale pourra exercer la profession d’avocat à partir de son inscription au tableau des avocats. Elle ne pourra pas exercer d’autre profession.
+
+Les personnes morales inscrites à la liste V du tableau ont la qualité d’«avocat à la Cour».
+
+**(7)** En cas d’admission dans une personne morale inscrite au tableau d’un nouvel associé exerçant la profession d’avocat au Luxembourg, le Bâtonnier de l’Ordre des avocats auprès duquel la personne morale est inscrite en est informé dans la quinzaine par lettre recommandée.
+
+**(8)** Dans la quinzaine de tout acte modificatif aux documents constitutifs d’une personne morale inscrite au tableau, un exemplaire est envoyé par lettre recommandée au Conseil de l’ordre qui peut, dans le mois de la réception, mettre en demeure cette personne morale de modifier l’acte pour qu’il soit en conformité avec les règles professionnelles. La personne morale inscrite au tableau peut interjeter appel devant le Conseil disciplinaire et administratif de cette décision par requête dans un délai de quarante jours de l’envoi de la décision.
+
+**(9)** Toutes les dispositions législatives et réglementaires relatives à l’exercice de la profession d’avocat sont applicables aux sociétés inscrites au tableau et à leurs associés.
+
+**(10)** Un avocat ne peut exercer la profession d’avocat au Luxembourg qu’à travers une seule association ou personne morale ayant plusieurs associés. Il peut exercer la profession d’avocat au sein d’une personne morale inscrite au tableau des avocats et à titre individuel.
+
+**(11)** Dans tous les actes relevant de l’exercice de la profession d’avocat au Luxembourg, la personne morale devra être représentée par un avocat inscrit à un Ordre prévu par la présente loi. Pour les actes requérant le ministère d’avocat à la Cour, la personne morale doit être représentée par un avocat inscrit à la liste I du tableau. Sa signature devra être identifiée par ses nom et prénom suivis de la désignation et de la forme de la société ou association qu’il représente.
+
+**(12)** L’inscription des associés inscrits au tableau est suivie de la mention de la personne morale dans laquelle il exerce.
+
+<a id="art_N1F8F8"></a>
+
+### Art. 9.
+
+**(1)** Les avocats inscrits à la liste I et à la liste V des avocats sont seuls habilités à accomplir les actes pour lesquels les lois et règlements prescrivent le ministère d’avocat à la Cour.
+
+**(2)** Les avocats inscrits aux listes II, IV et VI du tableau des avocats peuvent exercer les activités prévues aux paragraphes (1) et (2) de l’article 2; ils peuvent accomplir les actes énoncés au paragraphe (1) du présent article s’ils sont assistés d’un avocat à la Cour inscrit à la liste I ou à la liste V des avocats.
+
+Ils sont admis à conclure à l’audience sans cette assistance dans les termes des conclusions signées par un avocat inscrit à la liste I ou à la liste V des avocats.
+
+**(3)** Par dérogation à l’article 2, les avocats inscrits à la liste VII du tableau des avocats sont uniquement autorisés à fournir les services juridiques désignés tels que définis à l’article 193, lettre a), de l’Accord de commerce et de coopération entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part, fait à Bruxelles et à Londres, le 30 décembre 2020.
+
+<a id="art_N1F96B"></a>
+
+### Art. 10.
+
+**(1)** Le fait de ne pas satisfaire aux exigences du stage judiciaire pendant une année entraîne l’omission au tableau.
+
+**(2)** Sur demande de l’avocat et par décision du Conseil de l’ordre, le stage judiciaire peut être suspendu pendant un délai ne dépassant pas trois ans. La suspension entraîne l’omission au tableau pendant toute sa durée.
+
+**(3)** L’avocat ayant effectué le stage prescrit qui ne s’est pas présenté à l’examen de fin de stage judiciaire dans un délai de trois ans après la fin du stage, ainsi que l’avocat qui n’a pas obtenu le diplôme de l’examen de fin de stage judiciaire dans un délai de cinq ans après la fin du stage, sont omis au tableau. Le Conseil de l’ordre peut prolonger ces délais pour des causes exceptionnelles, dûment justifiées.
+
+#### Chapitre III.- — Des structures de la profession
+
+<a id="art_N1F9D0"></a>
+
+### Art. 11.
+
+Les organes des la profession sont, pour chaque Ordre,
+
+- l’Assemblée,
+- le Conseil de l’ordre,
+- et, pour l’ensemble de la profession,
+- le Conseil disciplinaire et administratif.
+
+##### *Section I.* — *L’Assemblée*
+
+<a id="art_N1FA2C"></a>
+
+### Art. 12.
+
+L’Assemblée se compose des avocats inscrits aux listes I et IV du tableau des avocats. Ces avocats sont désignés comme «membres de l’Assemblée». Les avocats honoraires et les avocats inscrits à la liste II des avocats ont le droit d’y assister.
+
+<a id="art_N1FA5E"></a>
+
+### Art. 13.
+
+L’Assemblée est présidée par le Bâtonnier ou, en cas d’empêchement, par le membre du Conseil de l’ordre le plus ancien en rang. Elle désigne deux ou plusieurs membres pour remplir les fonctions de scrutateurs. Le Bâtonnier désigne un membre du Conseil de l’ordre pour remplir l’office de secrétaire.
+
+<a id="art_N1FA90"></a>
+
+### Art. 14.
+
+**(1)** L’Assemblée est constituée valablement quel que soit le nombre de membres de l’Assemblée présents.
+
+**(2)** S’il n’est pas autrement disposé, les décisions de l’Assemblée sont prises valablement à la majorité absolue des membres présents et votants.
+
+<a id="art_N1FAD9"></a>
+
+### Art. 15.
+
+**(1)** L’Assemblée générale annuelle se tient dans la première quinzaine du mois de juillet.
+
+**(2)** L’ordre du jour de l’assemblée générale annuelle comprend notamment la présentation du rapport d’activités du Bâtonnier et du Conseil de l’Ordre, la présentation des comptes relatifs à l’année écoulée, l’approbation de ces comptes, la désignation parmi les membres de l’Assemblée d’un ou de plusieurs réviseurs des comptes pour l’exercice à venir et, s’il y a lieu, l’élection du Bâtonnier, des membres du Conseil de l’Ordre et celle des membres du Conseil disciplinaire et administratif ainsi que la proposition des membres du Conseil disciplinaire et administratif d’appel.
+
+**(3)** L’assemblée annuelle fixe, sur proposition du Conseil de l’ordre, les cotisations annuelles respectives à charge des avocats inscrits aux listes I, II, III, IV, V et VI du tableau des avocats.
+
+A défaut de paiement, le Bâtonnier peut requérir l’exécutoire de la cotisation par le Président du tribunal d’arrondissement.
+
+**(4)** Des assemblées générales extraordinaires peuvent être convoquées avec un ordre du jour à fixer par le Conseil de l’ordre.
+
+**(5)** Une assemblée générale extraordinaire doit être convoquée dans le mois toutes les fois qu’un cinquième des membres de l’Assemblée au moins en fait la demande écrite et précise l’ordre du jour.
+
+##### *Section II.* — *Le Conseil de l’ordre*
+
+<a id="art_N1FB6D"></a>
+
+### Art. 16.
+
+**(1)** Le Conseil de l’Ordre se compose du Bâtonnier et de deux membres, dont le Bâtonnier sortant; pour chaque tranche supplémentaire entière ou partielle de soixante-quinze avocats inscrits sur chacune des listes I et IV du tableau des avocats, le nombre des membres est augmenté de deux unités, sans dépasser le nombre de quinze membres.
+
+**(2)** Le Conseil de l’Ordre élu par l’assemblée générale annuelle entre en fonction le 15 septembre qui suit l’assemblée générale et reste en fonction pendant deux ans.
+
+**(3)** Le Bâtonnier et les membres du Conseil de l’ordre sont rééligibles.
+
+**(4)** Les membres du Conseil de l’ordre autres que le Bâtonnier et le Bâtonnier sortant sont élus parmi les avocats inscrits à la liste I des avocats au scrutin secret et à la majorité relative; dans les cas de parité de suffrage, le plus ancien en rang est élu.
+
+En cas de vacance d’un poste, le remplaçant est coopté par le Conseil de l’ordre.
+
+Le Conseil de l’ordre ne peut comprendre en même temps qu’un seul avocat d’une même personne morale admise au tableau ou association d’avocats.
+
+**(5)** Sur proposition du Conseil de l’ordre, il peut être pourvu à l’attribution d’un des sièges du Conseil selon les règles de scrutin prévues pour la désignation du Bâtonnier, I’attributaire de ce siège étant désigné comme le vice-bâtonnier.
+
+**(6)** Le Conseil de l’ordre ne peut délibérer que si la majorité des membres qui le composent est présente. Si cette majorité ne peut être constituée pour cause de maladie, absence ou autres empêchements, il est appelé par le Bâtonnier, pour compléter le nombre indispensable, des remplaçants parmi les avocats inscrits à la liste I des avocats.
+
+**(7)** Les décisions du Conseil de l’ordre sont prises à la majorité des membres votants. En cas de partage de voix, celle du Bâtonnier est prépondérante.
+
+<a id="art_N1FC18"></a>
+
+### Art. 17.
+
+Le Conseil de l’ordre est chargé:
+
+- de veiller à la sauvegarde de l’honneur de l’Ordre, de maintenir les principes de dignité, de probité et de délicatesse qui forment la base de la profession d’avocat et les usages du barreau qui les consacrent,
+- de veiller à l’observation des règles édictées selon l’article 19, de déférer au Conseil disciplinaire et administratif les auteurs des infractions et des manquements, sans préjudice de l’action des tribunaux et du ministère public, s’il y a lieu,
+- de veiller au respect par les membres de l’ordre de leurs obligations découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme.
+
+<a id="art_N1FC5B"></a>
+
+### Art. 18.
+
+Les attributions du Conseil de l’ordre comprennent en outre l’administration de l’ordre et notamment la tenue du tableau des avocats et la certification des espaces professionnels électroniques des avocats nécessaires pour la connexion aux plateformes d’échanges sécurisés avec les juridictions, les devoirs requis par l’assistance judiciaire, la taxation des honoraires et des frais des avocats, la rédaction des avis en matière de législation et de justice, et plus généralement l’examen de toutes les questions intéressant l’exercice de la profession et la défense des droits des avocats.
+
+Les attributions qui ne sont pas réservées par la loi à d’autres organes de l’ordre sont du ressort du Conseil de l’ordre.
+
+<a id="art_N1FCA2"></a>
+
+### Art. 19.
+
+Le Conseil de l’ordre peut arrêter des règlements d’ordre intérieur qui déterminent les règles professionnelles, relatives notamment:
+
+1. à la déontologie entre avocats et à l’égard des clients et des tiers;
+2. au secret professionnel;
+3. aux honoraires et frais;
+4. à l’information du public concernant les avocats et leur activité professionnelle;
+5. à la protection des intérêts des clients et des tiers; les règlements y relatifs peuvent prévoir des mesures d’assurance individuelle ou collective facultatives ou obligataires ainsi que les prescriptions concernant la conservation des fonds de tiers;
+6. aux obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ainsi qu’aux procédures de contrôle, notamment de contrôle sur place auprès des membres de l’ordre.
+
+##### *Section III.* — *Le Bâtonnier de l’ordre*
+
+<a id="art_N1FCFC"></a>
+
+### Art. 20.
+
+Le Bâtonnier est élu parmi les avocats inscrits à la liste I des avocats au scrutin secret à la majorité absolue de ces avocats présents.
+
+<a id="art_N1FD2E"></a>
+
+### Art. 21.
+
+Le Bâtonnier est le chef de l’Ordre. Il représente l’Ordre judiciairement et extrajudiciairement. Il convoque et préside l’assemblée générale et le Conseil de l’ordre. Il peut déléguer l’exercice de fonctions déterminées à un ou plusieurs membres du Conseil de l’ordre. En cas de décès, de démission ou d’empêchement du Bâtonnier, ses fonctions sont exercées par le vice-bâtonnier, ou, à défaut ou en cas d’empêchement du vice-bâtonnier, par le membre du Conseil de l’ordre désigné à ces fins par le Conseil de l’ordre.
+
+<a id="art_N1FD60"></a>
+
+### Art. 22.
+
+**(1)** Le Bâtonnier règle les différends qui peuvent naître entre avocats dans l’exercice de leur profession.
+
+**(2)** L’appel de ses décisions peut être porté devant le Conseil disciplinaire et administratif qui statue en dernier ressort.
+
+L’appel est introduit auprès du Président du Conseil disciplinaire et administratif sous forme de lettre recommandée dans un délai de dix jours à partir de la notification par lettre recommandée de la décision du Bâtonnier.
+
+**(3)** La décision, passée en force de chose jugée, lie les avocats impliqués dans un tel différend et, le cas échéant, ceux qui les remplacent ainsi que les tribunaux devant lesquels elle est invoquée.
+
+<a id="art_N1FDC2"></a>
+
+### Art. 23.
+
+Dans le cas où les affaires dont un avocat est chargé se trouvent à l’abandon pour cause de décès, d’absence, de maladie, de suspension ou d’interdiction ou pour toute autre raison et dans tous les cas où la protection des clients, d’un avocat ou des tiers l’exige, le Bâtonnier a qualité pour prendre toute mesure conservatoire que la prudence exige ou pour saisir les organes judiciaires compétents aux fins de voir ordonner les mesures qu’il juge nécessaires ou utiles.
+
+Dans le cas où des faits reprochés à un avocat font craindre que l’exercice ultérieur de son activité professionnelle soit de nature à causer préjudice à des tiers ou à l’honneur de l’Ordre, le Bâtonnier a qualité pour prendre toute mesure conservatoire que la prudence exige et notamment, en cas de besoin, pour faire défense à l’avocat de fréquenter les cours et tribunaux pendant une période n’excédant pas trois mois ou pour saisir les organes judiciaires compétents aux fins de voir ordonner les mesures qu’il juge nécessaires ou utiles.
+
+La période de trois mois visée à l’alinéa 2 peut être prorogée par le Conseil de l’ordre à la demande du Bâtonnier, après avoir procédé préalablement à l’audition de l’avocat concerné dûment convoqué.
+
+Les décisions prises par le Bâtonnier en vertu des alinéas 1er et 2 sont susceptibles de faire l’objet d’un recours devant le Conseil disciplinaire et administratif. Le recours est introduit auprès du Président du Conseil disciplinaire et administratif sous forme de lettre recommandée dans un délai de dix jours à partir de la notification de la décision du Bâtonnier. Le Conseil disciplinaire et administratif ou l’un de ses membres délégué à cet effet entend sans délai le requérant dûment convoqué en ses explications.
+
+Par dérogation à l’article 28, paragraphe 3, l’appel est introduit sous forme de lettre recommandée dans le délai de quarante jours qui court à partir du jour où la décision a été notifiée aux parties en cause.
+
+Le recours visé à l’alinéa 4 n’a pas d’effet suspensif s’il n’en est autrement ordonné par le Président du Conseil disciplinaire et administratif ou le membre du Conseil disciplinaire et administratif qui le remplace. Le sursis à exécution ne peut être décrété qu’à la double condition que, d’une part, l’exécution de la décision attaquée risque de causer au requérant un préjudice grave et définitif et que, d’autre part, les moyens invoqués à l’appui du recours dirigé contre la décision apparaissent comme sérieux. Le sursis est rejeté si l’affaire est en état d’être plaidée et décidée à brève échéance.
+
+La demande en sursis à exécution est à présenter par requête distincte à adresser au Président du Conseil disciplinaire et administratif. La procédure est orale. L’affaire est plaidée à l’audience à laquelle l’avocat a été convoqué.
+
+L’ordonnance est exécutoire dès sa notification. Elle n’est susceptible d’aucune voie de recours. Elle cesse ses effets lorsque le Conseil disciplinaire et administratif a tranché le principal ou une partie du principal. Le Président du Conseil disciplinaire et administratif ou le membre du Conseil disciplinaire et administratif qui le remplace qui a connu de la demande d’effet suspensif du recours ne peut plus siéger au fond.
+
+L’appel visé à l’alinéa 5 n’a pas d’effet suspensif.
+
+##### *Section IV.* — *Le Conseil disciplinaire et administratif*
+
+<a id="art_N1FE5D"></a>
+
+### Art. 24.
+
+**(1)** Il est pourvu par la présente loi à la création d’un Conseil disciplinaire et administratif composé de neuf avocats inscrits à la liste I des avocats dont huit sont élus à la majorité relative par l’assemblée générale de l’Ordre de Luxembourg et un par l’assemblée générale de l’Ordre de Diekirch. L’assemblée générale de l’Ordre de Luxembourg élit huit suppléants et l’assemblée générale de l’Ordre de Diekirch un suppléant. Tout membre effectif est, en cas d’empêchement, remplacé suivant le rang d’ancienneté par un suppléant de l’ordre dont il relève, et, en cas d’empêchement des suppléants de son Ordre, par un suppléant de l’autre Ordre.
+
+**(2)** La durée de fonction des membres est de deux ans à partir du 15 septembre qui suit leur élection. En cas de vacance d’un poste de membre effectif ou de membre suppléant, son remplaçant est coopté par le Conseil disciplinaire et administratif. Les fonctions des membres effectifs et suppléants cooptés se terminent à la date où les fonctions du membre élu qu’ils remplacent auraient pris fin. Les membres du Conseil disciplinaire et administratif sont rééligibles.
+
+**(3)** Le Conseil disciplinaire et administratif élit un président et un vice-président. Au cas où le président et le vice-président sont empêchés, le Conseil est présidé par le membre titulaire le plus ancien en rang. Le membre le plus jeune du Conseil fait office de secrétaire.
+
+**(4)** Pour être membre du Conseil disciplinaire et administratif, il faut être inscrit à la liste I des avocats depuis cinq ans au moins et ne pas être membre d’un Conseil de l’ordre.
+
+**(5)** Lorsque le Conseil disciplinaire et administratif ne peut se composer selon ce qui précède, ses membres sont désignés par le Conseil de l’ordre dont relèvent les membres à suppléer.
+
+**(6)** Le Conseil disciplinaire et administratif siège au nombre de 3 membres.
+
+La composition du Conseil disciplinaire et administratif est arrêtée pour chaque affaire par son président ou en cas d’empêchement par son vice-président.
+
+<a id="art_N1FEFB"></a>
+
+### Art. 24-1.
+
+Le Conseil disciplinaire et administratif peut commettre toute personne de son choix pour l’éclairer par des constatations, par une consultation ou par une expertise sur une question de fait qui requiert les lumières d’un technicien.
+
+En cas d’usage de la faculté lui réservée par l’alinéa 1er, le Conseil disciplinaire et administratif fixe un délai dans lequel le technicien doit remettre son rapport.
+
+<a id="art_N1FF45"></a>
+
+### Art. 25.
+
+Le Conseil disciplinaire et administratif connaît, pour les deux Ordres, des affaires disciplinaires et administratives qui lui sont déférées selon les dispositions et la procédure prévues par la présente loi et selon les dispositions de la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise.
+
+#### Chapitre IV.- — De la discipline et des voies de recours
+
+<a id="art_N1FF90"></a>
+
+### Art. 26.
+
+**(1)** Le Bâtonnier instruit les affaires dont il est saisi soit par le procureur d’État ou par le procureur général d’État, soit sur plainte, soit conformément à l’article 33, paragraphe (5), ou dont il se saisit d’office.
+
+**(2)** Le Bâtonnier ou son délégué dresse un procès-verbal des faits qui ont motivé l’instruction. Il peut s’adresser au procureur général d’État pour voir charger un officier de police judiciaire de procéder à une enquête.
+
+**(3)** Si le Bâtonnier estime, en cas d’infraction ou de manquement à la discipline, que la sanction à prononcer ne dépasse pas la peine de l’avertissement, de la réprimande ou d’une amende inférieure à 1000 euros, il peut seul prononcer cette sanction. L’avocat sanctionné peut former contredit, par requête, dans les dix jours de la notification de la décision du Bâtonnier, auprès du Conseil disciplinaire et administratif. Dans les autres cas, l’instruction se poursuit conformément aux dispositions qui suivent.
+
+**(4)** L’instruction préalable terminée, le Bâtonnier en soumet le résultat au Conseil de l’ordre qui défère l’avocat au Conseil disciplinaire et administratif, s’il estime qu’il y a infraction ou manquement à la discipline.
+
+**(5)** Une personne morale inscrite au tableau peut faire l’objet de poursuites disciplinaires.
+
+**(6)** Au cas où le Conseil de l’ordre ne défère pas au Conseil disciplinaire et administratif les affaires dont le Bâtonnier a été saisi par le procureur d’État ou par le procureur général d’État, ceux-ci peuvent directement saisir le Conseil disciplinaire et administratif.
+
+**(7)** En matière disciplinaire, l’avocat est cité devant le Conseil disciplinaire et administratif à la diligence du Bâtonnier, ou, dans le cas du paragraphe (6), à la diligence du procureur d’État ou du procureur général d’État.
+
+La citation, sous pli fermé, est soit remise en l’étude par un délégué du Conseil de l’ordre, soit signifiée par un huissier, soit envoyée sous forme de lettre recommandée avec avis de réception.
+
+Le délai de citation est de quinze jours au moins à partir de la remise, de la signification ou de l’envoi.
+
+La citation contient l’énoncé des griefs.
+
+Si l’avocat qui fait l’objet de la citation visée ci-dessus est l’associé d’une personne morale exerçant la profession d’avocat, une citation est également adressée à cette personne morale et les dispositions des paragraphes suivants s’appliquent également à elle.
+
+**(8)** En cas de prétérition d’un avocat du tableau, le refus d’inscription ou de réinscription, de contestation du rang, ainsi que dans les cas prévus aux articles 34-1, paragraphe (2), et 40, paragraphe (1), l’intéressé peut saisir le Conseil disciplinaire et administratif par requête dans un délai de quarante jours à partir soit de la remise, soit de la signification, soit de l’envoi de la décision entreprise opérés selon l’un des modes prévus au paragraphe (7). La procédure est dispensée du ministère d’avocat à la Cour.
+
+**(9)** Le Conseil disciplinaire et administratif informe, par lettre recommandée avec avis de réception, l’avocat intéressé et le Conseil de l’ordre intéressé des lieu, date et heure de l’audience.
+
+Le Conseil de l’ordre intéressé peut déléguer l’un de ses membres pour assister à l’audience du Conseil disciplinaire et administratif et y être entendu en son avis et en ses conclusions.
+
+Lorsque le Conseil disciplinaire et administratif est saisi par le procureur d’État ou par le procureur général d’État conformément aux paragraphes (6) et (7), ceux-ci peuvent assister à l’audience pour y être entendus en leurs avis ou conclusions.
+
+**(10)** L’avocat peut prendre inspection du dossier ou s’en faire délivrer copie à ses frais.
+
+**(11)** L’avocat inculpé comparaît en personne. Il peut se faire assister par un avocat.
+
+S’il ne comparaît pas, il est statué par décision par défaut non susceptible d’opposition.
+
+**(12)** Le Conseil disciplinaire et administratif instruit l’affaire en audience publique. L’avocat inculpé ou intéressé peut demander que la cause soit entendue en audience non publique.
+
+**(13)** Le Conseil disciplinaire et administratif peut ordonner des enquêtes et des expertises. Les enquêtes sont faites soit par le Conseil, soit par l’un de ses membres, soit par un officier de police judiciaire.
+
+**(14)** La décision du Conseil disciplinaire et administratif est prise à la majorité absolue des voix. Elle est signée par tous les membres du Conseil.
+
+**(15)** La décision est motivée. Elle est lue en audience publique.
+
+**(16)** Une copie de la décision est notifiée, à la diligence du Président du Conseil disciplinaire et administratif, aux parties en cause, ainsi qu’au procureur général d’État ou au Conseil de l’ordre intéressé, par lettre recommandée avec avis de réception à la dernière adresse professionnelle déclarée auprès du barreau.
+
+Si l’avocat sanctionné ne peut pas être joint à la dernière adresse professionnelle déclarée, la notification de la décision est faite par publication sur le site internet du barreau concerné.
+
+**(17)** Les lettres aux témoins et aux techniciens ainsi que les copies des décisions du Conseil sont signées par le Président du Conseil disciplinaire et administratif.
+
+**(18)** Les minutes des décisions sont déposées et conservées aux archives du Conseil disciplinaire et administratif.
+
+<a id="art_N2012D"></a>
+
+### Art. 27.
+
+**(1)** Outre les sanctions prévues à l’article 30-1, le Conseil disciplinaire et administratif peut, suivant l’exigence des cas, prononcer les sanctions suivantes :
+
+1. l’avertissement ;
+2. la réprimande ;
+3. 2*bis*)
+4. l’amende de 1 000 à 100 000 euros ;
+5. la suspension de l’exercice de la profession pour un terme qui ne peut excéder cinq ans ;
+6. l’interdiction à vie de l’exercice de la profession.
+
+**(2)** La peine de la suspension peut être assortie du sursis pour tout ou partie de sa durée. Le bénéfice du sursis est perdu si le condamné fait l’objet d’une nouvelle peine de suspension pour un fait qui s’est produit dans un délai de cinq ans à compter de la date où la première condamnation est passée en force de chose jugée.
+
+**(3)** Le Conseil disciplinaire et administratif peut ordonner l’affichage aux lieux qu’il indique et la publication, totale ou partielle, de sa décision dans un ou plusieurs journaux ou périodiques aux frais du condamné.
+
+**(4)** L’avocat suspendu ou interdit doit s’abstenir de tout acte de profession d’avocat au sens de l’article 2, paragraphes (1) et (2), à dater du jour où la décision est passée en force de chose jugée, à moins que le Conseil n’ait, par décision motivée, ordonné l’exécution provisoire de la décision ou fixé la date du début de l’exécution.
+
+**(5)** Le recours d’un avocat omis du tableau n’aura point d’effet suspensif, s’il n’en est autrement décidé par le Conseil disciplinaire et administratif, saisi par lettre recommandée dans le délai de quarante jours à partir soit de la remise, soit de la signification, soit de l’envoi de la décision d’omission opérés selon l’un des modes prescrits à l’article 26, paragraphe (7).
+
+**(6)** Toutes les peines sont mentionnées dans un registre qui est tenu par le Bâtonnier auprès de chaque barreau. L’avocat concerné peut consulter ce registre au sujet des données le concernant. Le Conseil de l’ordre, le Conseil disciplinaire et administratif ainsi que le Conseil disciplinaire et administratif d’appel obtiennent à leur demande un extrait de ce registre concernant un avocat déterminé. L’avocat concerné obtient également à sa demande un extrait de ce registre comprenant les données le concernant.
+
+Le Bâtonnier veille à ce que :
+
+1. les données à caractère personnel de ce registre soient traitées loyalement et licitement ;
+2. les données à caractère personnel soient collectées pour la finalité déterminée par le présent article ;
+3. les mesures techniques et une organisation appropriées soient mises en œuvre en vue d’assurer la sécurité et la confidentialité des données à caractère personnel.
+
+Le Bâtonnier compétent a la qualité de responsable du traitement des données au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) tel que modifié.
+
+<a id="art_N20216"></a>
+
+### Art. 28.
+
+**(1)** Les parties en cause, ainsi que le procureur général d’État et le Conseil de l’ordre intéressé peuvent faire appel contre toute décision du Conseil disciplinaire et administratif, à l’exception de celle prise selon l’article 22, paragraphe (2).
+
+**(2)** Il est créé à ces fins un Conseil disciplinaire et administratif d’appel composé de deux magistrats de la Cour d’appel, de deux magistrats de la Cour administrative et de trois assesseurs-avocats inscrits sur la liste I du tableau des avocats dont un inscrit au barreau de Diekirch. Sont également nommés deux magistrats de la Cour d’appel suppléants, deux magistrats de la Cour administrative suppléants ainsi que trois assesseurs-avocats suppléants dont un inscrit au barreau de Diekirch.
+
+Il siège au nombre de trois dont un magistrat de la Cour d’appel**,** un magistrat de la Cour administrative et un assesseur-avocat.
+
+La composition du Conseil disciplinaire et administratif d’appel est arrêtée pour chaque affaire par son président ou en cas d’empêchement par son vice-président.
+
+Les membres magistrats de la Cour d’appel et leurs suppléants, ainsi que le greffier affecté au Conseil sont nommés par arrêté grand-ducal, sur présentation de la Cour supérieure de justice, pour une durée de deux ans.
+
+Les membres magistrats de la Cour administrative et leurs suppléants sont nommés par arrêté grand-ducal, sur présentation de la Cour administrative, pour une durée de deux ans.
+
+Les assesseurs-avocats et leurs suppléants sont nommés par arrêté grand-ducal pour une durée de deux ans. Ils sont choisis sur une liste de huit avocats à la Cour inscrits sur la liste I du tableau des avocats depuis cinq ans au moins présentée par chaque Conseil de l’ordre pour chaque fonction.
+
+La fonction d’assesseur est incompatible avec celle de membre d’un Conseil de l’ordre ou avec celle de membre du Conseil disciplinaire et administratif.
+
+Une indemnité de vacation est allouée aux membres. Son taux est de quarante points indiciaires par audience dans laquelle ils siègent. Cette indemnité n’est pas pensionnable.
+
+Le Conseil disciplinaire et administratif d’appel siège dans les locaux de la Cour supérieure de justice où est également assuré le service du greffe.
+
+Le Conseil disciplinaire et administratif d’appel est présidé par le magistrat le plus ancien en rang de la Cour d’appel. Le vice-président est le magistrat de la Cour d’appel le second plus ancien en rang.
+
+**(3)** L’appel est déclaré au greffe de la Cour supérieure de justice dans le délai de quarante jours qui court pour les parties en cause et pour le procureur général d’État et le Conseil de l’ordre intéressé du jour où la décision leur a été notifiée, à la diligence du Président du Conseil disciplinaire et administratif, par lettre recommandée avec accusé de réception. En cas d’appel relevé par les parties en cause ou par le procureur général d’État contre une décision rendue à l’encontre d’un avocat européen exerçant sous son titre professionnel d’origine, le greffe en informe sans délai le Conseil de l’ordre des Avocats du Grand-Duché de Luxembourg auprès duquel cet avocat européen est inscrit.
+
+**(4)** Les dispositions de l’article 26 concernant l’instruction et la procédure sont applicables au Conseil disciplinaire et administratif d’appel.
+
+<a id="art_N202DF"></a>
+
+### Art. 29.
+
+**(1)** Les parties en cause, ainsi que le procureur général d’Etat et le Conseil de l’ordre intéressé peuvent se pourvoir en cassation contre l’arrêt rendu en appel.
+
+**(2)** Le pourvoi est introduit, instruit et jugé comme en matière civile. Le délai pour se pourvoir court du jour où l’arrêt d’appel a été notifié par le greffier par lettre recommandée avec accusé de réception.
+
+<a id="art_N20328"></a>
+
+### Art. 29-1.
+
+**(1)** Les sanctions suivantes sont effacées de plein droit après une période de cinq ans à compter du moment où elles ont acquis autorité de chose décidée :
+
+1. l’avertissement, la réprimande et l’amende inférieure à 1000 euros, prévues à l’article 27, paragraphe (1) ;
+2. loi modifiée du 12 novembre 2004
+
+**(2)** L’avocat interdit ne peut être inscrit à l’une des listes du tableau de l’Ordre visées par l’article 8, paragraphe 3 qu’après l’expiration d’un délai de dix ans depuis la date où la décision d’interdiction est passée en force de chose jugée et si des circonstances exceptionnelles le justifient. L’inscription n’est permise qu’après avis motivé du Conseil de l’ordre du barreau auquel l’avocat appartenait. Le refus d’inscription est motivé.
+
+**(3)** Un avocat suspendu peut, après un délai de six ans à compter de la date où la décision de suspension est passée en force de chose jugée, demander sa réhabilitation au Conseil disciplinaire et administratif ou au Conseil disciplinaire et administratif d’appel qui a prononcé la suspension. Le refus de réhabilitation est motivé. La décision n’est pas susceptible d’appel. La demande de réhabilitation peut être réintroduite tous les six ans.
+
+**(4)** L’effacement de peine, la réinscription ou la réhabilitation entraînent le retrait des mentions visées à l’article 27, paragraphe 6.
+
+<a id="art_N203AD"></a>
+
+### Art. 30.
+
+**(1)** Les témoins et techniciens appelés devant le Conseil disciplinaire et administratif et le Conseil disciplinaire et administratif d’appel ou devant un membre de ces conseils sont entendus sous la foi du serment.
+
+**(2)** Les témoins ou techniciens cités qui refusent de comparaître ou de déposer sont passibles des peines comminées par l’article 77, paragraphe (2), du Code de procédure pénale à prononcer par le Conseil disciplinaire et administratif ou par le Conseil disciplinaire et administratif d’appel.
+
+**(3)** Les articles 220, 223 et 224 du code pénal sont applicables en la matière.
+
+**(4)** Les décisions disciplinaires passées en force de chose jugée sont exécutées à la requête du procureur général d’État. Les amendes prononcées en application des articles 27, paragraphe (1), et 30, paragraphe (2), sont recouvrées par l’Administration de l’enregistrement, des domaines et de la TVA au profit de l’État.
+
+**(5)** Les notifications qui sont faites par le Bâtonnier, le Conseil de l’ordre, le Conseil disciplinaire et administratif et le Conseil disciplinaire et administratif d’appel contiennent l’information sur les voies de recours éventuellement ouvertes contre les décisions notifiées.
+
+Les délais de recours ne commencent à courir qu’à partir de cette information.
+
+#### Chapitre IV-1.- — Des attributions en matière de lutte contre le blanchiment et contre le financement du terrorisme.
+
+<a id="art_N20451"></a>
+
+### Art. 30-1.
+
+Aux fins de l’application des attributions résultant de l’article 17, troisième tiret, le Conseil de l’ordre est investi des pouvoirs prévus à l’article 8-2*bis *de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.
+
+En cas de non-respect des obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ou en cas d’obstacle à l’exercice des pouvoirs du Conseil de l’ordre définis à l’alinéa 1er les sanctions et mesures prévues à l’article 8-10 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme sont appliquées selon la procédure prévue au chapitre IV.
+
+Si le Conseil de l’ordre estime que la sanction à prononcer ne dépasse pas la peine de l’avertissement, du blâme, de la déclaration publique qui précise l’identité de la personne physique ou morale et la nature de la violation, ou d’une amende inférieure à 25.000 euros, il peut prononcer seul cette sanction. L’avocat sanctionné peut former contredit, par requête, dans les dix jours de la notification de la décision du Conseil de l’ordre, auprès du Conseil disciplinaire et administratif.
+
+Lorsqu’ils prononcent une sanction sur le fondement de l’article 8-10 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, le Conseil disciplinaire et administratif et le Conseil de l’ordre se prononcent sur la publication de la décision conformément au paragraphe 2 de l’article 8-12 de la même loi.
+
+<a id="art_N204C4"></a>
+
+### Art. 30-2.
+
+En cas d’urgence dûment justifiée, le bâtonnier peut prendre les mesures prévues à l’article 8-2bis, paragraphe 1er, sans attendre une réunion du Conseil de l’ordre. Le bâtonnier fait rapport et soumet les mesures à l’approbation du Conseil de l’ordre lors d’une réunion convoquée sans délai. Les mesures prises par le bâtonnier sont caduques si le Conseil de l’ordre ne les a pas approuvées dans un délai de quinze jours. Si le bâtonnier a pris plusieurs mesures consécutives, toutes les mesures prises devront être approuvées dans le délai de quinze jours à compter de la première mesure.
+
+#### Chapitre V.- — Les droits et devoirs de l’avocat
+
+<a id="art_N20505"></a>
+
+### Art. 31.
+
+Nul ne peut porter le titre d’avocat s’il ne remplit les conditions prévues par les articles 5 et 6.
+
+<a id="art_N20537"></a>
+
+### Art. 31-1.
+
+Les avocats inscrits à titre individuel doivent maîtriser la langue de la législation au sens de la loi du 24 février 1984 sur le régime des langues ainsi que toute autre langue nécessaire à l’exercice de leurs activités professionnelles, sans préjudice de l’article 6. (1) d).
+
+Les avocats inscrits à la liste II doivent en outre maîtriser les langues administratives et judiciaires du Grand-Duché de Luxembourg nécessaires pour l’accomplissement de leurs obligations résultant du stage judiciaire.
+
+L’avocat qui accepte de se charger d’une affaire doit avoir les compétences professionnelles et linguistiques nécessaires sous peine de s’exposer aux sanctions disciplinaires prévues.
+
+<a id="art_N20581"></a>
+
+### Art. 32.
+
+**(1)** L’avocat porte, dans l’exercice de ses fonctions judiciaires, la robe. Seul l’avocat est placé dans l’intérieur du parquet. Il plaide debout.
+
+**(2)** Il est appelé, dans les cas déterminés par la loi, à suppléer les juges et ne peut s’y refuser sans motif d’excuse ou d’empêchement.
+
+<a id="art_N205CA"></a>
+
+### Art. 33.
+
+**(1)** Dans l’exercice de sa profession, l’avocat est maître de ses moyens.
+
+**(2)** L’avocat exerce librement son ministère pour la défense de la justice et de la vérité; il s’abstient de toutes altérations de faits et de toute surprise déloyale. Il lui est défendu de se livrer à des injures et remarques offensantes envers les parties ou leurs défenseurs. Il s’abstient d’avancer aucun fait grave contre l’honneur et la réputation des parties, à moins que la cause ne l’exige.
+
+**(3)** L’avocat ne s’écarte pas, soit dans ses discours, soit dans ses écrits ou de toute autre manière, du respect dû à la justice et aux tribunaux.
+
+**(4)** L’avocat ne peut assister, ni représenter des parties ayant des intérêts opposés. Il en est de même d’une association d’avocats.
+
+**(5)** Si l’avocat, dans ses plaidoiries ou dans ses écrits, contrevient aux dispositions des paragraphes (2), (3) et (4) du présent article, le tribunal ou la Cour qui connaît de l’affaire peut faire dresser procès-verbal par le greffier et saisir le Bâtonnier du Conseil de l’ordre de l’incident, sans préjudice d’autres poursuites s’il y a lieu.
+
+<a id="art_N20643"></a>
+
+### Art. 34.
+
+**(1)** Les avocats peuvent s’associer entre eux au sein d’une association d’avocats. Ils peuvent également s’associer entre eux au sein d’une personne morale de droit luxembourgeois ou de droit étranger.
+
+**(2)** Tous les associés dans une association d’avocats ou dans une personne morale exerçant la profession d’avocat doivent être des avocats inscrits à un Ordre ou à une organisation représentant l’autorité compétente d’un Etat membre de l’Union européenne.
+
+Le Conseil de l’ordre peut permettre l’association avec des avocats inscrits à un Ordre ou à une organisation représentant l’autorité professionnelle d’un Etat non membre de l’Union européenne à la condition de constater que cet Ordre ou cette organisation assure des conditions d’inscription, d’exercice de la profession et d’association équivalentes à celles prévues dans la présente loi.
+
+<a id="art_N20695"></a>
+
+### Art. 34-1.
+
+**(1)** Les associés d’une association d’avocats arrêtent la forme juridique et les modalités de leur association, sa représentation à l’égard des tiers et les droits et devoirs des associés.
+
+**(2)** Dans la quinzaine de la conclusion du contrat d’association ou de l’acte modificatif, un exemplaire est envoyé par lettre recommandée au Conseil de l’ordre qui peut, dans le mois de la réception, mettre en demeure les avocats associés de modifier la convention pour qu’elle soit en conformité avec les règles professionnelles. Les avocats associés peuvent interjeter appel devant le Conseil disciplinaire et administratif de cette décision par requête dans un délai de quarante jours de l’envoi de la décision.
+
+<a id="art_N206DE"></a>
+
+### Art. 34-2.
+
+**(1)** Toute personne morale de droit luxembourgeois exerçant la profession d’avocat doit être constituée sous forme de société civile ou de société ayant la forme d’une des sociétés prévues à l’article 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales y inclus en société unipersonnelle.
+
+**(2)** L’exercice de la profession d’avocat doit figurer dans l’objet social de toute société de droit luxembourgeois exerçant la profession d’avocat.
+
+**(3)** Les dispositions de la loi concernant les sociétés commerciales sont applicables aux sociétés d’avocats qui ont adopté une des formes de sociétés prévues à l’article 2 de la loi concernant les sociétés commerciales chaque fois qu’il n’y est pas dérogé expressément par la présente loi.
+
+Par dérogation à l’article 3, alinéa 3 de la loi concernant les sociétés commerciales, les sociétés d’avocats admises au tableau d’un Ordre ont une nature civile malgré l’adoption de la forme d’une société commerciale. Elles n’ont pas la qualité de commerçant et ne sont pas de ce fait sujettes à cotisation à la Chambre de commerce. L’immatriculation au registre de commerce et des sociétés n’emporte pas présomption de commercialité dans leur chef.
+
+**(4)** Le tribunal d’arrondissement siégeant en matière civile, peut, sur requête du Procureur d’Etat, prononcer la dissolution et la liquidation d’une société de droit luxembourgeois exerçant la profession d’avocat et constituée sous la forme d’une des sociétés prévues à l’article 2 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales, si la société a cessé ses paiements et que son crédit est ébranlé.
+
+En ordonnant la liquidation, le Tribunal nomme un juge-commissaire ainsi qu’un ou plusieurs liquidateurs à choisir parmi les avocats inscrits à la liste I du tableau de l’Ordre où la société a été inscrite en dernier, à l’exception des associés. Il arrête le mode de liquidation. Il peut rendre applicable, dans la mesure qu’il détermine, les règles régissant la faillite. Le mode de liquidation peut être modifié ultérieurement, soit d’office, soit sur requête des liquidateurs.
+
+<a id="art_N20773"></a>
+
+### Art. 34-3.
+
+**(1)** Les personnes morales de droit luxembourgeois ou de droit étranger admises au tableau d’un Ordre ont pour seule activité l’exercice de la profession d’avocat.
+
+**(2)** La dénomination de la personne morale doit être suivie ou précédée de la forme juridique sous laquelle elle est organisée et si elle agit à travers son établissement au Luxembourg, de la mention «inscrit au barreau de Luxembourg/Diekirch».
+
+**(3)** Les titres représentant le capital de la personne morale de droit luxembourgeois ou de droit étranger exerçant la profession d’avocat doivent être nominatifs et ne peuvent être détenus que par une personne remplissant les conditions pour être associée dans une personne morale exerçant la profession d’avocat au Grand-Duché de Luxembourg.
+
+**(4)** Les documents constitutifs de toute personne morale exerçant la profession d’avocat au Grand-Duché de Luxembourg doivent comporter:
+
+- les modalités de la cession des parts sociales ou des actions entre vifs ou pour cause de mort;
+- les droits et obligations de l’associé ayant perdu la qualité de professionnel en exercice et de ses ayants droit; et
+- la description de son activité consistant dans le seul exercice de la profession d’avocat.
+
+**(5)** Une personne morale de droit luxembourgeois ou de droit étranger exerçant la profession d’avocat ne peut être ou rester inscrite à la liste V du tableau de l’Ordre de son siège si elle ne comporte pas un ou plusieurs associés inscrits à la liste I du tableau de l’Ordre exerçant leur profession de façon permanente au Luxembourg qui exercent une influence significative sur l’activité de la personne morale au Luxembourg. Une personne morale de droit luxembourgeois ou de droit étranger exerçant la profession d’avocat ne peut être ou rester inscrite à la liste VI du tableau de l’Ordre de son siège si elle ne comporte pas au moins un associé inscrit à la liste I ou à la liste IV du tableau de l’Ordre qui exerce sa profession de façon permanente au Luxembourg.
+
+**(6)** Les membres des organes de gestion d’une personne morale exerçant la profession d’avocat doivent être des associés de la personne morale.
+
+<a id="art_N2080D"></a>
+
+### Art. 35.
+
+**(1)** L’avocat est soumis au secret professionnel conformément à l’article 458 du code pénal.
+
+**(2)** Sans préjudice du droit de communiquer avec son mandant dans le respect des droits de la défense, il doit respecter le secret de l’instruction en matière pénale en s’abstenant de communiquer des renseignements extraits du dossier ou de publier ou faire publier des documents, pièces ou lettres intéressant une information en cours.
+
+**(3)** Le lieu de travail de l’avocat et le secret des communications, par quelque moyen que ce soit, entre l’avocat et son client, sont inviolables. Lorsqu’une mesure de procédure civile ou d’instruction criminelle ou de contrôle ou d’inspection prévues respectivement aux articles 24 à 26 de la loi du 30 novembre 2022 relative à la concurrence ou d’inspection prévue par l’article L. 311-8 du Code de la consommation est effectuée auprès ou à l’égard d’un avocat dans les cas prévus par la loi, il ne peut y être procédé qu’en présence du Bâtonnier ou de son représentant, ou ceux-ci dûment appelés.
+
+Le Bâtonnier ou son représentant peut adresser aux autorités ayant ordonné ces mesures toutes observations concernant la sauvegarde du secret professionnel. Les actes de saisie et les procès-verbaux de perquisition mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou qu’ils ont été dûment appelés, ainsi que les observations que le cas échéant le Bâtonnier ou son représentant ont estimé devoir faire.
+
+Les procès-verbaux de contrôle prévus à l’article 24, paragraphe 6, et de l’inspection prévus à l’article 26, paragraphe 8, de la loi du 30 novembre 2022 relative à la concurrence mentionnent à peine de nullité la présence du Bâtonnier ou de son représentant ou le fait qu’ils ont été dûment appelés, ainsi que les observations que le Bâtonnier ou son représentant ont estimé devoir faire.
+
+<a id="art_N208A6"></a>
+
+### Art. 35-1.
+
+Nonobstant les dispositions de l’article précédent et sous réserve de l’article 2 de la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme, l’avocat est soumis aux obligations professionnelles telles que définies par le titre Ier de cette loi et par les mesures prises pour son exécution.
+
+<a id="art_N208E0"></a>
+
+### Art. 36.
+
+**(1)** Les moyens auxquels il est recouru pour procurer au public l’information nécessaire sur l’avocat, sur les conditions d’exercice de sa profession et sur les affaires dont il est chargé sont mis en oeuvre dans le respect de l’intérêt de son client et de façon à ne pas porter atteinte à la dignité de la profession, dans les conditions à déterminer par le Conseil de l’ordre conformément à l’article 19 de la présente loi.
+
+**(2)** Tout acte de démarchage ou de sollicitation est interdit à l’avocat.
+
+<a id="art_N20929"></a>
+
+### Art. 37.
+
+**(1)** Le Conseil de l’ordre assure l’assistance des personnes qui ne trouvent pas de défenseur ou dont les ressources sont insuffisantes pour la défense de leurs intérêts.
+
+**(2)** Le Conseil de l’ordre collabore avec le service d’accueil et d’information juridique institué par l’article 189 de la loi du 7 mars 1980 sur l’organisation judiciaire. A cet effet le Conseil de l’ordre maintient un bureau de consultation et de défense. Le Bâtonnier désigne les avocats qui assurent ce service.
+
+**(3)** Si une partie ne trouve pas de défenseur, le Bâtonnier ou, suivant les circonstances, le juge, lui désigne d’office un avocat s’il y a lieu. L’avocat nommé d’office pour défendre un justiciable ne peut refuser son ministère sans motif valable.
+
+**(4)** Si, en application de l’article 3-6 du Code de procédure pénale une partie ne trouve pas de défenseur, l’avocat est choisi et désigné d’office sur base des listes de permanence à disposition des cabinets d’instruction, des Parquets ainsi que de la Police grand-ducale, listes établies par le Bâtonnier. Si les conditions légales prévues pour l’attribution de l’assistance judiciaire sont remplies dans le chef de la personne concernée, les indemnités de l’avocat sont à charge de l’Etat.
+
+L’avocat figurant sur cette liste ne peut pas refuser son ministère sans motif valable.
+
+<a id="art_N209A6"></a>
+
+### art_N209A6
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+- 
+- 
+- 
+
+<a id="art_N20CF0"></a>
+
+### Art. 38.
+
+**(1)** L’avocat arrête ses honoraires et met en charge ses frais professionnels. Dans la fixation des honoraires l’avocat prend en compte les différents éléments du dossier, tels l’importance de l’affaire, le degré de difficulté, le résultat obtenu et la situation de fortune du client.
+
+**(2)** Dans les cas où cette fixation excéderait des normes raisonnables, le Conseil de l’ordre les réduit, eu égard aux différents éléments du dossier mentionnés au paragraphe (1) précédent.
+
+<a id="art_N20D39"></a>
+
+### Art. 39.
+
+**(1)** L’avocat ne peut établir qu’un seul cabinet au Grand-Duché de Luxembourg. Le cabinet de l’avocat est établi dans l’arrondissement judiciaire où se trouve l’Ordre des avocats auprès duquel l’avocat est inscrit.
+
+**(2)** Les publications à faire par l’avocat et toutes publications prévues par la présente loi se font dans le local affecté à l’usage des avocats.
+
+<a id="art_N20D82"></a>
+
+### Art. 40.
+
+**(1)** Le titre d’avocat honoraire peut être conféré par le Conseil de l’ordre à l’avocat qui a été inscrit au tableau pendant vingt années au moins et a donné volontairement sa démission. Le temps pendant lequel un avocat n’était pas inscrit n’est pas décompté si cet avocat, après avoir démissionné, obtient sa réinscription avec conservation du rang qu’il avait initialement occupé au tableau.
+
+La décision du Conseil de l’ordre est notifiée à l’avocat intéressé par lettre recommandée avec accusé de réception. Elle est susceptible d’un recours devant le Conseil disciplinaire et administratif dans un délai de quarante jours à partir de la notification à l’avocat.
+
+**(2)** L’avocat honoraire reste soumis à la juridiction disciplinaire des avocats.
+
+**(3)** L’avocat honoraire est libre d’exercer toute activité autre que celle contraire à la dignité de l’Ordre; il ne peut faire aucun acte rentrant dans l’exercice de la profession d’avocat.
+
+**(4)** L’avocat honoraire peut prendre part aux réunions et aux cérémonies de l’Ordre; il n’a pas droit de vote aux assemblées générales. Il peut revêtir la robe au cours des cérémonies de l’Ordre auquel il participe. Il prend la place que lui assigne son ancienneté d’inscription au tableau. Il a droit d’accès à la bibliothèque de l’Ordre.
+
+#### Chapitre VI.- — Dispositions pénales
+
+<a id="art_N20E00"></a>
+
+### Art. 41.
+
+**(1)** L’usage non autorisé des titres «avocat», «avocat à la Cour», «avocat-avoué», «avoué», «avocat honoraire» ainsi que l’usage de tous autres termes comprenant ces mots ou leur équivalent et l’usage non autorisé d’un titre professionnel étranger prévu par la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise, sont punis d’une amende de 500,- à 25.000,- euros. En cas de récidive, l’amende est portée au double.
+
+**(2)** L’exercice illégal de la profession d’avocat ou l’exercice illégal de la profession d’avocat sous le titre professionnel d’origine visée par la loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un Etat membre autre que celui où la qualification a été acquise, est puni d’une amende de 500,- à 25.000,- euros et d’un emprisonnement de huit jours à six mois ou d’une de ces peines seulement.
+
+**(3)** Les dispositions du Livre premier du code pénal et des articles 130-1 à 132-1 du code d’instruction criminelle sont applicables aux infractions prévues aux deux paragraphes qui précèdent.
+
+**(4)** La violation du secret des communications entre l’avocat et son client et la révélation des documents et des secrets confiés à l’avocat dans l’exercice de ses fonctions, commises par un fonctionnaire ou officier public, par un dépositaire ou agent de l’autorité et de la force publique sont punies par les peines comminées par l’article 151 du code pénal, sans préjudice des dispositions des articles 152 et 260 du même code.
+
+La violation du secret des communications entre l’avocat et son client et la révélation des documents et des secrets confiés à l’avocat dans l’exercice de ses fonctions commises par toutes autres personnes que celles visées dans l’alinéa qui précède sont punies par les peines comminées par l’article 151 du code pénal.
+
+**(5)** Les infractions à l’article 35, paragraphes (1) à (3) sont punies des peines prévues à l’article 458 du code pénal.
+
+#### Chapitre VII.- — Dispositions abrogatoires et modificatives
+
+<a id="art_N20EC0"></a>
+
+### Art. 42.
+
+Sont abrogés:
+
+1. décret impérial du 19 juillet 1810
+2. décret impérial du 14 décembre 1810
+3. loi du 23 août 1882
+4. loi du 7 mars 1980
+5. code de commerce
+6. loi du 10 avril 1911 arrêté grand-ducal du 14 août 1911 loi
+7. règlement grand-ducal du 27 mars 1964
+
+<a id="art_N20F3C"></a>
+
+### Art. 43.
+
+Sont modifiés comme suit:
+
+1. 
+2. La loi du 7 mars 1980 sur l’organisation judiciaire. Le troisième alinéa de l’article 134 est modifié comme suit: L’article 172 est modifié par l’ajout de la disposition suivante:
+3. La loi du 29 avril 1980 réglant l’activité en prestations de service, au Grand-Duché de Luxembourg, des avocats habilités à exercer leurs activités dans un autre Etat membre des Communautés Européennes. L’article 6 est remplacé par la disposition suivante:
+4. La loi du 8 février 1961 portant organisation du Conseil d’Etat, telle qu’elle a été modifiée: A l’article 13, alinéa 2, les termes avocats inscrits aux tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement sont remplacés par avocats inscrits à la liste visée sous 1 de l’article 8, paragraphe (3) de la loi sur la profession d’avocat.
+5. L’arrêté royal grand-ducal du 21 août 1866 portant règlement de procédure en matière de contentieux devant le Conseil d’Etat, tel qu’il a été modifié. 1. avocat inscrit à l’un des tableaux dressés annuellement par les conseils de discipline ou par les tribunaux d’arrondissement loi sur la profession d’avocat
+2. Le troisième alinéa de l’article premier est supprimé.
+3. loi du 16 janvier 1866 loi sur la profession d’avocat
+4. avocats inscrits au tableau dressé chaque année par le Tribunal d’arrondissement, à Luxembourg, loi sur la profession d’avocat
+6. Le code de procédure civile. A l’article 421 les termes par le ministère d’un fondé de procuration spéciale sont remplacés par par le ministère d’un avocat.
+7. La loi électorale du 31 juillet 1924 telle qu’elle a été modifiée. A l’alinéa 1er du point 9) de l’article 97 il est ajouté la phrase suivante: Le contrat de travail peut être remplacé par une convention d’honoraires dans le cas où il s’agit de l’engagement d’un avocat inscrit au tableau de l’un des ordres des avocats ou d’un membre d’une autre profession indépendante dont l’accès et l’exercice sont réglementés.
+
+#### Chapitre VIII.- — Entrée en vigueur
+
+<a id="art_N21076"></a>
+
+### Art. 44.
+
+**(1)** Les dispositions de la présente loi entrent en vigueur le troisième jour qui suit leur publication au Mémorial, sous réserve des dispositions des paragraphes suivants.
+
+**(2)** L’élection des Bâtonniers, des Conseils de l’ordre et du Conseil discipliniaire et administratif a lieu dans le mois qui suit le 15 septembre 1991.
+
+**(3)** Les fonctions des Bâtonniers et Conseils de l’ordre en exercice prennent fin le jour des élections visées au paragraphe (2).
+
+**(4)** Les dispositions de l’article 10 (3) ne sont applicables qu’aux avocats admis au stage après l’entrée en vigueur de la présente loi.
+
+**(5)** Les dispositions de l’article 37 (4) entrent en vigueur à la date de mise en vigueur du règlement grand-ducal qui y est prévu.
+
+Jusqu’à cette date, par dérogation à l’article 42 (1), les dispositions en vigueur en matière de défense des intérêts en justice des indigents restent d’application.
+
+### Version consolidée applicable au 22/08/2021 : Loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l'exercice permanent de la profession d'avocat dans un Etat membre autre que celui où la qualification a été acquise et portant: 1. modification de la loi modifiée du 10 août 1991 sur la profession d'avocat; 2. modification de la loi du 31 mai 1999 régissant la domiciliation des sociétés.
+
+<a id="art_N21116"></a>
+
+### Art. 1er.
+
+**(1)** La présente loi règle l’exercice permanent au Grand-Duché de Luxembourg de la profession d’avocat de toute personne, ressortissant d’un État membre de l’Union européenne ou d’un État qui, en vertu d’un accord en vigueur au Luxembourg, bénéficie d’une extension à son égard de l’application de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un État membre autre que celui où la qualification a été acquise, qui a acquis la qualification professionnelle et est habilitée à exercer ses activités professionnelles dans un autre État membre de l’Union européenne ou d’un État qui, en vertu d’un accord en vigueur au Luxembourg, bénéficie d’une extension à son égard de l’application de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l’exercice permanent de la profession d’avocat dans un État membre autre que celui où la qualification a été acquise, ci-après appelé « État membre d’origine », sous l’un des titres professionnels mentionnés ci-après :
+
+- en Belgique: Avocat/Advocaat/Rechtsanwalt,
+- en Bulgarie: Aдвокат,
+- en République tchèque: Advokát,
+- au Danemark: Advokat,
+- en Allemagne: Rechtsanwalt,
+- en Estonie: Vandeadvokaat,
+- Δικηγόρος
+- en Espagne: Abogado/Advocat/Avogado/Abokatu,
+- en France: Avocat,
+- en Irlande: Barrister/Solicitor,
+- en Italie: Avvocato,
+- Δικηγόρος
+- en Lettonie: Zvērināts advokāts,
+- en Lituanie: Advokatas,
+- en Hongrie: Ügyvéd,
+- à Malte: Avukat/Prokuratur Legali,
+- aux Pays-Bas: Advocaat,
+- en Autriche: Rechtsanwalt,
+- en Pologne: Adwokat/Radca prawny,
+- au Portugal: Advogado,
+- en Roumanie: Avocat,
+- en Slovénie: Odvetnik/Odvetnica,
+- en Slovaquie: Advokát/Komerĉný právnik,
+- en Finlande: Asianajaja/Advokat,
+- en Suède: Advokat,
+- au Royaume-Uni: Advocate/Barrister/Solicitor
+- en Croatie: Odvjetnik/Odvjetnica.
+- en Islande: Lögmaour
+- au Liechtenstein: Rechtsanwalt
+- en Norvège: Advokat,
+- en Suisse: Avocat, Avvocato, Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech.
+
+**(2)** Aux fins de la présente loi, la personne visée au point (1) ci-dessus est désignée par les termes «avocat européen». Cette désignation ne constitue pas un titre professionnel et il ne peut en être fait usage à des fins professionnelles ou publicitaires.
+
+Les dispositions de la loi modifiée du 10 août 1991 sur la profession d'avocat, ci-après dénommé «la loi du 10 août 1991», s'appliquent à l'avocat européen dans la mesure où il n'y est pas dérogé par la présente loi.
+
+<a id="art_N2120B"></a>
+
+### Art. 2.
+
+Tout avocat européen a le droit d'exercer à titre permanent au Grand-Duché de Luxembourg, sous son titre professionnel d'origine, les activités d'avocat à titre indépendant ou salarié conformément aux dispositions de la loi du 10 août 1991 et de la présente loi.
+
+<a id="art_N21243"></a>
+
+### Art. 3.
+
+**(1)** Pour pouvoir exercer au Grand-Duché de Luxembourg sous son titre d'origine, l'avocat européen doit avoir obtenu son inscription au tableau de l'un des Ordres des Avocats du Grand-Duché de Luxembourg.
+
+A ces fins, il doit adresser une demande complète en langue française au Bâtonnier de l'Ordre des Avocats dans l'arrondissement judiciaire où il entend s'établir. Outre les documents et informations visés au point (2) ci-après, l'avocat européen doit également indiquer dans sa demande s'il est membre d'un groupe dans son Etat membre d'origine et, le cas échéant, fournir toutes les informations utiles relatives à ce groupe.
+
+**(2)** Le Conseil de l’Ordre des Avocats du Grand-Duché de Luxembourg saisi de la demande de l’avocat européen à pouvoir exercer sous son titre professionnel d’origine, procède à l’inscription de l’avocat européen au tableau des avocats de cet Ordre au vu de la présentation :
+
+- loi du 10 août 1991
+- Directive 98/5/UE
+- de l’attestation de l’inscription de l’avocat européen concerné auprès de l’autorité compétente de l’État membre d’origine. Cette attestation de l’État membre d’origine ne doit pas dater de plus de trois mois.
+
+L’inscription de l’avocat européen au tableau de l’Ordre des Avocats a lieu sur la liste IV des avocats exerçant sous leur titre professionnel d’origine, tel que visé par l’article 8 (3) point 4 de la loi du 10 août 1991. La condition d’inscription prévue à l’article 6 (1) d) de la loi du 10 août 1991 ne s’applique pas aux inscriptions à la liste IV précitée.
+
+Le Conseil de l’Ordre qui procède à l’inscription, en informe l’autorité compétente de l’État membre d’origine.
+
+**(3)** Les décisions de refus de l'inscription visée au paragraphe (2) ci-dessus ou de retrait de cette inscription doivent être motivées. Elles sont notifiées à l'avocat européen par lettre recommandée avec avis de réception. Les décisions sont susceptibles des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+
+**(4)** Lorsqu'un des Ordres des Avocats du Grand-Duché de Luxembourg publie les noms des avocats inscrits sur son tableau, il publie également le nom des avocats européens y inscrits qui exercent sous leur titre professionnel d'origine.
+
+**(5)** Lorsque l'autorité compétente d'un Etat membre autre que le Luxembourg procède à l'inscription d'un avocat à la Cour inscrit auprès de l'un des Ordres des Avocats du Grand-Duché de Luxembourg, l'information visée à l'article 3, paragraphe (2) de la directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 est transmise au Bâtonnier de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel est inscrit cet avocat.
+
+<a id="art_N21328"></a>
+
+### Art. 4.
+
+L'avocat européen exerçant au Grand-Duché de Luxembourg sous son titre professionnel d'origine est tenu de le faire sous ce titre, qui doit être indiqué dans la ou l'une des langues officielles de l'Etat membre d'origine, de manière intelligible et susceptible d'éviter toute confusion avec le titre professionnel luxembourgeois attribué aux avocats inscrits sur les listes I, II et III des tableaux des avocats visés par l'article 8 (3) de la loi du 10 août 1991.
+
+A cet effet, si l'avocat européen exerce sous le titre professionnel d'origine «avocat», il doit ajouter la mention de l'organisation professionnelle dont il relève dans l'Etat membre d'origine ou de la juridiction auprès de laquelle il est admis en application de la législation de l'Etat membre d'origine.
+
+<a id="art_N21363"></a>
+
+### Art. 5.
+
+**(1)** Sous réserve des paragraphes (2), (3) et (4), l'avocat exerçant sous son titre professionnel d'origine pratique les mêmes activités professionnelles que l'avocat exerçant sous le titre professionnel luxembourgeois d'avocat ou d'avocat à la Cour d'un des Ordres des Avocats du Grand-Duché de Luxembourg. Il peut notamment donner des consultations juridiques dans le droit de son Etat membre d'origine, en droit communautaire, en droit international et en droit luxembourgeois. Il respecte en tout cas les règles de procédure applicables devant les juridictions luxembourgeoises.
+
+**(2)** Sont exclues des activités dudit avocat, les activités réservées au Luxembourg à des professions différentes de celles de l'avocat, tels les notaires.
+
+**(3)** Sont également exclues du domaine d'activité des avocats européens les activités exercées en libre prestation de services au sens de la directive 77/249/CEE du Conseil du 22 mars 1977, telle que modifiée.
+
+**(4)** Pour les actes et procédures soumis par les lois et règlements au ministère d'avocat à la Cour, l'avocat européen exerçant sous son titre professionnel d'origine doit agir de concert avec un avocat à la Cour qui se constitue et qui est responsable à l'égard de la juridiction.
+
+<a id="art_N213D1"></a>
+
+### Art. 6.
+
+**(1)** Indépendamment des règles professionnelles et déontologiques auxquelles il est soumis dans son Etat membre d'origine, l'avocat européen exerçant sous son titre professionnel d'origine est soumis, pour toutes les activités qu'il exerce sur le territoire luxembourgeois, aux mêmes règles professionnelles et déontologiques que les avocats inscrits sur les listes I, II et III des tableaux des avocats visés par l'article 8 (3) de la loi du 10 août 1991.
+
+**(2)** L'avocat européen exerçant sous son titre professionnel d'origine, dûment inscrit au tableau d'un des Ordres des Avocats du Grand-Duché de Luxembourg, a le droit de vote aux élections de l'assemblée générale de cet Ordre.
+
+**(3)** L'avocat européen exerçant sous son titre professionnel d'origine est obligé de payer sa cotisation à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit. Il est de même tenu de justifier de la souscription d'une assurance de responsabilité professionnelle, dans les conditions et selon les modalités prévues pour les avocats à la Cour par le règlement d'ordre intérieur du Conseil de l'Ordre visé à l'article 19, point 5 de la loi modifiée du 10 août 1991, à moins qu'il ne justifie être couvert par une assurance équivalente souscrite selon les modalités de l'Etat d'origine.
+
+<a id="art_N21436"></a>
+
+### Art. 7.
+
+**(1)** En cas de manquement de l'avocat européen exerçant sous son titre professionnel d'origine aux obligations en vigueur au Grand-Duché de Luxembourg, les règles de procédure, les sanctions et les recours prévus par le chapitre IV de la loi du 10 août 1991 sont d'application.
+
+**(2)** Avant d'ouvrir une procédure disciplinaire à l'encontre de l'avocat européen exerçant sous son titre professionnel d'origine, le Conseil de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel ledit avocat est inscrit, en informe dans les plus brefs délais l'autorité compétente de l'Etat membre d'origine en lui donnant toutes les informations utiles.
+
+**(3)** Sans préjudice du pouvoir décisionnel du Conseil de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel l'avocat européen est inscrit sous son titre professionnel d'origine, le Conseil de l'Ordre des Avocats coopère tout au long de la procédure disciplinaire avec l'autorité compétente de l'Etat membre d'origine.
+
+Le Conseil de l'Ordre des Avocats informe dans les plus brefs délais l'autorité compétente de l'Etat membre d'origine de la décision prise par les instances disciplinaires de l'Ordre des Avocats auprès duquel l'avocat européen est inscrit, sans préjudice des suites que pourrait y donner l'autorité compétente de l'Etat membre d'origine.
+
+**(4)** Lorsque le Conseil disciplinaire et administratif d'appel est saisi du recours de l'avocat européen contre une décision prononçant une sanction disciplinaire, le Conseil de l'Ordre des Avocats auprès duquel l'avocat européen est inscrit en informe dans les plus brefs délais, par lettre recommandée avec avis de réception, l'autorité compétente de l'Etat membre d'origine de l'avocat sanctionné. L'autorité compétente de l'Etat membre d'origine peut, dans le délai d'un mois de cette information, transmettre ses observations au Conseil de l'Ordre, qui les continuera au Conseil disciplinaire et administratif d'appel.
+
+**(5)** L'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel l'avocat européen exerçant sous son titre professionnel d'origine est inscrit est l'autorité compétente pour recevoir les informations concernant l'ouverture par une autorité compétente de l'Etat membre d'origine d'une procédure disciplinaire contre ledit avocat.
+
+Le retrait temporaire ou définitif de l'autorisation d'exercer la profession d'avocat par l'autorité compétente de l'Etat membre d'origine, entraine automatiquement, pour l'avocat européen concerné, l'interdiction temporaire ou définitive d'exercer sous son titre professionnel d'origine dans l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit ou tout autre Ordre des Avocats du Grand-Duché de Luxembourg.
+
+<a id="art_N214C7"></a>
+
+### Art. 8.
+
+Les emplois salariés sont incompatibles avec l'exercice de la profession d'avocat européen exerçant sous son titre professionnel d'origine, à l'exception de l'emploi sous ce titre en qualité d'avocat salarié auprès d'un autre avocat, inscrit à l'un des Ordres des Avocats du Grand-Duché de Luxembourg.
+
+<a id="art_N214F9"></a>
+
+### Art. 9.
+
+**(1)** L'avocat européen exerçant sous son titre professionnel d'origine qui justifie d'une activité effective et régulière d'une durée d'au moins trois ans au Luxembourg et dans le droit luxembourgeois, y compris le droit communautaire, est dispensé de l'épreuve d'aptitude prévue par la loi du 10 août 1991 déterminant, pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, pour accéder à la profession d'avocat à la Cour inscrit à la liste I du tableau de l'un des Ordres des Avocats du Grand-Duché de Luxembourg. On entend par activité «effective et régulière» l'exercice réel de l'activité d'avocat sans interruption autre que celle résultant des événements de la vie courante.
+
+Il incombe à l'avocat européen exerçant sous son titre professionnel d'origine d'apporter à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit sous son titre professionnel d'origine, la preuve de cette activité effective et régulière d'une durée d'au moins trois ans dans le droit luxembourgeois. A cet effet:
+
+1. l'avocat européen exerçant sous son titre professionnel d'origine fournit à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit, toute information et tout document utiles, notamment le nombre et la nature des dossiers traités par lui;
+2. l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel l'avocat européen est inscrit, peut vérifier le caractère régulier et effectif de l'activité exercée et, en cas de besoin, inviter l'avocat à fournir oralement ou par écrit des clarifications ou des précisions additionnelles relatives aux informations et documents mentionnés au point a)
+
+La décision de l'Ordre des Avocats du Grand-Duché de Luxembourg compétent de ne pas accorder la dispense de l'épreuve d'aptitude prévue par la loi du 10 août 1991 déterminant, pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, doit être motivée. Elle est notifiée à l'avocat européen par lettre recommandée avec avis de réception. La décision est susceptible des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+
+**(2)** L'avocat européen exerçant sous son titre professionnel d'origine, qui justifie d'une activité effective et régulière d'une durée d'au moins trois ans dans l'un des Ordres des Avocats du Grand-Duché de Luxembourg mais d'une durée moindre dans le droit luxembourgeois, peut obtenir de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit, son accès à la profession d'avocat à la Cour inscrit à la liste I du tableau de cet Ordre et le droit d'exercer cette profession sous le titre professionnel d'avocat à la Cour, sans être tenu de se soumettre à l'épreuve d'aptitude prévue par la loi du 10 août 1991 déterminant, pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, dans les conditions et modalités décrites ci-après:
+
+1. l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel ledit avocat européen est inscrit, prend en considération l'activité effective et régulière pendant la période visée ci-dessus, ainsi que toute connaissance et toute expérience professionnelle en droit luxembourgeois et toute participation à des cours ou à des séminaires portant sur le droit luxembourgeois y compris le droit professionnel et la déontologie;
+2. l'avocat européen exerçant sous son titre professionnel d'origine fournit à l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit, toute information et tout document utiles notamment sur les dossiers traités par lui. L'appréciation de l'activité effective et régulière de l'avocat européen développée à Luxembourg, comme l'appréciation de sa capacité à poursuivre l'activité qu'il y a exercée, est faite dans le cadre d'un entretien avec l'Ordre des Avocats du Grand-Duché de Luxembourg, spécialement destiné à ces fins.
+
+La décision de l'Ordre des Avocats compétent de ne pas accorder à l'avocat européen l'accès à la profession d'avocat à la Cour si la preuve n'est pas rapportée que les exigences fixées ci-dessus sont remplies, doit être motivée. Elle est notifiée à l'avocat européen par lettre recommandée avec avis de réception. La décision est susceptible des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+
+**(3)** L'avocat européen qui accède à la liste I des avocats à la Cour du tableau de l'Ordre des Avocats du Grand-Duché de Luxembourg auprès duquel il est inscrit peut, à tout moment, obtenir à sa demande le transfert de son inscription à la liste I des avocats à la Cour du tableau d'un autre Ordre des Avocats du Grand-Duché de Luxembourg.
+
+**(4)** L'avocat européen exerçant sous son titre professionnel d'origine dans un Ordre des Avocats du Grand-Duché de Luxembourg peut, à tout moment, demander la reconnaissance de son diplôme selon la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 aux fins d'accéder à la profession d'avocat dans l'un des Ordres des Avocats du Grand-Duché de Luxembourg et de l'exercer sous le titre d'avocat à la Cour, sur base de la loi du 10 août 1991 déterminant, 3204 pour la profession d'avocat, le système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans.
+
+**(5)** L'Ordre des Avocats du Grand-Duché de Luxembourg chargé de l'examen de la demande d'un avocat européen en application des paragraphes qui précèdent, assure le secret des informations obtenues.
+
+<a id="art_N215D6"></a>
+
+### Art. 10.
+
+L'Ordre des Avocats du Grand-Duché de Luxembourg concerné peut, par décision motivée, refuser d'admettre l'avocat européen au bénéfice des dispositions de l'article 9, s'il apparaît que l'odre public serait atteint en raison, plus particulièrement de poursuites disciplinaires, plaintes ou incidents de toute nature. La décision est notifiée à l'avocat européen par lettre recommandée avec avis de réception. La décision est susceptible des voies de recours prévues aux articles 26 (7) et suivants de la loi du 10 août 1991 suivant les conditions et modalités y précisées.
+
+<a id="art_N2160E"></a>
+
+### Art. 11.
+
+L'exercice en groupe de la profession d'avocat n'est permis que dans les limites prévues par les dispositions de l'article 34 de la loi du 10 août 1991.
+
+L'exercice de la profession d'avocat au sein d'un groupe comportant des personnes extérieures à la profession d'avocat est interdit. Un avocat européen inscrit à l'un des Ordres des Avocats du Grand-Duché de Luxembourg sous son titre professionnel d'origine, et membre d'un tel groupe, n'a pas le droit d'exercer au Luxembourg en qualité de membre de ce groupe.
+
+Le groupe est considéré comme comportant des personnes extérieures à la profession si:
+
+- le capital de celui-ci est détenu en tout ou en partie, ou
+- la dénomination sous laquelle il exerce est utilisée, ou
+- le pouvoir de décision y est exercé, en fait ou en droit,
+
+par des personnes n'ayant pas la qualité d'avocat au sens de l'article 1er de la loi du 10 août 1991.
+
+L'ouverture au Grand-Duché de Luxembourg d'une succursale ou d'une agence d'un groupe d'avocats comportant dans l'Etat membre d'origine, des personnes extérieures à la profession d'avocat, est interdite.
+
+<a id="art_N21668"></a>
+
+### Art. 12.
+
+**(1)** L'avocat européen exerçant sous son titre professionnel d'origine qui accède à la liste I des avocats à la Cour du tableau de l'un des Ordres des Avocats du Grand-Duché de Luxembourg, a le droit de faire usage, à côté du titre professionnel d'avocat inscrit à cet Ordre, de son titre professionnel d'origine indiqué dans la ou les langues officielles de l'Etat membre d'origine.
+
+**(2)** Sous réserve des dispositions de l'article 11, l'avocat européen exerçant sous son titre professionnel d'origine, inscrit à l'un des Ordres des Avocats du Grand-Duché de Luxembourg, et membre d'un groupe d'avocats dans son Etat membre d'origine peut faire mention de la dénomination dudit groupe.
+
+L'Ordre des Avocats auquel l'avocat européen est inscrit peut exiger que soit indiqué, en plus de la dénomination visée à l'alinéa ci-dessus la forme juridique du groupe dans l'Etat membre d'origine et/ou les noms des membres du groupe exerçant dans l'Etat membre d'accueil.
+
+<a id="art_N216BA"></a>
+
+### Art. 13.
+
+Afin d'éviter que les dispositions de la Directive 98/5 du Parlement européen et du Conseil du 16 février 1998 et de la présente loi ne soient, le cas échéant, détournées dans le seul but d'échapper aux règles applicables au Grand-Duché de Luxembourg, le Conseil de l'Ordre compétent et l'autorité compétente de l'Etat membre d'origine collaborent étroitement et s'accordent une assistance mutuelle.
+
+Les autorités compétentes assurent la confidentialité des informations qu'elles échangent.
+
+<a id="art_N216F5"></a>
+
+### Art. 14.
+
+La loi modifiée du 10 août 1991 sur la profession d'avocat est modifiée comme suit:
+
+1. L'article 4, paragraphe (2) est modifié comme suit:
+2. La première phrase de l'article 6 (1) b) est modifiée comme suit:
+3. Il est ajouté à l'article 6 (1) un point d) libellé comme suit:
+4. ère
+5. Il est ajouté à l'article 8 (3) un point 4, libellé comme suit:
+6. La première phrase de l'article 9 (2) est modifiée comme suit:
+7. La première phrase de l'article 12 est modifiée comme suit:
+8. La première phrase de l'article 15 (3) est modifiée comme suit:
+9. L'article 16 (1) est modifié comme suit:
+10. L'article 25 est modifié comme suit:
+11. La première phrase du paragraphe (2) de l'article 28 est modifié comme suit:
+12. ème
+13. Il est ajouté à l'article 28 (2) un 6ème alinéa libellé comme suit:
+14. L'article 28 (3) est complété par une seconde phrase libellée comme suit:
+15. La première phrase de l'article 39 est modifiée comme suit:
+16. Le paragraphe (1) de l'article 41 est modifié comme suit:
+17. Le paragraphe (2) de l'article 41 est modifié comme suit:
+
+<a id="art_N218CA"></a>
+
+### Art. 15.
+
+Le deuxième alinéa de l'article 1er (1) de la loi du 31 mai 1999 régissant la domiciliation des sociétés est modifié comme suit:
+
 ## ENTRAIDE JUDICIAIRE INTERNATIONALE
 
 ### Version consolidée applicable au 12/08/2022 : Loi du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale.
 
-<a id="art_N1F483"></a>
+<a id="art_N21940"></a>
 
 ### Art. 1er.
 
@@ -7184,7 +8235,7 @@ La présente loi est applicable aux demandes d’entraide judiciaire en matière
 - d’autorités judiciaires d’Etats requérants qui sont liés au Grand-Duché de Luxembourg par un accord international en matière d’entraide judiciaire, à moins que les dispositions de la présente loi soient contraires à celles de l’accord international;
 - d’une autorité judiciaire internationale reconnue par le Grand-Duché de Luxembourg.
 
-<a id="art_N1F4CE"></a>
+<a id="art_N2198B"></a>
 
 ### Art. 2.
 
@@ -7198,7 +8249,7 @@ La présente loi est applicable aux demandes d’entraide judiciaire en matière
 
 **(5)** Toutefois, si l’affaire à la base de la demande d’entraide paraît grave et s’il y a urgence consistant en particulier en un risque de dépérissement de preuve, l’autorité judiciaire compétente saisie peut procéder aux devoirs d’instruction sollicités.
 
-<a id="art_N1F547"></a>
+<a id="art_N21A04"></a>
 
 ### Art. 3.
 
@@ -7210,7 +8261,7 @@ L’entraide judiciaire peut être refusée par le procureur général d’Etat 
 
 Aucun recours ne peut être introduit contre la décision du procureur général d’Etat.
 
-<a id="art_N1F5AD"></a>
+<a id="art_N21A6A"></a>
 
 ### Art. 4.
 
@@ -7233,7 +8284,7 @@ Les demandes d’entraide qui ne répondent pas aux conditions du présent artic
 - par le procureur général d’Etat, sous réserve des pouvoirs des autres autorités judiciaires, dans l’hypothèse où le Grand-Duché de Luxembourg n’est pas lié à l’Etat requérant par un accord en matière d’entraide judiciaire;
 - par les autorités judiciaires dans l’hypothèse où le Grand-Duché de Luxembourg est lié à l’Etat requérant par un accord en matière d’entraide judiciaire.
 
-<a id="art_N1F61E"></a>
+<a id="art_N21ADB"></a>
 
 ### Art. 5.
 
@@ -7247,13 +8298,13 @@ La demande d’entraide doit réunir les conditions suivantes:
 
 Les actes interruptifs ou suspensifs de prescription accomplis dans l’Etat requérant selon le droit de cet Etat sont pris en compte pour le calcul du délai de prescription de l’action d’après la loi luxembourgeoise.
 
-<a id="art_N1F66D"></a>
+<a id="art_N21B2A"></a>
 
 ### Art. 6.
 
 L’exécution des mesures d’entraide est confiée à l’autorité qui serait compétente si l’infraction avait été commise au Grand-Duché de Luxembourg.
 
-<a id="art_N1F69F"></a>
+<a id="art_N21B5C"></a>
 
 ### Art. 7.
 
@@ -7261,13 +8312,13 @@ Les établissements de crédit ainsi que leurs dirigeants et employés ne peuven
 
 Ceux qui ont contrevenu sciemment à cette obligation sont punis d’une amende allant de 1 250 à 1 250 000 euros.
 
-<a id="art_N1F6DE"></a>
+<a id="art_N21B9B"></a>
 
 ### Art. 8.
 
 Les affaires d’entraide judiciaire sont traitées comme affaires urgentes et prioritaires. L’autorité requise informe l’autorité requérante de l’état de la procédure et de tout retard.
 
-<a id="art_N1F710"></a>
+<a id="art_N21BCD"></a>
 
 ### Art. 9.
 
@@ -7287,7 +8338,7 @@ Tout mémoire déposé par une des personnes visées à l’alinéa 1er du prés
 
 **(5)** Les personnes en droit de déposer un mémoire, leurs dirigeants et employés ne peuvent pas communiquer aux personnes auxquelles la mesure ordonnée en exécution de la demande d’entraide n’a pas été révélée en vertu de l’article 7, le mémoire, l’existence ou la teneur du mémoire, le tout sous peine de l’amende prévue à l’article 7.
 
-<a id="art_N1F7A7"></a>
+<a id="art_N21C64"></a>
 
 ### Art. 10.
 
@@ -7301,7 +8352,7 @@ Tout mémoire déposé par une des personnes visées à l’alinéa 1er du prés
 
 **(5)** Les personnes qui ont déposé un mémoire, leurs dirigeants et employés ne peuvent pas communiquer aux personnes auxquelles la mesure ordonnée en exécution de la demande d’entraide n’a pas été révélée en vertu de l’article 7, l’ordonnance, l’existence ou la teneur de celle-ci, le tout sous peine de l’amende prévue à l’article 7.
 
-<a id="art_N1F820"></a>
+<a id="art_N21CDD"></a>
 
 ### Art. 11.
 
@@ -7334,7 +8385,7 @@ L’appel doit être interjeté dans les délais suivants, sous peine de forclus
 
 **(7)** Aucun pourvoi en cassation n’est admissible.
 
-<a id="art_N1F8ED"></a>
+<a id="art_N21DAA"></a>
 
 ### Art. 12.
 
@@ -7342,294 +8393,8 @@ Par dérogation à l’article 9 et même en cas de dépôt d’un mémoire, le 
 
 Cette décision n’est susceptible d’aucun recours.
 
-<a id="art_N1F928"></a>
+<a id="art_N21DE5"></a>
 
 ### Art. 13.
 
 Sauf en cas de consentement de la personne concernée ou en cas de danger immédiat et sérieux pour la sécurité publique, l’État requérant ne peut utiliser les objets, documents ou informations obtenus par voie de d’entraide aux fins d’investigation ou aux fins de leur production comme moyens de preuve dans une procédure pénale ou administrative autre que celle pour laquelle l’entraide a été accordée, qu’avec l’accord du procureur général d’État.
-
-## RÉFÉRENDAIRES DE JUSTICE
-
-### Loi du 23 décembre 2022 sur les référendaires de justice et portant modification de : 1° la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ; 2° la loi modifiée du 7 mars 1980 sur l’organisation judiciaire ; 3° la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif ; 4° la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle ; 5° la loi modifiée du 7 juin 2012 sur les attachés de justice ; 6° la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise.
-
-#### **Chapitre 1er ** — ** La fonction de référendaire de justice**
-
-<a id="art_N1F9C2"></a>
-
-### Art. 1er.
-
-**(1)** Les référendaires de justice ont pour mission d’assister les magistrats dans le cadre de leurs travaux.
-
-**(2)** Les tâches suivantes peuvent être confiées aux référendaires de justice :
-
-1. les recherches juridiques ;
-2. l’analyse et la synthèse des actes de procédure et pièces présentées par les parties dans le cadre d’un procès ;
-3. la rédaction de notes ;
-4. la vérification des comptes dans le cadre des régimes de protection légaux et des procédures collectives.
-
-**(3)** Les référendaires de justice ne peuvent pas être chargés de tâches que la loi réserve aux greffiers des juridictions, secrétaires des parquets et analystes financiers de la Cellule de renseignement financier.
-
-<a id="art_N1FA0D"></a>
-
-### Art. 2.
-
-Pour pouvoir exercer la fonction de référendaire de justice, il faut :
-
-1. être ressortissant d’un pays membre de l’Union européenne ;
-2. être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent en droit, en économie, en finances ou dans une autre matière à déterminer par le chef d’administration ;
-3. satisfaire aux conditions d’accès au statut de fonctionnaire ou de fonctionnaire stagiaire de la catégorie de traitement A, groupe de traitement A1, ou d’employé de l’État de la catégorie d’indemnité A, groupe d’indemnité A1 ;
-4. présenter les garanties d’honorabilité requises pour l’exercice de la fonction.
-
-<a id="art_N1FA2E"></a>
-
-### Art. 3.
-
-**(1)** Le procureur général d’État émet, soit d’office, soit à la demande du président de la Cour administrative, un avis sur l’honorabilité des candidats à un poste de référendaire de justice.
-
-Il peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité.
-
-**(2)** L’avis du procureur général d’État fait état des :
-
-1. inscriptions au bulletin N° 2 du casier judiciaire ;
-2. informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;
-3. informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
-
-**(3)** Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
-
-Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.
-
-**(4)** Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :
-
-1. loi modifiée du 19 juin 2013
-2. la qualification juridique des faits reprochés.
-
-**(5)** L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.
-
-<a id="art_N1FABB"></a>
-
-### Art. 4.
-
-Avant d’entrer en fonctions, le référendaire de justice prête le serment suivant :
-
-« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité. »
-
-<a id="art_N1FAD3"></a>
-
-### Art. 5.
-
-Le référendaire de justice agit sous la direction et la surveillance du chef de corps auprès duquel il est affecté, ou des magistrats qu’il délègue à cet effet.
-
-<a id="art_N1FAE3"></a>
-
-### Art. 6.
-
-Le référendaire de justice peut assister aux audiences publiques et audiences à huis clos de la juridiction d’affectation.
-
-#### **Chapitre 2 ** — **Modification de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État**
-
-<a id="art_N1FB04"></a>
-
-### Art. 7.
-
-À l’article 1er, paragraphe 2, de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, l’alinéa 1er prend la teneur suivante :*Le présent statut s’applique également aux magistrats, attachés de justice et référendaires de justice ainsi qu’au personnel de justice ayant la qualité de fonctionnaire, à l’exception des articles 4, 4bis, 4ter et 42, et sous réserve des dispositions inscrites à la loi sur l’organisation judiciaire, à la loi portant organisation des juridictions de l’ordre administratif, à la loi sur les attachés de justice et à la loi sur les référendaires de justice et concernant le recrutement, la formation, la nomination, l’affectation et la désaffectation, l’inamovibilité, les incompatibilités, la résidence, les absences, les congés, le service des audiences, la déontologie et la discipline.*
-
-#### **Chapitre 3 ** — **Modification de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire**
-
-<a id="art_N1FB40"></a>
-
-### Art. 8.
-
-À l’article 11 de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire, le paragraphe 1er prend la teneur suivante :*(1)**Le tribunal d’arrondissement de Luxembourg est composé d’un président, de quatre premiers vice-présidents, d’un juge d’instruction directeur, de vingt-sept vice-présidents, d’un juge directeur du tribunal de la jeunesse et des tutelles, de deux juges de la jeunesse, de trois juges des tutelles, de trente-sept premiers juges, de trente juges, d’un procureur d’État, de trois procureurs d’État adjoints, de sept substituts principaux, de quatorze premiers substituts et de quatorze substituts.*
-
-<a id="art_N1FB75"></a>
-
-### Art. 9.
-
-À l’article 12 de la même loi, le paragraphe 1er prend la teneur suivante :*(1)**Le tribunal d’arrondissement de Diekirch est composé d’un président, d’un premier vice-président, d’un juge d’instruction directeur, de deux vice-présidents, d’un juge de la jeunesse, d’un juge des tutelles, de trois premiers juges, de trois juges, d’un procureur d’État, d’un procureur d’État adjoint, de deux substituts principaux, de deux premiers substituts et de deux substituts.*
-
-<a id="art_N1FBA5"></a>
-
-### Art. 10.
-
-L’article 13*bis* de la même loi prend la teneur suivante :Art. 13*bis**.**Le procureur d’État auprès du tribunal d’arrondissement de Luxembourg désigne plus particulièrement les magistrats de son parquet, qui traitent, sous la direction d’un procureur d’État adjoint, les affaires économiques et financières. *
-
-<a id="art_N1FBDB"></a>
-
-### Art. 11.
-
-À l’article 19, paragraphe 1er, de la même loi, l’alinéa 1er prend la teneur suivante :*En dehors du juge d’instruction directeur visé à l’article 11, il y a quinze juges d’instruction près le tribunal d’arrondissement de Luxembourg, dont six vice-présidents.*
-
-<a id="art_N1FC05"></a>
-
-### Art. 12.
-
-À l’article 25 de la même loi, le paragraphe 1er prend la teneur suivante :*(1)**Le tribunal d’arrondissement de Luxembourg comprend vingt-et-une chambres.*
-
-<a id="art_N1FC35"></a>
-
-### Art. 13.
-
-À l’article 33 de la même loi, les termes *cinq premiers avocats généraux *sont remplacés par les termes *six premiers avocats généraux.*
-
-<a id="art_N1FC56"></a>
-
-### Art. 14.
-
-L’article 34 de la même loi prend la teneur suivante :Art. 34*.**Le procureur général d’État peut déléguer deux magistrats de son parquet et, en cas de besoin, un magistrat de l’un des parquets auprès des tribunaux d’arrondissement à l’exécution des peines, telle que prévue aux articles 669 et suivants du Code de procédure pénale.*
-
-<a id="art_N1FC8B"></a>
-
-### Art. 15.
-
-L’article 44 de la même loi prend la teneur suivante :Art. 44*.**L’affectation aux emplois de greffier en chef et de greffier ainsi que la désaffectation sont faites par le procureur général d’État après consultation du président de la Cour supérieure de justice.*
-
-<a id="art_N1FCBB"></a>
-
-### Art. 16.
-
-L’article 45 de la même loi est abrogé.
-
-<a id="art_N1FCD0"></a>
-
-### Art. 17.
-
-L’article 74-1 de la même loi prend la teneur suivante :Art. 74-1*.**(1)**Il est institué, sous la surveillance administrative du procureur général d’État, une Cellule de renseignement financier, ci-après « CRF », qui a compétence pour remplir les missions inscrites aux articles 74-2 à 74-7.**(2)**La CRF comprend un substitut principal, quatre premiers substituts et deux substituts.**Elle se complète par des analystes financiers et référendaires de justice.**(3)**La CRF est placée sous la direction du substitut principal, qui porte le titre de « directeur de la Cellule de renseignement financier ».**Les quatre premiers substituts remplacent le directeur de la Cellule de renseignement financier en son absence suivant leur rang d’ancienneté et portent le titre de « directeur adjoint de la Cellule de renseignement financier ».**(4)**La CRF est opérationnellement indépendante et autonome.**Elle a l’autorité et la capacité nécessaires d’exercer librement ses fonctions, y compris celle de décider d’une manière autonome d’analyser, de demander et de disséminer des informations spécifiques aux autorités judiciaires et aux administrations compétentes en matière de lutte contre le blanchiment, les infractions sous-jacentes associées et contre le financement du terrorisme.*
-
-<a id="art_N1FD6C"></a>
-
-### Art. 18.
-
-À la suite de l’article 74-1 de la même loi, il est inséré un nouvel article 74-1*bis* qui prend la teneur suivante :Art. 74-1*bis*.*(1)**Les analystes financiers effectuent des analyses opérationnelles et stratégiques sous la direction et la surveillance des magistrats de la CRF.**(2)**Pour pouvoir exercer la fonction d’analyste financier de la CRF, il faut :**être ressortissant d’un pays membre de l’Union européenne ;**être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent en droit, en économie, en finances ou dans une autre matière à déterminer par le procureur général d’État sur avis du directeur de la CRF ;**satisfaire aux conditions d’accès au statut de fonctionnaire ou de fonctionnaire stagiaire de la catégorie de traitement A, groupe de traitement A1, ou d’employé de l’État de la catégorie d’indemnité A, groupe d’indemnité A1 ;**présenter les garanties d’honorabilité requises pour l’exercice de la fonction.*
-
-<a id="art_N1FDDB"></a>
-
-### Art. 19.
-
-L’article 76 de la même loi prend la teneur suivante :Art. 76.*(1)**Le cadre du personnel de l’administration judiciaire comprend des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.**Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.**(2)**Le procureur général d’État propose :**la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;**l’engagement et le licenciement des employés et salariés de l’État.**Les nominations du dernier grade du niveau supérieur dans chaque catégorie de traitement sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre de la justice.**L’engagement et le licenciement des employés de l’État sont faits par le ministre de la fonction publique, sur avis du ministre de la justice.**L’engagement et le licenciement des salariés de l’État sont faits par le ministre de la justice.**Les affectations et désaffectations sont faites par le procureur général d’État après consultation des chefs de corps concernés.*
-
-<a id="art_N1FE7A"></a>
-
-### Art. 20.
-
-À la suite de l’article 76 de la même loi, il est inséré un nouvel article 76-1 qui prend la teneur suivante :Art. 76-1.*(1)**Le personnel de justice doit présenter les garanties d’honorabilité requises pour l’exercice de la fonction.**(2)**Le procureur général d’État émet un avis sur l’honorabilité des candidats.**Il peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité.**(3)**L’avis du procureur général d’État fait état des :**inscriptions au bulletin N° 2 du casier judiciaire ;**informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ; **informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.**(4)**Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**(5)**Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :**le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;**la qualification juridique des faits reprochés.**(6)**L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
-
-<a id="art_N1FF66"></a>
-
-### Art. 21.
-
-À l’article 181, paragraphe 1er, de la même loi, le point 4° est modifié comme suit :*quatre-vingt points indiciaires par mois aux deux magistrats du Parquet général qui sont délégués par le procureur général d’État à l’exécution des peines ;*
-
-<a id="art_N1FF93"></a>
-
-### Art. 22.
-
-L’article 182 de la même loi prend la teneur suivante :Art. 182*.**(1)**La Cour supérieure de justice, les tribunaux d’arrondissement, les justices de paix et la Cellule de renseignement financier disposent d’un pool commun de référendaires de justice.**(2)**Les affectations et désaffectations des référendaires de justice sont faites par le procureur général d’État après consultation des chefs de corps concernés.*
-
-#### **Chapitre 4 ** — **Modification de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif**
-
-<a id="art_N1FFF2"></a>
-
-### Art. 23.
-
-À l’article 10 de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif, l’alinéa 3 prend la teneur suivante : *Un greffier en chef est affecté à la Cour administrative ainsi qu’un ou plusieurs greffiers selon les besoins du service. Les affectations et désaffectations sont faites par le président de la Cour administrative.*
-
-<a id="art_N20017"></a>
-
-### Art. 24.
-
-À l’article 57 de la même loi, l’alinéa 2 prend la teneur suivante :*Un greffier en chef est affecté au tribunal administratif ainsi qu’un ou plusieurs greffiers selon les besoins du service. Les affectations et désaffectations sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.*
-
-<a id="art_N2003B"></a>
-
-### Art. 25.
-
-L’intitulé du chapitre 7 de la loi précitée est libellé comme suit :*« Chapitre 7.**Du personnel des juridictions de l’ordre administratif ».*
-
-<a id="art_N20064"></a>
-
-### Art. 26.
-
-L’article 88 de la même loi prend la teneur suivante :Art. 88.*(1)**La Cour administrative et le tribunal administratif disposent d’un greffe commun.**(2)**Les affectations et désaffectations sont faites dans les conditions déterminées par les articles 10 et 57.*
-
-<a id="art_N200AF"></a>
-
-### Art. 27.
-
-L’article 89 de la même loi prend la teneur suivante :Art. 89.*(1)**La Cour administrative et le tribunal administratif disposent d’un pool commun de référendaires de justice.**(2)**Les affectations et désaffectations sont faites par le président de la Cour administrative après consultation du président du tribunal administratif.*
-
-<a id="art_N200FA"></a>
-
-### Art. 28.
-
-L’article 90 de la même loi prend la teneur suivante :Art. 90.(1)*Le cadre du personnel des juridictions de l’ordre administratif comprend des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.*(2)*Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.*
-
-<a id="art_N20145"></a>
-
-### Art. 29.
-
-L’article 91 de la même loi prend la teneur suivante :Art. 91.*Le président de la Cour administrative propose :**la nomination des fonctionnaires stagiaires et fonctionnaires de l’État ;**l’engagement et le licenciement des employés et salariés de l’État.**Les nominations du dernier grade du niveau supérieur dans chaque catégorie de traitement sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre de la justice.**L’engagement et le licenciement des employés de l’État sont faits par le ministre de la fonction publique, sur avis du ministre de la justice.**L’engagement et le licenciement des salariés de l’État sont faits par le ministre de la justice.*
-
-<a id="art_N201A8"></a>
-
-### Art. 30.
-
-À la suite de l’article 91 de la même loi, il est inséré un nouvel article 91-1 libellé comme suit :Art. 91-1.*(1)**Le personnel des juridictions de l’ordre administratif doit présenter les garanties d’honorabilité requises pour l’exercice de la fonction.**Sur demande du président de la Cour administrative, le procureur général d’État émet un avis sur l’honorabilité des candidats.**(2)**L’avis du procureur général d’État fait état des :**inscriptions au bulletin N° 2 du casier judiciaire ;**informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;**informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.**(3)**Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**(4)**Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :**le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;**la qualification juridique des faits reprochés.**(5)**L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
-
-<a id="art_N2027D"></a>
-
-### Art. 31.
-
-L’article 92 de la même loi prend la teneur suivante :Art. 92.*Avant d’entrer en fonctions, les fonctionnaires visés à l’article 90 prêtent, entre les mains du président de la Cour administrative, le serment suivant :**« Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’État. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité. »*
-
-#### **Chapitre 5 ** — **Modification de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle**
-
-<a id="art_N202C6"></a>
-
-### Art. 32.
-
-À la suite de l’article 27 de la loi modifiée du 27 juillet 1997 portant organisation de la Cour Constitutionnelle, il est inséré un nouvel article 27-1 qui prend la teneur suivante :Art. 27-1.*Sur demande adressée par le président de la Cour Constitutionnelle au procureur général d’État ou au président de la Cour administrative, des référendaires de justice de l’ordre judiciaire ou de l’ordre administratif peuvent faire l’objet d’un détachement à temps complet ou partiel auprès de la Cour Constitutionnelle.*
-
-#### **Chapitre 6 ** — **Modification de la loi modifiée du 7 juin 2012 sur les attachés de justice**
-
-<a id="art_N20305"></a>
-
-### Art. 33.
-
-À l’article 2, paragraphe 3, de la loi modifiée du 7 juin 2012 sur les attachés de justice, le point 2) prend la teneur suivante :*jouir des droits civils et politiques et présenter les garanties d’honorabilité requises ;*
-
-<a id="art_N20330"></a>
-
-### Art. 34.
-
-À la suite de l’article 2 de la même loi, il est inséré un nouvel article 2-1 qui prend la teneur suivante :Art. 2-1.*(1)**Sur demande de la commission, le procureur général d’État émet un avis sur l’honorabilité des candidats à un poste d’attaché de justice.**Il peut accéder aux données à caractère personnel visées au présent article en vue du contrôle de l’honorabilité.**(2)**L’avis du procureur général d’État fait état des :**inscriptions au bulletin N° 2 du casier judiciaire ;**informations issues d’une décision de justice qui constate des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà acquise au moment de la présentation de la candidature ;**informations issues d’un procès-verbal de police qui constate des faits susceptibles de constituer un crime ou délit lorsque ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.**(3)**Lorsque le candidat possède la nationalité d’un pays étranger ou qu’il réside ou a résidé sur le territoire d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**Le procureur général d’État fait état dans son avis des informations issues de l’extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du pays étranger concerné.**(4)**Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État indique uniquement :**le nom, les prénoms, la date et le lieu de naissance du candidat ainsi que son numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ;**la qualification juridique des faits reprochés.**(5)**L’avis du procureur général d’État est détruit six mois à compter du jour où la décision sur la candidature a acquis force de chose décidée ou jugée.*
-
-#### **Chapitre 7 ** — **Modification de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise**
-
-<a id="art_N20418"></a>
-
-### Art. 35.
-
-À l’article 89, paragraphe 1er, alinéa 1er, point 2°, de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise, le nombre *2022 *est remplacé par le nombre de *2025.*
-
-#### **Chapitre 8 ** — **Dispositions finales**
-
-<a id="art_N20450"></a>
-
-### Art. 36.
-
-Par dérogation aux dispositions de la loi modifiée du 17 décembre 2021 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2022 définissant le plafond des effectifs du personnel au service de l’État, la présente loi porte création de quarante-six postes de fonctionnaire de la catégorie de traitement A, groupe de traite­ment A1, dont :
-
-1. quarante postes sont attribués aux juridictions de l’ordre judiciaire en vue de l’exercice de la fonction de référendaire de justice ;
-2. six postes sont attribués aux juridictions de l’ordre administratif en vue de l’exercice de la fonction de référendaire de justice.
-
-<a id="art_N20471"></a>
-
-### Art. 37.
-
-La référence à la présente loi se fait sous la forme suivante : « loi du 23 décembre 2022 sur les référendaires de justice ».
-
-<a id="art_N20481"></a>
-
-### Art. 38.
-
-La présente loi produit ses effets au 1er janvier 2022.
