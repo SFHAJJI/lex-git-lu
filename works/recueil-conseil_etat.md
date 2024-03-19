@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-conseil_etat:2023-10-24
+lex_id: lu-legilux:recueil-conseil_etat:2024-03-19
 title: Conseil d'État
-valid_from: 2023-10-24
-valid_to: 2024-03-18
-source: https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20231024/fr
-source_sha256: 41a606b56448866df15b95f34141966fabef4b2c7afaca0b5a71769d2816812e
+valid_from: 2024-03-19
+valid_to: 2024-04-25
+source: https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240319/fr
+source_sha256: 471e6afd3a084644383fb86cfffda4745c36b2b9f0ad7f820dbd31aa311931f5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -766,7 +766,7 @@ Notre Premier ministre, ministre d’État, est chargé de l'exécution du prés
 
 **(4)** Toutes les lois sont soumises à un second vote, à moins que la Chambre des Députés, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. Il y aura un intervalle d’au moins trois mois entre les deux votes.
 
-<a id="art_N1182C"></a>
+<a id="art_N1185E"></a>
 
 ### Art. 95.
 
@@ -780,15 +780,15 @@ Sauf les cas d’urgence à apprécier dans les limites de la loi par le Grand-D
 
 La Chambre des Députés et le Gouvernement peuvent déférer au Conseil d’État toutes autres questions selon les modalités déterminées par la loi.
 
-<a id="art_N11864"></a>
+<a id="art_N118BC"></a>
 
 ### Art. 96.
 
 L’organisation du Conseil d’État et la manière d’exercer ses attributions sont réglées par la loi.
 
-### Règlement de la Chambre des Députés.
+### Version consolidée applicable au 19/03/2024 : Règlement de la Chambre des Députés.
 
-<a id="art_N1189C"></a>
+<a id="art_N11906"></a>
 
 ### Art. 29.
 
@@ -808,13 +808,13 @@ La décision de la commission d’être entendue par le Conseil d’État ou par
 
 L’autorisation est accordée par le Président de la Chambre sur avis conforme de la Conférence des Présidents.
 
-<a id="art_N118E1"></a>
+<a id="art_N119A9"></a>
 
 ### Art. 62.
 
 La proposition de loi est immédiatement transmise au Gouvernement, et, par ce dernier, dans les meilleurs délais pour avis aux chambres professionnelles concernées. Elle est également immédiatement transmise pour avis au Conseil d’État.
 
-<a id="art_N118EF"></a>
+<a id="art_N119E0"></a>
 
 ### Art. 63.
 
@@ -830,13 +830,13 @@ La proposition de loi est immédiatement transmise au Gouvernement, et, par ce d
 
 **(6)** Le député qui est l’auteur de la proposition de loi peut, à tout moment, demander des explications à la commission sur l’état de l’avancement de sa proposition de loi.
 
-<a id="art_N11929"></a>
+<a id="art_N11A6E"></a>
 
 ### Art. 69.
 
 L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, les commissions arrêtent définitivement les conclusions de leur rapport.
 
-<a id="art_N11937"></a>
+<a id="art_N11AA5"></a>
 
 ### Art. 70.
 
@@ -844,7 +844,7 @@ L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, 
 
 **(2)** Le vote sur l’ensemble des projets ou propositions de loi a lieu par vote nominal.
 
-<a id="art_N11956"></a>
+<a id="art_N11AFA"></a>
 
 ### Art. 72.
 
@@ -852,7 +852,7 @@ L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, 
 
 **(2)** Si la Chambre décide qu’il y a lieu de renvoyer l’amendement au Conseil d’État ou à une commission, elle peut suspendre la délibération.
 
-<a id="art_N11970"></a>
+<a id="art_N11B48"></a>
 
 ### Art. 74.
 
@@ -872,13 +872,13 @@ L’avis du Conseil d’État est communiqué aux commissions et, sur cet avis, 
 
 **(5)** Les dispositions du présent article sont applicables aux projets de loi soumis au second vote constitutionnel.
 
-<a id="art_N119B0"></a>
+<a id="art_N11BDA"></a>
 
 ### Art. 75.
 
 Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement.
 
-<a id="art_N119BE"></a>
+<a id="art_N11C11"></a>
 
 ### Art. 76.
 
@@ -886,7 +886,7 @@ Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’ac
 
 **(2)** Si la Chambre décide qu’il n’y a pas lieu à second vote, le projet de loi est renvoyé au Conseil d’État, et dans le cas où le Conseil d’État se rallie à la décision de la Chambre, le projet de loi est définitivement dispensé du second vote.
 
-<a id="art_N119D8"></a>
+<a id="art_N11C5F"></a>
 
 ### Art. 77.
 
@@ -894,19 +894,19 @@ Toutes les lois sont soumises à un second vote, à moins que la Chambre, d’ac
 
 **(2)** Les dispositions du présent règlement concernant les projets de loi présentés à la Chambre seront observées à cette occasion.
 
-<a id="art_N119F2"></a>
+<a id="art_N11CAD"></a>
 
 ### Art. 78.
 
 Dans tous les cas où la Chambre se sera prononcée en faveur de la dispense du second vote, la décision du Conseil d’État concernant la dispense du second vote sera communiquée à la Chambre.
 
-<a id="art_N11A00"></a>
+<a id="art_N11CE4"></a>
 
 ### Art. 107.
 
 Les chambres professionnelles, le Conseil d’État et, le cas échéant, la Cour des Comptes, sont invités à rendre leurs avis le 15 novembre au plus tard.
 
-<a id="art_N11A0E"></a>
+<a id="art_N11D1B"></a>
 
 ### Art. 116.
 
@@ -914,7 +914,7 @@ Lorsque le Président est informé d’une vacance de conseiller au Conseil d’
 
 En cas de renouvellement intégral du Conseil d’État, la Chambre propose au Grand-Duc sept candidats.
 
-<a id="art_N11A27"></a>
+<a id="art_N11D61"></a>
 
 ### Art. 122.
 
@@ -923,19 +923,19 @@ Lors de la désignation du candidat, la Chambre :
 1. veille à ce que la composition du Conseil d’État tienne compte des partis politiques représentés à la Chambre des Députés à condition d’avoir obtenu au moins trois sièges au cours de chacune des deux dernières élections législatives ;
 2. tend à assurer une représentation équilibrée des femmes et des hommes dans la composition du Conseil d’État. Le nombre du sexe sous-représenté ne peut être inférieur à sept.
 
-<a id="art_N11A3D"></a>
+<a id="art_N11DA3"></a>
 
 ### Art. 126.
 
 En cas de renouvellement intégral du Conseil d’État, il est procédé à un scrutin séparé pour chacun des sept candidats à proposer.
 
-<a id="art_N11A4B"></a>
+<a id="art_N11DDA"></a>
 
 ### Art. 168.
 
 Les rapports de la Chambre avec le Conseil d’État ont lieu par l’intermédiaire du Président de la Chambre.
 
-<a id="art_N11A59"></a>
+<a id="art_N11E11"></a>
 
 ### Art. 205.
 
