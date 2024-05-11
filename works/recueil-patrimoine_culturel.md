@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-patrimoine_culturel:2023-07-07
+lex_id: lu-legilux:recueil-patrimoine_culturel:2024-05-11
 title: Patrimoine culturel
-valid_from: 2023-07-07
-valid_to: 2024-05-10
-source: https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20230707/fr
-source_sha256: eca069dd9e613197550ef80c94ba9846a4e0cd92f18f3e3622cd7be7d05687b2
+valid_from: 2024-05-11
+valid_to: open
+source: https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20240511/fr
+source_sha256: 639dd4083fdd2be446c6fc52d9c09221b4c6c654f4f16bbafcabaf7851642ad8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -2139,67 +2139,65 @@ Sont abrogés :
 
 Notre ministre ayant la Culture dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
-## Règlement grand-ducal du 9 mars 2022 déterminant la composition, l’organisation et le fonctionnement de la commission pour le patrimoine culturel.
+## Version consolidée applicable au 11/05/2024 : Règlement grand-ducal du 9 mars 2022 déterminant la composition, l’organisation et le fonctionnement de la commission pour le patrimoine culturel.
 
 <a id="art_N126DE"></a>
 
 ### Art. 1er.
 
-La commission pour le patrimoine culturel, ci-après « commission », comprend quinze membres compétents dans le domaine du patrimoine culturel.
+La commission pour le patrimoine culturel, ci-après « commission », comprend trois sections : la section du patrimoine architectural et archéologique, la section du patrimoine mobilier et la section du patrimoine immatériel.
+
+Chaque section se compose d’un minimum de sept et d’un maximum de quinze membres compétents dans le domaine du patrimoine architectural et archéologique, du patrimoine mobilier et du patrimoine immatériel.
 
 Les membres sont nommés pour une durée renouvelable de trois ans par le ministre ayant la Culture dans ses attributions, ci-après « ministre ».
 
-La présidence de la commission est exercée par un représentant du ministre.
+La commission est présidée par un président qui siège dans toutes les sections et qui est assisté dans chaque section d’un vice-président. La présidence et la vice-présidence des sections de la commission sont exercées par un représentant du ministre. Chaque section de la commission a un bureau constitué du président, du vice-président, qui remplace le président en cas d’empêchement, et du secrétaire et qui sont désignés par le ministre.
 
-Le président, le vice-président qui remplace le président en cas d’empêchement et le secrétaire constituent le bureau de la commission et sont désignés par le ministre.
-
-Le secrétariat de la commission est exercé par un fonctionnaire désigné par le ministre.
-
-Pour chaque membre effectif, il est nommé un membre suppléant qui remplace définitivement un membre effectif en cas de vacance de poste et qui termine son mandat. Au cas où un membre effectif ne peut pas délibérer sur un ou plusieurs dossiers, il est ponctuellement remplacé par un membre suppléant. En cas de vacance de poste d’un membre suppléant, un nouveau membre suppléant est nommé par le ministre.
-
-<a id="art_N1271E"></a>
+<a id="art_N1273A"></a>
 
 ### Art. 2.
 
-La commission se réunit aussi souvent que sa mission l’exige sur convocation au moins cinq jours à l’avance par le président. L’ordre du jour fait partie intégrante de la convocation.
+Les sections se réunissent aussi souvent que leur mission l’exige sur convocation au moins cinq jours à l’avance par le président. L’ordre du jour fait partie intégrante de la convocation.
+
+Plusieurs sections peuvent être réunies conjointement sur convocation du président.
 
 En cas d’urgence et dans l’impossibilité de se réunir dans un délai raisonnable, le président peut décider d’avoir recours à la procédure écrite.
 
-Au cas où l’ordre du jour renseigne sur des dossiers dans lesquels un ou plusieurs membres ont un intérêt personnel, ces membres ne peuvent pas assister à la délibération sur ces dossiers. Dans ces cas ou si un membre effectif ne peut pas assister à la réunion de la commission, il en informe le président et le secrétaire, ainsi que son membre suppléant afin que celui-ci puisse le remplacer.
+Au cas où l’ordre du jour renseigne sur des dossiers dans lesquels un ou plusieurs membres ont un intérêt personnel, ces membres ne peuvent pas assister à la délibération sur ces dossiers. Dans ces cas ou si un membre ne peut pas assister à la réunion d’une section , il en informe le président et le secrétaire .
 
-À la demande du membre de la commission ainsi que de l’accord de la commission, des experts peuvent être consultés concernant certains dossiers à l’ordre du jour de la commission et assister à la réunion de la commission.
+À la demande du membre ainsi que de l’accord de la section , des experts peuvent être consultés concernant certains dossiers à l’ordre du jour et assister à la réunion de la section .
 
-<a id="art_N12749"></a>
+<a id="art_N12826"></a>
 
 ### Art. 3.
 
-La commission ne délibère valablement qu’en présence de la majorité des membres. Les avis sont adoptés à la majorité simple des voix des membres présents. Les avis mentionnent le nombre de voix en faveur, en défaveur et les abstentions. L’avis peut être accompagné d’avis séparés émis par un ou plusieurs membres de la commission. Le président transmet les avis au ministre.
+Les sections ne délibèrent valablement qu’en présence de la majorité des membres. Sont réputés présents pour le calcul du quorum et de la majorité des voix les membres qui participent à la délibération par visioconférence ou par des moyens de télécommunication permettant leur identification. Les avis sont adoptés à la majorité simple des voix des membres présents. En cas de partage des voix, celle du président est prépondérante. Les avis mentionnent le nombre de voix en faveur, en défaveur et les abstentions. L’avis peut être accompagné d’avis séparés émis par un ou plusieurs membres. Le président transmet les avis au ministre.
 
-<a id="art_N12759"></a>
+<a id="art_N12864"></a>
 
 ### Art. 4.
 
 Les membres de la commission sont tenus de garder le secret des délibérations et de ne pas divulguer les données inhérentes aux dossiers traités. Cette obligation de secret des délibérations vaut également à l’égard des experts pour les délibérations auxquelles ils assistent et pour les dossiers dont ils prennent connaissance.
 
-<a id="art_N12769"></a>
+<a id="art_N12896"></a>
 
 ### Art. 5.
 
-Le bureau de la commission se réunit à la demande du président et a pour mission de préparer les réunions de la commission.
+Le bureau de chaque section de la commission se réunit à la demande du président et a pour mission de préparer les réunions de la section .
 
-<a id="art_N12779"></a>
+<a id="art_N128E0"></a>
 
 ### Art. 6.
 
-Pour chaque participation à une réunion de la commission, les membres perçoivent un jeton de présence d’un montant de 25 euros.
+Pour chaque participation à une réunion d’une section de la commission, les membres qui y siègent en tant qu’agents publics dans le cadre de l’exécution de leurs tâches normales ont droit à un jeton de présence d’un montant de 25 euros et les autres membres d’un montant de 50 euros.
 
-<a id="art_N12789"></a>
+<a id="art_N1291E"></a>
 
 ### Art. 7.
 
 Le règlement grand-ducal du 14 décembre 1983 fixant la composition et le fonctionnement de la Commission des Sites et Monuments nationaux est abrogé.
 
-<a id="art_N1279F"></a>
+<a id="art_N12956"></a>
 
 ### Art. 8.
 
@@ -2207,13 +2205,13 @@ Notre ministre ayant la Culture dans ses attributions et Notre ministre ayant le
 
 ## Règlement grand-ducal du 9 mars 2022 fixant le programme, la durée et les modalités de contrôle des connaissances de la formation professionnelle spéciale portant sur la recherche et la constatation des infractions à la loi du 25 février 2022 relative au patrimoine culturel.
 
-<a id="art_N127C2"></a>
+<a id="art_N1299B"></a>
 
 ### Art. 1er.
 
 La formation professionnelle spéciale portant sur la recherche et la constatation des infractions à la loi relative au patrimoine culturel, à ses règlements d’exécution et aux mesures prises en vertu desdites dispositions légales et réglementaires, ci-après « formation professionnelle spéciale », est organisée par l’Institut national d’administration publique, ci-après « INAP », dans le cadre de la formation continue des agents de l’État, selon les besoins des agents de l’Institut national de recherches archéologiques, des agents du ministre ayant la Culture dans ses attributions en tant qu’autorité compétente au sens de l’article 73 et 75 de la loi du 25 février 2022 relative au patrimoine culturel ainsi que des agents de l’Institut national pour le patrimoine architectural chargés, conformément à l’article 116 de la loi relative au patrimoine culturel, de la constatation des infractions qui y sont visées.
 
-<a id="art_N127DF"></a>
+<a id="art_N129B8"></a>
 
 ### Art. 2.
 
@@ -2234,25 +2232,25 @@ Le programme de formation professionnelle spéciale est fixé comme suit :
 2. loi du 25 février 2022
 3. loi du 25 février 2022
 
-<a id="art_N1284F"></a>
+<a id="art_N12A28"></a>
 
 ### Art. 3.
 
 Le contrôle des connaissances se fait à l’issue de la formation prévue à l’article 2 et est organisé par l’INAP. Le contrôle des connaissances est organisé dans les trois mois qui suivent la fin de la période de l’organisation des cours. Il comporte une épreuve écrite dont le maximum des points à attribuer s’élève à soixante points. Si la note attribuée au candidat s’élève au moins à trente sur soixante points, le candidat est considéré avoir réussi la formation professionnelle spéciale et est admis à prêter le serment en qualité d’officier de police judiciaire au titre de la loi du 25 février 2022 relative au patrimoine culturel.
 
-<a id="art_N12864"></a>
+<a id="art_N12A3D"></a>
 
 ### Art. 4.
 
 En cas d’échec, le candidat peut se présenter au prochain contrôle des connaissances. Le candidat est libre de participer de nouveau à la formation prévue à l’article 1er. Si la note attribuée au candidat s’élève au moins à trente sur soixante points, le candidat est considéré avoir réussi la formation et est admis à prêter le serment au titre de la loi du 25 février 2022 relative au patrimoine culturel.
 
-<a id="art_N1287C"></a>
+<a id="art_N12A55"></a>
 
 ### Art. 5.
 
 Les agents de l’État qui, au moment de l’entrée en vigueur du présent règlement, ont déjà suivi une formation correspondant au programme mentionné à l’article 2, organisée ou reconnue par l’INAP, sont de plein droit dispensés des première à troisième parties de la formation mentionnée à l’article 2 et du contrôle des connaissances prévu à l’article 3 en ce qui concerne ces trois parties.
 
-<a id="art_N1288C"></a>
+<a id="art_N12A65"></a>
 
 ### Art. 6.
 
@@ -2260,19 +2258,19 @@ Notre ministre ayant la Culture dans ses attributions et Notre ministre ayant l�
 
 ## Version consolidée applicable au 23/12/2022 : Loi du 25 juin 2004 portant réorganisation des instituts culturels de l’Etat.
 
-<a id="art_N128AE"></a>
+<a id="art_N12A87"></a>
 
 ### Art. 1er.
 
 Les instituts culturels de l’État comprennent les Archives nationales, la Bibliothèque nationale du Luxembourg, le Centre national de l’audiovisuel, le Centre national de littérature, l’Institut national pour le patrimoine architectural, l’Institut national de recherches archéologiques, le Musée national d’archéologie, d’histoire et d’art et le Musée national d’histoire naturelle.
 
-<a id="art_N128D6"></a>
+<a id="art_N12AC1"></a>
 
 ### Art. 2.
 
 Les instituts culturels de l’Etat sont placés sous la tutelle du ministre ayant dans ses attributions la Culture, désigné ci-après par le terme «ministre».
 
-<a id="art_N128FB"></a>
+<a id="art_N12AF8"></a>
 
 ### Art. 3.
 
@@ -2294,7 +2292,7 @@ Ils peuvent accepter des prêts et, avec l’approbation du ministre, prendre en
 
 **(5)** Chaque institut culturel publie annuellement un rapport d’activités.
 
-<a id="art_N12969"></a>
+<a id="art_N12BA7"></a>
 
 ### Art. 4.
 
@@ -2304,7 +2302,7 @@ Le directeur peut être assisté d’un nombre maximal de deux directeurs adjoin
 
 A la demande du ministre, les directeurs des instituts culturels de l’Etat se réunissent en conférence des directeurs pour délibérer de problèmes communs aux différents instituts.
 
-<a id="art_N12996"></a>
+<a id="art_N12BF0"></a>
 
 ### Art. 5.
 
@@ -2312,7 +2310,7 @@ Il peut être institué une commission d’accompagnement auprès de chaque inst
 
 Afin de guider et d’accompagner l’institut culturel dans ses missions, un comité scientifique peut être mis en place. Ce comité, composé d’experts dans le domaine du patrimoine culturel ou naturel géré par l’institut culturel en question, est nommé par le ministre sur avis du directeur. Les experts ont droit à un jeton de présence dont le montant est déterminé par règlement grand-ducal.
 
-<a id="art_N129C3"></a>
+<a id="art_N12C33"></a>
 
 ### Art. 6.
 
@@ -2320,7 +2318,7 @@ Sans préjudice des dispositions des articles qui suivent et qui ont trait aux m
 
 Des règlements grand-ducaux peuvent créer des sections, départements, divisions, services et centres auprès des instituts culturels de l’Etat.
 
-<a id="art_N129F0"></a>
+<a id="art_N12C76"></a>
 
 ### Art. 12.
 
@@ -2336,13 +2334,13 @@ Le Musée national d’archéologie, d’histoire et d’art a pour missions :
 8. de coopérer avec la Commission pour le patrimoine culturel ainsi que la Commission de circulation des biens culturels ;
 9. de gérer les sites, le « Nationalmusée Um Fëschmaart - Archéologie, Histoire, Art » à Luxembourg-Ville-Haute, le Musée de la Forteresse dénommé « Musée Dräi Eechelen - Forteresse, Histoire, Identités » à Luxembourg-Kirchberg et la Villa romaine à Echternach ainsi que d’autres dépendances muséales, éducatives, scientifiques et techniques.
 
-<a id="art_N12A2B"></a>
+<a id="art_N12CCD"></a>
 
 ### Art. 13. (abrogé)
 
 
 
-<a id="art_N12A55"></a>
+<a id="art_N12D09"></a>
 
 ### Art. 16.
 
@@ -2355,13 +2353,13 @@ L’Institut national pour le patrimoine architectural a pour missions :
 - d’organiser des campagnes de sensibilisation, des expositions et des conférences sur le patrimoine architectural ;
 - de coordonner et de surveiller les initiatives publiques en matière de restauration du patrimoine architectural ;
 
-<a id="art_N12A8F"></a>
+<a id="art_N12D5C"></a>
 
 ### Art. 17. (abrogé)
 
 
 
-<a id="art_N12AB5"></a>
+<a id="art_N12D95"></a>
 
 ### Art. 24bis.
 
@@ -2387,7 +2385,7 @@ L’Institut national pour le patrimoine architectural a pour missions :
 
 ## Règlement grand-ducal du 21 juin 2023 déterminant le contenu et les modalités de la formation de base visée à l’article 12, point 1°, de la loi du 25 février 2022 relative au patrimoine culturel et abrogeant : 1° le règlement grand-ducal du 24 juillet 2011 portant création d’un Centre national de recherche archéologique auprès du Musée national d’histoire et d’art ; 2° le règlement grand-ducal du 19 décembre 2014 concernant l’allocation de subventions pour des travaux de restauration d’immeubles.
 
-<a id="art_N12B23"></a>
+<a id="art_N12E30"></a>
 
 ### Art. 1er.
 
@@ -2407,13 +2405,13 @@ Le contenu de la formation est fixé comme suit :
 
 La formation est sanctionnée par la délivrance d’un certificat de formation par l’INRA.
 
-<a id="art_N12BF8"></a>
+<a id="art_N12F05"></a>
 
 ### Art. 2.
 
 Est reconnue équivalente par l’INRA toute formation délivrée par un institut étranger étatique qui a pour missions la conservation et la valorisation du patrimoine archéologique et dont le contenu est au moins équivalent au cycle de formation prévu à l’article 1er, alinéa 2, dispensé par l’INRA.
 
-<a id="art_N12C0B"></a>
+<a id="art_N12F18"></a>
 
 ### Art. 3.
 
@@ -2422,13 +2420,13 @@ Sont abrogés :
 1. règlement grand-ducal du 24 juillet 2011
 2. règlement grand-ducal du 19 décembre 2014
 
-<a id="art_N12C32"></a>
+<a id="art_N12F3F"></a>
 
 ### Art. 4.
 
 La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 21 juin 2023 déterminant le contenu et les modalités de la formation de base visée à l’article 12, point 1°, de la loi du 25 février 2022 relative au patrimoine culturel ».
 
-<a id="art_N12C4D"></a>
+<a id="art_N12F5A"></a>
 
 ### Art. 5.
 
