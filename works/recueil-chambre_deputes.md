@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-chambre_deputes:2024-06-13
+lex_id: lu-legilux:recueil-chambre_deputes:2024-06-26
 title: Chambre des Députés
-valid_from: 2024-06-13
-valid_to: 2024-06-25
-source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20240613/fr
-source_sha256: 3a1dee740a06f3f308fe3775c9b09ae3e69854bee5641a2b3dc616b311851665
+valid_from: 2024-06-26
+valid_to: 2024-10-09
+source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20240626/fr
+source_sha256: 1cae7df5ffb457df77a970157a2b015b75bde640c9d7f2844d67f3c42aa4fb62
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -136,7 +136,7 @@ La mission de la commission d’enquête prend fin au moment où la Chambre des 
 
 La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.
 
-## **Version consolidée applicable au 13/06/2024 : Règlement de la Chambre des Députés.**
+## **Version consolidée applicable au 26/06/2024 : Règlement de la Chambre des Députés.**
 
 ### TITRE I — De l’organisation de la Chambre et de son fonctionnement
 
@@ -1654,57 +1654,57 @@ Les rapports écrits des Ministères sur l’activité de l’exercice précéde
 
 ### Art. 102.
 
-Le Gouvernement saisit le 30 juin au plus tard la Chambre des Députés d’une liste de projets prioritaires à construire par l’État au cours des exercices suivants et dont le coût dépasse le seuil de 10 millions d’euros.
+Le Gouvernement saisit le 30 juin au plus tard la Chambre des Députés d’une liste de projets prioritaires à construire par l’État au cours des exercices suivants et dont le coût dépasse le seuil de 30 millions d’euros. Pour les projets dépassant le seuil de 15 millions d’euros sans pour autant dépasser le seuil de 30 millions d’euros, il est procédé à une présentation et à un examen en commission parlementaire.
 
-<a id="art_N127D3"></a>
+<a id="art_N127DF"></a>
 
 ### Art. 103.
 
 Les commissions compétentes sont chargées de l’examen de cette liste. Ces commissions peuvent saisir pour avis d’autres commissions parlementaires.
 
-<a id="art_N127E3"></a>
+<a id="art_N127EF"></a>
 
 ### Art. 104.
 
 **(1)** Les rapports des commissions, ainsi que le cas échéant les rapports pour avis d’autres commissions parlementaires, sont présentés à la Chambre lors d’une séance publique au cours de la deuxième semaine d’octobre au plus tard.
 
-**(2)** La Chambre adopte les motions comprenant les nouveaux projets d’infrastructure auxquels elle donne son accord de principe et dont la Chambre demande l’inscription dans la loi budgétaire afin que le Gouvernement puisse engager les frais nécessaires à des études en vue de l’établissement de l’avant-projet sommaire, de l’avant-projet détaillé, du dossier d’autorisation et, le cas échéant, des cahiers des charges nécessaires pour la mise en adjudication publique.
+**(2)** La Chambre adopte les motions comprenant les nouveaux projets d’infrastructure auxquels elle donne son accord de principe afin que le Gouvernement puisse engager les frais nécessaires à des études en vue de l’établissement de l’avant-projet sommaire, de l’avant-projet détaillé, du dossier d’autorisation et, le cas échéant, des cahiers des charges nécessaires pour la mise en adjudication publique.
 
-<a id="art_N1280A"></a>
+<a id="art_N12822"></a>
 
 ### Art. 105.
 
-**(1)** Tous les six mois, le Gouvernement présente le bilan financier des grands projets d’infrastructure dépassant 10 millions d’euros à la ou les commission(s) compétente(s).
+**(1)** Tous les six mois, le Gouvernement présente le bilan financier des grands projets d’infrastructure dépassant le seuil de 30 millions d’euros à la ou aux commission(s) compétente(s).
 
 **(2)** Tout changement important de programme survenant après le vote de la loi doit faire l’objet d’un nouvel examen par la Chambre des Députés.
 
 **(3)** Un nouveau projet de loi doit être déposé chaque fois que les dépenses pour un projet dépassent 5% du montant autorisé. Un dépassement inférieur à 5% du coût global doit être autorisé dans le cadre de l’approbation de la loi concernant le budget des recettes et des dépenses de l’État pour l’exercice suivant.
 
-<a id="art_N1284E"></a>
+<a id="art_N12872"></a>
 
 ### Art. 106.
 
 Le Gouvernement dépose le projet de loi concernant le budget des recettes et des dépenses de l’État pour l’année subséquente au cours de la 3e semaine d’octobre au plus tard.
 
-<a id="art_N1286E"></a>
+<a id="art_N12892"></a>
 
 ### Art. 107.
 
 Les chambres professionnelles, le Conseil d’État et, le cas échéant, la Cour des Comptes, sont invités à rendre leurs avis le 15 novembre au plus tard.
 
-<a id="art_N1288B"></a>
+<a id="art_N128AF"></a>
 
 ### Art. 108.
 
 L’examen du projet de loi concernant le budget des recettes et des dépenses de l’État en commission a lieu conformément aux dispositions des Titres I et II du présent Règlement.
 
-<a id="art_N1289B"></a>
+<a id="art_N128BF"></a>
 
 ### Art. 109.
 
 La commission peut inviter à ses réunions les membres du Gouvernement pour les entendre dans leurs exposés et explications, conformément à l’article 23 du Règlement de la Chambre.
 
-<a id="art_N128AB"></a>
+<a id="art_N128CF"></a>
 
 ### Art. 110.
 
@@ -1712,7 +1712,7 @@ Les autres commissions parlementaires ont la faculté d’examiner des aspects d
 
 D’autre part, la Commission des Finances et du Budget peut demander l’avis de telle ou telle commission sur tel ou tel problème.
 
-<a id="art_N128C4"></a>
+<a id="art_N128E8"></a>
 
 ### Art. 111.
 
@@ -1726,13 +1726,13 @@ Les membres du Gouvernement répondront aux questions dans les dix jours qui sui
 
 Les questions et les réponses sont publiées sous forme d’annexe au rapport de la commission.
 
-<a id="art_N12905"></a>
+<a id="art_N12929"></a>
 
 ### Art. 112.
 
 La présentation du rapport de la Commission des Finances et du Budget par le rapporteur et du projet de loi par le Gouvernement ainsi que la discussion du projet de loi ont lieu lors de séances publiques fixées par la Conférence de Présidents.
 
-<a id="art_N12915"></a>
+<a id="art_N12939"></a>
 
 ### Art. 113.
 
@@ -1740,7 +1740,7 @@ L’approbation du rapport en commission précède d’une semaine au moins la d
 
 #### Chapitre 4 — Approbation des comptes généraux
 
-<a id="art_N12933"></a>
+<a id="art_N12957"></a>
 
 ### Art. 114.
 
@@ -1752,7 +1752,7 @@ Pour le 30 septembre suivant au plus tard, la Cour des Comptes communique ses ob
 
 #### Chapitre 1 — Élections et présentation de candidats
 
-<a id="art_N12968"></a>
+<a id="art_N1298C"></a>
 
 ### Art. 115.
 
@@ -1764,7 +1764,7 @@ Pour le 30 septembre suivant au plus tard, la Cour des Comptes communique ses ob
 
 #### Chapitre 2 — De la procédure de désignation des candidats pour les postes de conseillers d’État
 
-<a id="art_N129BA"></a>
+<a id="art_N129DE"></a>
 
 ### Art. 116.
 
@@ -1772,37 +1772,37 @@ Lorsque le Président est informé d’une vacance de conseiller au Conseil d’
 
 En cas de renouvellement intégral du Conseil d’État, la Chambre propose au Grand-Duc sept candidats.
 
-<a id="art_N129E6"></a>
+<a id="art_N12A0A"></a>
 
 ### Art. 117.
 
 Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 116, le cachet de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N129F6"></a>
+<a id="art_N12A1A"></a>
 
 ### Art. 118.
 
 Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature.
 
-<a id="art_N12A15"></a>
+<a id="art_N12A39"></a>
 
 ### Art. 119.
 
 Le Président soumet les candidatures à la Conférence des Présidents qui les examine quant à leur recevabilité.
 
-<a id="art_N12A25"></a>
+<a id="art_N12A49"></a>
 
 ### Art. 120.
 
 Toutes les candidatures déclarées recevables par la Conférence des Présidents sont soumises aux députés sur une liste remise avec la convocation de la séance publique dont l’ordre du jour comporte le vote des candidats.
 
-<a id="art_N12A42"></a>
+<a id="art_N12A66"></a>
 
 ### Art. 121.
 
 Le scrutin est secret. Le vote par procuration n’est pas permis.
 
-<a id="art_N12A52"></a>
+<a id="art_N12A76"></a>
 
 ### Art. 122.
 
@@ -1811,13 +1811,13 @@ Lors de la désignation du candidat, la Chambre :
 1. veille à ce que la composition du Conseil d’État tienne compte des partis politiques représentés à la Chambre des Députés à condition d’avoir obtenu au moins trois sièges au cours de chacune des deux dernières élections législatives ;
 2. tend à assurer une représentation équilibrée des femmes et des hommes dans la composition du Conseil d’État. Le nombre du sexe sous-représenté ne peut être inférieur à sept.
 
-<a id="art_N12A6D"></a>
+<a id="art_N12A91"></a>
 
 ### Art. 123.
 
 Le candidat élu doit avoir atteint la majorité absolue des voix, les bulletins nuls et blancs ne comptant pas pour l’établissement de cette majorité.
 
-<a id="art_N12A7D"></a>
+<a id="art_N12AA1"></a>
 
 ### Art. 124.
 
@@ -1827,7 +1827,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour il y a toujours égalité, la nomination se fait par tirage au sort.
 
-<a id="art_N12A9F"></a>
+<a id="art_N12AC3"></a>
 
 ### Art. 125.
 
@@ -1839,13 +1839,13 @@ Dans le cas contraire, la candidature est rejetée.
 
 De nouvelles candidatures doivent alors être proposées.
 
-<a id="art_N12ACA"></a>
+<a id="art_N12AEE"></a>
 
 ### Art. 126.
 
 En cas de renouvellement intégral du Conseil d’État, il est procédé à un scrutin séparé pour chacun des sept candidats à proposer.
 
-<a id="art_N12AE9"></a>
+<a id="art_N12B0D"></a>
 
 ### Art. 127.
 
@@ -1855,25 +1855,25 @@ Les résultats sont déclarés par le Président de la Chambre ou celui qui pré
 
 #### Chapitre 2*bis* — De la procédure de désignation des candidats pour les postes de membre effectif ou de membre suppléant du Conseil national de la justice
 
-<a id="art_N12B20"></a>
+<a id="art_N12B44"></a>
 
 ### Art. 127bis.
 
 Lorsque le Président est informé de la première nomination, du renouvellement ou d’une vacance de membre effectif ou de membre suppléant du Conseil national de la justice pour laquelle la Chambre est appelée à désigner un candidat, il en informe les députés lors de la première séance publique. Il communique également la date fixée par lui pour laquelle les candidatures sont à déposer à la Chambre. Ce délai doit être de trois semaines au moins sans pouvoir dépasser trois mois. Il indique également les qualifications et les conditions à remplir par les candidats, prévues aux articles 5 à 7 de la loi du 23 janvier 2023 portant organisation du Conseil national de la justice. Ces informations sont encore publiées par voie d’avis officiel par l’administration parlementaire.
 
-<a id="art_N12B46"></a>
+<a id="art_N12B6A"></a>
 
 ### Art. 127ter.
 
 Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 127*bis*, le cachet de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N12B5C"></a>
+<a id="art_N12B80"></a>
 
 ### Art. 127quater.
 
 Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature. Les candidatures doivent être accompagnées de notices biographiques, de lettres de motivation, de l’indication si la candidature est relative à un poste de membre effectif et/ou de membre suppléant et de toutes pièces utiles indiquant que les qualifications et les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N12B7C"></a>
+<a id="art_N12BA0"></a>
 
 ### Art. 127quinquies.
 
@@ -1881,25 +1881,25 @@ Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats
 
 **(2)** La Conférence des Présidents, renforcée conformément aux dispositions de l’article 31 (2) alinéa 3 par les présidents des commissions permanentes ayant dans leurs attributions les institutions, la justice et le règlement, entend tous les candidats, dont la candidature a été jugée recevable, lors d’entretiens individuels.
 
-<a id="art_N12BAC"></a>
+<a id="art_N12BD0"></a>
 
 ### Art. 127sexies.
 
 La liste des candidatures déclarées recevables par la Conférence des Présidents, suivant les dispositions de l’article 127*quinquies* (1), est distribuée aux députés avant la séance publique dont l’ordre du jour comporte le vote des candidats.
 
-<a id="art_N12BCF"></a>
+<a id="art_N12BF3"></a>
 
 ### Art. 127septies.
 
 Avant le vote et au cours d’une séance non publique telle que prévue à l’article 46, la Chambre apprécie l’honorabilité des candidats sur base de l’avis du procureur général d’État. L’avis du procureur général d’État est détruit endéans un délai de 6 mois.
 
-<a id="art_N12BE2"></a>
+<a id="art_N12C06"></a>
 
 ### Art. 127octies.
 
 La liste définitive des candidats est soumise au vote en séance publique. Le scrutin est secret. Le vote par procuration n’est pas permis. Le candidat élu doit avoir atteint la majorité qualifiée des voix.
 
-<a id="art_N12BF5"></a>
+<a id="art_N12C19"></a>
 
 ### Art. 127nonies.
 
@@ -1909,7 +1909,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire.
 
-<a id="art_N12C1D"></a>
+<a id="art_N12C41"></a>
 
 ### Art. 127decies.
 
@@ -1917,7 +1917,7 @@ En cas d’une seule candidature, le candidat doit obtenir la majorité qualifi�
 
 De nouvelles candidatures doivent alors être proposées et la procédure des articles 127*bis* et suivants est recommencée autant de fois que nécessaire.
 
-<a id="art_N12C3C"></a>
+<a id="art_N12C60"></a>
 
 ### Art. 127undecies.
 
@@ -1925,7 +1925,7 @@ Il est procédé à un scrutin séparé pour chaque membre effectif et pour chaq
 
 #### Chapitre 3 — De la procédure de proposition de nomination pour le poste de président, de vice-président ou de conseiller à la Cour des Comptes
 
-<a id="art_N12C5D"></a>
+<a id="art_N12C81"></a>
 
 ### Art. 128.
 
@@ -1937,7 +1937,7 @@ Sont applicables par analogie les articles 117 à 121, 123 à 125 et 127 du Règ
 
 Au cas où un membre de la Cour des Comptes sollicite un renouvellement de sa nomination, la procédure prévue à l’article 125 du Règlement de la Chambre peut être appliquée.
 
-<a id="art_N12C88"></a>
+<a id="art_N12CAC"></a>
 
 ### Art. 129.
 
@@ -1945,7 +1945,7 @@ Il est procédé à un scrutin séparé pour chacun des trois candidats à propo
 
 #### Chapitre 4 — De l’Ombudsman
 
-<a id="art_N12CB3"></a>
+<a id="art_N12CD7"></a>
 
 ### Art. 130.
 
@@ -1953,7 +1953,7 @@ L’Ombudsman est désigné par la Chambre des Députés, siégeant en séance p
 
 L’Ombudsman est nommé pour une durée de huit ans non renouvelable.
 
-<a id="art_N12CD9"></a>
+<a id="art_N12CFD"></a>
 
 ### Art. 131.
 
@@ -1963,7 +1963,7 @@ Les intéressés posent leur candidature par lettre adressée au Président de l
 
 Les Députés peuvent proposer des candidatures par lettre adressée au Président de la Chambre des Députés. Dans ce cas, ils doivent s’assurer au préalable que le candidat accepte la candidature.
 
-<a id="art_N12D08"></a>
+<a id="art_N12D2C"></a>
 
 ### Art. 132.
 
@@ -1973,7 +1973,7 @@ Le Président soumet les candidatures à la Conférence des Présidents, qui les
 
 Les dossiers des candidats sont déposés à l’administration parlementaire et peuvent y être consultés par les membres de la Chambre des Députés.
 
-<a id="art_N12D3D"></a>
+<a id="art_N12D61"></a>
 
 ### Art. 133.
 
@@ -1985,7 +1985,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour aucun candidat n’est désigné à la majorité qualifiée, la procédure des articles 131 et suivants est recommencée autant de fois que nécessaire.
 
-<a id="art_N12D7A"></a>
+<a id="art_N12D9E"></a>
 
 ### Art. 134.
 
@@ -2021,37 +2021,37 @@ La Chambre des Députés siégeant en séance publique peut discuter les conclus
 
 #### Chapitre 5 — Du Centre pour l’égalité de traitement
 
-<a id="art_N12E51"></a>
+<a id="art_N12E75"></a>
 
 ### Art. 135.
 
 Lorsque le Président est informé de la première nomination, du renouvellement ou d’une vacance de président ou de membre du Centre pour l’égalité de traitement créé par la loi du 28 novembre 2006, il en informe les députés lors de la première séance publique. Il communique également la date fixée par lui pour laquelle les candidatures sont à déposer à la Chambre. Ce délai doit être de trois semaines au moins sans pouvoir dépasser trois mois. Il indique également les qualifications à remplir par les candidats, prévues à l’article 11 de la prédite loi. Cette information est encore publiée par voie d’avis officiel par l’administration parlementaire.
 
-<a id="art_N12E79"></a>
+<a id="art_N12E9D"></a>
 
 ### Art. 136.
 
 Les personnes intéressées peuvent adresser leur candidature par simple lettre au Président de la Chambre dans le délai fixé à l’article 135, l’estampille de la poste faisant foi. Les candidatures doivent être accompagnées de notices biographiques et de toutes pièces utiles indiquant que les conditions prévues par la législation applicable sont remplies.
 
-<a id="art_N12E89"></a>
+<a id="art_N12EAD"></a>
 
 ### Art. 137.
 
 Chaque député peut proposer, dans le délai imparti, un ou plusieurs candidats. Dans ce cas, il doit joindre une pièce du candidat acceptant la candidature.
 
-<a id="art_N12EA6"></a>
+<a id="art_N12ECA"></a>
 
 ### Art. 138.
 
 Le Président soumet les candidatures à la Conférence des Présidents qui les examine quant à leur recevabilité.
 
-<a id="art_N12EB6"></a>
+<a id="art_N12EDA"></a>
 
 ### Art. 139.
 
 Toutes les candidatures déclarées recevables par la Conférence des Présidents sont soumises aux députés sur une liste remise avec la convocation de la séance publique dont l’ordre du jour comporte le vote des candidats.
 
-<a id="art_N12ED3"></a>
+<a id="art_N12EF7"></a>
 
 ### Art. 140.
 
@@ -2065,7 +2065,7 @@ En cas d’égalité de voix de plusieurs candidats, il est procédé à un tour
 
 En cas d’égalité de suffrages au ballottage, il est procédé à un tour supplémentaire. Si à ce tour il y a toujours égalité, la nomination se fait par tirage au sort.
 
-<a id="art_N12F07"></a>
+<a id="art_N12F2B"></a>
 
 ### Art. 141.
 
@@ -2077,7 +2077,7 @@ Dans le cas contraire, la candidature est rejetée.
 
 De nouvelles candidatures doivent alors être proposées.
 
-<a id="art_N12F32"></a>
+<a id="art_N12F56"></a>
 
 ### Art. 142.
 
@@ -2085,25 +2085,25 @@ Il est procédé à un scrutin séparé pour le président et les quatre autres 
 
 #### Chapitre 6 — De la procédure de nomination du commissaire aux comptes de la Société Nationale de Crédit et d’Investissement
 
-<a id="art_N12F50"></a>
+<a id="art_N12F74"></a>
 
 ### Art. 143.
 
 Le commissaire aux comptes est nommé par la Chambre des Députés, siégeant en séance publique.
 
-<a id="art_N12F60"></a>
+<a id="art_N12F84"></a>
 
 ### Art. 144.
 
 Un appel de candidatures est publié à deux reprises dans les quotidiens du pays vingt-huit jours au moins avant la date fixée par la Chambre pour la nomination.
 
-<a id="art_N12F70"></a>
+<a id="art_N12F94"></a>
 
 ### Art. 145.
 
 Les candidatures, accompagnées de notices biographiques et de toutes pièces utiles, doivent être adressées au Président de la Chambre au plus tard quinze jours avant la date fixée par l’article 144.
 
-<a id="art_N12F80"></a>
+<a id="art_N12FA4"></a>
 
 ### Art. 146.
 
@@ -2112,19 +2112,19 @@ Les candidats doivent :
 1. être de nationalité luxembourgeoise ;
 2. remplir les conditions requises pour l’exercice de la profession de réviseur d’entreprise.
 
-<a id="art_N12F9B"></a>
+<a id="art_N12FBF"></a>
 
 ### Art. 147.
 
 La Conférence des Présidents, à laquelle le Président de la Chambre soumet les candidatures, les examine quant à leur recevabilité et soumet la liste des candidatures retenues à la Chambre huit jours avant la date fixée par l’article 144.
 
-<a id="art_N12FAB"></a>
+<a id="art_N12FCF"></a>
 
 ### Art. 148.
 
 Les dossiers des candidats sont déposés à l’administration parlementaire et peuvent y être consultés par les membres de la Chambre.
 
-<a id="art_N12FBB"></a>
+<a id="art_N12FDF"></a>
 
 ### Art. 149.
 
@@ -2132,13 +2132,13 @@ La nomination du commissaire aux comptes se fait à la majorité absolue, les bu
 
 À partir du troisième tour, auquel ne participent que les deux candidats ayant obtenu le plus de suffrages dans le tour précédent, la majorité relative suffit. En cas d’égalité de suffrages, un tour supplémentaire est requis.
 
-<a id="art_N12FD4"></a>
+<a id="art_N12FF8"></a>
 
 ### Art. 150.
 
 Les candidats sont informés des résultats des votes par le Président de la Chambre.
 
-<a id="art_N12FE4"></a>
+<a id="art_N13008"></a>
 
 ### Art. 151.
 
@@ -2146,13 +2146,13 @@ Le commissaire aux comptes est nommé pour un terme de trois ans; sa nomination 
 
 Il peut être révoqué par la Chambre à tout moment ; la demande de révocation doit être introduite par un ou plusieurs députés et recueillir la majorité absolue des suffrages, les bulletins nuls et blancs ne comptant pas pour le calcul de cette majorité.
 
-<a id="art_N12FFD"></a>
+<a id="art_N13021"></a>
 
 ### Art. 152.
 
 L’indemnité du commissaire aux comptes est fixée par les ministres compétents désignés par la loi modifiée du 2 août 1977 portant création d’une Société Nationale de Crédit et d’Investissement, et est supportée par la Société Nationale.
 
-<a id="art_N13013"></a>
+<a id="art_N13037"></a>
 
 ### Art. 153.
 
@@ -2160,7 +2160,7 @@ Le commissaire aux comptes contrôle, aussi souvent qu’il le juge utile, mais 
 
 Il procède, aussi souvent qu’il le juge convenir, à des vérifications totales ou partielles des valeurs et titres conservés par la Société Nationale.
 
-<a id="art_N1302C"></a>
+<a id="art_N13050"></a>
 
 ### Art. 154.
 
@@ -2168,7 +2168,7 @@ Le commissaire aux comptes fait rapport une fois par an au moins à la Chambre s
 
 Le rapport est examiné par la Commission des Finances et du Budget qui soumet son avis à la Chambre.
 
-<a id="art_N13045"></a>
+<a id="art_N13069"></a>
 
 ### Art. 155.
 
@@ -2176,7 +2176,7 @@ Tous les trois mois, le commissaire aux comptes fait un rapport intérimaire qui
 
 Le commissaire aux comptes est convoqué par la Conférence des Présidents lorsque celle-ci le juge nécessaire. Il est entendu par la même commission lorsqu’il le demande.
 
-<a id="art_N1305E"></a>
+<a id="art_N13082"></a>
 
 ### Art. 156.
 
@@ -2184,7 +2184,7 @@ En cas de démission, de décès ou de révocation, il est procédé à la nomin
 
 #### Chapitre 7 — De la procédure de désignation de deux membres du conseil national des finances publiques
 
-<a id="art_N1307C"></a>
+<a id="art_N130A0"></a>
 
 ### Art. 157.
 
@@ -2198,7 +2198,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 #### Chapitre 8 — De la procédure de désignation de deux députés comme membres du comité d’évaluation institué par la loi du 23 juillet 2016 portant mise en place d’un statut spécifique pour certaines données à caractère personnel traitées par le Service de renseignement de l’État
 
-<a id="art_N130BB"></a>
+<a id="art_N130DF"></a>
 
 ### Art. 158.
 
@@ -2212,7 +2212,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 #### Chapitre 9 — De l’Ombudsman fir Kanner a Jugendlecher
 
-<a id="art_N130FA"></a>
+<a id="art_N1311E"></a>
 
 ### Art. 159.
 
@@ -2220,7 +2220,7 @@ La procédure prévue aux articles 130 à 133 relatifs à l’Ombudsman est appl
 
 Les candidatures doivent être accompagnées de notices biographiques et de toutes pièces utiles indiquant que les qualifications requises par l’article 13 de la loi du 1er avril 2020 instituant l’Ombudsman fir Kanner a Jugendlecher sont remplies.
 
-<a id="art_N1311C"></a>
+<a id="art_N13140"></a>
 
 ### Art. 160.
 
@@ -2237,7 +2237,7 @@ Le scrutin est secret. Le vote par procuration n’est pas admis.
 
 La procédure prévue aux alinéas 2 à 8 de l’article 134 (3) relatif à l’Ombudsman est applicable, lorsque la révocation de l’Ombudsman fir Kanner a Jugendlecher a été demandée.
 
-<a id="art_N13184"></a>
+<a id="art_N131A8"></a>
 
 ### Art. 161.
 
@@ -2245,7 +2245,7 @@ La procédure prévue aux alinéas 2 à 8 de l’article 134 (3) relatif à l’
 
 **(2)** En application de l’article 8 (2) de la loi de la loi du 1er avril 2020 instituant l’Ombudsman fir Kanner a Jugendlecher, l’Ombudsman fir Kanner a Jugendlecher peut être entendu par la commission compétente, lorsqu’il le demande. La commission compétente peut aussi demander à entendre l’Ombudsman fir Kanner a Jugendlecher, lorsqu’elle le juge nécessaire.
 
-<a id="art_N131C0"></a>
+<a id="art_N131E4"></a>
 
 ### Art. 162.
 
@@ -2253,7 +2253,7 @@ L’Ombudsman fir Kanner a Jugendlecher présente annuellement un rapport sur la
 
 #### Chapitre 10 — De la procédure de désignation d’un député comme membre de la commission de suivi de la convention portant sur la prestation du service public luxembourgeois en matière de télévision
 
-<a id="art_N131DE"></a>
+<a id="art_N13202"></a>
 
 ### Art. 163.
 
@@ -2267,7 +2267,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 #### Chapitre 11 — Des pétitions
 
-<a id="art_N13224"></a>
+<a id="art_N13248"></a>
 
 ### Art. 164.
 
@@ -2277,7 +2277,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 **(3)** Il est fait mention des pétitions ordinaires et publiques nouvellement déposées ou introduites dans les communications que le Président fait à la Chambre lors d’une séance publique.
 
-<a id="art_N13268"></a>
+<a id="art_N1328C"></a>
 
 ### Art. 165.
 
@@ -2307,7 +2307,7 @@ Le Président de la Chambre peut accorder un délai supplémentaire d’un mois.
 
 À défaut de réponse du Ministre à une demande de la Commission des Pétitions dans le délai prescrit, le membre du Gouvernement concerné est invité pour une prise de position orale à la Commission des Pétitions.
 
-<a id="art_N13330"></a>
+<a id="art_N13354"></a>
 
 ### Art. 166.
 
@@ -2351,13 +2351,13 @@ Les signatures fournies sur papier ne sont pas publiées sur le site Internet de
 
 #### Chapitre 12 — Des rapports de la Chambre avec le Grand-Duc, la Cour des Comptes et le Conseil d’État
 
-<a id="art_N13440"></a>
+<a id="art_N13464"></a>
 
 ### Art. 167.
 
 Les rapports de la Chambre avec le Grand-Duc et la Cour des Comptes ont lieu par l’intermédiaire du Président de la Chambre.
 
-<a id="art_N13450"></a>
+<a id="art_N13474"></a>
 
 ### Art. 168.
 
@@ -2365,7 +2365,7 @@ Les rapports de la Chambre avec le Conseil d’État ont lieu par l’intermédi
 
 #### Chapitre 13 — Du contrôle et de l’apurement des comptes de la Cour des Comptes, de l’Ombudman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher
 
-<a id="art_N1346E"></a>
+<a id="art_N13492"></a>
 
 ### Art. 169.
 
@@ -2377,7 +2377,7 @@ L’apurement des comptes de la Cour, de l’Ombudsman, du Centre pour l’égal
 
 #### Chapitre 14 — De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre
 
-<a id="art_N1349E"></a>
+<a id="art_N134C2"></a>
 
 ### Art. 170.
 
@@ -2399,7 +2399,7 @@ Durant une période transitoire dont la durée est fixée par le Bureau, la Cham
 
 En cas de départ à la retraite du Secrétaire général, ce dernier peut prendre son congé restant suite à la période transitoire, tout en gardant le titre de Secrétaire général et en restant classé au grade prévu à l’article 12. 1. b) 2° du régime des traitements des fonctionnaires de la Chambre des Députés. Le Secrétaire général nouvellement élu exerce la fonction de Secrétaire général et est classé au même grade.
 
-<a id="art_N13527"></a>
+<a id="art_N1354B"></a>
 
 ### Art. 171.
 
@@ -2411,7 +2411,7 @@ En cas de départ à la retraite du Secrétaire général, ce dernier peut prend
 
 **(4)** En cas d’absence du Secrétaire général, celui-ci est remplacé par un des Secrétaires généraux adjoints désigné par lui.
 
-<a id="art_N1356E"></a>
+<a id="art_N13592"></a>
 
 ### Art. 172.
 
@@ -2425,7 +2425,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 15 — Du compte rendu
 
-<a id="art_N135C1"></a>
+<a id="art_N135E5"></a>
 
 ### Art. 173.
 
@@ -2435,7 +2435,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 16 — De la retransmission des séances publiques
 
-<a id="art_N135F9"></a>
+<a id="art_N1361D"></a>
 
 ### Art. 174.
 
@@ -2443,13 +2443,13 @@ Les séances publiques de la Chambre des Députés peuvent être retransmises in
 
 #### Chapitre 17 — De la comptabilité
 
-<a id="art_N13617"></a>
+<a id="art_N1363B"></a>
 
 ### Art. 175.
 
 La gestion des finances de la Chambre est effectuée par l’administration parlementaire sous la direction du secrétaire général et la surveillance et la responsabilité du Bureau.
 
-<a id="art_N13627"></a>
+<a id="art_N1364B"></a>
 
 ### Art. 176.
 
@@ -2465,13 +2465,13 @@ La gestion des finances de la Chambre est effectuée par l’administration parl
 
 #### Chapitre 18 — Des devoirs des députés
 
-<a id="art_N1368C"></a>
+<a id="art_N136B0"></a>
 
 ### Art. 177.
 
 Les députés exercent leur mandat de façon indépendante. Ils ne peuvent être liés par des instructions ni recevoir de mandat impératif.
 
-<a id="art_N1369C"></a>
+<a id="art_N136C0"></a>
 
 ### Art. 178.
 
@@ -2481,7 +2481,7 @@ Les députés respectent les dispositions du Chapitre 18*bis* relatif au registr
 
 #### Chapitre 18*bis* — Le Registre de transparence
 
-<a id="art_N136CC"></a>
+<a id="art_N136F0"></a>
 
 ### Art. 178bis.
 
@@ -2530,7 +2530,7 @@ Les informations relatives au nom, à la forme juridique et au nom du tiers repr
 
 #### Chapitre 19 — Des affaires européennes
 
-<a id="art_N137B2"></a>
+<a id="art_N137D6"></a>
 
 ### Art. 179.
 
@@ -2560,7 +2560,7 @@ Au cas où aucune séance publique n’est convoquée en temps utile pour respec
 
 #### Chapitre 20 — De la police de la Chambre et des tribunes
 
-<a id="art_N13864"></a>
+<a id="art_N13888"></a>
 
 ### Art. 180.
 
@@ -2588,13 +2588,13 @@ Tous signes d’approbation ou d’improbation sont interdits.
 
 #### Chapitre 21 — De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre
 
-<a id="art_N13917"></a>
+<a id="art_N1393B"></a>
 
 ### Art. 181.
 
 Il est constitué pour chaque demande d’arrestation d’un membre de la Chambre une commission spéciale, conformément aux dispositions du chapitre 5, titre I, du Règlement de la Chambre.
 
-<a id="art_N13927"></a>
+<a id="art_N1394B"></a>
 
 ### Art. 182.
 
@@ -2602,31 +2602,31 @@ Les règles applicables au fonctionnement de la commission sont celles prévues 
 
 Le membre de la commission ne peut toutefois pas se faire remplacer.
 
-<a id="art_N13940"></a>
+<a id="art_N13964"></a>
 
 ### Art. 183.
 
 La commission informe le membre intéressé et l’entend en ses explications. Il peut se faire assister ou représenter par un de ses collègues.
 
-<a id="art_N13950"></a>
+<a id="art_N13974"></a>
 
 ### Art. 184.
 
 La commission fait rapport à la Chambre sous forme d’une proposition de résolution. Le rapport sera examiné par la Chambre en séance non publique.
 
-<a id="art_N13960"></a>
+<a id="art_N13984"></a>
 
 ### Art. 185.
 
 Le vote se fera par bulletins secrets. Chaque député participant au vote peut représenter un collègue absent, moyennant procuration écrite.
 
-<a id="art_N13970"></a>
+<a id="art_N13994"></a>
 
 ### Art. 186.
 
 La décision d’accord ou de refus d’arrestation d’un député prise par la Chambre sera annoncée à la prochaine séance publique.
 
-<a id="art_N13980"></a>
+<a id="art_N139A4"></a>
 
 ### Art. 187.
 
@@ -2634,25 +2634,25 @@ En cas de rejet d’une demande d’arrestation d’un membre de la Chambre, auc
 
 #### Chapitre 22 — De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution
 
-<a id="art_N1399E"></a>
+<a id="art_N139C2"></a>
 
 ### Art. 188.
 
 Un projet ou une proposition de révision de la Constitution, adoptés en première lecture par la Chambre des Députés, sont soumis à un référendum qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite par plus d’un quart des membres de la Chambre, selon les dispositions qui suivent.
 
-<a id="art_N139B3"></a>
+<a id="art_N139D7"></a>
 
 ### Art. 189.
 
 Chaque député a le droit de faire une demande d’organisation d’un référendum tel que prévu à l’article 131, alinéa 3 de la Constitution.
 
-<a id="art_N139C8"></a>
+<a id="art_N139EC"></a>
 
 ### Art. 190.
 
 Le député initiateur qui veut faire une telle demande d’organiser un référendum doit la signer et la déposer sur le bureau de la Chambre.
 
-<a id="art_N139D8"></a>
+<a id="art_N139FC"></a>
 
 ### Art. 191.
 
@@ -2663,19 +2663,19 @@ Le député initiateur qui veut faire une telle demande d’organiser un référ
 1. l’intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des Députés en première lecture ;
 2. les signatures manuscrites des députés préqualifiés.
 
-<a id="art_N13A0A"></a>
+<a id="art_N13A2E"></a>
 
 ### Art. 192.
 
 La Conférence des Présidents décide dans la huitaine de la saisine si ladite demande satisfait aux exigences fixées par le présent règlement.
 
-<a id="art_N13A1A"></a>
+<a id="art_N13A3E"></a>
 
 ### Art. 193.
 
 La demande d’organiser un référendum, dont la recevabilité et la régularité ont été vérifiées et constatées par la Conférence des Présidents, est transmise au Gouvernement, qui doit organiser un référendum endéans un délai de six mois, conformément à l’article 20 de la loi du 4 février 2005 relative au référendum au niveau national.
 
-<a id="art_N13A30"></a>
+<a id="art_N13A54"></a>
 
 ### Art. 194.
 
@@ -2683,31 +2683,31 @@ L’organisation de ce référendum se fait conformément aux dispositions de la
 
 #### Chapitre 23 — L’octroi du titre honorifique aux anciens députés
 
-<a id="art_N13A54"></a>
+<a id="art_N13A78"></a>
 
 ### Art. 195.
 
 Le titre de député honoraire peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins quatre ans de mandat parlementaire.
 
-<a id="art_N13A64"></a>
+<a id="art_N13A88"></a>
 
 ### Art. 196.
 
 Le titre de Président d’honneur de la Chambre des Députés peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins une année de présidence.
 
-<a id="art_N13A74"></a>
+<a id="art_N13A98"></a>
 
 ### Art. 197.
 
 Les titres sont conférés par la Chambre siégeant en séance plénière, sur proposition du Bureau.
 
-<a id="art_N13A84"></a>
+<a id="art_N13AA8"></a>
 
 ### Art. 198.
 
 Une carte d’identité, analogue à celle du député en exercice, portant la mention « Président d’honneur » ou « député honoraire », est délivrée au Président d’honneur et au député honoraire.
 
-<a id="art_N13A94"></a>
+<a id="art_N13AB8"></a>
 
 ### Art. 199.
 
@@ -2715,7 +2715,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 #### Chapitre 24 — De la vérification des pouvoirs relative au Parlement européen
 
-<a id="art_N13AB2"></a>
+<a id="art_N13AD6"></a>
 
 ### Art. 200.
 
@@ -2728,7 +2728,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 **(2)** Les quatre formalités exigées au paragraphe qui précède doivent être accomplies quatre jours au plus tard avant la réunion en séance publique de la Chambre au cours de laquelle les pouvoirs des candidats élus aux élections européennes sont vérifiés. Toutefois, lorsque ces formalités ne peuvent être accomplies dans le délai prévu en raison de circonstances indépendantes de la volonté des candidats élus, elles doivent être satisfaites dans les meilleurs délais et au plus tard un jour avant la réunion en séance publique au cours de laquelle leurs pouvoirs sont vérifiés.
 
-<a id="art_N13B07"></a>
+<a id="art_N13B2B"></a>
 
 ### Art. 201.
 
@@ -2752,7 +2752,7 @@ Après le vote par scrutin secret, il est procédé en commission à un vote par
 
 Lorsque la Chambre décide d’examiner séparément la validité des pouvoirs d’un candidat élu, les dispositions des alinéas 2 et 3 de l’article 201 (4), qui déterminent les modes de scrutin et l’effet des votes séparés, sont appliqués par analogie. Le vote par procuration n’est pas permis à l’occasion du vote par scrutin secret en séance.
 
-<a id="art_N13B95"></a>
+<a id="art_N13BB9"></a>
 
 ### Art. 202.
 
@@ -2776,7 +2776,7 @@ Dans le cas où la Chambre décide que le membre du Parlement européen concern�
 
 Dans le cas où la Chambre décide que des membres du Parlement européen sont frappés par les incompatibilités liées à la parenté ou à l’alliance, l’un des membres du Parlement européen concernés est appelé à renoncer volontairement à son mandat. Faute d’un renoncement volontaire, il est procédé en séance publique à un tirage au sort, et le membre du Parlement européen dont le nom est tiré au sort doit cesser son mandat. Le Président de la Chambre informe le Président du Parlement européen de ce que le membre du Parlement européen, qui a renoncé volontairement à son mandat ou qui, le cas échéant, a été tiré au sort, est déchu de son mandat.
 
-<a id="art_N13C29"></a>
+<a id="art_N13C4D"></a>
 
 ### Art. 203.
 
@@ -2790,7 +2790,7 @@ En cas de doute ou de contestation sur une candidature du suppléant aux électi
 
 **(4)** Les conclusions adoptées par la Chambre relativement à l’identité du suppléant appelé à occuper le siège vacant au Parlement européen sont transmises par le Président de la Chambre au Président du Parlement européen.
 
-<a id="art_N13C7C"></a>
+<a id="art_N13CA0"></a>
 
 ### Art. 203bis.
 
@@ -2798,7 +2798,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 25 — Des changements au Règlement
 
-<a id="art_N13C9D"></a>
+<a id="art_N13CC1"></a>
 
 ### Art. 204.
 
@@ -2806,7 +2806,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 **(2)** La proposition est transmise à la Conférence des Présidents, qui en saisit la Commission du Règlement.
 
-<a id="art_N13CC4"></a>
+<a id="art_N13CE8"></a>
 
 ### Art. 205.
 
@@ -2822,7 +2822,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 26 — Disposition transitoire
 
-<a id="art_N13D29"></a>
+<a id="art_N13D4D"></a>
 
 ### Art. 206.
 
@@ -2830,7 +2830,7 @@ Les modifications au présent règlement entrent en vigueur la séance publique 
 
 #### Chapitre 27 — Disposition finale
 
-<a id="art_N13D47"></a>
+<a id="art_N13D6B"></a>
 
 ### Art. 207.
 
@@ -2846,7 +2846,7 @@ Le présent Règlement est publié au Journal officiel.
 
 ### **Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.**
 
-<a id="art_N1B03E"></a>
+<a id="art_N1B062"></a>
 
 ### Art. 2.
 
@@ -2854,13 +2854,13 @@ Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parle
 
 Il est fondé sur les principes d’un État de droit et sur le respect des droits de l’Homme.
 
-<a id="art_N1B081"></a>
+<a id="art_N1B0A5"></a>
 
 ### Art. 49.
 
 Le Grand-Duc promulgue les lois dans les trois mois de leur adoption par la Chambre des Députés.
 
-<a id="art_N1B0BB"></a>
+<a id="art_N1B0DF"></a>
 
 ### Art. 56.
 
@@ -2874,7 +2874,7 @@ Lorsque des circonstances exceptionnelles le commandent, la Chambre des Député
 
 **(4)** L’abdication du Grand-Duc requiert la forme d’un acte écrit qui est irrévocable.
 
-<a id="art_N1B135"></a>
+<a id="art_N1B159"></a>
 
 ### Art. 62.
 
@@ -2882,7 +2882,7 @@ La Chambre des Députés représente le pays. Elle exerce le pouvoir législatif
 
 Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que l’intérêt général.
 
-<a id="art_N1B178"></a>
+<a id="art_N1B19C"></a>
 
 ### Art. 63.
 
@@ -2903,7 +2903,7 @@ Le vote est obligatoire et secret. Ses modalités sont déterminées par la loi.
 
 Une loi adoptée à la majorité qualifiée fixe le nombre des députés à élire dans chacune des circonscriptions.
 
-<a id="art_N1B20C"></a>
+<a id="art_N1B230"></a>
 
 ### Art. 64.
 
@@ -2913,7 +2913,7 @@ Une loi adoptée à la majorité qualifiée fixe le nombre des députés à éli
 
 **(3)** Les juridictions peuvent, dans les cas prévus par la loi, prononcer l’interdiction du droit de vote et d’éligibilité.
 
-<a id="art_N1B26D"></a>
+<a id="art_N1B291"></a>
 
 ### Art. 65.
 
@@ -2921,7 +2921,7 @@ Le mandat de député est incompatible avec la fonction de membre du Gouvernemen
 
 Cette même incompatibilité s’applique aux emplois et fonctions publics à déterminer par une loi adoptée à la majorité qualifiée. Elle peut être étendue à d’autres mandats politiques à déterminer par une loi adoptée à la majorité qualifiée.
 
-<a id="art_N1B2B0"></a>
+<a id="art_N1B2D4"></a>
 
 ### Art. 66.
 
@@ -2935,7 +2935,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(3)** Les personnes qui se trouvent dans un cas d’incompatibilité ont le droit d’opter entre le mandat de député et leur emploi ou activité.
 
-<a id="art_N1B323"></a>
+<a id="art_N1B347"></a>
 
 ### Art. 67.
 
@@ -2949,7 +2949,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(5)** La réunion en séance publique de la Chambre des Députés issue des élections au sens du paragraphe 1er fait cesser les fonctions de la Chambre des Députés issue des élections précédentes.
 
-<a id="art_N1B3A7"></a>
+<a id="art_N1B3CB"></a>
 
 ### Art. 68.
 
@@ -2957,19 +2957,19 @@ La Chambre des Députés détermine par son Règlement le mode suivant lequel el
 
 Le Règlement de la Chambre des Députés détermine les mesures d’exécution des lois qui concernent son organisation.
 
-<a id="art_N1B3F4"></a>
+<a id="art_N1B418"></a>
 
 ### Art. 69.
 
 La Chambre des Députés nomme son président et ses vice-présidents et compose son bureau.
 
-<a id="art_N1B42E"></a>
+<a id="art_N1B452"></a>
 
 ### Art. 70.
 
 Les séances de la Chambre des Députés sont publiques, sauf les exceptions à déterminer par son Règlement.
 
-<a id="art_N1B46D"></a>
+<a id="art_N1B491"></a>
 
 ### Art. 71.
 
@@ -2979,13 +2979,13 @@ Toute décision, toute résolution, toute motion est prise à la majorité des s
 
 Les décisions et les résolutions dont l’adoption requiert la majorité qualifiée en vertu de la Constitution doivent réunir au moins les deux tiers des suffrages des députés, le vote par procuration n’étant pas admis.
 
-<a id="art_N1B4B9"></a>
+<a id="art_N1B4DD"></a>
 
 ### Art. 72.
 
 Le Règlement de la Chambre des Députés détermine les règles de majorité pour la désignation de personnes à des mandats ou fonctions à laquelle procède la Chambre des Députés.
 
-<a id="art_N1B4F8"></a>
+<a id="art_N1B51C"></a>
 
 ### Art. 73.
 
@@ -2997,13 +2997,13 @@ Les nouvelles élections ont lieu au plus tard dans les trois mois.
 
 Le Grand-Duc ne peut pas fixer des élections anticipées pendant l’état de crise.
 
-<a id="art_N1B54D"></a>
+<a id="art_N1B571"></a>
 
 ### Art. 74.
 
 Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent être entendus quand ils le demandent.
 
-<a id="art_N1B587"></a>
+<a id="art_N1B5AB"></a>
 
 ### Art. 75.
 
@@ -3016,19 +3016,19 @@ Aux fins d’exercer les missions prévues à l’article 62, la Chambre des Dé
 
 L’exercice de ces prérogatives est organisé par le Règlement de la Chambre des Députés.
 
-<a id="art_N1B5E0"></a>
+<a id="art_N1B604"></a>
 
 ### Art. 76.
 
 Le Gouvernement dépose à la Chambre des Députés des projets de loi.
 
-<a id="art_N1B61A"></a>
+<a id="art_N1B63E"></a>
 
 ### Art. 77.
 
 Chaque député a le droit de soumettre des propositions de loi à la Chambre des Députés.
 
-<a id="art_N1B654"></a>
+<a id="art_N1B678"></a>
 
 ### Art. 78.
 
@@ -3042,7 +3042,7 @@ Chaque député a le droit de soumettre des propositions de loi à la Chambre de
 
 **(4)** Toutes les lois sont soumises à un second vote, à moins que la Chambre des Députés, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. Il y aura un intervalle d’au moins trois mois entre les deux votes.
 
-<a id="art_N1B6CE"></a>
+<a id="art_N1B6F2"></a>
 
 ### Art. 79.
 
@@ -3050,13 +3050,13 @@ La Chambre des Députés se prononce en séance publique sur les propositions mo
 
 La loi règle l’exercice de ce droit d’initiative législative.
 
-<a id="art_N1B711"></a>
+<a id="art_N1B735"></a>
 
 ### Art. 80.
 
 La Chambre des Députés peut décider d’avoir recours au référendum dans les cas, sous les conditions et avec les effets à déterminer par la loi.
 
-<a id="art_N1B74B"></a>
+<a id="art_N1B76F"></a>
 
 ### Art. 81.
 
@@ -3064,13 +3064,13 @@ La Chambre des Députés a le droit d’enquête. La loi règle l’exercice de 
 
 Une commission d’enquête doit être instituée si un tiers au moins des députés le demande.
 
-<a id="art_N1B78E"></a>
+<a id="art_N1B7B2"></a>
 
 ### Art. 82.
 
 La Chambre des Députés reçoit les pétitions qui lui sont adressées dans la forme prescrite par son Règlement.
 
-<a id="art_N1B7CD"></a>
+<a id="art_N1B7F1"></a>
 
 ### Art. 83.
 
@@ -3078,13 +3078,13 @@ L’Ombudsman est nommé par le Grand-Duc sur proposition de la Chambre des Dép
 
 Les attributions et les règles de fonctionnement de l’Ombudsman et les relations avec la Chambre des Députés sont déterminées par la loi.
 
-<a id="art_N1B810"></a>
+<a id="art_N1B834"></a>
 
 ### Art. 84.
 
 Aucune action, ni civile ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
 
-<a id="art_N1B84A"></a>
+<a id="art_N1B86E"></a>
 
 ### Art. 85.
 
@@ -3094,7 +3094,7 @@ Cependant, l’arrestation d’un député est, sauf le cas de flagrant délit, 
 
 Une autorisation de la Chambre des Députés n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
 
-<a id="art_N1B896"></a>
+<a id="art_N1B8BA"></a>
 
 ### Art. 86.
 
