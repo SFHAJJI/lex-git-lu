@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-logement:2024-06-10
+lex_id: lu-legilux:recueil-logement:2024-08-01
 title: Logement
-valid_from: 2024-06-10
-valid_to: 2024-07-31
-source: https://legilux.public.lu/eli/etat/leg/recueil/logement/20240610/fr
-source_sha256: 8820843c1803460fdf5b3d3d4aac22e80bb837e3a13a755db6bdce228e7d9930
+valid_from: 2024-08-01
+valid_to: 2024-12-05
+source: https://legilux.public.lu/eli/etat/leg/recueil/logement/20240801/fr
+source_sha256: 7f256dd2da4aafcce08633172626a4393de03c0b16f9aecf85ce50efc6ed9360
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -4182,7 +4182,7 @@ Notre ministre ayant le Logement dans ses attributions est chargé de l’exécu
 
 ## IV. BAIL À LOYER ET SALUBRITÉ
 
-### 1. Version consolidée applicable au 01/01/2020 : Loi du 21 septembre 2006 sur le **bail à usage d’habitation** et modifiant certaines dispositions du Code civil.
+### Version consolidée applicable au 01/08/2024 : Loi du 21 septembre 2006 sur le **bail à usage d’habitation** et modifiant certaines dispositions du Code civil.
 
 #### Chapitre Ier. — Dispositions générales
 
@@ -4192,7 +4192,7 @@ Notre ministre ayant le Logement dans ses attributions est chargé de l’exécu
 
 **(1)** Les baux à usage d’habitation sont régis par les articles 1713 à 1762-2 du Code civil sous réserve des règles particulières instituées par la présente loi.
 
-**(2)** Sous réserve des dispositions des articles 16 à 18, la présente loi s’applique exclusivement à la location, par un contrat de bail écrit ou verbal, de logements à usage d’habitation à des personnes physiques, quelle que soit l’affectation stipulée dans le contrat de bail, sauf opposition justifiée par le bailleur en cas de réaffectation par le locataire en cours de contrat.
+**(2)** Sous réserve des dispositions des articles 16 à 18, la présente loi s’applique exclusivement à la location , de logements à usage d’habitation à des personnes physiques, quelle que soit l’affectation stipulée dans le contrat de bail, sauf opposition justifiée par le bailleur en cas de réaffectation par le locataire en cours de contrat.
 
 **(3)** La loi ne s’applique pas:
 
@@ -4208,7 +4208,7 @@ Toutefois, pour les immeubles visés au point a), les dispositions prévues par 
 
 Les articles 3 à 11 et 15 ne s’appliquent pas aux logements locatifs prévus par les articles 27 à 30ter de la loi modifiée du 25 février 1979 concernant l’aide au logement. Toutefois, ils sont applicables aux logements locatifs désignés à l’article 28, alinéa 4, de la loi modifiée du 25 février 1979 concernant l’aide au logement.
 
-<a id="art_N1A6D7"></a>
+<a id="art_N1A6E6"></a>
 
 ### Art. 2.
 
@@ -4216,13 +4216,89 @@ Toute cession de bail portant sur des baux à usage d’habitation n’est inter
 
 Les dispositions des articles 3 à 11 s’appliquent également aux relations entre locataires principaux et sous-locataires ou cessionnaires.
 
+#### Chapitre I*bis * — De la colocation
+
+<a id="art_N1A737"></a>
+
+### Art. 2bis.
+
+La colocation désigne la location d’un même logement par plusieurs locataires, appelés colocataires, qui optent, avec l’accord exprès du bailleur, pour l’application des règles spécifiques de la colocation en signant au plus tard à la date de signature du contrat de bail un pacte de colocation tel que prévu par l’article 2*ter*, et est formalisée par la conclusion par écrit d’un contrat de bail unique entre les locataires et le bailleur, dans lequel la date de signature dudit pacte est reprise. Le logement pris en location comprend au minimum une pièce d’habitation ou un local sanitaire qui soit commun à tous les colocataires.
+
+La location consentie exclusivement à des époux ou à des partenaires liés par un partenariat tel que prévu par la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats n’est pas à considérer comme une colocation.
+
+Les dispositions prévues par le présent chapitre sont d’ordre public.
+
+Une colocation peut également être conclue si le bailleur habite lui-même dans l’immeuble dont une partie est mise en location via un contrat de bail. Dans cette hypothèse, le bailleur occupant, qui n’est pas lui-même un colocataire, indique dans le contrat de bail le montant de sa part dans les frais de la vie en colocation.
+
+<a id="art_N1A790"></a>
+
+### Art. 2ter.
+
+**(1)** Les colocataires établissent par écrit un pacte de colocation afin de formaliser les aspects de la vie en communauté et les modalités pratiques de cette forme de location.
+
+**(2)** Le pacte prévoit des dispositions réglant au minimum les points suivants :
+
+1. la répartition du loyer entre colocataires lorsque celle-ci n’est pas prévue par le contrat de bail ;
+2. la répartition des charges communes entre colocataires ;
+3. l’inventaire des biens meubles précisant leur propriétaire ;
+4. les modalités de conclusion des contrats d’approvisionnement et d’assurance relatifs au bien loué ;
+5. les modalités d’arrivée, de départ et de remplacement d’un colocataire, y compris la forme de notification du congé aux autres colocataires ;
+6. les conditions de constitution et de récupération de la garantie locative ;
+7. les modalités de résolution des conflits entre les colocataires.
+
+Le pacte prévoit en outre l’obligation de procéder à un état des lieux intermédiaire lors du départ anticipé d’un colocataire afin de déterminer les responsabilités de chacun et de ventiler les frais de réparation locative.
+
+**(3)** En cas de départ anticipé d’un colocataire, une adaptation du pacte est signée par les autres colocataires.
+
+À l’arrivée d’un nouveau colocataire, celui-ci signe un avenant au pacte de colocation conjointement avec les autres colocataires.
+
+**(4)** Les obligations découlant du contrat de bail pour lequel ledit pacte ne prévoit pas leur répartition entre les différents colocataires sont à répartir à parts égales entre les différents colocataires.
+
+<a id="art_N1A829"></a>
+
+### Art. 2quater.
+
+Les colocataires sont tenus solidairement vis-à-vis du bailleur des obligations qui résultent du contrat de bail.
+
+<a id="art_N1A85E"></a>
+
+### Art. 2quinquies.
+
+**(1)** Lorsque l’ensemble des colocataires mettent fin au bail en même temps, le congé est signé par chacun d’entre eux et notifié au bailleur par lettre recommandée avec avis de réception. Le délai de résiliation est de trois mois.
+
+**(2)** Lorsqu’un colocataire souhaite se libérer de ses obligations avant le terme du bail, il le notifie simultanément au bailleur et à ses colocataires moyennant un préavis de trois mois. La notification au bailleur est faite par lettre recommandée avec avis de réception.
+
+Ce colocataire est tenu, avant l’expiration de son préavis, de chercher un colocataire remplaçant, selon les modalités définies dans le pacte de colocation visé à l’article 2*ter*. Les autres colocataires ou le bailleur peuvent également proposer un candidat remplaçant. À défaut d’avoir présenté un candidat remplaçant, le colocataire sortant doit pouvoir démontrer avoir effectué une recherche active et suffisante en vue de trouver un nouveau colocataire. La publication dans la quinzaine du début du préavis d’une annonce en vue de la recherche d’un colocataire remplaçant dans deux médias publiant des offres immobilières relatives au marché luxembourgeois est à considérer comme une recherche active et suffisante au sens du présent article.
+
+**(3)** Lorsque l’ensemble des parties marquent leur accord sur un nouveau colocataire, elles signent conjointement avec ce dernier un avenant au contrat de bail initial.
+
+**(4)** Lorsqu’au moins la moitié des colocataires signataires du bail ont donné leur congé dans un intervalle de trois mois, le bailleur peut mettre fin au contrat de bail dans un délai d’un mois à partir de la notification du dernier congé d’un colocataire concerné, et ce moyennant un délai de résiliation de trois mois, par lettre recommandée avec avis de réception, adressée à chaque colocataire.
+
+<a id="art_N1A8D6"></a>
+
+### Art. 2sexies.
+
+Le colocataire sortant est délié pour le futur de ses obligations résultant du contrat de bail ou du pacte de colocation :
+
+1. quinquies
+2. quinquies
+3. ou au plus tard à l’expiration d’un délai de trois mois après la date d’expiration du préavis.
+
+L’engagement de la personne qui s’est portée initialement caution pour le colocataire sortant s’éteint à la même date.
+
 #### Chapitre II. — De la fixation du loyer et des charges
 
-<a id="art_N1A723"></a>
+<a id="art_N1A93F"></a>
 
 ### Art. 3.
 
 **(1)** La location d’un logement à usage d’habitation ne peut rapporter au bailleur un revenu annuel dépassant un taux de 5 % du capital investi dans le logement.
+
+Le montant de la somme des loyers perçus pour un logement de l’ensemble des colocataires conformément au chapitre I*bis* ne peut être supérieur au montant du loyer maximal déterminé conformément à l’alinéa 1er.
+
+Le montant de la somme des loyers payés par les locataires dans le cadre d’une location à baux multiples d’un immeuble ou d’une partie d’immeuble comprenant deux ou plusieurs chambres ou logements loués individuellement à des locataires indépendants les uns des autres ne peut être supérieur à la limite du loyer annuel maximal prévu à l’alinéa 1er.
+
+Dans le cas d’un logement meublé, le bailleur peut demander chaque mois, en plus du loyer proprement dit, un supplément de loyer pour le mobilier. Ce supplément de loyer, qui est indiqué séparément du loyer dans le contrat de bail, ne peut dépasser 1,5 pour cent du montant total des factures des meubles garnissant le logement loué. Uniquement les meubles dont les factures datent de moins de dix ans au jour de la conclusion du bail ou de l’adaptation du loyer peuvent être pris en considération pour ce supplément.
 
 **(2)** A défaut d’accord entre parties, le capital investi est celui engagé:
 
@@ -4240,27 +4316,50 @@ Toutefois, en cas d’aliénation à titre onéreux, le prix d’acquisition ind
 
 Dans le cas où la prédite évaluation ou la présomption prévue à l’alinéa 2 est contestée par la partie qui aura prouvé qu’elle ne saurait manifestement correspondre à la valeur marchande comparable, sans pour autant que cette partie ne puisse établir le véritable capital investi, la commission des loyers, saisie conformément à l’article 8, détermine le capital investi compte tenu de la valeur du terrain, du volume de l’immeuble loué, de la surface louée, de la qualité de l’équipement, de l’état d’entretien ou de réparation du logement, et de la finition du logement.
 
-**(5)** Le loyer de tout logement à usage d’habitation fixé en vertu des dispositions qui précèdent soit de l’accord des parties, soit par la commission des loyers, soit judiciairement, ne peut faire l’objet d’une adaptation que tous les deux ans.
+**(5)** Le loyer ou le supplément de loyer pour le mobilier de tout logement à usage d’habitation, fixés en vertu des dispositions qui précèdent du présent article, soit de l’accord des parties, soit par la commission des loyers, soit judiciairement, ne peuvent faire l’objet d’une adaptation que tous les deux ans.
 
-Cette période de deux ans ne prend pas fin par suite d’un changement de bailleur. En revanche, elle prend fin de plein droit s’il y a changement de locataire sans préjudice des dispositions de l’article 13, alinéa 1er.
+Cette période de deux ans ne prend pas fin par suite d’un changement de bailleur. Elle prend fin de plein droit s’il y a changement de locataire sans préjudice des dispositions de l’article 13, alinéa 1er.
 
-<a id="art_N1A7DD"></a>
+La hausse du loyer ne peut pas dépasser 10 pour cent. Si, en cas d’une augmentation du loyer de plus de 10 pour cent, le locataire adresse une réclamation par lettre recommandée au bailleur, la part du loyer dépassant la hausse de 10 pour cent n’est pas due à partir du premier terme suivant la date de cette réclamation.
+
+<a id="art_N1AA3E"></a>
 
 ### Art. 4.
 
-Le loyer des logements meublés, à l’exception de ceux visés par l’article 1er, paragraphe (3), ne peut en aucun cas dépasser le double du loyer fixé conformément à l’article 3. Il est tenu compte, dans la fixation du loyer, de la valeur du mobilier.
+Dans les cas où le bailleur offre un ou plusieurs services au locataire, le bailleur opère dans le contrat de bail une distinction entre le montant du loyer mensuel et le montant du coût mensuel de chaque autre service proposé au locataire.
 
-<a id="art_N1A812"></a>
+<a id="art_N1AA7C"></a>
 
 ### Art. 5.
 
-**(1)** La conclusion du bail ne peut être liée au paiement de sommes autres que le loyer.
+**(1)** La conclusion du bail ne peut être liée au paiement de sommes autres que le loyer. Sous peine de nullité, tout bail est établi par écrit, qui stipule au moins :
 
-**(2)** Il est toutefois permis aux parties de convenir d’une garantie locative, qui ne pourra dépasser trois mois de loyer, pour garantir le paiement du loyer ou des autres obligations découlant du contrat de bail.
+1. l’identité complète de toutes les parties contractantes ;
+2. la date de prise d’effet du bail ;
+3. la désignation de toutes les pièces et parties d’immeuble couvrant l’objet du bail, ainsi que l’adresse et la référence cadastrale de l’objet du bail ;
+4. le montant du loyer sans les charges ;
+5. le montant des acomptes sur les charges ou du forfait pour charges éventuelles ;
+6. le supplément de loyer pour le mobilier, en cas d’un logement meublé ;
+7. le montant de la garantie locative éventuellement stipulée ;
+8. l’indication que les parties contractantes ont la possibilité de saisir la commission des loyers conformément à l’article 8 en cas de litige sur la fixation du loyer.
+
+En cas d’intervention d’un agent immobilier ou d’un autre tiers dans la location d’un logement à usage d’habitation, les frais et honoraires de ces personnes sont partagés par moitié entre le bailleur et le locataire.
+
+**(2)** Il est toutefois permis aux parties de convenir d’une garantie locative, qui ne pourra dépasser deux mois de loyer, pour garantir le paiement du loyer ou des autres obligations découlant du contrat de bail.
 
 En cas de stipulation d’une garantie locative, un constat écrit et contradictoire des lieux doit être signé au plus tard le jour de l’entrée en jouissance des lieux par le locataire.
 
 Le bailleur ne peut refuser, même après la conclusion du bail, une garantie locative sous forme d’une garantie bancaire.
+
+**(2*bis*)** Lorsque à la fin du bail, l’état des lieux de sortie est conforme à l’état des lieux d’entrée, sauf usure et vétusté normale, et que le bailleur n’a pas de revendication en matière d’arriérés de loyer ou de dégâts locatifs, la moitié de la garantie locative est à restituer dans un délai maximal d’un mois à partir de la remise en mains propres, ou par lettre recommandée avec avis de réception, des clés au bailleur ou à son mandataire.
+
+La régularisation définitive et la restitution du solde de la garantie locative, déduction faite, le cas échéant, des sommes restant encore dues au bailleur, pour autant qu’elles sont dûment justifiées, sont effectuées au plus tard dans le mois qui suit soit la réception des décomptes relatifs aux charges locatives que le bailleur est tenu de demander auprès des différents services et administrations au plus tard un mois après la fin du bail soit l’approbation définitive des comptes annuels de l’immeuble lors de la prochaine assemblée générale des copropriétaires.
+
+Peu importe le type de logement mis en location, si l’état des lieux d’entrée n’est pas conforme à l’état des lieux de sortie, sauf usure ou vétusté normale, ou en cas d’une contestation du bailleur, ce dernier peut retenir de la garantie locative non seulement les sommes qui lui restent encore dues mais également toute somme dont celui-ci pourrait être tenu, en lieu et place du locataire, sous réserve qu’elle soit dûment justifiée par le bailleur endéans le prédit délai maximal d’un mois par des pièces à l’appui.
+
+À défaut de restitution dans les délais prévus et à partir d’une mise en demeure par lettre recommandée avec avis de réception adressée par le locataire au bailleur ou à son mandataire, la partie du dépôt de garantie restant due au locataire est majorée d’une somme égale à 10 pour cent du loyer mensuel en principal, pour chaque période mensuelle commencée en retard. Cette majoration n’est pas due lorsque le défaut de restitution dans les délais résulte d’un motif imputable au locataire.
+
+En cas de transfert de propriété d’un immeuble loué en tout ou en partie, les garanties sont transférées de plein droit au nouveau propriétaire. Toute convention contraire n’a d’effet qu’entre les parties au transfert de propriété.
 
 **(3)** Le bailleur ne peut mettre à charge du locataire que les montants qu’il justifie avoir déboursés lui-même pour le compte du locataire.
 
@@ -4282,19 +4381,15 @@ Il est permis aux parties de convenir au cours du bail de modifier le régime de
 
 Toutes autres stipulations inscrites dans les contrats de bail et destinées à priver d’effet une disposition de la présente loi sont nulles de plein droit.
 
-<a id="art_N1A8DC"></a>
+<a id="art_N1ABC7"></a>
 
-### Art. 6.
+### art_N1ABC7
 
-Les articles 3 à 5 ne s’appliquent pas aux logements avec confort moderne, non-standard:
+1. 
+2. - 
+- 
 
-1. er
-2. - par m² de surface utile, calculée conformément aux dispositions prévues par la législation sur la publicité foncière en matière de copropriété, d’un logement faisant partie d’une copropriété est supérieur à 618 euros, valeur au nombre cent de l’indice des prix de la construction en 1970; ou
-- par m² de surface utile d’habitation, calculée conformément aux dispositions prévues par la législation concernant l’aide au logement, des maisons unifamiliales est supérieur à 450 euros, valeur au nombre indice cent de l’indice des prix de la construction en 1970;
-
-à condition que le contrat de bail stipule clairement qu’il s’agit d’un des logements visés au présent article et qu’il n’est pas soumis aux articles 3 à 5.
-
-<a id="art_N1A92E"></a>
+<a id="art_N1AC3E"></a>
 
 ### Art. 7.
 
@@ -4350,7 +4445,7 @@ Pour les autres commissions, les indemnités revenant aux membres et au secréta
 
 Les montants des indemnités revenant aux membres et au secrétaire de la commission sont fixés par règlement grand-ducal.
 
-<a id="art_N1AA86"></a>
+<a id="art_N1AD96"></a>
 
 ### Art. 8.
 
@@ -4360,7 +4455,7 @@ Chaque requête précisera l’objet de la demande. Elle ne sera pas recevable p
 
 Les parties seront convoquées par la commission par lettre recommandée avec accusé de réception qui contiendra outre les jour, heure et lieu pour se présenter devant la commission une copie de la requête introductive de la partie requérante. La convocation sera faite au moins à huitaine. Si une partie n’est pas touchée personnellement, la commission des loyers reconvoquera les parties à quinzaine, le tout sous peine de nullité. La deuxième convocation est valablement faite à domicile.
 
-<a id="art_N1AACA"></a>
+<a id="art_N1ADDA"></a>
 
 ### Art. 9.
 
@@ -4380,11 +4475,11 @@ En cas de non-conciliation ou de non-comparution de l’une des parties, la comm
 
 Le procès-verbal sera signé par les membres de la commission et une copie sera notifiée aux parties par lettre recommandée dans le plus bref délai avec indication des voies et du délai de recours ainsi que de la manière dans laquelle il doit être présenté, faute de quoi le délai pour introduire un recours contre la décision conformément à l’article 10 ne court pas.
 
-**(5)** La commission est tenue de rendre sa décision dans un délai de trois mois à partir de la transmission de la requête à la commission. Si aucune décision n’est rendue endéans ce délai, le requérant pourra saisir directement le juge de paix.
+**(5)** La commission rend sa décision dans un délai de trois mois à partir de la transmission de la requête à la commission. Si la commission ne peut pas ou plus siéger au vu d’une vacance de poste d’un des assesseurs de la commission ou si aucune décision n’est rendue endéans ce délai, le requérant pourra saisir directement le juge de paix.
 
 **(6)** Les parties peuvent convenir de charger la commission d’une mission d’arbitrage auquel cas la décision s’imposera aux parties et sera susceptible d’exécution directe.
 
-<a id="art_N1AB77"></a>
+<a id="art_N1AE93"></a>
 
 ### Art. 10.
 
@@ -4394,23 +4489,21 @@ Si aucun recours n’est introduit suite à la notification de la décision de l
 
 La décision du juge de paix pourra être frappée d’opposition ou d’appel dans les formes et délais prévus aux articles 23 et 25.
 
-<a id="art_N1ABBB"></a>
+<a id="art_N1AED7"></a>
 
 ### Art. 11.
 
 La détermination du loyer par la commission des loyers ou par le juge ne peut produire ses effets qu’à partir du premier terme venant à échoir après la date à laquelle le collège des bourgmestre et échevins compétent a été saisi de la requête conformément à l’article 8.
 
-Lorsque, en application des dispositions de la présente loi, le loyer est augmenté de plus de 10% suite à une décision de la commission des loyers ou sur un recours en justice, la hausse s’applique par tiers annuels. Le locataire aura toutefois le droit de dénoncer le bail, nonobstant toute convention contraire, moyennant un délai de résiliation de trois mois.
-
 #### Chapitre III. — De la durée du contrat de bail
 
-<a id="art_N1AC03"></a>
+<a id="art_N1AF2E"></a>
 
 ### Art. 12.
 
-**(1)** Le contrat de bail peut être conclu à durée déterminée ou indéterminée. En l’absence d’un écrit, il est présumé conclu à durée indéterminée.
+**(1)** Le contrat de bail peut être conclu à durée déterminée ou indéterminée.
 
-**(2)** Tout contrat de bail visé par la présente loi, à l’exception du contrat portant sur un logement tel que défini à l’article 6, qui vient à cesser pour n’importe quelle cause, est prorogé à moins que:
+**(2)** Tout contrat de bail visé par la présente loi, qui vient à cesser pour n’importe quelle cause, est prorogé à durée indéterminée à moins que :
 
 1. le bailleur déclare avoir besoin des lieux loués pour les occuper lui-même ou pour les faire occuper de manière effective par un parent ou allié jusqu’au troisième degré inclusivement;
 2. le locataire ne remplisse pas ses obligations;
@@ -4432,7 +4525,7 @@ Au cas où l’occupant reste en possession du logement après la cessation du c
 
 Dans ce cas, les dispositions prévues au paragraphe (3) sont applicables, sauf que le déguerpissement du logement par le locataire doit impérativement avoir lieu au plus tard douze mois après la date d’envoi de la lettre de résiliation du bail.
 
-<a id="art_N1ACC9"></a>
+<a id="art_N1B00F"></a>
 
 ### Art. 13.
 
@@ -4447,7 +4540,7 @@ Les droits du bailleur contre le locataire ayant abandonné le logement ne sont 
 
 A défaut de personnes remplissant les conditions prévues au présent article, le contrat de bail est résilié de plein droit par le décès du locataire.
 
-<a id="art_N1AD1E"></a>
+<a id="art_N1B064"></a>
 
 ### Art. 14.
 
@@ -4457,7 +4550,7 @@ Le délai de trois mois est suspendu pendant la durée des travaux de rénovatio
 
 Si le tribunal constate que le motif invoqué pour empêcher la prorogation légale était dolosif, le locataire a droit à des dommages-intérêts qui ne peuvent être inférieurs au montant des loyers d’une année.
 
-<a id="art_N1AD62"></a>
+<a id="art_N1B0A8"></a>
 
 ### Art. 15.
 
@@ -4471,7 +4564,7 @@ En cas de vente du logement à un tiers acheteur en dépit du droit de préempti
 
 #### Chapitre IV. — De la protection des personnes condamnées à déguerpir de leur logement
 
-<a id="art_N1ADC0"></a>
+<a id="art_N1B106"></a>
 
 ### Art. 16.
 
@@ -4487,7 +4580,7 @@ Toute demande en sursis ou en prorogation de sursis est irrecevable s’il s’e
 
 Par dérogation à l’alinéa qui précède et sous réserve des dispositions prévues par l’article 12, paragraphes (3) et (6), toute demande en sursis ou en prorogation de sursis est encore irrecevable à l’expiration du délai de douze mois à partir de la date où l’acquéreur d’un immeuble loué a informé le locataire par lettre recommandée, respectivement à l’expiration du délai de quinze mois à partir de la date où le bailleur a informé le locataire par lettre recommandée, qu’il veut occuper l’immeuble lui-même ou par un de ses parents ou alliés jusqu’au troisième degré inclusivement.
 
-<a id="art_N1AE1F"></a>
+<a id="art_N1B165"></a>
 
 ### Art. 17.
 
@@ -4495,7 +4588,7 @@ La demande en sursis sera formée par simple requête à déposer au greffe de l
 
 La décision sur la demande sera constatée par simple note au plumitif. Cette décision n’est susceptible d’aucun recours.
 
-<a id="art_N1AE54"></a>
+<a id="art_N1B19A"></a>
 
 ### Art. 18.
 
@@ -4503,15 +4596,15 @@ Si le délai de déguerpissement accordé à l’occupant par la décision est s
 
 #### Chapitre V. — Du règlement des litiges
 
-<a id="art_N1AE93"></a>
+<a id="art_N1B1D9"></a>
 
 ### Art. 19.
 
-Le juge de paix est compétent, même si le titre est contesté, pour connaître de toutes les contestations entre bailleurs et locataires relatives à l’existence et à l’exécution des baux d’immeubles.
+Le juge de paix est compétent, même si le titre est contesté, pour connaître de toutes les contestations entre bailleurs, locataires ou colocataires relatives à l’existence et à l’exécution des baux d’immeubles.
 
 Le juge de paix compétent est celui de la situation du logement faisant l’objet du bail en litige.
 
-<a id="art_N1AECE"></a>
+<a id="art_N1B220"></a>
 
 ### Art. 20.
 
@@ -4521,13 +4614,13 @@ La requête énoncera les nom, prénom, profession et domicile des parties. Elle
 
 La date du dépôt de la demande est marquée par les soins du greffier sur un registre de papier non timbré tenu au greffe. Ce registre sera coté et paraphé par le juge de paix. Le greffier y inscrira également la date des lettres recommandées prévues par la présente loi.
 
-<a id="art_N1AF17"></a>
+<a id="art_N1B269"></a>
 
 ### Art. 21.
 
 Le greffier convoquera les parties par lettre recommandée à la poste avec avis de réception. Il y joindra une copie de la requête pour chaque défendeur. La lettre indiquera les nom, prénom, profession et domicile du demandeur, l’objet de la demande, le jour et l’heure de l’audience fixée pour les débats par le juge de paix au délai minimum de huit jours. La convocation contiendra en outre et à peine de nullité les mentions prescrites à l’article 80 du Nouveau Code de procédure civile.
 
-<a id="art_N1AF4E"></a>
+<a id="art_N1B2A0"></a>
 
 ### Art. 22.
 
@@ -4537,19 +4630,19 @@ Lorsqu’il y a lieu à enquête ou expertise, le greffier citera les témoins e
 
 Dans les quinze jours du prononcé, le greffier notifiera aux parties par lettre recommandée une copie sur papier libre du jugement.
 
-<a id="art_N1AF92"></a>
+<a id="art_N1B2E4"></a>
 
 ### Art. 23.
 
 Si l’une des parties ne comparaît ni en personne, ni par mandataire, le juge de paix statuera conformément aux dispositions des articles 74 à 89 du Nouveau Code de procédure civile. La partie défaillante pourra faire opposition, par déclaration au greffe, dans les quinze jours de la notification prévue à l’article 22, alinéa 3. Dans ce cas, la convocation se fera conformément aux dispositions de l’article 21.
 
-<a id="art_N1AFC9"></a>
+<a id="art_N1B31B"></a>
 
 ### Art. 24.
 
 Le juge de paix peut prendre par ordonnance toutes mesures provisoires, et notamment fixer le loyer provisoire. Sont applicables les articles 15, 16 et 17 du Nouveau Code de procédure civile.
 
-<a id="art_N1B000"></a>
+<a id="art_N1B352"></a>
 
 ### Art. 25.
 
@@ -4557,13 +4650,13 @@ L’appel sera porté devant le tribunal d’arrondissement. Il devra être inte
 
 #### Chapitre VI. — Des missions incombant aux autorités communales
 
-<a id="art_N1B03F"></a>
+<a id="art_N1B391"></a>
 
 ### Art. 26.
 
 Les administrations communales ont la mission d’assurer dans la mesure du possible le logement de toutes les personnes qui ont leur domicile sur le territoire de la commune.
 
-<a id="art_N1B071"></a>
+<a id="art_N1B3C3"></a>
 
 ### Art. 27.
 
@@ -4571,7 +4664,7 @@ Le conseil communal peut, par règlement communal, obliger les propriétaires de
 
 Les infractions aux dispositions de l’alinéa précédent sont punies d’une peine d’amende comprise entre 1 et 250 euros.
 
-<a id="art_N1B0B8"></a>
+<a id="art_N1B40A"></a>
 
 ### Art. 28.
 
@@ -4585,7 +4678,7 @@ En cas de demande du ministre ayant le Logement dans ses attributions, les résu
 
 #### Chapitre VII. — Des mesures spéciales pour la sauvegarde des biens meubles des personnes condamnées à déguerpir
 
-<a id="art_N1B114"></a>
+<a id="art_N1B466"></a>
 
 ### Art. 29.
 
@@ -4595,7 +4688,7 @@ En cas de demande du ministre ayant le Logement dans ses attributions, les résu
 
 **(3)** L’huissier de justice dresse, aux frais de la personne expulsée, un procès-verbal contenant l’inventaire des biens transportés et la description sommaire de leur état. Il remet une copie du procès-verbal à la personne expulsée et à l’administration communale concernée.
 
-<a id="art_N1B16D"></a>
+<a id="art_N1B4BF"></a>
 
 ### Art. 30.
 
@@ -4611,7 +4704,7 @@ En cas de demande du ministre ayant le Logement dans ses attributions, les résu
 
 #### Chapitre VIII. — Dispositions finales, abrogatoires et transitoires
 
-<a id="art_N1B1F3"></a>
+<a id="art_N1B545"></a>
 
 ### Art. 31.
 
@@ -4626,7 +4719,7 @@ Dans le livre III du Code civil, le chapitre II «Du louage des choses» du titr
 7. L’article 1761 du Code civil est remplacé comme suit:«Art. 1761.Le bailleur ne peut résilier le contrat de bail à durée déterminée, encore qu’il déclare vouloir occuper par lui-même la maison louée, s’il n’y a eu convention contraire.».
 8. L’article 1762 du Code civil est modifié comme suit:«Art. 1762.S’il a été convenu dans le contrat de bail à durée déterminée ou à durée indéterminée que le bailleur pourrait venir occuper la maison, il est tenu de notifier d’avance un congé soit aux époques déterminées par le contrat de bail, soit moyennant congé notifié dans les délais prévus à l’article 1736.».
 
-<a id="art_N1B34E"></a>
+<a id="art_N1B6A0"></a>
 
 ### Art. 32.
 
@@ -4634,13 +4727,25 @@ Dans le livre III du Code civil, le chapitre II «Du louage des choses» du titr
 
 **(2)** Dans tous les textes de loi et de règlement, la référence à la loi du 14 février 1955 portant modification et coordination des dispositions légales et réglementaires en matière de bail à loyer s’entend comme référence aux dispositions de la présente loi.
 
-<a id="art_N1B3C1"></a>
+<a id="art_N1B713"></a>
 
 ### Art. 33.
 
 Les dispositions prévues par les articles 31 et 32 sont applicables aux contrats en cours à partir de la date d’entrée en vigueur de la présente loi. Elles s’appliquent aux demandes pendantes devant les commissions des loyers ou devant les juridictions au moment de l’entrée en vigueur de la présente loi.
 
-<a id="art_N1B3F3"></a>
+<a id="art_N1B745"></a>
+
+### Art. 33bis.
+
+**(1)** Les articles 2*bis* à 2*sexies* de la présente loi ne sont applicables qu’aux contrats de bail de colocation conclus après l’entrée en vigueur de la loi du 23 juillet 2024 modifiant la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil.
+
+**(2)** L’article 3, paragraphes 1er, alinéas 2 à 4, et 5, alinéa 3, de la présente loi n’est applicable qu’à partir de la prochaine adaptation du loyer pour les contrats de bail à usage d’habitation conclus avant l’entrée en vigueur de la loi précitée du 23 juillet 2024.
+
+Les articles 4, 5, paragraphe 1er, alinéa 1er, deuxième phrase, et alinéa 2, 12, paragraphe 1er, et 31, de la présente loi, ne sont applicables qu’aux contrats de bail à usage d’habitation conclus après l’entrée en vigueur de la loi précitée du 23 juillet 2024.
+
+Les articles 5, paragraphes 1er et 2, 12, paragraphe 1er, deuxième phrase, et 31 de la présente loi continuent à s’appliquer dans leur teneur ayant existé avant l’entrée en vigueur de la loi précitée du 23 juillet 2024 aux baux verbaux et aux contrats de bail à usage d’habitation conclus avant l’entrée en vigueur de la loi précitée du 23 juillet 2024.
+
+<a id="art_N1B7F0"></a>
 
 ### Art. 34.
 
@@ -4653,7 +4758,7 @@ Les dispositions prévues par les articles 31 et 32 sont applicables aux contrat
 
 **(3)** Par dérogation au paragraphe (1), les contrats de bail conclus avant l’entrée en vigueur de la loi et portant sur des logements de luxe visés par l’article 5 de la loi modifiée du 14 février 1955 portant modification et coordination des dispositions légales et réglementaires en matière de baux à loyer continuent à courir jusqu’à l’expiration du bail.
 
-<a id="art_N1B46E"></a>
+<a id="art_N1B86B"></a>
 
 ### Art. 35.
 
@@ -4663,7 +4768,7 @@ Le locataire occupant un logement en vertu d’un contrat de bail conclu avant l
 
 Lorsque le locataire ne dénonce pas le contrat de bail et si l’augmentation du loyer demandée dépasse 10 %, la hausse s’applique par tiers annuels.
 
-<a id="art_N1B4B2"></a>
+<a id="art_N1B8AF"></a>
 
 ### Art. 36.
 
@@ -4671,7 +4776,7 @@ La présente loi entre en vigueur le premier jour du mois qui suit sa publicatio
 
 ### Version consolidée applicable au 13/08/2018 : Règlement grand-ducal du 19 février 2008 déterminant la zone de compétence territoriale et le siège des **commissions des loyers** instituées pour l'ensemble des communes de moins de 6.000 habitants, prévues par l'article 7 de la loi du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil, et déterminant le montant des indemnités revenant aux membres et aux secrétaires des commissions des loyers.
 
-<a id="art_N1B4FD"></a>
+<a id="art_N1B8FA"></a>
 
 ### Art. 1er.
 
@@ -4694,7 +4799,7 @@ La présente loi entre en vigueur le premier jour du mois qui suit sa publicatio
 
 Le nombre d’habitants par commune à prendre en compte est celui servant à déterminer le nombre des conseillers communaux conformément à l’article 5*te*r de la loi communale modifiée du 13 décembre 1988.
 
-<a id="art_N1B59F"></a>
+<a id="art_N1B99C"></a>
 
 ### Art. 2.
 
@@ -4702,19 +4807,19 @@ Le nombre d’habitants par commune à prendre en compte est celui servant à d�
 
 **(2)** Les archives des commissions des loyers prévues par l’article 1er se trouvent sous la garde du ministre ayant le Logement dans ses attributions.
 
-<a id="art_N1B5FA"></a>
+<a id="art_N1B9F7"></a>
 
 ### Art. 3.
 
 Le montant de l'indemnité revenant à chacun des membres et au secrétaire d'une commission des loyers est fixé à 100 euros par séance assistée.
 
-<a id="art_N1B62C"></a>
+<a id="art_N1BA29"></a>
 
 ### Art. 4.
 
 Le présent règlement entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.
 
-<a id="art_N1B65E"></a>
+<a id="art_N1BA5B"></a>
 
 ### Art. 5.
 
@@ -4722,7 +4827,7 @@ Notre Ministre des Classes moyennes, du Tourisme et du Logement et Notre Ministr
 
 ### **Coefficients de réévaluation** - Extrait Art. 3 de la loi modifiée du 17 décembre 2021 concernant le budget des recettes et des dépenses de l'État.
 
-<a id="art_N1B6A9"></a>
+<a id="art_N1BAA6"></a>
 
 ### Art. 3. Modification de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu
 
@@ -4785,9 +4890,9 @@ e) L’alinéa 7 est remplacé comme suit :« (7) Le montant annuel maximal déd
 
 **(16)** À l’article 168*bis*, alinéa 1er, numéro 7, lettre j), le point final est remplacé par un point-virgule et il est inséré un numéro 8 nouveau libellé comme suit :« 8) groupe consolidé à des fins de comptabilité financière : un groupe composé de toutes les entités qui sont pleinement intégrées dans les états financiers consolidés établis conformément aux normes internationales d’information financière ou au système national d’information financière d’un État membre. ».
 
-### **Code civil**.
+### **Code civil**
 
-<a id="art_N1C0F6"></a>
+<a id="art_N1C4F2"></a>
 
 ### Art. 1708.
 
@@ -4796,19 +4901,19 @@ Il y a deux sortes de contrats de louage:
 - celui des choses,
 - et celui d'ouvrage.
 
-<a id="art_N1C14C"></a>
+<a id="art_N1C548"></a>
 
 ### Art. 1709.
 
 Le louage des choses est un contrat par lequel l'une des parties s'oblige à faire jouir l'autre d'une chose pendant un certain temps, et moyennant un certain prix que celle-ci s'oblige de lui payer.
 
-<a id="art_N1C185"></a>
+<a id="art_N1C581"></a>
 
 ### Art. 1710.
 
 Le louage d'ouvrage est un contrat par lequel l'une des parties s'engage à faire quelque chose pour l'autre, moyennant un prix convenu entre elles.
 
-<a id="art_N1C1BE"></a>
+<a id="art_N1C5BA"></a>
 
 ### Art. 1711.
 
@@ -4823,25 +4928,25 @@ Les devis, marché ou prix fait, pour l'entreprise d'un ouvrage moyennant un pri
 
 Les trois dernières espèces ont des règles particulières.
 
-<a id="art_N1C232"></a>
+<a id="art_N1C62E"></a>
 
 ### Art. 1712.
 
 Les baux des biens nationaux, des biens des communes et des établissements publics, sont soumis à des règlements particuliers.
 
-<a id="art_N1C283"></a>
+<a id="art_N1C67F"></a>
 
 ### Art. 1713.
 
 On peut louer toutes sortes de biens meubles ou immeubles.
 
-<a id="art_N1C2CE"></a>
+<a id="art_N1C6CA"></a>
 
-### Art. 1714.
+### Art. 1714. (L. 23 juillet 2024)
 
-On peut louer ou par écrit, ou verbalement.
+On peut louer par écrit ou verbalement, sauf en ce qui concerne le bail à usage d’habitation, qui ne peut être conclu que sous une forme écrite.
 
-<a id="art_N1C319"></a>
+<a id="art_N1C71C"></a>
 
 ### Art. 1715.
 
@@ -4849,13 +4954,13 @@ Si le bail sans écrit n'a encore reçu aucune exécution, et que l'une des part
 
 Le serment peut seulement être déféré à celui qui nie le bail.
 
-<a id="art_N1C382"></a>
+<a id="art_N1C785"></a>
 
 ### Art. 1716.
 
 Lorsqu'il y aura contestation sur le prix du bail verbal dont l'exécution a commencé, et qu'il n'existera point de quittance, le propriétaire en sera cru sur son serment, si mieux, n'aime le locataire demander l'estimation par experts; auquel cas les frais de l'expertise restent à sa charge, si l'estimation excède le prix qu'il a déclaré.
 
-<a id="art_N1C3DC"></a>
+<a id="art_N1C7DF"></a>
 
 ### Art. 1717.
 
@@ -4865,13 +4970,13 @@ Elle peut être interdite pour tout ou partie.
 
 Cette clause est toujours de rigueur.
 
-<a id="art_N1C454"></a>
+<a id="art_N1C857"></a>
 
 ### Art. 1718.
 
 (L. 12 décembre 1972) Les dispositions de l' article 595 relatives à la durée des baux passés par les usufruitiers sont applicables aux baux passés par le tuteur sans l'autorisation du conseil de famille.
 
-<a id="art_N1C4B8"></a>
+<a id="art_N1C8BB"></a>
 
 ### Art. 1719.
 
@@ -4881,7 +4986,7 @@ Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'a
 2. d'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée;
 3. d'en faire jouir paisiblement le preneur pendant la durée du bail.
 
-<a id="art_N1C525"></a>
+<a id="art_N1C928"></a>
 
 ### Art. 1720.
 
@@ -4889,7 +4994,7 @@ Le bailleur est tenu de délivrer la chose en bon état de réparations de toute
 
 Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives.
 
-<a id="art_N1C58E"></a>
+<a id="art_N1C991"></a>
 
 ### Art. 1721.
 
@@ -4897,19 +5002,19 @@ Il est dû garantie au preneur pour tous les vices ou défauts de la chose loué
 
 S'il résulte de ces vices ou défauts quelque perte pour le preneur, le bailleur est tenu de l'indemniser.
 
-<a id="art_N1C606"></a>
+<a id="art_N1CA09"></a>
 
 ### Art. 1722.
 
 Si, pendant la durée du bail, la chose louée est détruite en totalité par cas fortuit, le bail est résilié de plein droit; si elle n'est détruite qu'en partie, le preneur peut, suivant les circonstances, demander ou une diminution du prix, ou la résiliation même du bail. Dans l'un et l'autre cas, il n'y a lieu à aucun dédommagement.
 
-<a id="art_N1C690"></a>
+<a id="art_N1CA93"></a>
 
 ### Art. 1723.
 
 Le bailleur ne peut, pendant la durée du bail, changer la forme de la chose louée.
 
-<a id="art_N1C6FF"></a>
+<a id="art_N1CB02"></a>
 
 ### Art. 1724.
 
@@ -4919,25 +5024,25 @@ Mais, si ces réparations durent plus de quarante jours, le prix du bail sera di
 
 Si les réparations sont de telle nature qu'elles rendent inhabitable ce qui est nécessaire au logement du preneur et de sa famille, celui-ci pourra faire résilier le bail.
 
-<a id="art_N1C780"></a>
+<a id="art_N1CB83"></a>
 
 ### Art. 1725.
 
 Le bailleur n'est pas tenu de garantir le preneur du trouble que des tiers apportent par voies de fait à sa jouissance, sans prétendre d'ailleurs aucun droit sur la chose louée; sauf au preneur à les poursuivre en son nom personnel.
 
-<a id="art_N1C804"></a>
+<a id="art_N1CC07"></a>
 
 ### Art. 1726.
 
 Si, au contraire, le locataire ou le fermier ont été troublés dans leur jouissance par suite d'une action concernant la propriété du fonds, ils ont droit à une diminution proportionnée sur le prix du bail à loyer ou à ferme, pourvu que le trouble et l'empêchement aient été dénoncés au propriétaire.
 
-<a id="art_N1C873"></a>
+<a id="art_N1CC76"></a>
 
 ### Art. 1727.
 
 Si ceux qui ont commis les voies de fait, prétendent avoir quelque droit sur la chose louée, ou si le preneur est lui-même cité en justice pour se voir condamner au délaissement de la totalité ou de partie de cette chose, ou à souffrir l'exercice de quelque servitude, il doit appeler le bailleur en garantie, et doit être mis hors d'instance, s'il l'exige, en nommant le bailleur pour lequel il possède.
 
-<a id="art_N1C8F7"></a>
+<a id="art_N1CCFA"></a>
 
 ### Art. 1728.
 
@@ -4946,37 +5051,37 @@ Le preneur est tenu de deux obligations principales:
 1. d'user de la chose louée en bon père de famille, et suivant la destination qui lui a été donnée par le bail, ou suivant celle présumée d'après les circonstances, à défaut de convention;
 2. de payer le prix du bail aux termes convenus.
 
-<a id="art_N1C97C"></a>
+<a id="art_N1CD7F"></a>
 
 ### Art. 1729.
 
 Si le preneur emploie la chose louée à un autre usage que celui auquel elle a été destinée, ou dont il puisse résulter un dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire résilier le bail.
 
-<a id="art_N1CA06"></a>
+<a id="art_N1CE09"></a>
 
 ### Art. 1730.
 
 S'il a été fait un état des lieux entre le bailleur et le preneur, celui-ci doit rendre la chose telle qu'il l'a reçue, suivant cet état, excepté ce qui a péri ou a été dégradé par vétusté ou force majeure.
 
-<a id="art_N1CA93"></a>
+<a id="art_N1CE96"></a>
 
 ### Art. 1731.
 
 S'il n'a pas été fait d'état des lieux, le preneur est présumé les avoir reçus en bon état de réparations locatives, et doit les rendre tels, sauf la preuve contraire.
 
-<a id="art_N1CB0E"></a>
+<a id="art_N1CF11"></a>
 
 ### Art. 1732.
 
 Il répond des dégradations ou des pertes qui arrivent pendant sa jouissance, à moins qu'il ne prouve qu'elles ont eu lieu sans sa faute.
 
-<a id="art_N1CBA7"></a>
+<a id="art_N1CFAA"></a>
 
 ### Art. 1733.
 
 (L. 16 mai 1891). Il répond de l'incendie, à moins qu'il ne prouve que le feu a éclaté sans sa faute.
 
-<a id="art_N1CC50"></a>
+<a id="art_N1D053"></a>
 
 ### Art. 1734.
 
@@ -4988,13 +5093,13 @@ S'il est prouvé que l'incendie a commencé dans l'habitation de l'un d'eux, cel
 
 Lorsque le propriétaire habite lui-même une partie des bâtiments loués, il sera considéré comme co-locataire à l'égard de l'application des dispositions du présent article. Toutefois, si l'on ne sait pas où le feu a pris naissance, le propriétaire n'aura d'action contre les locataires qu'en prouvant que le feu n'a pas pris dans la partie du bâtiment occupée par lui.
 
-<a id="art_N1CD14"></a>
+<a id="art_N1D117"></a>
 
 ### Art. 1735.
 
 Le preneur est tenu des dégradations et des pertes qui arrivent par le fait des personnes de sa maison ou de ses sous-locataires.
 
-<a id="art_N1CDB9"></a>
+<a id="art_N1D1BC"></a>
 
 ### Art. 1736.
 
@@ -5004,73 +5109,73 @@ Le délai de résiliation d’un contrat de bail d’habitation est de trois moi
 
 Alinéa 3 abrogé (L. 3 février 2018)
 
-<a id="art_N1CE7E"></a>
+<a id="art_N1D281"></a>
 
 ### Art. 1737.
 
 Le bail cesse de plein droit à l'expiration du terme fixé, lorsqu'il a été fait par écrit, sans qu'il soit nécessaire de donner congé.
 
-<a id="art_N1CF29"></a>
+<a id="art_N1D32C"></a>
 
 ### Art. 1738.
 
 Si, à l'expiration des baux écrits, le preneur reste et est laissé en possession, il s'opère un nouveau bail dont l'effet est réglé par l'article relatif aux locations faites sans écrit.
 
-<a id="art_N1CFDA"></a>
+<a id="art_N1D3DD"></a>
 
 ### Art. 1739.
 
 Lorsqu'il y a un congé signifié, le preneur, quoiqu'il ait continué sa jouissance, ne peut invoquer la tacite reconduction.
 
-<a id="art_N1D08B"></a>
+<a id="art_N1D48E"></a>
 
 ### Art. 1740.
 
 Dans le cas des deux articles précédents, la caution donnée pour le bail ne s'étend pas aux obligations résultant de la prolongation.
 
-<a id="art_N1D13C"></a>
+<a id="art_N1D53F"></a>
 
 ### Art. 1741.
 
 Le contrat de louage se résout par la perte de la chose louée, et par le défaut respectif du bailleur et du preneur, de remplir leurs engagements.
 
-<a id="art_N1D1FC"></a>
+<a id="art_N1D5FF"></a>
 
 ### Art. 1742.
 
 Le contrat de louage n'est point résolu par la mort du bailleur, ni par celle du preneur.
 
-<a id="art_N1D2BC"></a>
+<a id="art_N1D6BF"></a>
 
 ### Art. 1743.
 
 Si le bailleur vend la chose louée, l'acquéreur ne peut expulser le fermier ou le locataire qui a un bail authentique ou dont la date est certaine, à moins qu'il ne se soit réservé ce droit par le contrat de bail.
 
-<a id="art_N1D38B"></a>
+<a id="art_N1D78E"></a>
 
 ### Art. 1744.
 
 S'il a été convenu, lors du bail, qu'en cas de vente l'acquéreur pourrait expulser le fermier ou locataire, et qu'il n'ait été fait aucune stipulation sur les dommages et intérêts, le bailleur est tenu d'indemniser le fermier ou locataire de la manière suivante.
 
-<a id="art_N1D451"></a>
+<a id="art_N1D854"></a>
 
 ### Art. 1745.
 
 S'il s'agit d'une maison, appartement ou boutique, le bailleur paye, à titre de dommages et intérêts, au locataire évincé, une somme égale au prix du loyer, pendant le temps qui, suivant l'usage des lieux, est accordé entre le congé et la sortie.
 
-<a id="art_N1D511"></a>
+<a id="art_N1D914"></a>
 
 ### Art. 1746.
 
 S'il s'agit de biens ruraux, l'indemnité que le bailleur doit payer au fermier est du tiers du prix du bail pour tout le temps qui reste à courir.
 
-<a id="art_N1D5D7"></a>
+<a id="art_N1D9DA"></a>
 
 ### Art. 1747.
 
 L'indemnité se réglera par experts, s'il s'agit de manufactures, usines, ou autres établissements qui exigent de grandes avances.
 
-<a id="art_N1D69D"></a>
+<a id="art_N1DAA0"></a>
 
 ### Art. 1748.
 
@@ -5078,31 +5183,31 @@ L'acquéreur qui veut user de la faculté réservée par le bail, d'expulser le 
 
 Il doit aussi avertir le fermier de biens ruraux au moins un an à l'avance.
 
-<a id="art_N1D76C"></a>
+<a id="art_N1DB6F"></a>
 
 ### Art. 1749.
 
 Les fermiers ou les locataires ne peuvent être expulsés qu'ils ne soient payés par le bailleur, ou, à son défaut, par le nouvel acquéreur, des dommages et intérêts ci-dessus expliqués.
 
-<a id="art_N1D838"></a>
+<a id="art_N1DC3B"></a>
 
 ### Art. 1750.
 
 Si le bail n'est pas fait par acte authentique, ou n'a point de date certaine, l'acquéreur n'est tenu d'aucuns dommages et intérêts.
 
-<a id="art_N1D90D"></a>
+<a id="art_N1DD10"></a>
 
 ### Art. 1751.
 
 L'acquéreur à pacte de rachat ne peut user de la faculté d'expulser le preneur, jusqu'à ce que, par l'expiration du délai fixé pour le réméré, il devienne propriétaire incommutable.
 
-<a id="art_N1D9D3"></a>
+<a id="art_N1DDD6"></a>
 
 ### Art. 1752.
 
 Le locataire qui ne garnit pas la maison de meubles suffisants, peut être expulsé, à moins qu'il ne donne des sûretés capables de répondre du loyer.
 
-<a id="art_N1DA24"></a>
+<a id="art_N1DE27"></a>
 
 ### Art. 1753.
 
@@ -5110,73 +5215,73 @@ Le sous-locataire n'est tenu envers le propriétaire que jusqu'à concurrence du
 
 Les paiements faits par le sous-locataire, soit en vertu d'une stipulation portée en son bail soit en conséquence de l'usage des lieux, ne sont pas réputés faits par anticipation.
 
-<a id="art_N1DA8A"></a>
+<a id="art_N1DE8D"></a>
 
 ### Art. 1754.
 
 Les réparations locatives ou de menu entretien dont le locataire est tenu, s'il n'y a clause contraire, sont celles désignées comme telles par l'usage des lieux, et, entre autres, les réparations à faire: aux âtres, contre-cœurs, chambranles et tablettes des cheminées, au recrépiment du bas des murailles des appartements et autres lieux d'habitation, à la hauteur d'un mètre; aux pavés et carreaux des chambres, lorsqu'il y en a seulement quelques uns de cassés; aux vitres, à moins qu'elles ne soient cassées par la grêle, ou autres accidents extraordinaires et de force majeure, dont le locataire ne peut être tenu; aux portes, croisées, planches de cloison ou de fermeture de boutiques, gonds, targettes et serrures.
 
-<a id="art_N1DB4D"></a>
+<a id="art_N1DF50"></a>
 
 ### Art. 1755.
 
 Aucune des réparations réputées locatives n'est à la charge des locataires, quand elles ne sont occasionnées que par vétusté ou force majeure.
 
-<a id="art_N1DBAA"></a>
+<a id="art_N1DFAD"></a>
 
 ### Art. 1756.
 
 Le curement des puits et celui des fossés d'aisance sont à la charge du bailleur, s'il n'y a clause contraire.
 
-<a id="art_N1DC01"></a>
+<a id="art_N1E004"></a>
 
 ### Art. 1757.
 
 Le bail des meubles fournis pour garnir une maison entière, un corps de logis entier, une boutique, ou tous autres appartements, est censé fait pour la durée ordinaire des baux de maisons, corps de logis, boutiques ou autres appartements, selon l'usage des lieux.
 
-<a id="art_N1DC61"></a>
+<a id="art_N1E064"></a>
 
 ### Art. 1758.
 
 (L. 21 septembre 2006) Le bail d'un logement est censé être fait à durée indéterminée s’il n’est pas spécifié dans le contrat de bail écrit pour quelle durée les parties ont voulu se lier.
 
-<a id="art_N1DCC2"></a>
+<a id="art_N1E0C5"></a>
 
 ### Art. 1759.
 
 Si le locataire d'une maison ou d'un appartement continue sa jouissance après l'expiration du bail par écrit, sans opposition de la part du bailleur, il sera censé les occuper aux mêmes conditions, pour le terme fixé par l'usage des lieux, et ne pourra plus en sortir ni en être expulsé qu'après un congé donné suivant le délai fixé par l'usage des lieux.
 
-<a id="art_N1DD19"></a>
+<a id="art_N1E11C"></a>
 
 ### Art. 1760.
 
 En cas de résiliation par la faute du locataire, celui-ci est tenu de payer le prix du bail pendant le temps nécessaire à la relocation, sans préjudice des dommages et intérêts qui ont pu résulter de l'abus.
 
-<a id="art_N1DD79"></a>
+<a id="art_N1E17C"></a>
 
 ### Art. 1761.
 
 (L. 21 septembre 2006) Le bailleur ne peut résilier le contrat de bail à durée déterminée, encore qu'il déclare vouloir occuper par lui-même la maison louée, s'il n'y a eu convention contraire.
 
-<a id="art_N1DDDD"></a>
+<a id="art_N1E1E0"></a>
 
 ### Art. 1762.
 
 (L. 21 septembre 2006) S'il a été convenu dans le contrat de bail à durée déterminée ou à durée indéterminée que le bailleur pourrait venir occuper la maison, il est tenu de notifier d'avance un congé soit aux époques déterminées par le contrat de bail, soit moyennant congé notifié dans les délais prévus à l’ article 1736.
 
-<a id="art_N1DE38"></a>
+<a id="art_N1E23B"></a>
 
 ### Art. 1762-2.
 
 (Arr. g.-d. 31 octobre 1936) La clause résolutoire expresse reste soumise à l'appréciation du juge compétent.
 
-<a id="art_N1DE8E"></a>
+<a id="art_N1E291"></a>
 
 ### Art. 1762-3.
 
 (L. 3 février 2018) Est commercial tout bail d’un immeuble destiné à l’exercice d’une activité commerciale, industrielle ou artisanale.
 
-<a id="art_N1DECB"></a>
+<a id="art_N1E2CE"></a>
 
 ### Art. 1762-4.
 
@@ -5188,7 +5293,7 @@ Le contrat lie un nouvel acquéreur ou tout nouveau détenteur d’un droit rée
 
 Les dispositions de la présente section ne sont pas applicables aux contrats de bail d’une durée inférieure ou égale à une année.
 
-<a id="art_N1DF23"></a>
+<a id="art_N1E326"></a>
 
 ### Art. 1762-5. (L. 3 février 2018)
 
@@ -5198,7 +5303,7 @@ Les dispositions de la présente section ne sont pas applicables aux contrats de
 
 **(3)** Les parties peuvent stipuler que le preneur fournisse une garantie locative qui ne pourra dépasser six mois de loyer, en vue de garantir le paiement du loyer ou de toutes les autres obligations découlant du contrat de bail. Le bailleur ne peut refuser une garantie locative sous forme d’une garantie bancaire à première demande ou de la souscription de toute assurance ou de toute autre garantie permettant de couvrir au moins six mois de loyer.
 
-<a id="art_N1DF87"></a>
+<a id="art_N1E38A"></a>
 
 ### Art. 1762-6. (L. 3 février 2018)
 
@@ -5214,7 +5319,7 @@ Toutefois, lorsque le bailleur s’est réservé une partie de l’immeuble pour
 
 **(4)** Sauf en cas de sous-location où des investissements spécifiques à l’activité du sous-locataire ont été effectués par le preneur, les loyers payés au preneur par le sous-locataire ne pourront être supérieurs aux loyers payés par le preneur au bailleur.
 
-<a id="art_N1E00C"></a>
+<a id="art_N1E40F"></a>
 
 ### Art. 1762-7. (L. 3 février 2018)
 
@@ -5224,13 +5329,13 @@ La résiliation est notifiée par lettre recommandée à la poste avec avis de r
 
 **(2)** Sans préjudice de l’article 1739, tout contrat de bail qui vient à cesser pour n’importe quelle cause, est tacitement reconduit pour une durée indéterminée. Le preneur est obligé de renouveler ou d’adapter la garantie locative convenue en fonction de cette reconduction, de façon à ce que le bailleur dispose de la garantie jusqu’au terme de la location.
 
-<a id="art_N1E06A"></a>
+<a id="art_N1E46D"></a>
 
 ### Art. 1762-8.
 
 (L. 3 février 2018) En cas de décès d’un preneur commerçant, industriel, artisan ou fermier, le contrat de bail est maintenu dans le chef du repreneur à condition que le repreneur maintienne l’exploitation commerciale, industrielle, artisanale ou agricole et qu’il y ait un lien de famille jusqu’au cinquième degré inclusivement avec le repreneur défunt, sinon qu’il soit le conjoint ou le concubin du preneur défunt.
 
-<a id="art_N1E0A7"></a>
+<a id="art_N1E4AA"></a>
 
 ### Art. 1762-9.
 
@@ -5243,7 +5348,7 @@ Le sursis, unique, ne pourra pas dépasser neuf mois et ne peut être accordé q
 
 La décision autorisant le sursis au déguerpissement forcé du locataire ne sera pas susceptible d’opposition ou d’appel.
 
-<a id="art_N1E100"></a>
+<a id="art_N1E503"></a>
 
 ### Art. 1762-10.
 
@@ -5255,7 +5360,7 @@ Elle doit être formulée, sous peine de déchéance, au moins six mois avant l�
 
 S’il y a plusieurs bailleurs, la demande devra être adressée à chacun d’eux, sauf clause contraire prévue dans le contrat de bail.
 
-<a id="art_N1E158"></a>
+<a id="art_N1E55B"></a>
 
 ### Art. 1762-11.
 
@@ -5267,7 +5372,7 @@ Le bailleur peut résilier le bail avec le préavis prévu à l’article 1762-7
 2. en cas d’abandon de toute location aux fins d’activité identique ;
 3. en cas de reconstruction ou de transformation de l’immeuble loué.
 
-<a id="art_N1E1AE"></a>
+<a id="art_N1E5B1"></a>
 
 ### Art. 1762-12. (L. 3 février 2018)
 
@@ -5278,7 +5383,7 @@ Le bailleur peut résilier le bail avec le préavis prévu à l’article 1762-7
 
 **(2)** À défaut de clause dans le contrat de bail permettant de déterminer le montant de l’indemnité d’éviction, les parties peuvent saisir le juge de paix qui fixera alors le montant de l’indemnité d’éviction sur base de la valeur marchande du fonds de commerce pour l’activité en question.
 
-<a id="art_N1E20D"></a>
+<a id="art_N1E610"></a>
 
 ### Art. 1762-13.
 
@@ -5292,7 +5397,7 @@ En cas de vente des locaux loués à un tiers acheteur en dépit du droit de pr�
 
 ### 2. Loi du 20 décembre 2019 relative aux **critères de salubrité, d’hygiène, de sécurité et d’habitabilité** des logements et chambres donnés en location ou mis à disposition à des fins d’habitation.
 
-<a id="art_N1E279"></a>
+<a id="art_N1E67C"></a>
 
 ### Art. 1er.
 
@@ -5305,7 +5410,7 @@ Pour l’application de la présente loi, on entend par :
 5. « exploitant » : la personne physique ou morale qui est gérante du logement respectivement de la chambre donnés en location ou mis à disposition à des fins d’habitation ;
 6. « propriétaire » : la personne physique ou morale qui a la pleine propriété du logement respectivement de la chambre donnés en location ou mis à disposition à des fins d’habitation.
 
-<a id="art_N1E2A3"></a>
+<a id="art_N1E6A6"></a>
 
 ### Art. 2.
 
@@ -5319,13 +5424,13 @@ La surface d’une chambre ne peut être inférieure à 9 m² par occupant.
 
 **(2)** Un règlement grand-ducal précise le contenu et fixe les modalités d’application des critères prévus au paragraphe 1er.
 
-<a id="art_N1E2E4"></a>
+<a id="art_N1E6E7"></a>
 
 ### Art. 3.
 
 Tout propriétaire ou exploitant qui donne en location ou met à disposition une ou plusieurs chambres est tenu de les déclarer préalablement au bourgmestre de la commune en indiquant le nombre maximum de personnes pouvant y être logées et en joignant à la déclaration un plan des locaux.
 
-<a id="art_N1E2F4"></a>
+<a id="art_N1E6F7"></a>
 
 ### Art. 4.
 
@@ -5337,7 +5442,7 @@ Le bourgmestre ou celui qui le remplace peut se faire assister par des agents de
 
 Le contrôle d’un logement ou d’une chambre a lieu entre huit heures et dix-huit heures. L’exploitant ou le propriétaire du logement ou de la chambre en question est informé du contrôle au moins un jour de calendrier avant le jour du contrôle. Il en informe sans délai l’occupant concerné. Il est dressé un rapport au bourgmestre de chaque contrôle mentionnant le nom des personnes qui sont entrées dans les lieux visés, les motifs, les lieux et la date du contrôle. Copie est remise à l’exploitant ou au propriétaire.
 
-<a id="art_N1E328"></a>
+<a id="art_N1E72B"></a>
 
 ### Art. 5.
 
@@ -5347,7 +5452,7 @@ En cas de décision de fermeture, il appartient à l’exploitant, ou à défaut
 
 Le relogement des occupants concernés par une fermeture au sens de l’alinéa 1er devra être pris en charge par le propriétaire ou l’exploitant pour une durée maximale de 3 mois.
 
-<a id="art_N1E353"></a>
+<a id="art_N1E756"></a>
 
 ### Art. 6.
 
@@ -5360,19 +5465,19 @@ L’exploitant ou le propriétaire tient à jour un registre des occupants avec 
 
 Les inscriptions dans ce registre sont à contresigner par les occupants respectifs.
 
-<a id="art_N1E37D"></a>
+<a id="art_N1E780"></a>
 
 ### Art. 7.
 
 Les infractions aux dispositions des articles 2 et 3 sont punies d'une amende de 251 à 125 000 euros et d'un emprisonnement de huit jours à cinq ans ou d'une de ces peines seulement.
 
-<a id="art_N1E38D"></a>
+<a id="art_N1E790"></a>
 
 ### Art. 8.
 
 Par dérogation aux articles 1er à 7 de la présente loi, les articles 32 à 36 de la loi modifiée du 25 février 1979 concernant l’aide au logement restent applicables aux logements et chambres donnés en location ou mis à disposition à des fins d’habitation avant l’entrée en vigueur de la présente loi pour une période transitoire qui expire deux ans après l’entrée en vigueur de la présente loi.
 
-<a id="art_N1E3A6"></a>
+<a id="art_N1E7A9"></a>
 
 ### Art. 9.
 
@@ -5382,13 +5487,13 @@ La présente loi entre en vigueur le premier jour du mois qui suit celui de sa p
 
 #### **Chapitre 1er ** — **Champ d’application et définitions**
 
-<a id="art_N1E3E9"></a>
+<a id="art_N1E7EC"></a>
 
 ### Art. 1er.
 
 Le présent règlement s’applique aux logements et chambres donnés en location à ou mis à disposition d’un ou de plusieurs occupants à des fins d’habitation, à titre onéreux ou à titre gratuit.
 
-<a id="art_N1E3FF"></a>
+<a id="art_N1E802"></a>
 
 ### Art. 2.
 
@@ -5396,7 +5501,7 @@ Pour l’application du présent règlement, on entend par « local collectif »
 
 #### **Chapitre 2 ** — **Critères de salubrité et d’hygiène**
 
-<a id="art_N1E41F"></a>
+<a id="art_N1E822"></a>
 
 ### Art. 3.
 
@@ -5404,7 +5509,7 @@ Pour l’application du présent règlement, on entend par « local collectif »
 
 **(2)** Aucune chambre à coucher d’un logement respectivement aucune chambre ne peut être occupée par plus de deux personnes majeures.
 
-<a id="art_N1E446"></a>
+<a id="art_N1E849"></a>
 
 ### Art. 4.
 
@@ -5417,7 +5522,7 @@ Aucun logement, chambre ou local collectif ne peut présenter :
 
 pouvant porter préjudice à la santé des occupants.
 
-<a id="art_N1E475"></a>
+<a id="art_N1E878"></a>
 
 ### Art. 5.
 
@@ -5425,13 +5530,13 @@ Les pièces telles que les chambres à coucher et salles de séjour doivent disp
 
 Les salles de bain, les toilettes, les buanderies et les locaux destinés au dépôt d’ordures ménagères situés à l’intérieur de l’immeuble sont à équiper d’un dispositif de ventilation naturelle ou mécanique. En cas de ventilation mécanique, le dispositif est à entretenir régulièrement selon les prescriptions du fabricant.
 
-<a id="art_N1E48E"></a>
+<a id="art_N1E891"></a>
 
 ### Art. 6.
 
 Les déchets ménagers sont à placer soit dans un local séparé et ventilé à l’intérieur de l’immeuble comportant un ou plusieurs logements ou chambres, soit à l’extérieur de l’immeuble.
 
-<a id="art_N1E49E"></a>
+<a id="art_N1E8A1"></a>
 
 ### Art. 7.
 
@@ -5439,7 +5544,7 @@ Les occupants doivent avoir la possibilité de sécher leur linge en dehors de l
 
 #### **Chapitre 3 ** — **Critères de sécurité**
 
-<a id="art_N1E4BE"></a>
+<a id="art_N1E8C1"></a>
 
 ### Art. 8.
 
@@ -5463,7 +5568,7 @@ Pour tout immeuble dont la surface des chambres et locaux collectifs dépasse 30
 
 **(6)** En cas de cuisine collective, celle-ci est à équiper, d’une trousse de premier secours, d’un détecteur de chaleur et d’un extincteur adapté aux risques pour feux de graisses du type A-B-F de six litres.
 
-<a id="art_N1E54F"></a>
+<a id="art_N1E952"></a>
 
 ### Art. 9.
 
@@ -5471,7 +5576,7 @@ Toute installation de chauffage à combustion et tout autre moyen de chauffage s
 
 En présence d’installations fixes et de récipients mobiles à gaz de pétrole liquéfié, la distribution doit se faire moyennant des conduits en métal. Les récipients mobiles à gaz de pétrole liquéfié doivent se trouver à l’extérieur de l’immeuble dans une armoire fermée contenant au maximum 2 bouteilles.
 
-<a id="art_N1E568"></a>
+<a id="art_N1E96B"></a>
 
 ### Art. 10.
 
@@ -5479,7 +5584,7 @@ Toutes les installations électriques sont à concevoir et à protéger de mani�
 
 #### **Chapitre 4 ** — **Critères d’habitabilité**
 
-<a id="art_N1E588"></a>
+<a id="art_N1E98B"></a>
 
 ### Art. 11.
 
@@ -5491,7 +5596,7 @@ En cas de cinq occupants ou plus, le local collectif doit comprendre une pièce 
 
 La cuisine ou la pièce de séjour doivent disposer d’au moins 0,75 place à table assise par occupant.
 
-<a id="art_N1E5D0"></a>
+<a id="art_N1E9D3"></a>
 
 ### Art. 12.
 
@@ -5501,7 +5606,7 @@ Chaque pièce d’un logement ainsi que chaque local collectif doit disposer d�
 
 **(2)** Chaque logement ou local collectif doit être raccordée au réseau de distribution d’eau collectif et au réseau existant de collecte des eaux usées. Le système d’eau potable est à concevoir de façon à éviter toute prolifération bactérienne.
 
-<a id="art_N1E600"></a>
+<a id="art_N1EA03"></a>
 
 ### Art. 13.
 
@@ -5513,7 +5618,7 @@ L’exploitant respectivement le propriétaire est tenu de meubler suffisamment 
 
 Une chambre doit disposer d’au moins 3 prises d’électricité.
 
-<a id="art_N1E62C"></a>
+<a id="art_N1EA2F"></a>
 
 ### Art. 14.
 
@@ -5523,7 +5628,7 @@ En cas de défaillance de l’éclairage artificiel et en l’absence d’un éc
 
 **(2)** Toute chambre est à éclairer par une fenêtre mesurant au moins 0,85 x 1,1 mètres ou 0,95 x 0,95 mètres de surface brute châssis compris.
 
-<a id="art_N1E65C"></a>
+<a id="art_N1EA5F"></a>
 
 ### Art. 15.
 
@@ -5543,7 +5648,7 @@ Jusqu’à six occupants ne disposant pas d’installations sanitaires individue
 
 Si les toilettes sont situées en dehors de la salle de bain, cette pièce est à cloisonner jusqu’au plafond.
 
-<a id="art_N1E6AA"></a>
+<a id="art_N1EAAD"></a>
 
 ### Art. 16.
 
@@ -5556,13 +5661,13 @@ En cas d’utilisation collective, la cuisine doit comprendre 4 plaques de cuiss
 
 #### **Chapitre 5 ** — **Gestion des chambres et des locaux collectifs**
 
-<a id="art_N1E6E4"></a>
+<a id="art_N1EAE7"></a>
 
 ### Art. 17.
 
 L’entretien hebdomadaire des locaux collectifs est à assurer par l’exploitant ou, à défaut, par le propriétaire.
 
-<a id="art_N1E6F4"></a>
+<a id="art_N1EAF7"></a>
 
 ### Art. 18.
 
@@ -5570,7 +5675,7 @@ Le registre des occupants est à présenter lors d’un contrôle ordonné par l
 
 L’exploitant peut garder un double de clé pour garantir l’accès à toutes les chambres et à tous les locaux collectifs lors d’un tel contrôle ou pour les cas d’urgence nécessitant l’intervention des services de secours ou de la Police grand-ducale.
 
-<a id="art_N1E70D"></a>
+<a id="art_N1EB10"></a>
 
 ### Art. 19.
 
@@ -5580,13 +5685,13 @@ Chaque occupant doit avoir accès à son logement respectivement à sa chambre e
 
 Les chambres doivent être numérotées et pouvoir être identifiées individuellement.
 
-<a id="art_N1E72F"></a>
+<a id="art_N1EB32"></a>
 
 ### Art. 20.
 
 Pour la distribution du courrier, une boîte à lettres est à installer pour chaque chambre ou logement. Dans les cas où une telle installation n’est pas possible, la réception et la distribution du courrier sous pli fermé aux occupants est à assurer par le propriétaire respectivement par l’exploitant dans un délai de vingt-quatre heures.
 
-<a id="art_N1E73F"></a>
+<a id="art_N1EB42"></a>
 
 ### Art. 21.
 
@@ -5594,19 +5699,19 @@ Un règlement d’ordre intérieur établi par l’exploitant dans une des langu
 
 #### **Chapitre 6 ** — **Dispositions abrogatoires et transitoires**
 
-<a id="art_N1E75F"></a>
+<a id="art_N1EB62"></a>
 
 ### Art. 22.
 
 Le règlement grand-ducal modifié du 25 février 1979 déterminant les critères de location, de salubrité et d’hygiène auxquels doivent répondre les logements destinés à la location est abrogé.
 
-<a id="art_N1E775"></a>
+<a id="art_N1EB78"></a>
 
 ### Art. 23.
 
 Par dérogation à l’article 22, le règlement grand-ducal modifié du 25 février 1979 déterminant les critères de location, de salubrité et d’hygiène auxquels doivent répondre les logements destinés à la location reste applicable aux logements, chambres et logements collectifs donnés en location ou mis à disposition à des fins d’habitation avant l’entrée en vigueur du présent règlement pour une période transitoire de deux ans à compter de la publication du présent règlement au Journal officiel du Grand-Duché de Luxembourg.
 
-<a id="art_N1E78B"></a>
+<a id="art_N1EB8E"></a>
 
 ### Art. 24.
 
@@ -5614,7 +5719,7 @@ Le présent règlement entre en vigueur le premier jour du mois qui suit celui d
 
 #### **Chapitre 7 ** — **Formule exécutoire**
 
-<a id="art_N1E7AB"></a>
+<a id="art_N1EBAE"></a>
 
 ### Art. 25.
 
@@ -5624,7 +5729,7 @@ Notre ministre du Logement est chargé de l’exécution du présent règlement,
 
 ### Version consolidée applicable au 01/03/2024 : Loi du 16 mai 1975 portant **statut** de la copropriété des immeubles bâtis.
 
-<a id="art_N1E7DF"></a>
+<a id="art_N1EBE2"></a>
 
 ### Art. 1er.
 
@@ -5632,7 +5737,7 @@ La présente loi régit tout immeuble bâti ou groupe d’immeubles bâtis dont 
 
 A défaut de convention contraire créant une organisation différente, elle régit encore tout ensemble immobilier comprenant outre des terrains, des aménagements et des services communs, des parcelles, bâties ou non, faisant l’objet de droits de propriété privatifs ainsi que tout terrain sur lequel la construction d’un bâtiment est commencée ou projetée, du moment que la propriété en est répartie entre plusieurs personnes dont chacune dispose d’un droit à un lot distinct comprenant une partie privative et une quote-part de parties communes du bâtiment.
 
-<a id="art_N1E81D"></a>
+<a id="art_N1EC20"></a>
 
 ### Art. 2.
 
@@ -5640,7 +5745,7 @@ Le copropriétaire peut disposer de son lot et le grever de droits réels même 
 
 Il use et jouit librement des parties privatives et des parties communes sous la condition de ne porter atteinte ni aux droits des autres copropriétaires ni à la destination de l’immeuble.
 
-<a id="art_N1E858"></a>
+<a id="art_N1EC5B"></a>
 
 ### Art. 3.
 
@@ -5667,13 +5772,13 @@ Les droits accessoires aux parties communes ne peuvent être exercés que du con
 
 **4.** Les cloisons ou murs, séparant des parties privatives et non compris dans le gros oeuvre, sont présumés mitoyens entre les locaux qu’ils séparent.
 
-<a id="art_N1E904"></a>
+<a id="art_N1ED07"></a>
 
 ### Art. 4.
 
 Les parties communes sont l’objet d’une propriété indivise entre l’ensemble des copropriétaires ou certains d’entre eux seulement; leur administration et leur jouissance sont organisées conformément aux dispositions de la présente loi.
 
-<a id="art_N1E936"></a>
+<a id="art_N1ED39"></a>
 
 ### Art. 5.
 
@@ -5685,13 +5790,13 @@ En cas de changement de l’emprise d’une copropriété résultant de l’ali�
 
 Toutefois, l’extension prévue à l’alinéa précédent, qui s’opère avec le rang attaché à l’inscription ou à la transcription primitive, n’a lieu que par l’inscription au registre des hypothèques de la déclaration faite par le syndic que le bien acquis est libre de tout droit de même nature au jour de la mutation ou qu’il est devenu libre de ces mêmes droits.
 
-<a id="art_N1E98F"></a>
+<a id="art_N1ED92"></a>
 
 ### Art. 6.
 
 Dans le silence ou la contradiction des titres, la quote-part des parties communes afférente à chaque lot est proportionnelle à la valeur relative de chaque partie privative par rapport à l’ensemble des valeurs desdites parties, telles que ces valeurs résultent lors de l’établissement de la copropriété, de la consistance, de la superficie et de la situation des lots, sans égard à leur utilisation.
 
-<a id="art_N1E9C1"></a>
+<a id="art_N1EDC4"></a>
 
 ### Art. 7.
 
@@ -5705,7 +5810,7 @@ La charge de l’entretien d’une partie commune dont le règlement de copropri
 
 Les dispositions du présent alinéa ne s’appliquent pas aux dépenses afférentes au gros oeuvre et notamment à l’étanchéité.
 
-<a id="art_N1EA23"></a>
+<a id="art_N1EE26"></a>
 
 ### Art. 8.
 
@@ -5715,7 +5820,7 @@ Les dispositions du présent alinéa ne s’appliquent pas aux dépenses affére
 4. A défaut de décision de l’assemblée générale modifiant les bases de répartition des charges dans les cas prévus aux alinéas précédents, tout copropriétaire pourra saisir le tribunal d’arrondissement de la situation de l’immeuble à l’effet de faire procéder à la nouvelle répartition rendue nécessaire.
 5. La décision judiciaire arrêtant la nouvelle répartition des charges est opposable aux propriétaires de tous les lots intéressés; elle prend effet à compter du jour où elle est devenue irrévocable.
 
-<a id="art_N1EA72"></a>
+<a id="art_N1EE75"></a>
 
 ### Art. 9.
 
@@ -5723,7 +5828,7 @@ En l’absence de toute répartition conventionnelle des charges, chaque copropr
 
 L’action est intentée contre le syndicat, tous les copropriétaires appelés en cause.
 
-<a id="art_N1EAAD"></a>
+<a id="art_N1EEB0"></a>
 
 ### Art. 10.
 
@@ -5734,7 +5839,7 @@ L’action est intentée contre le syndicat, tous les copropriétaires appelés 
 5. Dans les copropriétés où il n’existe pas de règlement de copropriété, le syndicat doit établir et faire publier un règlement de copropriété conformément à la présente loi. A défaut par l’assemblée générale d’en arrêter le texte à la majorité prévue à l’article 17, tout copropriétaire peut demander au tribunal civil de procéder à son établissement.
 6. loi modifiée du 8 septembre 1998
 
-<a id="art_N1EB1E"></a>
+<a id="art_N1EF21"></a>
 
 ### Art. 11.
 
@@ -5744,7 +5849,7 @@ Ce syndicat a pour objet la conservation de l’immeuble et l’administration d
 
 Toute clause du règlement de copropriété, étrangère à l’objet du syndicat, tel qu’il est défini à l’alinéa précédent, est réputée non écrite.
 
-<a id="art_N1EB6E"></a>
+<a id="art_N1EF71"></a>
 
 ### Art. 11bis.
 
@@ -5758,7 +5863,7 @@ Les cotisations versées au titre du fonds de travaux sont attachées aux lots e
 
 Une personne qui a déclaré son intérêt à l’acquisition à titre gratuit ou à titre onéreux d’un lot dans une copropriété, après qu’un propriétaire a déclaré son intention de transfert à titre gratuit ou à titre onéreux du lot concerné, et une personne qui a accepté sous bénéfice d’inventaire une succession comprenant un lot dans une copropriété doivent pouvoir consulter le solde actuel des cotisations au fonds de travaux acquises par ce lot.
 
-<a id="art_N1EBE0"></a>
+<a id="art_N1EFE3"></a>
 
 ### Art. 12.
 
@@ -5766,7 +5871,7 @@ Le syndicat a qualité pour agir en justice, tant en demandant qu’en défendan
 
 Tout copropriétaire peut néanmoins exercer seul les actions concernant la propriété ou la jouissance de son lot. Il doit en informer le syndic, lorsque le même fait donne également ouverture au droit d’action du syndicat.
 
-<a id="art_N1EC1B"></a>
+<a id="art_N1F01E"></a>
 
 ### Art. 13.
 
@@ -5778,7 +5883,7 @@ Les sommes représentant le prix des parties communes cédées se divisent de pl
 
 La part du prix revenant à chaque copropriétaire lui est remise directement par le syndic, nonobstant l’existence de toute sûreté grevant son lot.
 
-<a id="art_N1EC74"></a>
+<a id="art_N1F077"></a>
 
 ### Art. 14.
 
@@ -5789,13 +5894,13 @@ La part du prix revenant à chaque copropriétaire lui est remise directement pa
 5. Le syndic ne peut intenter une action en justice au nom du syndicat sans y avoir été autorisé par une décision de l’assemblée générale, sauf lorsqu’il s’agit d’une action en recouvrement de créance même par voie d’exécution forcée ou lorsqu’il y a urgence ne permettant pas la convocation d’une assemblée générale dans les délais ou lorsqu’il s’agit d’assurer l’observation et l’exécution du règlement de copropriété.
 6. A l’occasion de tous litiges dont est saisie une juridiction et qui concernent le fonctionnement d’un syndicat ou dans lesquels le syndicat est partie, le syndic avise chaque copropriétaire de l’existence et de l’objet de l’instance.
 
-<a id="art_N1ECCC"></a>
+<a id="art_N1F0CF"></a>
 
 ### Art. 15.
 
 Les décisions de l’assemblée générale sont prises à la majorité des voix des copropriétaires présents ou réprésentés par un mandataire régulier, tous les copropriétaires dûment convoqués, s’il n’en est autrement ordonné par la loi.
 
-<a id="art_N1ECFE"></a>
+<a id="art_N1F101"></a>
 
 ### Art. 16.
 
@@ -5811,7 +5916,7 @@ Ne sont adoptées qu’à la majorité des voix de tous les copropriétaires, le
 
 A défaut de décision prise dans les conditions de majorité prévues au présent article, une nouvelle assemblée générale statue dans les conditions prévues à l’article précédent.
 
-<a id="art_N1ED71"></a>
+<a id="art_N1F174"></a>
 
 ### Art. 17.
 
@@ -5821,7 +5926,7 @@ Sont prises à la majorité des membres du syndicat représentant au moins les t
 2. la modification, ou éventuellement l’établissement, du règlement de copropriété dans la mesure où il concerne la jouissance, l’usage et l’admintstration des parties communes;
 3. loi du 22 mars 2017 loi modifiée du 16 mai 1975
 
-<a id="art_N1EDC7"></a>
+<a id="art_N1F1CA"></a>
 
 ### Art. 18.
 
@@ -5829,7 +5934,7 @@ L’assemblée générale ne peut, à quelque majorité que ce soit, imposer à 
 
 Elle ne peut, sauf à l’unanimité des voix de tous les copropriétaires, décider l’aliénation des parties communes dont la conservation est nécessaire au respect de la destination de l’immeuble.
 
-<a id="art_N1EE02"></a>
+<a id="art_N1F205"></a>
 
 ### Art. 19.
 
@@ -5841,7 +5946,7 @@ Lorsque le règlement de copropriété met à la charge de certains copropriéta
 
 Chacun d’eux vote alors avec un nombre de voix proportionnel à sa participation auxdites dépenses.
 
-<a id="art_N1EE5B"></a>
+<a id="art_N1F25E"></a>
 
 ### Art. 19-1.
 
@@ -5851,7 +5956,7 @@ S’il y a partage égal tant des voix que des copropriétaires, il est immédia
 
 Si, après ce deuxième vote, il y a toujours partage, tout copropriétaire peut saisir le tribunal d’arrondissement à l’effet de départager les copropriétaires et d’habiliter le syndic à exécuter la décision ainsi rendue.
 
-<a id="art_N1EEAB"></a>
+<a id="art_N1F2AE"></a>
 
 ### Art. 20.
 
@@ -5867,7 +5972,7 @@ La rémunération du syndic judiciaire est déterminée par l’ordonnance de no
 
 Ses fonctions cessent de plein droit à compter de l’acceptation de son mandat par le syndic désigné par l’assemblée générale.
 
-<a id="art_N1EF0A"></a>
+<a id="art_N1F30D"></a>
 
 ### Art. 21.
 
@@ -5876,7 +5981,7 @@ Indépendamment des pouvoirs qui lui sont conférés par d’autres dispositions
 - d’assurer l’exécution des dispositions du règlement de copropriété et des délibérations de l’assemblée générale;
 - d’administrer l’immeuble, de pourvoir à sa conservation, à sa garde et à son entretien et, en cas d’urgence, de faire procéder de sa propre initiative à l’exécution de tous travaux nécessaires à la sauvegarde de celui-ci.
 
-<a id="art_N1EF48"></a>
+<a id="art_N1F34B"></a>
 
 ### Art. 22.
 
@@ -5886,7 +5991,7 @@ Le président statue comme en matière de référés sur assignation donnée au 
 
 Lorsque, pour quelque cause que ce soit, le syndicat se trouve dépourvu de syndic, le président du conseil syndical ou, à défaut, tout membre de ce conseil, procède à la convocation de l’assemblée générale en vue de la désignation du syndic. Jusqu’à l’entrée en fonction du nouveau syndic, le conseil syndical est chargé d’accomplir les actes de gestion courante, y compris les appels de fonds, et les actes nécessités par l’urgence. Les décisions du conseil syndical sont exécutées par son président. Lorsqu’il n’a pas été institué de conseil syndical, le droit de convoquer l’assemblée générale et le droit d’accomplir les actes susmentionnés appartiennent à toute personne désignée par accord des copropriétaires représentant au moins le tiers des membres du syndicat. A défaut d’un tel accord, tout copropriétaire peut demander, par voie de requête au président du tribunal, la désignation d’un administrateur provisoire qui dispose du pouvoir d’accomplir les actes susmentionnés.
 
-<a id="art_N1EF98"></a>
+<a id="art_N1F39B"></a>
 
 ### Art. 23.
 
@@ -5894,7 +5999,7 @@ Un conseil syndical peut à tout moment être institué, en vue d’assister le 
 
 A défaut de désignation dans les conditions prévues à l’article 16 le conseil syndical peut être désigné par ordonnance du président du tribunal de l’arrondissement dans lequel est situé l’immeuble, sur requête de l’un des copropriétaires, les autres entendus ou dûment appelés.
 
-<a id="art_N1EFD3"></a>
+<a id="art_N1F3D6"></a>
 
 ### Art. 24.
 
@@ -5910,7 +6015,7 @@ Les créances visées à l’alinéa 1er bénéficient en outre du privilège pr
 
 Les dispositions des articles 819, 821, 824 et 825 du Code de procédure civile sont applicables au recouvrement des créances visées à l’alinéa qui précède.
 
-<a id="art_N1F03F"></a>
+<a id="art_N1F442"></a>
 
 ### Art. 25.
 
@@ -5918,7 +6023,7 @@ Lors de la mutation à titre onéreux d’un lot, et si le vendeur n’a pas pr�
 
 L’acquéreur d’un lot est solidairement tenu avec le vendeur des charges restant dues au titre de l’exercice clos et des mois de l’exercice en cours.
 
-<a id="art_N1F086"></a>
+<a id="art_N1F489"></a>
 
 ### Art. 26.
 
@@ -5928,7 +6033,7 @@ A la même majorité elle fixe la répartition du coût des travaux et de la cha
 
 Elle fixe, à la même majorité, la répartition des dépenses de fonctionnement,d’entretien et de remplacement des parties communes ou des éléments transformés ou créés.
 
-<a id="art_N1F0D6"></a>
+<a id="art_N1F4D9"></a>
 
 ### Art. 27.
 
@@ -5936,19 +6041,19 @@ Lorsque l’assemblée générale refuse d’autoriser un ou plusieurs copropri�
 
 Lorsqu’il est possible de réserver l’usage des installations à celui ou à ceux des copropriétaires qui les ont exécutées, les autres copropriétaires ne peuvent être autorisés à les utiliser qu’en versant leur quote-part du coût des travaux, évalués à la date où cette faculté est exercée. Si l’usage des installations ne peut être réservé à celui ou à ceux des copropriétaires qui les ont exécutés, ceux-ci supportent seuls le coût des travaux, mais le tribunal fixe les conditions dans lesquelles les autres copropriétaires peuvent utiliser les installations ainsi réalisées, et notamment leur participation aux dépenses d’entretien, de fonctionnement, de réfection et de réparation.
 
-<a id="art_N1F11D"></a>
+<a id="art_N1F520"></a>
 
 ### Art. 28.
 
 Aucun des copropriétaires ou de leurs ayants droit ne peut faire obstacle à l’exécution, même à l’intérieur de ses parties privatives, des travaux régulièrement et expressément décidés par l’assemblée générale en vertu des articles 16 d) et 26.
 
-<a id="art_N1F15B"></a>
+<a id="art_N1F55E"></a>
 
 ### Art. 29.
 
 La décision prévue à l’article 26 n’est pas opposable au copropriétaire opposant qui a, dans le délai prévu à l’article 34, alinéa 2, saisi le tribunal civil en vue de faire reconnaître que l’amélioration décidée présente un caractère somptuaire eu égard à l’état,aux caractéristiques et à la destination de l’immeuble.
 
-<a id="art_N1F18D"></a>
+<a id="art_N1F590"></a>
 
 ### Art. 30.
 
@@ -5960,7 +6065,7 @@ La modification corrélative des quotes-parts de droits dans les parties commune
 
 Si le règlement de copropriété stipule une majorité supérieure pour prendre la décision prévue à l’alinéa précédent, cette clause ne peut être modifiée qu’à cette même majorité.
 
-<a id="art_N1F1E6"></a>
+<a id="art_N1F5E9"></a>
 
 ### Art. 31.
 
@@ -5968,7 +6073,7 @@ Les copropriétaires qui subissent un préjudice par suite de l’exécution des
 
 Cette indemnité, qui est à la charge de l’ensemble des copropriétaires, est répartie, s’il s’agit de travaux décidés dans les conditions prévues à l’article 26 en proportion de la participation de chacun au coût des travaux et, s’il s’agit de travaux de surélévation prévus à l’article 30, selon la proportion initiale des droits de chacun dans les parties communes.
 
-<a id="art_N1F221"></a>
+<a id="art_N1F624"></a>
 
 ### Art. 32.
 
@@ -5978,13 +6083,13 @@ Dans le cas où le syndicat déciderait la reconstruction, les indemnités repr�
 
 Les indemnités représentatives de l’immeuble détruit, si elles ne sont pas employées à la reconstruction ou à la réparation de l’immeuble assuré, sont affectées au paiement des créances privilégiées et hypothécaires selon le rang de chacune d’elles.
 
-<a id="art_N1F265"></a>
+<a id="art_N1F668"></a>
 
 ### Art. 33.
 
 Si la décision est prise, dans les conditions prévues à l’article précédent, de ne pas remettre en état le bâtiment sinistré, il est procédé à la liquidation des droits dans la copropriété et à l’indemnisation de ceux des copropriétaires dont le lot n’est pas reconstitué.
 
-<a id="art_N1F297"></a>
+<a id="art_N1F69A"></a>
 
 ### Art. 33-1.
 
@@ -5992,7 +6097,7 @@ Est nulle toute convention par laquelle un propriétaire ou un tiers se réserve
 
 La convention portant sur le droit de construire des bâtiments nouveaux dans les cours, parcs ou jardins est toutefois licite si elle indique l’importance et la consistance des constructions à ériger et les modifications que leur exécution entraînerait dans les droits et charges des copropriétaires. Elle devient caduque si le droit n’a pas été exercé dans les dix années.
 
-<a id="art_N1F2DE"></a>
+<a id="art_N1F6E1"></a>
 
 ### Art. 34.
 
@@ -6002,37 +6107,37 @@ Les actions qui ont pour objet de contester les décisions des assemblées gén�
 
 En cas de modification par l’assemblée générale des bases de répartition des charges dans les cas où cette faculté lui est reconnue par la présente loi, le tribunal civil, saisi par un copropriétaire, dans le délai prévu ci-dessus, d’une contestation relative à cette modification, pourra, si l’action est reconnue fondée, procéder à la nouvelle répartition. Il en est de même en ce qui concerne les répartitions votées en application de l’article 26.
 
-<a id="art_N1F322"></a>
+<a id="art_N1F725"></a>
 
 ### Art. 35.
 
 Tous les litiges nés de l’application de la présente loi sont de la compétence de la juridiction du lieu de la situation de l’immeuble.
 
-<a id="art_N1F354"></a>
+<a id="art_N1F757"></a>
 
 ### Art. 36.
 
 L’article 664 du Code civil est abrogé.
 
-<a id="art_N1F38B"></a>
+<a id="art_N1F78E"></a>
 
 ### Art. 37.
 
 L’article 2205 du Code civil est abrogé et remplacé par la disposition suivante:
 
-<a id="art_N1F3F0"></a>
+<a id="art_N1F7F3"></a>
 
 ### Art. 38.
 
 L’article 13 de la loi du 29 mai 1906 sur les habitations à bon marché est complété par un alinéa 3 conçu comme suit:
 
-<a id="art_N1F439"></a>
+<a id="art_N1F83C"></a>
 
 ### Art. 39.
 
 Un règlement d’administration publique prescrira les mesures d’exécution de la présente loi et réglera notamment la convocation et la tenue des assemblées, la gestion du syndic et le fonctionnement du conseil syndical.
 
-<a id="art_N1F46B"></a>
+<a id="art_N1F86E"></a>
 
 ### Art. 40.
 
@@ -6042,7 +6147,7 @@ Toutes clauses contraires aux articles 2, 3 paragraphe 4, 5, 6, 7 alinéas 1er e
 
 #### Chapitre Ier. - Les assemblées générales de copropriétaires
 
-<a id="art_N1F4CD"></a>
+<a id="art_N1F8D0"></a>
 
 ### Art. 1.
 
@@ -6050,7 +6155,7 @@ Dans tout syndicat de copropriété, il est tenu, au moins une fois chaque anné
 
 Sous réserve des dispositions prévues à l'art. 2 (alinéas 2 et 3) du présent règlement, l'assemblée générale est convoquée par le syndic.
 
-<a id="art_N1F502"></a>
+<a id="art_N1F905"></a>
 
 ### Art. 2.
 
@@ -6062,7 +6167,7 @@ Dans les mêmes cas, s'il n'existe pas de conseil syndical ou si les membres de 
 
 Lorsque l'assemblée est convoquée en application du présent article, la convocation est notifiée au syndic.
 
-<a id="art_N1F53D"></a>
+<a id="art_N1F940"></a>
 
 ### Art. 3.
 
@@ -6072,13 +6177,13 @@ Sauf urgence, cette convocation est notifiée au moins quinze jours avant la dat
 
 Sous réserve des stipulations du règlement de copropriété, l'assemblée générale est réunie dans la commune de la situation de l'immeuble.
 
-<a id="art_N1F575"></a>
+<a id="art_N1F978"></a>
 
 ### Art. 4.
 
 Dans les six jours de la convocation un ou plusieurs copropriétaires ou le conseil syndical, s'il en existe un, notifient à la personne qui a convoqué l'assemblée les questions dont ils demandent l'inscription à l'ordre du jour. Ladite personne notifie aux membres de l'assemblée générale un état de ces questions cinq jours au moins avant la date de cette réunion.
 
-<a id="art_N1F5A7"></a>
+<a id="art_N1F9AA"></a>
 
 ### Art. 5.
 
@@ -6090,13 +6195,13 @@ Sont notifiés au plus tard en même temps que l'ordre du jour:
 4. loi du 16 mai 1975
 5. loi du 16 mai 1975
 
-<a id="art_N1F601"></a>
+<a id="art_N1FA04"></a>
 
 ### Art. 6.
 
 L'assemblée ne délibère valablement que sur les questions inscrites à l'ordre du jour et dans la mesure où les notifications ont été faites conformément aux dispositions des articles 3 à 5 du présent règlement.
 
-<a id="art_N1F633"></a>
+<a id="art_N1FA36"></a>
 
 ### Art. 7.
 
@@ -6104,7 +6209,7 @@ Il est tenu une feuille de présence qui indique les nom et domicile de chaque c
 
 Cette feuille est émargée par chaque copropriétare présent, ou par son mandataire. Elle est certifiée exacte par le président de l'assemblée.
 
-<a id="art_N1F66E"></a>
+<a id="art_N1FA71"></a>
 
 ### Art. 8.
 
@@ -6112,13 +6217,13 @@ Au début de chaque réunion, l'assemblée générale désigne, sous réserve de
 
 Le syndic assure le secrétariat de la séance, sauf décision contraire de l'assemblée générale.
 
-<a id="art_N1F6A6"></a>
+<a id="art_N1FAA9"></a>
 
 ### Art. 9.
 
 Les majorités de voix exigées par les dispositions de la loi du 16 mai 1975 pour le vote des décisions de l'assemblée générale et le nombre de voix prévu à l'art. 2 (alinéa 1er ) du présent règlement sont calculés en tenant compte de la réduction résultant, s'il y a lieu, de l'application du premier alinéa de l'article 19 de ladite loi.
 
-<a id="art_N1F6E6"></a>
+<a id="art_N1FAE9"></a>
 
 ### Art. 10.
 
@@ -6130,13 +6235,13 @@ Sur la demande d'un ou plusieurs copropriétaires opposants, le procès-verbal m
 
 Les procès-verbaux des séances sont inscrits à la suite les uns des autres, sur un registre spécialement ouvert à cet effet.
 
-<a id="art_N1F721"></a>
+<a id="art_N1FB24"></a>
 
 ### Art. 11.
 
 Dans le cas prévu par l'article 16 (dernier alinéa) de la loi du 16 mai 1975, lorsque à défaut de décision prise à la majorité définie audit article 16, une nouvelle assemblée générale doit être réunie pour statuer dans les conditions de majorité prévues par l'article 15 de la loi, et si l'ordre du jour de cette nouvelle assemblée ne porte que sur des questions déjà inscrites à l'ordre du jour de la précédente assemblée, le délai de convocation peut être réduit à huit jours et les notifications prévues à l'article 5 ci-dessus n'ont pas à être renouvelées.
 
-<a id="art_N1F75E"></a>
+<a id="art_N1FB61"></a>
 
 ### Art. 12.
 
@@ -6150,7 +6255,7 @@ Il sera rendu compte à l'assemblée de l'exécution de la délégation.
 
 #### Chapitre II. - Le conseil syndical
 
-<a id="art_N1F7A6"></a>
+<a id="art_N1FBA9"></a>
 
 ### Art. 13.
 
@@ -6160,7 +6265,7 @@ Lorsqu'il n'a pas été prévu par le règlement de copropriété, un conseil sy
 
 Dans ce dernier cas ainsi qu'en l'absence de stipulation particulière du règlement de copropriété qui a créé un conseil syndical, l'assemblée générale, statuant à la même majorité, fixe les règles prévues à l'alinéa 1er du présent article
 
-<a id="art_N1F7E7"></a>
+<a id="art_N1FBEA"></a>
 
 ### Art. 14.
 
@@ -6172,7 +6277,7 @@ A moins qu'ils n'aient été nommés par le règlement de copropriété ou par l
 
 Ils peuvent être révoqués, à tout moment, par décision de l'assemblée générale prise à la majorité prévue à l'article 17 de la loi du 16 mai 1975 lorsqu'ils ont été nommés par le règlement de copropriété ou par la décision même qui a institué le conseil syndical et, dans les autres cas, suivant les conditions prévues pour leur désignation.
 
-<a id="art_N1F82E"></a>
+<a id="art_N1FC31"></a>
 
 ### Art. 15.
 
@@ -6180,7 +6285,7 @@ Un ou plusieurs membres suppléants peuvent être désignés, dans les mêmes co
 
 Dans tous les cas, le conseil syndical n'est plus régulièrement constitué si plus d'un quart des sièges devient vacant pour quelque cause que ce soit.
 
-<a id="art_N1F863"></a>
+<a id="art_N1FC66"></a>
 
 ### Art. 16.
 
@@ -6192,7 +6297,7 @@ Il peut également recevoir d'autres missions ou délégations de l'assemblée g
 
 Un ou plusieurs membres du conseil, habilités à cet effet par ce dernier, peuvent prendre connaissance et copie, au bureau du syndic, après lui en avoir donné avis, de toutes pièces, documents correspondances, registres se rapportant à la gestion du syndic et, d'une manière générale, à l'administration de la copropriété.
 
-<a id="art_N1F8A4"></a>
+<a id="art_N1FCA7"></a>
 
 ### Art. 17.
 
@@ -6204,7 +6309,7 @@ Les honoraires de ces techniciens ainsi que les frais nécessités par le foncti
 
 #### Chapitre III. - Le syndic
 
-<a id="art_N1F8E3"></a>
+<a id="art_N1FCE6"></a>
 
 ### Art. 18.
 
@@ -6214,19 +6319,19 @@ La durée des fonctions du syndic ne peut excéder trois années.
 
 Les fonctions de syndic sont renouvelables.
 
-<a id="art_N1F91B"></a>
+<a id="art_N1FD1E"></a>
 
 ### Art. 19.
 
 Les conditions de la rémunération du syndic sous réserve, le cas échéant, de la réglementation y afférente ainsi que les modalités particulières d'exécution de son mandat sont fixées, par l'assemblée générale, à la majorité prévue par l'article 15 de cette loi.
 
-<a id="art_N1F94D"></a>
+<a id="art_N1FD50"></a>
 
 ### Art. 20.
 
 A l'occasion de l'exécution de sa mission, le syndic peut se faire représenter par l'un de ses préposés.
 
-<a id="art_N1F97F"></a>
+<a id="art_N1FD82"></a>
 
 ### Art. 21.
 
@@ -6234,13 +6339,13 @@ Le syndic engage et congédie le personnel du syndicat et fixe les conditions de
 
 L'assemblée générale a seule qualité pour fixer le nombre et la catégorie des emplois.
 
-<a id="art_N1F9B4"></a>
+<a id="art_N1FDB7"></a>
 
 ### Art. 22.
 
 Le syndic établit et tient à jour une liste de tous les copropriétaires avec l'indication des lots qui leur appartiennent, ainsi que de tous les titulaires des droits visés à l'article 31 ci-dessous, il mentionne leur état civil ainsi que leur domicile réel ou élu.
 
-<a id="art_N1F9E6"></a>
+<a id="art_N1FDE9"></a>
 
 ### Art. 23.
 
@@ -6248,7 +6353,7 @@ Le syndic détient les archives du syndicat, ainsi que toutes conventions, pièc
 
 Il délivre des copies ou extraits, qu'il certifie conformes, de ces procès-verbaux.
 
-<a id="art_N1FA1B"></a>
+<a id="art_N1FE1E"></a>
 
 ### Art. 24.
 
@@ -6256,7 +6361,7 @@ Le syndic tient, pour chaque syndicat de copropriétaires, une comptabilité sé
 
 Il prépare le budget prévisionnel qui est voté par l'assemblée générale.
 
-<a id="art_N1FA50"></a>
+<a id="art_N1FE53"></a>
 
 ### Art. 25.
 
@@ -6270,13 +6375,13 @@ Le syndic peut exiger le versement:
 
 L'assemblée générale décide, s' il y a lieu, du mode de placement des fonds ainsi recueillis.
 
-<a id="art_N1FAB2"></a>
+<a id="art_N1FEB5"></a>
 
 ### Art. 26.
 
 Sauf stipulation contraire du règlement de copropriété, les sommes dues au titre du précédent article portent intérêt au profit du syndicat. Cet intérêt, fixé au taux légal en matière civile, est dû à compter de la mise en demeure adressée par le syndic au copropriétaire défaillant.
 
-<a id="art_N1FAE4"></a>
+<a id="art_N1FEE7"></a>
 
 ### Art. 27.
 
@@ -6284,13 +6389,13 @@ Lorsqu'en cas d'urgence le syndic fait procéder, de sa propre initiative à l'e
 
 Par dérogation aux dispositions de l'article 25 ci-dessus, il peut, dans ce cas, en vue de l'ouverture du chantier et de son premier approvisionnement, demander, sans délibération préalable de l'assemblée générale mais après avoir pris l'avis du conseil syndical, s'il en existe un, le versement d'une provision qui ne peut excéder le tiers du montant du devis estimatif des travaux.
 
-<a id="art_N1FB19"></a>
+<a id="art_N1FF1C"></a>
 
 ### Art. 28.
 
 Toutes sommes ou valeurs reçues au nom et pour le compte du syndicat doivent être versées sans délai à un compte bancaire ou postal ouvert au nom du syndicat. Le règlement de copropriété ou une décision de l'assemblée générale peut, le cas échéant, dans les conditions et sous réserve des garanties qu'il détermine, fixer le montant maximum des fonds que le syndic peut être autorisé à ne pas verser à ce compte.
 
-<a id="art_N1FB4B"></a>
+<a id="art_N1FF4E"></a>
 
 ### Art. 29.
 
@@ -6298,7 +6403,7 @@ Toute convention entre le syndicat et le syndic, ses préposés ou alliés jusqu
 
 Il en est de même des conventions entre le syndicat et une entreprise dont les personnes ci-dessus visées sont propriétaires ou associés, ou dans lesquelles elles exercent les fonctions de gérant, d'administrateur ou de directeur, de salarié ou de préposé.
 
-<a id="art_N1FB80"></a>
+<a id="art_N1FF83"></a>
 
 ### Art. 30.
 
@@ -6306,7 +6411,7 @@ Dans l'hypothèse prévue à l'article 2 (3e alinéa) ci-dessus, le président d
 
 Une mise en demeure, restée infructueuse pendant plus de huit jours, faite au syndic et, le cas échéant, au président du conseil syndical doit précéder l'assignation à peine d'irrecevabilité. Celle-ci est délivrée au syndic et, le cas échéant, au président du conseil syndical.
 
-<a id="art_N1FBB8"></a>
+<a id="art_N1FFBB"></a>
 
 ### Art. 31.
 
@@ -6314,7 +6419,7 @@ Tout transfert de propriété d'un lot ou d'une fraction de lot, toute constitut
 
 Cette notification comporte la désignation du lot ou de la fraction de lot intéressé ainsi que l'indication des nom, prénoms, domicile réel ou élu de l'acquéreur ou du titulaire de droit.
 
-<a id="art_N1FBED"></a>
+<a id="art_N1FFF0"></a>
 
 ### Art. 32.
 
@@ -6322,13 +6427,13 @@ Notre Ministre de la Justice est chargé de l'exécution du présent règlement 
 
 ### Version consolidée applicable au 02/04/2024 : Loi du 19 mars 1988 sur la **publicité foncière** en matière de copropriété.
 
-<a id="art_N1FC38"></a>
+<a id="art_N2003B"></a>
 
 ### Art. 1er.
 
 Lorsque la division d'un immeuble en lots au sens de la loi du 16 mai 1975 portant statut de la copropriété des immeubles bâtis a lieu après l'entrée en vigueur de la présente loi, tout acte ou décision judiciaire sujet à transcription doit contenir, outre les mentions obligatoires de la situation de l'ensemble de l'immeuble prévues aux articles 8 et 9 de la loi du 25 septembre 1905 sur la transcription des droits réels immobiliers ainsi qu'à l'article 2 (2) de la loi du 26 juin 1953 concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques, la désignation cadastrale du lot concerné.
 
-<a id="art_N1FC7F"></a>
+<a id="art_N20082"></a>
 
 ### Art. 2.
 
@@ -6336,13 +6441,13 @@ La désignation du lot est faite par l'administration du cadastre et de la topog
 
 Un règlement grand-ducal détermine les conditions et les modalités de désignation du lot.
 
-<a id="art_N1FCBA"></a>
+<a id="art_N200BD"></a>
 
 ### Art. 3.
 
 L'administration de l'enregistrement et des domaines refusera la formalité de l'enregistrement et de la transcription aux actes visés à l'article premier ne contenant pas la désignation cadastrale du lot concerné, à moins qu'il ne soit constaté dans l'acte qu'en raison de l'urgence, expressément spécifiée, la désignation cadastrale du lot n'a pu être obtenue. Dans ce cas, la demande en désignation du lot est faite au plus tard dans les trois mois de l'acte par le notaire instrumentant. La demande doit être accompagnée des plans et autres pièces à déterminer par règlement grand-ducal. Le notaire constate la nouvelle désignation cadastrale dans un acte dont il assure l'enregistrement et la transcription.
 
-<a id="art_N1FCEC"></a>
+<a id="art_N200EF"></a>
 
 ### Art. 4.
 
@@ -6358,7 +6463,7 @@ En cas de recours, si la contestation est reconnue fondée, le juge de paix arr�
 
 Dès réception par l'administration du cadastre et de la topographie des documents transcrits conformément aux alinéas qui précèdent , tout acte ou décision judiciaire sujet à transcription, se rapportant à un lot au sens de la loi modifiée du 16 mai 1975 portant statut de la copropriété des immeubles bâtis, doit contenir les indications prévues aux articles 1 et 2, sous peine que l'administration de l'enregistrement et des domaines refuse la formalité de l'enregistrement et de la transcription.
 
-<a id="art_N1FDA5"></a>
+<a id="art_N201A8"></a>
 
 ### Art. 5.
 
@@ -6370,13 +6475,13 @@ Les frais d'établissement de l'état descriptif relatifs à un acte modificatif
 
 En cas de contestation portée devant le tribunal, ce dernier statue quant aux frais.
 
-<a id="art_N1FDF2"></a>
+<a id="art_N201F5"></a>
 
 ### Art. 6.
 
 Il est créé, au sein de l'administration du cadastre et de la topographie, un service spécial à la section de la conservation, chargée de l'établissement, de la conservation et de la tenue à jour des documents concernant la désignation cadastrale des lots, qui disposera du personnel nécessaire à la bonne exécution de la présente loi. Il sera recruté pour ce service, par dépassement du nombre des engagements nouveaux prévus à la loi budgétaire, trois agents de la carrière moyenne du rédacteur ou du technicien diplômé et deux agents de la carrière inférieure de l'expéditionnaire administratif ou de l'expéditionnaire technique.
 
-<a id="art_N1FE24"></a>
+<a id="art_N20227"></a>
 
 ### Art. 7.
 
@@ -6388,15 +6493,15 @@ La présente loi entrera en vigueur le 1er jour du douzième mois suivant celui 
 
 #### TITRE 1er — Du pacte logement
 
-<a id="art_N1FEAA"></a>
+<a id="art_N202AD"></a>
 
-### art_N1FEAA
+### art_N202AD
 
 
 
-<a id="art_N1FF4A"></a>
+<a id="art_N2034D"></a>
 
-### art_N1FF4A
+### art_N2034D
 
 
 
@@ -6404,7 +6509,7 @@ La présente loi entrera en vigueur le 1er jour du douzième mois suivant celui 
 
 ##### Chapitre 1er — Dispositions générales
 
-<a id="art_N1FFF4"></a>
+<a id="art_N203F7"></a>
 
 ### Art. 3.
 
@@ -6419,7 +6524,7 @@ Les pouvoirs préemptant et les biens soumis au droit de préemption sont :
 
 Le droit de préemption ne peut être exercé qu’en vue de la réalisation de logements visés par les dispositions relatives aux aides à la construction d’ensembles prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement. Le droit de préemption peut également être exercé en vue de la réalisation de travaux de voirie et d’équipements publics ainsi que de travaux visant à ériger des équipements collectifs conformément aux articles 23 et 24, paragraphe 2 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain.
 
-<a id="art_N2006E"></a>
+<a id="art_N20471"></a>
 
 ### Art. 4.
 
@@ -6443,7 +6548,7 @@ Ne tombent toutefois pas sous le champ d'application du présent titre:
 
 Ne sont en outre pas visées les ventes d'immeubles à construire prévues par les articles 1601-1 à 1601-14 du Code civil.
 
-<a id="art_N200F4"></a>
+<a id="art_N204F7"></a>
 
 ### Art. 5.
 
@@ -6451,7 +6556,7 @@ Les pouvoirs préemptant définis à l'article 3 sont prioritaires sur tout titu
 
 En cas de pluralité de pouvoirs préemptant, l'Etat est prioritaire sur la commune qui est elle-même prioritaire sur le Fonds pour le développement du logement et de l'habitat.
 
-<a id="art_N2012F"></a>
+<a id="art_N20532"></a>
 
 ### Art. 6.
 
@@ -6461,13 +6566,13 @@ Cette action se prescrit par deux ans à partir de la date d'enregistrement de l
 
 ##### Chapitre 2 — Aliénation de gré à gré
 
-<a id="art_N20175"></a>
+<a id="art_N20578"></a>
 
 ### Art. 7.
 
 Toute convention portant sur une aliénation visée à l'article 4 est irréfragablement réputée conclue sous condition suspensive de la renonciation à l'exercice du droit de préemption visé à l'article 3.
 
-<a id="art_N201A7"></a>
+<a id="art_N205AA"></a>
 
 ### Art. 8.
 
@@ -6484,7 +6589,7 @@ Le notaire veillera à communiquer aux pouvoirs préemptant au moins les informa
 5. l'indication du prix et des conditions de l'aliénation projetée;
 6. à défaut de prix, la valeur conventionnelle de la contre-prestation stipulée à charge de l'acquéreur.
 
-<a id="art_N20206"></a>
+<a id="art_N20609"></a>
 
 ### Art. 9.
 
@@ -6492,7 +6597,7 @@ Dans le mois de la notification effectuée en application de l'article 8, les po
 
 A défaut de délivrer un avis de réception du dossier de notification au notaire dans le délai imparti, le pouvoir préemptant est considéré renoncer à l'exercice de son droit de préemption.
 
-<a id="art_N20241"></a>
+<a id="art_N20644"></a>
 
 ### Art. 10.
 
@@ -6500,7 +6605,7 @@ Dans le mois suivant la confirmation de la réception du dossier, les pouvoirs p
 
 Le silence du pouvoir préemptant dans le délai susmentionné vaut renonciation à l'exercice de son droit de préemption.
 
-<a id="art_N2027C"></a>
+<a id="art_N2067F"></a>
 
 ### Art. 11.
 
@@ -6508,7 +6613,7 @@ Dans les trois mois de l'exercice du droit de préemption conformément à l'art
 
 Dans l'hypothèse où le propriétaire cédant ne signe pas l'acte authentique requis, le pouvoir préemptant concerné est en droit de demander judiciairement, l'exécution forcée de l'opération d'aliénation ou la condamnation du propriétaire cédant au paiement de dommages et intérêts.
 
-<a id="art_N202B7"></a>
+<a id="art_N206BA"></a>
 
 ### Art. 12.
 
@@ -6522,13 +6627,13 @@ Les dispositions de l'article 6 sont applicables en cas d'acte authentique dress
 
 ##### Section 1re — Dispositions générales
 
-<a id="art_N20321"></a>
+<a id="art_N20724"></a>
 
 ### Art. 13-1.
 
 L'emphytéose est un droit réel qui consiste à avoir la pleine jouissance d'un immeuble appartenant à autrui, moyennant paiement d'une redevance à convenir entre le propriétaire et l'emphytéote, suivant titre constitutif.
 
-<a id="art_N20353"></a>
+<a id="art_N20756"></a>
 
 ### Art. 13-2.
 
@@ -6536,7 +6641,7 @@ Le titre constitutif est revêtu de la forme notariale ou prend la forme d'un ac
 
 Le titre constitutif est transcrit au bureau de la conservation des hypothèques dans le ressort duquel l'immeuble est situé.
 
-<a id="art_N2038E"></a>
+<a id="art_N20791"></a>
 
 ### Art. 13-3.
 
@@ -6544,7 +6649,7 @@ Le droit d'emphytéose ne peut être établi, sous peine de nullité, pour un te
 
 Le titre constitutif doit indiquer le terme, sous peine de nullité.
 
-<a id="art_N203C9"></a>
+<a id="art_N207CC"></a>
 
 ### Art. 13-4.
 
@@ -6552,13 +6657,13 @@ Tout titre constitutif doit, sous peine de nullité, comprendre un état des lie
 
 ##### Section 2 — Des droits et obligations de l'emphytéote et du propriétaire
 
-<a id="art_N20406"></a>
+<a id="art_N20809"></a>
 
 ### Art. 13-5.
 
 L'emphytéote a la faculté d'aliéner son droit, de l'hypothéquer et de grever l'immeuble de servitudes pendant la durée de l'emphytéose.
 
-<a id="art_N20438"></a>
+<a id="art_N2083B"></a>
 
 ### Art. 13-6.
 
@@ -6568,7 +6673,7 @@ L'emphytéote peut améliorer l'immeuble par des constructions.
 
 Le titre constitutif peut prévoir que l'emphytéote est tenu de faire des constructions dont il aura également la pleine jouissance.
 
-<a id="art_N2047C"></a>
+<a id="art_N2087F"></a>
 
 ### Art. 13-7.
 
@@ -6578,13 +6683,13 @@ Les réparations de toute nature qui se rapportent à l'immeuble et aux construc
 
 Toute perte de l'immeuble ou des constructions est à charge de l'emphytéote, sauf preuve de la force majeure.
 
-<a id="art_N204C0"></a>
+<a id="art_N208C3"></a>
 
 ### Art. 13-8.
 
 L'emphytéote supporte toutes les impositions et taxes sur l'immeuble et sur les constructions.
 
-<a id="art_N204F2"></a>
+<a id="art_N208F5"></a>
 
 ### Art. 13-9.
 
@@ -6598,7 +6703,7 @@ En cas de vente de l'immeuble à un tiers acheteur en dépit du droit de préemp
 
 ##### Section 3 — De la fin de l'emphytéose
 
-<a id="art_N2054A"></a>
+<a id="art_N2094D"></a>
 
 ### Art. 13-10.
 
@@ -6608,7 +6713,7 @@ L'emphytéose prend fin, entre autres, par:
 - la perte totale ou l'expropriation totale de l'immeuble;
 - la prescription extinctive de trente ans.
 
-<a id="art_N20589"></a>
+<a id="art_N2098C"></a>
 
 ### Art. 13-11.
 
@@ -6618,13 +6723,13 @@ A l'expiration de son droit, s'il n'a pas usé du pouvoir conféré par l'aliné
 
 L'emphytéote ne peut pas enlever les constructions qu'il a été tenu de réaliser.
 
-<a id="art_N205CD"></a>
+<a id="art_N209D0"></a>
 
 ### Art. 13-12.
 
 Sauf disposition contraire du titre constitutif, l'emphytéote ne peut forcer le propriétaire de l'immeuble à payer la valeur des constructions, quelles qu'elles soient, qui se trouvent sur le terrain à l'expiration de l'emphytéose.
 
-<a id="art_N205FF"></a>
+<a id="art_N20A02"></a>
 
 ### Art. 13-13.
 
@@ -6634,13 +6739,13 @@ A la fin de l'emphytéose, le propriétaire a contre l'emphytéote une action pe
 
 ##### Section 1re — Dispositions générales
 
-<a id="art_N2064A"></a>
+<a id="art_N20A4D"></a>
 
 ### Art. 14-1.
 
 Par dérogation à l'article 552 du Code civil, le droit de superficie est un droit réel, conféré par le propriétaire d'un immeuble à un superficiaire, moyennant paiement d'une contribution financière à convenir entre le propriétaire et le superficiaire, suivant un titre constitutif, autorisant le superficiaire à y ériger des constructions qui seront sa propriété jusqu'à l'expiration du droit de superficie.
 
-<a id="art_N20681"></a>
+<a id="art_N20A84"></a>
 
 ### Art. 14-2.
 
@@ -6648,7 +6753,7 @@ Le titre constitutif est revêtu de la forme notariale ou prend la forme d'un ac
 
 Le titre constitutif est transcrit au bureau de la conservation des hypothèques dans le ressort duquel l'immeuble est situé.
 
-<a id="art_N206BC"></a>
+<a id="art_N20ABF"></a>
 
 ### Art. 14-3.
 
@@ -6656,7 +6761,7 @@ Le droit de superficie ne peut être établi, sous peine de nullité, pour un te
 
 Le titre constitutif doit indiquer le terme sous peine de nullité.
 
-<a id="art_N206F7"></a>
+<a id="art_N20AFA"></a>
 
 ### Art. 14-4.
 
@@ -6664,13 +6769,13 @@ Tout titre constitutif doit, sous peine de nullité, comprendre un état des lie
 
 ##### Section 2 — Des droits et obligations du superficiaire et du propriétaire
 
-<a id="art_N20734"></a>
+<a id="art_N20B37"></a>
 
 ### Art. 14-5.
 
 Le superficiaire a la faculté d'aliéner son droit, de l'hypothéquer et de grever l'immeuble de servitudes pendant la durée du droit de superficie.
 
-<a id="art_N20766"></a>
+<a id="art_N20B69"></a>
 
 ### Art. 14-6.
 
@@ -6678,19 +6783,19 @@ Le superficiaire dispose pleinement, en sa qualité de propriétaire, des constr
 
 Il peut notamment les démolir ou les enlever, à condition toutefois de remettre l'immeuble, à l'expiration du droit de superficie, dans l'état où il se trouvait avant la construction.
 
-<a id="art_N207A1"></a>
+<a id="art_N20BA4"></a>
 
 ### Art. 14-7.
 
 Le superficiaire jouit pleinement des constructions existantes au jour de la signature du titre constitutif, et dont il n'a pas payé la valeur au propriétaire. Il exerce tous les droits attachés à la propriété de ces constructions sans toutefois pouvoir en aucun cas en diminuer la valeur.
 
-<a id="art_N207D3"></a>
+<a id="art_N20BD6"></a>
 
 ### Art. 14-8.
 
 Le superficiaire supporte toutes les impositions et taxes établies sur l'immeuble et sur les constructions.
 
-<a id="art_N20805"></a>
+<a id="art_N20C08"></a>
 
 ### Art. 14-9.
 
@@ -6704,7 +6809,7 @@ En cas de vente de l'immeuble à un tiers acheteur en dépit du droit de préemp
 
 ##### Section 3 — De la fin du droit de superficie
 
-<a id="art_N2085D"></a>
+<a id="art_N20C60"></a>
 
 ### Art. 14-10.
 
@@ -6714,19 +6819,19 @@ Le droit de superficie prend fin, entre autres, par:
 - la perte totale ou l'expropriation totale de l'immeuble;
 - la prescription extinctive de trente ans.
 
-<a id="art_N2089C"></a>
+<a id="art_N20C9F"></a>
 
 ### Art. 14-11.
 
 A l'expiration du droit de superficie, la propriété des constructions visées à l'article 14-6 passe au propriétaire, à charge par lui de rembourser la valeur actuelle de ces constructions au superficiaire, qui, jusqu'au remboursement, détiendra un droit de rétention.
 
-<a id="art_N208CE"></a>
+<a id="art_N20CD1"></a>
 
 ### Art. 14-12.
 
 Pour les constructions visées à l'article 14-7, le superficiaire ne dispose plus d'aucun droit sur celles-ci à l'expiration du droit de superficie, sans être en droit de réclamer une quelconque indemnité ni prix au propriétaire.
 
-<a id="art_N20900"></a>
+<a id="art_N20D03"></a>
 
 ### Art. 14-13.
 
@@ -6736,13 +6841,13 @@ A la fin du droit de superficie, le propriétaire a contre le superficiaire une 
 
 ##### Chapitre 1er — De la taxe communale spécifique sur certains immeubles
 
-<a id="art_N20955"></a>
+<a id="art_N20D58"></a>
 
 ### Art. 15.
 
 Les communes sont autorisées à établir et à percevoir à leur profit une taxe annuelle spécifique sur les immeubles situés sur leur territoire.
 
-<a id="art_N20987"></a>
+<a id="art_N20D8A"></a>
 
 ### Art. 16.
 
@@ -6751,7 +6856,7 @@ Sont considérés comme immeubles soumis à la taxe spécifique prévue à l'art
 1. les immeubles bâtis ou les parties d'immeubles bâtis destinés au logement ou à l'hébergement de personnes et qui ne sont pas occupés ou utilisés effectivement. L'état de non-occupation d'un immeuble résulte du fait qu'aucune personne n'y est inscrite sur les registres de la population ou qu'aucune personne n'y est recensée en qualité d'occupant d'une résidence secondaire pendant une période de 18 mois consécutifs;
 2. loi modifiée du 19 juillet 2004
 
-<a id="art_N209C8"></a>
+<a id="art_N20DCB"></a>
 
 ### Art. 17.
 
@@ -6759,13 +6864,13 @@ Est redevable de la taxe spécifique le propriétaire ou, en cas de démembremen
 
 Si plusieurs personnes sont co-titulaires d'un des droits énoncés à l'alinéa 1, elles sont tenues solidairement et indivisiblement au paiement de la taxe spécifique.
 
-<a id="art_N20A03"></a>
+<a id="art_N20E06"></a>
 
 ### Art. 18.
 
 Les communes ont la possibilité de ne pas exiger totalement ou partiellement le paiement de la taxe spécifique, notamment en cas de projet de construction ou d'aménagement aux fins d'occupation, en cas de transfert des droits de propriété, pour l'année au cours de laquelle la vente ou la cession de l'immeuble est constatée par acte authentique et les deux années subséquentes, en cas d'activité agricole à titre professionnel ainsi qu'en cas de réservation d'une place à bâtir ou d'un logement à des fins d'habitation ou d'occupation personnelle par le propriétaire lui-même ou l'un de ses enfants pendant un délai maximum à fixer par voie de règlement communal.
 
-<a id="art_N20A35"></a>
+<a id="art_N20E38"></a>
 
 ### Art. 19.
 
@@ -6775,13 +6880,13 @@ Le propriétaire ou le cédant est tenu de communiquer à l'administration commu
 
 Le bénéficiaire du droit concédé dispose d'un délai de trente jours à partir de la passation de l'acte authentique pour informer la commune de son intention au regard de l'occupation de l'immeuble.
 
-<a id="art_N20A79"></a>
+<a id="art_N20E7C"></a>
 
 ### Art. 20.
 
 L'état de non-occupation ou de non-affectation à la construction des immeubles définis à l'article 16 est constaté par les agents communaux habilités à cette fin par le collège des bourgmestre et échevins.
 
-<a id="art_N20AAB"></a>
+<a id="art_N20EAE"></a>
 
 ### Art. 21.
 
@@ -6789,7 +6894,7 @@ Les constatations motivées entraînant le paiement de la taxe spécifique sont 
 
 Si le domicile ou le siège social du redevable n'est pas connu, la notification est valablement faite par affichage sur le site de l'immeuble concerné.
 
-<a id="art_N20AE6"></a>
+<a id="art_N20EE9"></a>
 
 ### Art. 22.
 
@@ -6799,7 +6904,7 @@ La contestation doit être faite par lettre recommandée à la poste.
 
 Le délai de trois mois commence à courir à partir de la date de la notification du courrier communal ou de la date de l'affichage prévu à l'article 21.
 
-<a id="art_N20B2A"></a>
+<a id="art_N20F2D"></a>
 
 ### Art. 23.
 
@@ -6807,7 +6912,7 @@ La commune dispose d'un délai de trois mois à compter de l'envoi du courrier r
 
 A défaut de décision dans ce délai, la contestation est considérée comme fondée terminant la procédure de la perception de la taxe spécifique.
 
-<a id="art_N20B65"></a>
+<a id="art_N20F68"></a>
 
 ### Art. 24.
 
@@ -6820,13 +6925,13 @@ Le recours devant les juridictions administratives n'a pas d'effet suspensif qua
 
 La taxe spécifique n'est plus due à partir de l'exercice qui suit celui au cours duquel la commune a constaté d'office ou à la demande du redevable que les conditions prévues pour la perception de la taxe spécifique ne sont plus remplies.
 
-<a id="art_N20BAD"></a>
+<a id="art_N20FB0"></a>
 
 ### Art. 25.
 
 La perception de la taxe spécifique, son recouvrement et le contentieux se font d'après la législation relative à la liquidation de l'impôt foncier. La taxe spécifique n'est pas déductible en matière fiscale.
 
-<a id="art_N20BDF"></a>
+<a id="art_N20FE2"></a>
 
 ### Art. 26.
 
@@ -6836,13 +6941,13 @@ Les bordereaux d'inscription doivent contenir le montant de la taxe spécifique 
 
 Les formalités découlant du présent article ne donnent lieu à aucune perception au profit de l'Etat.
 
-<a id="art_N20C23"></a>
+<a id="art_N21026"></a>
 
 ### Art. 27.
 
 Les décisions concernant l'introduction de la taxe spécifique ainsi que les modalités d'exécution sont fixées par voie de règlements communaux.
 
-<a id="art_N20C55"></a>
+<a id="art_N21058"></a>
 
 ### Art. 28.
 
@@ -6850,7 +6955,7 @@ Toutes les contestations en rapport avec l'exécution du présent chapitre sont 
 
 ##### Chapitre 2 — Des mesures fiscales
 
-<a id="art_N20C92"></a>
+<a id="art_N21095"></a>
 
 ### Art. 29. Plus-values et bénéfices de cession exemptés d'impôt sur le revenu.
 
@@ -6858,7 +6963,7 @@ Les bénéfices de spéculation au sens de l'article 99bis et les revenus au sen
 
 #### TITRE 5 — ** Dispositions modificatives, transitoires et abrogatoires**
 
-<a id="art_N20CE4"></a>
+<a id="art_N210E7"></a>
 
 ### Art. 30.
 
@@ -6872,7 +6977,7 @@ La loi modifiée du 25 février 1979 concernant l'aide au logement est modifiée
 4. L'article 54 est complété par l'alinéa suivant:
 5. A l'article 55, la liste des missions du Fonds est remplacée par la liste suivante:
 
-<a id="art_N20D99"></a>
+<a id="art_N2119C"></a>
 
 ### Art. 31.
 
@@ -6887,7 +6992,7 @@ La loi modifiée du 19 juillet 2004 concernant l'aménagement communal et le dé
 7. er
 8. L'article 108bis, paragraphe 2, est complété par l'alinéa suivant:
 
-<a id="art_N21086"></a>
+<a id="art_N21489"></a>
 
 ### Art. 32.
 
@@ -6899,7 +7004,7 @@ La loi modifiée du 16 octobre 1934 concernant l'évaluation des biens et valeur
 3. Il est inséré un paragraphe 53bis, relatif aux catégories des immeubles non bâtis, libellé comme suit:
 4. er er
 
-<a id="art_N21183"></a>
+<a id="art_N21586"></a>
 
 ### Art. 33.
 
@@ -6910,7 +7015,7 @@ La loi modifiée du 1er décembre 1936 sur l'impôt foncier est modifiée comme 
 - Il est ajouté un alinéa 4 libellé comme suit:
 3. Les paragraphes 21bis, 21ter et 21quater sont abrogés.
 
-<a id="art_N2128C"></a>
+<a id="art_N2168F"></a>
 
 ### Art. 34.
 
@@ -6919,25 +7024,25 @@ La loi modifiée du 30 juillet 2002 déterminant différentes mesures fiscales d
 1. A l'article 5, le paragraphe a) prend la teneur suivante:
 2. L'article 11 prend la teneur suivante:
 
-<a id="art_N2132C"></a>
+<a id="art_N2172F"></a>
 
 ### Art. 35.
 
 A l'article 7, alinéa 2, de la loi modifiée du 10 décembre 1998 portant création de l'établissement public dénommé «Fonds d'assainissement de la Cité Syrdall», les termes pendant 10 ans sont supprimés.
 
-<a id="art_N21366"></a>
+<a id="art_N21769"></a>
 
 ### Art. 36.
 
 L'article 1er, paragraphe (3), alinéa 1, premier tiret, de la loi du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil est modifié comme suit:
 
-<a id="art_N213B7"></a>
+<a id="art_N217BA"></a>
 
 ### Art. 37.
 
 Dans toute disposition légale ou réglementaire future, la référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes de «loi du 22 octobre 2008 portant sur le droit d’emphytéose et le droit de superficie et introduisant différentes mesures administratives et fiscales en faveur de la promotion de l’habitat. ».
 
-<a id="art_N213FA"></a>
+<a id="art_N217FD"></a>
 
 ### Art. 38.
 
@@ -6946,7 +7051,7 @@ Sont abrogées:
 1. loi du 10 janvier 1824
 2. loi du 10 janvier 1824
 
-<a id="art_N2143E"></a>
+<a id="art_N21841"></a>
 
 ### Art. 39.
 
@@ -6966,7 +7071,7 @@ Les autres articles de la présente loi entrent en vigueur le 1er jour du mois q
 
 **(3)** Les procédures de déclaration de zone de réserves foncières entamées sur base de la loi modifiée du 25 février 1979 concernant l'aide au logement et toujours en cours au jour de l'entrée en vigueur de la présente loi peuvent être achevées conformément à la procédure établie par ladite loi modifiée du 25 février 1979.
 
-<a id="art_N214E3"></a>
+<a id="art_N218E6"></a>
 
 ### Art. 40.
 
