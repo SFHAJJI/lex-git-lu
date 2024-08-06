@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:code-fonction_publique:2024-08-04
+lex_id: lu-legilux:code-fonction_publique:2024-08-06
 title: Code de la fonction publique
-valid_from: 2024-08-04
-valid_to: 2024-08-05
-source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20240804/fr
-source_sha256: 2de0fd10c7f7f3694408d089b2049ae808db5ea8a06b8d46fd2c04e3a629c704
+valid_from: 2024-08-06
+valid_to: 2024-09-15
+source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20240806/fr
+source_sha256: b1b85cc07d75ec9be2266c4ffcdbbb1932a42bf3e6374461317ef03d64bb166c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -9421,7 +9421,7 @@ Sans préjudice des dispositions de l’article 44 ci-dessous, et en cas de manq
 
 ##### Version rectifiée applicable au 15/03/2004 : Règlement grand-ducal du 5 mars 2004 fixant les conditions et modalités de l'ordre de justification à adresser aux fonctionnaires de l'Etat.
 
-<a id="art_N29842"></a>
+<a id="art_N29844"></a>
 
 ### Art. 1er.
 
@@ -9429,13 +9429,13 @@ Lorsqu'une infraction aux devoirs du fonctionnaire a été constatée, le chef d
 
 Sous peine de nullité, l'ordre de justification est expédié dans les sept jours ouvrables à partir du moment où le chef d'administration ou son délégué a eu connaissance des faits qui sont reprochés au fonctionnaire fautif. Cette expédition se fait moyennant la formule annexée au présent règlement, sous enveloppe fermée, au lieu de service du fonctionnaire concerné ou, s'il est en congé pour plus de deux jours, par lettre recommandée à son domicile.
 
-<a id="art_N29880"></a>
+<a id="art_N29882"></a>
 
 ### Art. 2.
 
 L'agent concerné est tenu de fournir par écrit ses explications sur le ou les faits lui reprochés à l'expéditeur dans les dix jours de la notification de l'ordre.
 
-<a id="art_N298B2"></a>
+<a id="art_N298B4"></a>
 
 ### Art. 3.
 
@@ -9443,13 +9443,13 @@ Le refus ou l'abstention de prendre position dans le délai imparti vaut aveu du
 
 Dans ce cas, le chef d'administration ou son délégué est tenu de soumettre incessamment le dossier à l'autorité investie du pouvoir disciplinaire.
 
-<a id="art_N298ED"></a>
+<a id="art_N298EF"></a>
 
 ### Art. 4.
 
 Selon la gravité des faits et la pertinence de la justification, le chef d'administration ou son délégué décide, soit de verser le document au dossier personnel de l'agent soit d'en saisir l'autorité investie du pouvoir disciplinaire.
 
-<a id="art_N2991F"></a>
+<a id="art_N29921"></a>
 
 ### Art. 5.
 
@@ -9469,13 +9469,13 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 ##### Version consolidée applicable au 12/03/2019 : Loi du 1er août 2018 portant fixation des conditions et modalités d’un compte épargne-temps dans la Fonction publique et modification :1° du Code du travail ; et2° de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
-<a id="art_N29B35"></a>
+<a id="art_N29B37"></a>
 
 ### Art. 1er.
 
 La présente loi est applicable aux agents de l’État visés à l’article 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, dénommée ci-après « statut général », ainsi qu’aux agents des établissements publics assimilés aux agents de l’État.
 
-<a id="art_N29B7A"></a>
+<a id="art_N29B7C"></a>
 
 ### Art. 2.
 
@@ -9485,7 +9485,7 @@ Au sens de la présente loi, il y a lieu d’entendre par :
 2. « congé épargne-temps » : le congé rémunéré pris par l’utilisation sur base des droits découlant du CET ;
 3. er
 
-<a id="art_N29BC6"></a>
+<a id="art_N29BC8"></a>
 
 ### Art. 3.
 
@@ -9493,7 +9493,7 @@ L’administration met en place un CET individuel, qui est tenu en heures et en 
 
 Pour l’application de la présente loi, une leçon prestée dans l’enseignement correspond à deux heures prestées dans l’administration.
 
-<a id="art_N29C09"></a>
+<a id="art_N29C0B"></a>
 
 ### Art. 4.
 
@@ -9502,7 +9502,7 @@ Les éléments suivants sont automatiquement affectés au CET :
 1. la partie du congé de récréation excédant vingt-cinq jours dans la mesure où les jours de congé correspondants n’ont pas été pris au courant de l’année écoulée ;
 2. les heures de travail prestées dans le cadre de l’horaire de travail mobile qui, à la fin du mois, dépassent la durée normale de travail.
 
-<a id="art_N29C4F"></a>
+<a id="art_N29C51"></a>
 
 ### Art. 5.
 
@@ -9513,7 +9513,7 @@ Les éléments suivants peuvent être affectés au CET à la demande de l’agen
 3. les leçons supplémentaires des enseignants à concurrence d’un maximum annuel de 20 pour cent de leur tâche moyenne de base de l’année concernée ;
 4. le congé de reconnaissance attribué dans le cadre du système d’appréciation des performances professionnelles.
 
-<a id="art_N29C9B"></a>
+<a id="art_N29C9D"></a>
 
 ### Art. 6.
 
@@ -9525,7 +9525,7 @@ L’agent reste titulaire du même CET et des droits en découlant dans les cas 
 4. en cas de détachement ; en cas de détachement d’un agent auprès d’un organisme international, le CET est tenu en suspens ;
 5. l’employé de l’État qui devient fonctionnaire de l’État et inversement.
 
-<a id="art_N29CEA"></a>
+<a id="art_N29CEC"></a>
 
 ### Art. 7.
 
@@ -9537,7 +9537,7 @@ L’agent reste titulaire du même CET et des droits en découlant dans les cas 
 
 **(4)** Le cumul du congé épargne-temps et du congé de récréation ne peut dépasser une année. Pour les enseignants, le cumul du congé épargne-temps et des vacances scolaires ne peut dépasser la durée d’une année scolaire.
 
-<a id="art_N29D5B"></a>
+<a id="art_N29D5D"></a>
 
 ### Art. 8.
 
@@ -9545,7 +9545,7 @@ Le solde horaire du CET est limité à mille huit cents heures. Pour les enseign
 
 Tout excédent est supprimé sans contrepartie.
 
-<a id="art_N29D9E"></a>
+<a id="art_N29DA0"></a>
 
 ### Art. 9.
 
@@ -9559,7 +9559,7 @@ En cas de décès de l’agent, l’indemnité est versée aux ayants droit.
 
 La valeur du point indiciaire applicable est celle en vigueur au moment du versement de l’indemnité.
 
-<a id="art_N29DFC"></a>
+<a id="art_N29DFE"></a>
 
 ### Art. 31.
 
@@ -9569,7 +9569,7 @@ D’éventuels dépassements du seuil prévu à l’article 8 doivent être util
 
 En cas de cessation des fonctions avant la fin de la période précitée de cinq ans, le solde est indemnisé conformément à l’article 9, sans application du seuil prévu à l’article 8.
 
-<a id="art_N29E48"></a>
+<a id="art_N29E4A"></a>
 
 ### Art. 31bis.
 
@@ -9577,13 +9577,13 @@ Les dispositions concernant les congés extraordinaires prévus par l’article 
 
 Les congés supplémentaires ainsi accordés au fonctionnaire sont affectés à son CET.
 
-<a id="art_N29E9C"></a>
+<a id="art_N29E9E"></a>
 
 ### Art. 32.
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant : « loi du 1er août 2018 portant fixation des conditions et modalités d’un compte épargne-temps dans la Fonction publique ».
 
-<a id="art_N29EDF"></a>
+<a id="art_N29EE1"></a>
 
 ### Art. 33.
 
@@ -9591,19 +9591,19 @@ La présente loi entre en vigueur le premier jour du deuxième mois qui suit cel
 
 ##### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N29F29"></a>
+<a id="art_N29F2B"></a>
 
 ### Art. 18.
 
 Une semaine de travail compte en principe cinq journées de travail se situant du lundi au samedi.
 
-<a id="art_N29F6F"></a>
+<a id="art_N29F71"></a>
 
 ### Art. 18-1.
 
 La durée de travail s’entend comme le temps pendant lequel le fonctionnaire est à la disposition de son administration à l’exclusion de la coupure et des repos visés aux articles 18-3 à 18-5 et des périodes d’astreinte à domicile visées à l’article 19, paragraphe 2.
 
-<a id="art_N29FC1"></a>
+<a id="art_N29FC3"></a>
 
 ### Art. 18-2.
 
@@ -9615,25 +9615,25 @@ En cas de service à temps partiel, la durée normale de travail est fixée prop
 
 En cas de service à temps partiel, la répartition des heures de travail peut être convenue avec le chef d’administration dans l’intérêt du service.
 
-<a id="art_N2A022"></a>
+<a id="art_N2A024"></a>
 
 ### Art. 18-3.
 
 Si la durée de travail journalière est supérieure à six heures, le travail est interrompu par une coupure d’au moins une demi-heure.
 
-<a id="art_N2A068"></a>
+<a id="art_N2A06A"></a>
 
 ### Art. 18-4.
 
 Le repos journalier, qui est la durée minimale de repos située entre deux jours de travail consécutifs, est fixé à au moins onze heures consécutives.
 
-<a id="art_N2A0B4"></a>
+<a id="art_N2A0B6"></a>
 
 ### Art. 18-5.
 
 Le repos hebdomadaire, qui est la période minimale de repos au cours de chaque période de sept jours, est fixé à au moins vingt-quatre heures consécutives auxquelles s’ajoutent les onze heures de repos journalier.
 
-<a id="art_N2A100"></a>
+<a id="art_N2A102"></a>
 
 ### Art. 18-6.
 
@@ -9641,13 +9641,13 @@ Les administrations de l’État peuvent appliquer un horaire de travail mobile.
 
 Ce type d’organisation de travail permet d’aménager au jour le jour la durée et l’horaire individuel de travail dans le respect des règles fixées aux articles 18-7, 18-9 et 18-10.
 
-<a id="art_N2A155"></a>
+<a id="art_N2A157"></a>
 
 ### Art. 18-7.
 
 L’amplitude de la durée de travail journalière comprend la période qui s’étend de 6.30 à 19.30 heures.
 
-<a id="art_N2A19B"></a>
+<a id="art_N2A19D"></a>
 
 ### Art. 18-8.
 
@@ -9659,7 +9659,7 @@ Ce décompte peut présenter un solde positif constitué par des heures excéden
 
 Le solde négatif est compensé conformément aux dispositions de la loi précitée du 1er août 2018.
 
-<a id="art_N2A22C"></a>
+<a id="art_N2A22E"></a>
 
 ### Art. 18-9.
 
@@ -9667,7 +9667,7 @@ Les heures d’ouverture sont celles pendant lesquelles l’administration doit 
 
 Le chef d’administration fixe les heures d’ouverture de l’administration après avoir demandé l’avis de la représentation du personnel, si elle existe. Les heures d’ouverture sont communiquées au public par la voie appropriée.
 
-<a id="art_N2A281"></a>
+<a id="art_N2A283"></a>
 
 ### Art. 18-10.
 
@@ -9683,7 +9683,7 @@ Par dérogation à l’alinéa 1er, le chef d’administration peut fixer des he
 
 Le temps de présence obligatoire est la période de la journée pendant laquelle le fonctionnaire doit être présent sur le lieu de travail à moins qu’il ne dispose d’une autorisation de s’absenter, d’une dispense de service ou d’un congé dûment accordés par le chef d’administration.
 
-<a id="art_N2A311"></a>
+<a id="art_N2A313"></a>
 
 ### Art. 18-11.
 
@@ -9693,19 +9693,19 @@ L’enregistrement des heures d’arrivée et de départ, ainsi que le décompte
 
 Les modalités pratiques de la gestion du temps de travail peuvent être fixées par règlement grand-ducal.
 
-<a id="art_N2A369"></a>
+<a id="art_N2A36B"></a>
 
 ### Art. 18-12.
 
 Le fonctionnaire qui, de manière répétée, ne respecte pas les règles sur l’horaire de travail mobile peut se voir temporairement imposer un horaire de travail fixe pour une durée maximale de trois mois, sans préjudice de l’application éventuelle de sanctions disciplinaires. Cette décision est prise par le chef d’administration, le fonctionnaire entendu en ses explications.
 
-<a id="art_N2A3AF"></a>
+<a id="art_N2A3B1"></a>
 
 ### Art. 18-13
 
 En cas de besoin de service, le travail peut être organisé par équipes successives par dérogation aux articles 18, 18-6 et 18-7. Les modalités pratiques du travail par équipes successives peuvent être fixées par règlement grand-ducal.
 
-<a id="art_N2A3F5"></a>
+<a id="art_N2A3F7"></a>
 
 ### Art. 19.
 
@@ -9733,7 +9733,7 @@ Les heures supplémentaires sont indemnisées intégralement si les nécessités
 
 **3.** Un règlement grand-ducal fixe les indemnités pour heures de travail supplémentaires ainsi que celles pour astreinte à domicile et détermine les catégories de fonctionnaires pouvant en bénéficier.
 
-<a id="art_N2A4C6"></a>
+<a id="art_N2A4C8"></a>
 
 ### Art. 19bis.
 
@@ -9741,7 +9741,7 @@ Le fonctionnaire peut être autorisé par le chef d’administration à réalise
 
 Un règlement grand-ducal peut déterminer les conditions générales relatives à l’exercice du télétravail.
 
-<a id="art_N2A512"></a>
+<a id="art_N2A514"></a>
 
 ### Art. 19ter.
 
@@ -9769,7 +9769,7 @@ La demande de renouvellement est adressée de la même manière au moins un mois
 
 La mise en compte de la dispense de service pour le droit à la pension et pour le calcul de la pension est déterminée par la législation relative aux pensions des fonctionnaires de l’Etat.
 
-<a id="art_N2A5D3"></a>
+<a id="art_N2A5D5"></a>
 
 ### Art. 19quater.
 
@@ -9790,7 +9790,7 @@ Les dispenses de service prévues au point 7° sont répertoriées dans un regis
 
 #### 7. Heures supplémentaires - Astreinte à domicile
 
-<a id="art_N2A691"></a>
+<a id="art_N2A693"></a>
 
 ### Art. 19.
 
@@ -9822,7 +9822,7 @@ Les heures supplémentaires sont indemnisées intégralement si les nécessités
 
 ##### **Chapitre I.** — ** Champ d’application**
 
-<a id="art_N2A782"></a>
+<a id="art_N2A784"></a>
 
 ### Art. 1er.
 
@@ -9830,13 +9830,13 @@ Le présent règlement grand-ducal s’applique aux fonctionnaires de l’État 
 
 ##### **Chapitre III.** — **Conditions et modalités suivant lesquelles le fonctionnaire est tenu d’accomplir des heures supplémentaires**
 
-<a id="art_N2A7D8"></a>
+<a id="art_N2A7DA"></a>
 
 ### Art. 3.
 
 
 
-<a id="art_N2A809"></a>
+<a id="art_N2A80B"></a>
 
 ### Art. 4.
 
@@ -9846,7 +9846,7 @@ Le présent règlement grand-ducal s’applique aux fonctionnaires de l’État 
 
 La prestation d’heures supplémentaires peut être autorisée pour une période de six mois au maximum par décision du ministre du ressort, sur avis des ministres ayant respectivement la Fonction publique et les Finances dans leurs attributions.
 
-<a id="art_N2A86A"></a>
+<a id="art_N2A86C"></a>
 
 ### Art. 5.
 
@@ -9854,7 +9854,7 @@ Le ministre du ressort transmet pour exécution au Centre de gestion du personne
 
 ##### **Chapitre IV.** — **Indemnités pour heures de travail supplémentaires et pour astreinte à domicile**
 
-<a id="art_N2A8BB"></a>
+<a id="art_N2A8BD"></a>
 
 ### Art. 6.
 
@@ -9870,7 +9870,7 @@ Si les heures de travail supplémentaires sont compensées par un repos correspo
 
 **2.** Pour le fonctionnaire qui a accompli sa tâche hebdomadaire et qui doit faire du service supplémentaire le samedi, le supplément est celui dû pour travail de dimanche.
 
-<a id="art_N2A928"></a>
+<a id="art_N2A92A"></a>
 
 ### Art. 7.
 
@@ -9888,13 +9888,13 @@ Le fonctionnaire soumis à astreinte à domicile bénéficie d’un congé de co
 
 ##### **Chapitre VI.** — **Dispositions transitoires et exécutoires**
 
-<a id="art_N2A9D7"></a>
+<a id="art_N2A9D9"></a>
 
 ### Art. 9.
 
 Par dérogation aux articles 6 et 7 ci-dessus, les régimes d’indemnisation plus favorables en vigueur dans les administrations et services de l’État à la date du 1er janvier 1990 restent maintenus aussi longtemps qu’ils ne sont pas dépassés par les dispositions du présent règlement.
 
-<a id="art_N2AA0C"></a>
+<a id="art_N2AA0E"></a>
 
 ### Art. 10.
 
@@ -9904,7 +9904,7 @@ Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N2AA62"></a>
+<a id="art_N2AA64"></a>
 
 ### Art. 19bis.
 
@@ -9914,7 +9914,7 @@ Un règlement grand-ducal peut déterminer les conditions générales relatives 
 
 #### 9. Indemnités spéciales
 
-<a id="art_N2AACD"></a>
+<a id="art_N2AACF"></a>
 
 ### Art. 23.
 
@@ -9932,7 +9932,7 @@ De même, si un fonctionnaire est appelé à faire un service ou un travail qu�
 
 ##### Règlement grand-ducal du 13 avril 1984 déterminant les conditions et les modalités de l'allocation de l'indemnité spéciale prévue à l'article 23 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N2AB89"></a>
+<a id="art_N2AB8B"></a>
 
 ### Art. 1er.
 
@@ -9944,7 +9944,7 @@ Par service ou travail extraordinaire au sens de l'article 23 de la loi modifié
 4. missions spéciales, occasionnelles ou permanentes, confiées à un ou plusieurs agents en dehors de leurs fonctions normales sur ordre exprès de leur ministre ou chef d'administration;
 2. le cas où un fonctionnaire est appelé à remplir temporairement des fonctions relevant d'une carrière supérieure en traitement ou à cumuler tout ou partie d'un emploi vacant.
 
-<a id="art_N2ABB6"></a>
+<a id="art_N2ABB8"></a>
 
 ### Art. 2.
 
@@ -9952,7 +9952,7 @@ Par service ou travail extraordinaire au sens de l'article 23 de la loi modifié
 
 **2.** Le Ministre du ressort fait parvenir une copie de sa proposition au Ministre de la Fonction Publique qui en saisit l'administration.
 
-<a id="art_N2ABDB"></a>
+<a id="art_N2ABDD"></a>
 
 ### Art. 3.
 
@@ -9970,13 +9970,13 @@ Par service ou travail extraordinaire au sens de l'article 23 de la loi modifié
 
 **3)** L'avis de l'administration est transmis au Ministre de la Fonction Publique qui le soumet au Ministre concerné et au Gouvernement en Conseil.
 
-<a id="art_N2AC2C"></a>
+<a id="art_N2AC2E"></a>
 
 ### Art. 4.
 
 Les indemnités spéciales accordées selon les règles appliquées avant l'entrée en vigueur du présent règlement restent maintenues.
 
-<a id="art_N2AC3C"></a>
+<a id="art_N2AC3E"></a>
 
 ### Art. 5.
 
@@ -9988,7 +9988,7 @@ Les Membres du Gouvernement son chargés, chacun en ce qui le concerne, de l'ex�
 
 ##### **Chapitre 1er. ** — **Dispositions générales**
 
-<a id="art_N2AC83"></a>
+<a id="art_N2AC85"></a>
 
 ### Art. 1er.
 
@@ -10000,7 +10000,7 @@ Le personnel soumis aux dispositions du présent règlement est dénommé par la
 
 Dans le cadre du présent règlement, les termes «partenaire» et «partenariat» sont à comprendre dans le sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-<a id="art_N2AD0E"></a>
+<a id="art_N2AD10"></a>
 
 ### Art. 2.
 
@@ -10008,25 +10008,25 @@ Dans le cadre du présent règlement, les termes «partenaire» et «partenariat
 
 ##### **Chapitre 2.** — **Congé annuel de récréation**
 
-<a id="art_N2AD4F"></a>
+<a id="art_N2AD51"></a>
 
 ### Art. 3.
 
 **2.** L’année de congé est l’année de calendrier.
 
-<a id="art_N2AD97"></a>
+<a id="art_N2AD99"></a>
 
 ### Art. 4.
 
 
 
-<a id="art_N2ADC8"></a>
+<a id="art_N2ADCA"></a>
 
 ### Art. 5.
 
 
 
-<a id="art_N2ADF9"></a>
+<a id="art_N2ADFB"></a>
 
 ### Art. 6.
 
@@ -10036,19 +10036,19 @@ Les fractions de mois dépassant quinze jours de calendrier sont comptées comme
 
 Les fractions de congé supérieur à la demi-journée sont considérées comme jours entiers. Les fractions de congé inférieures à la demi-journée sont considérées comme demi-journée.
 
-<a id="art_N2AE45"></a>
+<a id="art_N2AE47"></a>
 
 ### Art. 7.
 
 Lorsque la durée d’un congé sans traitement se prolonge au-delà de l’année en cours, la partie du congé de récréation correspondant à vingt-cinq jours qui n’a pu être accordée à l’agent durant l’année en cours est reportée sur l’année au cours de laquelle l’agent reprend ses fonctions au service de l’État.
 
-<a id="art_N2AE77"></a>
+<a id="art_N2AE79"></a>
 
 ### Art. 8.
 
 Si durant son congé annuel, l’agent est atteint d’une maladie qui l’aurait mis dans l’impossibilité d’assurer son service s’il ne s’était pas trouvé en congé, la période de maladie n’est pas imputée sur le congé de récréation, à la condition que l’intéressé ait sollicité immédiatement - le cas échéant par téléphone - un congé de maladie auprès de son supérieur hiérarchique. La demande en question, qui doit mentionner l’adresse exacte du séjour de l’agent malade, est à compléter par une attestation médicale justifiant l’incapacité de travail de l’intéressé.
 
-<a id="art_N2AEA9"></a>
+<a id="art_N2AEAB"></a>
 
 ### Art. 9.
 
@@ -10056,7 +10056,7 @@ Le chef d’administration ou son délégué accordent le congé de récréation
 
 Pour les chefs d’administration, cette décision est prise par le ministre du ressort.
 
-<a id="art_N2AEE4"></a>
+<a id="art_N2AEE6"></a>
 
 ### Art. 10.
 
@@ -10064,7 +10064,7 @@ Le congé de récréation est accordé en principe selon le désir de l’agent 
 
 Sous réserve d’une nécessité impérieuse de service, est notamment à considérer comme désir justifié dans le sens de l’alinéa qui précède celui de l’agent ayant ses enfants en âge scolaire et ayant demandé de prendre tout ou partie de son congé de récréation pendant la période des vacances scolaires.
 
-<a id="art_N2AF1F"></a>
+<a id="art_N2AF21"></a>
 
 ### Art. 11.
 
@@ -10074,19 +10074,19 @@ Si le solde négatif dans le cadre de l’horaire de travail mobile est imputé 
 
 Dans tous les cas, le congé annuel de récréation doit comporter au moins une période de deux semaines consécutives.
 
-<a id="art_N2AF63"></a>
+<a id="art_N2AF65"></a>
 
 ### Art. 12.
 
 L’agent qui a décidé de ne pas affecter sur son compte épargne-temps la partie du congé de récréation visée à l’article 5, point 1°, de la loi du 1er août 2018 portant fixation des conditions et modalités d’un compte épargne-temps dans la Fonction publique, peut se voir accorder ce congé jusqu’au 31 mars de l’année suivante.
 
-<a id="art_N2AF9E"></a>
+<a id="art_N2AFA0"></a>
 
 ### Art. 13.
 
 Exceptionnellement, le congé accordé à l’agent peut être différé pour des raisons impérieuses de service.
 
-<a id="art_N2AFD0"></a>
+<a id="art_N2AFD2"></a>
 
 ### Art. 14.
 
@@ -10096,25 +10096,25 @@ En outre son congé restant sera majoré d’un délai de route adéquat.
 
 ##### **Chapitre 4. ** — **Congé pour raisons de santé**
 
-<a id="art_N2B028"></a>
+<a id="art_N2B02A"></a>
 
 ### Art. 16.
 
 
 
-<a id="art_N2B059"></a>
+<a id="art_N2B05B"></a>
 
 ### Art. 17.
 
 
 
-<a id="art_N2B08A"></a>
+<a id="art_N2B08C"></a>
 
 ### Art. 18.
 
 
 
-<a id="art_N2B0BB"></a>
+<a id="art_N2B0BD"></a>
 
 ### Art. 19.
 
@@ -10125,19 +10125,19 @@ Le décompte des congés pour raisons de santé est communiqué en copie:
 
 La correspondance relative aux congés pour raisons de santé est confidentielle; seuls les fonctionnaires qui y sont appelés par leurs fonctions peuvent en prendre connaissance.
 
-<a id="art_N2B108"></a>
+<a id="art_N2B10A"></a>
 
 ### Art. 20.
 
 L’agent porté malade est obligé de reprendre son service dès que son état de santé lui permet de s’acquitter de sa tâche d’une manière satisfaisante, alors même que le congé de maladie lui accordé ne serait pas encore expiré.
 
-<a id="art_N2B13A"></a>
+<a id="art_N2B13C"></a>
 
 ### Art. 21.
 
 
 
-<a id="art_N2B16B"></a>
+<a id="art_N2B16D"></a>
 
 ### Art. 22.
 
@@ -10161,7 +10161,7 @@ Cette règle ne vaut pas dans l’hypothèse où l’incapacité de travail pour
 
 **6.** Dans les cas où le congé pour raisons de santé se prolonge au-delà d’une période de six semaines consécutives, le médecin de contrôle peut, à partir du quarante-troisième jour, sur demande écrite de l’agent et avec l’accord du chef d’administration ou de son délégué, dispenser d’une ou de plusieurs restrictions de sortie prévues au présent article.
 
-<a id="art_N2B21C"></a>
+<a id="art_N2B21E"></a>
 
 ### Art. 23.
 
@@ -10174,13 +10174,13 @@ Cette règle ne vaut pas dans l’hypothèse où l’incapacité de travail pour
 
 **2.** Les dispositions reprises à l’article 12 du statut général sont applicables dans les cas visés au paragraphe 1er du présent article.
 
-<a id="art_N2B278"></a>
+<a id="art_N2B27A"></a>
 
 ### Art. 24.
 
 Si l’agent cohabite avec une personne atteinte d’une maladie contagieuse et qu’il doit être éloigné de son service et confiné par mesure prophylactique dans sa demeure, suivant décision de l’Inspection sanitaire, il est considéré comme étant atteint d’incapacité de travail.
 
-<a id="art_N2B2AA"></a>
+<a id="art_N2B2AC"></a>
 
 ### Art. 25.
 
@@ -10190,7 +10190,7 @@ Si la cure n’est pas prise en charge par l’assurance maladie, la demande de 
 
 ##### **Chapitre 5. ** — **Congé de compensation**
 
-<a id="art_N2B2F5"></a>
+<a id="art_N2B2F7"></a>
 
 ### Art. 26.
 
@@ -10198,7 +10198,7 @@ Si la cure n’est pas prise en charge par l’assurance maladie, la demande de 
 
 **4.** Le Conseil de Gouvernement peut fixer des jours de congé de compensation collectifs, en précisant les catégories d’agents auxquels ils s’appliquent.
 
-<a id="art_N2B364"></a>
+<a id="art_N2B366"></a>
 
 ### Art. 27.
 
@@ -10206,7 +10206,7 @@ Si la cure n’est pas prise en charge par l’assurance maladie, la demande de 
 
 ##### **Chapitre 9. ** — **Congés sans traitement**
 
-<a id="art_N2B3CC"></a>
+<a id="art_N2B3CE"></a>
 
 ### Art. 31.
 
@@ -10230,7 +10230,7 @@ Pour les agents de l’enseignement, les congés sans traitement visés par le p
 
 ##### **Chapitre 11.** — **Congés pour activité syndicale ou politique**
 
-<a id="art_N2B48B"></a>
+<a id="art_N2B48D"></a>
 
 ### Art. 33.
 
@@ -10238,7 +10238,7 @@ Pour être prise en considération au titre de l’article 28-8 du statut géné
 
 Tous les cinq ans, le Gouvernement en conseil fixe le volume des congés et dispenses de service qui sera mis annuellement à la disposition des organisations professionnelles visées ci-dessus, désigne les organisations bénéficiaires et arrête la répartition du congé et des dispenses de service entre elles.
 
-<a id="art_N2B4D5"></a>
+<a id="art_N2B4D7"></a>
 
 ### Art. 34.
 
@@ -10246,7 +10246,7 @@ Tous les cinq ans, le Gouvernement en conseil fixe le volume des congés et disp
 
 ##### **Chapitre 16.** — **Congé individuel de formation**
 
-<a id="art_N2B54B"></a>
+<a id="art_N2B54D"></a>
 
 ### Art. 39.
 
@@ -10303,7 +10303,7 @@ Toutefois si le congé individuel concerne une formation qui est suivie dans l�
 
 ##### **Chapitre 17.** — **Dispositions finales**
 
-<a id="art_N2B6AA"></a>
+<a id="art_N2B6AC"></a>
 
 ### Art. 40.
 
@@ -10311,19 +10311,19 @@ Toutefois si le congé individuel concerne une formation qui est suivie dans l�
 
 **3.** Lorsque l’intérêt du service l’exige, les présentes dispositions peuvent être complétées par des instructions plus détaillées par décision du ministre du ressort sur avis conforme du ministre ayant la Fonction publique dans ses attributions.
 
-<a id="art_N2B702"></a>
+<a id="art_N2B704"></a>
 
 ### Art. 41.
 
 Le règlement grand-ducal modifié du 22 août 1985 fixant le régime des congés des fonctionnaires et employés de l’État est abrogé.
 
-<a id="art_N2B73A"></a>
+<a id="art_N2B73C"></a>
 
 ### Art. 42.
 
 Le présent règlement entre en vigueur le premier jour du mois qui suit celui de sa publication au Mémorial.
 
-<a id="art_N2B76C"></a>
+<a id="art_N2B76E"></a>
 
 ### Art. 43.
 
@@ -10331,13 +10331,13 @@ Notre Ministre déléguée à la Fonction publique et à la Réforme administrat
 
 ##### Version consolidée applicable au 01/01/2008 : Loi du 4 octobre 1973 concernant l'institution d'un congé-éducation.
 
-<a id="art_N2B7B4"></a>
+<a id="art_N2B7B6"></a>
 
 ### Art. 1er.
 
 Au chapitre IV. – Congés spéciaux du Livre II, Titre III du Code du travail, l’intitulé et le dispositif de la section 1 sont remplacés comme suit: *Section 1.** Congé-jeunesse***Art. L. 234-1.**Il est institué un congé-jeunesse dont le but est de soutenir le développement d’activités en faveur de la jeunesse au niveau local, régional et national. L’octroi du congé-jeunesse doit permettre la participation des jeunes à des stages, journées ou semaines d’études, cours, sessions ou rencontres à l’intérieur du pays et à l’étranger, dont le programme est approuvé par le ministre ayant la Jeunesse dans ses attributions. Sont éligibles pour l’obtention du congé-jeunesse, les activités suivantes: la formation et le perfectionnement d’animateurs de jeunesse;la formation et le perfectionnement de cadres de mouvements de jeunesse ou d’associations culturelles et sportives pour autant que les activités de formation et de perfectionnement visent essentiellement les jeunes; l’organisation et l’encadrement de stages de formation ou d’activités éducatives pour les jeunes.L’approbation de ce programme ainsi que l’octroi du congé-jeunesse se font dans la mesure des crédits inscrits à cet effet au budget annuel de l’État.**Art. L. 234-2.**La durée du congé-jeunesse complet ne peut dépasser soixante jours. Nul ne peut bénéficier d’un congé-jeunesse de plus de vingt jours par période de deux ans. Ce congé peut être fractionné; chaque fraction doit comporter au moins deux jours, sauf s’il s’agit d’une série cohérente de cours dont chacun dure une journée seulement. La durée du congé-jeunesse ne peut être imputée sur le congé normal tel qu’il résulte des articles L. 233-1 à L. 233-15 ou d’un accord collectif ou individuel.**Art. L. 234-3.**Le congé-jeunesse est accordé aux conditions suivantes:l’intéressé doit être normalement occupé sur un lieu de travail situé sur le territoire luxembourgeois, lié par un contrat de travail à une entreprise ou association légalement établie et active au Grand-Duché de Luxembourg; le congé ne peut être rattaché au congé annuel légal ou à une période de maladie pour le cas où ce cumul causerait une absence continue de plus de trois semaines; le congé peut être différé si l’absence sollicitée risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise ou au déroulement harmonieux du congé annuel payé du personnel. Pour les personnes travaillant à temps partiel, les jours de congé-jeunesse sont calculés proportionnellement.**Art. L. 234-4.**La durée du congé-jeunesse est assimilée à une période de travail effectif. Pendant la durée du congé, les dispositions législatives en matière de sécurité sociale et de protection du travail restent applicables aux bénéficiaires. Les bénéficiaires du congé-jeunesse touchent pour chaque journée de congé une indemnité compensatoire égale au salaire journalier moyen tel que défini par l’article L. 233-14, sans qu’elle ne puisse dépasser le quadruple du salaire social minimum pour travailleurs non qualifiés. L’employeur avance cette indemnité laquelle lui sera remboursée par l’État.**Art. L. 234-5.**La gestion du congé-jeunesse incombe au ministre ayant dans ses attributions la Jeunesse. **Art. L. 234-6.**Les modalités d’application de la présente section sont fixées par règlement grand-ducal. **Art. L. 234-7.**Les infractions aux dispositions des articles L. 234-1 à L. 234-4 ainsi qu’au règlement d’exécution sont punies d’une amende de 251 à 5.000 euros.
 
-<a id="art_N2B8DC"></a>
+<a id="art_N2B8DE"></a>
 
 ### Art. 2.
 
@@ -10349,7 +10349,7 @@ L’indemnité compensatoire revenant aux ayants droit visés par le présent ar
 
 ##### Règlement grand-ducal du 11 novembre 2008 déterminant les modalités d'application du congé-jeunesse.
 
-<a id="art_N2B93A"></a>
+<a id="art_N2B93C"></a>
 
 ### Art. 1er.
 
@@ -10357,13 +10357,13 @@ Le nombre de jours de congé-jeunesse auxquels peut prétendre le demandeur est 
 
 Cependant le demandeur, qui pour l'organisation d'activités prévues par l'article L. 234-1 sous c) du Code de travail n'est pas titulaire d'un brevet d'aide-animateur ou d'animateur ou ne dispose pas d'une qualification équivalente; ne peut prétendre qu'à un nombre de jours de congé-jeunesse correspondant à deux tiers du nombre de jours investis dans le travail avec les jeunes. Dans ce cas les fractions de jours pris en compte sont arrondies au nombre entier supérieur.
 
-<a id="art_N2B950"></a>
+<a id="art_N2B952"></a>
 
 ### Art. 2.
 
 Pour la réalisation des activités visées par l'article L. 234-1 sous c) du Code de travail, le nombre maximal des demandeurs pouvant prétendre au congé-jeunesse par activité organisée est obtenu en divisant le nombre de participants par 5, les fractions étant arrondies au nombre entier supérieur.
 
-<a id="art_N2B960"></a>
+<a id="art_N2B962"></a>
 
 ### Art. 3.
 
@@ -10372,7 +10372,7 @@ L'approbation du programme par le ministre peut avoir lieu sur demande:
 1. des organisations de jeunesse ou des sections de jeunes rattachées à une organisation d'adultes et reconnues par le ministre;
 2. des organisations en charge des activités visées par l'article L. 234-1 du Code de travail.
 
-<a id="art_N2B97A"></a>
+<a id="art_N2B97C"></a>
 
 ### Art. 4.
 
@@ -10382,7 +10382,7 @@ Le programme prévisionnel de l'activité doit être joint à la demande.
 
 La décision par laquelle le ministre accorde ou refuse le congé est notifiée au demandeur et à l'employeur avant le début du congé sollicité.
 
-<a id="art_N2B990"></a>
+<a id="art_N2B992"></a>
 
 ### Art. 5.
 
@@ -10392,13 +10392,13 @@ Le ministre rembourse à l'employeur, au vu de la fiche de salaire du bénéfici
 
 L'indemnité compensatoire des personnes exerçant une activité professionnelle indépendante ou libérale leur est payée directement par l'Etat sur base d'un formulaire prescrit accompagné d'un certificat de revenu.
 
-<a id="art_N2B9A6"></a>
+<a id="art_N2B9A8"></a>
 
 ### Art. 6.
 
 Le règlement grand-ducal du 22 février 1974 concernant l'octroi d'un congé-éducation tel que modifié par la suite est abrogé.
 
-<a id="art_N2B9BA"></a>
+<a id="art_N2B9BC"></a>
 
 ### Art. 7.
 
@@ -10406,7 +10406,7 @@ Notre Ministre de la Famille et de l'Intégration et Notre Ministre du Trésor e
 
 ##### Version consolidée applicable au 01/01/2024 : Loi du 3 août 2005 concernant le sport et portant a) modification de la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés; b) modification du code des assurances sociales; c) dérogation aux articles 5 et 9 de la loi modifiée du 24 mai 1989 sur le contrat de travail.
 
-<a id="art_N2B9DE"></a>
+<a id="art_N2B9E0"></a>
 
 ### Art. 15. Le congé sportif
 
@@ -10414,7 +10414,7 @@ Il est institué un congé spécial dénommé congé sportif qui est pris en cha
 
 ##### Version consolidée applicable au 14/08/2023 : Loi communale du 13 décembre 1988.
 
-<a id="art_N2BA0D"></a>
+<a id="art_N2BA0F"></a>
 
 ### Art. 78.
 
@@ -10422,7 +10422,7 @@ Les agents des secteurs public et privé qui sont bourgmestre, échevin ou conse
 
 Par agent des secteurs public et privé on entend toute personne qui fournit contre rémunération un travail sous l’autorité d’une autre personne, publique ou privée.
 
-<a id="art_N2BA4D"></a>
+<a id="art_N2BA4F"></a>
 
 ### Art. 79.
 
@@ -10432,13 +10432,13 @@ Pendant ce congé, les agents qui exercent un de ces mandats ou une de ces fonct
 
 Les éléments à prendre en considération pour l’établissement de la rémunération normale sont fixés par règlement grand-ducal.
 
-<a id="art_N2BA96"></a>
+<a id="art_N2BA98"></a>
 
 ### Art. 80.
 
 Il est remboursé à l’employeur de l’agent, par l’intermédiaire du fonds des dépenses communales, un montant correspondant à la rémunération brute majorée des cotisations patronales versées aux organismes de la sécurité sociale pendant la période pendant laquelle l’agent s’est absenté du travail pour remplir son mandat ou ses fonctions, le tout aux conditions et selon les modalités fixées par règlement grand-ducal.
 
-<a id="art_N2BACD"></a>
+<a id="art_N2BACF"></a>
 
 ### Art. 81.
 
@@ -10446,13 +10446,13 @@ Les membres des professions indépendantes ainsi que les personnes sans professi
 
 ##### Version consolidée applicable au 01/08/2024 : Règlement grand-ducal modifié du 6 décembre 1989 concernant le congé politique des bourgmestres, échevins et conseillers communaux.
 
-<a id="art_N2BB15"></a>
+<a id="art_N2BB17"></a>
 
 ### Art. 1er.
 
 Les agents visés à l’article 78 de la loi communale du 13 décembre 1988 ont droit à un congé politique dans les cas et selon les modalités fixés ci-après.
 
-<a id="art_N2BB4F"></a>
+<a id="art_N2BB51"></a>
 
 ### Art. 2.
 
@@ -10469,7 +10469,7 @@ Le congé politique de ces agents, lorsqu’ils remplissent les fonctions respec
 
 Le nombre d’habitants correspond à la population réelle par commune déterminée sur base du registre national des personnes physiques au 1er janvier de l’année concernée.
 
-<a id="art_N2BC16"></a>
+<a id="art_N2BC18"></a>
 
 ### Art. 3bis.
 
@@ -10487,7 +10487,7 @@ L’agent concerné est tenu de signaler immédiatement à son employeur tout ch
 
 **(5)** En aucun cas, le total du congé politique ne saurait dépasser un maximum de 40 heures par semaine.
 
-<a id="art_N2BCFD"></a>
+<a id="art_N2BCFF"></a>
 
 ### Art. 4.
 
@@ -10495,7 +10495,7 @@ Les nombres maxima de jours de travail ou de parties de jours de travail par sem
 
 Lorsqu’ils n’exercent l’activité professionnelle salariée qu’à temps partiel, les nombres maxima d’heures de congé politique prévues à ce titre sont adaptés proportionnellement au temps de travail de l’agent. Le solde des heures effectivement dues aux termes des articles 2 et 3*bis* est bonifié aux intéressés conformément aux dispositions de l’art. 8 ci-dessous.
 
-<a id="art_N2BD5C"></a>
+<a id="art_N2BD5E"></a>
 
 ### Art. 5.
 
@@ -10503,7 +10503,7 @@ Le congé politique visé aux articles qui précèdent ne peut être utilisé pa
 
 L’agent ayant droit au congé politique prend ce congé à sa convenance par jour de travail ou partie de jour de travail. Il ne peut toutefois reporter le congé d’une année de calendrier à l’autre.
 
-<a id="art_N2BD97"></a>
+<a id="art_N2BD99"></a>
 
 ### Art. 6.
 
@@ -10513,7 +10513,7 @@ La durée du congé politique ne peut pas être imputée sur le congé annuel de
 
 Les bénéficiaires du congé politique continuent, pendant la durée du congé, à toucher leur rémunération et à jouir des avantages attachés à leur activité professionnelle.
 
-<a id="art_N2BDDB"></a>
+<a id="art_N2BDDD"></a>
 
 ### Art. 7.
 
@@ -10525,7 +10525,7 @@ La déclaration est faite sur une fiche que chaque agent reçoit du collège des
 
 L’exactitude des indications de la fiche est certifiée par la signature de l’agent intéressé.
 
-<a id="art_N2BE2D"></a>
+<a id="art_N2BE2F"></a>
 
 ### Art. 8.
 
@@ -10533,7 +10533,7 @@ Les membres actifs des professions indépendantes ainsi que les personnes sans p
 
 Le montant de l’indemnité horaire est fixé forfaitairement au quadruple du salaire social minimum pour travailleurs qualifiés.
 
-<a id="art_N2BE86"></a>
+<a id="art_N2BE88"></a>
 
 ### Art. 9.
 
@@ -10543,7 +10543,7 @@ Faute d’avoir présenté la déclaration d’indemnisation à cette date, le d
 
 La déclaration est faite sur une fiche que chaque intéressé reçoit du collège des bourgmestre et échevins de la commune où il exerce son mandat. L’intéressé remplit et signe la déclaration et la demande de paiement.
 
-<a id="art_N2BF1B"></a>
+<a id="art_N2BF1D"></a>
 
 ### Art. 11.
 
@@ -10553,7 +10553,7 @@ Notre Ministre de l’Intérieur est chargé de l’exécution du présent règl
 
 ##### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N2BF73"></a>
+<a id="art_N2BF75"></a>
 
 ### Art. 34.
 
@@ -10569,13 +10569,13 @@ Un règlement grand-ducal pourra déterminer les pièces concernant la situation
 
 ##### Version consolidée applicable au 15/03/2004 : Règlement grand-ducal du 13 avril 1984 déterminant les pièces contenues dans le dossier personnel des fonctionnaires de l'Etat.
 
-<a id="art_N2C00A"></a>
+<a id="art_N2C00C"></a>
 
 ### Art. 1er.
 
 Il est constitué pour chaque fonctionnaire et au bureau du personnel de chaque administration et service un dossier personnel comprenant toutes les pièces à usage administratif ou d’origine administrative et les documents relatifs à la situation personnelle et professionnelle ainsi qu’à la carrière de l’intéressé.
 
-<a id="art_N2C03F"></a>
+<a id="art_N2C041"></a>
 
 ### Art. 2.
 
@@ -10594,7 +10594,7 @@ Sont à verser à ce dossier toutes les pièces concernant la situation statutai
 - l’arrêté de démission
 - l’arrêté de l’allocation de la pension.
 
-<a id="art_N2C099"></a>
+<a id="art_N2C09B"></a>
 
 ### Art. 3.
 
@@ -10602,13 +10602,13 @@ Sont à verser à ce dossier toutes les pièces concernant la situation statutai
 
 **2.** Pour les peines de l’avertissement, de la réprimande et de l’amende ne dépassant pas le cinquième d’une mensualité brute du traitement de base, les dispositions de l’article 54, paragraphe 5 de la loi modifiée du 16 avril 1979 précitée sont applicables.
 
-<a id="art_N2C0E7"></a>
+<a id="art_N2C0E9"></a>
 
 ### Art. 4.
 
 Le dossier personnel doit suivre le fonctionnaire pour tout changement d’administration.
 
-<a id="art_N2C119"></a>
+<a id="art_N2C11B"></a>
 
 ### Art. 5.
 
@@ -10625,7 +10625,7 @@ En dehors du dossier personnel du fonctionnaire visé à l’article 1er du pré
 - les décisions relatives aux peines disciplinaires ayant une incidence sur la rémunération
 - l’arrêté de démission.
 
-<a id="art_N2C170"></a>
+<a id="art_N2C172"></a>
 
 ### Art. 6.
 
@@ -10635,7 +10635,7 @@ Les Membres du Gouvernement sont chargés, chacun pour ce qui le concerne, de l�
 
 ##### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N2C1C5"></a>
+<a id="art_N2C1C7"></a>
 
 ### Art. 36.
 
@@ -10667,13 +10667,13 @@ Les modalités d’exécution des dispositions prévues au présent article sont
 
 ##### Version consolidée applicable au 01/10/2015 : Règlement grand-ducal du 5 mars 2004 relatif à la représentation du personnel au sein des administrations, services et établissements publics de l’Etat.
 
-<a id="art_N2C2B2"></a>
+<a id="art_N2C2B4"></a>
 
 ### Art. 1er.
 
 La représentation du personnel est exercée par le conseil d’administration, le comité de l’organe dirigeant - désigné dans la suite du texte par le terme de «comité» - de l’association professionnelle agréée en vertu de l’article 36 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat. Au cas où plusieurs associations représentatives pour les différents sous-groupes de traitement existent au sein d’une même administration, la représentation du personnel est constituée par les comités de ces différentes associations.
 
-<a id="art_N2C2EC"></a>
+<a id="art_N2C2EE"></a>
 
 ### Art. 2.
 
@@ -10681,7 +10681,7 @@ Par administration ou service au sens de l’article 36 précité, l’on entend
 
 Pour l’application des dispositions du présent règlement, le terme «administration» vise indistinctement les administrations et services de l’Etat et les établissements publics placés sous le contrôle de l’Etat.
 
-<a id="art_N2C327"></a>
+<a id="art_N2C329"></a>
 
 ### Art. 3.
 
@@ -10697,7 +10697,7 @@ Le chef d’administration ou son délégué reçoit en outre et dans la mesure 
 
 **5.** Les attributions de la représentation du personnel en matière d’égalité de traitement entre les agents du sexe féminin et ceux du sexe masculin sont fixées par les dispositions du règlement grand-ducal du 5 mars 2004 concernant la désignation, les missions, les droits et devoirs du/de la délégué-e à l’égalité au sein des administrations, services et établissements de l’Etat.
 
-<a id="art_N2C3AE"></a>
+<a id="art_N2C3B0"></a>
 
 ### Art. 4.
 
@@ -10712,7 +10712,7 @@ la direction lui fournit, à la première demande du président, la documentatio
 
 **2.** La direction tient compte, dans la mesure du possible, des propositions écrites que la représentation du personnel lui soumet. Le cas échéant, la disposition de l’article 3 paragraphe 4 ci-dessus est applicable.
 
-<a id="art_N2C40A"></a>
+<a id="art_N2C40C"></a>
 
 ### Art. 5.
 
@@ -10720,7 +10720,7 @@ la direction lui fournit, à la première demande du président, la documentatio
 
 **2.** Les règles régissant ces réunions sont celles fixées par les statuts de l’association pour les délibérations de son comité.
 
-<a id="art_N2C453"></a>
+<a id="art_N2C455"></a>
 
 ### Art. 6.
 
@@ -10730,13 +10730,13 @@ la direction lui fournit, à la première demande du président, la documentatio
 
 **3.** Pour les avis et propositions que la représentation du personnel émet dans l’exercice de sa mission légale, elle peut utiliser les installations de l’administration, après accord avec la direction quant à la date et quant à l’heure de cette utilisation.
 
-<a id="art_N2C4AC"></a>
+<a id="art_N2C4AE"></a>
 
 ### Art. 7.
 
 La représentation du personnel enseignant de tous les ordres d’enseignement est assurée par les organes existants et selon les modalités en vigueur à la date du 1er janvier 1984, sans préjudice des dispositions légales ou réglementaires concernant la participation de ce personnel à d’autres niveaux.
 
-<a id="art_N2C4E1"></a>
+<a id="art_N2C4E3"></a>
 
 ### Art. 8.
 
@@ -10746,7 +10746,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N2C536"></a>
+<a id="art_N2C538"></a>
 
 ### Art. 32.
 
@@ -10772,7 +10772,7 @@ Les conditions et modalités d’application du présent paragraphe sont fixées
 
 **8.** En cas de suppression de l’emploi qu’il occupe, le fonctionnaire est réaffecté endéans un délai d’un mois dans une autre administration.
 
-<a id="art_N2C616"></a>
+<a id="art_N2C618"></a>
 
 ### Art. 36.
 
@@ -10802,7 +10802,7 @@ Un calendrier d’entretiens réguliers est établi annuellement et d’un commu
 
 Les modalités d’exécution des dispositions prévues au présent article sont fixées par règlement grand-ducal.
 
-<a id="art_N2C6F2"></a>
+<a id="art_N2C6F4"></a>
 
 ### Art. 36-1.
 
@@ -10814,7 +10814,7 @@ Au sein des autres départements ministériels et administrations, la représent
 
 ##### Version consolidée applicable au 07/10/2017 : Règlement grand-ducal du 5 mars 2004 fixant les modalités de désignation, les droits et les devoirs des délégués à l'égalité entre femmes et hommes au sein des départements ministériels et des administrations.
 
-<a id="art_N2C760"></a>
+<a id="art_N2C762"></a>
 
 ### Art. 1er. Désignation
 
@@ -10826,7 +10826,7 @@ Le délégué à l'égalité est choisi par le ministre du ressort parmi les age
 
 **3.** Au sein des départements ministériels et administrations qui disposent d'une représentation du personnel au sens de l'article 36 visé ci-dessus, chaque représentation désigne parmi ses membres un délégué à l'égalité.
 
-<a id="art_N2C7D0"></a>
+<a id="art_N2C7D2"></a>
 
 ### Art. 2. Missions
 
@@ -10841,7 +10841,7 @@ Sans préjudice des attributions que peuvent lui confier d'autres dispositions l
 7. loi modifiée du 16 avril 1979
 8. se concerter au moins une fois par an, sur invitation du ministre ayant l’Égalité des chances dans ses attributions, avec les autres délégués au sujet de leurs missions ou en vue de la mise en place coordonnée d’actions positives dans le secteur public.
 
-<a id="art_N2C82A"></a>
+<a id="art_N2C82C"></a>
 
 ### Art. 3. Devoirs du délégué à l'égalité
 
@@ -10849,7 +10849,7 @@ Sans préjudice des attributions que peuvent lui confier d'autres dispositions l
 
 **2.** Le délégué à l'égalité remet au ministre du ressort et au chef de l’administration dont il relève un rapport annuel sur ses activités qui est intégré dans le rapport d’activité du département ministériel ou de l’administration. De même il est tenu d'informer le personnel sur ses activités.
 
-<a id="art_N2C879"></a>
+<a id="art_N2C87B"></a>
 
 ### Art. 4. Droits du délégué à l'égalité
 
@@ -10859,13 +10859,13 @@ Sans préjudice des attributions que peuvent lui confier d'autres dispositions l
 
 **3.** Il ne saurait subir de préjudice quelconque en raison de son activité spécifique dans l'intérêt de l'égalité entre les femmes et les hommes.
 
-<a id="art_N2C8D8"></a>
+<a id="art_N2C8DA"></a>
 
 ### Art. 5. Disposition transitoire
 
 Il sera procédé à la première désignation du délégué à l'égalité au plus tard dans les trois mois qui suivent l'entrée en vigueur du présent règlement.
 
-<a id="art_N2C910"></a>
+<a id="art_N2C912"></a>
 
 ### Art. 6.
 
@@ -10875,7 +10875,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 ##### Version consolidée applicable au 21/12/2021 : Loi du 19 mai 2003 modifiant 1) la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat; 2) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat; 3) la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancementdans les différentes carrières des administrations et services de l'Etat; 4) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat; 5) la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois; 6) la loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles lefonctionnaire de l'Etat peut se faire changer d'administration;et portant création d'un commissariat du Gouvernement chargé de l'instruction disciplinaire.
 
-<a id="art_N2C966"></a>
+<a id="art_N2C968"></a>
 
 ### Art. Ier.- La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifiée comme suit:
 
@@ -11066,7 +11066,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 6. er «Dans tous les cas, le délégué du Gouvernement visé sous 1° de l’article 76 est tenu de transmettre le dossier au Conseil de discipline qui procède en conformité des articles 61 à 72.»
 7. L’article 78 est modifié comme suit: «Une expédition de la décision certifiée conforme par le président du Conseil de discipline est transmise avec le dossier de la procédure au délégué du Gouvernement visé sous 1° de l’article 76, lequel est tenu de saisir de l’affaire le Tribunal administratif qui statue comme juge du fond.»
 
-<a id="art_N2D7EB"></a>
+<a id="art_N2D7ED"></a>
 
 ### Art. II.- La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée comme suit:
 
@@ -11093,7 +11093,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 4. A l’annexe A – classification des fonctions, la rubrique I «Administration générale» est modifiée et complétée comme suit: «Au grade 17 est ajoutée la mention suivante: «Commissariat du Gouvernement chargé de l’instruction disciplinaire – commissaire du Gouvernement chargé de l’instruction disciplinaire».
 5. A l’annexe D – Détermination – la rubrique I «Administration générale» est modifiée et complétée comme suit: «A la carrière supérieure de l’administration, grade 12 de la computation de la bonification d’ancienneté, est ajoutée au grade 17 la mention suivante: commissaire du Gouvernement chargé de l’instruction disciplinaire.
 
-<a id="art_N2D9C7"></a>
+<a id="art_N2D9C9"></a>
 
 ### Art. III.- La loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat est modifiée comme suit:
 
@@ -11106,7 +11106,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 3. pour le fonctionnaire réintégré et dont la carrière ne prévoit pas d’examen de promotion, par référence à l’examen de fin de stage auquel il a réussi. La période se situant entre la date de cessation des fonctions et la réintégration ultérieure du fonctionnaire est à considérer comme période d’interruption de service. Pour fixer le nouveau rang du fonctionnaire, il y a dans tous les cas mentionnés ci-dessus lieu d’admettre: - en cas de pluralité de réussites à ces différents examens, que l’intéressé se soit classé entre le fonctionnaire classé dernier du premier tiers et le fonctionnaire classé premier du deuxième tiers de la nouvelle promotion de rang égal ou immédiatement inférieur
 - en cas de réussite unique à l’examen, qu’il se soit classé au même rang que ce fonctionnaire de la nouvelle promotion de rang égal ou immédiatement inférieur.»
 
-<a id="art_N2DADA"></a>
+<a id="art_N2DADC"></a>
 
 ### Art. IV.- La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat est modifiée comme suit:
 
@@ -11209,7 +11209,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 1. L’article 55.II.4. est modifié comme suit: A l’alinéa premier, la mention de l’article 56 est supprimée et la référence aux articles subsistants se lit comme suit: par les articles 53, 54 et 55.
 
-<a id="art_N2E21F"></a>
+<a id="art_N2E221"></a>
 
 ### Art V.- La loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois est modifiée comme suit:
 
@@ -11240,7 +11240,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 1. L’article 73 est modifié comme suit: «Lorsqu’un fonctionnaire qui a comparu devant la commission, soit à sa demande, soit à la demande de l’administration, n’a pas été reconnu sujet à des infirmités qui le mettraient hors d’état de continuer son service, il est tenu de reprendre son service à partir du premier jour du mois qui suit celui pendant lequel la décision du ministre visée à l’article 71, alinéa 4 est intervenue. Si, postérieurement à la décision visée à l’alinéa qui précède, l’intéressé sollicite des congés de maladie en rapport avec l’affection ayant entraîné sa comparution devant la commission, les dispositions des points 3 et 4 de l’article 12 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat lui sont applicables.»
 2. A l’article 75, à la suite de l’alinéa 3 est ajouté un alinéa 4 nouveau libellé comme suit: «En cas de décision de la Commission des pensions conformément à l’article 71 ci-avant, les recours des intéressés sont dirigés contre cette décision.»
 
-<a id="art_N2E426"></a>
+<a id="art_N2E428"></a>
 
 ### Art. VI.- La loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration est modifiée comme suit:
 
@@ -11256,7 +11256,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 10. à l’article 6 à l’article 7
 11. à l’article 10 à l’article 11
 
-<a id="art_N2E5AA"></a>
+<a id="art_N2E5AC"></a>
 
 ### Art. VII.- Création d’un commissariat du Gouvernement chargé de l’instruction disciplinaire
 
@@ -11270,7 +11270,7 @@ Ce cadre peut être complété par des fonctionnaires stagiaires, des employés 
 
 **4.** Les candidats aux fonctions de commissaire du Gouvernement chargé de l’instruction disciplinaire doivent être détenteurs du diplôme de docteur en droit délivré par un jury luxembourgeois ou titulaires d’un grade étranger d’enseignement supérieur en droit homologué et transcrit conformément à la loi du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur. Ils sont dispensés de l’examen-concours, du stage et de l’examen de fin de stage prévus à l’article 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
 
-<a id="art_N2E65B"></a>
+<a id="art_N2E65D"></a>
 
 ### Art. VIII.- Dispositions abrogatoire et transitoire
 
@@ -11289,7 +11289,7 @@ Par dérogation à l’article 31, paragraphe 2, alinéa 4 de la loi modifiée d
 
 **4.** Par dérogation à l’article 5 paragraphe 3, alinéa 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat, les candidats qui, au moment de l’entrée en vigueur de la présente loi, ont déjà subi deux échecs à l’examen de promotion, ont la possibilité de s’y présenter une troisième fois , à condition d’avoir suivi une formation spéciale à l’Institut National d’Administration Publique.
 
-<a id="art_N2E799"></a>
+<a id="art_N2E79B"></a>
 
 ### Art IX.- Entrée en vigueur
 
@@ -11301,7 +11301,7 @@ Les dispositions de l’article 8 paragraphe V de la loi modifiée du 22 juin 19
 
 ##### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N2E83B"></a>
+<a id="art_N2E83D"></a>
 
 ### Art. 1er.
 
@@ -11353,7 +11353,7 @@ l’article 11, l’article 32, paragraphes 4 à 6, l’article 34, l’article 
 
 ##### Version consolidée applicable au 03/07/2022 : Loi du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'Etat.
 
-<a id="art_N2EA0E"></a>
+<a id="art_N2EA10"></a>
 
 ### Art. 1er.
 
@@ -11387,7 +11387,7 @@ Les fonctionnaires visés à l’alinéa qui précède peuvent être révoqués 
 
 Le chef d’état-major de l’Armée, le directeur général de la Police et le directeur du Service de Renseignement peuvent être révoqués de leurs fonctions avec effet immédiat et en dehors des conditions prévues à l’alinéa précédent.
 
-<a id="art_N2EAC4"></a>
+<a id="art_N2EAC6"></a>
 
 ### Art. 2.
 
@@ -11413,7 +11413,7 @@ Au cas où il était agent de l’État avant sa nomination à la fonction dirig
 
 ##### **Chapitre 2.** — **Dispositions modificatives**
 
-<a id="art_N2EB97"></a>
+<a id="art_N2EB99"></a>
 
 ### Art. 3.
 
@@ -11421,13 +11421,13 @@ L’article 1er, paragraphe 1er, de la loi modifiée du 16 avril 1979 fixant le 
 
 ##### **Chapitre 3.** — **Dispositions transitoire et d’entrée en vigueur**
 
-<a id="art_N2EBF5"></a>
+<a id="art_N2EBF7"></a>
 
 ### Art. 4.
 
 La présente loi ne s’applique pas aux fonctionnaires nommés à une fonction dirigeante avant la date de son entrée en vigueur.
 
-<a id="art_N2EC27"></a>
+<a id="art_N2EC29"></a>
 
 ### Art. 5.
 
@@ -11443,7 +11443,7 @@ Les dispositions de la présente loi entrent en vigueur le premier jour du mois 
 
 ##### **Chapitre 1er** — **Champ d'application et classification des fonctions**
 
-<a id="art_N2ECB4"></a>
+<a id="art_N2ECB6"></a>
 
 ### Art. 1er.
 
@@ -11455,7 +11455,7 @@ Les dispositions de la présente loi entrent en vigueur le premier jour du mois 
 
 ##### **Chapitre 2** — **La fixation de la valeur du point indiciaire et l'adaptation à l'indice du coût de la vie**
 
-<a id="art_N2ED2F"></a>
+<a id="art_N2ED31"></a>
 
 ### Art. 2.
 
@@ -11478,7 +11478,7 @@ L'agent bénéficiaire d'un accessoire de traitement sur base d'un motif déterm
 
 La valeur fixée au point 2° est applicable aux éléments de rémunération non pensionnables et à l'allocation de fin d'année allouée aux agents entrés en service après le 31 décembre 1998.
 
-<a id="art_N2EDD0"></a>
+<a id="art_N2EDD2"></a>
 
 ### Art. 3.
 
@@ -11508,7 +11508,7 @@ Sans préjudice des dispositions des paragraphes ci-avant, les traitements, sala
 
 ##### **Chapitre 3** — **Le traitement de début de carrière**
 
-<a id="art_N2EED8"></a>
+<a id="art_N2EEDA"></a>
 
 ### Art. 4.
 
@@ -11556,7 +11556,7 @@ Rubrique «Douanes»:
 
 ##### **Chapitre 4** — **La bonification d'ancienneté de service pour la fixation du traitement initial**
 
-<a id="art_N2EFFA"></a>
+<a id="art_N2EFFC"></a>
 
 ### Art. 5.
 
@@ -11574,7 +11574,7 @@ Toutefois, le montant de l'augmentation ne peut au total dépasser 80 points ind
 
 ##### **Chapitre 5** — **Les échéances en matière de traitement**
 
-<a id="art_N2F088"></a>
+<a id="art_N2F08A"></a>
 
 ### Art. 6.
 
@@ -11592,7 +11592,7 @@ Si le fonctionnaire décède au cours du mois de l'entrée en fonctions ou de l'
 
 ##### **Chapitre 6** — **L'avancement en échelon**
 
-<a id="art_N2F119"></a>
+<a id="art_N2F11B"></a>
 
 ### Art. 7.
 
@@ -11600,7 +11600,7 @@ Le fonctionnaire comptant depuis sa nomination définitive deux ans de bons et l
 
 ##### **Chapitre 7** — **Les avancements en grade**
 
-<a id="art_N2F15E"></a>
+<a id="art_N2F160"></a>
 
 ### Art. 8.
 
@@ -11623,7 +11623,7 @@ En cas d'avancement en grade, le temps que le fonctionnaire est resté dans l'é
 1. Par dérogation à l’alinéa 1er, et sous réserve que ce dernier ne s’applique pas plus tôt, le substitut du parquet général, le substitut affecté au parquet économique et le substitut affecté à la Cellule de renseignement financier bénéficient d’un avancement en traitement au grade M3 après trois années de grade.
 2. Les magistrats classés au grade M3 bénéficient d’un avancement en traitement au grade M4, deux années après avoir atteint le dernier échelon du grade M3.
 
-<a id="art_N2F206"></a>
+<a id="art_N2F208"></a>
 
 ### Art. 9.
 
@@ -11631,7 +11631,7 @@ Lorsqu'un fonctionnaire est nommé à un grade hiérarchiquement inférieur, les
 
 ##### **Chapitre 8** — **Les avancements en grade dans les sous-groupes de traitement connaissant un niveau général et un niveau supérieur**
 
-<a id="art_N2F24B"></a>
+<a id="art_N2F24D"></a>
 
 ### Art. 10.
 
@@ -11643,7 +11643,7 @@ Par niveau supérieur, il y a lieu d'entendre les grades supérieurs tels que d�
 
 Par années de grade au sens de la présente disposition, il y a lieu d'entendre les années de service accomplies depuis la première nomination dans le sous-groupe de traitement ou la fonction dans lesquelles le fonctionnaire est classé dans un grade défini pour chaque sous-groupe et fonction par la présente loi, sans préjudice de l'application des dispositions des articles 30, paragraphes 1 et 2, 31, paragraphes 1 et 2 et 31-1 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N2F29D"></a>
+<a id="art_N2F29F"></a>
 
 ### Art. 11.
 
@@ -11657,7 +11657,7 @@ Dans la catégorie de traitement C, il est créé un groupe de traitement C1.
 
 Dans la catégorie de traitement D, il est créé trois groupes de traitement, à savoir le groupe de traitement D1, le groupe de traitement D2 et le groupe de traitement D3.
 
-<a id="art_N2F2F3"></a>
+<a id="art_N2F2F5"></a>
 
 ### Art. 12. Rubrique «Administration générale»:
 
@@ -11802,7 +11802,7 @@ Au niveau supérieur, les promotions aux grades 5 et 6 interviennent, sous rése
 
 La promotion au dernier grade est en outre liée à la condition d'avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l'Institut national d'administration publique, ou d'avoir suivi une autre formation reconnue équivalente ou d'en avoir été dispensé pour des raisons dûment motivées par le ministre ayant la Fonction publique dans ses attributions.
 
-<a id="art_N2F60D"></a>
+<a id="art_N2F60F"></a>
 
 ### Art. 13. Rubrique «Enseignement»
 
@@ -11859,7 +11859,7 @@ Les fonctions de formateur d'adultes en enseignement pratique et de monitrice su
 
 **(4)** Les conditions et modalités des formations prévues dans la présente rubrique sont à fixer par règlement grand-ducal.
 
-<a id="art_N2F76E"></a>
+<a id="art_N2F770"></a>
 
 ### Art. 14. Rubrique «Armée, Police et Inspection générale de la Police»
 
@@ -11930,7 +11930,7 @@ Pour les deux sous-groupes, le niveau supérieur comprend les grades F3 et F4, l
 
 La promotion au dernier grade est en outre liée à la condition d'avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l'Institut national d'administration publique, ou d'en avoir été dispensé pour des raisons dûment motivées ou d'avoir suivi une autre formation reconnue équivalente par le ministre ayant la Fonction publique dans ses attributions.
 
-<a id="art_N2F8E7"></a>
+<a id="art_N2F8E9"></a>
 
 ### Art. 15. Rubrique «Douanes»
 
@@ -11988,7 +11988,7 @@ La promotion au dernier grade est en outre liée à la condition d'avoir accompl
 
 ##### **Chapitre 9** — **La majoration d'échelon pour postes à responsabilités particulières et la majoration d'échelon pour fonctions dirigeantes**
 
-<a id="art_N2FA5C"></a>
+<a id="art_N2FA5E"></a>
 
 ### Art. 16.
 
@@ -12091,7 +12091,7 @@ Sur avis motivé des chefs de corps, le Conseil national de la justice détermin
 
 **(7)** Le fonctionnaire ayant bénéficié d'une majoration d'échelon pour postes à responsabilités particulières ou d'un grade de substitution qui ne remplit plus les conditions du présent article se voit retirer ce bénéfice avec effet au premier jour du mois qui suit la cessation de l'occupation du poste à responsabilités particulières.
 
-<a id="art_N2FDD8"></a>
+<a id="art_N2FDDA"></a>
 
 ### Art. 17.
 
@@ -12104,7 +12104,7 @@ Toutefois, l'agent bénéficiaire d'une majoration d'échelon pour fonctions dir
 
 ##### **Chapitre 10** — **Les accessoires de traitement (allocations, primes, suppléments et indemnités spéciales)**
 
-<a id="art_N2FE65"></a>
+<a id="art_N2FE67"></a>
 
 ### Art. 18.
 
@@ -12124,7 +12124,7 @@ Le paiement indu de l'allocation de famille est sujet à restitution de la part 
 
 Dans le cadre de la présente loi, le terme «partenaire» est à comprendre dans le sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-<a id="art_N2FF08"></a>
+<a id="art_N2FF0A"></a>
 
 ### Art. 19.
 
@@ -12144,7 +12144,7 @@ Pour les fonctionnaires visés à la rubrique V. - Magistrature, l'allocation n'
 
 Aucune allocation n'est versée pendant les périodes de congé pendant lesquels l'agent ne touche pas de rémunération.
 
-<a id="art_N2FFA6"></a>
+<a id="art_N2FFA8"></a>
 
 ### Art. 20.
 
@@ -12166,13 +12166,13 @@ Pour le fonctionnaire visé par le présent paragraphe, ainsi que pour celui bé
 
 Pour l'application du présent paragraphe, il y a lieu d'entendre par traitement de base l'indemnité parlementaire telle qu'elle est fixée par la loi électorale modifiée du 18 février 2003, respectivement l'indemnité revenant au conseiller d'Etat.
 
-<a id="art_N30061"></a>
+<a id="art_N30063"></a>
 
 ### Art. 21.
 
 En dehors de son traitement, le fonctionnaire bénéficie d'allocations familiales suivant les conditions et les modalités prévues par la législation concernant les allocations familiales des salariés.
 
-<a id="art_N300A6"></a>
+<a id="art_N300A8"></a>
 
 ### Art. 22.
 
@@ -12221,7 +12221,7 @@ Une prime d’astreinte d’une valeur de 12 points indiciaires est allouée au 
 
 **(10)** Une prime d'astreinte d'une valeur de 12 points indiciaires peut être allouée au personnel du Haut-Commissariat à la Protection nationale soumis à une obligation de permanence ou de présence. Cette prime est attribuée par décision du ministre du ressort et sur proposition du Haut-Commissaire à la Protection nationale.
 
-<a id="art_N30223"></a>
+<a id="art_N30225"></a>
 
 ### Art. 23.
 
@@ -12276,7 +12276,7 @@ Après l’écoulement d’une durée totale de quatre-vingt-quatre mois à comp
 
 **(8)** Le personnel navigant qui a été membre actif d’un équipage d’aéronef et qui, de son propre gré, demande une réaffectation à une fonction non navigante ou qui, pour des raisons d’échec professionnel, perd sa qualification aérienne n’a pas droit à la prime.
 
-<a id="art_N303EA"></a>
+<a id="art_N303EC"></a>
 
 ### Art. 24.
 
@@ -12293,7 +12293,7 @@ Les brevets prévus par le présent paragraphe doivent être inscrits au registr
 
 La procédure d’attribution de la prime visée par le présent paragraphe est déterminée par voie de règlement grand-ducal.
 
-<a id="art_N30484"></a>
+<a id="art_N30486"></a>
 
 ### Art. 25.
 
@@ -12303,7 +12303,7 @@ La procédure d’attribution de la prime visée par le présent paragraphe est 
 
 **(3)** Les fonctionnaires de la rubrique «Enseignement» détachés de l'enseignement et attachés à un département ministériel bénéficient pendant le temps de leur détachement d'une indemnité pensionnable de 45 points indiciaires.
 
-<a id="art_N304F0"></a>
+<a id="art_N304F2"></a>
 
 ### Art. 26.
 
@@ -12313,13 +12313,13 @@ La procédure d’attribution de la prime visée par le présent paragraphe est 
 
 Toutefois, pour les fonctionnaires relevant de la catégorie de traitement D et exerçant leur profession auprès des établissements publics Centre hospitalier neuro-psychiatrique ou Centres, Foyers et Services pour personnes âgées, auprès des Maisons d'enfants de l'Etat ou auprès de l'Inspection générale de la sécurité sociale – Cellule d'évaluation et d'orientation de l'Assurance dépendance, la prime est fixée à 30 points indiciaires.
 
-<a id="art_N30555"></a>
+<a id="art_N30557"></a>
 
 ### Art. 27.
 
 Les conservateurs des hypothèques bénéficient, en dehors de leur traitement, des salaires fixés par la loi du 22 février 1930 tendant à modifier le mode de fixation du tarif des salaires des conservateurs des hypothèques.
 
-<a id="art_N3059F"></a>
+<a id="art_N305A1"></a>
 
 ### Art. 28.
 
@@ -12375,7 +12375,7 @@ Le salaire pris en considération est le salaire mensuel arrêté au moment de l
 
 Le supplément personnel de traitement diminue au fur et à mesure que le traitement augmente par l’effet d’avancements en échelon ou en grade.
 
-<a id="art_N3072D"></a>
+<a id="art_N3072F"></a>
 
 ### Art. 29.
 
@@ -12387,7 +12387,7 @@ Les dépenses pour frais de route et de séjour sont à proportionner aux dépen
 
 Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément constitutif de leurs fonctions, ne sont pas allouées. Toutefois, ces fonctionnaires peuvent être dispensés, par leur chef d'administration, de demander pour chaque voyage une autorisation préalable, à charge de rendre périodiquement compte de la mission générale qui leur est confiée.
 
-<a id="art_N3078D"></a>
+<a id="art_N3078F"></a>
 
 ### Art. 30.
 
@@ -12411,7 +12411,7 @@ Lors de la fixation de ce loyer, il est tenu compte du prix des loyers dans la l
 
 Lorsque l'Etat met à la disposition du fonctionnaire un logement autre qu'un logement de service, le bail est soumis aux règles du droit commun.
 
-<a id="art_N30858"></a>
+<a id="art_N3085A"></a>
 
 ### Art. 31.
 
@@ -12447,7 +12447,7 @@ La restriction ci-dessus ne vaut pas pour le supplément de première mise qui e
 
 Le chef d'administration informe sans délai le Centre de gestion du personnel et de l'organisation de l'État de toutes les modifications à apporter au relevé visé ci-avant, concernant les situations visées au paragraphe 5, alinéas 2 et 3 et paragraphe 6, alinéa 2 du présent article.
 
-<a id="art_N3095B"></a>
+<a id="art_N3095D"></a>
 
 ### Art. 32.
 
@@ -12527,13 +12527,13 @@ Les demandes doivent être présentées avant le 1er juillet de l'année de réf
 
 Le Centre de gestion du personnel et de l'organisation de l'État bénéficie à sa demande de la part du Centre commun de la sécurité sociale, de l'Administration de l'enregistrement, des domaines et de la TVA et de la Caisse pour l'avenir des enfants des données nécessaires pour la gestion des subventions d'intérêt par le biais d'un échange informatique.
 
-<a id="art_N30C29"></a>
+<a id="art_N30C2B"></a>
 
 ### Art. 33.
 
 Nonobstant la limite d'âge, le Gouvernement est autorisé à engager temporairement, dans l'intérêt du service, par contrat écrit à durée déterminée, des retraités de l'Etat, de l'Administration parlementaire, d'une commune, d'un syndicat de communes, d'un établissement public, de la Société nationale des chemins de fer luxembourgeois ou d'une institution internationale, justifiant de qualifications spéciales. L'indemnité à verser de ce chef est fixée par le ministre ayant la Fonction publique dans ses attributions, de cas en cas suivant l'importance et la nature des services à rendre.
 
-<a id="art_N30C6E"></a>
+<a id="art_N30C70"></a>
 
 ### Art. 34.
 
@@ -12551,7 +12551,7 @@ L'indemnité compensatoire est versée ensemble avec le traitement par le Centre
 
 ##### **Chapitre 11** — **De la préretraite**
 
-<a id="art_N30CF0"></a>
+<a id="art_N30CF2"></a>
 
 ### Art. 35.
 
@@ -12609,7 +12609,7 @@ Si le fonctionnaire décède avant l'ouverture du droit à la pension de vieille
 
 ##### **Chapitre 12** — **De la restitution des traitements**
 
-<a id="art_N30E71"></a>
+<a id="art_N30E73"></a>
 
 ### Art. 36.
 
@@ -12621,7 +12621,7 @@ Par dérogation aux dispositions qui précèdent, une dispense de remboursement 
 
 ##### **Chapitre 13** — **Dispositions additionnelles**
 
-<a id="art_N30EDA"></a>
+<a id="art_N30EDC"></a>
 
 ### Art. 37.
 
@@ -12651,7 +12651,7 @@ Pour les fonctionnaires stagiaires de la catégorie de traitement B, groupe de t
 
 **(10)** Le Centre de gestion du personnel et de l'organisation de l'État sollicite auprès de la Trésorerie de l'Etat, sur simple demande de l'agent nouvellement engagé depuis un mois au moins, une avance sur ses rémunérations dues, sous réserve que l'agent ait accompli toutes les démarches qui lui incombent en vue de la constitution de son dossier personnel.
 
-<a id="art_N30FCC"></a>
+<a id="art_N30FCE"></a>
 
 ### Art. 38.
 
@@ -12665,7 +12665,7 @@ Il en est de même des éducateurs-instructeurs visés ci-dessus, lesquels peuve
 
 Les magasiniers peuvent être nommés à un sous-groupe technique classé au maximum au groupe de traitement C.
 
-<a id="art_N31035"></a>
+<a id="art_N31037"></a>
 
 ### Art. 39.
 
@@ -12685,7 +12685,7 @@ Par traitement de base au sens de l'alinéa qui précède, il y a lieu d'entendr
 
 Dans la suite, le fonctionnaire pourra être intégré dans un autre sous-groupe de l'administration au niveau correspondant à sa qualification. L'accès au nouveau sous-groupe ainsi qu'aux avancements ultérieurs se font conformément à l'article 15 de la loi du 25 mars 2015 fixant les conditions et modalités selon lesquelles le fonctionnaire de l'Etat peut changer d'administration. Lorsqu'au moment de la nomination dans le nouveau sous-groupe, le nouveau traitement de base est inférieur à celui dont bénéficiait le fonctionnaire dans l'ancien sous-groupe, il conservera l'ancien traitement, arrêté au jour de la nomination, aussi longtemps qu'il est plus élevé.
 
-<a id="art_N310D2"></a>
+<a id="art_N310D4"></a>
 
 ### Art. 40.
 
@@ -12711,7 +12711,7 @@ Sont applicables les dispositions de l'article 1er sous A) de la loi modifiée d
 
 ##### **Chapitre 14** — **Dispositions transitoires**
 
-<a id="art_N311AB"></a>
+<a id="art_N311AD"></a>
 
 ### Art. 41.
 
@@ -12725,7 +12725,7 @@ Il en est de même des autres carrières non visées par la loi modifiée du 28 
 
 **(4)** Les fonctionnaires bénéficiant au moment de l'entrée en vigueur de la présente loi de l'un des congés prévus à l'article 30 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat conservent la computation des périodes de service y prévue. La présente dérogation s'applique à tous les avancements en grade définis aux articles 12, 13, 14 et 15.
 
-<a id="art_N31236"></a>
+<a id="art_N31238"></a>
 
 ### Art. 42.
 
@@ -12744,7 +12744,7 @@ Les administrations et services de l'Etat dont les lois organiques ne prévoient
 
 Les recrutements prévus par le présent paragraphe doivent être autorisés conformément aux règles et aux effectifs en matière d'engagement de personnel fixés par la loi concernant le budget des recettes et des dépenses de l'Etat.
 
-<a id="art_N312CB"></a>
+<a id="art_N312CD"></a>
 
 ### Art. 43.
 
@@ -12885,7 +12885,7 @@ Catégorie de traitement D
 1. Groupe de traitement D1 1. Le sous-groupe des douanes comprend les anciennes carrières du préposé des douanes filière du préposé, du préposé des douanes filière du commis et du préposé des douanes filière du lieutenant.
 2. Les agents des anciennes carrières du préposé des douanes filière du préposé, du préposé des douanes filière du commis et du préposé des douanes filière du lieutenant sont classés dans la catégorie de traitement D, groupe de traitement D1, dans le nouveau sous-groupe des douanes, en application de l'article 15, au grade qui correspond à leur ancienneté de service acquise depuis leur première nomination. Le classement dans le grade ainsi déterminé correspond à la valeur de l'échelon barémique atteint la veille de l'entrée en vigueur de la présente loi ou à défaut à la valeur de l'échelon barémique immédiatement supérieur, sans préjudice du report de l'ancienneté d'échelon acquise sous l'ancienne législation. Par dérogation aux dispositions qui précèdent, le traitement du fonctionnaire, qui d'après son ancien classement barémique avait atteint un grade dont le premier échelon était supérieur à celui établi en fonction des dispositions qui précédent, est calculé par rapport à son ancienne expectative de carrière aussi longtemps que celle-ci s'avère plus favorable.
 
-<a id="art_N31717"></a>
+<a id="art_N31719"></a>
 
 ### Art. 44.
 
@@ -12909,7 +12909,7 @@ Le fonctionnaire qui a subi deux échecs au premier examen de promotion peut se 
 
 Pour le fonctionnaire qui ne se présente pas ou qui ne réussit pas à l'examen spécial prévu à l'alinéa 1, le grade 7 est allongé d'un treizième et quatorzième échelon ayant respectivement les indices 284 et 292.
 
-<a id="art_N317E8"></a>
+<a id="art_N317EA"></a>
 
 ### Art. 45.
 
@@ -12925,7 +12925,7 @@ Pour le fonctionnaire qui ne se présente pas ou qui ne réussit pas à l'examen
 
 Toutefois, lorsque le reclassement du fonctionnaire a pour effet de le classer à la valeur de l'échelon barémique immédiatement supérieure à la sienne, la différence en points indiciaires par rapport à l'échelon auquel il était classé avant le reclassement est portée en déduction du supplément compensatoire. Il en est de même lorsque son traitement de base augmentera par le biais d'avancements en grade ou en échelon.
 
-<a id="art_N31879"></a>
+<a id="art_N3187B"></a>
 
 ### Art. 46.
 
@@ -12933,7 +12933,7 @@ Toutefois, lorsque le reclassement du fonctionnaire a pour effet de le classer �
 
 **(2)** Toutefois, lorsque l'ancienneté de service du fonctionnaire est telle que d'après les articles 12, 13, 14 et 15 l'agent aurait pu accéder au grade intercalé ou au grade ajouté, il est tenu compte de ce grade intercalé ou ajouté pour la fixation de son nouveau traitement. Celui-ci correspond dans le nouveau grade à la valeur de l'échelon barémique atteint la veille de l'entrée en vigueur de la présente loi ou à défaut à la valeur de l'échelon barémique immédiatement supérieur, sans préjudice du report de l'ancienneté d'échelon acquise sous l'ancienne législation, et des conditions et délais d'avancement fixés aux articles 12, 13, 14 et 15.
 
-<a id="art_N318C2"></a>
+<a id="art_N318C4"></a>
 
 ### Art. 47.
 
@@ -12945,7 +12945,7 @@ En vue de la détermination du nouveau grade dans la catégorie de traitement B,
 
 Pour l'application de la présente disposition, les fonctionnaires ayant réussi à l'examen de promotion donnant droit au second avancement en traitement de leur carrière initiale sont considérés comme ayant réussi à l'examen de promotion prévu à l'article 12. Les fonctionnaires relevant d'anciennes carrières n'ayant pas connu d'examen de promotion sont considérés comme ayant réussi à l'examen de promotion dans le nouveau régime tel que prévu à l'article 12.
 
-<a id="art_N3191D"></a>
+<a id="art_N3191F"></a>
 
 ### Art. 48.
 
@@ -12953,7 +12953,7 @@ Pour l'application de la présente disposition, les fonctionnaires ayant réussi
 
 **(2)** Les fonctionnaires relevant des carrières reclassées au sens du paragraphe 1er sont classés dans le nouveau grade en application des articles 12 et 13, ou respectivement de l'article 50 et à l'annexe A II. sous b) Régime transitoire de la rubrique «Enseignement» à la valeur de l'échelon barémique atteint la veille de l'entrée en vigueur de la présente loi ou à défaut à la valeur de l'échelon barémique immédiatement supérieur, sans préjudice du report de l'ancienneté d'échelon acquise sous l'ancienne législation.
 
-<a id="art_N31969"></a>
+<a id="art_N3196B"></a>
 
 ### Art. 49.
 
@@ -12961,7 +12961,7 @@ Pour l'application de la présente disposition, les fonctionnaires ayant réussi
 
 **(2)** Les fonctionnaires relevant des carrières reclassées au sens de l'alinéa précédent, sont classés respectivement dans la catégorie de traitement A, groupe de traitement A1 ou groupe de traitement A2, ou dans la catégorie de traitement B, groupe de traitement B1, dans les nouveaux sous-groupes, en application de l'article 50 et de l'annexe A II. sous b) Régime transitoire de la rubrique «Enseignement». Le classement dans le grade ainsi déterminé correspond à la valeur de l'échelon barémique atteint la veille de l'entrée en vigueur de la présente loi ou à défaut à la valeur de l'échelon barémique immédiatement supérieur, sans préjudice du report de l'ancienneté d'échelon acquise sous l'ancienne législation.
 
-<a id="art_N319B2"></a>
+<a id="art_N319B4"></a>
 
 ### Art. 50.
 
@@ -12997,7 +12997,7 @@ Pour les fonctionnaires nommés à la fonction de directeur adjoint au Lycée te
 
 **(10)** Pour les fonctionnaires classés sous le régime transitoire de la rubrique «Enseignement», dans la catégorie de traitement B, groupe de traitement B1, sous-groupe enseignement secondaire, et exerçant la fonction de maître d'enseignement, le grade E3ter est allongé d'un vingtième échelon ayant l'indice 470.
 
-<a id="art_N31AC1"></a>
+<a id="art_N31AC3"></a>
 
 ### Art. 51.
 
@@ -13019,7 +13019,7 @@ Pour l'application du présent article, les comparaisons entre traitements de ba
 
 **(7)** Pour les fonctionnaires et fonctionnaires stagiaires en activité de service, en congé de maternité, en congé parental ou en congé sans traitement le 1er octobre 2015 et exerçant la fonction d'artisan, les dispositions de l'article 4, paragraphe 1er, alinéa 3, sont applicables.
 
-<a id="art_N31B93"></a>
+<a id="art_N31B95"></a>
 
 ### Art. 52.
 
@@ -13031,7 +13031,7 @@ Toutefois, ces fonctionnaires peuvent opter une fois et de manière irrévocable
 
 **(3)** Le Centre de gestion du personnel et de l'organisation de l'État bénéficie à sa demande de la part du Centre commun de la sécurité sociale et de la Caisse pour l'avenir des enfants des données nécessaires pour la gestion de l'allocation de famille par le biais d'un échange informatique.
 
-<a id="art_N31BFF"></a>
+<a id="art_N31C01"></a>
 
 ### Art. 53.
 
@@ -13039,7 +13039,7 @@ Les fonctionnaires en service, en congé de maternité, en congé parental ou en
 
 Pour les fonctionnaires visés à l'alinéa précédent, l'expérience professionnelle à prendre en compte pour déterminer l'augmentation d'échelon est celle acquise au moment de leur entrée en service.
 
-<a id="art_N31C3A"></a>
+<a id="art_N31C3C"></a>
 
 ### Art. 54.
 
@@ -13067,7 +13067,7 @@ En cas d'un premier travail personnel de réflexion constaté comme hors sujet p
 
 ##### **Chapitre 15** — **Dispositions modificatives, abrogatoires et finales**
 
-<a id="art_N31D00"></a>
+<a id="art_N31D02"></a>
 
 ### Art. 55.
 
@@ -13226,7 +13226,7 @@ En cas d'un premier travail personnel de réflexion constaté comme hors sujet p
 1. Le paragraphe 4 est remplacé par les dispositions suivantes: (4) Le cadre du personnel comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État.
 2. Le paragraphe 6 est supprimé.
 
-<a id="art_N329C5"></a>
+<a id="art_N329C7"></a>
 
 ### Art. 56.
 
@@ -13236,7 +13236,7 @@ Pour les fonctionnaires et les fonctionnaires stagiaires au service de l'Etat da
 
 **(2)** Pour les agents dont les fonctions sont renseignées sous la rubrique «Cultes» de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, les dispositions des articles 2, 3, 4, 5, 6, paragraphe 1er, 6bis, 7, 8, section II et section III, alinéa 4, des articles 9, 9bis, 10, 11, 12, 16, 22, section II, point 18 et section III, de l'article 23, paragraphe 1er, de l'article 24, sections I et II, des articles 26, 29ter, 29quater, 29sexies, et les annexes A, C et D, sous la rubrique «V. Cultes», de la loi précitée restent applicables.
 
-<a id="art_N32A3B"></a>
+<a id="art_N32A3D"></a>
 
 ### Art. 57.
 
@@ -13258,13 +13258,13 @@ La présente loi entre en vigueur le premier jour du septième mois qui suit cel
 
 ##### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N35C29"></a>
+<a id="art_N35C2B"></a>
 
 ### Art. 20.
 
 Le fonctionnaire jouit d’un traitement dont le régime est fixé en vertu d’une disposition légale ou d’une disposition réglementaire prise en vertu d’une loi.
 
-<a id="art_N35C6F"></a>
+<a id="art_N35C71"></a>
 
 ### Art. 21.
 
@@ -13274,7 +13274,7 @@ Par traitement au sens du présent article on entend l’émolument fixé pour l
 
 Ne sont pas compris dans le terme traitement les remises, droits casuels, indemnités de voyage ou de déplacement, et frais de bureau lorsqu’ils ne sont pas à considérer, d’après les dispositions qui les établissent, comme constituant une partie intégrante du traitement.
 
-<a id="art_N35CC7"></a>
+<a id="art_N35CC9"></a>
 
 ### Art. 22.
 
@@ -13282,7 +13282,7 @@ En dehors de son traitement, aucune rémunération n’est accordée à un fonct
 
 Aucune indemnité ne peut être allouée à un fonctionnaire en raison d’une extension ou d’une modification de sa charge, ni pour un service ou un travail qui par sa nature ou par les conditions dans lesquelles il a été fourni, rentre ou doit être considéré comme rentrant dans le cadre des attributions et devoirs de ce fonctionnaire, ou comme rentrant dans l’ensemble du service collectif du personnel dont le fonctionnaire fait partie.
 
-<a id="art_N35D16"></a>
+<a id="art_N35D18"></a>
 
 ### Art. 23.
 
@@ -13296,7 +13296,7 @@ De même, si un fonctionnaire est appelé à faire un service ou un travail qu�
 
 **3.** Un règlement grand-ducal pourra préciser les conditions et les modalités de l’allocation de l’indemnité spéciale telle qu’elle est prévue au paragraphe 1.
 
-<a id="art_N35DB1"></a>
+<a id="art_N35DB3"></a>
 
 ### Art. 24.
 
@@ -13304,13 +13304,13 @@ Les traitements sont payables d’avance, mensuellement, à raison d’un douzi�
 
 Lorsqu’ils sont dus pour une partie du mois, ils sont calculés par jour, à raison d’un trois cent soixantième du traitement annuel avec mise en compte des journées libres réglementaires, des dimanches et des jours fériés légaux et de rechange qui tombent dans la période ou qui la suivent immédiatement.
 
-<a id="art_N35E00"></a>
+<a id="art_N35E02"></a>
 
 ### Art. 25.
 
 La rémunération du fonctionnaire est cessible et saisissable conformément à la loi.
 
-<a id="art_N35E52"></a>
+<a id="art_N35E54"></a>
 
 ### Art. 26.
 
@@ -13318,7 +13318,7 @@ Les contestations auxquelles donneront lieu les décisions relatives à la fixat
 
 Ces recours seront intentés dans un délai de trois mois à partir du jour de la notification de la décision. Ils ne sont pas dispensés du ministère d’avocat.
 
-<a id="art_N35EA1"></a>
+<a id="art_N35EA3"></a>
 
 ### Art. 27.
 
@@ -13326,7 +13326,7 @@ Les dispositions du présent chapitre sont également applicables aux traitement
 
 ##### Version consolidée applicable au 03/02/2009 : Règlement grand-ducal du 5 mars 2004 fixant les conditions et modalités de renonciation à la récupération des rémunérations indûment touchées.
 
-<a id="art_N35EFE"></a>
+<a id="art_N35F00"></a>
 
 ### Art. 1er.
 
@@ -13338,7 +13338,7 @@ Si le fonctionnaire ne bénéficie plus de rémunération de la part de l’Etat
 
 Le remboursement prévu aux alinéas 2 et 3 du présent article se fait conformément à un échéancier établi par le créancier, après concertation avec le débiteur. Cet échéancier tient compte des échelonnements et plafonds arrêtés annuellement par le ministre ayant la Fonction publique dans ses attributions.
 
-<a id="art_N35F4E"></a>
+<a id="art_N35F50"></a>
 
 ### Art. 2.
 
@@ -13359,13 +13359,13 @@ Par erreur matérielle de l’administration, il y a lieu d’entendre notamment
 
 En cas d’erreur matérielle, l’agent a droit à une dispense de remboursement suivant les modalités prévues à l’alinéa 2 ci-dessus, lorsqu’un délai de plus d’un an s’est écoulé entre la date du virement de la somme indue et la date à laquelle elle a été réclamée.
 
-<a id="art_N35FB7"></a>
+<a id="art_N35FB9"></a>
 
 ### Art. 3.
 
 Aucune récupération de rémunérations indûment touchées à quelque titre que ce soit n’est faite par l’Etat après l’expiration d’un délai de cinq ans suivant la date du paiement de l’indu.
 
-<a id="art_N35FE9"></a>
+<a id="art_N35FEB"></a>
 
 ### Art. 4.
 
@@ -13375,37 +13375,37 @@ Les membres du Gouvernement sont chargés, chacun pour ce qui le concerne, de l�
 
 ##### **Titre I.** — **Dispositions générales**
 
-<a id="art_N36040"></a>
+<a id="art_N36042"></a>
 
 ### Art. 1er.
 
 Le terme de «candidat» employé par la suite dans le présent règlement désigne à la fois le stagiaire de l’administration gouvernementale appelé à suivre une formation pendant le stage et qui doit se soumettre à un examen de fin de stage ou de fin de formation spéciale, et le fonctionnaire de l’administration gouvernementale appelé à suivre une formation préparatoire à l’examen de promotion et qui participe à un des examens de promotion visés par le présent règlement.
 
-<a id="art_N36075"></a>
+<a id="art_N36077"></a>
 
 ### Art. 2. Conditions d’admission au stage
 
 L’admission au stage dans les différentes carrières visées par le présent règlement se fait conformément aux règlements grand-ducaux pris en exécution de l’article 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
 
-<a id="art_N360B2"></a>
+<a id="art_N360B4"></a>
 
 ### Art. 3. Durée et modalités de stage
 
 La durée et les modalités du stage à accomplir pour les carrières visées par le présent règlement sont déterminées par les règlements grand-ducaux pris en application de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat et de la loi modifiée du 15 juin 1999 portant organisation de l’Institut National d’Administration Publique.
 
-<a id="art_N360F4"></a>
+<a id="art_N360F6"></a>
 
 ### Art. 4. Admission définitive
 
 Sans préjudice de l’application des règles générales prévues par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat et par la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique, nul ne peut être nommé à une fonction auprès de l’administration gouvernementale, s’il n’a pas accompli le stage légalement prévu et s’il n’a pas subi avec succès l’examen de fin de stage prévu pour sa carrière.
 
-<a id="art_N36136"></a>
+<a id="art_N36138"></a>
 
 ### Art. 5. Conditions de promotion aux fonctions supérieures
 
 Sans préjudice de l’application des conditions prévues par la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat et par la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat, nul ne peut être promu aux fonctions supérieures à celles de rédacteur principal, de commis adjoint ou d’huissier chef s’il n’a pas subi avec succès l’examen de promotion dans sa carrière respective.
 
-<a id="art_N36178"></a>
+<a id="art_N3617A"></a>
 
 ### Art. 6. Organisation des cours de formation
 
@@ -13417,13 +13417,13 @@ Sans préjudice de l’application des conditions prévues par la loi modifiée 
 
 **(4)** Le temps de formation spéciale ainsi que le temps de formation préparant à l’examen de promotion comptent comme période d’activité de service
 
-<a id="art_N361E7"></a>
+<a id="art_N361E9"></a>
 
 ### Art. 7. Fréquentation des cours de formation
 
 Le candidat assiste obligatoirement aux cours de formation prévus par le présent règlement.
 
-<a id="art_N3621F"></a>
+<a id="art_N36221"></a>
 
 ### Art. 8. Dispense de la fréquentation des cours
 
@@ -13435,7 +13435,7 @@ Le candidat assiste obligatoirement aux cours de formation prévus par le prése
 
 **(4)** Les dispenses visées aux points (1) et (2) du présent article sont accordées sur demande au candidat concerné, par le ministre ayant dans ses attributions l’administration gouvernementale, le ministre du ressort entendu en son avis.
 
-<a id="art_N36296"></a>
+<a id="art_N36298"></a>
 
 ### Art. 9. Modalités de l’organisation des examens
 
@@ -13443,7 +13443,7 @@ Le candidat assiste obligatoirement aux cours de formation prévus par le prése
 
 **(2)** Les examens de fin de formation spéciale et les examens de fin de stage visés par le présent règlement se tiennent au plus tard au courant de l’avant-pénultième mois de stage.
 
-<a id="art_N362EA"></a>
+<a id="art_N362EC"></a>
 
 ### Art. 10. Admission aux examens
 
@@ -13460,7 +13460,7 @@ Le candidat qui, pour des raisons indépendantes de sa volonté dûment établie
 - avoir au moins dix années de service;
 - avoir réussi à l’examen de promotion prévu par l’article 32 ci-dessous.
 
-<a id="art_N3636C"></a>
+<a id="art_N3636E"></a>
 
 ### Art. 11. Appréciation et mise en compte des résultats
 
@@ -13478,7 +13478,7 @@ Le candidat qui à l’examen de fin de formation spéciale, à l’examen d’a
 
 **(4)** Le candidat qui ne se présente pas à une ou plusieurs épreuves faisant partie d’une des sessions d’examen visées par le présent règlement, est obligé de se soumettre à toutes les épreuves de la prochaine session d’examen à laquelle il participera.
 
-<a id="art_N363FB"></a>
+<a id="art_N363FD"></a>
 
 ### Art. 12. Classement des candidats aux différents examens
 
@@ -13500,7 +13500,7 @@ Le rang utile pour bénéficier des promotions dans le cadre fermé est détermi
 
 ##### **Chapitre Ier.** — **Carrière de l’attaché de gouvernement**
 
-<a id="art_N364A8"></a>
+<a id="art_N364AA"></a>
 
 ### Art. 13. Examen de fin de stage
 
@@ -13508,7 +13508,7 @@ Le rang utile pour bénéficier des promotions dans le cadre fermé est détermi
 
 **(2)** L’examen de fin de formation générale est organisé par l’Institut National d’Administration Publique conformément aux dispositions du règlement grand-ducal du 27 octobre 2000 déterminant l’organisation à l’Institut national d’administration publique de la division de la formation pendant le stage du personnel de l’Etat et des établissements publics de l’Etat.
 
-<a id="art_N364FC"></a>
+<a id="art_N364FE"></a>
 
 ### Art. 14. Formation spéciale et examen de fin de formation spéciale
 
@@ -13548,7 +13548,7 @@ Les notes du mémoire sont communiquées par les membres de la commission au pr�
 
 ##### **Chapitre II.** — **Carrière du rédacteur**
 
-<a id="art_N366AA"></a>
+<a id="art_N366AC"></a>
 
 ### Art. 15. Examen de fin de stage
 
@@ -13556,7 +13556,7 @@ Les notes du mémoire sont communiquées par les membres de la commission au pr�
 
 **(2)** L’examen de fin de formation générale est organisé par l’Institut National d’Administration Publique conformément aux dispositions du règlement grand-ducal du 27 octobre 2000 déterminant l’organisation à l’Institut national d’administration publique de la division de la formation pendant le stage du personnel de l’Etat et des établissements publics de l’Etat.
 
-<a id="art_N366FE"></a>
+<a id="art_N36700"></a>
 
 ### Art. 16. Formation spéciale
 
@@ -13578,7 +13578,7 @@ Pour la carrière du rédacteur, la formation spéciale à l’administration go
 | 6. | Bureautique et organisation du service | 18 hrs |
 | ***Partie 3: Missions et compétences du département d’affectation*** | 20 hrs |  |
 
-<a id="art_N3688B"></a>
+<a id="art_N3688D"></a>
 
 ### Art. 17. Examen de fin de formation spéciale
 
@@ -13594,7 +13594,7 @@ Les notes des matières pour lesquelles une dispense est accordée sont mises en
 
 **(3)** Le résultat de l’examen de fin de formation spéciale est intégré au dossier-formation du candidat
 
-<a id="art_N36905"></a>
+<a id="art_N36907"></a>
 
 ### Art. 18. Formation préparatoire à l’examen de promotion
 
@@ -13629,7 +13629,7 @@ Les séminaires sont accessibles aux fonctionnaires de la carrière du rédacteu
 
 La fréquentation de chaque séminaire est attestée par un certificat de présence qui est pris en compte lors de la proclamation du résultat définitif de l’examen de promotion prévu à l’article 19.
 
-<a id="art_N36B2B"></a>
+<a id="art_N36B2D"></a>
 
 ### Art. 19. Examen de promotion
 
@@ -13655,7 +13655,7 @@ Les notes du mémoire sont communiquées par les membres de la commission au pr�
 
 ##### **Chapitre III**. — **Carrière de l’expéditionnaire**
 
-<a id="art_N36BE1"></a>
+<a id="art_N36BE3"></a>
 
 ### Art. 20. Examen de fin de stage
 
@@ -13663,7 +13663,7 @@ Les notes du mémoire sont communiquées par les membres de la commission au pr�
 
 **(2)** L’examen de fin de formation générale est organisé par l’Institut National d’Administration Publique conformément aux dispositions du règlement grand-ducal du 27 octobre 2000 déterminant l’organisation à l’Institut national d’administration publique de la division de la formation pendant le stage du personnel de l’Etat et des établissements publics de l’Etat.
 
-<a id="art_N36C35"></a>
+<a id="art_N36C37"></a>
 
 ### Art. 21. Formation spéciale
 
@@ -13682,7 +13682,7 @@ Pour la carrière de l’expéditionnaire, la formation spéciale à l’adminis
 | 3 Bureautique et organisation du service | 18 hrs |  |
 | ***Partie 3: Missions et compétences du département d’affectation*** 20 hrs |  |  |
 
-<a id="art_N36D60"></a>
+<a id="art_N36D62"></a>
 
 ### Art. 22. Examen de fin de formation spéciale
 
@@ -13698,7 +13698,7 @@ Les notes des matières pour lesquelles une dispense est accordée sont mises en
 
 **(3)** Le résultat de l’examen de fin de formation spéciale est intégré au dossier-formation du candidat
 
-<a id="art_N36DDA"></a>
+<a id="art_N36DDC"></a>
 
 ### Art. 23. Formation préparatoire à l’examen de promotion
 
@@ -13719,7 +13719,7 @@ Pour la carrière de l’expéditionnaire, la formation préparatoire à l’exa
 | 5. | Module relatif aux Infrastructures de l’Etat |  |
 | 6. | Module relatif à la comptabilité communale et à la comptabilité commerciale |  |
 
-<a id="art_N36F3B"></a>
+<a id="art_N36F3D"></a>
 
 ### Art. 24. Examen de promotion
 
@@ -13735,7 +13735,7 @@ Les notes des matières pour lesquelles une dispense est accordée sont mises en
 
 ##### **Chapitre IV.** — ** Carrière de l’huissier de salle**
 
-<a id="art_N36FBD"></a>
+<a id="art_N36FBF"></a>
 
 ### Art. 25. Formation préparatoire à l’examen d’admission définitive
 
@@ -13752,13 +13752,13 @@ Pour la carrière de l’huissier de salle, la formation préparant à l’exame
 | 6. | Exercices d’expression en langue française et allemande | 8 hrs |
 | ***Partie 3. Accueil et encadrement du public*** | 12 hrs |  |
 
-<a id="art_N370E3"></a>
+<a id="art_N370E5"></a>
 
 ### Art. 26. Examen d’admission définitive
 
 L’examen d’admission définitive sanctionne les matières prévues à l’article 25 ci-dessus. Il se tient dans les trois mois qui suivent la fin de la période de l’organisation des cours sous forme d’épreuves écrites dont le maximum des points à attribuer s’élève pour chaque partie à soixante points. Il a lieu devant une commission d’examen.
 
-<a id="art_N3711B"></a>
+<a id="art_N3711D"></a>
 
 ### Art. 27. Formation préparatoire à l’examen de promotion
 
@@ -13775,7 +13775,7 @@ Pour la carrière de l’huissier de salle, la formation préparatoire à l’ex
 | 1. | Communication avec le citoyen | 12 hrs |
 | 2. | Accueil téléphonique | 12 hrs |
 
-<a id="art_N37229"></a>
+<a id="art_N3722B"></a>
 
 ### Art. 28. Examen de promotion
 
@@ -13783,7 +13783,7 @@ L’examen de promotion sanctionne les matières prévues à l’article 27 ci-d
 
 ##### **Chapitre V.** — **Carrière du garçon de bureau**
 
-<a id="art_N37272"></a>
+<a id="art_N37274"></a>
 
 ### Art. 29. Formation préparatoire à l’examen d’admission définitive
 
@@ -13798,13 +13798,13 @@ Pour la carrière du garçon de bureau, la formation préparant à l’examen d�
 | 4. | Organisation de l’administration gouvernementale | 4 hrs |
 | ***3. *** | ***Accueil et encadrement du public*** | 12 hrs |
 
-<a id="art_N37385"></a>
+<a id="art_N37387"></a>
 
 ### Art. 30. Examen d’admission définitive
 
 L’examen d’admission définitive sanctionne les matières prévues à l’article 29 ci-dessus. Il se tient dans les trois mois qui suivent la fin de la période de l’organisation des cours sous forme d’épreuves écrites dont le maximum des points à attribuer s’élève pour chaque partie à soixante points. Il a lieu devant une commission d’examen.
 
-<a id="art_N373BD"></a>
+<a id="art_N373BF"></a>
 
 ### Art. 31. Formation préparatoire à l’examen de promotion
 
@@ -13819,7 +13819,7 @@ Pour la carrière du garçon de bureau, la formation préparatoire à l’examen
 | Communication avec le citoyen | 12 hrs |
 | Accueil téléphonique | 12 hrs |
 
-<a id="art_N3747B"></a>
+<a id="art_N3747D"></a>
 
 ### Art. 32. Modalités de l’organisation de l’examen de promotion
 
@@ -13827,7 +13827,7 @@ L’examen de promotion sanctionne les matières prévues à l’article 31 ci-d
 
 ##### **Titre III.** — **Dispositions abrogatoires et finales**
 
-<a id="art_N374C5"></a>
+<a id="art_N374C7"></a>
 
 ### Art. 33. Dispositions abrogatoires et finales
 
@@ -13845,7 +13845,7 @@ Les dispositions des règlements prévus au paragraphe (2) ci-dessus restent app
 
 **(3)** Le présent règlement entre en vigueur avec effet au 1er mai 2004.
 
-<a id="art_N3756C"></a>
+<a id="art_N3756E"></a>
 
 ### Art. 34.
 
@@ -13855,7 +13855,7 @@ Notre Ministre de la Fonction Publique et de la Réforme Administrative est char
 
 ##### **Chapitre 1er** — **Réduction de stage**
 
-<a id="art_N375C6"></a>
+<a id="art_N375C8"></a>
 
 ### Art. 1er.
 
@@ -13863,13 +13863,13 @@ Le présent chapitre s’applique aux fonctionnaires stagiaires de l’État des
 
 Par « stage », il y a lieu d’entendre la période de stage des fonctionnaires stagiaires ou la période d’initiation et la période visée à l’article 20, paragraphe 1er, de la loi précitée du 25 mars 2015.
 
-<a id="art_N375EF"></a>
+<a id="art_N375F1"></a>
 
 ### Art. 2.
 
 L’agent bénéficie d’une réduction de stage, à condition que sa formation puisse être accomplie au cours du stage.
 
-<a id="art_N375FF"></a>
+<a id="art_N37601"></a>
 
 ### Art. 3.
 
@@ -13879,7 +13879,7 @@ Pour les agents de la catégorie de traitement ou d'indemnité A, le stage est r
 
 Pour les agents des catégories de traitement ou d'indemnité C et D, le stage est réduit d’une année lorsque l’agent peut se prévaloir d’une période de volontariat à l’Armée d’au moins trente-six mois.
 
-<a id="art_N37621"></a>
+<a id="art_N37623"></a>
 
 ### Art. 4.
 
@@ -13889,13 +13889,13 @@ Pour l’agent disposant d’une expérience professionnelle à l’étranger, u
 
 ##### **Chapitre 2** — **Prime de doctorat**
 
-<a id="art_N3764A"></a>
+<a id="art_N3764C"></a>
 
 ### Art. 5.
 
 Les fonctionnaires et employés de l’État peuvent bénéficier de la prime de doctorat, prévue respectivement à l’article 24, paragraphe 2, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et à l’article 34 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, sous réserve que le diplôme de doctorat soit inscrit au registre des titres de formation et soit classé au niveau 8 du cadre luxembourgeois des qualifications prévus par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
 
-<a id="art_N37669"></a>
+<a id="art_N3766B"></a>
 
 ### Art. 6.
 
@@ -13903,25 +13903,25 @@ Les décisions d’octroi de la prime de doctorat sont prises par le ministre ay
 
 ##### **Chapitre 3** — **Dispositions abrogatoires, transitoires et finales**
 
-<a id="art_N37689"></a>
+<a id="art_N3768B"></a>
 
 ### Art. 7.
 
 Le règlement grand-ducal modifié du 30 septembre 2015 déterminant pour les fonctionnaires et employés de l'État : I. les cas d'exception ou de tempérament aux conditions de stage ; II. la bonification d'ancienneté de service pour la fixation du traitement initial ; III. la procédure d'attribution d'une prime pour les détenteurs d'un doctorat est abrogé.
 
-<a id="art_N3769E"></a>
+<a id="art_N376A0"></a>
 
 ### Art. 8.
 
 Pour les agents visés par les articles 92 à 102 de de la loi du 1er août 2019 portant modification 1° de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale ; 2° de la loi modifiée du 10 juin 1980 portant planification des besoins en personnel enseignant de l’enseignement secondaire ; 3° de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ; 4° de la loi modifiée du 26 février 2016 portant création d’une école internationale publique à Differdange ; 5° de la loi modifiée du 23 juillet 2016 portant création d’une réserve nationale des employés enseignants des lycées et par l’article 27 de la loi du 15 décembre 2019 portant modification 1° de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ; 2° de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique ; 3° de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ; 4° de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ; 5° de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale ; 6° de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale, la demande de réduction de stage doit, sous peine d’irrecevabilité, être présentée dans un délai de six mois à partir de l’entrée en vigueur du présent règlement grand-ducal.
 
-<a id="art_N376F2"></a>
+<a id="art_N376F4"></a>
 
 ### Art. 9.
 
 Le présent règlement entre en vigueur le 1er janvier 2020.
 
-<a id="art_N37705"></a>
+<a id="art_N37707"></a>
 
 ### Art. 10.
 
@@ -13931,7 +13931,7 @@ Notre ministre ayant la Fonction publique dans ses attributions est chargé de l
 
 ##### Version consolidée applicable au 01/01/2021 : Loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.
 
-<a id="art_N3773C"></a>
+<a id="art_N3773E"></a>
 
 ### Art. 1er.
 
@@ -13939,7 +13939,7 @@ Au sens des dispositions de la présente loi le terme de fonctionnaire vise les 
 
 ##### **Le traitement de base**
 
-<a id="art_N3777F"></a>
+<a id="art_N37781"></a>
 
 ### Art. 2.
 
@@ -13959,7 +13959,7 @@ Au sens des dispositions de la présente loi le terme de fonctionnaire vise les 
 
 L’adaptation du taux de retenu de 8 pour-cent atteint à la date du 1er janvier 1999 se fait parallèlement à celle de la partie des cotisations à charge des assurés au titre des articles 239 et 240 du Code des Assurances sociales.
 
-<a id="art_N377FA"></a>
+<a id="art_N377FC"></a>
 
 ### Art. 3.
 
@@ -13969,7 +13969,7 @@ Toutefois, et sous réserve des dispositions de l’alinéa suivant, le paiement
 
 Le paiement du traitement des fonctionnaires visés à l’article 22, section IV, 10°, 11° alinéa 2, 12°, 13°, et 14° ci-après, qui ont atteint l’âge fictif prévu pour leur carrière, aura lieu sur la base du deuxième échelon de leur grade de computation de la bonification d’ancienneté tel qu’il est fixé par l’annexe D, aussi longtemps que cet échelon n’est pas dépassé par l’application des autres dispositions de la présente loi.
 
-<a id="art_N3781C"></a>
+<a id="art_N3781E"></a>
 
 ### Art. 4.
 
@@ -13977,7 +13977,7 @@ Le fonctionnaire comptant depuis sa nomination définitive deux ans de bons et l
 
 Toutefois, un an après avoir atteint un échelon d’un grade sur base de l’alinéa 1er ci-dessus, le fonctionnaire bénéficie d’une majoration de l’indice. Cette majoration est équivalente à la moitié arrondie à l’unité supérieure de la différence entre l’indice correspondant à l’échelon actuel et l’indice de l’échelon suivant, le cas échéant allongé ou majoré lui-même en application de la présente loi.
 
-<a id="art_N37838"></a>
+<a id="art_N3783A"></a>
 
 ### Art. 5.
 
@@ -13995,7 +13995,7 @@ Toutefois, si l’ancien traitement avant la promotion correspond à un indice m
 
 Sous peine de forclusion l’option pour l’application des dispositions du paragraphe 1er ci-dessus doit être faite dans un délai de trois mois à partir de la date de la nomination visée à l’alinéa 1er ci-dessus. Elle est irrévocable.
 
-<a id="art_N378A6"></a>
+<a id="art_N378A8"></a>
 
 ### Art. 6.
 
@@ -14015,7 +14015,7 @@ Par traitement au sens de l’alinéa qui précède, il y a lieu d’entendre le
 
 Dans la suite, le fonctionnaire pourra être intégré dans le cadre d’une autre carrière de l’administration au niveau correspondant à sa qualification. L’accès à la nouvelle carrière ainsi que les avancements ultérieurs se font conformément à l’article 16 de la loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration. Lorsqu’au moment de la nomination dans la nouvelle carrière, le nouveau traitement est inférieur à celui dont jouissait le fonctionnaire dans l’ancienne carrière, il conservera l’ancien traitement, arrêté au jour de la nomination, aussi longtemps qu’il est plus élevé. Les nominations conférées en vertu des dispositions ci-dessus se font à des emplois hors cadre qui sont créés à cette fin par dépassement des effectifs.
 
-<a id="art_N37921"></a>
+<a id="art_N37923"></a>
 
 ### Art. 6bis.
 
@@ -14051,15 +14051,15 @@ Les dispositions de l’alinéa 1er ci-dessus s’appliquent également à l’o
 
 **3.** Les décisions pour l’application des paragraphes 1 et 2 ci-dessus sont prises par le ministre ayant dans ses attributions la Fonction publique, sur proposition du ministre ayant dans son ressort l’administration dont relève le fonctionnaire ou le fonctionnaire stagiaire.
 
-<a id="art_N37A2E"></a>
+<a id="art_N37A30"></a>
 
-### art_N37A2E
+### art_N37A30
 
 
 
 ##### **Bonification d’ancienneté de service pour la fixation du traitement initial**
 
-<a id="art_N37A4E"></a>
+<a id="art_N37A50"></a>
 
 ### Art. 7.
 
@@ -14092,7 +14092,7 @@ Aucune bonification n’est accordée au fonctionnaire qui obtient la première 
 
 ##### **Avancement en traitement**
 
-<a id="art_N37B01"></a>
+<a id="art_N37B03"></a>
 
 ### Art. 8.
 
@@ -14149,7 +14149,7 @@ L’avancement en traitement visé par la présente section peut être accordé 
 
 ##### **Allocation de famille**
 
-<a id="art_N37C4B"></a>
+<a id="art_N37C4D"></a>
 
 ### Art. 9.
 
@@ -14185,7 +14185,7 @@ Dans les cas du passage du fonctionnaire d’un grade de traitement à un autre 
 
 ##### **Allocation de repas**
 
-<a id="art_N37D42"></a>
+<a id="art_N37D44"></a>
 
 ### Art. 9bis.
 
@@ -14197,7 +14197,7 @@ Un règlement grand-ducal détermine les modalités d’application et d’exéc
 
 ##### ** Allocations familiales**
 
-<a id="art_N37D7D"></a>
+<a id="art_N37D7F"></a>
 
 ### Art. 10.
 
@@ -14205,7 +14205,7 @@ En dehors de son traitement, le fonctionnaire bénéficie d’allocations famili
 
 ##### **Adaptation au coût de la vie**
 
-<a id="art_N37D98"></a>
+<a id="art_N37D9A"></a>
 
 ### Art. 11.
 
@@ -14245,7 +14245,7 @@ Dans le cas d’une adaptation en 2014, le point de départ pour le calcul de la
 
 ##### **Echéances**
 
-<a id="art_N37ED7"></a>
+<a id="art_N37ED9"></a>
 
 ### Art. 12.
 
@@ -14261,7 +14261,7 @@ Si le fonctionnaire décède au cours du mois de l’entrée en fonctions ou de 
 
 ##### **Dispositions spéciales**
 
-<a id="art_N37F33"></a>
+<a id="art_N37F35"></a>
 
 ### Art. 13.
 
@@ -14301,7 +14301,7 @@ Si le fonctionnaire décède au cours du mois de l’entrée en fonctions ou de 
 | surveillant principal des travaux surveillant sous-chef de brigade chaîneur principal surveillant chef de brigade chaîneur chef de brigade | surveillant principal sous-chef de brigadesous-chef de brigadechef de brigade chef de brigade |
 27. 
 
-<a id="art_N38057"></a>
+<a id="art_N38059"></a>
 
 ### Art. 14.
 
@@ -14313,7 +14313,7 @@ Le classement fera l’objet d’un règlement grand-ducal et sera fait d’apr�
 
 Les conservateurs des hypothèques jouissent, en dehors de leur traitement, de l’indemnité de responsabilité prévue par l’arrêté grand-ducal du 24 septembre 1945.
 
-<a id="art_N38095"></a>
+<a id="art_N38097"></a>
 
 ### Art. 15.
 
@@ -14341,7 +14341,7 @@ Pour fixer la cadence de ces promotions la détermination du fonctionnaire de ra
 
 Les décisions relatives à ces fixations sont prises par le Ministre de la Fonction Publique.
 
-<a id="art_N38128"></a>
+<a id="art_N3812A"></a>
 
 ### Art. 16.
 
@@ -14357,7 +14357,7 @@ Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément 
 
 **3.** Un règlement grand-ducal détermine les conditions et les modalités de la mise à la disposition aux fonctionnaires de vêtements professionnels et de l’allocation d’une indemnité d’habillement.
 
-<a id="art_N3817A"></a>
+<a id="art_N3817C"></a>
 
 ### Art. 17.
 
@@ -14466,7 +14466,7 @@ Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément 
 7. technicien inspecteur.
 2. Les conditions et la forme des nominations aux emplois de la carrière du technicien visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles de technicien principal, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
-<a id="art_N3839F"></a>
+<a id="art_N383A1"></a>
 
 ### Art. 18.
 
@@ -14483,7 +14483,7 @@ Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément 
 4. expéditionnaire technique, commis technique adjoint, commis technique, commis technique principal et premier commis technique principal. Les candidats à la carrière de l’expéditionnaire technique dans le cadre de l’éducation différenciée peuvent se recruter parmi les détenteurs soit du certificat d’aptitude technique et professionnelle soit d’un certificat y assimilé en vertu de l’article 46 de la loi modifiée du 21 mai 1979 portant 1. organisation de la formation professionnelle et de l’enseignement secondaire technique, 2. organisation de la formation professionnelle continue, soit d’un certificat d’études étranger reconnu équivalent par le ministre ayant dans ses attributions la fonction publique. Ils subissent un examen d’admission commun. Le Gouvernement en conseil peut fixer les grades de début et de fin de carrière. L’éducateur instructeur, détenteur d’un brevet de maîtrise, ou qui obtient ce brevet en cours de carrière, bénéficie, à partir du premier jour du mois qui suit celui pendant lequel a eu lieu son obtention, d’une prime annuelle correspondant à vingt points indiciaires.
 3. Le préposé du sport-loisir est classé par décision du gouvernement en conseil suivant son degré d’études dans la carrière correspondant à sa formation.
 
-<a id="art_N38428"></a>
+<a id="art_N3842A"></a>
 
 ### Art. 19.
 
@@ -14510,31 +14510,31 @@ Les candidats classés aux grades E5 à E7 ne peuvent pas bénéficier des dispo
 
 **3.** Le conducteur est classé au grade 10 avec computation de la bonification d’ancienneté de service au même grade, s’il est détenteur d’un certificat de fin d’études secondaires luxembourgeois ou d’un certificat équivalent dûment homologué par le Ministre de l’Education Nationale et d’un diplôme de conducteur civil délivré par une université ou une école technique supérieure après un cycle d’études sur place de trois années. Le diplôme de conducteur civil doit être inscrit au registre des diplômes prévu à l’article 1er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
 
-<a id="art_N38562"></a>
+<a id="art_N38564"></a>
 
 ### Art. 20.
 
 **I.** Les fonctionnaires dont les fonctions sont reprises à l’annexe A de la présente loi sous la rubrique IV «Enseignement» et qui sont classés aux grades E5, E5bis et E5ter bénéficient, après dix années de grade, d’une prime annuelle pensionnable dont le montant correspond à douze points indiciaires. Bénéficient de la même mesure les maîtres de cours spéciaux (grade E3ter).
 
-<a id="art_N38581"></a>
+<a id="art_N38583"></a>
 
 ### Art. 20bis.
 
 L’artisan, détenteur d’un brevet de maîtrise, ou qui obtient ce brevet en cours de carrière, bénéficie, à partir du premier jour du mois qui suit celui pendant lequel a eu lieu son obtention d’une prime annuelle correspondant à dix points indiciaires.
 
-<a id="art_N38591"></a>
+<a id="art_N38593"></a>
 
-### art_N38591
-
-
-
-<a id="art_N385A3"></a>
-
-### art_N385A3
+### art_N38593
 
 
 
-<a id="art_N385B5"></a>
+<a id="art_N385A5"></a>
+
+### art_N385A5
+
+
+
+<a id="art_N385B7"></a>
 
 ### Art. 22.
 
@@ -14753,7 +14753,7 @@ Le brigadier-chef des douanes (D5) nommé commis des douanes, après avoir réus
 
 ##### **Dispositions additionnelles**
 
-<a id="art_N38AD4"></a>
+<a id="art_N38AD6"></a>
 
 ### Art. 23.
 
@@ -14767,7 +14767,7 @@ Le fonctionnaire retraité et réintégré est autorisé à porter le titre atta
 
 Le régime de l’indemnité spéciale revenant en dehors de sa pension au fonctionnaire retraité réintégré est fixé par règlement grand-ducal, l’indemnité et la pension cumulées ne pouvant dépasser en aucun cas de plus de 10 pour cent le traitement ayant servi de calcul à la pension lui accordée.
 
-<a id="art_N38B23"></a>
+<a id="art_N38B25"></a>
 
 ### Art. 24.
 
@@ -14797,7 +14797,7 @@ L’article 1er de la loi du 29 août 1951 concernant l’assurance-maladie des 
 
 Le bénéfice des avantages en matière de traitement médical, dont il est question ci-dessus, est également accordé au personnel infirmier de l’hôpital neuro-psychiatrique de l’Etat.
 
-<a id="art_N38BE1"></a>
+<a id="art_N38BE3"></a>
 
 ### Art. 25.
 
@@ -14834,7 +14834,7 @@ La prime est fixée à la valeur de 20 points indiciaires.
 
 **8.** Une prime de régime militaire non pensionnable de 35 points indiciaires est allouée aux caporaux de carrière, aux sousofficiers de l’armée proprement dite, à l’infirmier gradué et aux infirmiers diplômés de l’année, ainsi qu’aux brigadiers et aux inspecteurs de police. Elle est fixée à 15 points indiciaires pour les officiers de l’armée proprement dite, les officiers-médecins de l’armée, l’officier-psychologue, les lieutenants stagiaires ainsi que pour les membres du cadre supérieur de la police et les stagiaires du cadre supérieur de la police.
 
-<a id="art_N38CB6"></a>
+<a id="art_N38CB8"></a>
 
 ### Art. 25bis.
 
@@ -14844,19 +14844,19 @@ La prime est fixée à la valeur de 20 points indiciaires.
 
 Pour les fonctionnaires de ces carrières exerçant leur profession dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de retraite ou dans une maison de soins ou auprès de l’Inspection générale de la sécurité sociale - Cellule d’évaluation et d’orientation de l’Assurance dépendance, le supplément est fixé à 30 points indiciaires.
 
-<a id="art_N38CE6"></a>
+<a id="art_N38CE8"></a>
 
 ### Art. 25ter.
 
 Le fonctionnaire, dont le traitement de base, y compris l’indice majoré, est inférieur à cent cinquante points indiciaires, bénéficie d’un supplément de traitement annuel de sept points indiciaires; toutefois ce supplément est réduit d’autant de points que le total du traitement de base, y compris l’indice majoré, et du supplément dépasse la somme de cent cinquante points indiciaires.
 
-<a id="art_N38CF6"></a>
+<a id="art_N38CF8"></a>
 
 ### Art. 25quater.
 
 Les instituteurs, les inspecteurs de l’enseignement primaire et les professeurs détachés de l’enseignement et attachés à un département ministériel bénéficient pendant le temps de leur détachement d’une indemnité pensionnable de quarante-cinq points indiciaires.
 
-<a id="art_N38D06"></a>
+<a id="art_N38D08"></a>
 
 ### Art. 26.
 
@@ -14868,19 +14868,19 @@ Les bénéficiaires de la mesure précitée sont dispensés, en vue de la fixati
 
 Les décisions pour l’application des dispositions qui précèdent sont prises par le Conseil de Gouvernement sur avis obligatoire du Conseil d’Etat.
 
-<a id="art_N38D3A"></a>
+<a id="art_N38D3C"></a>
 
 ### Art. 27.
 
 Lorsqu’une carrière est allongée par l’adjonction d’un grade, le fonctionnaire qui est classé à un grade supérieur à ce nouveau grade bénéficie d’une reconstitution de carrière, par la prise en considération du grade intercalaire.
 
-<a id="art_N38D4A"></a>
+<a id="art_N38D4C"></a>
 
 ### Art. 27bis.
 
 Dans le cas où un fonctionnaire en activité de service qui a obtenu la première nomination dans sa carrière pendant la période du premier novembre 1983 au trente et un octobre 1986 est dépassé en traitement par un collègue de la même carrière et de rang inférieur du fait que ce collègue a bénéficié de l’application des dispositions des articles 3, 7 paragraphe 1er et 22 section IV 10° à 15° de la présente loi, les dispositions des mêmes articles susmentionnés lui sont également applicables.
 
-<a id="art_N38D5D"></a>
+<a id="art_N38D5F"></a>
 
 ### Art. 28.
 
@@ -14888,13 +14888,13 @@ Dans le cas où un fonctionnaire en activité de service qui a obtenu la premiè
 
 **2.** L’article 13 de la loi précitée du 26 mai 1954 est remplacé par les dispositions suivantes:
 
-<a id="art_N38D97"></a>
+<a id="art_N38D99"></a>
 
 ### Art. 29.
 
 Les années passées au service de l’Etat avant la nomination du fonctionnaire et qui, suivant une disposition légale spéciale ont été mises en compte pour la fixation du traitement initial, pourront être considérées comme années de service passées dans le grade de nomination pour l’application des articles 8 et 22 de la présente loi.
 
-<a id="art_N38DA7"></a>
+<a id="art_N38DA9"></a>
 
 ### Art. 29bis. Préretraite
 
@@ -14954,7 +14954,7 @@ La pension de vieillesse est calculée sur la base, d’une part, du traitement 
 
 Si le fonctionnaire décède avant l’ouverture du droit à la pension de vieillesse, un trimestre de faveur est encore payé conformément à l’article 45 de la loi sur les pensions. La pension du survivant est calculée sur la base du traitement, de l’allocation de famille et des éléments de rémunération visés à l’alinéa qui précède et du temps computé jusqu’à la date du décès.
 
-<a id="art_N38F1D"></a>
+<a id="art_N38F1F"></a>
 
 ### Art. 29ter. Allocation de fin d’année.
 
@@ -14982,7 +14982,7 @@ Pour le fonctionnaire visé par le présent paragraphe ainsi que pour celui bén
 
 Pour l’application du présent paragraphe, il y a lieu d’entendre par traitement de base l’indemnité parlementaire telle qu’elle est fixée par la loi électorale modifiée du 18 février 2003, respectivement l’indemnité revenant au conseiller d’Etat en application du règlement grand-ducal du 15 mai 1997.
 
-<a id="art_N38FDB"></a>
+<a id="art_N38FDD"></a>
 
 ### Art. 29quater. De la restitution des traitements
 
@@ -14992,7 +14992,7 @@ La restitution de prestations est obligatoire si le fonctionnaire ou le bénéfi
 
 Dans le cas où la somme à rembourser dépasse cinq pour-cent du traitement mensuel du fonctionnaire, la décision de restitution ne peut être prise qu’après que l’intéressé aura été entendu soit verbalement, soit par écrit.
 
-<a id="art_N39003"></a>
+<a id="art_N39005"></a>
 
 ### Art. 29quinquies. Du traitement d’attente des membres du Gouvernement
 
@@ -15016,7 +15016,7 @@ Le traitement d’attente cesse:
 2. loi modifiée du 26 mai 1954
 3. après deux années de jouissance.
 
-<a id="art_N3909C"></a>
+<a id="art_N3909E"></a>
 
 ### Art. 29sexties. Subvention d’intérêt aux fonctionnaires et employés de l’Etat ayant contracté un prêt dans l’intérêt du logement
 
@@ -15026,7 +15026,7 @@ Toutefois, et à condition de bénéficier de cette allocation lors de leur mise
 
 Un règlement grand-ducal détermine les conditions et les modalités d’allocation de la subvention d’intérêt visée au présent article.
 
-<a id="art_N390CE"></a>
+<a id="art_N390D0"></a>
 
 ### Art. 30.
 
@@ -15034,7 +15034,7 @@ Sous réserve des dispositions de l’article 31 ci-après, sont abrogées toute
 
 ##### ** Dispositions transitoires**
 
-<a id="art_N390EB"></a>
+<a id="art_N390ED"></a>
 
 ### Art. 31.
 
@@ -15064,7 +15064,7 @@ Les dispositions du présent paragraphe s’appliquent de même aux pensions all
 
 **4.** Les options prévues au présent article doivent être faites par écrit.
 
-<a id="art_N39192"></a>
+<a id="art_N39194"></a>
 
 ### Art. 32.
 
@@ -15079,13 +15079,13 @@ Ces dispositions s’appliquent également aux survivants bénéficiaires d’un
 
 **3.** La carrière des officiers de la force armée actuellement en service ou pensionnés sera reconstituée, pour l’application des dispositions de l’article 5, paragraphe 4 et de l’article 7, paragraphe 5, ci-dessus, de façon que l’ancienneté de service pour la fixation du traitement initial soit bonifiée pour la totalité à partir du moment où ils remplissent les conditions de service pour accéder à la fonction de major, conditions qui ne peuvent dépasser onze ans pour l’application de la présente disposition.
 
-<a id="art_N391E6"></a>
+<a id="art_N391E8"></a>
 
 ### Art. 33.
 
 Lorsqu’un fonctionnaire a obtenu une promotion dans sa carrière à une fonction qui n’est pas la fonction immédiatement supérieure suivant la disposition législative portant organisation des cadres de son administration, sa carrière est reconstituée par la prise en considération de la fonction ou des fonctions immédiatement supérieures. Cette disposition ne s’applique que dans l’hypothèse où le fonctionnaire, pour la seule cause visée ci-dessus, est dépassé en traitement par un collègue de rang égal ou inférieur, qui a suivi la filière normale de sa carrière. Elle ne s’applique pas aux fonctionnaires dont les fonctions figurent aux tableaux de la classification des fonctions reprises à l’annexe A de la présente loi sous les rubriques II «magistrature», IV «enseignement» et V «cultes».
 
-<a id="art_N391F9"></a>
+<a id="art_N391FB"></a>
 
 ### Art. 34.
 
@@ -15097,7 +15097,7 @@ La limite du 30 septembre 1944 peut être étendue, par décision du ministre de
 
 **3.** Les dispositions du présent article ne se laissent cumuler ni avec l’article 30 de la loi du 21 mai 1948 sur les traitements, telle qu’elle a été modifiée dans la suite, ni avec toute autre disposition légale spéciale prévoyant une bonification d’ancienneté pour le calcul du traitement initial du chef de pratique professionnelle dans le secteur privé.
 
-<a id="art_N39242"></a>
+<a id="art_N39244"></a>
 
 ### Art. 35.
 
@@ -15111,7 +15111,7 @@ La limite du 30 septembre 1944 peut être étendue, par décision du ministre de
 3. er
 4. Les décisions à intervenir pour l’application des dispositions des paragraphes 2 et 3 ci-dessus, sont prises par le ministre du ressort, sur avis conforme du ministre de la Fonction Publique et de la Réforme administrative.
 
-<a id="art_N3928F"></a>
+<a id="art_N39291"></a>
 
 ### Art. 36.
 
@@ -15119,13 +15119,13 @@ La limite du 30 septembre 1944 peut être étendue, par décision du ministre de
 2. 
 3. règlement grand-ducal De toute façon, les fonctionnaires ayant passé l’examen de commis aux écritures ou de commis technicien et ceux qui en auront été dispensés, sont considérés comme remplissant les conditions prévues à l’article 8, section IV, 3° ci-dessus pour le deuxième avancement en traitement.
 
-<a id="art_N392B8"></a>
+<a id="art_N392BA"></a>
 
 ### Art. 37.
 
 Lorsque la présente loi a repris des dispositions de l’ancienne législation, les règlements d’administration publique existants et basés sur ces dispositions, restent en vigueur jusqu’à la promulgation des règlements prévus par la présente loi.
 
-<a id="art_N392C8"></a>
+<a id="art_N392CA"></a>
 
 ### Art. 38.
 
@@ -15133,7 +15133,7 @@ Pour autant que des législations particulières prévoient que la fixation des 
 
 ##### ** Entrée en vigueur**
 
-<a id="art_N392E2"></a>
+<a id="art_N392E4"></a>
 
 ### Art. 39.
 
@@ -15141,7 +15141,7 @@ La présente loi sort ses effets à partir du jour de l’entrée en vigueur de 
 
 ##### Version consolidée applicable au 01/01/2008 : Loi du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l´Etat.
 
-<a id="art_N39310"></a>
+<a id="art_N39312"></a>
 
 ### Art. 1er.
 
@@ -15165,7 +15165,7 @@ Le cycle de formation en management public est organisé par l’Institut nation
 
 3) L’accès au cadre fermé se fait sur la base du tableau d’avancement.
 
-<a id="art_N393B0"></a>
+<a id="art_N393B2"></a>
 
 ### Art. 2.
 
@@ -15175,7 +15175,7 @@ Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est 
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière: 20% pour les fonctions classées au grade 5; 15% pour les fonctions classées au grade 6.
 
-<a id="art_N393F4"></a>
+<a id="art_N393F6"></a>
 
 ### Art. 3.
 
@@ -15189,7 +15189,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 17% pour les fonctions classées au grade 6
 - 13% pour les fonctions classées au grade 7.
 
-<a id="art_N39445"></a>
+<a id="art_N39447"></a>
 
 ### Art. 4.
 
@@ -15202,7 +15202,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 20% pour les fonctions classées au grade 7
 - 15% pour les fonctions classées au grade 7bis.
 
-<a id="art_N39493"></a>
+<a id="art_N39495"></a>
 
 ### Art. 5.
 
@@ -15215,7 +15215,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 20% pour les fonctions classées au grade 8
 - 15% pour les fonctions classées au grade 8bis.
 
-<a id="art_N394E1"></a>
+<a id="art_N394E3"></a>
 
 ### Art. 6.
 
@@ -15228,7 +15228,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 20% pour les fonctions classées au grade 8
 - 15% pour les fonctions classées au grade 8bis.
 
-<a id="art_N3952F"></a>
+<a id="art_N39531"></a>
 
 ### Art. 7.
 
@@ -15241,7 +15241,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 20% pour les fonctions classées au grade 8
 - 15% pour les fonctions classées au grade 8bis.
 
-<a id="art_N3957D"></a>
+<a id="art_N3957F"></a>
 
 ### Art. 7bis.
 
@@ -15255,7 +15255,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 15% pour les fonctions classées au grade 11
 - 11% pour les fonctions classées au grade 12.
 
-<a id="art_N395CE"></a>
+<a id="art_N395D0"></a>
 
 ### Art. 8.
 
@@ -15269,7 +15269,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 15% pour les fonctions classées au grade 12
 - 11% pour les fonctions classées au grade 13.
 
-<a id="art_N3961F"></a>
+<a id="art_N39621"></a>
 
 ### Art. 8bis.
 
@@ -15280,7 +15280,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 20% pour les fonctions classées au grade 12
 - 15% pour les fonctions classées au grade 13.
 
-<a id="art_N39664"></a>
+<a id="art_N39666"></a>
 
 ### Art. 8ter.
 
@@ -15294,7 +15294,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 15% pour les fonctions classées au grade D13
 - 11% pour les fonctions classées au grade D14.
 
-<a id="art_N396B5"></a>
+<a id="art_N396B7"></a>
 
 ### Art. 9.
 
@@ -15307,7 +15307,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 32% pour les fonctions classées au grade 12
 - 27% pour les fonctions classées au grade 13.
 
-<a id="art_N39703"></a>
+<a id="art_N39705"></a>
 
 ### Art. 10.
 
@@ -15320,7 +15320,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 32% pour les fonctions classées au grade 15
 - 27% pour les fonctions classées au grade 16.
 
-<a id="art_N39751"></a>
+<a id="art_N39753"></a>
 
 ### Art. 11.
 
@@ -15335,7 +15335,7 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 
 **2.** Pour la carrière de l’ingénieur-conducteur la promotion aux grades 13 et 14 se fait après respectivement 3 et 6 années de grade après la 1re nomination sans préjudice de l’application des dispositions de l’article 22 section VI 2) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N397BE"></a>
+<a id="art_N397C0"></a>
 
 ### Art. 12.
 
@@ -15395,19 +15395,19 @@ Pour le cadre fermé, le nombre des emplois dans les différents grades est dét
 - 25% pour les fonctions classées au grade P3
 - 15% pour les fonctions classées au grade P4.
 
-<a id="art_N398F5"></a>
+<a id="art_N398F7"></a>
 
 ### Art. 12bis.
 
 Pour la carrière du concierge, la promotion aux grades 4 et 5 se fait respectivement 6 et 15 années de grade à partir de la première nomination.
 
-<a id="art_N39927"></a>
+<a id="art_N39929"></a>
 
 ### Art. 13.
 
 L’article 32 de la loi modifiée du 10 août 1912 concernant l’organisation de l’enseignement primaire est remplacé par les dispositions suivantes:**Art. 32.**L’instituteur est nommé aux fonctions d’instituteur principal après douze années de grade à partir de la première nomination.Selon les besoins, il peut être chargé d’attributions administratives qui sont à fixer par règlement grand-ducal.Lorsque dans une commune ou dans un syndicat de communes aucun instituteur ne peut être nommé aux fonctions d’instituteur principal en vertu des dispositions qui précèdent, l’instituteur le plus ancien en rang dans cette commune ou dans ce syndicat de communes pourra être chargé temporairement des attributions administratives visées au paragraphe 2. Les instituteurs chargés des attributions administratives visées au paragraphe 2 bénéficient d’une indemnité dont le montant est fixé par le Gouvernement en conseil.
 
-<a id="art_N39982"></a>
+<a id="art_N39984"></a>
 
 ### Art. 14.
 
@@ -15420,7 +15420,7 @@ Dans «l’effectif total» des carrières visées aux dispositions qui précèd
 5. Les fonctionnaires de cette carrière en congé sans traitement ou en service à temps partiel à durée déterminée tant que leur administration n’a pas procédé à un nouvel engagement dans leur carrière.
 6. Les vacances de poste résultant du départ de fonctionnaires - ou de stagiaires - de cette carrière, tant qu’elles ne sont pas pourvues de nouveaux titulaires de cette carrière.
 
-<a id="art_N399D3"></a>
+<a id="art_N399D5"></a>
 
 ### Art. 15.
 
@@ -15432,7 +15432,7 @@ En cas de dépassement, la réduction est opérée sur le nombre de postes attri
 
 Pour la détermination du nombre des postes à attribuer dans les différents grades du cadre fermé après application des pourcentages établis dans les dispositions qui précèdent, les bénéficiaires d’un service à temps partiel à durée déterminée ou d’un service à temps partiel sont pris en compte à raison de leur degré d’occupation effective dans le cadre de l’administration dont ils relèvent.
 
-<a id="art_N39A20"></a>
+<a id="art_N39A22"></a>
 
 ### Art. 15bis.
 
@@ -15440,7 +15440,7 @@ Toutes les dispositions légales ou réglementaires prévoyant que les promotion
 
 Toutefois pour les carrières dont l’effectif total, tel qu’il est défini à l’article 14 ci-dessus, est inférieur à 10 unités aucune promotion dans le cadre fermé ne peut se faire avant respectivement 3, 6 et, le cas échéant, 10 années de grade depuis la nomination du fonctionnaire à la dernière fonction du cadre ouvert.
 
-<a id="art_N39A83"></a>
+<a id="art_N39A85"></a>
 
 ### Art. 16.
 
@@ -15448,7 +15448,7 @@ Un règlement grand-ducal fixe annuellement conformément aux dispositions inscr
 
 A cet effet, l’effectif théorique tel qu’il existe au moment de l’entrée en vigueur de la présente loi ne peut augmenter qu’à partir du moment où il est dépassé par l’effectif réel.
 
-<a id="art_N39ABE"></a>
+<a id="art_N39AC0"></a>
 
 ### Art. 16bis.
 
@@ -15476,25 +15476,25 @@ Par grade de fin de carrière, il y a lieu d’entendre le grade de la carrière
 
 Toutefois, et à moins que la loi ne prévoit pas d’examen de promotion pour sa carrière ou qu’il en ait été dispensé en vertu d’une disposition légale ou réglementaire, le bénéfice du supplément de traitement personnel est réservé au fonctionnaire ayant passé avec succès au moins un examen de promotion.
 
-<a id="art_N39B67"></a>
+<a id="art_N39B69"></a>
 
 ### Art. 16ter.
 
 
 
-<a id="art_N39B98"></a>
+<a id="art_N39B9A"></a>
 
 ### Art. 25.
 
 Les employés et ouvriers de l’Etat fonctionnarisés et nommés à un grade supérieur au grade de début de carrière bénéficient en vue de leurs avancements ultérieurs dans le cadre ouvert d’une bonification d’années de carrière correspondant au nombre d’années de carrière requis en vertu des dispositions de la présente loi pour l’accès audit grade.
 
-<a id="art_N39BCA"></a>
+<a id="art_N39BCC"></a>
 
 ### Art. 26.
 
 Les fonctionnaires qui d’après l’ancienne législation avaient une perspective de carrière plus favorable pour l’accès aux différentes fonctions du cadre ouvert et de la première fonction du cadre fermé nouvellement créé par la présente loi conservent leurs anciennes possibilités d’avancement pendant une période de trois années à partir de l’entrée en vigueur de la présente loi.
 
-<a id="art_N39BFC"></a>
+<a id="art_N39BFE"></a>
 
 ### Art. 26bis.
 
@@ -15511,19 +15511,19 @@ Pour fixer le nouveau rang du fonctionnaire, il y a dans tous les cas mentionné
 - en cas de pluralité de réussites à ces différents examens, que l’intéressé se soit classé entre le fonctionnaire classé dernier du premier tiers et le fonctionnaire classé premier du deuxième tiers de la nouvelle promotion de rang égal ou immédiatement inférieur
 - en cas de réussite unique à l’examen, qu’il se soit classé au même rang que ce fonctionnaire de la nouvelle promotion de rang égal ou immédiatement inférieur.
 
-<a id="art_N39C5D"></a>
+<a id="art_N39C5F"></a>
 
 ### Art. 28.
 
 Pour l’application des dispositions de la présente loi, les différentes carrières et grades énumérés sont ceux figurant aux annexes de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N39C94"></a>
+<a id="art_N39C96"></a>
 
 ### Art. 28bis.
 
 Pour l’application de l’article 14 paragraphe 6 à la carrière du technicien diplômé, il n’est pas tenu compte des changements de carrière résultant de l’application de l’article IV, numéro 35, paragraphe b) de la loi du 27 août 1986 modifiant et complétant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N39CD0"></a>
+<a id="art_N39CD2"></a>
 
 ### Art. 29.
 
@@ -15543,7 +15543,7 @@ Toutes les dispositions légales et réglementaires contraires à la présente l
 
 ##### Version consolidée applicable au 02/06/2018 : Règlement grand-ducal du 15 juillet 1967 portant fixation de la rémunération des volontaires de l'armée.
 
-<a id="art_N39D77"></a>
+<a id="art_N39D79"></a>
 
 ### Art. 1er.
 
@@ -15601,19 +15601,19 @@ Toutes les dispositions légales et réglementaires contraires à la présente l
 
 Les soldats volontaires membres d’une unité de disponibilité opérationnelle qui bénéficient de l’indemnité spéciale visée au paragraphe 11 du présent article n’ont pas droit à la prime de disponibilité opérationnelle pendant la période où ils bénéficient de ladite indemnité spéciale.
 
-<a id="art_N39F60"></a>
+<a id="art_N39F62"></a>
 
 ### Art. 2. à Art. 5.
 
 
 
-<a id="art_N39F91"></a>
+<a id="art_N39F93"></a>
 
 ### Art. 6.
 
 Les soldats volontaires ne faisant pas partie d’une unité de disponibilité opérationnelle, participant à des manœuvres ou exercices à l’étranger, ont droit à une indemnité de déplacement de vingt pour cent du taux de l’indemnité de jour fixée pour le pays de séjour par le règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État .
 
-<a id="art_N39FC8"></a>
+<a id="art_N39FCA"></a>
 
 ### Art. 7.
 
@@ -15621,13 +15621,13 @@ La prime de démobilisation accordée aux soldats volontaires répondant aux con
 
 La prime de rengagement est fixée à 297,47 EUR pour chaque rengagement d'une année. Elle est versée en douze mensualités ensemble avec la solde mensuelle revenant aux soldats volontaires.
 
-<a id="art_N3A003"></a>
+<a id="art_N3A005"></a>
 
 ### Art. 8.
 
 Les soldes, indemnités, primes et allocations prévues par le présent règlement correspondent au nombre-indice cent. Elles sont adaptées au coût de la vie, conformément aux dispositions de l’article 3 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
 
-<a id="art_N3A03A"></a>
+<a id="art_N3A03C"></a>
 
 ### Art. 8bis.
 
@@ -15641,25 +15641,25 @@ Les soldes, indemnités, primes et allocations prévues par le présent règleme
 
 Pour le volontaire visé par le présent paragraphe, l’allocation de fin d’année est calculée sur base, soit de la solde mensuelle due pour le mois de décembre éventuellement majorée de l’allocation de famille , soit de la solde mensuelle due pour le dernier mois travaillé éventuellement majorée de l’indemnité de ménage, proportionnellement à la tâche et aux mois travaillés.
 
-<a id="art_N3A090"></a>
+<a id="art_N3A092"></a>
 
 ### Art. 8ter.
 
 
 
-<a id="art_N3A0C1"></a>
+<a id="art_N3A0C3"></a>
 
 ### Art. 9.
 
 
 
-<a id="art_N3A0F2"></a>
+<a id="art_N3A0F4"></a>
 
 ### Art. 10.
 
 Le règlement grand-ducal du 9 décembre 1963 portant fixation de la rémunération des volontaires de l’armée, tel qu’il a été modifié par les règlements grand-ducaux des 22 juin 1966 et 26 avril 1967, est abrogé.
 
-<a id="art_N3A133"></a>
+<a id="art_N3A135"></a>
 
 ### Art. 11.
 
@@ -15667,25 +15667,25 @@ Nos Ministres de la Force Armée et du Budget sont chargés chacun en ce qui le 
 
 ##### Règlement du Gouvernement en Conseil du 5 mars 1976 fixant l'indemnité annuelle de l'instituteur chargé temporairement des fonctions d'instituteur principal.
 
-<a id="art_N3A17A"></a>
+<a id="art_N3A17C"></a>
 
 ### Art. 1er.
 
 L'instituteur chargé temporairement des fonctions d'instituteur principal bénéficiera d'une indemnité annuelle dont le montant correspond à 20 points indiciaires, la valeur de ces points étant égale à la valeur d'un même nombre de points de la loi fixant le régime des traitements des fonctionnaires de l'Etat.
 
-<a id="art_N3A18D"></a>
+<a id="art_N3A18F"></a>
 
 ### Art. 2.
 
 L'indemnité prévue à l'article 1er ci-dessus sera liquidée au profit des personnes intéressées à raison d'un douzième par mois conjointement avec leur traitement par les soins du Ministère de la Fonction Publique - Service Central du Personnel.
 
-<a id="art_N3A1A0"></a>
+<a id="art_N3A1A2"></a>
 
 ### Art. 3.
 
 Le présent règlement sort ses effets à partir du 1er janvier 1976.
 
-<a id="art_N3A1B3"></a>
+<a id="art_N3A1B5"></a>
 
 ### Art. 4.
 
@@ -15693,7 +15693,7 @@ Le Ministre de l'Education Nationale et le Ministre de la Fonction Publique sont
 
 ##### Règlement grand-ducal du 26 juin 2002 déterminant le barème des rémunérations des chargés de cours à l'Institut National d'Administration Publique.
 
-<a id="art_N3A1D8"></a>
+<a id="art_N3A1DA"></a>
 
 ### Art. 1er.
 
@@ -15703,7 +15703,7 @@ Le barème des rémunérations à l'Institut National d'Administration Publique 
 2. Les chargés de cours du secteur public non luxembourgeois touchent une indemnité dont le montant est fixé à 65,94 euros par heure de cours pour une intervention au niveau des carrières supérieures, des carrières moyennes et des carrières inférieures.
 3. Les chargés de cours du secteur privé non luxembourgeois ainsi que les organismes spécialisés de secteur privé luxembourgeois et non luxembourgeois touchent pour chaque cours une indemnité dont le montant est fixé forfaitairement par contrat à établir entre les organismes concernés et le Ministre ayant dans ses attributions la Fonction publique.
 
-<a id="art_N3A1F8"></a>
+<a id="art_N3A1FA"></a>
 
 ### Art. 2.
 
@@ -15713,7 +15713,7 @@ Le barème des rémunérations à l'Institut National d'Administration Publique 
 2. Les chargés de cours du secteur public non luxembourgeois touchent une indemnité dont le montant est fixé à 65,94 euros par heure de cours.
 3. Les chargés de cours du secteur privé non luxembourgeois ainsi que les organismes spécialisés du secteur privé luxembourgeois et non luxembourgeois touchent pour chaque séminaire une indemnité dont le montant est fixé forfaitairement par contrat à établir entre les chargés de cours et les organismes concernés et le Ministre ayant dans ses attributions la Fonction publique.
 
-<a id="art_N3A215"></a>
+<a id="art_N3A217"></a>
 
 ### Art. 3.
 
@@ -15721,7 +15721,7 @@ Le présent règlement grand-ducal entrera en vigueur avec effet au 1er octobre 
 
 Le règlement grand-ducal du 25 octobre 1999 déterminant le barème des rémunérations des chargés de cours à l'Institut National d'Administration Publique est abrogé avec effet au 1er octobre 2002.
 
-<a id="art_N3A22E"></a>
+<a id="art_N3A230"></a>
 
 ### Art. 4.
 
@@ -15731,7 +15731,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 ##### Version consolidée applicable au 31/07/2023 : Loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental.
 
-<a id="art_N3A263"></a>
+<a id="art_N3A265"></a>
 
 ### Art. 76.
 
@@ -15749,13 +15749,13 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 ##### Chapitre I. — Champ d’application
 
-<a id="art_N3A2FC"></a>
+<a id="art_N3A2FE"></a>
 
 ### Art. 1er.
 
 Le présent règlement grand-ducal est applicable aux fonctionnaires de l’Etat, aux employés de l’Etat, aux employés au service de l’Etat ainsi qu’aux ouvriers de l’Etat, dénommés ci-après agents publics.
 
-<a id="art_N3A331"></a>
+<a id="art_N3A333"></a>
 
 ### Art. 2.
 
@@ -15769,7 +15769,7 @@ Par partenaires au sens du présent règlement grand-ducal, il y a lieu d’ente
 
 ##### *§ I* — *Agents en activité de service*
 
-<a id="art_N3A3A5"></a>
+<a id="art_N3A3A7"></a>
 
 ### Art. 3.
 
@@ -15783,7 +15783,7 @@ Par partenaires au sens du présent règlement grand-ducal, il y a lieu d’ente
 
 ##### *§ II* — Agents en retraite
 
-<a id="art_N3A422"></a>
+<a id="art_N3A424"></a>
 
 ### Art. 4.
 
@@ -15793,7 +15793,7 @@ Par partenaires au sens du présent règlement grand-ducal, il y a lieu d’ente
 
 ##### *§ I* — *Agents en activité de service*
 
-<a id="art_N3A470"></a>
+<a id="art_N3A472"></a>
 
 ### Art. 5.
 
@@ -15801,7 +15801,7 @@ Par partenaires au sens du présent règlement grand-ducal, il y a lieu d’ente
 
 ##### *§ II* — *Agents en retraite*
 
-<a id="art_N3A4B3"></a>
+<a id="art_N3A4B5"></a>
 
 ### Art. 6.
 
@@ -15809,19 +15809,19 @@ Par partenaires au sens du présent règlement grand-ducal, il y a lieu d’ente
 
 ##### Chapitre IV. — Dispositions d’ordre technique
 
-<a id="art_N3A4F0"></a>
+<a id="art_N3A4F2"></a>
 
 ### Art. 7.
 
 
 
-<a id="art_N3A521"></a>
+<a id="art_N3A523"></a>
 
 ### Art. 8.
 
 
 
-<a id="art_N3A552"></a>
+<a id="art_N3A554"></a>
 
 ### Art. 9.
 
@@ -15831,7 +15831,7 @@ Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### Règlement grand-ducal du 27 juillet 1992 portant fixation des conditions et modalités d'attribution d'une prime d'astreinte aux fonctionnaires de l'Etat.
 
-<a id="art_N3A5AB"></a>
+<a id="art_N3A5AD"></a>
 
 ### Art. 1er.
 
@@ -15839,13 +15839,13 @@ Le présent règlement grand-ducal s'applique aux fonctionnaires de l'Etat dont 
 
 Hormis les cas prévus à l'article 25, paragraphe 4 de la loi précitée du 22 juin 1963, il ne s'applique pas aux fonctions de la rubrique I, dont les titulaires sont affectés à des établissements d'enseignement.
 
-<a id="art_N3A5C1"></a>
+<a id="art_N3A5C3"></a>
 
 ### Art. 2.
 
 Une prime d'astreinte, qui ne pourra dépasser la valeur de 22 points indiciaires par an, est allouée aux fonctionnaires des sept grades inférieurs qui sont chargés du service de concierge impliquant la surveillance du bâtiment ou de l'installation dans les administrations et services de l'Etat.
 
-<a id="art_N3A5D1"></a>
+<a id="art_N3A5D3"></a>
 
 ### Art. 3.
 
@@ -15856,19 +15856,19 @@ Une prime d'astreinte est allouée au fonctionnaire qui, en exécution d'un ordr
 
 La présente disposition ne vise que le service effectivement presté; les périodes de simple disponibilité ou de présence physique au lieu de travail sans activité professionnelle correspondant à la fonction du titulaire ne donnent droit qu'à la moitié des taux fixés à l'article 25 paragraphe 2 de la loi du 22 juin 1963 précitée.
 
-<a id="art_N3A5EE"></a>
+<a id="art_N3A5F0"></a>
 
 ### Art. 4.
 
 Par équipe successive au sens de l'article 25, paragraphe 2 de la loi du 22 juin 1963 précitée, il y a lieu d'entendre tout mode d'organisation du service en équipes selon lequel les fonctionnaires sont occupés successivement sur le même emploi sur un rythme de type continu, entraînant pour les fonctionnaires la nécessité d'accomplir leur service à des heures différentes sur une période donnée de jours ou de semaines.
 
-<a id="art_N3A5FE"></a>
+<a id="art_N3A600"></a>
 
 ### Art. 5.
 
 La prime d'astreinte prévue à l'article 25, paragraphe 1er de la loi du 22 juin 1963 précitée n'est pas cumulable avec la prime prévue à l'article 25, paragraphe 2 de la même loi. Lorsque le fonctionnaire remplit simultanément les conditions des deux paragraphes, seule la prime la plus élevée lui est versée.
 
-<a id="art_N3A611"></a>
+<a id="art_N3A613"></a>
 
 ### Art. 6.
 
@@ -15876,13 +15876,13 @@ Les décisions individuelles d'allocation des primes ci-dessus fixées sont pris
 
 Suivant la régularité du service et la permanence des prestations, la liquidation de la prime d'astreinte aura lieu, soit mensuellement par les soins du ministère de la Fonction publique, Administration du Personnel de l'Etat, soit annuellement en une ou deux fois par les départements ministériels compétents.
 
-<a id="art_N3A624"></a>
+<a id="art_N3A626"></a>
 
 ### Art. 7.
 
 Le règlement du Gouvernement en conseil du 4 juin 1965 portant nouvelle fixation des conditions et modalités d'allocation d'une prime d'astreinte aux fonctionnaires de l'Etat est abrogé.
 
-<a id="art_N3A634"></a>
+<a id="art_N3A636"></a>
 
 ### Art. 8.
 
@@ -15890,13 +15890,13 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 ##### Version consolidée applicable au 01/11/1986 : Règlement grand-ducal du 31 mars 1978 portant détermination des catégories des fonctionnaires de l'administration des douanes bénéficiant de la prime d'astreinte et fixation du montant de ladite prime.
 
-<a id="art_N3A65A"></a>
+<a id="art_N3A65C"></a>
 
 ### Art. 1er.
 
 Une prime d’astreinte est allouée aux fonctionnaires de l’administration des douanes qui exercent ou qui sont appelés à exercer tant des devoirs de police se situant en dehors de leur activité principale que des attributions de police générale.
 
-<a id="art_N3A68F"></a>
+<a id="art_N3A691"></a>
 
 ### Art. 2.
 
@@ -15914,13 +15914,13 @@ Une prime d’astreinte est allouée aux fonctionnaires de l’administration de
 
 **(2)** La prime d’astreinte est fixée à la valeur de douze points indiciaires pour tous les autres fonctionnaires qui, en vertu des articles 35 et 36 de l’instruction ministérielle sur le service des fonctionnaires de l’administration des douanes du 6 septembre 1967 modifiée par celle du 29 février 1972, peuvent être appelés à tout moment à l’exercice de ces mêmes fonctions.
 
-<a id="art_N3A6F8"></a>
+<a id="art_N3A6FA"></a>
 
 ### Art. 3.
 
 Est rapporté le règlement grand-ducal du 24 juillet 1972 portant détermination des catégories des fonctionnaires de l’administration des douanes bénéficiant de la prime d’astreinte et fixation du montant de ladite prime.
 
-<a id="art_N3A72F"></a>
+<a id="art_N3A731"></a>
 
 ### Art. 4.
 
@@ -15930,7 +15930,7 @@ Notre Ministre des Finances et Notre Ministre de la Fonction publique sont charg
 
 ##### Version consolidée applicable au 01/07/2019 : Loi du 20 avril 2009 portant création du Centre des technologies de l'information de l'Etat.
 
-<a id="art_N3A789"></a>
+<a id="art_N3A78B"></a>
 
 ### Art. 11.
 
@@ -15946,13 +15946,13 @@ Notre Ministre des Finances et Notre Ministre de la Fonction publique sont charg
 
 ##### Règlement du Gouvernement en Conseil du 11 mars 1994 concernant la prime d'informatique.
 
-<a id="art_N3A816"></a>
+<a id="art_N3A818"></a>
 
 ### Art. 1er.
 
 Une prime d'informatique, fixée selon les distinctions de l'article 5 et d'après les critères de l'article 2, est allouée aux fonctionnaires et employés de l'Etat, détenteurs d'un diplôme d'informaticien spécifié à l'article 3, et travaillant tant à l'étude, à la conception et à l'organisation qu'à l'exploitation de systèmes de traitement mécanique ou électronique de l'information.
 
-<a id="art_N3A829"></a>
+<a id="art_N3A82B"></a>
 
 ### Art. 2.
 
@@ -15960,7 +15960,7 @@ Une prime d'informatique, fixée selon les distinctions de l'article 5 et d'apr�
 
 **(2)** La collaboration à un service informatique, dont la durée est inférieure au tiers du temps plein de service, ne donne pas droit à la prime d'informatique. La collaboration dont la durée est comprise entre un tiers et deux tiers du temps plein de service donne droit à la moitié de la prime. Pour l'application du présent alinéa le mois civil constitue l'unité de temps plein de service.
 
-<a id="art_N3A84E"></a>
+<a id="art_N3A850"></a>
 
 ### Art. 3.
 
@@ -15968,7 +15968,7 @@ Une prime d'informatique, fixée selon les distinctions de l'article 5 et d'apr�
 
 **(2)** En ce qui concerne les diplômes non décernés par l'Etat, il est loisible au Ministre ayant dans ses attributions le centre informatique de l'Etat d'exiger, sur la proposition d'une commission consultative, des épreuves de contrôle. Il en est de même, en ce qui concerne les diplômes décernés par l'Etat, lorsqu'il existe des doutes sur le point de savoir si l'agent qui demande le bénéfice du présent règlement est resté au courant de l'état des techniques de traitement de l'information.
 
-<a id="art_N3A873"></a>
+<a id="art_N3A875"></a>
 
 ### Art. 4.
 
@@ -15982,7 +15982,7 @@ Une prime d'informatique, fixée selon les distinctions de l'article 5 et d'apr�
 
 **(5)** Sans préjudice de ce qui précède, les primes allouées aux fonctionnaires attachés à plein temps au centre informatique de l'Etat sont liquidées mensuellement, le contrôle de l'allocation de la prime se faisant a posteriori chaque trimestre par la commission consultative.
 
-<a id="art_N3A8C5"></a>
+<a id="art_N3A8C7"></a>
 
 ### Art. 5.
 
@@ -15992,7 +15992,7 @@ La prime d'informatique est fixée à
 2. 24 points indiciaires pour les analystes et les programmeurs d'application détenteurs d'un diplôme de programmeur d'application.
 3. 36 points indiciaires pour les analystes et les programmeurs de systèmes détenteurs d'un diplôme de programmeur de système.
 
-<a id="art_N3A8E2"></a>
+<a id="art_N3A8E4"></a>
 
 ### Art. 6.
 
@@ -16002,7 +16002,7 @@ Le présent règlement, qui entre en vigueur le 1er avril 1994, sera publié au 
 
 ##### Loi du 21 mars 2017 portant introduction d’une prime unique pour l’année 2016 dans le cadre de l’accord salarial du 5 décembre 2016 dans la Fonction publique.
 
-<a id="art_N3A91B"></a>
+<a id="art_N3A91D"></a>
 
 ### Art. 1er.
 
@@ -16028,7 +16028,7 @@ Pour l’application du présent paragraphe, il y a lieu d’entendre par traite
 
 Toutefois, les dispositions de l’article 1er, alinéa 2 de la loi précitée sont applicables en ce qui concerne l’allocation de fin d’année comprise dans la base de calcul de la prime.
 
-<a id="art_N3A9F5"></a>
+<a id="art_N3A9F7"></a>
 
 ### Art. 2.
 
@@ -16038,7 +16038,7 @@ Les dispositions de l’article 1er prennent effet au 1er janvier 2016.
 
 ##### Règlement grand-ducal du 21 mars 2017 portant introduction d’une prime unique pour les volontaires de police pour l’année 2016 dans le cadre de l’accord salarial du 5 décembre 2016 dans la Fonction publique.
 
-<a id="art_N3AA32"></a>
+<a id="art_N3AA34"></a>
 
 ### Art. 1er.
 
@@ -16052,7 +16052,7 @@ Le volontaire de police qui quitte le service au cours de la période de référ
 
 **(3)** La prime est sujette à retenue pour pension ainsi qu’aux autres déductions sociales et fiscales prévues par la loi.
 
-<a id="art_N3AA95"></a>
+<a id="art_N3AA97"></a>
 
 ### Art. 2.
 
@@ -16060,7 +16060,7 @@ Le présent règlement grand-ducal entre en vigueur le jour de sa publication au
 
 Les dispositions de l’article 1er prennent effet au 1er janvier 2016.
 
-<a id="art_N3AAB4"></a>
+<a id="art_N3AAB6"></a>
 
 ### Art. 3.
 
@@ -16068,7 +16068,7 @@ Notre Ministre de la Sécurité intérieure, Notre Ministre de la Fonction publi
 
 ##### Règlement grand-ducal du 8 mars 2017 portant introduction d’une prime unique pour les volontaires de l’armée pour l’année 2016 dans le cadre de l’accord salarial du 5 décembre 2016 dans la Fonction publique.
 
-<a id="art_N3AADE"></a>
+<a id="art_N3AAE0"></a>
 
 ### Art. 1er.
 
@@ -16082,7 +16082,7 @@ Le volontaire de l’armée qui quitte le service au cours de la période de ré
 
 **(3)** La prime est sujette à retenue pour pension ainsi qu’aux autres déductions sociales et fiscales prévues par la loi.
 
-<a id="art_N3AB43"></a>
+<a id="art_N3AB45"></a>
 
 ### Art. 2.
 
@@ -16090,7 +16090,7 @@ Le présent règlement grand-ducal entre en vigueur le jour de sa publication au
 
 Les dispositions de l’article 1er du présent règlement grand-ducal prennent effet au 1er janvier 2016.
 
-<a id="art_N3AB62"></a>
+<a id="art_N3AB64"></a>
 
 ### Art. 3.
 
@@ -16100,7 +16100,7 @@ Notre Ministre de la Défense, Notre Ministre de la Fonction publique et de la R
 
 ##### Version consolidée applicable au 01/11/2018 : Loi du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes.
 
-<a id="art_N3AB97"></a>
+<a id="art_N3AB99"></a>
 
 ### Art. 1er.
 
@@ -16108,19 +16108,19 @@ La présente loi s’applique aux traitements et appointements des fonctionnaire
 
 Les rémunérations comprennent le principal et les accessoires, à l’exception toutefois des sommes allouées à titre de remboursement de frais exposés.
 
-<a id="art_N3ABE3"></a>
+<a id="art_N3ABE5"></a>
 
 ### Art. 2.
 
 La présente loi s’applique également aux pensions et aux rentes dérivant de la législation sur la sécurité sociale, à l’exclusion de l’allocation de fin d’année.
 
-<a id="art_N3AC15"></a>
+<a id="art_N3AC17"></a>
 
 ### Art. 3.
 
 Il n’est pas dérogé aux dispositions spéciales relatives à la cessibilité et à la saisissabilité prévues par la réglementation sur les prestations familiales et le Fonds national de solidarité.
 
-<a id="art_N3AC47"></a>
+<a id="art_N3AC49"></a>
 
 ### Art. 4.
 
@@ -16146,7 +16146,7 @@ La partie cessible ne se confond pas avec la partie saisissable.
 
 Pour la détermination de la quotité saisissable et cessible, les retenues effectuées en application de la législation fiscale et de celle relative à la sécurité sociale sont à déduire de la rémunération.
 
-<a id="art_N3ACC7"></a>
+<a id="art_N3ACC9"></a>
 
 ### Art. 5.
 
@@ -16162,7 +16162,7 @@ Les retenues mentionnées ci-dessus ne se confondent ni avec la partie saisissab
 
 Les acomptes versés pour une période de travail révolue ou en cours pour laquelle un décompte définitif n’a pas encore été établi ne sont pas considérés comme avances.
 
-<a id="art_N3AD1B"></a>
+<a id="art_N3AD1D"></a>
 
 ### Art. 6.
 
@@ -16171,7 +16171,7 @@ Les rentes et pensions dérivant des dispositions du code des assurances sociale
 1. une avance qui a été faite à l’intéressé sur ses droits par son patron ou une institution d’assurance sociale;
 2. code des assurances sociales
 
-<a id="art_N3AD62"></a>
+<a id="art_N3AD64"></a>
 
 ### Art. 7.
 
@@ -16182,7 +16182,7 @@ Les pensions autres que celles visées à l’article qui précède peuvent êtr
 
 Il en est de même des indemnités de chômage complet.
 
-<a id="art_N3ADA8"></a>
+<a id="art_N3ADAA"></a>
 
 ### Art. 8.
 
@@ -16190,7 +16190,7 @@ En cas de cessions ou de saisies faites pour le paiement des dettes alimentaires
 
 Les portions cessible et saisissable pourront, le cas échéant, être retenues en sus, soit pour sûreté du terme mensuel courant excédant les portions incessible et insaisissable, soit pour sûreté des termes arriérés de la pension alimentaire et des frais, soit au profit des créanciers ordinaires, opposants ou cessionnaires.
 
-<a id="art_N3ADE8"></a>
+<a id="art_N3ADEA"></a>
 
 ### Art. 9.
 
@@ -16206,19 +16206,19 @@ La décision sur la distribution sera sans appel, lorsque la somme sur laquelle 
 
 La procédure des saisies ainsi que les émoluments à allouer en cette matière au greffier seront déterminées par règlement grand-ducal.
 
-<a id="art_N3AE47"></a>
+<a id="art_N3AE49"></a>
 
 ### Art. 10.
 
 Les ordonnances, jugements, décisions, procès-verbaux, copies, avertissements et lettres recommandées qui pourront intervenir en exécution de la présente loi ainsi que les pièces de toute nature produites en cours d’instance sont exempts des droits de timbre et d’enregistrement avec dispense de la formalité.
 
-<a id="art_N3AE79"></a>
+<a id="art_N3AE7B"></a>
 
 ### Art. 11.
 
 Nonobstant toutes dispositions contraires, les administrations publiques et les organismes de sécurité sociale sont tenus de fournir, sur injonction d’un juge de paix, à tout requérant intéressé les renseignements qu’ils possèdent permettant de déterminer l’adresse du débiteur de la créance, ainsi que l’identité et l’adresse de son employeur ou de l’organisme débiteur de la pension ou de la rente.
 
-<a id="art_N3AEB4"></a>
+<a id="art_N3AEB6"></a>
 
 ### Art. 15.
 
@@ -16240,7 +16240,7 @@ Toutes les dispositions incompatibles avec la présente loi sont abrogées, nota
 - loi du 3 septembre 1956
 - loi du 22 janvier 1960
 
-<a id="art_N3AF62"></a>
+<a id="art_N3AF64"></a>
 
 ### Art. 16.
 
@@ -16250,7 +16250,7 @@ Cet acte est établi en autant d’exemplaires qu’il y a de parties ayant un i
 
 Les dispositions du présent article sont prescrites à peine de nullité.
 
-<a id="art_N3AFA9"></a>
+<a id="art_N3AFAB"></a>
 
 ### Art. 17.
 
@@ -16260,7 +16260,7 @@ Néanmoins le cessionnaire peut être également saisi par l’acceptation du tr
 
 L’article 1690 du code civil n’est pas applicable.
 
-<a id="art_N3AFF2"></a>
+<a id="art_N3AFF4"></a>
 
 ### Art. 18.
 
@@ -16270,7 +16270,7 @@ La procédure est réglée au règlement grand-ducal prévu à l’article 9.
 
 ##### Version consolidée applicable au 29/01/2021 : Règlement grand-ducal du 9 janvier 1979 concernant la procédure des saisies-arrêts et cessions sur les rémunérations de travail et les pensions et rentes.
 
-<a id="art_N3B042"></a>
+<a id="art_N3B044"></a>
 
 ### Art. 1er.
 
@@ -16286,7 +16286,7 @@ La notification au tiers-saisi de la copie certifiée conforme par le greffier d
 
 Les notifications prévues par le présent article sont faites par les soins du greffier et par lettre recommandée.
 
-<a id="art_N3B0AE"></a>
+<a id="art_N3B0B0"></a>
 
 ### Art. 2.
 
@@ -16298,13 +16298,13 @@ Le juge ne peut autoriser qu’une seule saisie-arrêt à charge d’un même d�
 
 S’il survient d’autres créanciers, leur réclamation signée et déclarée sincère par eux et contenant toutes les pièces de nature à mettre le juge à même de faire l’évaluation de la créance est inscrite par ordre du juge sur le registre exigé par l’article 9. Le greffier se borne à en donner avis dans les quarante-huit heures au débiteur saisi et au tiers saisi par lettre recommandée qui vaut opposition. Le même avis est donné au créancier saisissant.
 
-<a id="art_N3B0FB"></a>
+<a id="art_N3B0FD"></a>
 
 ### Art. 3.
 
 Dès la notification de la saisie-arrêt et au plus tard dans la huitaine de la notification, le tiers saisi est tenu de faire la déclaration affirmative. Sans préjudice des dispositions de l’article 569 du Code de procédure civile, la déclaration peut être faite soit oralement au greffe, soit sous forme de lettre recommandée. Le greffier est tenu de la consigner au registre prévu par l’article 9 et d’en informer le ou les saisissants et le débiteur par lettre recommandée.
 
-<a id="art_N3B132"></a>
+<a id="art_N3B134"></a>
 
 ### Art. 4.
 
@@ -16326,7 +16326,7 @@ La convocation contient, à peine de nullité, les mentions prescrites à l’ar
 
 Le jugement qui prononce la validité ne confère au saisissant sur les sommes saisies aucun droit exclusif au préjudice des intervenants.
 
-<a id="art_N3B1F7"></a>
+<a id="art_N3B1F9"></a>
 
 ### Art. 5.
 
@@ -16338,7 +16338,7 @@ Toutes parties intéressées sont prévenues, par lettre recommandée du greffie
 
 Le délai pour interjeter appel est de quinze jours. Il court pour les jugements contradictoires ou réputés contradictoires du jour de la notification et pour les jugements par défaut du jour de l’expiration du délai d’opposition.
 
-<a id="art_N3B244"></a>
+<a id="art_N3B246"></a>
 
 ### Art. 6.
 
@@ -16346,7 +16346,7 @@ Après l’expiration des délais de recours, le juge de paix peut surseoir à l
 
 Le jugement de répartition vaut titre exécutoire contre le tiers saisi pour les collocations et les frais. Les ayants droit aux collocations utiles et aux frais donneront quittance au tiers saisi, qui se trouvera libéré d’autant.
 
-<a id="art_N3B27F"></a>
+<a id="art_N3B281"></a>
 
 ### Art. 7.
 
@@ -16354,7 +16354,7 @@ Les effets de la saisie-arrêt et les oppositions consignées par le greffier su
 
 Néanmoins l’affaire sera rayée par ordre du juge trois années après le dernier acte de procédure, sauf le droit des créanciers de requérir le maintien de la saisie avant l’expiration de ce délai et sans préjudice au droit des créanciers non payés de requérir une saisie-arrêt nouvelle. Dans ce cas, les frais nouveaux seront imposés aux créanciers qui les auront occasionnés par leur négligence.
 
-<a id="art_N3B2BA"></a>
+<a id="art_N3B2BC"></a>
 
 ### Art. 8.
 
@@ -16362,7 +16362,7 @@ Les frais de saisie-arrêt et de distribution sont à la charge du débiteur sai
 
 Tous les frais de contestation jugée mal fondée sont mis à charge de la partie qui a succombé.
 
-<a id="art_N3B2F5"></a>
+<a id="art_N3B2F7"></a>
 
 ### Art. 9.
 
@@ -16382,19 +16382,19 @@ Pour l’exécution du présent règlement il est tenu au greffe de chaque justi
 
 Toutefois, la tenue d’un registre peut être remplacée par celle d’un fichier à feuilles mobiles, à condition que les demandes principales en saisies-arrêts contenant les indications prévues par le n° 1 de l’alinéa précédent soient inscrites de suite sur un registre spécial. Dans ce cas les arrangements amiables seront actés sur le plumitif d’audience.
 
-<a id="art_N3B355"></a>
+<a id="art_N3B357"></a>
 
 ### Art. 10.
 
 
 
-<a id="art_N3B386"></a>
+<a id="art_N3B388"></a>
 
 ### Art. 11.
 
 Les intéressés sont autorisés à prendre connaissance des inscriptions du registre pour autant qu’elles les concernent ou à en demander un extrait au greffier.
 
-<a id="art_N3B3B8"></a>
+<a id="art_N3B3BA"></a>
 
 ### Art. 12.
 
@@ -16408,19 +16408,19 @@ La partie qui requerra la convocation des intéressés en cas de contestation n�
 
 Tous frais de contestation jugée mal fondée sont mis à charge de la partie qui a succombé.
 
-<a id="art_N3B418"></a>
+<a id="art_N3B41A"></a>
 
 ### Art. 13.
 
 Les ordonnances rendues par le juge de paix en application de l’article 15 du code du procédure civile sont notifiées par la voie du greffe.
 
-<a id="art_N3B44F"></a>
+<a id="art_N3B451"></a>
 
 ### Art. 14.
 
 Les envois par lettre recommandée prévus par le présent règlement sont effectués dans les formes prescrites par l’article 7 de la loi du 26 juin 1914 concernant les significations judiciaires en matière civile et commerciale.
 
-<a id="art_N3B486"></a>
+<a id="art_N3B488"></a>
 
 ### Art. 15.
 
@@ -16428,13 +16428,13 @@ Le règlement grand-ducal du 27 novembre 1970 concernant la procédure des saisi
 
 ##### Règlement grand-ducal du 5 mars 1979 fixant les taux de cessibilité spéciaux des rémunérations de travail, pensions et rentes en cas de contrat d'épargne ou de prêt conclu par un agent jouissant du statut public.
 
-<a id="art_N3B4D2"></a>
+<a id="art_N3B4D4"></a>
 
 ### Art. 1er.
 
 Dans le cas d'un contrat d'épargne ou de prêt conclu par un agent jouissant du statut public, les rémunérations, pensions et rentes peuvent être cédées jusqu'à concurrence de 25% dans la deuxième tranche, de 40% dans la troisième tranche et de 50% dans la quatrième tranche, lorsque la cession est consentie en vue de l'acquisition, de la construction ou de la transformation d'un immeuble ou d'une part immobilière.
 
-<a id="art_N3B4E5"></a>
+<a id="art_N3B4E7"></a>
 
 ### Art. 2.
 
@@ -16442,7 +16442,7 @@ Notre Ministre de la Justice est chargé de l'exécution du présent règlement 
 
 ##### Règlement grand-ducal du 1er mars 2023 fixant les taux de cessibilité et de saisissabilité des rémunérations de travail, pensions et rentes.
 
-<a id="art_N3B50A"></a>
+<a id="art_N3B50C"></a>
 
 ### Art. 1er.
 
@@ -16451,19 +16451,19 @@ Les tranches prévues par l’article 4 de la loi modifiée du 11 novembre 1970 
 | La première tranche:La deuxième tranche:La troisième tranche:La quatrième tranche:La cinquième tranche: | jusqu’à 850 euros par mois ;de plus de 850 à 1 300 euros par mois ;de plus de 1 300 à 1 600 euros par mois ;de plus de 1 600 à 2 600 euros par mois ;à partir de 2 600 euros par mois. |
 | --- | --- |
 
-<a id="art_N3B556"></a>
+<a id="art_N3B558"></a>
 
 ### Art. 2.
 
 Le règlement grand-ducal du 27 septembre 2016 fixant les taux de cessibilité et de saisissabilité des rémunérations de travail, pensions et rentes est abrogé.
 
-<a id="art_N3B56C"></a>
+<a id="art_N3B56E"></a>
 
 ### Art. 3.
 
 Le présent règlement entre en vigueur le premier jour du mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg.
 
-<a id="art_N3B57C"></a>
+<a id="art_N3B57E"></a>
 
 ### Art. 4.
 
@@ -16479,7 +16479,7 @@ Notre Ministre de la Justice est chargé de l’exécution du présent règlemen
 
 ##### Chapitre 1er — Champ d’application personnel
 
-<a id="art_N3B5DF"></a>
+<a id="art_N3B5E1"></a>
 
 ### Art. 1er.
 
@@ -16492,7 +16492,7 @@ Le titre 1 de la présente loi s’applique sous réserve de l’article 2 qui s
 
 L’organisation du régime et les organismes de pension intervenants au sens de la présente loi sont définis à l’article 37 qui suit.
 
-<a id="art_N3B639"></a>
+<a id="art_N3B63B"></a>
 
 ### Art. 2.
 
@@ -16500,7 +16500,7 @@ Sont exclues du champ d’application de la présente loi, les personnes visées
 
 ##### *Section 1* — *Terminologie*
 
-<a id="art_N3B685"></a>
+<a id="art_N3B687"></a>
 
 ### Art. 3.
 
@@ -16510,7 +16510,7 @@ Les termes de «partenaire» et de «partenariat» visent respectivement le part
 
 ##### *Section 2 * — *Détermination des périodes de service*
 
-<a id="art_N3B6DA"></a>
+<a id="art_N3B6DC"></a>
 
 ### Art. 4.
 
@@ -16560,7 +16560,7 @@ La conversion de la pension différée visée à l’alinéa 4 est subordonnée 
 
 **VI.** Sauf dispositions légales ou réglementaires contraires, les interruptions de service ne comptent pas.
 
-<a id="art_N3B89C"></a>
+<a id="art_N3B89E"></a>
 
 ### Art. 5.
 
@@ -16576,7 +16576,7 @@ La conversion de la pension différée visée à l’alinéa 4 est subordonnée 
 
 **6.** Les bonifications accordées sur la base du présent article sont censées se situer immédiatement après la date de la cessation des fonctions et sont réduites dans la mesure où elles permettraient une mise en compte de services par dépassement de la limite d’âge. Par ailleurs, la période bonifiée est portée en déduction de celle prévue à l’article 12.1.
 
-<a id="art_N3B92A"></a>
+<a id="art_N3B92C"></a>
 
 ### Art. 6.
 
@@ -16590,7 +16590,7 @@ Pour l’application des dispositions des articles 4 à 6, l’année est défin
 
 ##### *Section 1 * — * Le droit à la pension personnelle*
 
-<a id="art_N3B98C"></a>
+<a id="art_N3B98E"></a>
 
 ### Art. 7.
 
@@ -16648,13 +16648,13 @@ Sur proposition du membre du Gouvernement compétent, le Gouvernement en conseil
 
 Le maintien en service peut être renouvelé d’année en année selon les modalités prévues au présent paragraphe.
 
-<a id="art_N3BAE6"></a>
+<a id="art_N3BAE8"></a>
 
 ### Art. 8.
 
 
 
-<a id="art_N3BB17"></a>
+<a id="art_N3BB19"></a>
 
 ### Art. 9.
 
@@ -16664,7 +16664,7 @@ Il en est de même en cas de déchéance du droit à la pension si le fonctionna
 
 ##### *Section 2 * — *Le traitement pensionnable*
 
-<a id="art_N3BB6E"></a>
+<a id="art_N3BB70"></a>
 
 ### Art. 10.
 
@@ -16714,7 +16714,7 @@ En cas d’exercice concomitant de plusieurs services ou emplois à temps partie
 
 ##### *Section 3* — *Calcul de la pension personnelle*
 
-<a id="art_N3BCB3"></a>
+<a id="art_N3BCB5"></a>
 
 ### Art. 11.
 
@@ -16785,7 +16785,7 @@ Pour l’application des mesures en matière de pension et de cumul de prestatio
 
 **VII.** La condition d’âge requise au sens du présent article est réalisée le lendemain du jour de l’anniversaire afférent.
 
-<a id="art_N3BEAC"></a>
+<a id="art_N3BEAE"></a>
 
 ### Art. 12.
 
@@ -16804,7 +16804,7 @@ L’application des dispositions qui précèdent ne peut avoir pour effet de por
 
 Pour le cas où le fonctionnaire aurait également droit à l’application des dispositions des articles 11.III. et/ou 15, la prestation la plus favorable est retenue.
 
-<a id="art_N3BF19"></a>
+<a id="art_N3BF1B"></a>
 
 ### Art. 13.
 
@@ -16812,13 +16812,13 @@ A l’égard des agents recrutés pendant les quinze années se situant avant le
 
 Dans cette hypothèse et par dérogation à l’article 1er, les personnes en cause ont droit à l’application de la législation la plus favorable. Le choix pour le régime le plus favorable se fait exclusivement au niveau de la pension personnelle et se répercute, le cas échéant, à la pension des survivants.
 
-<a id="art_N3BF5F"></a>
+<a id="art_N3BF61"></a>
 
 ### Art. 14.
 
 Sous réserve des réductions ou suspensions à faire en matière de pension conformément à une disposition formelle de la loi, la somme des prestations revenant au fonctionnaire retraité à titre de pension personnelle par un régime de pension légal au sens de la loi précitée du 28 juillet 2000 respectivement, par un régime de pension international ou communautaire dont le Luxembourg fait partie, ne peut être inférieure à 1.989,2301 € par an, valeur année de base 1984, pour une durée de service déterminée conformément à l’article 4.I. et correspondant à 40 années. Elle est réduite de 1/40ème par année manquante sans pouvoir être inférieure à 1.404,7643 € par an, respectivement 1.579,1489 € par an pour le fonctionnaire avec un ou plusieurs enfants à charge, valeur année de base 1984.
 
-<a id="art_N3BF96"></a>
+<a id="art_N3BF98"></a>
 
 ### Art. 15.
 
@@ -16830,7 +16830,7 @@ Sous réserve des réductions ou suspensions à faire en matière de pension con
 
 **II.** Les pensions établies en conformité avec les dispositions de l’article 5, sous 1. et 2. ne peuvent être inférieures au minimum de respectivement trente soixantièmes et trente-cinq soixantièmes du dernier traitement de l’intéressé visé à l’article 10.IV., suivant que la bonification est de dix ou de quinze années, et en cas d’application de l’article 5 sous 5. à autant de soixantièmes dudit traitement que d’années de service respectivement bonifiées et mises en compte au titre de l’article 4.I. dépassant dix années, augmentés de vingt soixantièmes, sans que la pension en découlant puisse dépasser le maximum prévu à l’article 11.III., avant-dernier alinéa, ni être inférieure au minimum ci-avant prévu suivant la bonification accordée conformément à l’article 5 sous 1. ou 2.
 
-<a id="art_N3BFF1"></a>
+<a id="art_N3BFF3"></a>
 
 ### Art. 16.
 
@@ -16844,7 +16844,7 @@ Sous réserve des réductions ou suspensions à faire en matière de pension con
 
 Il est renvoyé à la coordination entre organismes en cause prévue à l’article 90, sous 1. et 2.
 
-<a id="art_N3C063"></a>
+<a id="art_N3C065"></a>
 
 ### Art. 17.
 
@@ -16852,7 +16852,7 @@ Par dérogation à l’article 16.1., l’âge de l’intéressé et la durée d
 
 ##### *Section 4* — *Le droit à la pension des conjoints ou partenaires survivants*
 
-<a id="art_N3C0A7"></a>
+<a id="art_N3C0A9"></a>
 
 ### Art. 18.
 
@@ -16867,7 +16867,7 @@ Le conjoint ou le partenaire a droit à une pension de survie:
 4. qu’à la date de décès du fonctionnaire bénéficiaire d’une pension il existe un enfant né ou conçu lors du mariage ou du partenariat ou soit légitimé par le mariage ou le partenariat;
 5. que le décès du fonctionnaire bénéficiaire d’une pension d’invalidité soit la suite directe d’un accident survenu après le mariage ou le partenariat.
 
-<a id="art_N3C106"></a>
+<a id="art_N3C108"></a>
 
 ### Art. 19.
 
@@ -16883,7 +16883,7 @@ Au cas où le décès du nouveau conjoint ou du nouveau partenaire ouvre égalem
 
 ##### *Section 5* — *Le droit à la pension des conjoints divorcés ou anciens partenaires*
 
-<a id="art_N3C171"></a>
+<a id="art_N3C173"></a>
 
 ### Art. 20.
 
@@ -16893,7 +16893,7 @@ Les dispositions de l’article 19 sont applicables aux conjoints divorcés et a
 
 ##### *Section 6* — *Le droit à la pension des autres survivants*
 
-<a id="art_N3C1BE"></a>
+<a id="art_N3C1C0"></a>
 
 ### Art. 21.
 
@@ -16924,7 +16924,7 @@ Les pensions ne sont accordées que si les intéressés en font la demande et pr
 
 ##### *Section 7* — *Le droit à la pension des orphelins*
 
-<a id="art_N3C28E"></a>
+<a id="art_N3C290"></a>
 
 ### Art. 22.
 
@@ -16938,7 +16938,7 @@ Le droit à pension d’orphelin cesse lorsque le bénéficiaire contracte maria
 
 ##### *Section 8* — *Droits spéciaux des survivants*
 
-<a id="art_N3C2F2"></a>
+<a id="art_N3C2F4"></a>
 
 ### Art. 23.
 
@@ -16952,7 +16952,7 @@ Si la condition de l’absence vient à défaillir par suite du décès du fonct
 
 A défaut de survivants au sens du présent article remplissant les conditions de droit des articles 18 à 22, le droit aux prestations prévues par la présente loi cesse à partir du premier jour du mois qui suit celui où le fonctionnaire a paru pour la dernière fois. Toutefois, les dispositions des articles 35 et 36 sont applicables.
 
-<a id="art_N3C348"></a>
+<a id="art_N3C34A"></a>
 
 ### Art. 24.
 
@@ -16960,7 +16960,7 @@ Lorsqu’il a été établi par jugement pénal que les ayants droit ont causé 
 
 ##### *Section 9 * — *Le calcul de la pension des survivants*
 
-<a id="art_N3C39C"></a>
+<a id="art_N3C39E"></a>
 
 ### Art. 25.
 
@@ -16970,7 +16970,7 @@ Lorsqu’il a été établi par jugement pénal que les ayants droit ont causé 
 
 **3.** Par part fondamentale au sens des dispositions qui précèdent il faut entendre les dix soixantièmes du traitement qui a servi de base au calcul de la pension.
 
-<a id="art_N3C3F5"></a>
+<a id="art_N3C3F7"></a>
 
 ### Art. 26.
 
@@ -16986,7 +16986,7 @@ En cas de décès du fonctionnaire ou en cas de sa mise à la retraite après le
 
 En cas de décès de l’un des bénéficiaires, la pension de l’autre est recalculée en conformité des dispositions du présent article.
 
-<a id="art_N3C45C"></a>
+<a id="art_N3C45E"></a>
 
 ### Art. 27.
 
@@ -17009,7 +17009,7 @@ La pension de survie et la pension des orphelins réunies ne peuvent dépasser d
 
 La même réduction proportionnelle s’opère en cas de concours de la pension des orphelins avec la pension de survie payée conformément à l’article 21 de la présente loi.
 
-<a id="art_N3C4D6"></a>
+<a id="art_N3C4D8"></a>
 
 ### Art. 28.
 
@@ -17023,7 +17023,7 @@ Les majorations spéciales ne sont pas dues en cas d’arrêt de la pension.
 
 Pour l’application des mesures en matière de pension et de rente d’accident, les majorations spéciales constituent un élément composant de la pension du bénéficiaire et en font partie intégrante.
 
-<a id="art_N3C52C"></a>
+<a id="art_N3C52E"></a>
 
 ### Art. 29.
 
@@ -17036,7 +17036,7 @@ Les dispositions des deux derniers alinéas de l’article 27 ne sont pas applic
 
 ##### *Section 10* — * Calcul spécial de la pension des survivants*
 
-<a id="art_N3C589"></a>
+<a id="art_N3C58B"></a>
 
 ### Art. 30.
 
@@ -17056,7 +17056,7 @@ S’il n’existe pas de conjoint ou partenaire survivant ou si celui-ci est inh
 
 ##### *Section 11* — *Restitution de la pension*
 
-<a id="art_N3C613"></a>
+<a id="art_N3C615"></a>
 
 ### Art. 31.
 
@@ -17068,7 +17068,7 @@ Dans le cas où la somme à rembourser dépasse cinq pour cent de la pension men
 
 ##### *Section 12* — *Déchéance de la pension*
 
-<a id="art_N3C669"></a>
+<a id="art_N3C66B"></a>
 
 ### Art. 32.
 
@@ -17076,7 +17076,7 @@ Le bénéficiaire d’une pension ou l’ayant droit à pension différée en en
 
 ##### *Section 13 * — *Concours de la pension avec d’autres revenus ou pensions*
 
-<a id="art_N3C6B2"></a>
+<a id="art_N3C6B4"></a>
 
 ### Art. 33.
 
@@ -17131,7 +17131,7 @@ Sans qu’une décision formelle ait à intervenir en ce sens, toutes les pensio
 
 ##### *Section 14* — *De l’adaptation des pensions au niveau de vie et à l’évolution de la valeur du nombre indice*
 
-<a id="art_N3C847"></a>
+<a id="art_N3C849"></a>
 
 ### Art. 34.
 
@@ -17147,7 +17147,7 @@ Les pensions calculées conformément aux deux alinéas qui précèdent sont mul
 
 ##### *Section 15* — *Le trimestre de faveur*
 
-<a id="art_N3C906"></a>
+<a id="art_N3C908"></a>
 
 ### Art. 35.
 
@@ -17170,7 +17170,7 @@ Sous réserve du point 5. qui suit, la détermination de la prestation la plus f
 
 Dans l’hypothèse de l’exercice de plus d’un service ou emploi à temps partiel, chaque service ou emploi donnera lieu à versement d’un trimestre de faveur, à moins de l’application du point 3 ci-avant.
 
-<a id="art_N3C9AF"></a>
+<a id="art_N3C9B1"></a>
 
 ### Art. 36.
 
@@ -17189,7 +17189,7 @@ L’indemnité est allouée par le ministre ayant la Fonction publique dans ses 
 
 ##### *Section 1 * — *Administrations compétentes*
 
-<a id="art_N3CA2B"></a>
+<a id="art_N3CA2D"></a>
 
 ### Art. 37.
 
@@ -17203,31 +17203,31 @@ Par ministre compétent au sens des dispositions de la présente loi, il y a lie
 
 ##### *Section 2* — *Comptabilité, gestion et payement des pensions, voies et moyens*
 
-<a id="art_N3CA98"></a>
+<a id="art_N3CA9A"></a>
 
 ### Art. 38.
 
 Sur demande des instances législatives ou du ministre compétent, les organismes de pension en cause produisent toutes les données de statistiques demandées.
 
-<a id="art_N3CACA"></a>
+<a id="art_N3CACC"></a>
 
 ### Art. 39.
 
 Il est établi et géré auprès des organismes de pension compétents des fichiers et des bases de données informatiques qui renseignent toutes les données nécessaires au calcul, au payement des pensions et à l’établissement des certificats annuels y relatifs. A l’égard des bénéficiaires de pension, ces indications font foi jusqu’à la preuve du contraire.
 
-<a id="art_N3CAFC"></a>
+<a id="art_N3CAFE"></a>
 
 ### Art. 40.
 
 Les pensions sont payées par mois et d’avance. La résidence à l’étranger du titulaire d’une pension est soumise à la production d’un certificat de vie pour la fin de chaque année. Les intéressés sont tenus, en outre, de signaler ou de faire signaler à l’organisme de pension compétent tout changement d’adresse et d’état civil.
 
-<a id="art_N3CB2E"></a>
+<a id="art_N3CB30"></a>
 
 ### Art. 41.
 
 De façon générale, et à moins qu’il ne soit disposé autrement, les décisions relatives aux pensions et aux autres prestations de retraite et de survie de l’Etat sont de la compétence de l’organisme de pension compétent qui détermine les pièces et documents à produire pour la justification des droits à pension. Les extraits de l’état civil et toutes autres pièces officielles à produire en la matière sont délivrés sur papier libre et sans frais.
 
-<a id="art_N3CB60"></a>
+<a id="art_N3CB62"></a>
 
 ### Art. 42.
 
@@ -17237,7 +17237,7 @@ Les recours sont intentés dans le délai de trois mois à partir de la notifica
 
 En cas de décision de la Commission des pensions conformément à l’article 49 ci-après, les recours des intéressés sont dirigés contre cette décision.
 
-<a id="art_N3CBA4"></a>
+<a id="art_N3CBA6"></a>
 
 ### Art. 43.
 
@@ -17245,7 +17245,7 @@ A moins qu’il n’en soit disposé autrement, toute pension commence à courir
 
 En cas de décès d’un ayant droit à pension différée, la pension de survivant est payée à partir du premier jour du mois qui suit le décès de l’ayant droit.
 
-<a id="art_N3CBDF"></a>
+<a id="art_N3CBE1"></a>
 
 ### Art. 44.
 
@@ -17255,7 +17255,7 @@ Sauf le retrait de la pension prévu à l’article 53, l’extinction de la pen
 
 La pension suspendue ou retirée, ou la part de pension suspendue reprend son cours à partir du premier jour du mois qui suit celui où la cause de la cessation a pris fin.
 
-<a id="art_N3CC23"></a>
+<a id="art_N3CC25"></a>
 
 ### Art. 45.
 
@@ -17263,7 +17263,7 @@ Le bénéficiaire de pension ou le prétendant droit à la pension qui a laissé
 
 ##### *Section 3* — *La Commission des pensions*
 
-<a id="art_N3CC67"></a>
+<a id="art_N3CC69"></a>
 
 ### Art. 46.
 
@@ -17285,7 +17285,7 @@ Sauf le point b) qui précède, tous les membres de la commission doivent être 
 
 La commission est assistée d’un secrétaire et d’un secrétaire adjoint à désigner par le ministre ayant la Fonction publique dans ses attributions.
 
-<a id="art_N3CCDD"></a>
+<a id="art_N3CCDF"></a>
 
 ### Art. 47.
 
@@ -17309,7 +17309,7 @@ Si l’intéressé ne comparaît pas, la commission statue en son absence par un
 
 La commission a tous les pouvoirs d’investigation. Les autorités publiques donnent suite aux demandes à elles présentées à cet effet.
 
-<a id="art_N3CD6D"></a>
+<a id="art_N3CD6F"></a>
 
 ### Art. 48.
 
@@ -17325,7 +17325,7 @@ Les dispositions de l’alinéa qui précède sont également applicables en cas
 
 Lorsque l’intéressé refuse de se faire examiner par les hommes de l’art, la commission statue sur le vu des pièces du dossier.
 
-<a id="art_N3CDD1"></a>
+<a id="art_N3CDD3"></a>
 
 ### Art. 49.
 
@@ -17344,7 +17344,7 @@ Les décisions prises aux termes des alinéas qui précèdent sont motivées et 
 1. soit par la remise en mains propres contre accusé de réception; si le fonctionnaire refuse d’accepter ces documents ou d’en accuser réception, il en est dressé procès-verbal;
 2. soit par envoi par lettre recommandée à l’adresse que le fonctionnaire a déclarée comme sa résidence; dans ce cas, la notification sort ses effets huit jours après le dépôt de la lettre recommandée à la poste.
 
-<a id="art_N3CE3B"></a>
+<a id="art_N3CE3D"></a>
 
 ### Art. 50.
 
@@ -17356,7 +17356,7 @@ Si, postérieurement à la décision visée à l’alinéa qui précède, l’in
 
 Le rapport entre l’état de santé ayant entraîné sa comparution devant la commission et les congés de maladie postérieurs à la décision de la commission est à établir par le médecin de contrôle.
 
-<a id="art_N3CE88"></a>
+<a id="art_N3CE8A"></a>
 
 ### Art. 51.
 
@@ -17376,7 +17376,7 @@ Durant la période du service à temps partiel pour raisons de santé, le foncti
 
 A partir du moment où le fonctionnaire peut faire valoir ses droits à une pension de vieillesse ou de vieillesse anticipée, il est démissionné d’office par l’autorité de nomination, sans intervention de la commission.
 
-<a id="art_N3CF06"></a>
+<a id="art_N3CF08"></a>
 
 ### Art. 52.
 
@@ -17386,7 +17386,7 @@ Si, postérieurement à sa reprise de service, l’intéressé sollicite des con
 
 Le rapport entre l’état de santé ayant entraîné sa comparution devant la commission et les congés de maladie postérieurs à la décision de la commission est à établir par le médecin de contrôle.
 
-<a id="art_N3CF4A"></a>
+<a id="art_N3CF4C"></a>
 
 ### Art. 53.
 
@@ -17406,7 +17406,7 @@ A partir du premier jour du mois qui suit le début de la soixante-sixième ann�
 
 ##### *Section 1* — *Champ d’application*
 
-<a id="art_N3CFD0"></a>
+<a id="art_N3CFD2"></a>
 
 ### Art. 54.
 
@@ -17419,7 +17419,7 @@ Le champ d’application de l’article 1er sous a) du Titre I est étendu:
 
 ##### *Section 2* — *Procédures*
 
-<a id="art_N3D029"></a>
+<a id="art_N3D02B"></a>
 
 ### Art. 55.
 
@@ -17437,7 +17437,7 @@ A cette fin, les dispositions de l’article 39 de la loi du 25 mars 2015 fixant
 
 ##### *Section 3* — *Détermination des périodes de service*
 
-<a id="art_N3D0CD"></a>
+<a id="art_N3D0CF"></a>
 
 ### Art. 56.
 
@@ -17448,7 +17448,7 @@ A la suite de l’article 4.I. sous b) sont insérés les points suivants:
 
 ##### *Section 4* — *Traitement pensionnable*
 
-<a id="art_N3D121"></a>
+<a id="art_N3D123"></a>
 
 ### Art. 57.
 
@@ -17476,7 +17476,7 @@ Les deux derniers alinéas de l’article 10.III.2 sont applicables aux élémen
 
 ##### *Section 5* — *Des magistrats*
 
-<a id="art_N3D1E9"></a>
+<a id="art_N3D1EB"></a>
 
 ### Art. 58.
 
@@ -17490,7 +17490,7 @@ Les alinéas 3 et 4 de l’article 7.I.2. ne sont pas applicables.
 
 ##### *Section 6* — *De certains fonctionnaires du Corps diplomatique*
 
-<a id="art_N3D24D"></a>
+<a id="art_N3D24F"></a>
 
 ### Art. 59.
 
@@ -17500,7 +17500,7 @@ Par dérogation à l’article 7.I.2., alinéa final, et au cas où un arrêté 
 
 ##### *Section 7* — *Régime spécial des membres du Gouvernement*
 
-<a id="art_N3D29A"></a>
+<a id="art_N3D29C"></a>
 
 ### Art. 60.
 
@@ -17532,7 +17532,7 @@ Le membre du Gouvernement qui, au moment de l’admission à la retraite, est â
 
 ##### *Section 8* — *Régime spécial des membres de la Chambre des Députés, des membres du Parlement européen et des membres du Conseil d’Etat sortants relevant du chef de leur activité professionnelle du régime de pension général*
 
-<a id="art_N3D372"></a>
+<a id="art_N3D374"></a>
 
 ### Art. 61.
 
@@ -17576,7 +17576,7 @@ Lorsqu’en cas de cessation du mandat de député ou de membre du Conseil d’E
 
 ##### *Section 9* — *Régime spécial des membres de la Chambre des Députés et des membres du Parlement européen applicable pendant l’exercice du mandat*
 
-<a id="art_N3D489"></a>
+<a id="art_N3D48B"></a>
 
 ### Art. 62.
 
@@ -17588,7 +17588,7 @@ Sauf les articles 12 et 13, toutes les dispositions relatives au calcul de la pe
 
 ##### *Section 10* — *Régime spécial des militaires de carrière de l’Armée, des membres du cadre policier de la Police et des fonctionnaires de l’Inspection générale de la Police issus du cadre policier de la Police*
 
-<a id="art_N3D4DE"></a>
+<a id="art_N3D4E0"></a>
 
 ### Art. 63.
 
@@ -17605,7 +17605,7 @@ Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I s
 
 ##### *Section 11* — *Des membres des cultes*
 
-<a id="art_N3D53F"></a>
+<a id="art_N3D541"></a>
 
 ### Art. 64.
 
@@ -17613,7 +17613,7 @@ Sauf les dispositions prévues à l’article 7.I. sous 2. et II., toutes les di
 
 ##### *Section 12* — *Dispositions diverses*
 
-<a id="art_N3D583"></a>
+<a id="art_N3D585"></a>
 
 ### Art. 65.
 
@@ -17621,7 +17621,7 @@ La Commission des pensions prévue à l’article 46 est également compétente 
 
 ##### Chapitre 2 — Procédures, régimes spéciaux et dispositions additionnelles et dérogatoires applicables aux fonctionnaires des communes
 
-<a id="art_N3D5C2"></a>
+<a id="art_N3D5C4"></a>
 
 ### Art. 66.
 
@@ -17629,7 +17629,7 @@ Sous réserve des dérogations prévues aux articles 80 à 85 qui suivent, toute
 
 ##### *Section 1* — *De la Caisse de prévoyance des fonctionnaires et employés communaux*
 
-<a id="art_N3D605"></a>
+<a id="art_N3D607"></a>
 
 ### Art. 67.
 
@@ -17639,7 +17639,7 @@ L’institution a pour objet, dans les conditions et limites déterminées par l
 
 Le Ministre de l’Intérieur est chargé de veiller à la stricte application des dispositions de la loi et des règlements pris en son exécution. Il assure le contrôle de la comptabilité de la caisse.
 
-<a id="art_N3D649"></a>
+<a id="art_N3D64B"></a>
 
 ### Art. 68.
 
@@ -17659,7 +17659,7 @@ Les membres sortants peuvent être nommés à nouveau. Le membre nommé en rempl
 
 En cas d’absence, le président est remplacé par le vice-président, respectivement par le membre le plus ancien du conseil. Le président ou celui qui le remplace, assume la direction journalière des affaires de la caisse; il représente celle-ci judiciairement et extrajudiciairement.
 
-<a id="art_N3D6AA"></a>
+<a id="art_N3D6AC"></a>
 
 ### Art. 69.
 
@@ -17669,7 +17669,7 @@ Le président du conseil jouit, en outre, d’une indemnité supplémentaire ann
 
 Les frais de route et de séjour revenant aux membres forains du conseil sont également réglés par disposition ministérielle.
 
-<a id="art_N3D6EE"></a>
+<a id="art_N3D6F0"></a>
 
 ### Art. 70.
 
@@ -17679,7 +17679,7 @@ Outre les autres devoirs déterminés par la présente loi ou par le conseil d�
 
 Les lois et règlements sur le statut, sur les traitements et sur les pensions des fonctionnaires communaux sont applicables au personnel de la caisse de prévoyance.
 
-<a id="art_N3D732"></a>
+<a id="art_N3D734"></a>
 
 ### Art. 71.
 
@@ -17697,7 +17697,7 @@ Les procès-verbaux font mention des membres qui ont assisté à la séance. Cha
 
 La correspondance du conseil d’administration est signée par le président et contresignée par le secrétaire-trésorier.
 
-<a id="art_N3D79A"></a>
+<a id="art_N3D79C"></a>
 
 ### Art. 72.
 
@@ -17716,13 +17716,13 @@ En cas de non-paiement, le recouvrement des arriérés sera effectué par la cai
 
 La prescription sera acquise trois ans après la remise de l’extrait.
 
-<a id="art_N3D801"></a>
+<a id="art_N3D803"></a>
 
 ### Art. 73.
 
 Si les ressources de la caisse sont reconnues insuffisantes ou s’il est constaté qu’elles excédent le capital indispensable pour mettre les affiliés à l’abri de toute perte, les retenues annuelles et respectivement les versements des communes, des syndicats de communes, des établissements publics et de l’Etat peuvent être augmentés ou réduits par arrêté grand-ducal, le conseil d’administration de la caisse entendu. Ces augmentations ou diminutions s’opéreront proportionnellement aux taux fixés par l’article 72.
 
-<a id="art_N3D833"></a>
+<a id="art_N3D835"></a>
 
 ### Art. 74.
 
@@ -17730,7 +17730,7 @@ Il est tenu par le secrétaire-trésorier un état permanent de tous les partici
 
 Les communes, par l’organe de leurs collèges des bourgmestres et échevins, les syndicats de communes par l’organe de leurs bureaux, les établissements publics par l’organe de leurs présidents, communiquent immédiatement au secrétaire-trésorier toute mutation survenue dans le personnel de leurs employés et dans les traitements des participants.
 
-<a id="art_N3D86E"></a>
+<a id="art_N3D870"></a>
 
 ### Art. 75.
 
@@ -17740,7 +17740,7 @@ Le Ministre de l’Intérieur peut aussi faire vérifier à toute époque la cai
 
 Les livres et toutes les pièces relatives à l’administration de la caisse sont à la disposition du conseil d’administration et peuvent être examinés par chacun de ses membres.
 
-<a id="art_N3D8B2"></a>
+<a id="art_N3D8B4"></a>
 
 ### Art. 76.
 
@@ -17748,7 +17748,7 @@ Le conseil d’administration décide du placement de l’avoir de la caisse.
 
 Le conseil prend pour l’encaissement des intérêts des fonds au porteur et pour la conservation des capitaux telles mesures de précaution qu’il juge utiles.
 
-<a id="art_N3D8ED"></a>
+<a id="art_N3D8EF"></a>
 
 ### Art. 77.
 
@@ -17764,7 +17764,7 @@ L’état de la situation annuelle est publié au Mémorial.
 
 Les retenues opérées restent acquises à la caisse.
 
-<a id="art_N3D94B"></a>
+<a id="art_N3D94D"></a>
 
 ### Art. 78.
 
@@ -17778,7 +17778,7 @@ Le conseil d’administration statue dans le plus bref délai.
 
 Toute délibération du conseil concernant l’allocation ou le refus d’une pension est soumise à l’approbation du Ministre de l’Intérieur.
 
-<a id="art_N3D9A1"></a>
+<a id="art_N3D9A3"></a>
 
 ### Art. 79.
 
@@ -17792,7 +17792,7 @@ La caisse de prévoyance des fonctionnaires et employés communaux a pour objet 
 
 L’assurance pension comporte l’octroi de pensions aux affiliés et aux survivants désignés par la présente loi.
 
-<a id="art_N3D9F8"></a>
+<a id="art_N3D9FA"></a>
 
 ### Art. 80.
 
@@ -17808,7 +17808,7 @@ Le terme «commune» vise indistinctement les syndicats de communes et les étab
 
 ##### *Section 2* — *Détermination des périodes de service*
 
-<a id="art_N3DA80"></a>
+<a id="art_N3DA82"></a>
 
 ### Art. 81.
 
@@ -17832,7 +17832,7 @@ La lettre recommandée contiendra la mention expresse de la déchéance éventue
 
 La décision de validation de l’assurance volontaire est prise par le conseil d’administration de la caisse de prévoyance qui fixe également la valeur du temps à mettre en compte sans que celui-ci ne peut être inférieur à un tiers.
 
-<a id="art_N3DB11"></a>
+<a id="art_N3DB13"></a>
 
 ### Art. 82.
 
@@ -17840,7 +17840,7 @@ Par dérogation à l’article 6 de la présente loi, dans les états de service
 
 ##### *Section 3* — *Traitement pensionnable*
 
-<a id="art_N3DB55"></a>
+<a id="art_N3DB57"></a>
 
 ### Art. 83.
 
@@ -17854,7 +17854,7 @@ Les éléments de traitement pensionnables énumérés à l’article 10.III. so
 
 ##### *Section 4* — *Régimes spéciaux des sapeurs-pompiers et des chauffeurs d’autobus*
 
-<a id="art_N3DBAD"></a>
+<a id="art_N3DBAF"></a>
 
 ### Art. 84.
 
@@ -17872,7 +17872,7 @@ Les éléments de traitement pensionnables énumérés à l’article 10.III. so
 
 ##### *Section 5* — *Régimes spéciaux des secrétaires communaux et receveurs communaux*
 
-<a id="art_N3DC35"></a>
+<a id="art_N3DC37"></a>
 
 ### Art. 85.
 
@@ -17882,7 +17882,7 @@ Toutefois pour les fonctionnaires visés par l’alinéa qui précède et qui é
 
 ##### Chapitre 3 — Régimes spéciaux et dispositions additionnelles et dérogatoires applicables aux agents de la Société nationale des Chemins de Fer luxembourgeois
 
-<a id="art_N3DC83"></a>
+<a id="art_N3DC85"></a>
 
 ### Art. 86.
 
@@ -17890,7 +17890,7 @@ Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I s
 
 ##### *Section 1* — *Procédures*
 
-<a id="art_N3DCC6"></a>
+<a id="art_N3DCC8"></a>
 
 ### Art. 87.
 
@@ -17898,7 +17898,7 @@ Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I s
 
 ##### *Section 2* — *Détermination des périodes de service*
 
-<a id="art_N3DD20"></a>
+<a id="art_N3DD22"></a>
 
 ### Art. 88.
 
@@ -17908,7 +17908,7 @@ A la suite de l’article 4.I. sous b), est inséré le point suivant:
 
 ##### *Section 3* — *Régime spécial des agents affectés à la conduite sur rail ou sur route et des agents des équipes de manoeuvre («Rangierdienst»)*
 
-<a id="art_N3DD6C"></a>
+<a id="art_N3DD6E"></a>
 
 ### Art. 89.
 
@@ -17963,7 +17963,7 @@ Les bonifications visées au paragraphe V. du présent article sont mises en com
 
 ##### Chapitre 4 — Coordination entre organismes du régime spécial transitoire
 
-<a id="art_N3DEB2"></a>
+<a id="art_N3DEB4"></a>
 
 ### Art. 90.
 
@@ -17981,7 +17981,7 @@ La composition du groupe de travail permanent et son fonctionnement peuvent êtr
 
 ##### TITRE III — **DISPOSITIONS ADDITIONNELLES ET MISE EN VIGUEUR**
 
-<a id="art_N3DF45"></a>
+<a id="art_N3DF47"></a>
 
 ### Art. 91.
 
@@ -17989,7 +17989,7 @@ La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’
 
 Il en est de même en ce qui concerne la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes.
 
-<a id="art_N3DF8A"></a>
+<a id="art_N3DF8C"></a>
 
 ### Art. 92.
 
@@ -17997,7 +17997,7 @@ A l’endroit de tout texte se référant ou renvoyant à la loi modifiée du 26
 
 En attendant la mise en vigueur des mesures indispensables à l’exécution des dispositions des Titres I. et II. de la présente loi par les organismes de pension prévus à l’article 37 sous b) et c), l’application des articles 46 à 53 est différée jusqu’au moment de cette mise en vigueur et les dispositions correspondantes prévues par les textes actuels restent d’application.
 
-<a id="art_N3DFCA"></a>
+<a id="art_N3DFCC"></a>
 
 ### Art. 93.
 
@@ -18007,7 +18007,7 @@ La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnai
 2. Le paragraphe 3. de l’article 49 est supprimé.
 3. Le chapitre 14bis est abrogé.
 
-<a id="art_N3E03D"></a>
+<a id="art_N3E03F"></a>
 
 ### Art. 94.
 
@@ -18015,7 +18015,7 @@ La présente loi entre en vigueur le premier jour du septième mois qui suit cel
 
 ##### Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 24 mars 1989 déterminant les conditions et modalités relatives à la mise en compte des périodes prévues à l'article 9.II. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat.
 
-<a id="art_N3E085"></a>
+<a id="art_N3E087"></a>
 
 ### Art. 1er.
 
@@ -18030,13 +18030,13 @@ Dans les cas visés sous d) il est présumé que l’enfant a été élevé par 
 
 La preuve ne peut être rapportée que jusqu’à l’échéance d’un risque dans le chef d’un des parents.
 
-<a id="art_N3E0E2"></a>
+<a id="art_N3E0E4"></a>
 
 ### Art. 2.
 
 Notre Ministre de la Fonction publique est chargé de l’exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le 1er janvier 1988.
 
-<a id="art_N3E12C"></a>
+<a id="art_N3E12E"></a>
 
 ### Art. 1er.
 
@@ -18051,7 +18051,7 @@ Dans les cas visés sous d) il est présumé que l’enfant a été élevé par 
 
 La preuve ne peut être rapportée que jusqu’à l’échéance d’un risque dans le chef d’un des parents.
 
-<a id="art_N3E189"></a>
+<a id="art_N3E18B"></a>
 
 ### Art. 2.
 
@@ -18059,7 +18059,7 @@ Notre Ministre de la Fonction publique est chargé de l’exécution du présent
 
 ##### Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 5 juin 1989 déterminant en application de l'article 44, paragraphe 10, alinéa 2 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat les catégories et les limites, ainsi que les modalités de calcul des revenus à prendre en compte pour la réduction des pensions d'invalidité et de survie.
 
-<a id="art_N3E1D3"></a>
+<a id="art_N3E1D5"></a>
 
 ### Art. 1er.
 
@@ -18069,7 +18069,7 @@ Pour l’application de l’article 44, paragraphes 4 et 5, il n’est pas tenu 
 
 Pour les bénéficiaires de pension commençant l’exercice d’une activité salariée, les revenus retirés de cette activité ne sont pris en compte qu’à partir du premier jour du quatrième mois suivant le début de l’activité.
 
-<a id="art_N3E225"></a>
+<a id="art_N3E227"></a>
 
 ### Art. 2.
 
@@ -18079,13 +18079,13 @@ La détermination du revenu peut, le cas échéant, être faite par la caisse de
 
 Le conjoint survivant qui est nouvellement établi dans une activité non salariée, autre qu’agricole, ne se voit pas tenir compte des revenus de la première année de l’activité exercée. Il en est de même pour le partenaire survivant au sens de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-<a id="art_N3E274"></a>
+<a id="art_N3E276"></a>
 
 ### Art. 3.
 
 Pour les personnes exerçant une activité agricole, les revenus sont portés en compte pour le montant qui sert ou servirait de base à la détermination de l’assiette cotisable pour l’exercice correspondant au début de la pension de survie ou à la révision annuelle avec effet au 1er avril prévue à l’article 44, paragraphe 10, alinéa 1er.
 
-<a id="art_N3E2AC"></a>
+<a id="art_N3E2AE"></a>
 
 ### Art. 4.
 
@@ -18095,13 +18095,13 @@ Pour vérifier si le bénéficiaire d’une pension d’invalidité ou d’une p
 2. du revenu déterminé conformément à l’article 2 alinéas 1 et 2 du présent règlement, en ce qui concerne les revenus provenant d’une activité non salariée, autre qu’agricole,
 3. loi du 4 décembre 1967
 
-<a id="art_N3E2F4"></a>
+<a id="art_N3E2F6"></a>
 
 ### Art. 5.
 
 Pour la réduction prévue à l’article 44, paragraphe 8, les pensions et rentes sont mises en compte suivant le montant correspondant au mois de la réduction.
 
-<a id="art_N3E326"></a>
+<a id="art_N3E328"></a>
 
 ### Art. 6.
 
@@ -18109,7 +18109,7 @@ Notre Ministre de la Fonction publique est chargé de l’exécution du présent
 
 ##### Règlement grand-ducal du 1er juin 2001 fixant les modalités d'exécution des dispositions de l'article 9. I a) 7. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat.
 
-<a id="art_N3E37C"></a>
+<a id="art_N3E37E"></a>
 
 ### Art. 1er.
 
@@ -18117,13 +18117,13 @@ Sont à considérer comme périodes d'assurance au sens du présent règlement, 
 
 Il en est de même des périodes d'assurance pour lesquelles un remboursement de la part assuré des cotisations a été effectué par le régime général, sous la condition que le montant des cotisations remboursées ait été restitué par l'intéressé conformément à l'alinéa 2 de l'article 7 de la loi modifiée du 27 juillet 1978 concernant les droits à pension de la femme divorcée, ou à l'article IV sous 7) de la loi du 6 avril 1999 adaptant le régime général d'assurance pension ou à l'article 32 de la loi du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension.
 
-<a id="art_N3E392"></a>
+<a id="art_N3E394"></a>
 
 ### Art. 2.
 
 Pour l'application de l'article 9.I.a) 7. et des dispositions du présent règlement, la bonification de service accordée en application de l'article 26 de la législation sur les traitements des fonctionnaires de l'Etat est censée se situer immédiatement avant le début des services effectifs mis en compte par le régime spécial transitoire en vertu de dispositions de computation autres que celles de l'article 9.I.a) 7. - Les périodes d'assurance concomitantes de la période bonifiée sont implicitement prises en considération par l'Etat aux fins visées à l'article 9. alinéa 1er de la loi du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension.
 
-<a id="art_N3E3A5"></a>
+<a id="art_N3E3A7"></a>
 
 ### Art. 3.
 
@@ -18133,13 +18133,13 @@ Toutefois, en cas d'occupation salariée après le 31 décembre 1987, leur mise 
 
 La mise en compte prévue aux alinéas qui précèdent ne saurait avoir pour effet de porter l'ensemble du temps de service computable au-delà de douze mois par année de calendrier.
 
-<a id="art_N3E3C1"></a>
+<a id="art_N3E3C3"></a>
 
 ### Art. 4.
 
 Par dérogation à l'article 1er ci-avant, les périodes visées aux articles 173 et 174 du Code des assurances sociales sont mises en compte dans les limites prévues à l'article 9.I.a) 7., à condition qu'elles aient été accomplies avant le 1er septembre 2000 ou qu'une demande afférente ait été introduite auprès du régime de pension général avant cette date, même si les cotisations y relatives ne sont versées qu'après cette date compte tenu des délais y relatifs prévus par ce régime.
 
-<a id="art_N3E3D7"></a>
+<a id="art_N3E3D9"></a>
 
 ### Art. 5.
 
@@ -18147,7 +18147,7 @@ Le règlement grand-ducal du 14 novembre 1991 fixant les modalités d'exécution
 
 Dans la mesure où elles sont plus favorables, les décisions de validation prises en exécution des dispositions antérieures restent acquises.
 
-<a id="art_N3E3EA"></a>
+<a id="art_N3E3EC"></a>
 
 ### Art. 6.
 
@@ -18155,7 +18155,7 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 ##### Règlement ministériel du 5 octobre 1967 concernant l'indemnité à allouer en cas de décès d'un fonctionnaire de l'Etat ou d'un bénéficiaire d'une pension de l'Etat.
 
-<a id="art_N3E412"></a>
+<a id="art_N3E414"></a>
 
 ### Art. 1er.
 
@@ -18170,13 +18170,13 @@ Les frais de dernière maladie et d'enterrement entrant en ligne de compte pour 
 - l'incinération,
 - l'avis mortuaire d'usage dans un quotidien du pays.
 
-<a id="art_N3E44F"></a>
+<a id="art_N3E451"></a>
 
 ### Art. 2.
 
 L'indemnité est allouée par arrêté du Ministre de la Fonction Publique après instruction de la demande en payement par le Ministre du Trésor, Service de la Trésorerie.
 
-<a id="art_N3E45F"></a>
+<a id="art_N3E461"></a>
 
 ### Art. 3.
 
@@ -18188,7 +18188,7 @@ Le présent règlement, qui est publié au Mémorial, sort ses effets à partir 
 
 ##### **Chapitre I.** — **Champ d’application personnel**
 
-<a id="art_N3E4AA"></a>
+<a id="art_N3E4AC"></a>
 
 ### Art. 1er.
 
@@ -18198,7 +18198,7 @@ Il est créé un régime de pension spécial applicable:
 2. er loi modifiée du 26 mai 1954 25 mars 2015
 3. er loi précitée du 26 mai 1954 loi du 25 mars 2015
 
-<a id="art_N3E507"></a>
+<a id="art_N3E509"></a>
 
 ### Art. 2.
 
@@ -18213,7 +18213,7 @@ Par «fonctionnaire» au sens des dispositions de la présente loi on entend ind
 
 Les termes de «partenaire» et de «partenariat» visent respectivement le partenaire et le partenariat au sens de l’article 2 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, et les termes de «dissolution du partenariat» visent la dissolution en vertu de l’article 13 de la même loi.
 
-<a id="art_N3E570"></a>
+<a id="art_N3E572"></a>
 
 ### Art. 3.
 
@@ -18223,7 +18223,7 @@ Il en est de même en ce qui concerne les périodes correspondant au congé pare
 
 Est assimilée à des périodes d’assurance obligatoires, sur demande, une période de vingt-quatre mois dans le chef de l’un ou des deux parents se consacrant au Luxembourg à l’éducation d’un enfant légitime, légitimé, naturel ou adoptif âgé de moins de quatre ans lors de l’adoption, à condition que l’intéressé ait été assuré au titre des alinéas précédents pendant douze mois au cours des trente-six mois précédant celui de la naissance ou de l’adoption de l’enfant. «Le Centre de gestion du personnel et de l’organisation de l’État» peut dispenser de la condition que l’enfant soit élevé au Luxembourg. La période de référence est étendue pour autant et dans la mesure où elle se superpose à des périodes visées à l’article 4 sous 4. La période de vingt-quatre mois ne doit pas se superposer avec une période couverte auprès du régime général luxembourgeois ou d’un régime étranger. Elle prend cours le mois suivant la naissance ou l’adoption de l’enfant ou, le cas échéant, le mois suivant la date de l’expiration du congé de maternité ou du congé d’adoption. Elle est étendue à quarante-huit mois si, au moment de la naissance ou de l’adoption de l’enfant, l’intéressé élève dans son foyer au moins deux autres enfants légitimes, légitimés, naturels ou adoptifs, ou si l’enfant est atteint d’une ou de plusieurs affections constitutives d’une insuffisance ou d’une diminution permanente d’au moins cinquante pour cent de la capacité physique ou mentale d’un enfant normal du même âge. La période de vingt-quatre ou quarante-huit mois peut être répartie entre les parents, à condition que les demandes présentées par les parents n’excèdent pas cette durée maximale. A défaut d’accord des deux parents au sujet de la répartition de la période, la mise en compte s’effectue prioritairement en faveur de celui des parents qui s’occupe principalement de l’éducation de l’enfant. La condition qu’une retenue pour pension ait été opérée ne s’applique pas.
 
-<a id="art_N3E5BE"></a>
+<a id="art_N3E5C0"></a>
 
 ### Art. 4.
 
@@ -18239,7 +18239,7 @@ Sont prises en compte en outre comme périodes, mais uniquement aux fins de parf
 
 Les conditions et modalités relatives à la mise en compte des périodes prévues au présent article peuvent être précisées par règlement grand-ducal.
 
-<a id="art_N3E641"></a>
+<a id="art_N3E643"></a>
 
 ### Art. 5.
 
@@ -18249,7 +18249,7 @@ Le délai prévisé de six mois est suspendu à partir du jour de la demande en 
 
 Les modalités de l’assurance continuée ci-dessus sont déterminées par un règlement grand-ducal qui prévoit également les conditions et modalités dans lesquelles une personne peut compléter par des cotisations volontaires celles versées au titre de l’assurance obligatoire.
 
-<a id="art_N3E691"></a>
+<a id="art_N3E693"></a>
 
 ### Art. 5bis.
 
@@ -18257,7 +18257,7 @@ Les personnes qui ne remplissent pas les conditions prévues par l'article préc
 
 Un règlement grand-ducal précise les conditions de l'assurance facultative, en détermine les modalités et définit les périodes pouvant être couvertes.
 
-<a id="art_N3E6D8"></a>
+<a id="art_N3E6DA"></a>
 
 ### Art. 6.
 
@@ -18265,7 +18265,7 @@ Les personnes qui ont, soit abandonné ou réduit une activité professionnelle 
 
 Un règlement grand-ducal précise les conditions de l'achat rétroactif, en détermine les modalités et définit les périodes pouvant être couvertes.
 
-<a id="art_N3E71F"></a>
+<a id="art_N3E721"></a>
 
 ### Art. 7.
 
@@ -18277,13 +18277,13 @@ En cas de concours pendant le même mois de deux ou de plusieurs périodes au ti
 
 Pour autant que de besoin, les mois sont convertis en années, les douzièmes étant convertis en nombres décimaux.
 
-<a id="art_N3E778"></a>
+<a id="art_N3E77A"></a>
 
 ### Art. 8.
 
 Les fonctionnaires normalement occupés au Grand-Duché de Luxembourg qui sont détachés temporairement à l'étranger par leur employeur restent affiliés au présent régime.
 
-<a id="art_N3E7B6"></a>
+<a id="art_N3E7B8"></a>
 
 ### Art. 9.
 
@@ -18295,19 +18295,19 @@ Sont dispensés de l’assurance obligatoire:
 
 ##### **Chapitre II.** — **Objet de l’assurance**
 
-<a id="art_N3E80C"></a>
+<a id="art_N3E80E"></a>
 
 ### Art. 10.
 
 L'assurance a principalement pour objet des pensions de vieillesse, d'invalidité et de survie.
 
-<a id="art_N3E84A"></a>
+<a id="art_N3E84C"></a>
 
 ### Art. 11.
 
 A droit à une pension de vieillesse à partir de l'âge de soixante-cinq ans, tout fonctionnaire qui justifie de cent vingt mois d'assurance au moins au titre des articles 3, 5, 5bis et 6.
 
-<a id="art_N3E87C"></a>
+<a id="art_N3E87E"></a>
 
 ### Art. 12.
 
@@ -18323,7 +18323,7 @@ Tant que le fonctionnaire exerce avant l’âge de soixante-cinq ans une activit
 
 La pension réduite ou retirée en application des deux alinéas qui précèdent est rétablie lorsque le bénéficiaire de pension a accompli l’âge de soixante-cinq ans.
 
-<a id="art_N3E8E5"></a>
+<a id="art_N3E8E7"></a>
 
 ### Art. 13.
 
@@ -18331,7 +18331,7 @@ Le droit à la pension de vieillesse accordée en vertu des articles 11 et 12 ne
 
 Toutefois, la pension réduite en vertu de l'article 12, alinéa 4 prend cours le premier jour du mois suivant celui de la demande, mais au plus tôt à partir du mois au cours duquel la rémunération est inférieure au plafond prévu à l'article 49.
 
-<a id="art_N3E96C"></a>
+<a id="art_N3E96E"></a>
 
 ### Art. 13bis.
 
@@ -18353,7 +18353,7 @@ Par dérogation à l’article 66.4., le trimestre de faveur échu à la suite d
 
 En matière de sécurité sociale et d’impôt, la pension partielle est assimilée à une pension.
 
-<a id="art_N3E9F5"></a>
+<a id="art_N3E9F7"></a>
 
 ### Art. 14.
 
@@ -18361,13 +18361,13 @@ A droit à une pension d’invalidité le fonctionnaire dont l’inaptitude au s
 
 La pension d’invalidité est ouverte à partir du premier jour fixé dans l’arrêté de démission respectivement à partir du premier jour du mois qui suit la constatation, par ladite Commission, de l'inaptitude au service du fonctionnaire démissionné.
 
-<a id="art_N3EA41"></a>
+<a id="art_N3EA43"></a>
 
 ### Art. 15.
 
 Sans qu’une décision formelle ait à intervenir en ce sens, toutes les pensions de vieillesse anticipées et d’invalidité en cours sont reconduites en tant que pensions de vieillesse, lorsque les bénéficiaires ont accompli l’âge de soixante-cinq ans, sans préjudice du droit acquis à leurs éléments composants et sans que leur montant ne puisse subir une diminution.
 
-<a id="art_N3EA7F"></a>
+<a id="art_N3EA81"></a>
 
 ### Art. 16.
 
@@ -18375,19 +18375,19 @@ La pension d’invalidité est retirée si le bénéficiaire ne remplit plus les
 
 Sans préjudice des dispositions de l’article 34, la décision qui retire une pension est applicable dès le premier jour du mois qui suit cette décision. Toutefois, en cas de réintégration dans l'administration conformément à l'article 74, le retrait de la pension n'opère qu'à partir du premier jour du mois suivant la notification de la décision de réintégration.
 
-<a id="art_N3EAC4"></a>
+<a id="art_N3EAC6"></a>
 
 ### Art. 17.
 
 Lorsqu'après un ou plusieurs retraits de la pension d'invalidité, l'intéressé a de nouveau droit à une pension d'invalidité ou de vieillesse, il n'est procédé à un recalcul de la pension que si le total de la ou des périodes pendant lesquelles l'intéressé ne bénéficiait pas de la pension dépasse six mois. Dans ce cas, l’article 38 est applicable.
 
-<a id="art_N3EB02"></a>
+<a id="art_N3EB04"></a>
 
 ### Art. 18.
 
 A droit à une pension de survie, sans préjudice de toutes autres conditions prescrites, le conjoint ou le partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats survivant d'un bénéficiaire d'une pension de vieillesse ou d'invalidité attribuée en vertu de la présente loi ou d'un fonctionnaire si celui-ci au moment de son décès justifie d'un stage de douze mois d'assurance au moins au titre des articles 3, 5 et 5bis pendant les trois années précédant la réalisation du risque. Cette période de référence de trois années est étendue pour autant et dans la mesure où elle se superpose à des périodes visées à l'article 4. Toutefois ce stage n'est pas exigé en cas de décès du fonctionnaire imputable à un accident de quelque nature que ce soit ou à une maladie professionnelle reconnue en vertu des dispositions du livre II du Code des Assurances sociales, survenus pendant l'affiliation.
 
-<a id="art_N3EB3E"></a>
+<a id="art_N3EB40"></a>
 
 ### Art. 19.
 
@@ -18403,7 +18403,7 @@ Toutefois, l'alinéa 1 n'est pas applicable, si au moins l'une des conditions ci
 3. lorsque le bénéficiaire de pension décédé n'a pas été l’aîné de son conjoint ou de son partenaire de plus de quinze années et que le mariage ou le partenariat a duré, au moment du décès, depuis au moins une année;
 4. lorsque le mariage ou le partenariat a duré au moment du décès du bénéficiaire de pension depuis au moins dix années.
 
-<a id="art_N3EB99"></a>
+<a id="art_N3EB9B"></a>
 
 ### Art. 20.
 
@@ -18419,7 +18419,7 @@ En cas de décès de l'un des ayants droit, la pension des autres est recalculé
 
 Six mois après le décès du fonctionnaire ou du bénéficiaire de pension, la pension est répartie entre les ayants droit qui en ont fait la demande. Les ayants droit qui n'ont pas présenté de demande dans ce délai, n'ont droit à la part qui leur est due qu'à partir du jour de leur demande.
 
-<a id="art_N3EC07"></a>
+<a id="art_N3EC09"></a>
 
 ### Art. 21.
 
@@ -18438,7 +18438,7 @@ En cas de concours avec une pension revenant à un ou plusieurs conjoints divorc
 
 En cas de concours de la pension attribuée en vertu du présent article avec une autre pension de survie, seule la pension la plus élevée est due.
 
-<a id="art_N3EC7D"></a>
+<a id="art_N3EC7F"></a>
 
 ### Art. 22.
 
@@ -18453,7 +18453,7 @@ Sont assimilés à des enfants légitimes au regard des dispositions qui précè
 - les enfants naturels;
 - tous les enfants, orphelins de père et de mère, à condition que le fonctionnaire ou le bénéficiaire de pension en ait assumé l'entretien et l'éducation pendant les dix mois précédant son décès et qu'ils n'aient pas droit à une pension d'orphelin du chef de leurs auteurs.
 
-<a id="art_N3ECEB"></a>
+<a id="art_N3ECED"></a>
 
 ### Art. 23.
 
@@ -18467,25 +18467,25 @@ Si la condition de l’absence vient à défaillir par suite du décès du fonct
 
 A défaut de survivants au sens du présent article remplissant les conditions de droit des articles 18 et 20 à 22, le droit aux prestations prévues par la présente loi cesse à partir du premier jour du mois qui suit celui où le fonctionnaire a paru pour la dernière fois.
 
-<a id="art_N3ED4D"></a>
+<a id="art_N3ED4F"></a>
 
 ### Art. 24.
 
 Le droit aux pensions de survie commence à courir à partir du premier jour du mois suivant le décès du titulaire d'une pension d'invalidité ou de vieillesse, respectivement dans l'hypothèse du décès du fonctionnaire en activité de service, à partir du jour suivant l'expiration du droit au traitement, sans préjudice des dispositions de l’article 12, point 3, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N3ED84"></a>
+<a id="art_N3ED86"></a>
 
 ### Art. 25.
 
 Les pensions des survivants qui ont vécu avec un bénéficiaire d'une pension de vieillesse ou d'invalidité en ménage commun, sont complétées pendant les trois mois consécutifs à l'ouverture du droit jusqu'à concurrence de la pension du défunt. Le complément est réparti entre les différentes pensions proportionnellement au montant de chacune.
 
-<a id="art_N3EDB6"></a>
+<a id="art_N3EDB8"></a>
 
 ### Art. 26.
 
 Pour les survivants d'un fonctionnaire décédé en activité de service, avec lequel ils vivaient en communauté domestique, l'article 66 est applicable.
 
-<a id="art_N3EDF4"></a>
+<a id="art_N3EDF6"></a>
 
 ### Art. 27.
 
@@ -18495,7 +18495,7 @@ Si le titulaire d'une pension de survie contracte un nouvel engagement par maria
 
 Toutefois le montant du rachat ne peut pas être supérieur respectivement à cinq fois et trois fois la pension annuelle qui aurait été due pour la même période sans application des dispositions de l'article 52 et sans prise en compte des majorations proportionnelles spéciales et forfaitaires spéciales.
 
-<a id="art_N3EE42"></a>
+<a id="art_N3EE44"></a>
 
 ### Art. 28.
 
@@ -18503,7 +18503,7 @@ Si le nouveau mariage est dissous par le divorce ou le décès du conjoint, ou s
 
 Au cas où le décès du nouveau conjoint ou du nouveau partenaire ouvre également droit à une pension, seule la pension la plus élevée au moment de l'ouverture du droit à cette dernière est payée, compte tenu de l'application de l'alinéa qui précède. A l'expiration de la période couverte par le rachat il est procédé à une nouvelle comparaison et la pension la plus élevée est définitivement allouée.
 
-<a id="art_N3EE82"></a>
+<a id="art_N3EE84"></a>
 
 ### Art. 29.
 
@@ -18511,7 +18511,7 @@ Sauf en cas d'études, la pension d'orphelin cesse d'être payée à partir du m
 
 Elle cesse pareillement en cas d'octroi d'une pension d'invalidité.
 
-<a id="art_N3EECE"></a>
+<a id="art_N3EED0"></a>
 
 ### Art. 30.
 
@@ -18521,7 +18521,7 @@ Toutefois, pour la durée de l'invalidité du fonctionnaire, le conjoint ou le p
 
 Lorsqu'il a été établi par jugement pénal que les ayants droit ont causé volontairement le décès ou l'invalidité du fonctionnaire ou y ont contribué par un acte intentionnel, ils sont déchus de tout droit à pension.
 
-<a id="art_N3EF23"></a>
+<a id="art_N3EF25"></a>
 
 ### Art. 31.
 
@@ -18533,7 +18533,7 @@ Le paiement peut être subordonné à la production d'un certificat de vie ou de
 
 Le paiement se fait valablement par virement au compte chèque postal du bénéficiaire.
 
-<a id="art_N3EF70"></a>
+<a id="art_N3EF72"></a>
 
 ### Art. 32.
 
@@ -18541,7 +18541,7 @@ Les prestations dues à un fonctionnaire lors de son décès, qu'elles aient ét
 
 A défaut de parenté au degré successible en vertu de l'alinéa qui précède, les prestations restent acquises au fonds de pension.
 
-<a id="art_N3EFBC"></a>
+<a id="art_N3EFBE"></a>
 
 ### Art. 33.
 
@@ -18549,7 +18549,7 @@ En cas de divorce ou de séparation, le conjoint, ou, en cas de dissolution du p
 
 Lorsqu'une pension a été octroyée ou liquidée par suite d'une erreur matérielle elle est modifiée ou supprimée suivant le cas.
 
-<a id="art_N3F018"></a>
+<a id="art_N3F01A"></a>
 
 ### Art. 34.
 
@@ -18565,7 +18565,7 @@ Les sommes indûment touchées sont restituées sans préjudice de poursuites ju
 
 Les titulaires de pension accordée pour cause d'invalidité sont tenus de se soumettre, sous peine du retrait de la pension, aux examens prescrits par le médecin désigné par la Commission des pensions. La pension retirée ne peut être allouée pour la période de trois mois consécutifs au retrait, à moins que le fonctionnaire ne prouve que l'examen médical n'a pu avoir lieu pour des raisons indépendantes de sa volonté.
 
-<a id="art_N3F083"></a>
+<a id="art_N3F085"></a>
 
 ### Art. 35.
 
@@ -18573,7 +18573,7 @@ Le droit à pension ne se prescrit pas.
 
 Le droit à chaque arrérage se prescrit par cinq ans à partir du jour où il a pris naissance.
 
-<a id="art_N3F0CA"></a>
+<a id="art_N3F0CC"></a>
 
 ### Art. 36.
 
@@ -18581,7 +18581,7 @@ Lorsqu'une personne passe à un régime de pension d'un organisme international 
 
 Lorsque après l'expiration de la soixante-cinquième année d'âge, le fonctionnaire ne remplit pas la condition de stage prévue à l'article 11, les retenues pour pension opérées en application de l'article 61 lui sont remboursées sur demande, compte tenu de l'adaptation à l'indice du coût de la vie prévue à l'article 47. Le remboursement fait perdre tout droit à des prestations.
 
-<a id="art_N3F119"></a>
+<a id="art_N3F11B"></a>
 
 ### Art. 37.
 
@@ -18616,7 +18616,7 @@ La pension de vieillesse annuelle se compose des majorations de pension suivante
 | 2031 | 25,638 | 1,732 | 96 | 0,018 |  | 2052 | 28,000 | 1,600 | 100 | 0,025 |
 | 2032 | 25,750 | 1,725 | 96 | 0,018 |  | après 2052 | 28,000 | 1,600 | 100 | 0,025 |
 
-<a id="art_N3F727"></a>
+<a id="art_N3F729"></a>
 
 ### Art. 38.
 
@@ -18626,7 +18626,7 @@ Lorsque le bénéficiaire de pension justifie d'un traitement au sens de l'artic
 
 Si le bénéficiaire de pension justifie d'une rente accident complète ou partielle ou d'une rente d'attente en vertu du livre II du Code de la sécurité sociale du chef d'un accident survenu ou d'une maladie professionnelle déclarée après le 31 décembre 2010 pendant la période de bénéfice de la pension d'invalidité, celle-ci est recalculée lorsqu'il a accompli l'âge de soixante-cinq ans.
 
-<a id="art_N3F770"></a>
+<a id="art_N3F772"></a>
 
 ### Art. 39.
 
@@ -18637,7 +18637,7 @@ La pension d’invalidité annuelle se compose des majorations de pension suivan
 3. les majorations forfaitaires prévues à l’article 37.2.;
 4. Si l’échéance du risque se situe après l’âge de vingt-cinq ans, les majorations prévues au point 4. ci-dessus ne sont allouées qu’en proportion du nombre des années d’assurance visées à l’article 37.2. accomplies après le début de l’année civile suivant celle où le fonctionnaire a atteint l’âge de vingt-quatre ans par rapport au nombre d’années se situant entre ce début et l’échéance du risque.
 
-<a id="art_N3F7B6"></a>
+<a id="art_N3F7B8"></a>
 
 ### Art. 40.
 
@@ -18645,7 +18645,7 @@ La pension de survie annuelle du conjoint ou du partenaire au sens de l'article 
 
 En cas de décès d'un bénéficiaire d'une pension d'invalidité avant l'âge de cinquante-cinq ans, les majorations proportionnelles spéciales correspondant à la période se situant entre le décès et la date de l'accomplissement de l'âge de cinquante-cinq ans sont calculées à partir de la même base de référence que celle de la pension du défunt.
 
-<a id="art_N3F7F6"></a>
+<a id="art_N3F7F8"></a>
 
 ### Art. 41.
 
@@ -18655,7 +18655,7 @@ En cas de décès d'un bénéficiaire d'une pension d'invalidité avant l'âge d
 
 Pour les orphelins de père et de mère la pension sera du double de celle visée ci-dessus. Lorsqu'un droit à pension d'orphelin existe tant du chef du père que du chef de la mère en vertu de la présente loi, seule la pension la plus élevée est payée, application faite de la phrase précédente.
 
-<a id="art_N3F83A"></a>
+<a id="art_N3F83C"></a>
 
 ### Art. 42.
 
@@ -18663,7 +18663,7 @@ En aucun cas l’ensemble des pensions des survivants du chef d’un fonctionnai
 
 Si le total des pensions des survivants dépasse cette limite, elles sont réduites proportionnellement.
 
-<a id="art_N3F878"></a>
+<a id="art_N3F87A"></a>
 
 ### Art. 42bis.
 
@@ -18681,7 +18681,7 @@ Si la pension n'est pas versée au bénéficiaire pour l'année civile entière,
 
 Le montant de l'allocation n'est pas pris en compte pour l'application des dispositions des articles 49 à 52, mais il est réduit dans la même mesure que la pension par l'effet de ces dispositions.
 
-<a id="art_N3F8FF"></a>
+<a id="art_N3F901"></a>
 
 ### Art. 43.
 
@@ -18697,7 +18697,7 @@ Les facteurs de revalorisation applicables aux montants annuels desdits élémen
 
 Si au moment du calcul de la pension le facteur de revalorisation de l’année du début du droit à la pension ou de l’année précédente n’est pas encore fixé, celui déterminé pour l’année précédente est applicable. Il n’est pas procédé à la modification des bases de calcul lors de la fixation ultérieure des facteurs.
 
-<a id="art_N3F966"></a>
+<a id="art_N3F968"></a>
 
 ### Art. 44.
 
@@ -18706,19 +18706,19 @@ La base de référence annuelle servant au calcul des majorations proportionnell
 1. Ne sont pas à comprendre dans le diviseur le nombre d'années se situant dans cette période et correspondant aux périodes prévues à l'article 4 pendant lesquelles aucune retenue pour pension n’a été opérée; au cas où une retenue aurait été opérée simultanément au titre des articles 3, 5 et 6, la prise en compte de ces éléments de traitement et de ces périodes se fait suivant le mode de calcul le plus favorable pour le fonctionnaire.
 2. Lorsque l'échéance du risque se situe avant l'âge de vingt-cinq ans accomplis, la base de référence est égale à la somme des éléments de rémunération soumis à retenue pour pension portés en compte au titre des articles 3, 5 et 6, divisée par le nombre d'années d'assurance au titre des mêmes articles. Sont négligées tant au numérateur qu'au dénominateur les périodes pendant lesquelles le fonctionnaire cotisait sur une assiette inférieure au salaire social minimum de référence pour un travailleur non qualifié âgé de dix-huit ans au moins. Toutefois, la base de référence ne saurait être inférieure au montant de référence prévu à l'article 45.
 
-<a id="art_N3F9A6"></a>
+<a id="art_N3F9A8"></a>
 
 ### Art. 45.
 
 Le montant de référence annuel au nombre indice cent de l'indice pondéré du coût de la vie au 1er janvier 1948 et défini pour l'année de base prévue à l'article 43 est égal à 2085 euros.
 
-<a id="art_N3F9DB"></a>
+<a id="art_N3F9DD"></a>
 
 ### Art. 45bis.
 
 Par dérogation aux articles 43 et 44 et pour les périodes visées à l'article 3, alinéa 3, sont mis en compte les revenus correspondant à la moyenne mensuelle des éléments de rémunération visés à l'article 61 effectivement touchés ou mis en compte au cours des douze mois d'assurance précédant immédiatement celui de l'accouchement ou de l'adoption, déduction faite de ceux ayant donné lieu, pour ces périodes, à retenue pour pension à un autre titre. Cette moyenne est sujette à adaptation à l'indice du coût de la vie prévue à l'article 47 et elle ne peut être inférieure à 270,28 euros par enfant et par mois au nombre indice 100 du coût de la vie au 1er janvier 1948 et à l'année de base 1984. Dans l'hypothèse où il s'agit de périodes visées à l'article 3, alinéa 2 se situant en dehors de la période visée à l'alinéa 3 du prédit article, l'indemnité forfaitaire est prise en compte, nonobstant les revenus mis en compte à un autre titre.
 
-<a id="art_N3FA1C"></a>
+<a id="art_N3FA1E"></a>
 
 ### Art. 46.
 
@@ -18728,13 +18728,13 @@ En cas d'invalidité sont prises en compte pour parfaire le stage prévu à l'al
 
 Pour autant que de besoin, un complément est alloué. En cas de décès d’un fonctionnaire ou d’un bénéficiaire de pension remplissant les conditions de stage prévues ci-dessus, le complément pour la pension de survie est alloué à raison d’un quart pour l’orphelin. La pension de survie du conjoint ou du partenaire est augmentée jusqu’à concurrence de la pension minimum à laquelle avait ou aurait eu droit le fonctionnaire décédé.
 
-<a id="art_N3FA6C"></a>
+<a id="art_N3FA6E"></a>
 
 ### Art. 47.
 
 Les pensions de vieillesse, d'invalidité ou de survie calculées conformément aux dispositions qui précèdent correspondent au nombre cent de l'indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptées suivant les modalités applicables aux traitements des fonctionnaires de l'Etat.
 
-<a id="art_N3FAAD"></a>
+<a id="art_N3FAAF"></a>
 
 ### Art. 48.
 
@@ -18742,7 +18742,7 @@ Les pensions dont le début du droit se situe avant le 1er janvier 2014 et calcu
 
 Les pensions dont le début du droit se situe après le 31 décembre 2013 et calculées conformément aux dispositions qui précèdent, sont multipliées par le facteur de revalorisation de la quatrième année précédant le début du droit à la pension.
 
-<a id="art_N3FAF7"></a>
+<a id="art_N3FAF9"></a>
 
 ### Art. 48bis.
 
@@ -18750,13 +18750,13 @@ Les pensions calculées conformément à l’article 48 sont multipliées par le
 
 Le facteur de réajustement représente pour une année de calendrier la somme de l’unité et du produit de la multiplication du taux de variation annuel du facteur de revalorisation entre l’avant-dernière année et l’année précédant celle-ci par le modérateur de réajustement, visé à l’article 225bis du Code de la sécurité sociale, applicable pour l’avant-dernière année.
 
-<a id="art_N3FB43"></a>
+<a id="art_N3FB45"></a>
 
 ### Art. 49.
 
 En cas de concours d’une pension de vieillesse anticipée ou d’une pension d’invalidité avec un revenu professionnel ou un revenu de remplacement au sens de l’article 171 du Code de la sécurité sociale, réalisés ou obtenus au Luxembourg ou à l’étranger, la pension est réduite dans la mesure où ces revenus dépassent avec la pension un plafond fixé à la moyenne des cinq salaires, traitements ou revenus annuels cotisables les plus élevés de la carrière d’assurance, si la pension est inférieure à ce plafond ; elle est réduite du montant de ces revenus si la pension est supérieure à ce plafond. Ce plafond ne peut être inférieur au montant de référence prévu à l’article 45 augmenté de cinquante pour cent.
 
-<a id="art_N3FB7A"></a>
+<a id="art_N3FB7C"></a>
 
 ### Art. 50.
 
@@ -18764,13 +18764,13 @@ En cas de concours d'une pension d'invalidité ou de vieillesse anticipée avec 
 
 Pour le calcul de la moyenne visée ci-dessus, il est fait abstraction dans l'intérêt du bénéficiaire de pension de la première et de la dernière année d'affiliation ou de l'une de ces années seulement. Si la durée d'affiliation est inférieure à cinq années civiles, la moyenne est égale à la moyenne des salaires, traitements ou revenus cotisables correspondants.
 
-<a id="art_N3FBB5"></a>
+<a id="art_N3FBB7"></a>
 
 ### Art. 51.
 
 En cas de concours d'une pension de survie avec une rente d'accident de survie du chef d'un accident survenu ou d'une maladie professionnelle déclarée avant le 1er janvier 2011, la pension est réduite dans la mesure où elle dépasse ensemble avec la rente d'accident trois quarts des plafonds visés à l'article qui précède lorsqu'il s'agit d'une veuve, d'un veuf, d'un ancien partenaire au sens de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats ou d'un orphelin de père et de mère, ou d'un tiers de ces plafonds lorsqu'il s'agit d'un orphelin de père ou de mère. Toutefois, l'ensemble des pensions et rentes d'accident du chef du même assuré ne peut pas dépasser les plafonds visés à l'article qui précède.
 
-<a id="art_N3FBEF"></a>
+<a id="art_N3FBF1"></a>
 
 ### Art. 52.
 
@@ -18780,7 +18780,7 @@ En cas de concours de la pension de survie avec une rente d'accident de survie d
 
 Sont pris en compte au titre des revenus personnels, les revenus professionnels et les revenus de remplacement dépassant deux tiers du montant de référence visé à l'article 45, les pensions et les rentes réalisées ou obtenues au Luxembourg ou à l'étranger, en vertu d'un régime légal au sens de la législation sociale, à l'exception des pensions ou rentes de survie du chef du même conjoint ou du même partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats, ainsi que le forfait d'éducation prévu par la loi du 28 juin 2002 portant création d'un forfait d'éducation. L'indemnité visée à l'article 30 paragraphe (2) de la loi du 24 mai 1989 sur le contrat de travail n'est pas prise en compte au titre du présent alinéa.
 
-<a id="art_N3FC4F"></a>
+<a id="art_N3FC51"></a>
 
 ### Art. 53.
 
@@ -18798,43 +18798,43 @@ Le bénéficiaire de pension doit signaler au Centre de gestion du personnel et 
 
 Pour l’application des articles 49 à 52, tous les montants sont portés en compte pour leur valeur réduite au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et définis pour l’année de base prévue à l’article 43. Le revenu en concours avec la pension est réduit au niveau de l’année de base en le divisant par le produit de la multiplication du facteur de revalorisation applicable à la pension au sens de l’article 48 par les facteurs de réajustement applicables à la pension au sens de l’article 48bis.
 
-<a id="art_N3FCBD"></a>
+<a id="art_N3FCBF"></a>
 
 ### Art. 53bis.
 
 L’exercice du mandat de parlementaire et de la fonction de membre du Conseil d’Etat n’est pas considéré comme activité professionnelle pour l’application des articles 12 alinéas 3 et 4 et 49 à 52.
 
-<a id="art_N3FCEF"></a>
+<a id="art_N3FCF1"></a>
 
 ### Art. 54.
 
 En cas de concours de plusieurs prestations, le cas échéant avec des revenus professionnels, les dispositions de non-cumul sont appliquées dans l'ordre suivant: articles 46, 42, 49, 50, 51 et 56. Une pension réduite par suite de l'application de l'une de ces dispositions est portée en compte pour l'application de la disposition subséquente à raison de son montant réduit.
 
-<a id="art_N3FD21"></a>
+<a id="art_N3FD23"></a>
 
 ### Art. 55.
 
 En cas de concours d'une pension visée par la présente loi et d'une pension de même nature due en vertu de la législation d'un pays avec lequel le Luxembourg est lié par un instrument international en matière de sécurité sociale, à condition que ce pays applique également des clauses de réduction, de suspension ou suppression à l’égard de la prestation considérée, tous les éléments intervenant dans l'application des clauses de réduction, de suspension ou de suppression sont pris en compte au prorata de la durée des périodes au titre des articles 3, 5 et 6 accomplies avant la réalisation du risque par rapport à la durée totale des périodes accomplies avant la réalisation du risque sous les différentes législations en cause.
 
-<a id="art_N3FD5F"></a>
+<a id="art_N3FD61"></a>
 
 ### Art. 56.
 
 Si celui à qui compète une pension en vertu de la présente loi possède contre des tiers un droit légal à la réparation du dommage résultant pour lui de l'invalidité ou du décès fondant son droit à la pension, le droit à la réparation des dommages de la même espèce que ceux couverts par la pension passe au fonds de pension jusqu'à concurrence de ses prestations. Si la pension revêt un caractère permanent, le recours porte sur le capital de couverture, déduction faite des expectatives acquises. Les modalités d'application peuvent faire l'objet d'un règlement grand-ducal.
 
-<a id="art_N3FD91"></a>
+<a id="art_N3FD93"></a>
 
 ### Art. 57.
 
 Au cas où le fonctionnaire a touché l'indemnité due par le tiers responsable, nonobstant les dispositions qui précèdent, «le Centre de gestion du personnel et de l’organisation de l’État» peut compenser la pension due avec l'indemnité touchée, à moins que le fonctionnaire ne consente à rétrocéder l'indemnité touchée au fonds.
 
-<a id="art_N3FDCF"></a>
+<a id="art_N3FDD1"></a>
 
 ### Art. 58.
 
 Les dispositions de la présente loi ne modifient ni les obligations légales des communes et des offices sociaux envers les indigents, en général, ni les obligations légales, concernant l'assistance des vieillards, des malades, des personnes indigentes ou atteintes d'incapacité de travail.
 
-<a id="art_N3FE01"></a>
+<a id="art_N3FE03"></a>
 
 ### Art. 59.
 
@@ -18844,7 +18844,7 @@ La demande doit être présentée, sous peine de forclusion, dans un délai de t
 
 ##### **Chapitre III. ** — **Voies et moyens**
 
-<a id="art_N3FE59"></a>
+<a id="art_N3FE5B"></a>
 
 ### Art. 60.
 
@@ -18867,7 +18867,7 @@ Sont à considérer pour le calcul de la retenue pour pension les éléments de 
 
 A l'égard des parlementaires et des conseillers d'Etat relevant du présent régime de pension ou du régime de pension général, sont pris en compte pour l'application du présent article respectivement l'indemnité parlementaire prévue à l'article 97 sous 1. ainsi que le traitement d'attente dans les conditions et limites de l'article 100 de la loi électorale du 31 juillet 1924 et l'indemnité de membre du Conseil d'Etat prévue à l'article 13 de la loi du 12 juillet 1996 portant réforme du Conseil d'Etat.
 
-<a id="art_N3FF02"></a>
+<a id="art_N3FF04"></a>
 
 ### Art. 61.
 
@@ -18877,7 +18877,7 @@ Sauf la retenue opérée au titre des articles 5 à 6 de la présente loi et sur
 
 L'adaptation de ce taux se fait parallèlement à celle de la partie des cotisations à charge des assurés au titre des articles 239 et 240 du Code des Assurances sociales. Les retenues pour pension opérées sur les éléments de rémunération sont directement affectées au Fonds de pension.
 
-<a id="art_N3FF57"></a>
+<a id="art_N3FF59"></a>
 
 ### Art. 62.
 
@@ -18896,13 +18896,13 @@ La dotation des établissements publics visée à l’alinéa qui précède sous
 
 ##### **Chapitre IV.** — **Organisation de l’assurance**
 
-<a id="art_N3FFF3"></a>
+<a id="art_N3FFF5"></a>
 
 ### Art. 63.
 
 La gestion du régime de pension est assurée par le Centre de gestion du personnel et de l’organisation de l’État.
 
-<a id="art_N40031"></a>
+<a id="art_N40033"></a>
 
 ### Art. 64.
 
@@ -18910,7 +18910,7 @@ Il est établi et géré «au Centre de gestion du personnel et de l’organisat
 
 A cette fin «le Centre de gestion du personnel et de l’organisation de l’État» peut demander l’assistance technique du Centre commun de la Sécurité sociale.
 
-<a id="art_N4006C"></a>
+<a id="art_N4006E"></a>
 
 ### Art. 65.
 
@@ -18918,7 +18918,7 @@ Les pensions sont établies en euros à deux décimales près, l’arrondi étan
 
 Les bénéficiaires de pension sont tenus, en outre, de signaler ou de faire signaler au Centre de gestion du personnel et de l’organisation de l’État tout changement d'adresse et d'état civil.
 
-<a id="art_N400AC"></a>
+<a id="art_N400AE"></a>
 
 ### Art. 66.
 
@@ -18937,7 +18937,7 @@ Dans l’hypothèse de l’exercice de plus d’un service ou emploi à temps pa
 
 Les dispositions du paragraphe II. de l’article 10 de la loi du 25 mars 2015 instituant un régime de pension spécial transitoire sont applicables pour la fixation du trimestre de faveur.
 
-<a id="art_N4015F"></a>
+<a id="art_N40161"></a>
 
 ### Art. 67.
 
@@ -18965,7 +18965,7 @@ La modification du service à tâche partielle pendant la retraite progressive e
 
 **V.** Il n'est pas dérogé par les dispositions de la présente loi aux articles 174-180 de la loi du 7 mars 1980 sur l'organisation judiciaire.
 
-<a id="art_N4024A"></a>
+<a id="art_N4024C"></a>
 
 ### Art. 68.
 
@@ -18989,7 +18989,7 @@ La commission est présidée par le magistrat ou le fonctionnaire, titulaire du 
 
 La commission est assistée d’un secrétaire et d’un secrétaire adjoint à désigner par le ministre ayant la Fonction publique dans ses attributions.
 
-<a id="art_N402C9"></a>
+<a id="art_N402CB"></a>
 
 ### Art. 69.
 
@@ -19013,7 +19013,7 @@ Si l’intéressé ne comparaît pas, la commission statue en son absence par un
 
 La commission a tous les pouvoirs d’investigation. Les autorités publiques donnent suite aux demandes à elles présentées à cet effet.
 
-<a id="art_N40361"></a>
+<a id="art_N40363"></a>
 
 ### Art. 70.
 
@@ -19027,7 +19027,7 @@ Pour le cas où le médecin de contrôle estime que le fonctionnaire peut contin
 
 Lorsque l’intéressé refuse de se faire examiner par les hommes de l’art, la commission statue sur le vu des pièces du dossier.
 
-<a id="art_N403BC"></a>
+<a id="art_N403BE"></a>
 
 ### Art. 71.
 
@@ -19046,7 +19046,7 @@ Les décisions prises aux termes des alinéas qui précèdent sont motivées et 
 1. soit par la remise en mains propres contre accusé de réception; si le fonctionnaire refuse d’accepter ces documents ou d’en accuser réception, il en est dressé procès-verbal;
 2. soit par envoi par lettre recommandée à l’adresse que le fonctionnaire a déclaré comme sa résidence; dans ce cas, la notification sort ses effets huit jours après le dépôt de la lettre recommandée à la poste.
 
-<a id="art_N40426"></a>
+<a id="art_N40428"></a>
 
 ### Art. 72.
 
@@ -19064,7 +19064,7 @@ Si, postérieurement à la nouvelle affectation, l’intéressé sollicite des c
 
 Le rapport entre l’état de santé ayant entraîné sa comparution devant la commission et les congés de maladie postérieurs à la décision de la commission est à établir par le médecin de contrôle.
 
-<a id="art_N40498"></a>
+<a id="art_N4049A"></a>
 
 ### Art. 73.
 
@@ -19086,7 +19086,7 @@ Durant la période du service à temps partiel pour raisons de santé, le foncti
 
 A partir du moment où le fonctionnaire peut faire valoir ses droits à une pension de vieillesse ou de vieillesse anticipée, il est démissionné d’office par l’autorité de nomination, sans intervention de la commission.
 
-<a id="art_N4051C"></a>
+<a id="art_N4051E"></a>
 
 ### Art. 74.
 
@@ -19096,7 +19096,7 @@ Si, postérieurement à sa reprise de service, l’intéressé sollicite des con
 
 Le rapport entre l’état de santé ayant entraîné sa comparution devant la commission et les congés de maladie postérieurs à la décision de la commission est à établir par le médecin de contrôle.
 
-<a id="art_N40560"></a>
+<a id="art_N40562"></a>
 
 ### Art. 74bis.
 
@@ -19110,7 +19110,7 @@ Si l’intéressé refuse de se présenter devant la commission, ou bien s’il 
 
 A partir du premier jour du mois qui suit le début de la soixante-sixième année de l’intéressé, le droit à la pension est rétabli à moins d’un maintien en service en application de l’article 67.II.1 suite à une réintégration conformément aux dispositions qui précèdent. Le droit à la pension est également rétabli pour la vérification des droits et le calcul des pensions des survivants, en cas de décès du retraité visé avant cet âge.
 
-<a id="art_N405C2"></a>
+<a id="art_N405C4"></a>
 
 ### Art. 75.
 
@@ -19122,7 +19122,7 @@ Les recours sont intentés dans le délai de trois mois à partir de la notifica
 
 En cas de décision de la Commission des pensions conformément à l'article 71 ci-avant, les recours des intéressés sont dirigés contre cette décision.
 
-<a id="art_N4060F"></a>
+<a id="art_N40611"></a>
 
 ### Art. 76.
 
@@ -19134,7 +19134,7 @@ Le Centre de gestion du personnel et de l’organisation de l’État détermine
 
 ##### **Titre IV** — **Des dispositions additionnelles et de la mise en vigueur**
 
-<a id="art_N4066D"></a>
+<a id="art_N4066F"></a>
 
 ### Art. 87.
 
@@ -19146,7 +19146,7 @@ Le Code des Assurances sociales est modifié comme suit:
 
 (...)
 
-<a id="art_N406E1"></a>
+<a id="art_N406E3"></a>
 
 ### Art. 91.
 
@@ -19161,7 +19161,7 @@ Un règlement grand-ducal peut prévoir des catégories d'agents qui, sous certa
 
 En cas de réaffectation, les dispositions de l'article 36 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat sont d'application.
 
-<a id="art_N4073A"></a>
+<a id="art_N4073C"></a>
 
 ### Art. 92.
 
@@ -19171,7 +19171,7 @@ Les dispositions de la présente loi entrent en vigueur le 1er janvier 1999.
 
 ##### Version consolidée applicable au 26/04/2024 : Loi électorale du 18 février 2003 et portant modification - de la loi du 31 octobre 1977 portant fusion des communes de Asselborn, Boevange/Clervaux, Hachiville et Oberwampach - de la loi du 27 juillet 1978 portant fusion des communes de Arsdorf, Bigonville, Folschette et Perlé - de la loi du 23 décembre 1978 portant fusion des communes de Harlange et Mecher - de la loi du 23 décembre 1978 portant fusion des communes de Junglinster et de Rodenbourg
 
-<a id="art_N40794"></a>
+<a id="art_N40796"></a>
 
 ### Art. 126.
 
@@ -19251,7 +19251,7 @@ Au cas où un député ayant déjà dans le passé bénéficié de l’intégral
 
 L’indemnité de départ versée par la Chambre aux députés sortants est soumise aux mêmes charges sociales et fiscales que l’indemnité parlementaire. Pendant la durée du paiement de l’indemnité de départ, le député sortant continue à bénéficier du régime de sécurité sociale des députés.
 
-<a id="art_N40972"></a>
+<a id="art_N40974"></a>
 
 ### Art. 129.
 
@@ -19311,27 +19311,27 @@ Il en est de même en cas de révision de la pension ou du droit à pension du b
 
 ##### Chapitre 1er. - **La Résistance**
 
-<a id="art_N40B26"></a>
+<a id="art_N40B28"></a>
 
-### art_N40B26
-
-
-
-<a id="art_N40B69"></a>
-
-### art_N40B69
+### art_N40B28
 
 
 
-<a id="art_N40BA9"></a>
+<a id="art_N40B6B"></a>
 
-### art_N40BA9
+### art_N40B6B
+
+
+
+<a id="art_N40BAB"></a>
+
+### art_N40BAB
 
 
 
 ##### Chapitre 2. - **L'enrôlement forcé**
 
-<a id="art_N40BF9"></a>
+<a id="art_N40BFB"></a>
 
 ### Art. 4.
 
@@ -19339,13 +19339,13 @@ La qualité de victime du nazisme est reconnue aux Luxembourgeois des classes 19
 
 Ne peuvent se prévaloir de cette qualité les personnes qui ont été exclues en tout ou en partie de l'indemnisation en application de l'article 12 de la loi du 25 février 1950 concernant l'indemnisation des dommages de guerre.
 
-<a id="art_N40C34"></a>
+<a id="art_N40C36"></a>
 
 ### Art. 5.
 
 Le statut de pupille de la Nation est attribué aux enfants des Luxembourgeois remplissant les conditions de l'article 4 de la présente loi et qui sont décédés ou présumés décédés par suite de blessures reçues ou de maladies contractées pendant leur service dans les formations militaires allemandes pendant la guerre de 1940 à 1945. L'arrêté grand-ducal du 27 juillet 1945 portant création de l'Oeuvre des pupilles de la Nation, tel qu'il a été modifié dans la suite, leur sera applicable.
 
-<a id="art_N40C66"></a>
+<a id="art_N40C68"></a>
 
 ### Art. 6.
 
@@ -19355,19 +19355,19 @@ En outre les mêmes personnes peuvent se prévaloir des dispositions du titre II
 
 ##### Chapitre 3. - **Les dommages de guerre corporels**
 
-<a id="art_N40CD3"></a>
+<a id="art_N40CD5"></a>
 
 ### Art. 7.
 
 L'alinéa 4 de l'article 47 de la loi du 25 février 1950 concernant l'indemnisation des dommages de guerre sera complété par les termes «y non compris la part fixe des pensions à charge de l'Etat et des communes».
 
-<a id="art_N40D0B"></a>
+<a id="art_N40D0D"></a>
 
 ### Art. 8.
 
 L'article 48 A n° 6 et l'article 49 (i) de la même loi auront la teneur suivante:
 
-<a id="art_N40D4F"></a>
+<a id="art_N40D51"></a>
 
 ### Art. 9.
 
@@ -19375,25 +19375,25 @@ L'alinéa 3 de l'article 48 B de la même loi sera complété par les termes sui
 
 L'alinéa 4 du même article sera complété par la phrase suivante:
 
-<a id="art_N40D96"></a>
+<a id="art_N40D98"></a>
 
 ### Art. 10.
 
 L'article 49 lettre a de la même loi est modifié comme suit:
 
-<a id="art_N40DDD"></a>
+<a id="art_N40DDF"></a>
 
 ### Art. 11.
 
 L'article 49 lettre g alinéa 1er de la même loi sera modifié comme suit:
 
-<a id="art_N40E27"></a>
+<a id="art_N40E29"></a>
 
 ### Art. 12.
 
 Les dispositions des alinéas 3 et 4 actuels de l'article 49 lettre g de la même loi seront complétées comme suit:
 
-<a id="art_N40E6B"></a>
+<a id="art_N40E6D"></a>
 
 ### Art. 13.
 
@@ -19403,7 +19403,7 @@ Les dispositions de l'article 49 lettre I, lettre n, alinéa 2 et lettre p sont 
 
 ##### Section 1re. - *Les régimes contributifs*
 
-<a id="art_N40EB3"></a>
+<a id="art_N40EB5"></a>
 
 ### Art. 14.
 
@@ -19421,7 +19421,7 @@ Les dispositions de l'article 49 lettre I, lettre n, alinéa 2 et lettre p sont 
 
 **(3)** Les personnes qui remplissent les conditions prévues ci-dessus sont tenues de justifier des périodes en question par un certificat à délivrer par l'Office de l'Etat des dommages de guerre sinon par l'administration communale de leur lieu de résidence au moment du déplacement.
 
-<a id="art_N40F25"></a>
+<a id="art_N40F27"></a>
 
 ### Art. 15.
 
@@ -19429,13 +19429,13 @@ Les dispositions de l'article 49 lettre I, lettre n, alinéa 2 et lettre p sont 
 
 **(2)** Ce délai sera prolongé pour le temps où, pour des raisons indépendantes de leur volonté, les intéressés n'étaient pas en mesure de travailler après ledit délai d'un an ainsi que pour le temps normal nécessaire aux intéressés pour parfaire leur formation professionnelle.
 
-<a id="art_N40F71"></a>
+<a id="art_N40F73"></a>
 
 ### Art. 16.
 
 L'âge à partir duquel les périodes visées à l'article 14 peuvent être prises en considération est de seize ans.
 
-<a id="art_N40FA3"></a>
+<a id="art_N40FA5"></a>
 
 ### Art. 17.
 
@@ -19445,19 +19445,19 @@ L'âge à partir duquel les périodes visées à l'article 14 peuvent être pris
 
 **(3)** Pour les périodes d'assurance computées par mois civil, toute fraction de mois compte comme mois entier pour autant qu'elle comprend au moins seize jours civils. Dans le cas contraire elle sera négligée.
 
-<a id="art_N40FFF"></a>
+<a id="art_N41001"></a>
 
 ### Art. 18.
 
 Les prestations dont bénéficient effectivement les intéressés de la part d'un régime d'assurance étranger pour les périodes computées en vertu des présentes dispositions, seront imputées sur les majorations de pension qui leur reviennent du chef de ces périodes auprès du régime de pension luxembourgeois.
 
-<a id="art_N41031"></a>
+<a id="art_N41033"></a>
 
 ### Art. 19.
 
 Pour bénéficier des avantages de la présente loi, les intéressés doivent faire valoir leurs droits auprès de l'organisme de pension compétent avant le 1er septembre 1973.
 
-<a id="art_N41072"></a>
+<a id="art_N41074"></a>
 
 ### Art. 20.
 
@@ -19467,7 +19467,7 @@ Pour bénéficier des avantages de la présente loi, les intéressés doivent fa
 
 **(3)** Les cotisations sont productives d'intérêts composés de quatre pour-cent l'an à partir de l'expiration de l'année au cours de laquelle les périodes ci-dessus ont pris fin.
 
-<a id="art_N410CB"></a>
+<a id="art_N410CD"></a>
 
 ### Art. 21.
 
@@ -19475,7 +19475,7 @@ Un dernier délai de deux ans est ouvert aux personnes visées par l'arrêté gr
 
 ##### Section 2. - *Les régimes non-contributifs*
 
-<a id="art_N41107"></a>
+<a id="art_N41109"></a>
 
 ### Art. 22.
 
@@ -19485,7 +19485,7 @@ Un dernier délai de deux ans est ouvert aux personnes visées par l'arrêté gr
 
 **(3)** Les conditions d'application du présent article pourront être réglées par un règlement grand-ducal.
 
-<a id="art_N41160"></a>
+<a id="art_N41162"></a>
 
 ### Art. 23.
 
@@ -19493,25 +19493,25 @@ Un dernier délai de deux ans est ouvert aux personnes visées par l'arrêté gr
 
 **(2)** Si la première affiliation a eu lieu auprès d'un régime contributif dans le délai visé à l'article 15 mais que les périodes couvertes dans la suite auprès de ce régime ont été reprises par un régime noncontributif, ou ont donné lieu à un remboursement de cotisation, les périodes visées par le présent chapitre seront computées auprès du régime non-contributif auquel l'intéressé a été affilié dans la suite.
 
-<a id="art_N411AC"></a>
+<a id="art_N411AE"></a>
 
 ### Art. 24.
 
 L'âge minimum de computation pour les intéressés est fixé à dix-huit ans.
 
-<a id="art_N411DE"></a>
+<a id="art_N411E0"></a>
 
 ### Art. 25.
 
 Les droits à computation des intéressés sont établis sur la base de demandes à présenter à l'organisme de pension compétent avant le 1er septembre 1973.
 
-<a id="art_N4121F"></a>
+<a id="art_N41221"></a>
 
 ### Art. 26.
 
 Les cotisations versées pour les périodes d'affiliation aux régimes contributifs correspondant à ces périodes, qui seront prises en considération par le régime non-contributif conformément à l'article 22, seront transférées à l'organisme appelé à les prendre à charge. Le transfert de ces cotisations ne préjudiciera pas aux droits relatifs aux conditions d'ouverture primitivement attachées aux dites périodes.
 
-<a id="art_N4125D"></a>
+<a id="art_N4125F"></a>
 
 ### Art. 27.
 
@@ -19519,25 +19519,25 @@ Les dépenses résultant de la computation des périodes en cause seront prises 
 
 ##### Section 3. - *Les dispositions spéciales et communes*
 
-<a id="art_N41299"></a>
+<a id="art_N4129B"></a>
 
 ### Art. 28.
 
 Les dispositions de l'article 14 s'appliquent également aux personnes visées à l'article 197, n° 3 du code des assurances sociales et à l'article 14 de la loi du 29 août 1951 ayant pour objet la réforme de la caisse de pension des employés privés.
 
-<a id="art_N412D0"></a>
+<a id="art_N412D2"></a>
 
 ### Art. 29.
 
 Les décisions prises en exécution du présent chapitre sont susceptibles des recours ordinaires en matière de pension.
 
-<a id="art_N41302"></a>
+<a id="art_N41304"></a>
 
 ### Art. 30.
 
 Les dispositions du présent chapitre s'appliqueront à partir du premier du mois suivant la publication de la présente loi au Mémorial aux bénéficiaires d'une pension de vieillesse ou d'invalidité et aux bénéficiaires d'une pension de survie.
 
-<a id="art_N4134A"></a>
+<a id="art_N4134C"></a>
 
 ### Art. 14.
 
@@ -19555,7 +19555,7 @@ Les dispositions du présent chapitre s'appliqueront à partir du premier du moi
 
 **(3)** Les personnes qui remplissent les conditions prévues ci-dessus sont tenues de justifier des périodes en question par un certificat à délivrer par l'Office de l'Etat des dommages de guerre sinon par l'administration communale de leur lieu de résidence au moment du déplacement.
 
-<a id="art_N413C1"></a>
+<a id="art_N413C3"></a>
 
 ### Art. 15.
 
@@ -19563,13 +19563,13 @@ Les dispositions du présent chapitre s'appliqueront à partir du premier du moi
 
 **(2)** Ce délai sera prolongé pour le temps où, pour des raisons indépendantes de leur volonté, les intéressés n'étaient pas en mesure de travailler après ledit délai d'un an ainsi que pour le temps normal nécessaire aux intéressés pour parfaire leur formation professionnelle.
 
-<a id="art_N41412"></a>
+<a id="art_N41414"></a>
 
 ### Art. 16.
 
 L'âge à partir duquel les périodes visées à l'article 14 peuvent être prises en considération est de seize ans.
 
-<a id="art_N41449"></a>
+<a id="art_N4144B"></a>
 
 ### Art. 17.
 
@@ -19579,19 +19579,19 @@ L'âge à partir duquel les périodes visées à l'article 14 peuvent être pris
 
 **(3)** Pour les périodes d'assurance computées par mois civil, toute fraction de mois compte comme mois entier pour autant qu'elle comprend au moins seize jours civils. Dans le cas contraire elle sera négligée.
 
-<a id="art_N414AA"></a>
+<a id="art_N414AC"></a>
 
 ### Art. 18.
 
 Les prestations dont bénéficient effectivement les intéressés de la part d'un régime d'assurance étranger pour les périodes computées en vertu des présentes dispositions, seront imputées sur les majorations de pension qui leur reviennent du chef de ces périodes auprès du régime de pension luxembourgeois.
 
-<a id="art_N414E1"></a>
+<a id="art_N414E3"></a>
 
 ### Art. 19.
 
 Pour bénéficier des avantages de la présente loi, les intéressés doivent faire valoir leurs droits auprès de l'organisme de pension compétent avant le 1er septembre 1973.
 
-<a id="art_N41527"></a>
+<a id="art_N41529"></a>
 
 ### Art. 20.
 
@@ -19601,13 +19601,13 @@ Pour bénéficier des avantages de la présente loi, les intéressés doivent fa
 
 **(3)** Les cotisations sont productives d'intérêts composés de quatre pour-cent l'an à partir de l'expiration de l'année au cours de laquelle les périodes ci-dessus ont pris fin.
 
-<a id="art_N41585"></a>
+<a id="art_N41587"></a>
 
 ### Art. 21.
 
 Un dernier délai de deux ans est ouvert aux personnes visées par l'arrêté grand-ducal du 30 janvier 1945 garantissant le droit à leurs anciens emplois à certaines catégories de travailleurs luxembourgeois, pour la présentation d'une demande en computation des périodes y déterminées. Les prestations découlant de cette mesure ne pourront prendre cours au plus tôt qu'à partir du premier du mois qui suit la publication de la présente loi au Mémorial.
 
-<a id="art_N415BC"></a>
+<a id="art_N415BE"></a>
 
 ### Art. 22.
 
@@ -19617,7 +19617,7 @@ Un dernier délai de deux ans est ouvert aux personnes visées par l'arrêté gr
 
 **(3)** Les conditions d'application du présent article pourront être réglées par un règlement grand-ducal.
 
-<a id="art_N4161A"></a>
+<a id="art_N4161C"></a>
 
 ### Art. 23.
 
@@ -19625,43 +19625,43 @@ Un dernier délai de deux ans est ouvert aux personnes visées par l'arrêté gr
 
 **(2)** Si la première affiliation a eu lieu auprès d'un régime contributif dans le délai visé à l'article 15 mais que les périodes couvertes dans la suite auprès de ce régime ont été reprises par un régime noncontributif, ou ont donné lieu à un remboursement de cotisation, les périodes visées par le présent chapitre seront computées auprès du régime non-contributif auquel l'intéressé a été affilié dans la suite.
 
-<a id="art_N4166B"></a>
+<a id="art_N4166D"></a>
 
 ### Art. 24.
 
 L'âge minimum de computation pour les intéressés est fixé à dix-huit ans.
 
-<a id="art_N416A2"></a>
+<a id="art_N416A4"></a>
 
 ### Art. 25.
 
 Les droits à computation des intéressés sont établis sur la base de demandes à présenter à l'organisme de pension compétent avant le 1er septembre 1973.
 
-<a id="art_N416E8"></a>
+<a id="art_N416EA"></a>
 
 ### Art. 26.
 
 Les cotisations versées pour les périodes d'affiliation aux régimes contributifs correspondant à ces périodes, qui seront prises en considération par le régime non-contributif conformément à l'article 22, seront transférées à l'organisme appelé à les prendre à charge. Le transfert de ces cotisations ne préjudiciera pas aux droits relatifs aux conditions d'ouverture primitivement attachées aux dites périodes.
 
-<a id="art_N4172B"></a>
+<a id="art_N4172D"></a>
 
 ### Art. 27.
 
 Les dépenses résultant de la computation des périodes en cause seront prises à charge par l'organisme de pension non-contributif dont dépend le retraité au moment de l'ouverture du droit à pension sans préjudice des dispositions légales ou réglementaires en vigueur réglant la participation de l'Etat aux charges de pension de ces organismes.
 
-<a id="art_N41762"></a>
+<a id="art_N41764"></a>
 
 ### Art. 28.
 
 Les dispositions de l'article 14 s'appliquent également aux personnes visées à l'article 197, n° 3 du code des assurances sociales et à l'article 14 de la loi du 29 août 1951 ayant pour objet la réforme de la caisse de pension des employés privés.
 
-<a id="art_N4179E"></a>
+<a id="art_N417A0"></a>
 
 ### Art. 29.
 
 Les décisions prises en exécution du présent chapitre sont susceptibles des recours ordinaires en matière de pension.
 
-<a id="art_N417D5"></a>
+<a id="art_N417D7"></a>
 
 ### Art. 30.
 
@@ -19669,7 +19669,7 @@ Les dispositions du présent chapitre s'appliqueront à partir du premier du moi
 
 ##### Version consolidée applicable au 01/01/2007 : Loi du 26 mars 1974 portant fixation de suppléments de pension à allouer aux personnes devenues victimes d'actes illégaux de l'occupant en cas d'invalidité ou de décès précoces.
 
-<a id="art_N4181D"></a>
+<a id="art_N4181F"></a>
 
 ### Art. 1er.
 
@@ -19697,7 +19697,7 @@ Pourront bénéficier également de la présente loi, les membres de la Force Ar
 
 La reconnaissance des périodes computables est accordée sur présentation au moment de la demande de la pension, d’un certificat à délivrer par l’office de l’Etat des dommages de guerre, sinon par l’administration communale du lieu de résidence au moment du déplacement. Les décisions y relatives prises par les différents régimes de pension remplacent ce certificat pour autant que les conditions d’admission prévues par la présente loi sont remplies. En cas d’application de l’alinéa qui précède, la reconnaissance aura lieu sur présentation d’un certificat de la Force Armée.
 
-<a id="art_N418B4"></a>
+<a id="art_N418B6"></a>
 
 ### Art. 2.
 
@@ -19705,7 +19705,7 @@ Les personnes qui remplissent les conditions prévues à l’article 1er auront 
 
 En cas de décès d’une personne remplissant les conditions prévues à l’article 1er, la pension de survie due, conformément au régime de pension compétent, aux ayants droit qui en font la demande, sera établie d’après les mêmes critères que ceux établis ci-dessus pour la pension de vieillesse.
 
-<a id="art_N418FA"></a>
+<a id="art_N418FC"></a>
 
 ### Art. 3.
 
@@ -19713,7 +19713,7 @@ Dans les régimes de pension non contributifs, le complément différentiel sera
 
 Dans les régimes de pension contributifs, le complément différentiel calculé comme prévu ci-dessous sera ajouté à la pension arrêtée au moment de la réalisation du risque, autant de fois qu’il manque d’années jusqu’à la limite d’âge de retraite, la fraction d’année comptant pour une année entière.
 
-<a id="art_N41935"></a>
+<a id="art_N41937"></a>
 
 ### Art. 4.
 
@@ -19726,7 +19726,7 @@ Pour la détermination du montant du complément différentiel les autorités co
 
 Pour les personnes relevant d’un régime de pension spécial pour fonctionnaires de l’Etat, fonctionnaires communaux et agents des chemins de fer ou dont les pensions sont déterminées en fonction des règles applicables à un tel régime, la détermination du complément se fait conformément au point b) de l’alinéa 1 ci-avant.
 
-<a id="art_N419AA"></a>
+<a id="art_N419AC"></a>
 
 ### Art. 5.
 
@@ -19738,7 +19738,7 @@ S’il s’agit d’un régime de pension contributif, le complément différent
 
 S’il s’agit d’un régime de pension non luxembourgeois, le droit à pension sera apprécié et le complément différentiel sera calculé dans le chef du dernier régime de pension luxembourgeois, contributif ou non contributif applicable, compte tenu des dispositions prévues ci-dessus. Si ce dernier régime est un régime non contributif, il sera procédé, pour la détermination du traitement pensionnable à une reconstitution de carrière en tenant compte des années passées au régime de pension non luxembourgeois.
 
-<a id="art_N419FA"></a>
+<a id="art_N419FC"></a>
 
 ### Art. 6.
 
@@ -19750,7 +19750,7 @@ Le complément différentiel est suspendu:
 
 Il ne sera pas tenu compte du complément différentiel pour la fixation de l'indemnité de rachat ou pour la détermination de la pension due en cas de nouvel engagement par mariage ou partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
-<a id="art_N41A48"></a>
+<a id="art_N41A4A"></a>
 
 ### Art. 7.
 
@@ -19762,37 +19762,37 @@ En cas de réalisation de cette éventualité avant la mise en vigueur de la pr�
 
 En cas d’application des dispositions prévues ci-dessus aux bénéficiaires de la législation concernant les fonctionnaires de l’Etat, la commission des pensions y prévue est compétente pour la constatation de l’invalidité.
 
-<a id="art_N41A98"></a>
+<a id="art_N41A9A"></a>
 
 ### Art. 8.
 
 Le complément différentiel tel qu’il résulte des dispositions de la présente loi est à charge de l’organisme de pension.
 
-<a id="art_N41ACA"></a>
+<a id="art_N41ACC"></a>
 
 ### Art. 9.
 
 Les décisions prises en exécution de la présente loi sont susceptibles des recours ordinaires en matière de pension.
 
-<a id="art_N41AFC"></a>
+<a id="art_N41AFE"></a>
 
 ### Art. 10.
 
 L’article 47 de la loi modifiée du 25 février 1950 concernant l’indemnisation des dommages de guerre aura la teneur suivante: Les rentes et autres indemnités prévues par le présent titre peuvent être cumulées avec les prestations versées à la suite des mêmes dommages de guerre par une institution sociale quelconque, sans préjudice des dispositions ci-après: Les rentes et autres secours alloués pour des dommages de guerre constituant en même temps des accidents du travail sont suspendus jusqu’à concurrence du montant des rentes et secours versés en vertu de la législation concernant les accidents du travail. Les rentes allouées en application de l’article 48 lettre A sont suspendues jusqu’à concurrence du montant des pensions de survie servies par les régimes de pension non contributifs; celles allouées en application de l’article 48 lettre B sont suspendues jusqu’à concurrence de la moitié du montant des éléments de pensions de survie à charge des régimes de pension contributifs. Les dépenses de l’association d’assurance contre les accidents seront remboursées par l’Office de l’Etat des Dommages de Guerre dans la limite de la suspension prévue ci-dessus. Les dépenses des organismes de pension seront remboursées par le même Office à concurrence de la moitié du montant des éléments de pension qui sont à leur charge. Aucun remboursement n’a lieu à partir du premier du mois pendant lequel la victime aurait dépassé ou dépassera l’âge limite obligatoire de retraite. Si l’invalidité ou le décès ne sont pas reconnus comme entièrement imputables aux faits de guerre, le remboursement n’aura lieu que dans la proportion admise pour l’imputabilité.
 
-<a id="art_N41B6F"></a>
+<a id="art_N41B71"></a>
 
 ### Art. 11.
 
 L’article 50 de la même loi est complété par les dispositions suivantes: En cas de décès, survenu après la libération du pays, de suites autres que celles en rapport direct avec des faits de guerre d’une victime de la guerre, frappée d’une incapacité de travail telle qu’elle n’a pu exercer une activité professionnelle soumise à l’assurance pension obligatoire ou qu’elle n’a pu exercer une telle activité professionnelle que tardivement, un revenu correspondant au montant de la rente de guerre sera garanti dans le chef des survivants définis dans la présente loi.
 
-<a id="art_N41BAD"></a>
+<a id="art_N41BAF"></a>
 
 ### Art. 12.
 
 L’application de l’article 49 lettre g alinéas 3 et 4 de la même loi est suspendue en cas de calcul de la pension suivant les dispositions de la présente loi.
 
-<a id="art_N41BDF"></a>
+<a id="art_N41BE1"></a>
 
 ### Art. 13.
 
@@ -19801,7 +19801,7 @@ Sont abrogés:
 1. loi modifiée du 25 février 1950
 2. loi du 21 juin 1946
 
-<a id="art_N41C26"></a>
+<a id="art_N41C28"></a>
 
 ### Art. 14.
 
@@ -19813,7 +19813,7 @@ La présente loi entrera en vigueur le premier du mois suivant sa publication au
 
 ##### **Chapitre I.** — **Définitions**
 
-<a id="art_N41C8D"></a>
+<a id="art_N41C8F"></a>
 
 ### Art. 1er.
 
@@ -19823,7 +19823,7 @@ Est considéré comme régime spécial transitoire le régime de pension régi p
 
 Sont considérés comme régimes spéciaux les régimes de pension régis par la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
 
-<a id="art_N41CF0"></a>
+<a id="art_N41CF2"></a>
 
 ### Art. 2.
 
@@ -19842,13 +19842,13 @@ Est considérée comme activité principale celle dont le revenu est le plus él
 
 ##### **Chapitre II** — ** Coordination du régime général et du régime spécial transitoire**
 
-<a id="art_N41D9A"></a>
+<a id="art_N41D9C"></a>
 
 ### Art. 3.
 
 Le présent chapitre s’applique toutes les fois qu’une personne a été soumise de façon successive ou concomitante au régime général et au régime spécial transitoire relevant d’un ou de plusieurs organismes.
 
-<a id="art_N41DED"></a>
+<a id="art_N41DEF"></a>
 
 ### Art. 4.
 
@@ -19862,7 +19862,7 @@ est assurée rétroactivement conformément à l’article 171 du code des assur
 
 De même, le fonctionnaire, l’agent ou l’employé qui a droit à une pension différée auprès d’un régime spécial transitoire ainsi que le député ou conseiller d’Etat visé par l’article 61, point 5, de la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois peuvent opter pour l’application du présent article. Le délai d’option court jusqu’au jour de l’entrée en jouissance effective de la pension. Cette option est irrévocable. Elle doit être effectuée par écrit auprès de la caisse de pension des employés privés qui informe dans ce cas l’organisme du régime spécial transitoire compétent.
 
-<a id="art_N41E75"></a>
+<a id="art_N41E77"></a>
 
 ### Art. 5.
 
@@ -19872,7 +19872,7 @@ Pour les périodes de congé sans traitement, de service à temps partiel et de 
 
 L’assurance rétroactive ouvre droit au remboursement des cotisations conformément à l’article 213 du code des assurances sociales. Elle n’ouvre pas droit au remboursement de cotisations pour cessation prématurée de l’assurance.
 
-<a id="art_N41EE0"></a>
+<a id="art_N41EE2"></a>
 
 ### Art. 6.
 
@@ -19886,19 +19886,19 @@ En cas de rentrée ultérieure dans le secteur public, le transfert de cotisatio
 
 L’assurance rétroactive n’ouvre pas droit à la restitution de la retenue pour pension opérée au-delà du maximum cotisable.
 
-<a id="art_N41F49"></a>
+<a id="art_N41F4B"></a>
 
 ### Art. 7.
 
 Pour l’appréciation des conditions d’ouverture du droit à pension dans le régime général, les périodes de service qui sont computables pour l’ouverture du droit à la pension dans le régime spécial transitoire sont assimilées à des périodes d’assurance au titre de l’article 171 du code des assurances sociales, pour autant qu’elles ne se superposent pas à des périodes visées aux articles 171, 172, 173, 173bis et 174 du même code.
 
-<a id="art_N41F91"></a>
+<a id="art_N41F93"></a>
 
 ### Art. 8.
 
 Pour l’admission à l’assurance continuée, complémentaire ou facultative ainsi qu’à l’achat rétroactif de périodes dans le régime général conformément aux articles 173, 173bis et 174 du code des assurances sociales, sont assimilées à des périodes d’assurance au titre de l’article 171 du code des assurances sociales les périodes de service qui sont computables pour le calcul de la pension dans le régime spécial transitoire, pour autant qu’elles ne se superposent pas à des périodes visées aux articles 171, 172, 173, 173bis et 174 du même code.
 
-<a id="art_N41FE0"></a>
+<a id="art_N41FE2"></a>
 
 ### Art. 9.
 
@@ -19908,19 +19908,19 @@ Les cotisations versées pour des périodes d’affiliation qui ont donné lieu 
 
 La dernière phrase du deuxième alinéa de l’article 6 est applicable.
 
-<a id="art_N4203E"></a>
+<a id="art_N42040"></a>
 
 ### Art. 9bis.
 
 Si une personne relevant du régime spécial transitoire , exerce une activité accessoire soumise à l’assurance au titre de l’article 171, alinéa 1, point 2 du Code des assurances sociales, les revenus se rapportant à cette activité ne sont pris en compte que jusqu’à concurrence du maximum prévu à l’article 241, alinéa 3, du même code compte tenu de la rémunération prise en compte pour la détermination de la retenue pour pension. N’est pas considéré comme activité accessoire au sens du présent article, l’exercice du mandat de membre de la Chambre des Députés, du mandat de membre du Parlement européen ou de la fonction de membre du Conseil d’Etat.
 
-<a id="art_N42094"></a>
+<a id="art_N42096"></a>
 
 ### Art. 10.
 
 En cas d’ouverture des droits à pension sous le régime spécial transitoire , les revenus cotisables correspondant aux périodes d’assurance accomplies dans le régime général qui ne sont pas prises en considération par le régime spécial transitoire donnent lieu à des prestations conformément à l’article 12 pour autant que les conditions d’attribution soient réalisées dans le régime général compte tenu de l’application de l’article suivant.
 
-<a id="art_N420D2"></a>
+<a id="art_N420D4"></a>
 
 ### Art. 11.
 
@@ -19928,7 +19928,7 @@ L’ouverture du droit à une pension d’invalidité du régime spécial transi
 
 L’ouverture du droit à une pension de survie du régime spécial transitoire vaut accomplissement des conditions d’attribution prévues par le régime général.
 
-<a id="art_N4210D"></a>
+<a id="art_N4210F"></a>
 
 ### Art. 12.
 
@@ -19940,19 +19940,19 @@ Le complément différentiel prévu par la loi modifiée du 26 mars 1974 portant
 
 Sauf en cas de concours d’une pension échue sur la base de l’article 61 de la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois , la mise en compte de la part de pension du régime général ne peut avoir pour effet de porter l’ensemble des prestations, soit au-delà de la pension maximum prévue dans le régime spécial transitoire, soit, dans le cas où il s’avérerait plus favorable, au-delà de la pension maximum prévue à l’article 223 du Code des assurances sociales. L’excédent éventuel est retenu sur la pension du régime spécial transitoire.
 
-<a id="art_N42175"></a>
+<a id="art_N42177"></a>
 
 ### Art. 13.
 
 Lorsque le bénéficiaire d’une pension du régime spécial transitoire justifie de salaires, traitements ou revenus cotisables mis en compte au titre de l’article 171 du Code de la sécurité sociale, la part correspondante de pension du régime général ne prend cours qu’à partir de l’âge de soixante-cinq ans.
 
-<a id="art_N421BF"></a>
+<a id="art_N421C1"></a>
 
 ### Art. 14.
 
 La réduction prévue à l’article 60, point 3, alinéa 2, de la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois correspond à la différence entre la pension du régime général déterminée sans application de la présente loi et la prestation du régime général fixée conformément à l’article 12 de la présente loi.
 
-<a id="art_N42202"></a>
+<a id="art_N42204"></a>
 
 ### Art. 15.
 
@@ -19962,31 +19962,31 @@ Pour autant que le conjoint ou le partenaire décédé n’ait pas été soumis 
 
 ##### **Chapitre III.** — **Coordination du régime général et des régimes spéciaux**
 
-<a id="art_N42270"></a>
+<a id="art_N42272"></a>
 
 ### Art. 16.
 
 Le présent chapitre s’applique toutes les fois qu’une personne a été soumise de façon successive ou concomitante au régime général et à un ou plusieurs régimes spéciaux.
 
-<a id="art_N422B0"></a>
+<a id="art_N422B2"></a>
 
 ### Art. 17.
 
 L’organisme compétent apprécie les conditions d’attribution de la pension en appliquant les dispositions de sa propre législation, y compris celles relatives à l’invalidité. A cet effet, ainsi que pour l’appréciation des conditions de stage prévues au niveau de l’assurance volontaire et des périodes d’éducation d’enfants, il porte en compte les périodes d’assurance accomplies sous les différents régimes ainsi que les autres périodes à mettre en compte pour l’ouverture du droit, pour autant qu’elles ne se superposent pas.
 
-<a id="art_N422E2"></a>
+<a id="art_N422E4"></a>
 
 ### Art. 18. (abrogé)
 
 *Assurance volontaire*
 
-<a id="art_N4231C"></a>
+<a id="art_N4231E"></a>
 
 ### Art. 18bis.
 
 Les seuils et limites applicables, prévus par les règlements d’application visés respectivement aux articles 173, 173bis et 174 du Code de la Sécurité sociale et aux articles 5, 5bis et 6 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, sont ceux du régime compétent au moment de l’introduction de la demande et s’appliquent indifféremment sur toute la période visée par l’assurance volontaire, sauf changement de compétence ultérieur.
 
-<a id="art_N42366"></a>
+<a id="art_N42368"></a>
 
 ### Art. 19.
 
@@ -20000,13 +20000,13 @@ Lorsque le bénéficiaire d’une pension relevant d’un régime spécial justi
 
 ##### **Chapitre IV. ** — **Dispositions communes**
 
-<a id="art_N423F2"></a>
+<a id="art_N423F4"></a>
 
 ### Art. 20.
 
 Si l’un des parents est soumis au régime général et l’autre au régime transitoire spécial ou à un régime spécial, la période à mettre en compte du chef de l’éducation d’un enfant commun ne saurait dépasser celle à mettre en compte si les parents sont soumis à un seul régime de pension.
 
-<a id="art_N4243E"></a>
+<a id="art_N42440"></a>
 
 ### Art. 21.
 
@@ -20020,7 +20020,7 @@ La décision de l’organisme débiteur d’une pension ou part de pension est p
 
 Aucune décision concernant la modification, la suspension ou le retrait d’une pension ou part de pension accordée en vertu de la présente loi ne peut être prise valablement sans que les autres organismes débiteurs d’une pension ou part de pension soient mis en cause.
 
-<a id="art_N424A2"></a>
+<a id="art_N424A4"></a>
 
 ### Art. 22.
 
@@ -20030,13 +20030,13 @@ Les orphelins de père et de mère pour lesquels un droit à une pension est ouv
 
 Si une personne a droit à des pensions de survie du chef de conjoints ou partenaires au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats différents de la part du régime général et du régime spécial transitoire ou spécial, seule la pension de survie la plus élevée est due.
 
-<a id="art_N424EB"></a>
+<a id="art_N424ED"></a>
 
 ### Art. 23.
 
 L’organisme compétent assure le paiement de la totalité de la pension, sous réserve du remboursement des parts de pensions incombant aux autres organismes conformément aux dispositions qui précèdent.
 
-<a id="art_N4252B"></a>
+<a id="art_N4252D"></a>
 
 ### Art. 24.
 
@@ -20044,7 +20044,7 @@ Les contestations pouvant naître de l’application de la présente loi entre l
 
 Les articles 454 à 456 du Code de la sécurité sociale sont applicables.
 
-<a id="art_N42583"></a>
+<a id="art_N42585"></a>
 
 ### Art. 25.
 
@@ -20056,13 +20056,13 @@ Lorsqu’une affaire est de nature à donner lieu à des décisions contraires o
 
 En cas de renvoi, la juridiction saisie peut désigner l’organisme qui assume le paiement des prestations à titre provisoire en attendant qu’il soit définitivement statué sur le litige.
 
-<a id="art_N425D0"></a>
+<a id="art_N425D2"></a>
 
 ### Art. 26.
 
 Dans les litiges concernant l’assurance rétroactive, les organismes du régime spécial transitoire ou des régimes spéciaux sont mis en intervention pour déclaration de jugement commun.
 
-<a id="art_N4260E"></a>
+<a id="art_N42610"></a>
 
 ### Art. 26bis.
 
@@ -20070,7 +20070,7 @@ Les créances réciproques entre les organismes prévus à l’article 2 se comp
 
 ##### **Chapitre V.** — **Dispositions additionnelles**
 
-<a id="art_N42645"></a>
+<a id="art_N42647"></a>
 
 ### Art. 27.
 
@@ -20078,7 +20078,7 @@ Le code des assurances sociales est modifié comme suit:
 
 (...)
 
-<a id="art_N42685"></a>
+<a id="art_N42687"></a>
 
 ### Art. 28.
 
@@ -20086,7 +20086,7 @@ La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’
 
 (...)
 
-<a id="art_N426C5"></a>
+<a id="art_N426C7"></a>
 
 ### Art. 29.
 
@@ -20094,7 +20094,7 @@ La loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fon
 
 (...)
 
-<a id="art_N42705"></a>
+<a id="art_N42707"></a>
 
 ### Art. 30.
 
@@ -20102,13 +20102,13 @@ Si une loi continue à se référer à un «régime non contributif», ce terme 
 
 Si une loi continue à se référer au «régime contributif», ce terme s’entend comme «régime général».
 
-<a id="art_N42740"></a>
+<a id="art_N42742"></a>
 
 ### Art. 31.
 
 L’énumération inscrite à l’article 32 de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales est complétée par la référence à l’article 208, alinéa 4 du code des assurances sociales.
 
-<a id="art_N4277C"></a>
+<a id="art_N4277E"></a>
 
 ### Art. 32.
 
@@ -20116,31 +20116,31 @@ Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent f
 
 Lorsqu’une demande de remboursement ultérieure porte sur des cotisations restituées, par dérogation à l’article 213 du code des assurances sociales seule la moitié de la part des cotisations à supporter par les assurés conformément à l’article 240 est remboursée au demandeur.
 
-<a id="art_N427BC"></a>
+<a id="art_N427BE"></a>
 
 ### Art. 33.
 
 L’article 7, alinéa 2 de la loi modifiée du 21 juillet 1978 portant modification des dispositions concernant les droits à pension de la femme divorcée dans les régimes de pension contributifs prend la teneur suivante:Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent faire revivre les droits attachés à la partie non remboursée lorsqu’elles ont accompli une nouvelle période de quarante-huit mois au titre des articles 171, 173 et 173bis du code des assurances sociales. En outre elles peuvent restituer le montant des cotisations remboursées revalorisées suivant les modalités à fixer par règlement grand-ducal.
 
-<a id="art_N42805"></a>
+<a id="art_N42807"></a>
 
 ### Art. 34.
 
 Les personnes qui ont bénéficié d’une indemnité prévue par l’article 16 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, tel qu’il a été abrogé par la loi du 25 juillet 1985, ainsi que par les dispositions afférentes de la législation régissant les autres régimes transitoires spéciaux peuvent couvrir rétroactivement conformément à l’article 174 du code des assurances sociales les périodes de service afférentes ainsi que, le cas échéant, les périodes au cours desquelles elles ont abandonné ou réduit leur activité professionnelle pour raisons familiales, à condition qu’au moment de la demande elles n’aient ni dépassé l’âge de soixante-cinq ans ni droit à une pension personnelle.
 
-<a id="art_N42846"></a>
+<a id="art_N42848"></a>
 
 ### Art. 35.
 
 Pour les personnes visées à l’article 173bis, alinéa 2 du Code de la Sécurité sociale, les périodes d’occupation auprès d’une représentation diplomatique, économique ou touristique luxembourgeoise à l’étranger, peuvent être couvertes moyennant un achat rétroactif au titre de l’article 174 du même code. L’alinéa 2 de l’article 174 est applicable.
 
-<a id="art_N42882"></a>
+<a id="art_N42884"></a>
 
 ### Art. 36.
 
 La limite d’âge de soixante-cinq ans, prévue aux articles 32 et 34 qui précèdent ainsi qu’à l’article 174, alinéa 1 du code des assurances sociales, ne s’applique pas aux personnes qui ont dépassé cet âge entre le 1er janvier 1999 et l’entrée en vigueur de la présente loi, à condition qu’elles présentent la demande afférente dans un délai d’une année à partir de cette entrée en vigueur.
 
-<a id="art_N428BC"></a>
+<a id="art_N428BE"></a>
 
 ### Art. 37.
 
@@ -20148,7 +20148,7 @@ Dans toute disposition légale ou réglementaire future, la référence à la pr
 
 ##### **Chapitre VI.** — **Disposition abrogatoire et entrée en vigueur**
 
-<a id="art_N42904"></a>
+<a id="art_N42906"></a>
 
 ### Art. 38.
 
@@ -20156,7 +20156,7 @@ Les articles 1er à 19 de la loi du 22 décembre 1989 ayant pour objet la coordi
 
 L’article 22, alinéa 3 de la présente loi ne s’applique qu’en cas d’échéance de l’une des deux pensions de survie après son entrée en vigueur.
 
-<a id="art_N42947"></a>
+<a id="art_N42949"></a>
 
 ### Art. 39.
 
@@ -20170,7 +20170,7 @@ Le mandat des membres représentant les salariés et les employeurs au sein du c
 
 #### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N429BF"></a>
+<a id="art_N429C1"></a>
 
 ### Art. 32.
 
@@ -20198,7 +20198,7 @@ Les conditions et modalités d’application du présent paragraphe sont fixées
 
 #### Version consolidée applicable au 05/07/1994 : Loi du 19 mars 1988 concernant la sécurité dans les administrations et services de l'Etat, dans les établissements publics et dans les écoles.
 
-<a id="art_N42AB0"></a>
+<a id="art_N42AB2"></a>
 
 ### Art. 1er.
 
@@ -20206,7 +20206,7 @@ L’objectif de la présente loi est d’assurer l’intégrité physique de tou
 
 La présente loi vise également l’intégrité physique des tiers qui participent aux activités des institutions visées à l’article 2 ou qui y sont présents, tels que notamment les étudiants, élèves, écoliers, apprentis, patients, pensionnaires, visiteurs, spectateurs et autre public.
 
-<a id="art_N42AEE"></a>
+<a id="art_N42AF0"></a>
 
 ### Art. 2.
 
@@ -20221,13 +20221,13 @@ La présente loi s’applique aux institutions suivantes:
 
 Les activités visées peuvent se dérouler à l’intérieur ou à l’extérieur des bâtiments. Dans les écoles sont visées également toutes les activités périscolaires organisées par l’autorité administrative compétente.
 
-<a id="art_N42B3F"></a>
+<a id="art_N42B41"></a>
 
 ### Art. 3.
 
 Des restrictions aux dispositions prévues par la présente loi ou des modalités particulières de sécurité peuvent être prises par règlement grand-ducal pour les services de l’armée et des forces de l’ordre, pour les instituts et services manipulant des fonds, pour les instituts et services pour handicapés et pour les établissements pénitentiaires, à condition que les mesures de rechange présentent un degré de protection équivalent à celles prévues par la présente loi.
 
-<a id="art_N42B71"></a>
+<a id="art_N42B73"></a>
 
 ### Art. 4.
 
@@ -20250,7 +20250,7 @@ La sécurité visée par la présente loi étend ses effets notamment sur:
 
 Un règlement grand-ducal détermine les mesures et directives à mettre en oeuvre.
 
-<a id="art_N42BDB"></a>
+<a id="art_N42BDD"></a>
 
 ### Art. 5.
 
@@ -20258,7 +20258,7 @@ La présente loi étend ses effets aussi sur la déclaration et la reconnaissanc
 
 Les déclarations d’accidents et de maladies professionnelles de même que les enquêtes éventuelles y relatives sont adressées à l’organisme de sécurité sociale compétent. Elles sont communiquées en copie à l’inspecteur général de la sécurité dans la fonction publique, désigné ci-après par «inspecteur général».
 
-<a id="art_N42C16"></a>
+<a id="art_N42C18"></a>
 
 ### Art. 6.
 
@@ -20274,7 +20274,7 @@ A défaut de responsable au sens de l’alinéa qui précède, le ministre comp�
 
 En cas de cohabitation de plusieurs ministères, administrations, services ou établissements, de même qu’en cas d’activités placées sous l’autorité de plusieurs responsables, les ministres compétents s’entendent au sujet d’arrangements adéquats.
 
-<a id="art_N42C72"></a>
+<a id="art_N42C74"></a>
 
 ### Art. 7.
 
@@ -20297,7 +20297,7 @@ Ces mesures d’organisation sont à déterminer par règlement grand-ducal. Ell
 - gestion des registres de sécurité relatifs notamment à l’évaluation des risques tant courants qu’exceptionnels, à la détermination des mesures et du matériel de protection nécessaires, à la liste des accidents ayant entraîné une incapacité de travail de plus de trois jours et aux rapports sur ces accidents;
 - tenue à la disposition de l’inspecteur général du registre de sécurité prévu à l’alinéa qui précède.
 
-<a id="art_N42CDB"></a>
+<a id="art_N42CDD"></a>
 
 ### Art. 8.
 
@@ -20307,7 +20307,7 @@ Le principe de sa responsabilité n’est pas non plus affecté par les obligati
 
 Aux responsables fonctionnaires et employés respectivement de l’Etat et des communes s’appliquent le cas échéant les dispositions relatives aux droits, devoirs, exonérations et sanctions prévus par respectivement le statut général des fonctionnaires de l’Etat et le statut général des fonctionnaires communaux.
 
-<a id="art_N42D1F"></a>
+<a id="art_N42D21"></a>
 
 ### Art. 9.
 
@@ -20323,7 +20323,7 @@ Le délégué peut collaborer librement et directement en matière de sécurité
 
 Un règlement grand-ducal précisera davantage les charges, la formation, les attributions, les indemnisations ainsi que tous les autres détails relatifs à l’institution et au fonctionnement des services des délégués.
 
-<a id="art_N42D7E"></a>
+<a id="art_N42D80"></a>
 
 ### Art. 10.
 
@@ -20343,7 +20343,7 @@ Les membres des équipes de sécurité sont choisis parmi les participants aux a
 
 Un règlement grand-ducal déterminera la composition, les attributions et le fonctionnement des équipes de sécurité.
 
-<a id="art_N42DFD"></a>
+<a id="art_N42DFF"></a>
 
 ### Art. 11.
 
@@ -20353,7 +20353,7 @@ La commission nationale a pour mission de promouvoir l’élaboration de projets
 
 Un règlement grand-ducal en détermine la composition, l’organisation, le fonctionnement ainsi que le mode de désignation de ses membres.
 
-<a id="art_N42E41"></a>
+<a id="art_N42E43"></a>
 
 ### Art. 12.
 
@@ -20367,7 +20367,7 @@ Les fonctionnaires des carrières moyennes et inférieures peuvent être détach
 
 Le personnel du service peut comprendre en partie des employés et ouvriers de l’Etat dans la mesure des besoins et dans la limite des crédits budgétaires.
 
-<a id="art_N42E97"></a>
+<a id="art_N42E99"></a>
 
 ### Art. 13.
 
@@ -20384,13 +20384,13 @@ L’inspecteur général a notamment les attributions ci-après:
 
 L’inspecteur général peut recourir aux services d’experts et d’organismes agréés en vue de la réception et du contrôle des installations techniques.
 
-<a id="art_N42EEF"></a>
+<a id="art_N42EF1"></a>
 
 ### Art. 14.
 
 L’inspecteur général a libre accès à tous les établissements et à toutes les activités visés par la présente loi. Il est tenu d’informer de sa visite au préalable le responsable ou le délégué compétents et il doit leur adresser une copie de son rapport.
 
-<a id="art_N42F21"></a>
+<a id="art_N42F23"></a>
 
 ### Art. 15.
 
@@ -20404,7 +20404,7 @@ Le relevé en question de même que les rapports de l’inspecteur général et 
 
 A l’occasion des vérifications périodiques précitées, les ministres compétents font connaître au service leurs décisions relatives aux restrictions et modalités spéciales à l’égard de certaines institutions, telles qu’elles sont prévues à l’article 3 ci-dessus.
 
-<a id="art_N42F77"></a>
+<a id="art_N42F79"></a>
 
 ### Art. 16.
 
@@ -20420,7 +20420,7 @@ Un règlement grand-ducal fixe les modalités et procédures d’homologation pr
 
 Un règlement grand-ducal fixe également les modalités de la collaboration de l’inspecteur général avec l’administration des bâtiments publics, la commission des loyers, le comité d’acquisition et les autres administrations et services compétents en vue de l’exécution des dispositions du présent article.
 
-<a id="art_N42FD6"></a>
+<a id="art_N42FD8"></a>
 
 ### Art. 17.
 
@@ -20428,7 +20428,7 @@ L’inspecteur général tient, met à jour et communique à tout service public
 
 Au cas ou il y incompatibilité entre les dispositions législatives ou réglementaires régissant respectivement le secteur privé et le secteur public, l’inspecteur général fait rapport aux ministres respectivement de la fonction publique et de l’éducation nationale ainsi qu’à la commission nationale de la sécurité dans la fonction publique, tout en proposant les modifications nécessaires.
 
-<a id="art_N43011"></a>
+<a id="art_N43013"></a>
 
 ### Art. 18.
 
@@ -20436,7 +20436,7 @@ La fonction de l’inspecteur général de la sécurité dans la fonction publiq
 
 La fonction de l’inspecteur général adjoint de la sécurité dans la fonction publique est classée au grade 16.
 
-<a id="art_N4304C"></a>
+<a id="art_N4304E"></a>
 
 ### Art. 19. Dispositions transitoires.
 
@@ -20446,7 +20446,7 @@ Au moment de la mise en vigueur de la présente loi, l’inspecteur général de
 
 Pour la fixation du traitement de l’intéressé, la nomination précitée est à considérer comme promotion. Le temps que ce même fonctionnaire a passé avant l’entrée en vigueur de la présente loi au dernier échelon de son grade est mis en compte pour la couverture du délai d’attente de quatre ans pour l’avancement en traitement au grade 17.
 
-<a id="art_N43096"></a>
+<a id="art_N43098"></a>
 
 ### Art. 20.
 
@@ -20458,13 +20458,13 @@ Les règlements pris en son exécution restent en vigueur jusqu’à leur rempla
 
 ##### Chapitre 1er. — Dispositions générales et organisation locale
 
-<a id="art_N43120"></a>
+<a id="art_N43122"></a>
 
 ### Art. 1.1. Généralités
 
 **(1.1.01)** Les présentes directives visent la sauvegarde de l’intégrité physique des personnes participant aux activités définies par la loi ainsi que l’éducation à la sécurité dans les écoles.
 
-<a id="art_N43160"></a>
+<a id="art_N43162"></a>
 
 ### Art. 1.2. Définitions
 
@@ -20490,7 +20490,7 @@ Les règlements pris en son exécution restent en vigueur jusqu’à leur rempla
 - Enseignant: un professeur, instituteur, instructeur, chargé ou maître de cours, surveillant et toute personne appelée à diriger ou surveiller une activité scolaire, que ce soit à pleine tâche ou à tâche partielle, temporaire ou occasionnelle. Sont visés aussi les moniteurs, contremaîtres, préposés, formateurs et autres personnes ayant à charge, au niveau de la sécurité du travail notamment, l’initiation et la surveillance des apprentis, stagiaires, volontaires et autres débutants dans les établissements assujettis, autres que les écoles,
 - Elèves: les enfants, adolescents et adultes suivant une formation dans une école, y compris notamment les enfants gardés dans les crèches ou garderies et y compris les apprentis, stagiaires, volontaires et autres débutants soumis à un régime de sécurité du travail dans les établissements assujettis, autres que les écoles.
 
-<a id="art_N431F2"></a>
+<a id="art_N431F4"></a>
 
 ### Art. 1.3. Normes
 
@@ -20502,7 +20502,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 
 **(1.3.03)** Les certificats et rapports d’expertises en question sont à verser au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N4325B"></a>
+<a id="art_N4325D"></a>
 
 ### Art. 1.4. Exceptions
 
@@ -20531,7 +20531,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 - à la conclusion obligatoire de contrats d’entretien et/ou de contrôle supplémentaires et particuliers,
 - à des analyses, expertises, réceptions et autres examens supplémentaires de même qu’à la production de certificats de conformité, de notices d’instructions, de fiches techniques et d’autres preuves et spécifications techniques particulières.
 
-<a id="art_N432FC"></a>
+<a id="art_N432FE"></a>
 
 ### Art. 1.5. Dispenses
 
@@ -20546,7 +20546,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 
 **(1.5.03)** Le ministre ne peut accorder des dispenses que de cas en cas, pour des dispositions déterminées et uniquement si l’efficacité de la protection visée par le présent règlement n’est pas entravée.
 
-<a id="art_N4336C"></a>
+<a id="art_N4336E"></a>
 
 ### Art. 1.6. Mise en vigueur
 
@@ -20560,7 +20560,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 
 **(1.6.03)** Sans préjudice d’échéances différentes fixées notamment par des directives communautaires figurant sur la liste spéciale des textes applicables, telle que cette liste est spécifiée à l’article 17 de la loi et au paragraphe (1.3.01) ci-dessus, l’application aux activités déjà existantes des dispositions d’ordre architectural et matériel du présent règlement peut être différée à condition qu’il ne se présente pas de risques inacceptables. Dans ces cas, les dispositions en question sont appliquées dans la mesure des moyens financiers et d’après la liste des priorités et urgences spécifiée à l’article 1.25..
 
-<a id="art_N433D9"></a>
+<a id="art_N433DB"></a>
 
 ### Art. 1.7. Expertise et réception des installations et équipements nouveaux
 
@@ -20580,7 +20580,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 
 **(1.7.08)** Les rapports respectifs de réception et d’expertise sont adressés au ministre et au responsable. Ils sont conservés au registre de sécurité local.
 
-<a id="art_N43489"></a>
+<a id="art_N4348B"></a>
 
 ### Art. 1.8. Homologation des installations et équipements anciens
 
@@ -20601,7 +20601,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 
 **(1.8.06)** En fin d’opération, l’homologation peut être prononcée, même si certaines directives du présent règlement ne sont pas appliquées, mais si des mesures appropriées et suffisantes sont prises pour garantir une sécurité au moins équivalente.
 
-<a id="art_N43529"></a>
+<a id="art_N4352B"></a>
 
 ### Art. 1.9. Enquête sur les accidents et incidents
 
@@ -20615,7 +20615,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 
 **(1.9.05)** Le registre des accidents et incidents de même que les rapports d’enquête précités sont à verser au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N435A9"></a>
+<a id="art_N435AB"></a>
 
 ### Art. 1.10. Education et surveillance
 
@@ -20623,7 +20623,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 
 **(1.10.02)** En principe, les élèves doivent être surveillés constamment par les enseignants ou par d’autres personnes qualifiées et compétentes. Les dispositions et mesures y afférentes doivent être intégrées aux règlements d’ordre intérieur et d’organisation scolaire.
 
-<a id="art_N435F9"></a>
+<a id="art_N435FB"></a>
 
 ### Art. 1.11. Principes généraux de prévention
 
@@ -20639,7 +20639,7 @@ Ces normes, règlements, directives et autres prescriptions figurent d’office 
 8. prendre des mesures de protection collective par priorité à des mesures de protection individuelle;
 9. donner les instructions appropriées aux personnes concernées.
 
-<a id="art_N43659"></a>
+<a id="art_N4365B"></a>
 
 ### Art. 1.12. Obligations diverses du responsable
 
@@ -20666,7 +20666,7 @@ Ces personnes faisant partie de l’équipe de sécurité au sens de l’article
 
 **(1.12.06)** Le responsable fait en sorte que tout membre du personnel placé sous son autorité, en cas de danger grave et immédiat pour sa propre sécurité et/ou celle d’autres personnes, puisse, en cas d’impossibilité de contacter le supérieur hiérarchique compétent et en tenant compte de ses connaissances et moyens techniques, prendre les mesures appropriées pour éviter les conséquences d’un tel danger. Son action n’entraîne pour lui aucun préjudice, à moins qu’il n’ait agi de manière inconsidérée ou qu’il ait commis une négligence lourde.
 
-<a id="art_N43713"></a>
+<a id="art_N43715"></a>
 
 ### Art. 1.13. Evaluation des risques
 
@@ -20702,7 +20702,7 @@ Ces mesures sont dans l’ordre notamment:
 
 **(1.13.07)** Les mesures concernant la sécurité, l’hygiène et la santé au travail ne doivent en aucun cas entraîner des charges financières pour les membres du personnel.
 
-<a id="art_N437F8"></a>
+<a id="art_N437FA"></a>
 
 ### Art. 1.14. Service local de sécurité, Délégué à la sécurité
 
@@ -20743,7 +20743,7 @@ En présence de plusieurs délégués dans un même établissement ou en cas de 
 - le faire participer aux visites de l’inspecteur,
 - requérir son avis sur les projets d’aménagement, de construction et d’équipement, sur les propositions de règles et de consignes intéressant la sécurité de même que sur les répartitions budgétaires influant sur la sécurité.
 
-<a id="art_N438CE"></a>
+<a id="art_N438D0"></a>
 
 ### Art. 1.15. Collaboration de l’inspecteur avec le délégué
 
@@ -20756,7 +20756,7 @@ En présence de plusieurs délégués dans un même établissement ou en cas de 
 
 **(1.15.02)** L’inspecteur peut baser ses propres rapports sur les positions exprimées par les délégués concernés, voire, dans les cas d’établissements, d’aménagements, d’installations et d’équipements qui ne présentent pas de risques accrus, assimiler les rapports des délégués concernés aux siens et les classer et diffuser comme prévu par la loi.
 
-<a id="art_N4392E"></a>
+<a id="art_N43930"></a>
 
 ### Art. 1.16. Interventions des experts et organismes agréés
 
@@ -20816,7 +20816,7 @@ L’agent concerné doit dans un pareil cas en plus indiquer les mesures à pren
 
 L’expert ou l’agent de l’organisme agréé confirme dans son rapport l’assistance et le concours du délégué au sens du présent paragraphe.
 
-<a id="art_N43A9B"></a>
+<a id="art_N43A9D"></a>
 
 ### Art. 1.17. Collaboration de l’inspecteur avec des personnes et services compétents extérieurs
 
@@ -20826,7 +20826,7 @@ L’expert ou l’agent de l’organisme agréé confirme dans son rapport l’a
 
 **(1.17.03)** En cas d’objets à traiter confidentiellement, les personnes compétentes en font mention à l’inspecteur qui s’abstient alors de diffuser son rapport et qui ajourne le classement afférent dans les dossiers officiels jusqu’après la conclusion des marchés et contrats envisagés.
 
-<a id="art_N43AFB"></a>
+<a id="art_N43AFD"></a>
 
 ### Art. 1.18. Consultation et participation du personnel, Comité local de sécurité
 
@@ -20883,7 +20883,7 @@ L’ordre du jour est approuvé et mis au point en début de chaque séance et l
 
 Les procès-verbaux sont intégrés au registre de sécurité local.
 
-<a id="art_N43C60"></a>
+<a id="art_N43C62"></a>
 
 ### Art. 1.19. Information du personnel
 
@@ -20906,7 +20906,7 @@ Les procès-verbaux sont intégrés au registre de sécurité local.
 2. prendre des mesures et donner des instructions pour permettre aux membres du personnel et à toutes les autres personnes éventuellement exposées, en cas de danger grave, immédiat et qui ne peut être évité, d’arrêter leur activité et/ou de se mettre en sécurité en quittant immédiatement le lieu de travail;
 3. sauf exception dûment motivée, s’abstenir de demander aux membres du personnel et à toutes les autres personnes éventuellement exposées, de reprendre leur activité dans une situation où persiste un danger grave et immédiat.
 
-<a id="art_N43CF7"></a>
+<a id="art_N43CF9"></a>
 
 ### Art. 1.20. Formation du personnel
 
@@ -20937,7 +20937,7 @@ La formation prévue au paragraphe (1.20.01) doit se passer durant le temps de t
 
 La formation prévue au paragraphe (1.20.03) doit se passer durant le temps de travail, soit à l’intérieur, soit à l’extérieur de l’établissement.
 
-<a id="art_N43DA6"></a>
+<a id="art_N43DA8"></a>
 
 ### Art. 1.21. Obligations du personnel
 
@@ -20952,7 +20952,7 @@ La formation prévue au paragraphe (1.20.03) doit se passer durant le temps de t
 5. concourir, avec le responsable, avec le délégué et avec les autres personnes prédésignées à cette fin, aussi longtemps que nécessaire, pour permettre l’accomplissement de toutes les tâches ou exigences imposées par le présent règlement et par les règles de l’art afin de protéger la sécurité et la santé des travailleurs au travail;
 6. concourir, avec le responsable, avec le délégué et avec les autres personnes prédésignées à cette fin, aussi longtemps que nécessaire, pour permettre au responsable d’assurer que le milieu et les conditions de travail sont sûrs et sans risques pour la sécurité et la santé à l’intérieur de leur champ d’activité.
 
-<a id="art_N43E0D"></a>
+<a id="art_N43E0F"></a>
 
 ### Art. 1.22. Equipe de sécurité
 
@@ -21017,7 +21017,7 @@ Cette formation doit avoir lieu durant le temps de travail, soit à l’intérie
 - à l’appel nominal et au recensement des présences,
 - à l’encadrement des évacués à l’extérieur et à leur transfert éventuel vers un lieu de rassemblement extérieur.
 
-<a id="art_N43F66"></a>
+<a id="art_N43F68"></a>
 
 ### Art. 1.23. Livres d’entretien
 
@@ -21034,7 +21034,7 @@ En présence d’un contrat d’entretien et de maintenance préventive avec une
 
 **(1.23.03)** En cas de contrôles, d’expertises, d’essais ou d’autres interventions de la part d’experts ou d’organismes agréés, ces derniers doivent vérifier et approuver en même temps les livres d’entretien en question et en faire mention dans leurs rapports.
 
-<a id="art_N43FDF"></a>
+<a id="art_N43FE1"></a>
 
 ### Art. 1.24. Registre de sécurité local
 
@@ -21078,7 +21078,7 @@ En présence d’un contrat d’entretien et de maintenance préventive avec une
 
 **(1.24.07)** Le registre de sécurité local est accessible sur simple demande orale, adressée au responsable ou au délégué notamment, à tous les membres du personnel intéressés et concernés de même qu’aux membres du comité local de sécurité et de l’équipe de sécurité.
 
-<a id="art_N440D0"></a>
+<a id="art_N440D2"></a>
 
 ### Art. 1.25. Liste des priorités et urgences
 
@@ -21142,7 +21142,7 @@ Les différentes positions peuvent avoir trait notamment:
 
 **(1.25.09)** La liste des priorités et urgences est soumise une fois par an au moins à la délibération du comité local de sécurité. Elle est accessible aux membres du personnel et aux autres personnes concernées. Le responsable leur fait tenir des copies sur demande.
 
-<a id="art_N4421B"></a>
+<a id="art_N4421D"></a>
 
 ### Art. 1.26. Rubrique sécurité des cahiers des charges
 
@@ -21157,7 +21157,7 @@ Les différentes positions peuvent avoir trait notamment:
 
 ##### Chapitre 2. — Hygiène
 
-<a id="art_N44286"></a>
+<a id="art_N44288"></a>
 
 ### Art. 2.1. Généralités
 
@@ -21167,7 +21167,7 @@ Les différentes positions peuvent avoir trait notamment:
 
 **(2.1.03)** Les locaux, les voies de circulation de même que les dégagements et espaces intérieurs et extérieurs, doivent être entretenus et nettoyés régulièrement.
 
-<a id="art_N442E6"></a>
+<a id="art_N442E8"></a>
 
 ### Art. 2.2. Dimensions des locaux et des postes d’activités
 
@@ -21195,7 +21195,7 @@ La hauteur des locaux et leur superficie doivent être déterminées en fonction
 
 **(2.2.11)** Il est interdit d’admettre dans un local, même passagèrement ou occasionnellement, un nombre de personnes dépassant les limites maximales définies au présent article.
 
-<a id="art_N443E1"></a>
+<a id="art_N443E3"></a>
 
 ### Art. 2.3. Aération
 
@@ -21226,7 +21226,7 @@ L’aération mécanique forcée et réglée doit être planifiée, conçue et r
 
 **(2.3.08)** Il est interdit d’admettre dans un local, une salle ou un établissement, un nombre de personnes dépassant les limites résultant des conditions minimales d’aération et de volume d’air.
 
-<a id="art_N444BC"></a>
+<a id="art_N444BE"></a>
 
 ### Art. 2.4. Elimination des émanations dangereuses, nocives, insalubres ou incommodes
 
@@ -21250,7 +21250,7 @@ En présence de plusieurs polluants la somme des quotients des concentrations me
 
 **(2.4.05)** En cas de doute, le responsable doit se faire délivrer par l’entrepreneur ou le fournisseur des attestations certifiant le caractère inoffensif de ces matériaux ou faire faire des expertises y afférentes. Ces attestations ou rapports d’expertises sont à verser au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N44561"></a>
+<a id="art_N44563"></a>
 
 ### Art. 2.5. Température ambiante
 
@@ -21267,7 +21267,7 @@ Il faut tenir compte simultanément:
 
 **(2.5.03)** L’humidité relative de l’air est à maintenir entre 40 et 70 %.
 
-<a id="art_N445DA"></a>
+<a id="art_N445DC"></a>
 
 ### Art. 2.6. Protection solaire
 
@@ -21279,7 +21279,7 @@ Il faut tenir compte simultanément:
 
 **(2.6.04)** Les protections solaires ne doivent ni entraver l’aération des locaux, ni ombrager trop les surfaces d’éclairage naturel en dehors des périodes d’ensoleillement ou pendant la saison froide.
 
-<a id="art_N4464A"></a>
+<a id="art_N4464C"></a>
 
 ### Art. 2.7. Prévention du bruit
 
@@ -21302,7 +21302,7 @@ Il faut tenir compte simultanément:
 - la réduction des temps d’exposition,
 - les moyens de protection individuelle.
 
-<a id="art_N446F0"></a>
+<a id="art_N446F2"></a>
 
 ### Art. 2.8. Eclairage
 
@@ -21326,7 +21326,7 @@ Il faut tenir compte simultanément:
 
 ##### Chapitre 3. — Implantation
 
-<a id="art_N447BB"></a>
+<a id="art_N447BD"></a>
 
 ### Art. 3.1. Situation et orientation
 
@@ -21344,7 +21344,7 @@ Il faut tenir compte simultanément:
 - de la prévention des apports excessifs de chaleur et de lumière aveuglante,
 - des types d’activités prévus.
 
-<a id="art_N4482B"></a>
+<a id="art_N4482D"></a>
 
 ### Art. 3.2. Isolation par rapport aux locaux contigus
 
@@ -21356,7 +21356,7 @@ Il faut tenir compte simultanément:
 
 **(3.2.04)** L’aménagement d’un établissement assujetti est interdit à côté, au-dessus et au-dessous d’établissements présentant des dangers spéciaux d’incendie, d’explosion, de contamination ou de pollution.
 
-<a id="art_N4489B"></a>
+<a id="art_N4489D"></a>
 
 ### Art. 3.3. Accès des services de secours et évacuation des personnes sur la voie publique
 
@@ -21370,7 +21370,7 @@ Il faut tenir compte simultanément:
 
 **(3.3.05)** Les voies, espaces, passages et autres chemins prévus pour l’évacuation des personnes sur la voie publique et la mise en oeuvre de secours, doivent être libres et dégagés en permanence de tout obstacle, de tout véhicule en stationnement et de toute autre entrave. Le responsable est tenu de veiller à la signalisation adéquate et de pourvoir à la surveillance nécessaire. En présence de chantiers, des mesures appropriées sont à prendre.
 
-<a id="art_N4491B"></a>
+<a id="art_N4491D"></a>
 
 ### Art. 3.4. Stabilité et solidité
 
@@ -21378,7 +21378,7 @@ Il faut tenir compte simultanément:
 
 ##### Chapitre 4. — Aménagements extérieurs
 
-<a id="art_N44966"></a>
+<a id="art_N44968"></a>
 
 ### Art. 4.1. Dispositions générales
 
@@ -21394,7 +21394,7 @@ Il faut tenir compte simultanément:
 
 **(4.1.02)** La superficie totale du terrain d’implantation d’un établissement, y compris l’aire d’emprise des bâtiments, mais hormis les terrains sportifs et les aires de jeux en plein air, doit être calculée sur base de 25 m2 au moins par personne.
 
-<a id="art_N449D2"></a>
+<a id="art_N449D4"></a>
 
 ### Art. 4.2. Circulation, stationnement et arrêt des véhicules dans l’enceinte de l’établissement
 
@@ -21412,7 +21412,7 @@ Il faut tenir compte simultanément:
 
 **(4.2.07)** En présence de chantiers, des mesures de rechange appropriées et suffisantes doivent être prises, signalisées et communiquées.
 
-<a id="art_N44A72"></a>
+<a id="art_N44A74"></a>
 
 ### Art. 4.3. Aires de récréation et de détente dans les écoles
 
@@ -21424,7 +21424,7 @@ Il faut tenir compte simultanément:
 
 **(4.3.04)** La superficie de cette aire de récréation couverte est à calculer sur base de 0,25 m2 au moins par élève.
 
-<a id="art_N44AEE"></a>
+<a id="art_N44AF0"></a>
 
 ### Art. 4.4. Aires de sports et de jeux en plein air dans les écoles
 
@@ -21447,7 +21447,7 @@ Il faut tenir compte simultanément:
 
 **(4.4.05)** Les rapports de ces contrôles sont à intégrer au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N44B8A"></a>
+<a id="art_N44B8C"></a>
 
 ### Art. 4.5. Prévention des accidents à l’extérieur des bâtiments
 
@@ -21499,7 +21499,7 @@ Il faut tenir compte simultanément:
 
 ##### Chapitre 5. — Résistance au feu
 
-<a id="art_N44D18"></a>
+<a id="art_N44D1A"></a>
 
 ### Art. 5.1. Généralités
 
@@ -21521,7 +21521,7 @@ Il faut tenir compte simultanément:
 
 **(5.1.05)** Ces certificats et rapports d’expertises sont à verser au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N44DB1"></a>
+<a id="art_N44DB3"></a>
 
 ### Art. 5.2. Résistance au feu de la construction
 
@@ -21531,7 +21531,7 @@ Il faut tenir compte simultanément:
 
 **(5.2.03)** Dans le cas de bâtiments à deux et à trois niveaux, cette durée doit être de respectivement 60 et 90 min, à l’exclusion de celle de la charpente de la toiture qui peut rester limitée à 30 min.
 
-<a id="art_N44E11"></a>
+<a id="art_N44E13"></a>
 
 ### Art. 5.3. Eléments de construction coupe-feu
 
@@ -21550,7 +21550,7 @@ Il faut tenir compte simultanément:
 - à la suite de travaux de réparation, d’extension ou de transformation,
 - aux portes coupe-feu et coupe-fumée faisant l’objet de l’article qui suit.
 
-<a id="art_N44E8E"></a>
+<a id="art_N44E90"></a>
 
 ### Art. 5.4. Portes coupe-feu et portes coupe-fumée
 
@@ -21574,7 +21574,7 @@ Il faut tenir compte simultanément:
 
 **(5.4.10)** Au cas où une pareille porte automatique coulissante ne remplit pas suffisamment la condition coupe-feu ou coupe-fumée requise, elle peut être combinée dans un sas avec une porte coupe-fumée ou coupe-feu battante normale, tenue ouverte au moyen de ventouses électromagnétiques asservies à l’alarme.
 
-<a id="art_N44F5E"></a>
+<a id="art_N44F60"></a>
 
 ### Art. 5.5. Résistance au feu des matériaux
 
@@ -21592,7 +21592,7 @@ Il faut tenir compte simultanément:
 
 ##### Chapitre 6. — Agencement intérieur et compartimentage
 
-<a id="art_N44FDC"></a>
+<a id="art_N44FDE"></a>
 
 ### Art. 6.1. Généralités concernant l’agencement intérieur
 
@@ -21602,7 +21602,7 @@ Il faut tenir compte simultanément:
 
 **(6.1.03)** En cas d’un terrain en pente, le séjour prolongé de personnes est admis dans un étage dont une sortie se trouve en contrebas des abords extérieurs naturels immédiats, à condition qu’il en existe au moins une autre située de plain-pied avec le terrain adjacent ou à un niveau plus élevé.
 
-<a id="art_N4503C"></a>
+<a id="art_N4503E"></a>
 
 ### Art. 6.2. Généralités concernant le compartimentage
 
@@ -21618,7 +21618,7 @@ Des qualités de résistance au feu supplémentaires et particulières, c.à.d. 
 
 **(6.2.05)** Un compartimentage n’est pas requis dans le cas de constructions qui ne comprennent ni cave ni grenier et dont le seul étage de même que les sorties sont aménagés au niveau des alentours.
 
-<a id="art_N450C5"></a>
+<a id="art_N450C7"></a>
 
 ### Art. 6.3. Compartiment servant au séjour prolongé de personnes
 
@@ -21636,7 +21636,7 @@ Des qualités de résistance au feu supplémentaires et particulières, c.à.d. 
 
 **(6.3.07)** Dans des cas spéciaux, un compartiment servant au séjour prolongé de personnes peut également s’étendre à deux étages successifs avec escalier intérieur ou autre liaison intérieure, pour autant que les deux issues réglementaires restent accessibles à partir de chacun des deux niveaux, indépendamment des liaisons intérieures.
 
-<a id="art_N45165"></a>
+<a id="art_N45167"></a>
 
 ### Art. 6.4. Compartiments techniques
 
@@ -21648,7 +21648,7 @@ Des qualités de résistance au feu supplémentaires et particulières, c.à.d. 
 
 **(6.4.04)** Si, pour une raison de service ou de fonctionnement, un local technique du genre précité devait être aménagé dans un compartiment servant au séjour prolongé de personnes, ou s’il devait commander une voie d’issue d’un pareil compartiment, ce local isolé serait à considérer comme compartiment technique et sa résistance au feu de même que la résistance au feu de sa porte coupe-feu de communication ne devraient être inférieures à 60 min.
 
-<a id="art_N451D5"></a>
+<a id="art_N451D7"></a>
 
 ### Art. 6.5. Gaines techniques et gaines d’ascenseurs
 
@@ -21664,7 +21664,7 @@ Des qualités de résistance au feu supplémentaires et particulières, c.à.d. 
 
 **(6.5.06)** En vue d’une dérogation éventuellement requise à l’égard des sas à installer devant les ascenseurs qu1 ne sont pas intégrés dans une cage d’escaliers, il y a lieu de se tenir à la procédure de dispense prévue à l’article 1.5. ci-dessus. La dispense visée peut comporter l’abandon des sas à l’intérieur des compartiments servant au séjour prolongé de personnes, à condition que l’isolation par des sas coupe-feu 60 min reste garantie à l’égard des compartiments et locaux techniques et que le désenfumage prévu à l’article 9.11. ci-après soit mis en oeuvre et qu’il soit rendu, selon les besoins, mécanique, forcé, réglé et asservi.
 
-<a id="art_N45265"></a>
+<a id="art_N45267"></a>
 
 ### Art. 6.6. Compartiments d’issue
 
@@ -21676,7 +21676,7 @@ Des qualités de résistance au feu supplémentaires et particulières, c.à.d. 
 
 **(6.6.04)** Un escalier libre extérieur desservant les étages est isolé de la même manière à l’égard des façades attenantes.
 
-<a id="art_N452D5"></a>
+<a id="art_N452D7"></a>
 
 ### Art. 6.7. Résistance au feu des aménagements intérieurs
 
@@ -21693,7 +21693,7 @@ Des qualités de résistance au feu supplémentaires et particulières, c.à.d. 
 
 ##### Chapitre 7. — Issues et dégagements intérieurs
 
-<a id="art_N45350"></a>
+<a id="art_N45352"></a>
 
 ### Art. 7.1. Généralités
 
@@ -21713,7 +21713,7 @@ Des qualités de résistance au feu supplémentaires et particulières, c.à.d. 
 
 **(7.1.04)** Il est strictement interdit d’admettre dans les locaux, salles, compartiments et bâtiments un nombre de personnes supérieur au nombre admissible sur base des dispositions du présent chapitre concernant en particulier la disposition, le nombre et la largeur des issues.
 
-<a id="art_N453D9"></a>
+<a id="art_N453DB"></a>
 
 ### Art. 7.2. Disposition des issues
 
@@ -21725,7 +21725,7 @@ Des revêtements ou décorations miroitants de même que des affichages en parti
 
 **(7.2.03)** Les sorties doivent donner directement dans les corridors des compartiments ou dans d’autres locaux ou aménagements en communication directe avec ces corridors. En aucun cas, une voie d’issue ne peut mener à travers un local contigu autrement affecté ou soustrait à la supervision et au libre accès des personnes présentes dans le premier local.
 
-<a id="art_N45442"></a>
+<a id="art_N45444"></a>
 
 ### Art. 7.3. Largeur et hauteur des issues
 
@@ -21749,7 +21749,7 @@ Des revêtements ou décorations miroitants de même que des affichages en parti
 
 **(7.3.10)** En présence d’un grand nombre de personnes, dans une salle de fêtes notamment, les différentes issues doivent être réparties et dimensionnées de façon équivalente dans la mesure du possible.
 
-<a id="art_N45512"></a>
+<a id="art_N45514"></a>
 
 ### Art. 7.4. Issues réglementaires et issues accessoires
 
@@ -21759,7 +21759,7 @@ Des revêtements ou décorations miroitants de même que des affichages en parti
 
 **(7.4.03)** Ces issues sont qualifiées d’issues accessoires ou de secours. Elles ne peuvent entrer en ligne de compte que dans le cadre de l’homologation des installations anciennes prévue à l’article 1.8., qu’en rapport avec un éventuel renforcement des mesures de sécurité réglementaires ainsi qu’à titre d’issue de secours des compartiments techniques ou des locaux dangereux à l’usage exclusif du personnel de service et d’entretien.
 
-<a id="art_N45572"></a>
+<a id="art_N45574"></a>
 
 ### Art. 7.5. Sens d’ouverture et nombre des issues
 
@@ -21771,7 +21771,7 @@ Des revêtements ou décorations miroitants de même que des affichages en parti
 
 **(7.5.04)** A partir du seuil de tout local, de toute chambre et de toute salle servant au séjour prolongé de personnes, il doit y avoir moyen d’emprunter au moins deux voies d’issue réglementaires distinctes et aucun de ces seuils ne peut se trouver en cul-de-sac. Une dérogation à cette règle peut être prononcée dans le cadre de la procédure de dispense prévue à l’article 1.5. à condition que l’occupation totale des locaux concernés ne dépasse pas 50 personnes et qu’aucune activité dangereuse ne se déroule dans les locaux en question.
 
-<a id="art_N455E2"></a>
+<a id="art_N455E4"></a>
 
 ### Art. 7.6. Accessibilité des issues
 
@@ -21789,7 +21789,7 @@ Des revêtements ou décorations miroitants de même que des affichages en parti
 
 **(7.6.07)** La résistance à la poussée d’une porte d’issue de même qu’à la manoeuvre d’un quelconque dispositif d’ouverture manuel ne doit en aucun cas dépasser la force dont sont capables les personnes susceptibles de sortir. Dans les écoles et les maisons de soins en particulier cette force ne doit pas dépasser quelque 100 N.
 
-<a id="art_N45682"></a>
+<a id="art_N45684"></a>
 
 ### Art. 7.7. Dispositions supplémentaires relatives aux portes
 
@@ -21813,7 +21813,7 @@ Elles doivent en outre être munies d’un frein les empêchant de se fermer bru
 
 **(7.7.09)** Une porte coulissante ou autre automatique extérieure doit, en cas d’alarme, de panne de courant ou d’un autre dérangement influant sur son fonctionnement, soit s’ouvrir d’elle-même et donner libre passage, soit fonctionner accessoirement comme porte battante normale réglementaire, soit être dédoublée d’une ou de plusieurs portes battantes normales réglementaires.
 
-<a id="art_N4574B"></a>
+<a id="art_N4574D"></a>
 
 ### Art. 7.8. Dispositions supplémentaires concernant les corridors
 
@@ -21825,7 +21825,7 @@ Elles doivent en outre être munies d’un frein les empêchant de se fermer bru
 
 **(7.8.04)** Dans le même ordre d’idées, la proéminence de vantaux ou battants de portes ou de fenêtres doit être masquée et protégée soit par l’installation de dispositifs ou d’équipements de guidage et de protection, soit par la mise en place dans les encoches et recoins créés de meubles, de vestiaires ou d’autres équipements. Cette saillie des parties mobiles des portes, fenêtres ou autres aménagements n’est pas à prendre en considération si elle ne dépasse pas 20 cm.
 
-<a id="art_N457BB"></a>
+<a id="art_N457BD"></a>
 
 ### Art. 7.9. Dispositions supplémentaires concernant les escaliers
 
@@ -21858,7 +21858,7 @@ Une dispense aux termes de l’article 1.5. ne peut être prononcée en ce qui c
 
 **(7.9.11)** Les escaliers extérieurs desservant les étages doivent répondre aux critères fixés ci-dessus en ce qui concerne les escaliers intérieurs. Toutefois, les marches et contremarches peuvent ne pas être pleines, à condition que les risques d’accidents par chute d’objets errants ou par coincement d’un pied soient éliminés.
 
-<a id="art_N458B4"></a>
+<a id="art_N458B6"></a>
 
 ### Art. 7.10. Signalisation
 
@@ -21938,7 +21938,7 @@ Les signaux lumineux ou acoustiques doivent être réenclenchés immédiatement 
 
 ##### Chapitre 8. — Installations techniques, dispositions générales et communes
 
-<a id="art_N45AA2"></a>
+<a id="art_N45AA4"></a>
 
 ### Art. 8.1. Définitions et généralités
 
@@ -21950,7 +21950,7 @@ Les signaux lumineux ou acoustiques doivent être réenclenchés immédiatement 
 
 **(8.1.04)** Dès que les risques en présence atteignent une envergure importante, ces locaux dangereux doivent disposer d’une issue de secours supplémentaire pour le personnel de service. Toutes leurs portes d’issue doivent s’ouvrir de l’intérieur vers l’extérieur et elles doivent pouvoir s’ouvrir même si le dispositif de verrouillage est fermé.
 
-<a id="art_N45B12"></a>
+<a id="art_N45B14"></a>
 
 ### Art. 8.2. Installations techniques dangereuses
 
@@ -21971,7 +21971,7 @@ Les signaux lumineux ou acoustiques doivent être réenclenchés immédiatement 
 - les installations, conduites et récipients sous pression,
 - les installations techniques des piscines.
 
-<a id="art_N45B80"></a>
+<a id="art_N45B82"></a>
 
 ### Art. 8.3. Installations techniques de sécurité
 
@@ -21991,7 +21991,7 @@ Les signaux lumineux ou acoustiques doivent être réenclenchés immédiatement 
 
 **(8.3.02)** L’énumération ci-dessus ne doit pas être considérée comme liste des équipements de sécurité indispensables. L’aménagement de certaines installations techniques de sécurité n’est de rigueur que dans des cas spéciaux et doit résulter de l’application des règles générales de l’art et de la sécurité en vigueur ou communément admises.
 
-<a id="art_N45BF5"></a>
+<a id="art_N45BF7"></a>
 
 ### Art. 8.4. Normes, réception et mise en service
 
@@ -22003,7 +22003,7 @@ Les signaux lumineux ou acoustiques doivent être réenclenchés immédiatement 
 
 **(8.4.04)** Les pièces spécifiées ci-dessus et en particulier les rapports et certificats de réception sont à verser au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N45C68"></a>
+<a id="art_N45C6A"></a>
 
 ### Art. 8.5. Entretien et maintenance
 
@@ -22030,7 +22030,7 @@ Les signaux lumineux ou acoustiques doivent être réenclenchés immédiatement 
 
 **(8.5.06)** Au cas où l’ensemble des travaux respectivement de maintenance préventive et de surveillance sont confiés à une même entreprise, le responsable veille à ce qu’il soit imposé à cette entreprise l’application correcte des mesures d’information et de collaboration au sens du paragraphe précédent.
 
-<a id="art_N45D1E"></a>
+<a id="art_N45D20"></a>
 
 ### Art. 8.6. Surveillance
 
@@ -22054,7 +22054,7 @@ Ils doivent être équipés de dispositifs de signalisation et d’avertissement
 
 Au cas où la présence ininterrompue du personnel de service s’avérerait impossible, en ce qui concerne les petits bâtiments notamment, un ou plusieurs membres du personnel ou autres personnes présentes doivent pouvoir assurer l’intégrité physique des personnes en cas de danger.
 
-<a id="art_N45DD9"></a>
+<a id="art_N45DDB"></a>
 
 ### Art. 8.7. Contrôles
 
@@ -22072,7 +22072,7 @@ Elles sont proposées par l’expert ou l’organisme concerné dans son offre d
 
 **(8.7.05)** Les rapports des contrôles sont à conserver au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N45E6B"></a>
+<a id="art_N45E6D"></a>
 
 ### Art. 8.8. Accès et signalisation
 
@@ -22080,7 +22080,7 @@ Elles sont proposées par l’expert ou l’organisme concerné dans son offre d
 
 **(8.8.02)** Par contre les équipements, organes de commande et dispositifs d’alerte, de secours, de sauvetage, de secourisme et de protection, installés à l’intention du public, doivent être facilement accessibles, signalisés clairement et uniformément et ils doivent être munis de brèves indications au sujet de leur maniement et au sujet du comportement à respecter.
 
-<a id="art_N45EBB"></a>
+<a id="art_N45EBD"></a>
 
 ### Art. 8.9. Alimentation de sécurité
 
@@ -22098,7 +22098,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(8.9.06)** Les états de veille, de fonctionnement et de charge de l’alimentation de sécurité doivent être facilement contrôlables et supervisibles, au moyen de signaux témoin notamment, aussi en ce qui concerne les dispositifs et blocs autonomes.
 
-<a id="art_N45F54"></a>
+<a id="art_N45F56"></a>
 
 ### Art. 8.10. Ventilation des locaux à équipements techniques dangereux
 
@@ -22112,7 +22112,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(8.10.05)** En ce qui concerne la protection coupe-feu les gaines de ventilation doivent être assimilées, soit aux gaines techniques au sens de l’article 6.5. ci-dessus, ou y être incorporées, soit aux canalisations au sens de l’article 8.11. ci-dessous.
 
-<a id="art_N45FD4"></a>
+<a id="art_N45FD6"></a>
 
 ### Art. 8.11. Canalisations, conduites et réseaux de distribution
 
@@ -22124,7 +22124,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(8.11.04)** Les conduites des réseaux électriques et de gaz, de même que toutes les autres conduites susceptibles de s’enflammer ou de propager un incendie de même que leur appareillage et leurs organes de commande, de surveillance et de distribution ne doivent être installés, ni dans des locaux dangereux à risques d’incendie particuliers, ni dans des locaux servant au séjour prolongé de personnes, à moins qu’elles ne reçoivent une protection ou un revêtement assurant une résistance au feu d’au moins 60 min.
 
-<a id="art_N46044"></a>
+<a id="art_N46046"></a>
 
 ### Art. 8.12. Dégagement des compartiments et locaux techniques
 
@@ -22132,7 +22132,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 ##### Chapitre 9. — Installations techniques, dispositions supplémentaires
 
-<a id="art_N4608F"></a>
+<a id="art_N46091"></a>
 
 ### Art. 9.1. Chauffage central
 
@@ -22165,13 +22165,13 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(9.1.05)** Le sol de la chaufferie fonctionnant au combustible liquide doit être imperméable. Le seuil des baies d’accès doit être surélevé d’au moins 10 cm de façon à former cuvette étanche. Toutes dispositions doivent être prises pour que le combustible accidentellement répandu ne puisse se déverser dans les égouts.
 
-<a id="art_N4614A"></a>
+<a id="art_N4614C"></a>
 
 ### Art. 9.2. Climatisation
 
 **(9.2.01)** Les installations centrales de climatisation incluant la production d’énergie par combustion sont assimilées aux chaufferies centrales et doivent satisfaire aux conditions de sécurité qui les concernent.
 
-<a id="art_N4618A"></a>
+<a id="art_N4618C"></a>
 
 ### Art. 9.3. Chauffage indépendant
 
@@ -22195,7 +22195,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(9.3.07)** Les réserves de combustibles entreposées dans le local même doivent être limitées à la contenance du réservoir incorporé ou à la consommation d’une seule journée de chauffage. Elles doivent être stockées, conservées et protégées de manière que les risques d’incendie, d’explosion et de pollution soient exclus.
 
-<a id="art_N4623D"></a>
+<a id="art_N4623F"></a>
 
 ### Art. 9.4. Dépôt des combustibles du chauffage central
 
@@ -22203,7 +22203,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(9.4.02)** L’utilisation, même temporaire, de ce local de stockage à des fins accessoires, de même que sa traversée par des conduits de fumée, des canalisations de gaz ou d’électricité ainsi que par d’autres tuyauteries dangereuses sont interdites.
 
-<a id="art_N4628D"></a>
+<a id="art_N4628F"></a>
 
 ### Art. 9.5. Dépôts de gaz
 
@@ -22211,7 +22211,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(9.5.02)** Les dépôts centraux d’installations de gaz combustibles ne peuvent être aménagés qu’à l’extérieur, à l’écart des bâtiments et des dégagements du public. Leur installation doit être strictement conforme aux règles de l’art et de la sécurité.
 
-<a id="art_N462DD"></a>
+<a id="art_N462DF"></a>
 
 ### Art. 9.6. Dépôts de bouteilles à gaz et dépôts de substances dangereuses et inflammables
 
@@ -22236,7 +22236,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(9.6.02)** Les quantités de gaz et de substances dangereuses et inflammables stockés doivent être aussi réduites que possible et ne pas dépasser les limites qui suffisent pour garantir le service continu et le réapprovisionnement.
 
-<a id="art_N46361"></a>
+<a id="art_N46363"></a>
 
 ### Art. 9.7. Installations électriques
 
@@ -22250,7 +22250,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 **(9.7.05)** Dans les locaux où peuvent s’accumuler des concentrations dangereuses de gaz ou d’autres matières explosibles, l’installation électrique doit être antidéflagrante.
 
-<a id="art_N463E1"></a>
+<a id="art_N463E3"></a>
 
 ### Art. 9.8. Ascenseur
 
@@ -22274,7 +22274,7 @@ L’alimentation de sécurité est contre-indiquée dans tous les cas d’instal
 
 En présence de dangers accrus et à l’égard de groupes à risques particulièrement sensibles, les ascenseurs et monte-charges doivent, sauf dispense aux termes de l’article 1.5. ci-dessus, être équipés de dispositifs d’urgence assurant au moins, en cas de panne de courant, leur déplacement automatique jusqu’au plus proche niveau et l’ouverture des portes.
 
-<a id="art_N464AA"></a>
+<a id="art_N464AC"></a>
 
 ### Art. 9.9. Alarme et détection
 
@@ -22315,7 +22315,7 @@ Les autres établissements ne doivent disposer d’un système de détection aut
 
 **(9.9.08)** Sauf dispense aux termes de l’article 1.5., en ce qui concerne plus particulièrement les installations d’envergure réduite et/ou les cas d’un propre personnel qualifié, toute installation de détection automatique, y compris les installations y asservies ou en faisant partie, doit faire l’objet d’un contrat de maintenance préventive garantissant sa fiabilité et son bon fonctionnement permanent.
 
-<a id="art_N465A2"></a>
+<a id="art_N465A4"></a>
 
 ### Art. 9.10. Eclairage de sécurité
 
@@ -22337,7 +22337,7 @@ L’éclairage de sécurité doit suivre et renforcer le balisage des issues. Il
 
 **(9.10.04)** Les mêmes appareils et dispositifs peuvent être utilisés comme éclairage de sécurité des locaux et compartiments techniques inaccessibles au public.
 
-<a id="art_N46634"></a>
+<a id="art_N46636"></a>
 
 ### Art. 9.11. Désenfumage
 
@@ -22362,13 +22362,13 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 ##### Chapitre 10. — Prévention des incendies
 
-<a id="art_N466D5"></a>
+<a id="art_N466D7"></a>
 
 ### Art. 10.1. Généralités
 
 **(10.1.01)** Les dispositions ci-après se rapportent à la prévention des incendies dans la mesure où celle-ci dépend de l’organisation des bâtiments et du comportement des personnes.
 
-<a id="art_N46715"></a>
+<a id="art_N46717"></a>
 
 ### Art. 10.2. Surveillance des bâtiments
 
@@ -22378,7 +22378,7 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 **(10.2.03)** Après une longue période de non-occupation, une inspection générale des lieux et des installations doit être effectuée avant la reprise des activités.
 
-<a id="art_N46775"></a>
+<a id="art_N46777"></a>
 
 ### Art. 10.3. Ordre et propreté
 
@@ -22399,7 +22399,7 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 - à la protection et à la signalisation, en attendant leur remise en état, des défectuosités constituant un danger pour les personnes,
 - au nettoyage régulier et soigné de tout l’établissement.
 
-<a id="art_N4680B"></a>
+<a id="art_N4680D"></a>
 
 ### Art. 10.4. Défense de fumer
 
@@ -22407,13 +22407,13 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 **(10.4.02)** Des précautions appropriées doivent être prises sur la base de l’évaluation des risques au sens de l’article 1.13. ainsi qu’au sens du paragraphe (14.3.02) du présent règlement,en ce qui concerne la défense de faire usage de feux nus et de flammes non protégées.
 
-<a id="art_N4685B"></a>
+<a id="art_N4685D"></a>
 
 ### Art. 10.5. Matériaux facilement inflammables
 
 **(10.5.01)** Sans préjudice des dispositions de l’article 6.7. limitant l’aménagement de matériaux facilement inflammables aux locaux ne servant qu’à des occupations ordinaires, des précautions particulières doivent être prises à l’occasion de l’emploi de tentures, rideaux, lambrequins, guirlandes, papiers de décoration, matériaux d’habillage flottants ou d’autres objets, jouets et matériels en papier, paraffine, ouate, celluloïd ou en un autre matériau facilement inflammable ou pouvant dégager des émanations dangereuses.
 
-<a id="art_N4689B"></a>
+<a id="art_N4689D"></a>
 
 ### Art. 10.6. Substances facilement inflammables ou explosibles
 
@@ -22434,7 +22434,7 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 ##### Chapitre 11. — Moyens de lutte contre l’incendie
 
-<a id="art_N46922"></a>
+<a id="art_N46924"></a>
 
 ### Art. 11.1. Généralités
 
@@ -22448,7 +22448,7 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 **(11.1.05)** Au cas où l’alerte des services de secours locaux est donnée par l’intermédiaire d’un surveillant, les consignes y afférentes doivent être affichées et communiquées.
 
-<a id="art_N469A2"></a>
+<a id="art_N469A4"></a>
 
 ### Art. 11.2. Extincteurs portatifs d’incendie
 
@@ -22494,7 +22494,7 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 **(11.2.13)** Il consignera les contrôles et exercices précités dans le registre de sécurité local et présentera les notes afférentes à l’inspecteur sur demande.
 
-<a id="art_N46ADA"></a>
+<a id="art_N46ADC"></a>
 
 ### Art. 11.3. Autres moyens de lutte contre l’incendie
 
@@ -22508,13 +22508,13 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 ##### Chapitre 12. — Evacuation des bâtiments et prévention des risques de panique
 
-<a id="art_N46B55"></a>
+<a id="art_N46B57"></a>
 
 ### Art. 12.1. Généralités
 
 **(12.1.01)** Le présent chapitre complète les dispositions sur l’évacuation des personnes et la prévention des risques de panique dans la mesure où celles-ci dépendent de l’élaboration et de la mise en oeuvre de plans d’alerte et de plans d’évacuation, de même que de l’entraînement et de l’information des personnes.
 
-<a id="art_N46B95"></a>
+<a id="art_N46B97"></a>
 
 ### Art. 12.2. Plan d’alerte
 
@@ -22540,7 +22540,7 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 
 **(12.2.06)** Le plan d’alerte de même que les modifications, adaptations et exercices y relatifs sont à intégrer au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N46C46"></a>
+<a id="art_N46C48"></a>
 
 ### Art. 12.3. Plan d’évacuation
 
@@ -22562,7 +22562,7 @@ Il doit être installé en stricte conformité aux règles de l’art en ce qui 
 - la discipline à l’extérieur, l’écartement des personnes des bâtiments et des aires réservées à la mise en oeuvre des secours éventuels,
 - les signaux ou ordres de fin d’alarme et les consignes y afférentes.
 
-<a id="art_N46CC1"></a>
+<a id="art_N46CC3"></a>
 
 ### Art. 12.4. Exercice d’évacuation
 
@@ -22594,13 +22594,13 @@ Un deuxième exercice au moins doit avoir lieu à l’improviste au cours de l�
 
 ##### Chapitre 13. — Aménagements intérieurs et prévention des accidents à l’intérieur des bâtiments
 
-<a id="art_N46D90"></a>
+<a id="art_N46D92"></a>
 
 ### Art. 13.1. Généralités
 
 **(13.1.01)** Au-delà des dispositions concernant la construction, le compartimentage, l’agencement, les issues et les dégagements intérieurs de même que les installations techniques, le présent chapitre complète les directives sur les aménagements et équipements intérieurs du point de vue de la prévention des accidents.
 
-<a id="art_N46DD0"></a>
+<a id="art_N46DD2"></a>
 
 ### Art. 13.2. Sols et revêtements des planchers et escaliers
 
@@ -22628,7 +22628,7 @@ Un deuxième exercice au moins doit avoir lieu à l’improviste au cours de l�
 
 **(13.2.10)** L’accès sur les toits en matériaux n’offrant pas une résistance suffisante ne peut être autorisé que si des équipements sont fournis pour que le travail soit réalisé de manière sûre.
 
-<a id="art_N46EAD"></a>
+<a id="art_N46EAF"></a>
 
 ### Art. 13.3. Garde-corps
 
@@ -22643,13 +22643,13 @@ Un deuxième exercice au moins doit avoir lieu à l’improviste au cours de l�
 - être d’une exécution et d’un finissage tels que des blessures accidentelles tant aux points d’assemblage qu’à des pointes, arêtes, bavures ou coins saillants, soient évitées,
 - être pourvus d’une traverse supérieure dont l’exécution ou la configuration préviennent les tentatives de glissade et de dépôt d’objets.
 
-<a id="art_N46F13"></a>
+<a id="art_N46F15"></a>
 
 ### Art. 13.4. Revêtements des parois
 
 **(13.4.01)** Jusqu’à une hauteur de 2 m à partir du sol, les revêtements des parois et des autres éléments verticaux de la construction délimitant les espaces de circulation et de séjour des personnes, ne doivent ni présenter des surfaces rugueuses ni comporter des pointes, arêtes, crochets, poignées, loquets ou autres proéminences pointues ou aiguës. Dans les mêmes espaces, les arêtes des piliers, colonnes et coins saillants de murs éventuels, doivent être arrondies.
 
-<a id="art_N46F53"></a>
+<a id="art_N46F55"></a>
 
 ### Art. 13.5. Fenêtres
 
@@ -22663,7 +22663,7 @@ Le type de fenêtre combiné et basculant à la base satisfait aux exigences dé
 
 **(13.5.04)** Les fenêtres et les éclairages zénithaux doivent être conçus de manière conjointe avec l’équipement ou bien équipés de dispositifs leur permettant d’être nettoyés sans risques pour les travailleurs effectuant ce travail ainsi que pour les personnes présentes dans le bâtiment et autour de celui-ci. Des précautions analogues sont à prendre en présence de risques de blessures résultant de la chute de débris de verre sur des personnes circulant ou séjournant dans des zones de danger situées plus bas.
 
-<a id="art_N46FCC"></a>
+<a id="art_N46FCE"></a>
 
 ### Art. 13.6. Portes et portails
 
@@ -22695,7 +22695,7 @@ Lorsque les lieux de travail sont occupés, les portes doivent pouvoir être ouv
 
 Ils doivent posséder des dispositifs d’arrêt d’urgence facilement identifiables et accessibles et pouvoir également, sauf s’ils s’ouvrent automatiquement en cas de panne d’énergie, être ouverts manuellement.
 
-<a id="art_N470C7"></a>
+<a id="art_N470C9"></a>
 
 ### Art. 13.7. Vitres
 
@@ -22711,7 +22711,7 @@ Ils doivent posséder des dispositifs d’arrêt d’urgence facilement identifi
 - aux vitrages des armoires et vitrines pour autant que celles-ci sont installées dans les couloirs, corridors et aires de circulation et de séjour,
 - aux fenêtres et autres baies vitrées des façades aménagées à moins de 1 m à partir du sol.
 
-<a id="art_N4713B"></a>
+<a id="art_N4713D"></a>
 
 ### Art. 13.8. Vestiaires
 
@@ -22721,13 +22721,13 @@ Ils doivent posséder des dispositifs d’arrêt d’urgence facilement identifi
 
 **(13.8.03)** Les pieds des portemanteaux indépendants ou mobiles doivent être exécutés et aménagés de manière à prévenir le trébuchement. Ils ne doivent pas saillir de plus de 20 cm.
 
-<a id="art_N4719B"></a>
+<a id="art_N4719D"></a>
 
 ### Art. 13.9. Plafonds et faux plafonds
 
 **(13.9.01)** Les plafonds et leurs revêtements, les faux plafonds et leurs éléments et structures de fixation, de même que les luminaires et tous les autres équipements et aménagements fixés aux plafonds et faux plafonds, doivent être exécutés, installés, aménagés et fixés en conformité aux règles de l’art et de la sécurité et, notamment, de manière que tout risque de détachement, de heurt ou de chute soit exclu.
 
-<a id="art_N471DB"></a>
+<a id="art_N471DD"></a>
 
 ### Art. 13.10. Charge des planchers et des équipements
 
@@ -22737,7 +22737,7 @@ Ils doivent posséder des dispositifs d’arrêt d’urgence facilement identifi
 
 **(13.10.03)** Le matériel de rangement accessoire, tel que notamment les échelles et les escabeaux, doit être exécuté, entretenu et utilisé dans le respect strict des règles de l’art et de la sécurité. Il doit être déposé dans des endroits inaccessibles aux personnes en général et aux élèves dans les écoles en particulier et il ne doit être utilisé que par le personnel qualifié.
 
-<a id="art_N4723B"></a>
+<a id="art_N4723D"></a>
 
 ### Art. 13.11. Equipement mobilier
 
@@ -22761,7 +22761,7 @@ Ils doivent posséder des dispositifs d’arrêt d’urgence facilement identifi
 
 **(13.11.04)** Les équipements disposés de manière à comporter des risques de blessures en cas de heurt ou de chute, tels que les radiateurs, les bancs et bacs à fleurs, les armoires et vitrines suspendues placés dans les voies de circulation et dans les lieux de séjour de personnes, doivent être masqués, cachés ou protégés. Ces précautions sont à prendre plus spécialement dans les écoles en général et dans les classes préscolaires et autres d’enfants en bas âge en particulier.
 
-<a id="art_N472D1"></a>
+<a id="art_N472D3"></a>
 
 ### Art. 13.12. Entretien
 
@@ -22779,7 +22779,7 @@ Ils doivent posséder des dispositifs d’arrêt d’urgence facilement identifi
 
 **(13.12.07)** Les travaux d’entretien, de réparation et de nettoyage doivent être effectués dans le respect strict des règles de la prévention des accidents de travail. Le responsable est tenu d’y veiller tant en ce qui concerne son propre personnel que les firmes mandatées.
 
-<a id="art_N47371"></a>
+<a id="art_N47373"></a>
 
 ### Art. 13.13. Voies de circulation, Zones de danger
 
@@ -22797,13 +22797,13 @@ Lorsque des moyens de transport sont utilisés sur des voies de circulation, une
 
 Les mesures appropriées doivent être prises pour protéger les personnes qui sont autorisées à pénétrer dans les zones de danger. Les zones de danger doivent être signalées de manière bien visible.
 
-<a id="art_N47403"></a>
+<a id="art_N47405"></a>
 
 ### Art. 13.14. Escaliers et trottoirs roulants
 
 **(13.14.01)** Les escaliers et trottoirs roulants doivent fonctionner de manière sûre. Ils doivent être équipés des dispositifs de sécurité nécessaires. Ils doivent posséder des dispositifs d’arrêt d’urgence facilement identifiables et accessibles.
 
-<a id="art_N47443"></a>
+<a id="art_N47445"></a>
 
 ### Art. 13.15. Quais et rampes de chargement
 
@@ -22817,7 +22817,7 @@ Lorsque cela est techniquement possible, les quais de chargement dépassant une 
 
 **(13.15.04)** Dans le cas d’un déplacement vertical de palettes ou de marchandises sur des plates-formes ou estrades élevées, l’accès et le dépôt sur ces dernières ne peut avoir lieu que dans un sas protégé à barrières sûres et réciproquement asservies.
 
-<a id="art_N474BC"></a>
+<a id="art_N474BE"></a>
 
 ### Art. 13.16. Lieux de travail extérieurs, dispositions particulières
 
@@ -22834,7 +22834,7 @@ Lorsque cela est techniquement possible, les quais de chargement dépassant une 
 
 ##### Chapitre 14. — Sécurité dans les laboratoires et les ateliers, Sécurité du travail
 
-<a id="art_N47538"></a>
+<a id="art_N4753A"></a>
 
 ### Art. 14.1. Généralités
 
@@ -22850,7 +22850,7 @@ Sont visées également toutes les autres occupations qui se déroulent dans les
 - les bonnes conditions hygiéniques et l’évacuation des émanations nocives, dangereuses, insalubres et incommodes,
 - les issues et dégagements intérieurs, les installations techniques, la prévention des incendies et la prévention des accidents.
 
-<a id="art_N475A4"></a>
+<a id="art_N475A6"></a>
 
 ### Art. 14.2. Education dans les laboratoires et ateliers scolaires
 
@@ -22869,7 +22869,7 @@ Sont visées également toutes les autres occupations qui se déroulent dans les
 
 **(14.2.03)** Au cours des manipulations, l’élève doit être surveillé par l’enseignant responsable, qui, en cas de manquement grave, doit interrompre l’activité et reprendre l’éducation précitée dans la mesure des besoins.
 
-<a id="art_N47620"></a>
+<a id="art_N47622"></a>
 
 ### Art. 14.3. Accès aux machines et travaux dangereux
 
@@ -22895,7 +22895,7 @@ Une autorisation ou un permis de travail d’un type analogue est de rigueur à 
 
 **(14.3.05)** Si la législation du travail prévoit un âge minimum supérieur à 15 ans pour l’accès à un travail dangereux ou à une machine dangereuse, cette disposition est à appliquer aussi dans les écoles.
 
-<a id="art_N476CE"></a>
+<a id="art_N476D0"></a>
 
 ### Art. 14.4. Agencement et aménagement
 
@@ -22913,7 +22913,7 @@ Une autorisation ou un permis de travail d’un type analogue est de rigueur à 
 
 **(14.4.04)** Les postes, tables et établis, les étaux, outils, appareils et machines de même que les sièges, appuis et estrades doivent, dans la mesure des possibilités techniques, être soit adaptés soit adaptables à la taille des personnes. Ils doivent permettre une posture naturelle, favoriser le déroulement des mouvements et des opérations et être conçus correctement des points de vue physiologique et ergonomique.
 
-<a id="art_N47751"></a>
+<a id="art_N47753"></a>
 
 ### Art. 14.5. Accès et circulation
 
@@ -22925,7 +22925,7 @@ Une autorisation ou un permis de travail d’un type analogue est de rigueur à 
 
 **(14.5.04)** Les consignes relatives aux dispositions du présent article doivent être communiquées aux intéressés et affichées. Leur respect doit être surveillé.
 
-<a id="art_N477C1"></a>
+<a id="art_N477C3"></a>
 
 ### Art. 14.6. Ordre et propreté
 
@@ -22950,7 +22950,7 @@ Une autorisation ou un permis de travail d’un type analogue est de rigueur à 
 
 **(14.6.07)** Les outils, les matériaux et les substances doivent être rangés et déposés dans les armoires, rayonnages, magasins, tiroirs et autres endroits et supports destinés à cette fin. Aucun outil, aucun matériau et aucune substance ne peuvent être laissés sur place après usage. Les quantités de matériaux et de substances prélevées ne peuvent dépasser les besoins effectifs des activités du moment.
 
-<a id="art_N47877"></a>
+<a id="art_N47879"></a>
 
 ### Art. 14.7. Utilisation et entretien
 
@@ -22979,7 +22979,7 @@ Une autorisation ou un permis de travail d’un type analogue est de rigueur à 
 - le chantier est barré, protégé et marqué,
 - l’enseignant responsable surveille les opérations, en cas de participation d’élèves.
 
-<a id="art_N4793A"></a>
+<a id="art_N4793C"></a>
 
 ### Art. 14.8. Equipement personnel
 
@@ -22993,7 +22993,7 @@ Une autorisation ou un permis de travail d’un type analogue est de rigueur à 
 - le port d’un habillement non flottant,
 - le retroussement de manches flottantes.
 
-<a id="art_N4799D"></a>
+<a id="art_N4799F"></a>
 
 ### Art. 14.9. Equipements de protection individuelle
 
@@ -23032,7 +23032,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 
 **(14.9.10)** Le responsable doit surveiller l’utilisation, l’entretien, la manipulation, le nettoyage et le rangement des équipements de protection individuelle. Lorsque ceux-ci sont usés ou endommagés ils sont à remplacer ou à réparer immédiatement.
 
-<a id="art_N47AA7"></a>
+<a id="art_N47AA9"></a>
 
 ### Art. 14.10. Organes de commande
 
@@ -23044,7 +23044,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 
 **(14.10.04)** Les leviers des grands ciseaux et des autres instruments analogues de même que tout autre dispositif mécanique susceptible de heurter et de blesser des personnes dans un mouvement incontrôlé, doivent être munis d’un arrêt automatique, d’un mécanisme de verrouillage de même que d’un dispositif de freinage empêchant les manoeuvres brusques.
 
-<a id="art_N47B17"></a>
+<a id="art_N47B19"></a>
 
 ### Art. 14.11. Interrupteurs d’urgence
 
@@ -23058,7 +23058,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 
 **(14.11.05)** Le réarmement des interrupteurs d’urgence ne doit être effectué que parle personnel qualifié et après que tous les contrôles et mises au point nécessaires aient été effectués.
 
-<a id="art_N47B97"></a>
+<a id="art_N47B99"></a>
 
 ### Art. 14.12. Distribution de l’énergie
 
@@ -23074,7 +23074,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 
 **(14.12.04)** Une exception à ces dispositions n’est à tolérer que lorsque les besoins de la formation l’exigent.
 
-<a id="art_N47C14"></a>
+<a id="art_N47C16"></a>
 
 ### Art. 14.13. Récipients de gaz
 
@@ -23090,7 +23090,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 - protéger, contrôler et soigner leurs valves, leurs robinets, leurs tuyaux de même que les raccordements y relatifs,
 - assurer l’accès facile et permanent des valves d’interruption d’urgence.
 
-<a id="art_N47C7D"></a>
+<a id="art_N47C7F"></a>
 
 ### Art. 14.14. Dispositifs de protection
 
@@ -23113,7 +23113,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 
 **(14.14.04)** La mise en place correcte des dispositifs de protection indispensables des machines, installations et instruments présentant des dangers accrus, tels que les presses, les ciseaux, les machines à haute puissance et les installations à haute tension, doit être assurée par des verrouillages ou mécanismes automatiques.
 
-<a id="art_N47D0F"></a>
+<a id="art_N47D11"></a>
 
 ### Art. 14.15. Equipement auxiliaire
 
@@ -23121,7 +23121,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 
 **(14.15.02)** L’équipement auxiliaire doit faire partie intégrante de l’équipement standard des laboratoires et des ateliers, conformément aux règles de l’art et de la sécurité. Le responsable est tenu d’en surveiller la mise à disposition, le bon état et l’emploi correct.
 
-<a id="art_N47D5F"></a>
+<a id="art_N47D61"></a>
 
 ### Art. 14.16. Substances dangereuses
 
@@ -23136,7 +23136,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 
 **(14.16.03)** L’approvisionnement et la consommation de poisons et d’autres substances hautement toxiques doivent être consignés dans un registre spécial à intégrer au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N47DCF"></a>
+<a id="art_N47DD1"></a>
 
 ### Art. 14.17. Lieux de travail
 
@@ -23149,7 +23149,7 @@ L’appréciation ci-dessus doit être revue en fonction des changements interve
 - au nettoyage régulier des lieux de travail et des installations et dispositifs pour assurer des conditions adéquates d’hygiène,
 - à l’entretien régulier et au contrôle du fonctionnement des installations et dispositifs de sécurité destinés à la prévention ou à l’élimination de dangers.
 
-<a id="art_N47E2F"></a>
+<a id="art_N47E31"></a>
 
 ### Art. 14.18. Machines et équipements de travail
 
@@ -23191,7 +23191,7 @@ Les informations et les notices d’information doivent contenir au minimum les 
 - tout équipement de travail soit approprié pour protéger les travailleurs contre les risques d’incendie ou de réchauffement de l’équipement de travail, ou d’émanation de gaz, poussières, liquides, vapeurs ou d’autres substances produites par l’équipement de travail ou utilisées ou stockées dans ce dernier,
 - tout équipement de travail soit approprié pour prévenir les risques d’explosion de l’équipement de travail ou de substances produites par l’équipement de travail ou utilisées ou stockées dans ce dernier.
 
-<a id="art_N47F2A"></a>
+<a id="art_N47F2C"></a>
 
 ### Art. 14.19. Manutention manuelle sûre de charges
 
@@ -23223,7 +23223,7 @@ Ils doivent veiller à ce que les membres du personnel reçoivent, en outre, une
 - des exigences de l’activité,
 - des facteurs individuels de risque.
 
-<a id="art_N47FF4"></a>
+<a id="art_N47FF6"></a>
 
 ### Art. 14.20. Equipements à écran de visualisation
 
@@ -23257,7 +23257,7 @@ Il s’appuie sur les normes et règles de l’art au sens de l’article 1.3. c
 4. les systèmes doivent afficher l’information dans un format et à un rythme adaptés aux opérateurs;
 5. les principes d’ergonomie doivent être appliqués en particulier au traitement de l’information par l’homme.
 
-<a id="art_N480DC"></a>
+<a id="art_N480DE"></a>
 
 ### Art. 14.21. Exposition à des agents cancérigènes
 
@@ -23365,7 +23365,7 @@ Un vêtement de protection et un équipement individuel de protection respiratoi
 
 **(14.21.20)** Les valeurs limites tolérables ressortissent des directives, normes et règles de l’art telles qu’elles sont reprises dans la liste spéciale des textes applicables au sens de l’article 17 de la loi et du paragraphe (1.3.01) du présent règlement. En présence de plusieurs polluants la somme des quotients des valeurs mesurées parles valeurs limites tolérables respectives ne doit pas être plus grande que 1.
 
-<a id="art_N48343"></a>
+<a id="art_N48345"></a>
 
 ### Art. 14.22. Exposition à des agents biologiques
 
@@ -23490,7 +23490,7 @@ La notification visée au présent paragraphe contient:
 
 **(14.22.21)** Les mesures et moyens appropriés aux fins du paragraphe précédent de même que la classification des agents biologiques figureront dans la liste spéciale des textes applicables au sens de l’article 17 de la loi et du paragraphe (1.3.01) du présent règlement.
 
-<a id="art_N485EC"></a>
+<a id="art_N485EE"></a>
 
 ### Art. 14.23. Travailleur isolé
 
@@ -23502,7 +23502,7 @@ La notification visée au présent paragraphe contient:
 2. respecter scrupuleusement les consignes de sécurité, d’hygiène et de santé prises et communiquées par le responsable;
 3. obtempérer immédiatement aux injonctions des supérieurs en matière d’évacuation d’un lieu dangereux, d’utilisation des moyens de protection, d’emploi des équipements auxiliaires, de manutention ou de manipulation correctes de même qu’en matière de tout autre ordre visant à éliminer ou à diminuer un risque.
 
-<a id="art_N4864A"></a>
+<a id="art_N4864C"></a>
 
 ### Art. 14.24. Locaux de repos
 
@@ -23516,7 +23516,7 @@ Cette disposition n’est pas applicable lorsque le personnel travaille dans des
 
 **(14.24.04)** Les femmes enceintes et les mères allaitantes doivent avoir la possibilité de se reposer en position allongée dans des conditions appropriées.
 
-<a id="art_N486C3"></a>
+<a id="art_N486C5"></a>
 
 ### Art. 14.25. Equipements sanitaires
 
@@ -23544,13 +23544,13 @@ Les douches doivent être équipées d’eau courante chaude et froide. Des mesu
 
 ##### Chapitre 15. — Installations spéciales
 
-<a id="art_N48799"></a>
+<a id="art_N4879B"></a>
 
 ### Art. 15.1. Généralités
 
 **(15.1.01)** Outre les dispositions du présent règlement applicables à tous les établissements, les restrictions et renforcements ci-après s’imposent à l’égard d’installations spéciales, telles que salles de fêtes, cantines et restaurants, installations sportives, internats, homes d’enfants, établissements de soins, dépôts dangereux et parkings couverts.
 
-<a id="art_N487D9"></a>
+<a id="art_N487DB"></a>
 
 ### Art. 15.2. Salles de fêtes
 
@@ -23602,7 +23602,7 @@ Elle doit être séparée de la salle de fêtes même par des aménagements et �
 
 **(15.2.14)** Il est strictement interdit d’admettre dans une salle ou un ensemble de salles au sens du présent article un nombre de personnes supérieur à celui calculé sur la base des dispositions résumées au paragraphe (15.2.02) ci-dessus et notamment sur la base des issues, de l’aération et de la superficie.
 
-<a id="art_N4892A"></a>
+<a id="art_N4892C"></a>
 
 ### Art. 15.3. Cantine, restaurant et cuisine
 
@@ -23628,7 +23628,7 @@ Elle doit être séparée de la salle de fêtes même par des aménagements et �
 
 **(15.3.05)** Il faut appliquer à la cuisine en outre toutes les règles relatives à la sécurité dans les laboratoires et les ateliers ainsi qu’à celles relatives à la sécurité du travail.
 
-<a id="art_N489CF"></a>
+<a id="art_N489D1"></a>
 
 ### Art. 15.4. Installations sportives couvertes
 
@@ -23673,7 +23673,7 @@ Elle doit être séparée de la salle de fêtes même par des aménagements et �
 
 **(15.4.09)** Aux cas où un hall sportif est utilisé comme salle de réunion ou de spectacle, ou s’il sert à une quelconque manifestation sportive ou autre réunissant plus de 50 personnes, les dispositions concernant les salles de fêtes doivent être appliquées.
 
-<a id="art_N48AD6"></a>
+<a id="art_N48AD8"></a>
 
 ### Art. 15.5. Dortoirs, internats et établissements de soins
 
@@ -23711,7 +23711,7 @@ Elle doit être séparée de la salle de fêtes même par des aménagements et �
 
 **(15.5.17)** Dès la première nuit de séjour dans un établissement visé par le présent article, les nouveaux arrivés doivent être mis au courant des installations et dispositifs de sécurité de même que des voies d’issue et des moyens de sauvetage. Les consignes nécessaires doivent en plus être rappelées au moyen d’une signalisation, d’un affichage et d’un marquage adéquats.
 
-<a id="art_N48C16"></a>
+<a id="art_N48C18"></a>
 
 ### Art. 15.6. Parkings couverts
 
@@ -23735,7 +23735,7 @@ Le concept, le système et l’installation sont à choisir en fonction notammen
 
 En cas d’installations sous pression d’eau, des mesures spéciales doivent être prises en vue de prévenir respectivement le gel et l’altération de l’eau stagnant dans les tuyauteries.
 
-<a id="art_N48CBB"></a>
+<a id="art_N48CBD"></a>
 
 ### Art. 15.7. Dépôts de substances dangereuses
 
@@ -23771,7 +23771,7 @@ Des quantités supérieures doivent être conservées dans des dépôts spéciau
 
 ##### Chapitre 16. — Sécurité du chemin de l’école
 
-<a id="art_N48D80"></a>
+<a id="art_N48D82"></a>
 
 ### Art. 16.1. Généralités
 
@@ -23789,7 +23789,7 @@ Des quantités supérieures doivent être conservées dans des dépôts spéciau
 - de l’aménagement de balustrades, de barrières et d’autres dispositifs d’aide et de protection appropriés, propres à séparer le chemin de l’école d’autres voies de circulation, à assurer l’emprunt d’un chemin sûr, à barrer les passages dangereux et à guider les élèves,
 - de l’organisation adéquate des arrivées et des départs d’élèves, de l’éducation routière.
 
-<a id="art_N48DEF"></a>
+<a id="art_N48DF1"></a>
 
 ### Art. 16.2. Education routière
 
@@ -23805,7 +23805,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 
 **(16.2.05)** Dans les autres classes de l’enseignement primaire et postprimaire, l’éducation routière est poursuivie par l’éducation routière générale continue ainsi que par les éléments d’une instruction plus spéciale dès que les enfants atteignent l’âge donnant droit à la conduite d’un véhicule sur la voie publique, à savoir respectivement d’une bicyclette, d’un motocycle et d’une voiture.
 
-<a id="art_N48E78"></a>
+<a id="art_N48E7A"></a>
 
 ### Art. 16.3. Circulation aux abords de l’école
 
@@ -23826,7 +23826,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 
 ##### Chapitre 17. — Transports scolaires
 
-<a id="art_N48F09"></a>
+<a id="art_N48F0B"></a>
 
 ### Art. 17.1. Dispositions générales
 
@@ -23834,7 +23834,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 
 **(17.1.02)** Sans préjudice des dispositions ci-après, les transports scolaires doivent toujours fonctionner dans le respect strict des règles de la sécurité et de l’hygiène.
 
-<a id="art_N48F59"></a>
+<a id="art_N48F5B"></a>
 
 ### Art. 17.2. Organisation
 
@@ -23842,7 +23842,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 
 **(17.2.02)** Les horaires des transports scolaires et des activités scolaires doivent être harmonisés de manière que les enfants puissent gagner leur classe et la quitter avec calme et en toute tranquillité. Ils ne doivent pas non plus comporter un temps d’attente excessif.
 
-<a id="art_N48FA9"></a>
+<a id="art_N48FAB"></a>
 
 ### Art. 17.3. Etat de l’autobus scolaire
 
@@ -23870,7 +23870,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 - l’aménagement et l’équipement de la place d’un éventuel convoyeur-surveillant,
 - l’affichage de consignes.
 
-<a id="art_N49040"></a>
+<a id="art_N49042"></a>
 
 ### Art. 17.4. Occupation et circulation de l’autobus scolaire
 
@@ -23878,7 +23878,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 
 **(17.4.02)** Les chauffeurs doivent garantir le déroulement sûr des transports scolaires et ils doivent manoeuvrer avec prudence et circonspection aux arrêts.
 
-<a id="art_N49090"></a>
+<a id="art_N49092"></a>
 
 ### Art. 17.5. Surveillance et discipline dans l’autobus scolaire et aux arrêts
 
@@ -23886,7 +23886,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 
 **(17.5.02)** La surveillance à mettre en oeuvre à cette fin aux terminus, aux gares et aux arrêts situés dans l’enceinte de l’école ou à ses abords immédiats, doit être intégrée dans le règlement respectivement d’ordre intérieur et d’organisation scolaire.
 
-<a id="art_N490E0"></a>
+<a id="art_N490E2"></a>
 
 ### Art. 17.6. Agencement et aménagement des arrêts
 
@@ -23904,7 +23904,7 @@ Outre l’entraînement intensif des enfants, elle doit comprendre notamment la 
 
 ##### Chapitre 18. — Accès et circulation des handicapés physiques
 
-<a id="art_N4917B"></a>
+<a id="art_N4917D"></a>
 
 ### Art. 18.1. Généralités
 
@@ -23916,7 +23916,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 **(18.1.02)** La présence de handicapés de même que les différents endroits de leur séjour, doivent être connus du personnel surveillant et en particulier des personnes chargées de la direction et de la surveillance de l’évacuation des bâtiments en cas de danger, en vue de la mise en oeuvre prompte et efficace des secours éventuellement nécessaires.
 
-<a id="art_N491DD"></a>
+<a id="art_N491DF"></a>
 
 ### Art. 18.2. Accès et aménagements extérieurs
 
@@ -23930,7 +23930,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 **(18.2.05)** Des places spéciales de stationnement ou d’arrêt doivent être réservées aux handicapés aussi près des entrées que possible, voire, par mesure d’exception, dans la zone piétonne.
 
-<a id="art_N4925D"></a>
+<a id="art_N4925F"></a>
 
 ### Art. 18.3. Agencements et aménagements intérieurs
 
@@ -23946,7 +23946,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 ##### Chapitre 19. — Premiers secours
 
-<a id="art_N492E8"></a>
+<a id="art_N492EA"></a>
 
 ### Art. 19.1. Généralités
 
@@ -23958,7 +23958,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 **(19.1.04)** Dans les cas de manipulation de substances dangereuses, de même que dans le cadre des formations pratiques dans les laboratoires et les ateliers, les personnes concernées doivent être familiarisés avec l’emploi des moyens et techniques des premiers secours. Les consignes y afférentes sont à afficher.
 
-<a id="art_N49358"></a>
+<a id="art_N4935A"></a>
 
 ### Art. 19.2. Equipements de premiers secours
 
@@ -23980,7 +23980,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 **(19.2.09)** Le responsable fera tenir un registre des premiers secours comportant notamment la liste des équipements disponibles de même que leur contrôle, consommation, remplacement et entretien. Ce registre est à intégrer au registre de sécurité local et à présenter à l’inspecteur sur demande.
 
-<a id="art_N49418"></a>
+<a id="art_N4941A"></a>
 
 ### Art. 19.3. Postes de secours
 
@@ -23990,7 +23990,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 ##### Chapitre 20. — Contrôle des accès et prévention des actes de malveillance
 
-<a id="art_N49473"></a>
+<a id="art_N49475"></a>
 
 ### Art. 20.1. Généralités
 
@@ -24006,7 +24006,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 **(20.1.02)** Ladite prévention est à organiser dans la mesure du possible avec le concours du personnel, et en particulier des membres de l’équipe de sécurité. Des stratégies, moyens, mesures et comportements y afférents doivent, le cas échéant, faire partie intégrante des programmes de formation et de formation continue.
 
-<a id="art_N494DC"></a>
+<a id="art_N494DE"></a>
 
 ### Art. 20.2. Surveillance et contrôle des accès
 
@@ -24024,7 +24024,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 **(20.2.05)** Le contrôle d’accès au sens du présent paragraphe doit s’étendre sans faute également notamment aux équipes d’entretien et aux entreprises extérieures, aux voitures et véhicules pénétrant dans l’établissement, aux accès depuis d’éventuels parkings souterrains, aux fournitures et livraisons de même qu’au courrier et aux colis. Les accueils afférents doivent être prévus et organisés en conséquence.
 
-<a id="art_N49569"></a>
+<a id="art_N4956B"></a>
 
 ### Art. 20.3. Résistance mécanique des accès
 
@@ -24038,7 +24038,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 **(20.3.05)** Font partie de la résistance mécanique également les mesures d’agencement intérieur de locaux convoités ou exposés, dans des endroits plus difficilement accessibles et notamment aux étages supérieurs.
 
-<a id="art_N495E9"></a>
+<a id="art_N495EB"></a>
 
 ### Art. 20.4. Surveillance et détection automatiques
 
@@ -24050,7 +24050,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 
 ##### Chapitre 21. — Chantiers temporaires ou mobiles
 
-<a id="art_N49654"></a>
+<a id="art_N49656"></a>
 
 ### Art. 21.1. Généralités
 
@@ -24064,7 +24064,7 @@ Cette disposition s’applique notamment aux portes, voies de communication, esc
 4. «coordinateur en matière de sécurité et de santé pendant l’élaboration du projet de l’ouvrage»: toute personne physique ou morale chargée par le maître d’ouvrage et/ou le maître d’oeuvre d’exécuter, pendant l’élaboration du projet de l’ouvrage, les tâches visées à l’article 21.3. ci-après;
 5. «coordinateur en matière de sécurité et de santé pendant la réalisation de l’ouvrage»: toute personne physique ou morale chargée par le maître d’ouvrage et/ou le maître d’oeuvre d’exécuter, pendant la réalisation de l’ouvrage, les tâches visées à l’article 21.4. ci-après.
 
-<a id="art_N496B8"></a>
+<a id="art_N496BA"></a>
 
 ### Art. 21.2. Coordinateurs, Plan de sécurité et de santé, Avis préalable
 
@@ -24081,7 +24081,7 @@ le maître d’ouvrage ou le maître d’oeuvre communique un avis préalable, s
 
 L’avis préalable doit être affiché de manière visible sur le chantier et, si nécessaire, être tenu à jour.
 
-<a id="art_N49734"></a>
+<a id="art_N49736"></a>
 
 ### Art. 21.3. Elaboration du projet de l’ouvrage: tâches des coordinateurs
 
@@ -24094,7 +24094,7 @@ L’avis préalable doit être affiché de manière visible sur le chantier et, 
 2. établissent ou font établir un plan de sécurité et de santé précisant les règles applicables au chantier concerné, en tenant compte, le cas échéant, des activités d’exploitation ayant lieu sur le site; ce plan doit, en outre, comporter des mesures spécifiques concernant les travaux à risques accrus;
 3. établissent un dossier adapté aux caractéristiques de l’ouvrage reprenant les éléments utiles en matière de sécurité et de santé à prendre en compte lors d’éventuels travaux ultérieurs.
 
-<a id="art_N49792"></a>
+<a id="art_N49794"></a>
 
 ### Art. 21.4. Réalisation de l’ouvrage: tâches des coordinateurs
 
@@ -24109,7 +24109,7 @@ L’avis préalable doit être affiché de manière visible sur le chantier et, 
 5. coordonnent la surveillance de l’application correcte des procédures de travail;
 6. prennent les mesures nécessaires pour que seules les personnes autorisées puissent accéder au chantier.
 
-<a id="art_N497FD"></a>
+<a id="art_N497FF"></a>
 
 ### Art. 21.5. Responsabilités des maîtres d’oeuvre, des maîtres d’ouvrage et des employeurs
 
@@ -24117,7 +24117,7 @@ L’avis préalable doit être affiché de manière visible sur le chantier et, 
 
 **(21.5.02)** Ne sont pas non plus affectées les responsabilités prévues par la loi, aux articles 6., 7. et 8. notamment.
 
-<a id="art_N4984D"></a>
+<a id="art_N4984F"></a>
 
 ### Art. 21.6. Principes de prévention
 
@@ -24136,7 +24136,7 @@ L’avis préalable doit être affiché de manière visible sur le chantier et, 
 
 **(21.6.02)** Sans préjudice des indications du ou des coordinateurs en matière de sécurité et de santé, tous les employeurs et tous les autres intervenants sur les chantiers doivent respecter strictement les normes, prescriptions minimales, directives et règles de l’art en vigueur et notamment les prescriptions du présent règlement et les règles techniques mentionnées sur la liste spéciale des textes applicables au sens de l’article 17 de la loi et au sens du paragraphe (1.3.01) du présent règlement.
 
-<a id="art_N498C0"></a>
+<a id="art_N498C2"></a>
 
 ### Art. 21.7. Information, formation, consultation et participation des travailleurs
 
@@ -24144,7 +24144,7 @@ L’avis préalable doit être affiché de manière visible sur le chantier et, 
 
 #### Version consolidée applicable au 02/07/2018 : Règlement grand-ducal du 5 mars 2004 concernant la santé et la sécurité du travail et le contrôle médical dans la fonction publique.
 
-<a id="art_N49916"></a>
+<a id="art_N49918"></a>
 
 ### Art. 1er.
 
@@ -24162,7 +24162,7 @@ Dans le présent texte on entend par:
 
 ##### **Chapitre I.** — **Médecine du travail**
 
-<a id="art_N499E4"></a>
+<a id="art_N499E6"></a>
 
 ### Art. 2.
 
@@ -24187,7 +24187,7 @@ Dans le cas où le candidat se trouve à l’étranger et qu’il est destiné �
 
 L’examen médical des pompiers professionnels du Corps grand-ducal d’incendie et de secours est assuré par un des médecins de ce dernier dans les conditions et modalités prévues par le règlement grand-ducal du 27 juin 2018 relatif au contrôle médical des pompiers du Corps grand-ducal d’incendie et de secours.
 
-<a id="art_N49A62"></a>
+<a id="art_N49A64"></a>
 
 ### Art. 3.
 
@@ -24204,7 +24204,7 @@ Par résultat d’examen, il y a lieu d’entendre l’information que le candid
 
 La formule spéciale dénommée «certificat médical», dûment remplie par le médecin, sera conservée dans son service où elle pourra être consultée par le candidat ou par le médecin de contrôle dans le cas visé à l’article 12 ci-dessous. Lorsque l’examen est effectué par un médecin-généraliste du secteur privé, la formule spéciale dénommée «certificat médical» est remise par le médecin au candidat qui devra la remettre en mains propres au médecin du travail dans la fonction publique.
 
-<a id="art_N49ABF"></a>
+<a id="art_N49AC1"></a>
 
 ### Art. 4.
 
@@ -24216,7 +24216,7 @@ A cette fin, le médecin est directement saisi par l’autorité compétente pr�
 
 A cette fin, le chef d’administration ou son délégué invite, par courrier, l’agent à se soumettre à l’examen médical en indiquant, après concertation avec le médecin, la date et l’heure à laquelle il doit s’y présenter.
 
-<a id="art_N49B1A"></a>
+<a id="art_N49B1C"></a>
 
 ### Art. 5.
 
@@ -24224,7 +24224,7 @@ En cas de changement d’affectation à un autre poste présentant des condition
 
 En cas de congés sans traitement dépassant la durée d’un an, l’agent est tenu de se soumettre à un examen médical auprès du médecin demandé par le responsable compétent.
 
-<a id="art_N49B55"></a>
+<a id="art_N49B57"></a>
 
 ### Art. 6.
 
@@ -24234,7 +24234,7 @@ Sans préjudice des autres obligations légales ou réglementaires régissant le
 2. sur demande du médecin,
 3. sur demande motivée du responsable compétent.
 
-<a id="art_N49B95"></a>
+<a id="art_N49B97"></a>
 
 ### Art. 7.
 
@@ -24244,13 +24244,13 @@ Le médecin prescrit des examens supplémentaires individuels ou collectifs:
 - en présence d’insuffisances résultant d’examens préalables,
 - à l’égard de groupes à risques dont la santé n’est pas surveillée autrement; sont visés des jeunes, des personnes handicapées, des travailleurs occupant des postes à risque de même que des personnes exposées à un risque de maladies professionnelles ou à des radiations ionisantes.
 
-<a id="art_N49BD4"></a>
+<a id="art_N49BD6"></a>
 
 ### Art. 8.
 
 L’agent est libéré de son service, y compris en vue d’éventuels analyses et examens cliniques supplémentaires en cas d’examen médical effectué en vertu des articles qui précèdent.
 
-<a id="art_N49C06"></a>
+<a id="art_N49C08"></a>
 
 ### Art. 9.
 
@@ -24258,7 +24258,7 @@ Le médecin tient un fichier des consultations. Il ne peut communiquer une infor
 
 Ne tombent pas sous cette interdiction les informations échangées avec d’autres médecins concernés par le dossier médical de l’intéressé.
 
-<a id="art_N49C41"></a>
+<a id="art_N49C43"></a>
 
 ### Art. 10.
 
@@ -24274,7 +24274,7 @@ En fonction des résultats il peut notamment:
 
 Les conclusions du médecin précitées (apte, apte sous réserve ou inapte) sont transmises à l’agent et à l’autorité qui a saisi le médecin.
 
-<a id="art_N49C98"></a>
+<a id="art_N49C9A"></a>
 
 ### Art. 11.
 
@@ -24286,7 +24286,7 @@ Si le deuxième avis conclut également à l’inaptitude totale et définitive 
 
 ##### **Chapitre II.** — **Médecine de contrôle**
 
-<a id="art_N49CEC"></a>
+<a id="art_N49CEE"></a>
 
 ### Art. 12.
 
@@ -24299,7 +24299,7 @@ Le médecin est chargé en ce qui concerne les agents des institutions assujetti
 
 ##### **Chapitre III.** — **Mesures de protection contre les émanations résultant de la consommation de tabac d’autrui**
 
-<a id="art_N49D54"></a>
+<a id="art_N49D56"></a>
 
 ### Art. 13.
 
@@ -24307,19 +24307,19 @@ Le médecin est chargé en ce qui concerne les agents des institutions assujetti
 
 **2.** Cette mesure s’applique à tous les bâtiments des institutions assujetties à la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’Etat, dans les établissements publics et dans les écoles.
 
-<a id="art_N49DA2"></a>
+<a id="art_N49DA4"></a>
 
 ### Art. 14.
 
 Sans préjudice de l’application de l’article 6 de la loi du 11 août 2006 relative à la lutte antitabac, le chef d’administration peut autoriser l’installation d’un fumoir dans tous les bâtiments des institutions tels que définis à l’article précédant. Le même pouvoir appartient au collège des bourgmestre et échevins en ce qui concerne les bâtiments communaux. Par fumoir, il y a lieu d’entendre tout espace spécialement aménagé à l’intérieur des bâtiments prédéfinis où l’interdiction de fumer ne s’applique pas. Le fumoir doit répondre à des conditions d’installation à définir par règlement ministériel.
 
-<a id="art_N49DD9"></a>
+<a id="art_N49DDB"></a>
 
 ### Art. 15.
 
 Les règles à respecter conformément aux dispositions du chapitre III du présent règlement peuvent être complétées et précisées dans l’intérêt du service par les chefs d’administration ou chefs de service concernés respectivement par le collège des bourgmestre et échevins en ce qui concerne les administrations communales.
 
-<a id="art_N49E0B"></a>
+<a id="art_N49E0D"></a>
 
 ### Art. 16.
 
@@ -24329,7 +24329,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### **Chapitre 1er.** — **Disposition générale**
 
-<a id="art_N49E65"></a>
+<a id="art_N49E67"></a>
 
 ### Art. 1er.
 
@@ -24339,7 +24339,7 @@ L’administration comprend une Division de la Santé au Travail du Secteur publ
 
 ##### **Chapitre 2.** — **La Division de la Santé au Travail du Secteur public**
 
-<a id="art_N49EB3"></a>
+<a id="art_N49EB5"></a>
 
 ### Art. 2.
 
@@ -24349,7 +24349,7 @@ Les médecins de cette division accomplissent également les missions attribuée
 
 Les conditions et modalités de ces examens médicaux sont fixées par règlement grand-ducal.
 
-<a id="art_N49EF7"></a>
+<a id="art_N49EF9"></a>
 
 ### Art. 3.
 
@@ -24357,7 +24357,7 @@ La Division de la Santé au Travail du Secteur public est dirigée par un médec
 
 ##### **Chapitre 3.** — **La Division de la Médecine de Contrôle du Secteur public**
 
-<a id="art_N49F39"></a>
+<a id="art_N49F3B"></a>
 
 ### Art. 4.
 
@@ -24365,7 +24365,7 @@ La Division de la Médecine de Contrôle du Secteur public est chargée d’effe
 
 Les conditions et modalités de ces examens médicaux sont fixées par règlement grand-ducal.
 
-<a id="art_N49F74"></a>
+<a id="art_N49F76"></a>
 
 ### Art. 5.
 
@@ -24373,7 +24373,7 @@ La Division de la Médecine de Contrôle du Secteur public est dirigée par un m
 
 ##### **Chapitre 4.** — **Le cadre de l’Administration des Services médicaux du Secteur public**
 
-<a id="art_N49FB6"></a>
+<a id="art_N49FB8"></a>
 
 ### Art. 6.
 
@@ -24385,7 +24385,7 @@ La Division de la Médecine de Contrôle du Secteur public est dirigée par un m
 
 ##### **Chapitre 5.** — **Dispositions modificatives, transitoires et finales**
 
-<a id="art_N4A024"></a>
+<a id="art_N4A026"></a>
 
 ### Art. 7.
 
@@ -24396,7 +24396,7 @@ La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires 
 3. A l’article 16, l’alinéa 2 est supprimé.
 4. A l’article 32, le paragraphe 9 est supprimé.
 
-<a id="art_N4A078"></a>
+<a id="art_N4A07A"></a>
 
 ### Art. 8.
 
@@ -24404,7 +24404,7 @@ La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’
 
 A l’article 2.IV., les termes prévu à l’article 32, paragraphe 9 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont supprimés.
 
-<a id="art_N4A0C0"></a>
+<a id="art_N4A0C2"></a>
 
 ### Art. 9.
 
@@ -24412,7 +24412,7 @@ La loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux po
 
 A l’article 67.IV., les termes prévu à l’article 32, paragraphe 8 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont supprimés.
 
-<a id="art_N4A108"></a>
+<a id="art_N4A10A"></a>
 
 ### Art. 10.
 
@@ -24423,7 +24423,7 @@ La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnai
 3. loi modifiée du 16 avril 1979
 4. loi modifiée du 16 avril 1979
 
-<a id="art_N4A174"></a>
+<a id="art_N4A176"></a>
 
 ### Art. 11.
 
@@ -24433,7 +24433,7 @@ La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionn
 2. le Secrétaire général du Conseil économique et social le médecin-chef de division de l’Administration des Services médicaux du Secteur public
 3. Secrétaire général du Conseil économique et social médecin-chef de division de l’Administration des Services médicaux du Secteur public
 
-<a id="art_N4A1CB"></a>
+<a id="art_N4A1CD"></a>
 
 ### Art. 12.
 
@@ -24441,7 +24441,7 @@ La loi du 9 décembre 2005 déterminant les conditions et modalités de nominati
 
 A l’article 1er, alinéa 2, l’énumération des fonctions est complétée comme suit:de médecin-chef de division de l’Administration des Services médicaux du Secteur public».
 
-<a id="art_N4A21D"></a>
+<a id="art_N4A21F"></a>
 
 ### Art. 13.
 
@@ -24453,7 +24453,7 @@ A l’article 1er, alinéa 2, l’énumération des fonctions est complétée co
 
 **(4)** L’employée de l’Etat de la carrière supérieure engagée à partir du 15 mars 2006 en qualité de médecin du travail peut être nommée au grade 15 de la carrière du médecin-chef de service de la Division de la Santé au Travail du Secteur public par dérogation aux conditions normales d’admission au stage et de nomination applicables à cette carrière. Elle conserve le même numéro d’échelon de son grade ainsi que son ancienneté de service atteints avant l’entrée en vigueur de la présente loi.
 
-<a id="art_N4A28F"></a>
+<a id="art_N4A291"></a>
 
 ### Art. 14.
 
@@ -24463,7 +24463,7 @@ La présente loi entre en vigueur le premier jour du mois qui suit celui de sa p
 
 #### Version consolidée applicable au 01/07/2018 : Loi du 16 avril 1979 portant réglementation de la grève dans les services de l'Etat et des établissements publics placés sous le contrôle direct de l'Etat.
 
-<a id="art_N4A2E8"></a>
+<a id="art_N4A2EA"></a>
 
 ### Art. 1er.
 
@@ -24473,7 +24473,7 @@ Par personnel au sens de la présente loi, il faut entendre les fonctionnaires, 
 
 **2.** Il est interdit de se mettre en grève aux fonctionnaires dont les fonctions ont été créées sur la base de l'article 76 de la Constitution, aux Envoyés Extraordinaires et Ministres plénipotentiaires, aux Conseillers de Légation, aux autres agents diplomatiques, s'ils exercent en poste à l'étranger les fonctions de chef de mission à titre permanent ou ad intérim, aux magistrats de l'ordre judiciaire, aux chefs d'administration et à leurs adjoints, aux directeurs des établissements d'enseignement et à leurs adjoints, au personnel des administrations judiciaires et pénitentiaires, aux membres de la Force publique, les pompiers professionnels du Corps grand-ducal d’incendie et de secours, au personnel médical et paramédical des services de garde, aux agents de sécurité et au personnel chargé de la sécurité dans les services.
 
-<a id="art_N4A349"></a>
+<a id="art_N4A34B"></a>
 
 ### Art. 2.
 
@@ -24494,7 +24494,7 @@ Est considérée comme organisation syndicale la plus représentative sur le pla
 
 **4.** La procédure devant la Commission de conciliation et devant le médiateur pourra être fixée par règlement grand-ducal.
 
-<a id="art_N4A416"></a>
+<a id="art_N4A418"></a>
 
 ### Art. 3.
 
@@ -24502,7 +24502,7 @@ Lorsqu'en cas d'échec de la procédure de conciliation et, le cas échéant, de
 
 Le préavis doit émaner de l'organisation ou des organisations syndicales désignées à l'article 2. Il doit parvenir au Président du Gouvernement, Ministre d'Etat, dix jours avant le déclenchement de la grève. Il indique les motifs, le lieu, la date, l'heure du début ainsi que la durée de la grève envisagée. Il ne peut pas se cumuler avec un autre préavis de grève.
 
-<a id="art_N4A457"></a>
+<a id="art_N4A459"></a>
 
 ### Art. 4.
 
@@ -24514,7 +24514,7 @@ Le préavis doit émaner de l'organisation ou des organisations syndicales dési
 
 **4.** Les cessations de travail qui sont accompagnées, soit d'actes de violence contre les personnes, soit d'actes portant atteinte aux biens, soit d'entraves à la liberté du travail, sont illégales dans le chef des auteurs de ces actes.
 
-<a id="art_N4A4C3"></a>
+<a id="art_N4A4C5"></a>
 
 ### Art. 5.
 
@@ -24522,7 +24522,7 @@ Par décision du Gouvernement en conseil, les ministres peuvent être autorisés
 
 Les ordres de réquisition peuvent être individuels ou collectifs. Ils sont portés à la connaissance des intéressés par des moyens appropriés tels que notification individuelle, affichage, publication au Mémorial, dans la presse quotidienne écrite et parlée.
 
-<a id="art_N4A4FB"></a>
+<a id="art_N4A4FD"></a>
 
 ### Art. 6.
 
@@ -24534,13 +24534,13 @@ En cas de récidive dans le délai de deux ans, la peine prévue au présent art
 
 Les dispositions ci-dessus sont applicables sans préjudice de l'application éventuelle d'autres dispositions du Code pénal.
 
-<a id="art_N4A541"></a>
+<a id="art_N4A543"></a>
 
 ### Art. 7.
 
 Sans préjudice de l'application des dispositions pénales et de celles prévues à l'article 8 ciaprès, l'inobservation des dispositions ci-dessus entraîne l'application, en conformité avec la procédure disciplinaire normalement applicable, des sanctions prévues par les statuts ou par les règles concernant les personnels intéressés.
 
-<a id="art_N4A573"></a>
+<a id="art_N4A575"></a>
 
 ### Art. 8.
 
@@ -24552,7 +24552,7 @@ L'envoi à l'intéressé de la pièce à l'appui de la retenue vaut notification
 
 #### Règlement grand-ducal du 30 septembre 2015 fixant la procédure de conciliation et de médiation.
 
-<a id="art_N4A5C3"></a>
+<a id="art_N4A5C5"></a>
 
 ### Art. 1er.
 
@@ -24560,7 +24560,7 @@ Les dispositions du présent règlement s’appliquent aux litiges collectifs in
 
 Elles ont pour objet de fixer la procédure devant la Commission de conciliation, ci-après la «commission», et devant le médiateur.
 
-<a id="art_N4A5DC"></a>
+<a id="art_N4A5DE"></a>
 
 ### Art. 2.
 
@@ -24574,7 +24574,7 @@ La commission de conciliation est convoquée par le président, sur la demande �
 
 **(4)** Les réunions de la commission ne sont pas publiques.
 
-<a id="art_N4A628"></a>
+<a id="art_N4A62A"></a>
 
 ### Art. 3.
 
@@ -24584,7 +24584,7 @@ La commission de conciliation est convoquée par le président, sur la demande �
 
 Au cas où une proposition conjointe n’est pas formulée, le président peut formuler une proposition de conciliation de sa propre initiative dans le délai d’un mois à partir de l’expiration du délai visé à l’alinéa précédent.
 
-<a id="art_N4A656"></a>
+<a id="art_N4A658"></a>
 
 ### Art. 4.
 
@@ -24592,13 +24592,13 @@ Lorsqu’une proposition de conciliation est formulée au sens de l’article 3,
 
 Une copie du procès-verbal de conciliation ou de non-conciliation est adressée aux deux parties.
 
-<a id="art_N4A669"></a>
+<a id="art_N4A66B"></a>
 
 ### Art. 5.
 
 Dans des circonstances exceptionnelles et dans l’intérêt de la conciliation, le président peut suspendre la procédure pendant une durée maximale d’un an.
 
-<a id="art_N4A679"></a>
+<a id="art_N4A67B"></a>
 
 ### Art. 6.
 
@@ -24606,25 +24606,25 @@ En cas de non-conciliation, le différend est soumis, sur la demande de l’une 
 
 Le médiateur essaie de concilier les parties dans un délai de trois mois à compter du jour de la saisine. S’il n’y parvient pas, il leur soumet dans un délai de huit jours, sous forme de recommandation, des propositions en vue du règlement du différend. Le délai de huit jours commence à courir à partir du constat de l’échec de la médiation respectivement à partir du moment où le délai de trois mois susmentionné est expiré.
 
-<a id="art_N4A68C"></a>
+<a id="art_N4A68E"></a>
 
 ### Art. 7.
 
 Les délais prévus par le présent règlement sont suspendus entre le 16 juillet et le 15 septembre de chaque année.
 
-<a id="art_N4A69C"></a>
+<a id="art_N4A69E"></a>
 
 ### Art. 8.
 
 Les dispositions du présent règlement ne sont pas applicables aux litiges collectifs en cours.
 
-<a id="art_N4A6AC"></a>
+<a id="art_N4A6AE"></a>
 
 ### Art. 9.
 
 Le présent règlement entre en vigueur le 1er octobre 2015.
 
-<a id="art_N4A6BF"></a>
+<a id="art_N4A6C1"></a>
 
 ### Art. 10.
 
@@ -24634,7 +24634,7 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 #### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N4A6F4"></a>
+<a id="art_N4A6F6"></a>
 
 ### Art. 6.
 
@@ -24664,7 +24664,7 @@ Lorsque le fonctionnaire changé d’affectation, de fonction ou d’administrat
 
 **6.** Au sens des dispositions du présent article, l’enseignement fondamental, d’une part, et les enseignements secondaire, secondaire technique, supérieur et universitaire ainsi que l’Institut national des langues , d’autre part, sont à considérer comme formant chaque fois une seule administration.
 
-<a id="art_N4A7E7"></a>
+<a id="art_N4A7E9"></a>
 
 ### Art. 7.
 
@@ -24680,7 +24680,7 @@ En cas de détachement dans une autre administration, un établissement public o
 
 (. . .) Au terme du détachement, le fonctionnaire est de nouveau intégré dans le cadre de son administration d’origine.
 
-<a id="art_N4A874"></a>
+<a id="art_N4A876"></a>
 
 ### Art. 8.
 
@@ -24688,7 +24688,7 @@ Lorsqu’une mutation nécessite un changement de résidence ou de logement, le 
 
 #### Version consolidée applicable au 01/09/2018 : Loi du 25 mars 2015 fixant les conditions et modalités selon lesquelles le fonctionnaire de l'Etat peut changer d'administration.
 
-<a id="art_N4A8D1"></a>
+<a id="art_N4A8D3"></a>
 
 ### Art. 1er.
 
@@ -24698,7 +24698,7 @@ Elles s’appliquent également aux fonctionnaires de l’Administration parleme
 
 Elles ne s’appliquent pas aux fonctionnaires stagiaires ou aux agents assimilés stagiaires.
 
-<a id="art_N4A91D"></a>
+<a id="art_N4A91F"></a>
 
 ### Art. 2.
 
@@ -24708,7 +24708,7 @@ Si le fonctionnaire communal est retenu pour ledit poste, il doit se libérer de
 
 Le fonctionnaire communal est nommé à son nouveau poste aux niveaux de grade et de traitement atteints en sa qualité de fonctionnaire communal.
 
-<a id="art_N4A961"></a>
+<a id="art_N4A963"></a>
 
 ### Art. 3.
 
@@ -24718,7 +24718,7 @@ Par changement d’administration au sens de la présente loi, il y a lieu d’e
 
 Par dérogation à l’alinéa 2, le fonctionnaire est nommé au grade de début du nouveau sous-groupe de traitement lorsque celui-ci est supérieur au grade dans lequel il était classé la veille de son changement d’administration. Il est classé à la même valeur d’échelon, avec maintien de son ancienneté d’échelon. La première nomination au sous-groupe de traitement précédent est considérée comme première nomination pour l’accès au niveau supérieur et la promotion au dernier grade du nouveau sous-groupe de traitement.
 
-<a id="art_N4A9A5"></a>
+<a id="art_N4A9A7"></a>
 
 ### Art. 4.
 
@@ -24728,19 +24728,19 @@ Par dérogation à l’alinéa 2, le fonctionnaire est nommé au grade de début
 
 Dans ce cas, les dispositions de l’article 28 (2) de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat lui sont applicables.
 
-<a id="art_N4AA03"></a>
+<a id="art_N4AA05"></a>
 
 ### Art. 5.
 
 
 
-<a id="art_N4AA34"></a>
+<a id="art_N4AA36"></a>
 
 ### Art. 6.
 
 
 
-<a id="art_N4AA65"></a>
+<a id="art_N4AA67"></a>
 
 ### Art. 7.
 
@@ -24748,7 +24748,7 @@ Dans ce cas, les dispositions de l’article 28 (2) de la loi du 25 mars 2015 fi
 
 **(2)** Tout poste vacant à occuper par le biais du recrutement interne doit être publié par la voie appropriée pendant au moins cinq jours ouvrables.
 
-<a id="art_N4AAAE"></a>
+<a id="art_N4AAB0"></a>
 
 ### Art. 8.
 
@@ -24756,19 +24756,19 @@ Le fonctionnaire qui demande de changer d’administration doit en faire la dema
 
 La demande est adressée directement au chef de l’administration dont il demande de faire partie.
 
-<a id="art_N4AAE9"></a>
+<a id="art_N4AAEB"></a>
 
 ### Art. 9.
 
 Dès réception des demandes des candidats briguant le poste vacant, l’administration au sein de laquelle existe la vacance de poste ne peut procéder à un nouvel engagement sur ce poste avant la décision prévue à l’article 12.
 
-<a id="art_N4AB1B"></a>
+<a id="art_N4AB1D"></a>
 
 ### Art. 10.
 
 Le chef d’administration examine pour chaque demande si les conditions énumérées aux articles 4, 7 et 8 sont remplies.
 
-<a id="art_N4AB4D"></a>
+<a id="art_N4AB4F"></a>
 
 ### Art. 11.
 
@@ -24776,7 +24776,7 @@ Le chef d’administration soumet à son ministre une proposition motivée quant
 
 Le ministre du ressort de destination informe le ministre du ressort d’origine du nom du candidat retenu, sollicite son avis motivé quant au changement projeté et propose une date de prise d’effet du changement.
 
-<a id="art_N4AB88"></a>
+<a id="art_N4AB8A"></a>
 
 ### Art. 12.
 
@@ -24790,19 +24790,19 @@ L’autorité investie du pouvoir de nomination procède à la nomination du fon
 
 **(4)** La décision refusant le changement est transmise au candidat. Au cas où le refus concerne le candidat retenu par le ministre du ressort de destination, une copie de la décision est transmise à ce dernier et au ministre du ressort d’origine.
 
-<a id="art_N4ABFA"></a>
+<a id="art_N4ABFC"></a>
 
 ### Art. 13.
 
 
 
-<a id="art_N4AC2B"></a>
+<a id="art_N4AC2D"></a>
 
 ### Art. 14.
 
 
 
-<a id="art_N4AC5C"></a>
+<a id="art_N4AC5E"></a>
 
 ### Art. 15.
 
@@ -24812,13 +24812,13 @@ L’autorité investie du pouvoir de nomination procède à la nomination du fon
 
 **(3)** N’est pas considérée comme une diminution de ce traitement au sens du présent article la cessation d’emplois accessoires ou la cessation de primes, d’indemnités extraordinaires ou de frais de voyage, de bureau ou autres lorsque la cause de ces indemnités vient à disparaître avec le nouvel emploi.
 
-<a id="art_N4ACBA"></a>
+<a id="art_N4ACBC"></a>
 
 ### Art. 16.
 
 La loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration est abrogée.
 
-<a id="art_N4ACF1"></a>
+<a id="art_N4ACF3"></a>
 
 ### Art. 17.
 
@@ -24830,13 +24830,13 @@ La présente loi entre en vigueur le premier jour du septième mois qui suit cel
 
 ##### Chapitre 1er. — Définition et champ d’application
 
-<a id="art_N4AD56"></a>
+<a id="art_N4AD58"></a>
 
 ### Art. 1er.
 
 Par dérogation aux dispositions fixant les conditions d’admission aux différents groupes de traitement et groupes d’indemnité des administrations de l’Etat, le fonctionnaire de l’Etat peut accéder à un groupe de traitement supérieur au sien et l’employé de l’Etat peut accéder à un groupe d’indemnité supérieur au sien dans les conditions et suivant les modalités déterminées ci-après.
 
-<a id="art_N4AD8B"></a>
+<a id="art_N4AD8D"></a>
 
 ### Art. 2.
 
@@ -24852,7 +24852,7 @@ Par dérogation aux dispositions fixant les conditions d’admission aux différ
 
 **(6)** Par groupe de traitement immédiatement supérieur au groupe de traitement A2, il faut entendre le groupe de traitement A1.
 
-<a id="art_N4AE14"></a>
+<a id="art_N4AE16"></a>
 
 ### Art. 3.
 
@@ -24868,7 +24868,7 @@ Par dérogation aux dispositions fixant les conditions d’admission aux différ
 
 **(6)** Par groupe d’indemnité immédiatement supérieur au groupe d’indemnité A2, il faut entendre le groupe d’indemnité A1.
 
-<a id="art_N4AE9D"></a>
+<a id="art_N4AE9F"></a>
 
 ### Art. 4.
 
@@ -24880,7 +24880,7 @@ Toute fraction résultant de l’application du taux établi ci-dessus compte po
 
 Toute fraction résultant de l’application du taux établi ci-dessus compte pour une unité.
 
-<a id="art_N4AEF8"></a>
+<a id="art_N4AEFA"></a>
 
 ### Art. 5.
 
@@ -24894,7 +24894,7 @@ Le changement de groupe de traitement au sens de la présente loi n’est pas no
 
 ##### *Section 1. * — *De la demande*
 
-<a id="art_N4AF74"></a>
+<a id="art_N4AF76"></a>
 
 ### Art. 6.
 
@@ -24902,7 +24902,7 @@ Le fonctionnaire de l’Etat qui désire changer de groupe de traitement ou l’
 
 La demande est adressée directement au ministre ayant la Fonction publique dans ses attributions, dénommé ci-après «le ministre», qui en saisit la commission de contrôle prévue à la section 2 du présent chapitre. Le fonctionnaire ou l’employé de l’Etat fait parvenir une copie de sa demande à son ministre et à son chef d’administration ainsi qu’au ministre compétent pour l’administration dont il désire faire partie et au chef d’administration de celle-ci.
 
-<a id="art_N4AFAF"></a>
+<a id="art_N4AFB1"></a>
 
 ### Art. 7.
 
@@ -24926,7 +24926,7 @@ La publication de toute vacance de poste doit préciser s’il y sera pourvu par
 
 ##### *Section 2. * — *De la commission de contrôle*
 
-<a id="art_N4B047"></a>
+<a id="art_N4B049"></a>
 
 ### Art. 8.
 
@@ -24942,7 +24942,7 @@ Il est institué auprès du ministre une commission de contrôle dont la mission
 
 **5.** évaluer le mémoire prévu à l’article 14 de la présente loi ou le travail personnel de réflexion prévu à l’article 54 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ou à l’article 72 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat.
 
-<a id="art_N4B0E7"></a>
+<a id="art_N4B0E9"></a>
 
 ### Art. 9.
 
@@ -24961,7 +24961,7 @@ Toutes les nominations, soit à titre permanent, soit à titre spécial sont ré
 
 La commission dispose, dans le cadre des services du ministre, d’un secrétariat dont la gestion est assurée par un ou plusieurs agents à désigner par le ministre.
 
-<a id="art_N4B150"></a>
+<a id="art_N4B152"></a>
 
 ### Art. 10.
 
@@ -24973,7 +24973,7 @@ Toutes les affaires sont délibérées en réunion; le secrétaire rédige les p
 
 La commission recueille tous les renseignements et se fait communiquer tous les documents et éléments d’information qu’elle juge nécessaires à l’accomplissement de sa mission; elle peut désigner un de ses membres afin de procéder à toute enquête spéciale, jugée utile, et même se faire assister par des experts. La commission est en droit de donner aux candidats la possibilité de présenter des observations écrites ou de venir s’expliquer oralement.
 
-<a id="art_N4B19D"></a>
+<a id="art_N4B19F"></a>
 
 ### Art. 11.
 
@@ -24985,13 +24985,13 @@ L’avis final de la commission est pris à la majorité des voix, l’abstentio
 
 L’avis final, motivé et signé par tous les membres de la commission, est à transmettre au ministre qui le soumet incessamment au ministre du ressort, lequel décide si le fonctionnaire ou l’employé de l’Etat concerné est retenu ou non. Lorsque le changement de groupe de traitement ou le changement de groupe d’indemnité a lieu vers un poste de l’administration gouvernementale, la décision est prise par le ministre ayant l’administration gouvernementale dans ses attributions.
 
-<a id="art_N4B1EA"></a>
+<a id="art_N4B1EC"></a>
 
 ### Art. 12.
 
 La décision du ministre du ressort est transmise à la commission de contrôle qui en informe le fonctionnaire ou l’employé de l’Etat concerné incessamment.
 
-<a id="art_N4B21C"></a>
+<a id="art_N4B21E"></a>
 
 ### Art. 13.
 
@@ -24999,7 +24999,7 @@ Les membres de la commission, le ou les secrétaires et ceux qui procèdent à d
 
 ##### *Section 3. * — *Du mémoire*
 
-<a id="art_N4B25F"></a>
+<a id="art_N4B261"></a>
 
 ### Art. 14.
 
@@ -25021,7 +25021,7 @@ L’avancement en grade de l’employé de l’Etat ayant changé de groupe d’
 
 **(4)** Le fonctionnaire ou l’employé de l’Etat qui ne s’est pas vu attribuer une mention suffisante, est considéré comme ayant échoué. Il ne pourra présenter une nouvelle demande de changement de groupe de traitement respectivement de changement de groupe d’indemnité qu’après un délai de trois ans. Un second échec entraîne la perte définitive du bénéfice du changement de groupe de traitement respectivement du changement de groupe d’indemnité.
 
-<a id="art_N4B2F5"></a>
+<a id="art_N4B2F7"></a>
 
 ### Art. 15.
 
@@ -25039,7 +25039,7 @@ Pour l’application de cette disposition, la hiérarchie des grades est déterm
 
 ##### Chapitre 3. — Dispositions transitoires, abrogatoires et finales
 
-<a id="art_N4B37F"></a>
+<a id="art_N4B381"></a>
 
 ### Art. 16.
 
@@ -25047,19 +25047,19 @@ Par dérogation à l’article 2 paragraphe 5, pour les fonctionnaires de l’Et
 
 La dérogation de l’alinéa précédent est limitée à une période de dix ans à compter de l’entrée en vigueur de la présente loi.
 
-<a id="art_N4B3BA"></a>
+<a id="art_N4B3BC"></a>
 
 ### Art. 17.
 
 Pour les postes vacants à occuper par le biais d’un changement de carrière qui ont été publiés avant la date d’entrée en vigueur de la présente loi, les anciennes dispositions de la loi modifiée du 14 novembre 1991 fixant les conditions et les modalités de l’accès du fonctionnaire à une carrière supérieure à la sienne restent applicables.
 
-<a id="art_N4B3F1"></a>
+<a id="art_N4B3F3"></a>
 
 ### Art. 18.
 
 La loi modifiée du 14 novembre 1991 fixant les conditions et les modalités de l’accès du fonctionnaire à une carrière supérieure à la sienne est abrogée.
 
-<a id="art_N4B428"></a>
+<a id="art_N4B42A"></a>
 
 ### Art. 19.
 
@@ -25069,7 +25069,7 @@ Les dispositions de la présente loi entrent en vigueur le premier jour du septi
 
 #### Version consolidée applicable au 01/07/2023 : Loi du 27 août 1977 concernant le statut des fonctionnaires entrés au service d'Institutions internationales.
 
-<a id="art_N4B481"></a>
+<a id="art_N4B483"></a>
 
 ### Art. 1er.
 
@@ -25081,14 +25081,14 @@ Par fonction internationale au sens de la présente loi il y a lieu d’entendre
 
 Aucune des dispositions de la présente loi ne pourra être appliquée de manière à porter atteinte à l’indépendance statutaire des titulaires d’une fonction internationale.
 
-<a id="art_N4B4D1"></a>
+<a id="art_N4B4D3"></a>
 
 ### Art. 2.
 
 1. Le congé spécial est accordé, après délibération du Gouvernement en Conseil, par l’autorité compétente pour la nomination du bénéficiaire et dans la forme prescrite pour celle-ci.
 2. Le congé spécial des magistrats est accordé par le Grand-Duc sur avis motivé du Conseil national de la justice.
 
-<a id="art_N4B523"></a>
+<a id="art_N4B525"></a>
 
 ### Art. 3.
 
@@ -25102,13 +25102,13 @@ Les fonctionnaires directement attachés à la personne d’un titulaire d’un 
 
 **4.** A défaut de demander la réintégration dans le service après l’expiration du congé spécial qui lui a été accordé, le fonctionnaire ayant bénéficié de ce congé est considéré de plein droit comme démissionnaire de sa fonction au service de l’Etat.
 
-<a id="art_N4B598"></a>
+<a id="art_N4B59A"></a>
 
 ### Art. 4.
 
 L’emploi laissé vacant par un fonctionnaire bénéficiaire d’un congé spécial en vertu de la présente loi est occupé, selon les besoins du service, à titre provisoire ou définitif, par un autre titulaire.
 
-<a id="art_N4B5CA"></a>
+<a id="art_N4B5CC"></a>
 
 ### Art. 5.
 
@@ -25118,7 +25118,7 @@ L’emploi laissé vacant par un fonctionnaire bénéficiaire d’un congé spé
 
 **3.** Un fonctionnaire bénéficiant d’un congé spécial ne peut recevoir une promotion, toutes autres conditions étant remplies, que s’il renonce à son congé. Le Gouvernement peut cependant, à sa demande, l’autoriser à porter un titre correspondant à une fonction supérieure à celle qu’il occupait au moment où le congé spécial lui a été accordé. Ce titre est conféré dans les conditions et formes prévues par l’article 2.
 
-<a id="art_N4B63E"></a>
+<a id="art_N4B640"></a>
 
 ### Art. 6.
 
@@ -25134,7 +25134,7 @@ Dans le cas où la nomination à un emploi «hors cadre» s’avère impossible,
 
 **4.** L’exécution des dispositions du présent article est assurée, après délibération du Gouvernement en conseil, par l’autorité compétente.
 
-<a id="art_N4B6B9"></a>
+<a id="art_N4B6BB"></a>
 
 ### Art. 7.
 
@@ -25142,7 +25142,7 @@ La période de congé spécial du fonctionnaire qui réintègre le service de l�
 
 Le montant du rachat est fixé par annuité rachetée à seize pour cent du traitement que le fonctionnaire obtient lors de sa réintégration, majoré des intérêts composés de quatre pour cent l’an. Le taux de seize pour cent, étant égal à la somme des parts de l’intéressé et de l’employeur qui aurait été versée sous le régime général de pension, suivra l’évolution des taux fixés pour ces parts.
 
-<a id="art_N4B6F9"></a>
+<a id="art_N4B6FB"></a>
 
 ### Art. 8.
 
@@ -25155,7 +25155,7 @@ Le montant du rachat est fixé suivant les modalités prévues au deuxième alin
 
 La base du calcul est formée par le dernier traitement luxembourgeois dont l’intéressé a joui au moment de la cessation de ses fonctions.
 
-<a id="art_N4B74D"></a>
+<a id="art_N4B74F"></a>
 
 ### Art. 9.
 
@@ -25163,7 +25163,7 @@ Lorsqu’un fonctionnaire international qui n’a pas droit à une pension immé
 
 Le montant du rachat prévu à l’alinéa qui précède est fixé conformément aux dispositions de l’article 7, deuxième alinéa.
 
-<a id="art_N4B78D"></a>
+<a id="art_N4B78F"></a>
 
 ### Art. 10.
 
@@ -25184,7 +25184,7 @@ En cas de rentrée ultérieure dans les services de l’Etat, le montant du rach
 
 Si lesdites conditions prévues pour l’ouverture d’un droit à pension différée ne sont pas remplies, les dispositions des articles 4 à 6 de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes de pension sont applicables.
 
-<a id="art_N4B810"></a>
+<a id="art_N4B812"></a>
 
 ### Art. 11. Dispositions transitoires.
 
@@ -25198,19 +25198,19 @@ Les périodes de congé accordées antérieurement à l’entrée en vigueur de 
 
 Il en est de même des anciens fonctionnaires - et de leurs survivants - ayant bénéficié de pareil congé et qui ont été mis à la retraite avant l’entrée en vigueur de la présente loi, à moins qu’ils n’aient bénéficié des dispositions de l’article 10, section I, 1° de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat.
 
-<a id="art_N4B87F"></a>
+<a id="art_N4B881"></a>
 
 ### Art. 12.
 
 La présente loi sort ses effets à partir du 1er jour du mois qui suit la date de sa publication au Mémorial.
 
-<a id="art_N4B8B4"></a>
+<a id="art_N4B8B6"></a>
 
 ### Art. 13.
 
 Les modalités d’exécution de la présente loi et notamment celles concernant les calculs actuariels, les forfaits de rachat et la transformation des sommes versées en annuités de pension pourront être fixées par règlement grand-ducal.
 
-<a id="art_N4B8E6"></a>
+<a id="art_N4B8E8"></a>
 
 ### Art. 14.
 
@@ -25222,7 +25222,7 @@ Des règlements grand-ducaux pourront prévoir l’application des dispositions 
 
 ##### Titre I. — **Dispositions générales**
 
-<a id="art_N4B94B"></a>
+<a id="art_N4B94D"></a>
 
 ### Art. 1er.
 
@@ -25236,7 +25236,7 @@ Le Grand-Duché de Luxembourg respecte les engagements et tient compte des objec
 
 ##### Titre II. — **Du Fonds de la Coopération au Développement**
 
-<a id="art_N4B9B8"></a>
+<a id="art_N4B9BA"></a>
 
 ### Art. 2.
 
@@ -25249,13 +25249,13 @@ Il est créé un Fonds de la Coopération au Développement dénommé ci-après 
 
 Ce financement peut inclure des programmes de renforcement des capacités et d’assistance technique, y compris des frais en relation avec le recrutement d’agents de la coopération et de coopérants ainsi que la formation de boursiers et de stagiaires.
 
-<a id="art_N4BA13"></a>
+<a id="art_N4BA15"></a>
 
 ### Art. 3.
 
 Le Fonds est placé sous l’autorité du ministre ayant dans ses attributions la coopération au développement, ci-après dénommé «le ministre».
 
-<a id="art_N4BA45"></a>
+<a id="art_N4BA47"></a>
 
 ### Art. 4.
 
@@ -25279,13 +25279,13 @@ Le financement des interventions peut se faire par des contributions ou subventi
 
 Le financement des interventions peut se faire, sur décision conjointe du ministre et du ministre ayant dans ses attributions les finances, par des bonifications d’intérêts ou des crédits à accorder à des programmes ou projets.
 
-<a id="art_N4BAD6"></a>
+<a id="art_N4BAD8"></a>
 
 ### Art. 5.
 
 Le Fonds est alimenté par des dotations budgétaires annuelles.
 
-<a id="art_N4BB08"></a>
+<a id="art_N4BB0A"></a>
 
 ### Art. 6.
 
@@ -25295,7 +25295,7 @@ Le ministre présente chaque année à la Chambre des Députés un rapport sur l
 
 ##### Chapitre 1 — *De l’agrément*
 
-<a id="art_N4BB70"></a>
+<a id="art_N4BB72"></a>
 
 ### Art. 7.
 
@@ -25307,7 +25307,7 @@ L’agrément est accordé pour la durée de deux ans et peut être renouvelé. 
 
 ##### Chapitre 2 — *Du cofinancement *
 
-<a id="art_N4BBF6"></a>
+<a id="art_N4BBF8"></a>
 
 ### Art. 8.
 
@@ -25315,7 +25315,7 @@ A charge du Fonds et aux conditions déterminées par la présente loi, le minis
 
 Le cofinancement est une subvention destinée à un projet de développement précis.
 
-<a id="art_N4BC7F"></a>
+<a id="art_N4BC81"></a>
 
 ### Art. 9.
 
@@ -25325,13 +25325,13 @@ Pour pouvoir bénéficier d’un cofinancement , les projets doivent:
 2. être présentés en détail quant au lieu, au secteur et à la population bénéficiaire, quant au but et aux objectifs recherchés, quant aux moyens à mettre en oeuvre, quant au financement et quant au calendrier d’exécution,
 3. être gérés par des personnes suffisamment compétentes pour garantir une bonne exécution et une parfaite administration financière.
 
-<a id="art_N4BCDA"></a>
+<a id="art_N4BCDC"></a>
 
 ### Art. 10.
 
 Au cas où un projet à retenir pour un cofinancement fait partie d’un projet plus vaste, celui-ci doit être présenté dans un descriptif renseignant notamment sur les bailleurs de fonds impliqués.
 
-<a id="art_N4BD33"></a>
+<a id="art_N4BD35"></a>
 
 ### Art. 11.
 
@@ -25362,7 +25362,7 @@ Cette liste, ainsi que la liste des pays partenaires de la coopération au déve
 4. les activités de sensibilisation et d’éducation des citoyens aux droits de la personne.
 3. L’élaboration de programmes concernant les droits de la personne, ciblés sur des groupes particuliers, comme les enfants, les individus en situation de handicap, les migrants, les femmes et filles, victimes de toutes les formes de violence basée sur le genre, les minorités ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination de caste, les victimes de la traite d’êtres humains, les victimes de la torture.
 
-<a id="art_N4BE07"></a>
+<a id="art_N4BE09"></a>
 
 ### Art. 12.
 
@@ -25372,19 +25372,19 @@ Toute organisation non gouvernementale de développement agréée jouissant d’
 
 Le contrôle se fait par un réviseur d’entreprises agréé. À la suite de chaque contrôle, l’organisation non gouvernementale de développement agréée doit remettre dans un délai d’un mois une copie du rapport au ministre.
 
-<a id="art_N4BE57"></a>
+<a id="art_N4BE59"></a>
 
 ### Art. 13.
 
 L’apport de l’organisation non gouvernementale agréée peut inclure un financement provenant de ses propres ressources et de sources d’autres organisations non gouvernementales agréées et des bénéficiaires locaux, sans que l’apport de ces derniers puisse dépasser celui des organisations non gouvernementales agréées. Les ressources propres de l’organisation non gouvernementale et les sources d’autres organisations non gouvernementales doivent avoir été collectées au Luxembourg. Les conditions dans lesquelles un apport autre que financier de la part des bénéficiaires locaux peut être valorisé et mis en compte sont fixées par règlement grand-ducal.
 
-<a id="art_N4BE98"></a>
+<a id="art_N4BE9A"></a>
 
-### art_N4BE98
+### art_N4BE9A
 
 
 
-<a id="art_N4BEDC"></a>
+<a id="art_N4BEDE"></a>
 
 ### Art. 15.
 
@@ -25392,19 +25392,19 @@ Chaque projet subventionné doit faire l’objet d’un rapport d’exécution a
 
 ##### Chapitre 3. — *Des subsides *
 
-<a id="art_N4BF43"></a>
+<a id="art_N4BF45"></a>
 
 ### Art. 16.
 
 A charge du budget de l’Etat, le ministre peut accorder à une organisation non gouvernementale agréée un subside destiné à la soutenir dans le financement de programmes ou projets précis dans le domaine de la promotion de la coopération au développement ainsi que d’actions de sensibilisation de l’opinion publique.
 
-<a id="art_N4BF75"></a>
+<a id="art_N4BF77"></a>
 
 ### Art. 17.
 
 Les subsides sont octroyés sur base de critères à fixer par règlement grand-ducal.
 
-<a id="art_N4BFB6"></a>
+<a id="art_N4BFB8"></a>
 
 ### Art. 17bis.
 
@@ -25412,7 +25412,7 @@ A la charge du Fonds, le ministre peut accorder à une organisation non gouverne
 
 ##### Chapitre 4. — *De l’accord-cadre*
 
-<a id="art_N4C008"></a>
+<a id="art_N4C00A"></a>
 
 ### Art. 18.
 
@@ -25440,15 +25440,15 @@ La durée d’un accord-cadre doit être comprise entre trois et cinq années.
 2. Un taux de cofinancement de 60 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans des pays bénéficiaires d’aide publique au développement, qui ne sont pas listés parmi les PMA ou les pays partenaires de la coopération luxembourgeoise.
 3. Un taux de cofinancement de 80 pour cent de la part luxembourgeoise pour toute action relevant de l’accord-cadre mise en œuvre dans des pays bénéficiaires d’aide publique au développement qui ne sont pas énumérés parmi les PMA ou les pays partenaires, mais qui cible directement les droits de la personne tels que définis à l’article 11, paragraphe 5.
 
-<a id="art_N4C0BC"></a>
+<a id="art_N4C0BE"></a>
 
-### art_N4C0BC
+### art_N4C0BE
 
 
 
 ##### Titre IV. — **Des agents de la coopération et de coopérants**
 
-<a id="art_N4C11F"></a>
+<a id="art_N4C121"></a>
 
 ### Art. 20.
 
@@ -25458,7 +25458,7 @@ Toute personne qui entend, sans but lucratif, apporter son aide à la population
 
 ##### Section 1 — *Des agents issus du secteur public*
 
-<a id="art_N4C16E"></a>
+<a id="art_N4C170"></a>
 
 ### Art. 21.
 
@@ -25471,7 +25471,7 @@ Peut être agréé comme agent de la coopération, le candidat qui remplit les c
 5. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de sa tâche;
 6. s’engager pour une durée minimum d’une année, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum d’une année sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique. Le ministre détermine la nature et les modalités de la formation spécifique.
 
-<a id="art_N4C1C6"></a>
+<a id="art_N4C1C8"></a>
 
 ### Art. 22.
 
@@ -25485,7 +25485,7 @@ A défaut d’emploi, l’intéressé est nommé à un emploi «hors cadre» par
 
 ##### Section 2. — *Des agents autres que ceux issus du secteur public*
 
-<a id="art_N4C221"></a>
+<a id="art_N4C223"></a>
 
 ### Art. 23.
 
@@ -25509,7 +25509,7 @@ L’exécution d’une mission de coopération au développement ne confère pas
 
 ##### Section 3. — *Dispositions communes*
 
-<a id="art_N4C2A2"></a>
+<a id="art_N4C2A4"></a>
 
 ### Art. 24.
 
@@ -25529,7 +25529,7 @@ Il peut être autorisé par le ministre à se faire accompagner de son conjoint 
 
 Dans ce cas, les frais de voyage du conjoint ou du partenaire, et des enfants pour lesquels les parents touchent des allocations familiales, sont pris en charge par l'Etat et ce tant pour les voyages visés à l'alinéa 5 qu'à l'alinéa 6.
 
-<a id="art_N4C324"></a>
+<a id="art_N4C326"></a>
 
 ### Art. 25.
 
@@ -25546,13 +25546,13 @@ Les périodes accomplies à l’étranger en tant qu’agent de la coopération 
 - création d’un fonds pour l’emploi
 - réglementation de l’octroi des indemnités de chômage complet.
 
-<a id="art_N4C38E"></a>
+<a id="art_N4C390"></a>
 
 ### Art. 26.
 
 Les rémunérations, indemnités et autres prestations à charge de l’Etat, du Fonds de la Coopération au Développement ou d’un organisme de sécurité sociale prévues par la présente loi sont déduites du montant des rémunérations, indemnités et autres prestations de même nature versées directement à l’agent de la coopération par un Etat étranger ou par une institution internationale ou supranationale.
 
-<a id="art_N4C3C0"></a>
+<a id="art_N4C3C2"></a>
 
 ### Art. 27.
 
@@ -25574,7 +25574,7 @@ La révocation prévue au présent article ne préjudicie pas d’autres recours
 
 ##### Chapitre 2. — ***Des coopérants***
 
-<a id="art_N4C443"></a>
+<a id="art_N4C445"></a>
 
 ### Art. 28.
 
@@ -25588,7 +25588,7 @@ Peut être agréé comme coopérant , le candidat qui remplit, en dehors de cell
 6. avoir conclu un contrat d’engagement pour une durée minimum de deux années avec une organisation non gouvernementale, y non compris le temps de formation spécifique, dont la prise en charge par l’Etat ne peut toutefois pas dépasser la durée de trois mois. Dans certains cas exceptionnels, le ministre peut réduire cette durée minimum de deux années sans que celle-ci ne puisse toutefois être inférieure à six mois, y non compris le temps de formation spécifique;
 7. bénéficier d’une rémunération permettant des conditions de vie adéquates d’un point de vue physique et sanitaire.
 
-<a id="art_N4C48F"></a>
+<a id="art_N4C491"></a>
 
 ### Art. 29.
 
@@ -25600,7 +25600,7 @@ Le coopérant agréé jouit de plein droit des avantages prévus aux articles 30
 
 Les conditions et modalités de l’agrément peuvent être fixées par règlement grand-ducal.
 
-<a id="art_N4C4E1"></a>
+<a id="art_N4C4E3"></a>
 
 ### Art. 30.
 
@@ -25626,7 +25626,7 @@ A l’exception de la prime de réinstallation, les rémunérations et émolumen
 
 L’article 26 est applicable par analogie aux coopérants.
 
-<a id="art_N4C58A"></a>
+<a id="art_N4C58C"></a>
 
 ### Art. 31.
 
@@ -25634,7 +25634,7 @@ L’agrément n’entraîne pas la création d’un lien contractuel entre l’E
 
 Le fait d’avoir passé une période de temps dans la coopération ne donne aucun droit à un emploi permanent au service de l’Etat luxembourgeois. Toutefois si un coopérant entre de manière permanente au service de l’Etat, il est tenu compte du temps passé dans la coopération pour la bonification de l’ancienneté de service en vue de la fixation du traitement initial et pour la computation du temps de service en vue de la pension.
 
-<a id="art_N4C5C5"></a>
+<a id="art_N4C5C7"></a>
 
 ### Art. 32.
 
@@ -25652,7 +25652,7 @@ Contre les décisions prononçant larévocation de l’agrément, un recours est
 
 ##### Chapitre 3. — ***Cas d’applications particuliers du statut de coopérant***
 
-<a id="art_N4C635"></a>
+<a id="art_N4C637"></a>
 
 ### Art. 33.
 
@@ -25662,7 +25662,7 @@ Après avoir pris l’avis du comité interministériel prévu à l’article 50
 2. être appelé à assurer des services à la population d’un pays en développement dans le cadre d’un programme ou projet de développement;
 3. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de leur tâche.
 
-<a id="art_N4C675"></a>
+<a id="art_N4C677"></a>
 
 ### Art. 34.
 
@@ -25674,7 +25674,7 @@ Après avoir pris l’avis du comité interministériel prévu à l’article 50
 4. collaborer à la mise en oeuvre d’un programme ou projet de développement en faveur des populations de pays en développement et dont la réalisation incombe à une organisation non gouvernementale agréée;
 5. avoir la formation, les aptitudes et la préparation nécessaires pour l’accomplissement de leur tâche.
 
-<a id="art_N4C6BB"></a>
+<a id="art_N4C6BD"></a>
 
 ### Art. 35.
 
@@ -25689,13 +25689,13 @@ Un règlement grand-ducal peut déterminer les conditions et les modalités suiv
 
 ##### Chapitre 1 — *Bénéficiaires et objectifs*
 
-<a id="art_N4C729"></a>
+<a id="art_N4C72B"></a>
 
 ### Art. 36.
 
 Il est institué un congé spécial dit «congé de la coopération au développement» dans l’intérêt des experts et des représentants des organisations non gouvernementales, remplissant les conditions définies à l’article 34, s’ils exercent une autre activité professionnelle, salariée ou non salariée.
 
-<a id="art_N4C75B"></a>
+<a id="art_N4C75D"></a>
 
 ### Art. 37.
 
@@ -25703,13 +25703,13 @@ Le congé de la coopération au développement a pour but de permettre aux inté
 
 ##### Chapitre 2 — *Durée*
 
-<a id="art_N4C79B"></a>
+<a id="art_N4C79D"></a>
 
 ### Art. 38.
 
 La durée du congé de la coopération au développement ne peut pas dépasser six jours par an et par bénéficiaire. Ce congé peut être fractionné suivant les besoins.
 
-<a id="art_N4C7CD"></a>
+<a id="art_N4C7CF"></a>
 
 ### Art. 39.
 
@@ -25717,7 +25717,7 @@ La durée du congé de la coopération au développement ne peut être imputée 
 
 ##### Chapitre 3 — *Conditions d’octroi*
 
-<a id="art_N4C80D"></a>
+<a id="art_N4C80F"></a>
 
 ### Art. 40.
 
@@ -25729,7 +25729,7 @@ L’octroi du congé de la coopération au développement aux experts et des rep
 
 ##### Chapitre 4 — *Maintien des droits*
 
-<a id="art_N4C85B"></a>
+<a id="art_N4C85D"></a>
 
 ### Art. 41.
 
@@ -25737,31 +25737,31 @@ La durée du congé de la coopération au développement est assimilée à une p
 
 ##### Chapitre 5 — *Détermination des indemnités et modalités de paiement*
 
-<a id="art_N4C89B"></a>
+<a id="art_N4C89D"></a>
 
 ### Art. 42.
 
 Les experts et les représentants des organisations non gouvernementales exerçant une activité non salariée peuvent bénéficier d’une indemnité forfaitaire, dont la base de calcul est fixée par le règlement d’application.
 
-<a id="art_N4C8CD"></a>
+<a id="art_N4C8CF"></a>
 
 ### Art. 43.
 
 Les experts et les représentants des organisations non gouvernementales exerçant une activité salariée relevant du secteur privé peuvent bénéficier d’une indemnité compensatoire.
 
-<a id="art_N4C8FF"></a>
+<a id="art_N4C901"></a>
 
 ### Art. 44.
 
 L’indemnité forfaitaire ou compensatoire est égale au salaire journalier moyen tel qu’il est défini par la législation en vigueur portant réglementation uniforme du congé annuel payé des salariés du secteur privé, sans que le montant de cette indemnité puisse dépasser quatre cents pour cent du salaire social minimum journalier pour un travailleur non qualifié âgé de dix-huit ans au moins. L’employeur avance l’indemnité laquelle lui sera remboursée par l’Etat.
 
-<a id="art_N4C931"></a>
+<a id="art_N4C933"></a>
 
 ### Art. 45.
 
 Les dépenses occasionnées par le congé de la coopération au développement sont à charge du budget de l’Etat dans les limites des crédits budgétaires disponibles.
 
-<a id="art_N4C963"></a>
+<a id="art_N4C965"></a>
 
 ### Art. 46.
 
@@ -25771,7 +25771,7 @@ Sont visés sous le terme de secteur public l’Etat, les communes ou les syndic
 
 ##### Chapitre 6 — *Compétence*
 
-<a id="art_N4C9AC"></a>
+<a id="art_N4C9AE"></a>
 
 ### Art. 47.
 
@@ -25779,7 +25779,7 @@ Le congé de la coopération au développement ainsi que les indemnités visées
 
 ##### Chapitre 7 — *Sanctions*
 
-<a id="art_N4C9EC"></a>
+<a id="art_N4C9EE"></a>
 
 ### Art. 48.
 
@@ -25787,7 +25787,7 @@ Les infractions aux dispositions des articles 36 à 47 de la présente loi et à
 
 ##### Chapitre 8 — *Exécution*
 
-<a id="art_N4CA2C"></a>
+<a id="art_N4CA2E"></a>
 
 ### Art. 49.
 
@@ -25795,7 +25795,7 @@ Un règlement grand-ducal fixe les modalités d’exécution du congé de la coo
 
 ##### Titre VI — **Du comité interministériel**
 
-<a id="art_N4CA6D"></a>
+<a id="art_N4CA6F"></a>
 
 ### Art. 50.
 
@@ -25803,13 +25803,13 @@ Il est institué un comité interministériel pour la coopération au développe
 
 ##### Titre VII — **Des dispositions fiscales relatives aux dons alloués aux organisations non gouvernementales**
 
-<a id="art_N4CABC"></a>
+<a id="art_N4CABE"></a>
 
 ### Art. 51.
 
 Les dons en espéces alloués aux organisations non gouvernementales, agréées au sens de l’article 7 de la présente loi, sont déductibles dans le chef du donateur à titre de dépenses spéciales dans les limites et conditions prévues par les articles 109 et 112 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu.
 
-<a id="art_N4CAF3"></a>
+<a id="art_N4CAF5"></a>
 
 ### Art. 52.
 
@@ -25818,13 +25818,13 @@ La loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est mod
 1. à l’article 112 les termes «au Fonds d’aide au développement» sont remplacés par les termes «aux organisations non gouvernementales agréées au sens de l’article 7 de la loi sur la coopération au développement»;
 2. à l’article 150 les termes «et au Fonds d’aide au développement» sont supprimés.
 
-<a id="art_N4CB35"></a>
+<a id="art_N4CB37"></a>
 
 ### Art. 53.
 
 Lorsqu’une personne a fait un dont en espéces au profit d’une organisation non gouvernementale agréée dans l’année précédant son décès, ce don n’est pas considéré comme faisant partie de la succession de cette personne, même si la libéralité n’a pas été assujettie au droit d’enregistrement établi pour les donations. Il en est de même des sommes ou valeurs que les organisations non gouvernementales agréées sont appelées à recevoir à titre de legs en vertu d’un contrat renfermant une stipulation à leur profit.
 
-<a id="art_N4CB67"></a>
+<a id="art_N4CB69"></a>
 
 ### Art. 54.
 
@@ -25832,13 +25832,13 @@ Les dispositions finales prévues au Titre VII s’appliquent à partir de l’a
 
 ##### Titre VIII. — **Dispositions additionnelles et finales**
 
-<a id="art_N4CBA7"></a>
+<a id="art_N4CBA9"></a>
 
 ### Art. 55.
 
 L’alinéa 1 del’article 15 du code des assurance sociales prend la teneur suivante:«L’indemnité pécuniaire n’est accordée qu’aux personnes âgées de moins de soixante-huit ans et assurées en vertu de l’article 1er, numéros 1) à 5) et 7)».
 
-<a id="art_N4CBEB"></a>
+<a id="art_N4CBED"></a>
 
 ### Art. 56.
 
@@ -25851,13 +25851,13 @@ Sont abrogées à partir de la date d’entrée en vigueur de la présente loi t
 
 #### Version consolidée applicable au 08/07/2012 : Règlement grand-ducal du 19 juin 1996 fixant les modalités d'exécution du titre V de la loi sur la coopération au développement portant institution d'un congé coopération au développement.
 
-<a id="art_N4CC5C"></a>
+<a id="art_N4CC5E"></a>
 
 ### Art. 1er.
 
 Peuvent bénéficier du congé de coopération au développement, sous réserve des dispositions de l’article 40 de la loi du 6 janvier 1996 sur la coopération au développement, les experts ou représentants d’une organisation non gouvernementale agréée qui remplissent les conditions prévues à l’article 34 de ladite loi, à l’exclusion des salariés d’une telle organisation.
 
-<a id="art_N4CC96"></a>
+<a id="art_N4CC98"></a>
 
 ### Art. 2.
 
@@ -25869,13 +25869,13 @@ Peuvent être pris en considération pour l’octroi du congé:
 - les échanges organisés dans le cadre de programmes ou de projets dans le domaine de la coopération au développement;
 - toute sorte de réunion relative à la coopération au développement à laquelle un représentant luxembourgeois est délégué par le ministre ayant dans ses attributions la coopération au développement.
 
-<a id="art_N4CCDB"></a>
+<a id="art_N4CCDD"></a>
 
 ### Art. 3.
 
 Chaque congé doit être approuvé quant à son principe et quant à sa durée par le ministre ayant dans ses attributions la coopération au développement, désigné ci-après par «le ministre», le comité interministériel prévu à l’article 50 de la loi prévisée entendu en son avis.
 
-<a id="art_N4CD12"></a>
+<a id="art_N4CD14"></a>
 
 ### Art. 4.
 
@@ -25897,7 +25897,7 @@ La décision par laquelle le ministre accorde ou refuse l’octroi d’un congé
 
 La demande accompagnée de cette décision sera présentée par l’intéressé, s’il exerce une occupation salariée, à son employeur au moins quinze jours avant le commencement du congé sollicité.
 
-<a id="art_N4CD7E"></a>
+<a id="art_N4CD80"></a>
 
 ### Art. 5.
 
@@ -25905,13 +25905,13 @@ L’expert ou le représentant de l’organisation non gouvernementale exerçant
 
 La déclaration doit être accompagnée d’une attestation de l’organisation non gouvernementale agréée compétente certifiant la participation effective de l’intéressé à l’activité pour laquelle le congé a été accordé.
 
-<a id="art_N4CDB9"></a>
+<a id="art_N4CDBB"></a>
 
 ### Art. 6.
 
 L’indemnité compensatoire revenant à l’expert ou au représentant de l’organisation non gouvernementale agréée exerçant une occupation salariée en application de l’article 44 de la loi prévisée du 6 janvier 1996, augmentée de la part patronale des cotisations sociales, avancée par l’employeur est remboursée à ce dernier sur présentation d’une déclaration écrite, accompagnée de l’attestation prévue à l’alinéa 2 de l’article 5 ci-avant.
 
-<a id="art_N4CDF0"></a>
+<a id="art_N4CDF2"></a>
 
 ### Art. 7.
 
@@ -25919,25 +25919,25 @@ Notre ministre ayant dans ses attributions la coopération au développement est
 
 #### Version consolidée applicable au 28/06/2004 : Règlement grand-ducal du 20 décembre 2001 déterminant le régime des indemnités des agents de la coopération au service de l'Etat visés à l'article 23 de la loi du 6 janvier 1996 sur la coopération au développement.
 
-<a id="art_N4CE37"></a>
+<a id="art_N4CE39"></a>
 
 ### Art. 1er.
 
 Sont considérés comme agents de la coopération au service de l’Etat les agents de la coopération qui, au sens de l'article 23 de la loi du 6 janvier 1996 sur la coopération au développement, collaborent à la mise en œuvre d'un programme ou projet de développement en faveur des populations des pays en développement et dont la réalisation incombe au Gouvernement luxembourgeois.
 
-<a id="art_N4CE71"></a>
+<a id="art_N4CE73"></a>
 
 ### Art. 2.
 
 Les indemnités des agents de la coopération au service de l’Etat sont fixées conformément aux dispositions du règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat.
 
-<a id="art_N4CEA8"></a>
+<a id="art_N4CEAA"></a>
 
 ### Art. 3.
 
 Les agents de la coopération sont considérés comme étant en période de stage pendant les deux premières années de service. Les réductions de la période de stage sont accordées, le cas échéant par application analogique, conformément au règlement grand-ducal du 30 janvier 2004 déterminant les cas d’exception ou de tempérament aux conditions de stage, de formation pendant le stage et d’examen de fin de stage pour certains candidats des administrations de l’Etat.
 
-<a id="art_N4CEDF"></a>
+<a id="art_N4CEE1"></a>
 
 ### Art. 4.
 
@@ -25947,7 +25947,7 @@ Les agents de la coopération sont considérés comme étant en période de stag
 
 **(3)** Les agents de la coopération qui sont au service de l’Etat au moment de l'entrée en vigueur du présent règlement conserveront, à titre personnel, le bénéfice de l'indemnité dont ils jouissaient avant l'entrée en vigueur du présent règlement aussi longtemps que celle-ci est plus élevée que l'indemnité qui leur serait due en vertu des dispositions du présent règlement. Pour les agents de la coopération dont l'indemnité est inférieure à celle qui leur est due en vertu du présent règlement, les dispositions du présent règlement s’appliquent.
 
-<a id="art_N4CF40"></a>
+<a id="art_N4CF42"></a>
 
 ### Art. 5.
 
@@ -25955,25 +25955,25 @@ Notre Ministre de la Coopération, de l’Action humanitaire et de la Défense e
 
 #### Règlement grand-ducal du 7 août 2012 fixant la composition et le fonctionnement du comité interministériel pour la coopération au développement.
 
-<a id="art_N4CF87"></a>
+<a id="art_N4CF89"></a>
 
 ### Art. 1er.
 
 Chaque membre du gouvernement désigne, pour la durée de son mandat, un délégué pour siéger au comité interministériel et en informe le ministre ayant dans ses attributions la Coopération et l'Action humanitaire, ci-après «le ministre». Le ministre des Finances sera en outre représenté par un agent de l'Inspection générale des finances.
 
-<a id="art_N4CF9A"></a>
+<a id="art_N4CF9C"></a>
 
 ### Art. 2.
 
 Le comité interministériel est présidé par un délégué désigné par le ministre.
 
-<a id="art_N4CFAA"></a>
+<a id="art_N4CFAC"></a>
 
 ### Art. 3.
 
 Le comité interministériel se réunit tous les deux mois et chaque fois qu'il s'avère nécessaire sur convocation écrite de son président. Le président peut inviter des experts, ce y compris des représentants de la société civile, à assister aux réunions du comité interministériel.
 
-<a id="art_N4CFBA"></a>
+<a id="art_N4CFBC"></a>
 
 ### Art. 4.
 
@@ -25988,7 +25988,7 @@ Le comité interministériel donne son avis dans les matières suivantes:
 
 L'avis du comité interministériel peut être recueilli par voie écrite, ce y compris le recours à la procédure de silence sur base d'une proposition de son président.
 
-<a id="art_N4CFE3"></a>
+<a id="art_N4CFE5"></a>
 
 ### Art. 5.
 
@@ -25998,7 +25998,7 @@ Le comité interministériel formule des propositions dans les matières suivant
 2. la fixation de l'indemnité de séjour allouée aux agents de la coopération;
 3. la détermination d'une rémunération de référence prise en compte pour la détermination des cotisations et prestations sociales pour les coopérants.
 
-<a id="art_N4D000"></a>
+<a id="art_N4D002"></a>
 
 ### Art. 6.
 
@@ -26006,13 +26006,13 @@ Le secrétariat du comité interministériel est assuré par un fonctionnaire re
 
 A l'issue de chaque réunion du comité interministériel un procès-verbal est rédigé à l'attention du ministre. Une attention particulière est accordée à la cohérence des politiques pour le développement.
 
-<a id="art_N4D013"></a>
+<a id="art_N4D015"></a>
 
 ### Art. 7.
 
 Le règlement grand-ducal du 14 février 1996 fixant la composition et le fonctionnement du comité interministériel pour la coopération au développement est abrogé.
 
-<a id="art_N4D027"></a>
+<a id="art_N4D029"></a>
 
 ### Art. 8.
 
@@ -26024,7 +26024,7 @@ Notre Ministre ayant dans ses attributions la Coopération et l'Action humanitai
 
 ##### **Chapitre I. ** — **Dispositions générales**
 
-<a id="art_N4D06D"></a>
+<a id="art_N4D06F"></a>
 
 ### Art. 1er.
 
@@ -26042,7 +26042,7 @@ Notre Ministre ayant dans ses attributions la Coopération et l'Action humanitai
 
 **(7)** Ne tombent pas sous le champ d’application de la présente loi, la participation à des entraînements tels que visés par la loi du 22 avril 2009 portant réglementation des compensations et récupérations en faveur du personnel militaire de carrière pour sa participation aux entraînements et instructions militaires ainsi qu’au service de garde et son règlement d’exécution.
 
-<a id="art_N4D11B"></a>
+<a id="art_N4D11D"></a>
 
 ### Art. 2.
 
@@ -26057,7 +26057,7 @@ Notre Ministre ayant dans ses attributions la Coopération et l'Action humanitai
 
 Pour le cas particulier de la participation du Grand-Duché de Luxembourg à des forces de réaction rapide de l’OTAN ou de l’UE, la procédure réglementaire est initiée au moment où la décision de principe sur la participation luxembourgeoise à la rotation de telles forces doit être prise, nonobstant le fait que l’objet précis de l’opération potentielle n’est pas encore connu à ce moment. Toutefois, la prise du règlement grand-ducal à ce stade ne porte pas préjudice à la consultation des commissions compétentes de la Chambre des Députés et, le cas échéant, au débat en séance publique, tels que prévus à l’article 1er, paragraphes 4 et 5, lors du déploiement effectif des forces de réaction rapide de l’OTAN ou de l’UE.
 
-<a id="art_N4D197"></a>
+<a id="art_N4D199"></a>
 
 ### Art. 3.
 
@@ -26067,7 +26067,7 @@ Pour le cas particulier de la participation du Grand-Duché de Luxembourg à des
 
 En cas de besoin, le ministre ayant la Police dans ses attributions peut désigner d’office des membres du cadre policier de la Police grand-ducale pour la participation à des opérations.
 
-<a id="art_N4D1F5"></a>
+<a id="art_N4D1F7"></a>
 
 ### Art. 4.
 
@@ -26077,7 +26077,7 @@ Le remboursement s’effectue d’après un accord à conclure avec cette organi
 
 ##### **Chapitre II.** — **Des participants civils**
 
-<a id="art_N4D241"></a>
+<a id="art_N4D243"></a>
 
 ### Art. 5.
 
@@ -26097,13 +26097,13 @@ Le remboursement s’effectue d’après un accord à conclure avec cette organi
 
 **(10)** L’exécution des dispositions du présent article est assurée, après délibération du Gouvernement en Conseil, par l’autorité compétente.
 
-<a id="art_N4D346"></a>
+<a id="art_N4D348"></a>
 
 ### Art. 6.
 
 La loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est modifiée et complétée comme suit : L’article 1er paragraphe 3 alinéa 2 est remplacé par le texte suivant:Les articles 2 paragraphe 1er, 6, 8 et 9, paragraphes 1er, 2 et 4, les articles 10 à 20, les articles 22 à 25, les articles 28 - à l’exception du point k) - et 29, 30 paragraphes 1er - à l’exception du dernier alinéa - 3 et 4,32 à 36 paragraphes 1er et 2, l’article 37 - pour autant qu’il concerne la sécurité sociale -, l’article 38 paragraphe 1er - à l’exception de c) et d) -, les articles 39, 44 et 47 numéros 1 à 3, l’article 54 paragraphe 1er ainsi que l’article 74.A l’article 28 paragraphe 1er est ajouté un nouveau point k) libellé comme suit :le congé spécial pour la participation à des opérations pour le maintien de paix.
 
-<a id="art_N4D3BF"></a>
+<a id="art_N4D3C1"></a>
 
 ### Art. 7.
 
@@ -26111,7 +26111,7 @@ La présente loi s’applique également au personnel des communes, de la Socié
 
 Pour l’application des dispositions de la présente loi à ces personnes, lesquelles sont assimilées à des agents de l’Etat, notamment au sens de l’article 5 ci-dessus, les notions «autorité compétente», «Ministre du ressort», et «autorité investie du pouvoir de nomination» visent l’autorité compétente pour l’engagement des agents concernés.
 
-<a id="art_N4D3FA"></a>
+<a id="art_N4D3FC"></a>
 
 ### Art. 8.
 
@@ -26145,7 +26145,7 @@ En vue de la fixation de cette rémunération, il est notamment tenu compte du n
 
 **(8)** Le contrat de travail liant le participant à son employeur reprend ses effets de plein droit du fait de la reprise du travail par le participant dès la cessation du contrat conclu avec le ministre du ressort conformément au paragraphe (5).
 
-<a id="art_N4D575"></a>
+<a id="art_N4D577"></a>
 
 ### Art. 9.
 
@@ -26153,7 +26153,7 @@ En vue de la fixation de cette rémunération, il est notamment tenu compte du n
 
 **(2)** Cette indemnité spéciale, fixée par le Gouvernement en Conseil, est exempte d’impôts et de cotisations sociales.
 
-<a id="art_N4D5BE"></a>
+<a id="art_N4D5C0"></a>
 
 ### Art. 10.
 
@@ -26172,7 +26172,7 @@ En vue de la fixation de cette rémunération, il est notamment tenu compte du n
 
 ##### **Chapitre III. ** — **Des membres de la Force publique**
 
-<a id="art_N4D674"></a>
+<a id="art_N4D676"></a>
 
 ### Art. 11.
 
@@ -26182,19 +26182,19 @@ En vue de la fixation de cette rémunération, il est notamment tenu compte du n
 
 **(3)** S’ils sont choisis par le ministre ayant les Affaires étrangères dans ses attributions , ils sont considérés comme participants civils à une opération pour le maintien de la paix au sens des dispositions de la présente loi.
 
-<a id="art_N4D6F1"></a>
+<a id="art_N4D6F3"></a>
 
 ### Art. 12.
 
 Les dispositions prévues à l’article 9 de la présente loi et à l’article 4 de la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois sont applicables aux membres d’un contingent de la Force publique pour les opérations.
 
-<a id="art_N4D735"></a>
+<a id="art_N4D737"></a>
 
-### art_N4D735
+### art_N4D737
 
 
 
-<a id="art_N4D7BF"></a>
+<a id="art_N4D7C1"></a>
 
 ### Art. 14.
 
@@ -26202,7 +26202,7 @@ Les dispositions prévues à l’article 9 de la présente loi et à l’article
 
 **(2)** La commission est délivrée et retirée par le ministre ayant la Police dans ses attributions , le ministre ayant les Affaires étrangères dans ses attributions et le chef d’État-major de l’Armée entendus en leur avis.
 
-<a id="art_N4D840"></a>
+<a id="art_N4D842"></a>
 
 ### Art. 15.
 
@@ -26210,13 +26210,13 @@ Les dispositions prévues à l’article 9 de la présente loi et à l’article
 
 **(2)** La commission est délivrée et retirée par le ministre ayant la Police grand-ducale dans ses attributions, le ministre ayant les Affaires étrangères dans ses attributions et le Directeur général de la Police grand-ducale entendus en leur avis.
 
-<a id="art_N4D895"></a>
+<a id="art_N4D897"></a>
 
 ### Art. 16.
 
 Pour tout ce qui concerne l’autorisation du port d’armes et l’usage de celles-ci, les membres de la Force publique se conforment aux règles d’engagement et aux ordres émis par la chaîne hiérarchique de l’opération à laquelle ils participent.
 
-<a id="art_N4D8D3"></a>
+<a id="art_N4D8D5"></a>
 
 ### Art. 17.
 
@@ -26226,7 +26226,7 @@ Pour tout ce qui concerne l’autorisation du port d’armes et l’usage de cel
 
 **(3)** Les dispositions des paragraphes 1er et 2 ne s’appliquent pas si l’Etat rapporte la preuve que l’invalidité est imputable à des événements qui ne sont pas en rapport avec la participation à une opération pour le maintien de la paix.
 
-<a id="art_N4D934"></a>
+<a id="art_N4D936"></a>
 
 ### Art. 17bis.
 
@@ -26236,7 +26236,7 @@ La demi-journée du congé spécial octroyée par sept jours passés en mission 
 
 ##### **Chapitre IV.** — **Dispositions relatives à la sécurité sociale**
 
-<a id="art_N4D96D"></a>
+<a id="art_N4D96F"></a>
 
 ### Art. 18.
 
@@ -26244,7 +26244,7 @@ La demi-journée du congé spécial octroyée par sept jours passés en mission 
 
 **(2)** Le participant issu du secteur privé continue à relever du régime de sécurité sociale des salariés.
 
-<a id="art_N4D9CE"></a>
+<a id="art_N4D9D0"></a>
 
 ### Art. 19.
 
@@ -26258,7 +26258,7 @@ La demi-journée du congé spécial octroyée par sept jours passés en mission 
 
 **(5)** Les dispositions de l’article 1er, alinéa 5, de la loi du 26 mars 1974 portant fixation de suppléments de pension à allouer aux personnes devenues victimes d’actes illégaux de l’occupant en cas d’invalidité ou de décès précoces sont applicables par analogie aux participants à une opération pour le maintien de la paix.
 
-<a id="art_N4DA54"></a>
+<a id="art_N4DA56"></a>
 
 ### Art. 20.
 
@@ -26274,7 +26274,7 @@ La demi-journée du congé spécial octroyée par sept jours passés en mission 
 
 **(3)** A l’article 12.I.c) de la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics est ajouté un numéro 4 libellé ainsi:Le temps passé comme participant à des opérations pour le maintien de la paix, conformément à la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le cadre d’organisations internationales.
 
-<a id="art_N4DB4D"></a>
+<a id="art_N4DB4F"></a>
 
 ### Art. 21.
 
@@ -26282,19 +26282,19 @@ L’enfant d’un participant à une opération pour le maintien de la paix déc
 
 ##### **Chapitre V.** — **Dispositions pénales et disciplinaires**
 
-<a id="art_N4DB90"></a>
+<a id="art_N4DB92"></a>
 
 ### Art. 22.
 
 Les personnes auxquelles la loi a déclaré applicables les dispositions du code pénal militaire luxembourgeois demeurent soumises aux dispositions de ce code et relèvent de la compétence des juridictions militaires luxembourgeoises à l’occasion de leur participation à une opération pour le maintien de la paix.
 
-<a id="art_N4DBC7"></a>
+<a id="art_N4DBC9"></a>
 
 ### Art. 23.
 
 Par dérogation à l’article 5 du code d’instruction criminelle, toute personne qui, pendant sa participation à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois, se rend coupable d’un fait punissable selon la loi luxembourgeoise, peut être poursuivie et jugée dans le Grand-Duché de Luxembourg .
 
-<a id="art_N4DC0A"></a>
+<a id="art_N4DC0C"></a>
 
 ### Art. 24.
 
@@ -26312,25 +26312,25 @@ Contre les décisions prononçant le rappel et la perte des avantages, un recour
 
 **(5)** Sans préjudice des sanctions disciplinaires prévues aux alinéas précédents, les dispositions des articles 246, 247, 248, 257 et 260 du code pénal sont applicables aux personnes qui participent à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois pour les actes commis à l’occasion de leur mission.
 
-<a id="art_N4DCB7"></a>
+<a id="art_N4DCB9"></a>
 
 ### Art. 25.
 
 La personne nommée chef du contingent civil par un arrêté du ministre ayant les Affaires étrangères dans ses attributions est investie des pouvoirs qui incombent au chef d’administration en ce qui concerne la discipline et la hiérarchie tels que définis dans la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
 
-<a id="art_N4DCFA"></a>
+<a id="art_N4DCFC"></a>
 
 ### Art. 26.
 
 Le membre de la Force publique participant à une opération pour le maintien de la paix reste soumis au règlement de discipline luxembourgeois, tel que défini dans la loi du 16 avril 1979 concernant la discipline dans la Force publique et la loi du 18 juillet 2018 relative au statut disciplinaire du personnel du cadre policier de la Police grand-ducale .
 
-<a id="art_N4DD43"></a>
+<a id="art_N4DD45"></a>
 
 ### Art. 27.
 
 Sans préjudice des dispositions de l’article 23 de la loi du 16 avril 1979 concernant la discipline dans la Force publique et de l’article 1er de la loi du 18 juillet 2018 relative au statut disciplinaire du personnel du cadre policier de la Police grand-ducale et par dérogation à l’article 24 de la présente loi, le membre de la Force publique qui participe à une opération à titre de personne civile n’est plus, pour la durée de sa mission, soumis au code pénal militaire ou au règlement de discipline de la Force publique.
 
-<a id="art_N4DD90"></a>
+<a id="art_N4DD92"></a>
 
 ### Art. 28.
 
@@ -26338,7 +26338,7 @@ Sans préjudice des dispositions de l’article 23 de la loi du 16 avril 1979 co
 
 **(2)** Toute infraction à la disposition du paragraphe 1 er constitue une infraction respectivement à la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, à la loi modifiée du 16 avril 1979 ayant pour objet la discipline dans la Force publique et à la loi du 18 juillet 2018 relative au statut disciplinaire du personnel du cadre policier de la Police grand-ducale et est punissable comme telle.
 
-<a id="art_N4DDFA"></a>
+<a id="art_N4DDFC"></a>
 
 ### Art. 29.
 
@@ -26354,13 +26354,13 @@ Celui-ci, après concertation avec les autorités compétentes ou après concert
 
 ##### **Chapitre VI.** — **Dispositions finales**
 
-<a id="art_N4DE5C"></a>
+<a id="art_N4DE5E"></a>
 
 ### Art. 30.
 
 Est assimilée à une opération pour le maintien de la paix au sens de la présente loi, la participation de fonctionnaires civils et militaires à la mission des observateurs de la Communauté Européenne en Yougoslavie.
 
-<a id="art_N4DE8E"></a>
+<a id="art_N4DE90"></a>
 
 ### Art. 31.
 
@@ -26370,19 +26370,19 @@ Le Gouvernement est autorisé à appliquer à titre rétroactif le bénéfice de
 
 #### Règlement grand-ducal du 22 mai 1980 ayant pour objet l'assimilation au régime des employés de l'Etat du personnel de la Chambre des Fonctionnaires et Employés publics qui, auprès de l'Etat, répond à la notion d'employé de l'Etat.
 
-<a id="art_N4DEE7"></a>
+<a id="art_N4DEE9"></a>
 
 ### Art. 1er.
 
 Le personnel de la Chambre des Fonctionnaires et Employés publics qui, auprès de l'Etat, répond à la notion d'«employé de l'Etat», est assimilé au régime des employés de l'Etat.
 
-<a id="art_N4DEFA"></a>
+<a id="art_N4DEFC"></a>
 
 ### Art. 2.
 
 Les décisions ou interventions qui sont attribuées dans les lois et règlements concernant les employés de l'Etat aux membres du Gouvernement sont dévolues aux organes compétents de la Chambre des Fonctionnaires et Employés publics, sous réserve d'approbation par le Ministre de la Fonction Publique.
 
-<a id="art_N4DF0A"></a>
+<a id="art_N4DF0C"></a>
 
 ### Art. 3.
 
@@ -26390,37 +26390,37 @@ Notre Ministre de la Fonction Publique est chargé de l'exécution du présent r
 
 #### Règlement grand-ducal du 5 juin 1989 autorisant la création et l'exploitation d'une banque de données des électeurs de la Chambre des fonctionnaires et employés publics.
 
-<a id="art_N4DF2F"></a>
+<a id="art_N4DF31"></a>
 
 ### Art. 1er.
 
 Sont autorisées la création et l´exploitation d´une banque de données des électeurs de la Chambre des fonctionnaires et employés publics pour le compte du ministre de la Fonction publique.
 
-<a id="art_N4DF42"></a>
+<a id="art_N4DF44"></a>
 
 ### Art. 2.
 
 La banque de données contient les informations relatives au nom, prénoms, fonction, adresse et date de naissance de chaque électeur de la Chambre des fonctionnaires et employés publics. Sont enregistrés en outre à propos de chaque électeur la catégorie d´électeur à laquelle il appartient et un numéro d´ordre.
 
-<a id="art_N4DF52"></a>
+<a id="art_N4DF54"></a>
 
 ### Art. 3.
 
 Le ministre de la Fonction publique transmet à chaque collège des bourgmestre et échevins les listes des électeurs ayant leur domicile dans la commune.
 
-<a id="art_N4DF62"></a>
+<a id="art_N4DF64"></a>
 
 ### Art. 4.
 
 Le Centre Informatique de l´Etat est chargé de la gestion de la banque de données.
 
-<a id="art_N4DF72"></a>
+<a id="art_N4DF74"></a>
 
 ### Art. 5.
 
 L´autorisation prévue à l´article premier est valable à partir de l´entrée en vigueur du présent règlement et expire au 31 décembre 1993.
 
-<a id="art_N4DF82"></a>
+<a id="art_N4DF84"></a>
 
 ### Art. 6.
 
@@ -26428,43 +26428,43 @@ Notre Président du Gouvernement, ministre d´Etat, Notre ministre de la Fonctio
 
 #### Règlement grand-ducal du 26 octobre 1999 1. renouvelant l'autorisation d'exploitation de la banque de données des électeurs de la Chambre des fonctionnaires et employés publics 2. autorisant l'utilisation du numéro d'identité des personnes physiques et morales.
 
-<a id="art_N4DFA7"></a>
+<a id="art_N4DFA9"></a>
 
 ### Art. 1er.
 
 Est renouvelée, pour le compte du Ministère de la Fonction publique et de la Réforme administrative, l'autorisation de l'exploitation de la banque de données des électeurs de la Chambre des fonctionnaires et employés publics, créée par règlement grand-ducal du 5 juin 1989.
 
-<a id="art_N4DFBA"></a>
+<a id="art_N4DFBC"></a>
 
 ### Art. 2.
 
 La banque de données contient les informations relatives au nom, prénoms, fonction, adresse, date de naissance et numéro d'identité de chaque électeur de la Chambre des fonctionnaires et employés publics. Sont enregistrés en outre à propos de chaque électeur, la catégorie d'électeur à laquelle il appartient et un numéro d'ordre.
 
-<a id="art_N4DFCA"></a>
+<a id="art_N4DFCC"></a>
 
 ### Art. 3.
 
 Le Ministre de la Fonction publique et de la Réforme administrative est autorisé à transmettre à chaque collège des bourgmestre et échevins les listes des électeurs ayant leur domicile dans la commune.
 
-<a id="art_N4DFDA"></a>
+<a id="art_N4DFDC"></a>
 
 ### Art. 4.
 
 Le Centre Informatique de l'Etat est chargé de la gestion de la banque de données.
 
-<a id="art_N4DFEA"></a>
+<a id="art_N4DFEC"></a>
 
 ### Art. 5.
 
 L'autorisation prévue à l'article 1er expire au 31 décembre 2005.
 
-<a id="art_N4DFFD"></a>
+<a id="art_N4DFFF"></a>
 
 ### Art. 6.
 
 L'article 1er du règlement grand-ducal du 7 juin 1979 déterminant les actes, documents et fichiers autorisés à utiliser le numéro d'identité des personnes physiques et morales, tel qu'il a été complété par la suite, est complété par le fichier suivant: «la banque de données nominatives des électeurs de la Chambre des fonctionnaires et employés publics».
 
-<a id="art_N4E010"></a>
+<a id="art_N4E012"></a>
 
 ### Art. 7.
 
@@ -26472,13 +26472,13 @@ Notre Ministre de la Fonction publique et de la Réforme administrative et notre
 
 #### Règlement grand-ducal du 13 mars 2009 déterminant le mode de perception des cotisations mises à charge des ressortissants de la Chambre des Fonctionnaires et Employés publics.
 
-<a id="art_N4E035"></a>
+<a id="art_N4E037"></a>
 
 ### Art. 1er.
 
 La perception des cotisations mises à charge des ressortissants de la Chambre des Fonctionnaires et Employés publics est opérée par l'employeur par voie de retenue sur les traitements, indemnités ou pensions.
 
-<a id="art_N4E048"></a>
+<a id="art_N4E04A"></a>
 
 ### Art. 2.
 
@@ -26490,7 +26490,7 @@ Elle est due indépendamment du nombre d'heures de travail prestées par le ress
 
 Ne sont pas redevables de la cotisation, les agents des institutions précitées qui bénéficient d'un congé sans traitement ou d'un congé spécial pour l'exercice d'une fonction internationale. Il en est de même des personnes bénéficiant d'une pension de survie.
 
-<a id="art_N4E064"></a>
+<a id="art_N4E066"></a>
 
 ### Art. 3.
 
@@ -26500,13 +26500,13 @@ Si le ressortissant a droit à l'indemnité forfaitaire accordée pendant le con
 
 Lorsqu'un ressortissant s'est vu prélever plus d'une cotisation, la Chambre des Fonctionnaires et Employés publics lui rembourse le trop-perçu sur simple demande.
 
-<a id="art_N4E07D"></a>
+<a id="art_N4E07F"></a>
 
 ### Art. 4.
 
 Le règlement grand-ducal du 17 juin 1966 déterminant le mode de perception des cotisations mises à charge des ressortissants de la chambre des fonctionnaires et employés publics est abrogé.
 
-<a id="art_N4E091"></a>
+<a id="art_N4E093"></a>
 
 ### Art. 5.
 
@@ -26514,21 +26514,21 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 #### **voir également :**
 
-##### Version consolidée applicable au 02/04/2024 : Loi du 4 avril 1924 portant création de chambres professionnelles à base élective.
+##### Version consolidée applicable au 06/08/2024 : Loi du 4 avril 1924 portant création de chambres professionnelles à base élective.
 
-<a id="art_N4E0C5"></a>
+<a id="art_N4E0C7"></a>
 
 ### Art. 1er.
 
 II est institué une Chambre d’agriculture, une Chambre des métiers, une Chambre des salariés et une Chambre des fonctionnaires et employés publics.
 
-<a id="art_N4E0FF"></a>
+<a id="art_N4E101"></a>
 
 ### Art. 2.
 
 Les chambres professionnelles jouissent des avantages de la personnification civile. Elles peuvent acquérir, recevoir, posséder, emprunter, aliéner, ester en justice, en un mot faire tous les actes et transactions que leur objet comporte, à l’exception des entreprises commerciales ou industrielles, et ce dans les limites de leurs attributions telles qu’elles seront définies ci-après.
 
-<a id="art_N4E136"></a>
+<a id="art_N4E138"></a>
 
 ### Art. 3.
 
@@ -26549,7 +26549,7 @@ En cas de non-payement le recouvrement des arriérés pourra être effectué par
 
 La prescription sera acquise trois ans après la remise de l’extrait du rôle.
 
-<a id="art_N4E1AD"></a>
+<a id="art_N4E1AF"></a>
 
 ### Art. 4.
 
@@ -26557,13 +26557,13 @@ Chaque chambre est composée de membres effectifs et de membres suppléants. Ils
 
 Il est attaché à chaque chambre un secrétaire nommé et rémunéré par elle. La nomination en est toutefois soumise à l’approbation du Gouvernement.
 
-<a id="art_N4E1ED"></a>
+<a id="art_N4E1EF"></a>
 
 ### Art. 5.
 
 Sont électeurs tous les ressortissants d’une chambre professionnelle âgés de 16 ans accomplis, sans préjudice d’autres conditions d’électorat prévues par les dispositions particulières régissant les différentes chambres.
 
-<a id="art_N4E230"></a>
+<a id="art_N4E232"></a>
 
 ### Art. 6.
 
@@ -26582,7 +26582,7 @@ Ne peuvent être admis comme preuve de justification de la condition d’honorab
 
 Lorsque le candidat réside à l’étranger, seuls les documents équivalents émanant de l’autorité compétente de l’Etat de résidence sont à produire.
 
-<a id="art_N4E2C6"></a>
+<a id="art_N4E2C8"></a>
 
 ### Art. 7.
 
@@ -26594,19 +26594,21 @@ Par dérogation aux dispositions de l’alinéa qui précède, les élections po
 
 Par dérogation aux dispositions de l’alinéa 2, les élections pour le renouvellement de la Chambre d’agriculture auront lieu au cours des mois de février ou de mars, aux jour et heure à déterminer par le ministre ayant l’Agriculture dans ses attributions. En outre, les mandats en cours des membres du collège des agriculteurs, du collège des viticulteurs et du collège des horticulteurs de la Chambre d’agriculture sont prolongés au-delà d’une durée de cinq ans jusqu’à l’entrée en fonction des membres des trois collèges élus suite à chaque élection ayant pour objet de déterminer une nouvelle composition de la Chambre d’agriculture.
 
-<a id="art_N4E33C"></a>
+Par dérogation à l’alinéa 2, les élections pour le renouvellement de la Chambre des fonctionnaires et employés publics auront lieu au cours des mois de février, mars ou avril, aux jour et heure à déterminer par le ministre ayant la Fonction publique dans ses attributions.
+
+<a id="art_N4E353"></a>
 
 ### Art. 8.
 
 Le mandat de délégué d’une chambre professionnelle est incompatible avec celui de parlementaire et avec les fonctions de conseiller d’Etat, sans préjudice d’autres incompatibilités le cas échéant prévues par des dispositions légales et réglementaires particulières.
 
-<a id="art_N4E373"></a>
+<a id="art_N4E38A"></a>
 
-### art_N4E373
+### art_N4E38A
 
 
 
-<a id="art_N4E3B0"></a>
+<a id="art_N4E3C7"></a>
 
 ### Art. 10.
 
@@ -26622,7 +26624,7 @@ La liste renseigne pour chaque électeur les nom, prénoms, nationalité, date e
 
 **(4)** Pour les élections à la Chambre d’agriculture, la liste des électeurs est établie par le Ministre ayant l’agriculture dans ses attributions, à la date par lui fixée, sur base des données lui fournies à cette fin par le Centre commun de la sécurité sociale, séparément pour chaque groupe.
 
-<a id="art_N4E430"></a>
+<a id="art_N4E447"></a>
 
 ### Art. 11.
 
@@ -26644,13 +26646,13 @@ Toute personne incorrectement ou indûment inscrite ou omise peut présenter un 
 
 Le recours est en outre exercé pour chacune des chambres par la personne à désigner à cette fin par le Gouvernement.
 
-<a id="art_N4E4BD"></a>
+<a id="art_N4E4D4"></a>
 
 ### Art. 12.
 
 Dans les trois jours à partir de l’expiration du délai de recours, respectivement le collège des bourgmestre et échevins et la personne désignée conformément à l’article 11 (2), alinéa 4, en ce qui concerne les élections à la Chambre des salariés et à la Chambre d’agriculture, transmettent ces recours et toutes les pièces qui s’y rapportent au juge de paix qui statue en audience publique, toutes affaires cessantes, après avoir entendu les parties et, s’il le juge utile, un délégué du collège échevinal, respectivement la personne désignée conformément à l’article 11 (2), alinéa 4. Dans tous les cas les débats seront publics et le jugement est réputé contradictoire.
 
-<a id="art_N4E4F4"></a>
+<a id="art_N4E50B"></a>
 
 ### Art. 13.
 
@@ -26658,7 +26660,7 @@ Toutes réclamations, tous exploits, actes de procédure et expéditions en mati
 
 Toutes les pièces sont dispensées de l’enregistrement.
 
-<a id="art_N4E534"></a>
+<a id="art_N4E54B"></a>
 
 ### Art. 14.
 
@@ -26668,7 +26670,7 @@ Sont élus délégués suppléants, les candidats rangeant, par le nombre des vo
 
 Toutefois un règlement d’administration publique peut décréter que l’élection des délégués des chambres professionnelles aura lieu au scrutin de liste et suivant les règles de la représentation proportionnelle établies par la loi électorale du 16 août 1919.
 
-<a id="art_N4E582"></a>
+<a id="art_N4E599"></a>
 
 ### Art. 15.
 
@@ -26678,7 +26680,7 @@ La Cour statue au fond, dans les vingt jours suivant la date à laquelle elle a 
 
 Lorsqu’une élection est définitivement déclarée nulle, le ministre compétent fixe jour dans la huitaine à l’effet de procéder à de nouveaux scrutins dans les soixante jours.
 
-<a id="art_N4E5CB"></a>
+<a id="art_N4E5E2"></a>
 
 ### Art. 16.
 
@@ -26690,7 +26692,7 @@ Le cas échéant, ce règlement désigne également les propriétaires ou gestio
 
 **(3)** Le ministre compétent peut instituer un ou plusieurs bureaux de vote réunissant tous les électeurs d’un groupe professionnel, pourvu que leur nombre ne dépasse pas 200 pour le Grand-Duché.
 
-<a id="art_N4E632"></a>
+<a id="art_N4E649"></a>
 
 ### Art. 17.
 
@@ -26698,7 +26700,7 @@ Il est interdit d’opérer ou de demander l’inscription d’une personne sur 
 
 L’auteur de l’infraction commise sciemment sera puni d’une amende de 251 à 2.500 euros.
 
-<a id="art_N4E672"></a>
+<a id="art_N4E689"></a>
 
 ### Art. 17bis.
 
@@ -26707,7 +26709,7 @@ Ne peuvent se présenter en tant que candidats aux élections :
 1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;
 2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.
 
-<a id="art_N4E6B4"></a>
+<a id="art_N4E6CB"></a>
 
 ### Art. 18.
 
@@ -26721,19 +26723,19 @@ Seront punis d'une amende de 251 à 5.000 euros:
 6. tout président, scrutateur ou secrétaire d’un bureau ou tout témoin de candidat qui aura révélé le secret d’un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait; tout membre ou secrétaire d’un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu’il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d’un autre électeur et celui qui, d’une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;
 7. les citoyens qui, invités à remplir au jour de l’élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n’auront pas fait connaître, dans les quarante-huit heures leurs motifs d’empêchement à celui dont l’invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu’à la clôture définitive des procès-verbaux.
 
-<a id="art_N4E72B"></a>
+<a id="art_N4E742"></a>
 
 ### Art. 19.
 
 L’action publique et l’action civile résultant des infractions prévues par la présente loi seront prescrites après six mois révolus à partir du jour où les délits ont été commis.
 
-<a id="art_N4E762"></a>
+<a id="art_N4E779"></a>
 
 ### Art. 20.
 
 Les dispositions afférentes du premier livre du Code pénal, ainsi que les articles 130-1 à 132-1 du code d’instruction criminelle sont applicables à ces mêmes infractions.
 
-<a id="art_N4E7A3"></a>
+<a id="art_N4E7BA"></a>
 
 ### Art. 21.
 
@@ -26743,7 +26745,7 @@ En cas de refus du mandat de délégué ou lorsque, pour un motif quelconque, un
 
 Le remplaçant achève le mandat de celui qu’il remplace.
 
-<a id="art_N4E7EC"></a>
+<a id="art_N4E803"></a>
 
 ### Art. 22.
 
@@ -26751,7 +26753,7 @@ Il est interdit aux patrons et à leurs agents de restreindre les employés et l
 
 Pour le cas où le temps consacré à l’accomplissement de leurs devoirs paraîtrait excessif, il pourra, à la demande du patron, être décidé par justice qu’il y a lieu à réduction de la rémunération servie aux intéressés ou même, suivant la gravité des cas, à résiliation du contrat.
 
-<a id="art_N4E82C"></a>
+<a id="art_N4E843"></a>
 
 ### Art. 23.
 
@@ -26763,7 +26765,7 @@ Par dérogation aux alinéas 1 et 2 ci-dessus, la Chambre des salariés désigne
 
 Le comité désigne parmi ses membres le président de la Chambre des salariés, le ou les vice-présidents conformément à son règlement d’ordre interne.
 
-<a id="art_N4E87E"></a>
+<a id="art_N4E895"></a>
 
 ### Art. 24.
 
@@ -26771,25 +26773,25 @@ Chaque chambre se réunit toutes les fois que son bureau le juge nécessaire ou 
 
 La Chambre des salariés peut s’adjoindre des experts issus des syndicats représentatifs sur le plan national. Ces experts n’ont pas de droit de vote.
 
-<a id="art_N4E8BE"></a>
+<a id="art_N4E8D5"></a>
 
 ### Art. 25.
 
 L’indemnité du secrétaire prévue à l’art. 4, ainsi que les frais de route et de séjour des membres de la chambre seront fixés par cette dernière et liquidés sur son budget.
 
-<a id="art_N4E8F5"></a>
+<a id="art_N4E90C"></a>
 
 ### Art. 26.
 
 Les résolutions des chambres professionnelles sont adoptées à la majorité absolue des voix. Toutefois, si une résolution n’a pas recueilli la majorité absolue des voix lors d’un premier vote, elle peut être adoptée à la majorité des membres présents lors d’un second vote pouvant intervenir au plus tôt huit jours après le premier vote.
 
-<a id="art_N4E92C"></a>
+<a id="art_N4E943"></a>
 
 ### Art. 27.
 
 Le secrétaire dresse pour chaque séance un procès-verbal qui sera porté à la connaissance du Gouvernement.
 
-<a id="art_N4E963"></a>
+<a id="art_N4E97A"></a>
 
 ### Art. 28.
 
@@ -26799,7 +26801,7 @@ Depuis le jour de la dissolution de la chambre jusqu’à celui de la nouvelle c
 
 Il est loisible au Gouvernement de commissionner un délégué à assister aux réunions de la chambre. Ce délégué pourra y prendre la parole chaque fois qu’il le désire et faire des propositions.
 
-<a id="art_N4E9AC"></a>
+<a id="art_N4E9C3"></a>
 
 ### Art. 43bis.
 
@@ -26807,104 +26809,111 @@ La chambre des fonctionnaires et employés publics a pour mission de créer et d
 
 La chambre a le droit de faire des propositions au Gouvernement que ce dernier doit examiner et soumettre à la Chambre des Députés lorsque leur objet rentre dans la compétence de celle-ci, à l’exception toutefois des propositions concernant le régime des rémunérations.
 
-Pour toutes les lois et tous les arrêtés qui concernent principalement les fonctionnaires et employés publics l’avis de la chambre doit être demandé.
+L’avis de la Chambre des fonctionnaires et employés publics est demandé sur tous les projets et propositions de loi, et sur tous les projets de règlements grand-ducaux, y compris les amendements y relatifs, qui concernent principalement les fonctionnaires et employés publics. Un délai raisonnable est dans tous les cas accordé à la Chambre des fonctionnaires et employés publics pour qu’elle puisse émettre son avis.
 
 La chambre des fonctionnaires et employés publics est notamment compétente:
 
 1. pour sauvegarder et défendre les intérêts matériels et moraux des fonctionnaires et employés publics, ainsi que pour veiller à l’observation de la législation et des règlements qui leur sont applicables;
-2. pour donner son avis, avant le vote définitif par la Chambre des députés, sur les lois qui concernent principalement les fonctionnaires et employés publics;
+2. 
 3. pour soumettre au Gouvernement toutes propositions concernant l’organisation des services publics, ainsi que l’amélioration des conditions et des méthodes de travail dans les services publics;
-4. pour prendre des mesures en vue de promouvoir la formation et le perfectionnement professionnels des fonctionnaires et employés publics et pour créer les conditions morales propres à leur permettre d’accomplir au mieux leurs devoirs professionnels.
+4. pour prendre des mesures en vue de promouvoir la formation et le perfectionnement professionnels des fonctionnaires et employés publics et pour créer les conditions morales propres à leur permettre d’accomplir au mieux leurs devoirs professionnels ;
+5. pour établir des statistiques concernant la Fonction publique, ainsi que pour réaliser des études et analyses sur la Fonction publique et les agents publics ;
+6. pour informer, assister et conseiller ses ressortissants sur les matières qui relèvent de son champ d’activité et qui sont d’intérêt général pour la Fonction publique.
 
-<a id="art_N4EA0F"></a>
-
-### Art. 43bis.-2.
-
-Par dérogation aux dispositions de l’article 10 la liste des électeurs à la Chambre des fonctionnaires et employés publics est établie par le ministre de la fonction publique.
-
-En vue de l’établissement de cette liste, le ministre constitue un fichier, comprenant les fonctionnaires et employés en activité de service et retraités de l’Etat, des établissements publics et des communes.
-
-La constitution du fichier se fait en collaboration avec les propriétaires et gestionnaires des banques de données visés à l’article 16, paragraphe 1, alinéa 2 de la présente loi et obligés à mettre à la disposition du ministre les données nécessaires à l’établissement et la mise à jour des listes des électeurs.
-
-La liste des électeurs comprend pour chaque électeur les nom, prénoms, fonction, adresse, numéro matricule national, catégorie et numéro d’ordre.
-
-La liste des électeurs est provisoirement arrêtée pour le 31 octobre de l’année précédant l’élection; elle comprend tous ceux qui à cette date remplissent les conditions de l’électorat.
-
-La liste est contrôlée et le cas échéant corrigée dans le mois qui suit par un comité électoral, institué par arrêté du ministre de la fonction publique.
-
-<a id="art_N4EA73"></a>
-
-### Art. 43bis.-4.
-
-Par dérogation à l’article 12, les recours contre la liste des électeurs à la Chambre des fonctionnaires et employés publics et toutes les pièces qui s’y rapportent sont transmis, dans les trois jours à partir de l’expiration du délai de recours, par le collège des bourgmestre et échevins, au juge de paix-directeur de Luxembourg. Jusqu’au 10 janvier, ce dernier les instruit et il statue en audience publique et en dernière instance. Le juge de paix-directeur peut s’entourer de tous les renseignements utiles et même s’informer auprès de tiers, il entend les parties et un délégué du comité électoral, désigné par le ministre de la fonction publique.
-
-<a id="art_N4EAAA"></a>
+<a id="art_N4EA63"></a>
 
 ### Art. 43ter.
 
-La chambre des fonctionnaires et employés publics se compose de vingt-sept membres effectifs et d’autant de membres suppléants. Les membres seront désignés par la voie de l’élection.
+La chambre des fonctionnaires et employés publics se compose de vingt-neuf membres effectifs et d’autant de membres suppléants. Les membres seront désignés par la voie de l’élection.
 
-L’élection assurera les mandats aux catégories suivantes:
+L’élection assurera les mandats aux groupes suivants :
 
-| Catégorie A | 2 mandats; |
+| Groupe 1 | 3 mandats ; |
 | --- | --- |
-| Catégorie A1 | 1 mandat; |
-| Catégorie B | 5 mandats; |
-| Catégorie C | 9 mandats; |
-| Catégorie D | 2 mandats; |
-| Catégorie E | 5 mandats; |
-| Catégorie F | 1 mandat; |
-| Catégorie G | 2 mandats. |
+| Groupe 2 | 1 mandat ; |
+| Groupe 3 | 4 mandats ; |
+| Groupe 4 | 7 mandats ; |
+| Groupe 5 | 2 mandats ; |
+| Groupe 6 | 2 mandats ; |
+| Groupe 7 | 3 mandats ; |
+| Groupe 8 | 1 mandat ; |
+| Groupe 9 | 5 mandats ; |
+| Groupe 10 | 1 mandat. |
 
-La catégorie A comprend les fonctionnaires de l’État et des établissements publics de la carrière supérieure de l’Enseignement à l’exception des différentes catégories d’instituteurs regroupés dans la catégorie D; la catégorie A1 comprend les fonctionnaires de l’État et des établissements publics de la carrière supérieure qui ne sont pas issus de l’Enseignement; les catégories B et C comprennent les fonctionnaires de l’État et des établissements publics appartenant respectivement aux carrières moyennes et inférieures; la catégorie D regroupe les différentes catégories d’instituteurs et les fonctionnaires de la carrière moyenne de l’Enseignement; la catégorie E comprend les fonctionnaires et employés communaux, la catégorie F les ministres du culte catholique et la catégorie G les employés de l’État et des établissements publics, les chargés de cours de l’enseignement fondamental, secondaire, secondaire technique, supérieur et universitaire occupés de façon prépondérante par l’État, les volontaires de l’Armée ainsi que les volontaires de Police.
+Les différents groupes représentent les ressortissants suivants :
+
+1. le groupe 1 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A1, qui ne relèvent pas de la rubrique « Enseignement » ainsi que les fonctionnaires de l’État appartenant à la Magistrature ;
+2. le groupe 2 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A2, qui ne relèvent pas de la rubrique « Enseignement » ;
+3. le groupe 3 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement B qui ne relèvent pas de la rubrique « Enseignement » ;
+4. le groupe 4 comprend les fonctionnaires de l’État et des établissements publics des catégories de traitement C et D ;
+5. le groupe 5 comprend les fonctionnaires de l’État et des établissements publics de la catégorie de traitement A qui relèvent de la rubrique « Enseignement », à l’exception des différentes fonctions d’instituteurs et d’instituteurs spécialisés regroupées dans le groupe 6 ;
+6. le groupe 6 comprend les différentes fonctions d’instituteurs et d’instituteurs spécialisés de la catégorie de traitement A de la rubrique « Enseignement » et les fonctionnaires de la catégorie de traitement B de la rubrique « Enseignement » ;
+7. le groupe 7 comprend les employés de l’État et des établissements publics qui ne relèvent pas de la rubrique « Enseignement » ainsi que les volontaires de l’Armée ;
+8. le groupe 8 comprend les employés de l’État et des établissements publics qui relèvent de la rubrique « Enseignement » ;
+9. le groupe 9 comprend les fonctionnaires et employés communaux ;
+10. le groupe 10 comprend les ministres du culte catholique.
 
 Par «fonctionnaires de l’Etat et des établissements publics» au sens du présent article il faut entendre les fonctionnaires de l’Etat régis par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat, ainsi que les employés statutaires des établissements publics assimilés aux fonctionnaires de l’Etat en vertu d’une disposition légale ou réglementaire.
 
-La répartition des fonctionnaires dans les catégories A, A1, B et C se fait par règlement grand-ducal en tenant compte des trois grandes catégories de traitements déterminées à l’annexe D de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État. Au sein de la Chambre des Fonctionnaires et Employés publics aucune administration de l’État ni aucun établissement public ne peut occuper plus de deux mandats pour chacune des catégories B et C.
+Par employés de l’État et des établissements publics au sens du présent article il faut entendre les employés de l’État régis par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ainsi que les employés des établissements publics qui leur sont assimilés en vertu d’une disposition légale ou réglementaire.
 
-Par «fonctionnaires et» «employés communaux» au sens du présent article il faut entendre les fonctionnaires des communes, des syndicats intercommunaux et des établissements publics placés sous le contrôle des communes régis par la loi du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, ainsi que les employés de ces organismes qui sont assimilés aux employés de l’Etat en vertu d’une disposition légale ou réglementaire.
+La répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 1 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous la dénomination catégorie de traitement A, groupe de traitement A1, ainsi qu’à la rubrique V. Magistrature.
 
-Par «employés de l’Etat et des établissements publics» au sens du présent article il faut entendre les employés de l’Etat régis par la loi modifiée du 27 janvier 1972 fixant le régime des employés de l’Etat ainsi que les employés des établissements publics qui leur sont assimilés en vertu d’une disposition légale ou réglementaire.
+La répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 2 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous la dénomination catégorie de traitement A, groupe de traitement A2.
 
-L’attribution des mandats aux différentes catégories définies ci-dessus pourra être modifiée par règlement grand-ducal à publier au moins trois mois avant les élections quinquennales, si une évolution dans l’importance réciproque des différentes catégories, intervenue après la constitution de la chambre, fait apparaître cette modification comme équitable. Ce règlement doit toutefois attribuer au moins un siège à chaque catégorie d’électeurs.
+La répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 3 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous la dénomination catégorie de traitement B.
 
-Les délégués des différentes catégories désignées ci-dessus pourront former, suivant les besoins, des commissions spéciales qui pourront délibérer séparément sur des questions qui intéressent particulièrement les catégories respectives. A la demande des commissions spéciales, leur avis sera joint à l’avis de la chambre.
+La répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 4 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, aux rubriques I. Administration générale, III. Armée, Police et Inspection générale de la Police et IV. Douanes sous les dénominations catégorie de traitement C et catégorie de traitement D.
 
-Lorsque la chambre est saisie de questions intéressant plus particulièrement l’une ou l’autre des catégories susvisées, elle ne pourra émettre son avis qu’après avoir demandé l’avis de la commission spéciale représentant cette catégorie. Cet avis devra être donné endéans les quinze jours.
+La répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 5 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, à la rubrique II. Enseignement sous la dénomination catégorie de traitement A, à l’exception des différentes fonctions d’instituteurs et d’instituteurs spécialisés regroupées dans le groupe 6.
 
-<a id="art_N4EBC4"></a>
+La répartition des fonctionnaires en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans le groupe 6 est celle qui figure à l’annexe A de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, à la rubrique II. Enseignement sous la dénomination catégorie de traitement A pour les différentes fonctions d’instituteurs et d’instituteurs spécialisés et sous la dénomination catégorie de traitement B.
+
+La répartition des employés en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux employés de l’État, dans le groupe 7 est celle qui figure aux articles 43 à 49 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, dans tous les sous-groupes y visés, à l’exception du sous-groupe de l’enseignement.
+
+La répartition des employés en service et retraités de l’État et du personnel en service et retraité des établissements publics, pour autant qu’il est assimilé aux employés de l’État, dans le groupe 8 est celle qui figure aux articles 43 à 46 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, dans le sous-groupe de l’enseignement.
+
+Par fonctionnaires et employés communaux au sens du présent article il faut entendre les fonctionnaires en service et retraités des communes, des syndicats de communes et des établissements publics placés sous la surveillance des communes régis par la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, ainsi que les employés en service et retraités de ces organismes qui sont assimilés aux employés communaux en vertu d’une disposition légale ou réglementaire.
+
+Au sein de la Chambre des fonctionnaires et employés publics, aucune administration de l’État, ni aucun établissement public ne peut occuper plus de deux mandats dans chacun des groupes 1, 3, 4 et 7.
+
+Les délégués des différents groupes désignés ci-dessus pourront former, suivant les besoins, des commissions spéciales qui pourront délibérer séparément sur des questions qui intéressent particulièrement les groupes respectifs . A la demande des commissions spéciales, leur avis sera joint à l’avis de la chambre.
+
+Lorsque la chambre est saisie de questions intéressant plus particulièrement l’un ou l’autre des groupes susvisés , elle ne pourra émettre son avis qu’après avoir demandé l’avis de la commission spéciale représentant ce groupe . Cet avis devra être donné endéans les quinze jours.
+
+<a id="art_N4EC97"></a>
 
 ### Art. 43quater.
 
-Chaque catégorie d’électeurs forme un collège électoral spécial en vue de la désignation de ses délégués.
+Chaque groupe d’électeurs forme un collège électoral spécial en vue de la désignation de ses délégués.
 
 Sont qualifiés, pour participer à l’élection des membres de la chambre, les fonctionnaires et employés publics qui au moment de l’établissement des listes électorales remplissent l’une des fonctions déterminées à l’article qui précède ou qui s’y préparent en tant que stagiaires ou qui jouissent d’une pension du chef de l’une de ces fonctions.
 
-<a id="art_N4EC04"></a>
+<a id="art_N4ECE3"></a>
 
-### art_N4EC04
+### art_N4ECE3
 
 
 
-<a id="art_N4EC41"></a>
+<a id="art_N4ED20"></a>
 
 ### Art. 43sexies.
 
 Si le secrétaire de la chambre est recruté parmi les électeurs de la chambre, il peut maintenir, avec l’assentiment de son employeur, son statut originaire. Dans ce cas, la chambre sera tenue de rembourser à l’employeur les sommes versées au titre de traitement, accessoires compris, ainsi qu’une quotité de la pension qui correspond aux années passées au service de la chambre.
 
-<a id="art_N4EC78"></a>
+<a id="art_N4ED57"></a>
 
 ### Art. 43septies.
 
 La participation aux activités de la chambre ne donnera lieu à aucune rémunération, sauf pour le remboursement des frais de voyage. Les membres de la chambre et les suppléants, pour les périodes de suppléance, jouissent chaque mois d’un congé spécial d’une demi-journée pour se consacrer aux activités de la chambre; ce congé est de deux demi-journées pour les membres du bureau.
 
-<a id="art_N4ECAF"></a>
+<a id="art_N4ED8E"></a>
 
 ### Art. 43octies.
 
 L’exercice des droits qui découlent de la présente loi, tant par la chambre elle-même que par ses membres, ne doit porter préjudice ni aux dispositions légales relatives aux droits et devoirs des fonctionnaires, ni aux lois disciplinaires.
 
-<a id="art_N4ECE6"></a>
+<a id="art_N4EDC5"></a>
 
 ### Art. 44.
 
@@ -26912,9 +26921,15 @@ Chaque fois que deux ou plusieurs chambres professionnelles auront à s’occupe
 
 Le Gouvernement pourra, chaque fois que le besoin s’en présentera, convoquer les délégués de deux ou plusieurs chambres professionnelles, en vue de délibérations en commun sur des questions intéressant les différentes professions. Les frais resteront à la charge des différentes chambres.
 
+<a id="art_N4EE05"></a>
+
+### Art. 47.
+
+La loi du 28 juin 1920 portant création d’une chambre de travail est abrogée.
+
 ##### Version consolidée applicable au 02/12/2019 : Règlement grand-ducal du 17 janvier 1984 portant réglementation de la procédure électorale pour la Chambre des Fonctionnaires et Employés publics.
 
-<a id="art_N4ED44"></a>
+<a id="art_N4EE67"></a>
 
 ### Art. 1er.
 
@@ -26922,7 +26937,7 @@ Les élections pour la Chambre des fonctionnaires et employés publics ont lieu 
 
 ##### Titre Ier — Listes électorales
 
-<a id="art_N4ED87"></a>
+<a id="art_N4EEAA"></a>
 
 ### Art. 2.
 
@@ -26932,13 +26947,13 @@ En vue de l’établissement de cette liste le ministre constitue un fichier , c
 
 Pour les fonctionnaires et employés de l’Etat la constitution du fichier se fait en collaboration avec le Centre Informatique de l’Etat; en ce qui concerne les fonctionnaires et employés des établissements publics, la constitution du fichier se fait en collaboration avec les services du personnel des établissements concernés; en ce qui concerne les fonctionnaires et employés des communes, la constitution du fichier est opérée en collaboration avec les communes, les syndicats de communes, les établissements publics placés sous la surveillance des communes et la Caisse de prévoyance des fonctionnaires et employés communaux .
 
-<a id="art_N4EDFE"></a>
+<a id="art_N4EF21"></a>
 
 ### Art. 3.
 
 La liste des électeurs comprend pour chaque électeur les nom, prénoms, fonction, adresse, numéro matricule national , catégorie et numéro d’ordre.
 
-<a id="art_N4EE48"></a>
+<a id="art_N4EF6B"></a>
 
 ### Art. 4.
 
@@ -26946,13 +26961,13 @@ La liste des électeurs est provisoirement arrêtée le 31 octobre de l’année
 
 La liste est contrôlée et le cas échéant corrigée dans le mois qui suit par un comité électoral, institué par arrêté du ministre .
 
-<a id="art_N4EE9E"></a>
+<a id="art_N4EFC1"></a>
 
 ### Art. 5.
 
 Le bureau électoral prévu au titre III du présent règlement tient compte de tout changement de résidence enregistré au répertoire général des personnes au moins huit jours ouvrables avant la date limite prévue pour l’envoi des bulletins de vote.
 
-<a id="art_N4EEE8"></a>
+<a id="art_N4F00B"></a>
 
 ### Art. 6.
 
@@ -26960,7 +26975,7 @@ La liste des électeurs à la Chambre est arrêtée le 5 décembre de l’année
 
 Ce dépôt est porté, le 11 décembre, à la connaissance du public par un avis publié dans la forme ordinaire par l’autorité communale. Il est porté à la connaissance du public par un avis publié dans la presse par le ministre . Les deux avis invitent les intéressés à présenter, le 21 décembre au plus tard, tous recours auxquels les listes pourraient donner lieu.
 
-<a id="art_N4EF6B"></a>
+<a id="art_N4F08E"></a>
 
 ### Art. 7.
 
@@ -26968,7 +26983,7 @@ Toute personne indûment inscrite, inscrite dans une catégorie qui n’est pas 
 
 Les recours contre la liste des électeurs à la Chambre et toutes les pièces qui s’y rapportent sont transmis, dans les trois jours à partir de l’expiration du délai de recours, par le collège des bourgmestre et échevins au juge de paix-directeur de Luxembourg. Jusqu’au 10 janvier, ce dernier les instruit et il statue en audience publique et en dernière instance. Le juge de paix-directeur peut s’entourer de tous les renseignements utiles et même s’informer auprès de tiers; il entend les parties et un délégué du comité électoral, désigné par le ministre .
 
-<a id="art_N4EFDC"></a>
+<a id="art_N4F0FF"></a>
 
 ### Art. 8.
 
@@ -26976,13 +26991,13 @@ Toutes réclamations, tous exploits, actes de procédure et expéditions en mati
 
 Toutes les pièces sont dispensées de l’enregistrement.
 
-<a id="art_N4F017"></a>
+<a id="art_N4F13A"></a>
 
 ### Art. 9.
 
 Le greffier de la justice de paix est tenu à transmettre l’expédition du jugement statuant sur le recours au comité électoral le 12 janvier au plus tard.
 
-<a id="art_N4F061"></a>
+<a id="art_N4F184"></a>
 
 ### Art. 10.
 
@@ -26992,7 +27007,7 @@ Une copie des listes électorales définitivement arrêtées est transmise au pl
 
 ##### Titre II — Candidatures
 
-<a id="art_N4F105"></a>
+<a id="art_N4F228"></a>
 
 ### Art. 11.
 
@@ -27012,7 +27027,7 @@ Chaque liste doit porter une dénomination et, dans le cas où des listes diffé
 
 Le ministre vérifie pour chaque candidat qu’il est électeur et indique sur les listes des candidats la catégorie d’électeurs à laquelle il appartient.
 
-<a id="art_N4F1E3"></a>
+<a id="art_N4F306"></a>
 
 ### Art. 12.
 
@@ -27026,13 +27041,13 @@ L’enregistrement est refusé à toute liste qui n’est pas conforme à la loi
 
 Si des déclarations identiques quant aux candidats y portés sont déposées, la première en date est seule valable. Si elles portent la même date, toutes sont nulles.
 
-<a id="art_N4F29F"></a>
+<a id="art_N4F3C2"></a>
 
 ### Art. 13.
 
 Un candidat inscrit sur une liste ne peut en être rayé que s’il notifie au président du bureau électoral par exploit d’huissier, la volonté de s’en retirer. Toute liste peut être complétée par les noms de candidats qui sont présentés par tous les signataires de la liste. Les notifications devront avoir lieu avant l’expiration du délai fixé pour les déclarations de candidature.
 
-<a id="art_N4F2DD"></a>
+<a id="art_N4F400"></a>
 
 ### Art. 14.
 
@@ -27040,7 +27055,7 @@ Lors de la présentation des candidats, le mandataire de la liste peut désigner
 
 Le président désigne par voie de tirage au sort, pour chaque catégorie, le témoin qui aura à remplir ce mandat.
 
-<a id="art_N4F33C"></a>
+<a id="art_N4F45F"></a>
 
 ### Art. 15.
 
@@ -27058,7 +27073,7 @@ L’avis publié dans la presse reproduit en outre les instructions pour l’él
 
 ##### Titre III — Bureau électoral
 
-<a id="art_N4F419"></a>
+<a id="art_N4F53C"></a>
 
 ### Art. 16.
 
@@ -27066,19 +27081,19 @@ Il y aura pour l’élection de la Chambre un seul bureau électoral, composé d
 
 En cas d’empêchement, les fonctions de président sont remplies par un vice-président.
 
-<a id="art_N4F454"></a>
+<a id="art_N4F577"></a>
 
 ### Art. 17.
 
 Les président et vice-présidents du bureau sont nommés au plus tard le 1er février précédant les élections par le ministre .
 
-<a id="art_N4F495"></a>
+<a id="art_N4F5B8"></a>
 
 ### Art. 18.
 
 Le président peut choisir librement les scrutateurs, les suppléants ainsi que le secrétaire et les deux secrétaires adjoints. Ces trois derniers n’ont pas voix délibérative.
 
-<a id="art_N4F4C7"></a>
+<a id="art_N4F5EA"></a>
 
 ### Art. 19.
 
@@ -27086,13 +27101,13 @@ Le président du bureau invite sans délai les secrétaires, les scrutateurs et 
 
 Les scrutateurs et les suppléants sont tenus, en cas d’empêchement, d’en informer dans les 48 heures le président du bureau.
 
-<a id="art_N4F502"></a>
+<a id="art_N4F625"></a>
 
 ### Art. 20.
 
 Les membres du bureau reçoivent, par heure de travail effectif, un jeton dont le montant est fixé par règlement ministériel.
 
-<a id="art_N4F543"></a>
+<a id="art_N4F666"></a>
 
 ### Art. 21.
 
@@ -27100,7 +27115,7 @@ Les témoins tirés au sort par le président conformément à l’article 14, a
 
 S’ils ne se présentent pas, les opérations se poursuivent sans interruption et sont valables, nonobstant leur absence.
 
-<a id="art_N4F58A"></a>
+<a id="art_N4F6AD"></a>
 
 ### Art. 22.
 
@@ -27108,7 +27123,7 @@ Les membres du bureau sont tenus de recenser fidèlement les suffrages.
 
 Les membres du bureau et les témoins sont tenus de garder le secret des votes.
 
-<a id="art_N4F5D1"></a>
+<a id="art_N4F6F4"></a>
 
 ### Art. 23.
 
@@ -27120,7 +27135,7 @@ Toutes autres récusations et abstentions sont exclues.
 
 ##### Chapitre 1er. — *Des bulletins*
 
-<a id="art_N4F630"></a>
+<a id="art_N4F753"></a>
 
 ### Art. 24.
 
@@ -27128,7 +27143,7 @@ Après avoir arrêté les listes de candidats et après avoir pris soin de l’i
 
 Pour chacune des catégories d’électeurs de la Chambre, le bulletin de vote reproduit les numéros d’ordre et les dénominations des différentes listes présentées, ainsi que les nom et prénoms des candidats. Chaque liste est surmontée d’une case réservée au vote. Deux autres cases se trouvent à la suite des nom et prénoms de chaque candidat. Les bulletins sont imprimés en utilisant une encre noire et la case placée en tête de chaque liste doit présenter au milieu un petit cercle de la couleur du papier.
 
-<a id="art_N4F692"></a>
+<a id="art_N4F7B5"></a>
 
 ### Art. 25.
 
@@ -27136,7 +27151,7 @@ Le papier électoral servant à la confection des bulletins est fourni par le Se
 
 Les bulletins employés pour une même catégorie d’électeurs, doivent être absolument identiques, sous le rapport du papier, du format et de l’impression. L’emploi de tous autres bulletins est interdit.
 
-<a id="art_N4F6D9"></a>
+<a id="art_N4F7FC"></a>
 
 ### Art. 26.
 
@@ -27148,7 +27163,7 @@ Le président commande en temps opportun l’impression des enveloppes visées �
 
 ##### Chapitre 2 — *Du vote*
 
-<a id="art_N4F73F"></a>
+<a id="art_N4F862"></a>
 
 ### Art. 27.
 
@@ -27162,7 +27177,7 @@ Le tout est renfermé dans une troisième enveloppe à l’adresse de l’élect
 
 Sur les trois enveloppes est imprimée l’estampille officielle des élections.
 
-<a id="art_N4F7A6"></a>
+<a id="art_N4F8C9"></a>
 
 ### Art. 28.
 
@@ -27176,31 +27191,31 @@ Chaque croix (+ ou x) inscrite dans l’une des deux cases réservées derrière
 
 Tout cercle rempli, même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.
 
-<a id="art_N4F808"></a>
+<a id="art_N4F92B"></a>
 
 ### Art. 29.
 
 L’électeur s’abstient de faire sur le bulletin toute autre inscription, signature, rature ou signe quelconque.
 
-<a id="art_N4F83A"></a>
+<a id="art_N4F95D"></a>
 
 ### Art. 30.
 
 Il place le bulletin, plié en quatre, l’estampille à l’extérieur, dans la première enveloppe qu’il ferme. Il glisse celle-ci dans la seconde envelope portant l’adresse du président du bureau, ferme le pli, et le remet à la poste .
 
-<a id="art_N4F88A"></a>
+<a id="art_N4F9AD"></a>
 
 ### Art. 31.
 
 Si l’électeur, par inadvertance, détériore le bulletin qui lui a été remis, il en demande un autre au président et renvoie sous le même pli le premier bulletin qui sera aussitôt détruit. Il en sera fait mention au procès-verbal de l’élection.
 
-<a id="art_N4F8BC"></a>
+<a id="art_N4F9DF"></a>
 
 ### Art. 32.
 
 Lorsque le srutin est clos, le bureau fait le récolement des bulletins non employés dans les différentes catégories, qui sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal. Le papier électoral non employé est renvoyé par le bureau au Service central des imprimés et des fournitures de bureau de l’Etat.
 
-<a id="art_N4F8EE"></a>
+<a id="art_N4FA11"></a>
 
 ### Art. 33.
 
@@ -27208,13 +27223,13 @@ Nul n’est tenu de révéler le secret de son vote, à quelque réquisition que
 
 ##### Chapitre 3 — *Du dépouillement du scrutin*
 
-<a id="art_N4F936"></a>
+<a id="art_N4FA59"></a>
 
 ### Art. 34.
 
 Le bureau électoral siège à Luxembourg dans les locaux qui seront mis à sa disposition par l’Etat.
 
-<a id="art_N4F968"></a>
+<a id="art_N4FA8B"></a>
 
 ### Art. 35.
 
@@ -27230,7 +27245,7 @@ Chaque section procède ensuite au dépouillement des bulletins d’une catégor
 
 Si une enveloppe contient plusieurs bulletins, ceux-ci sont annulés et paraphés par le président et un membre du bureau électoral; mention en est faite au procès-verbal.
 
-<a id="art_N4F9EB"></a>
+<a id="art_N4FB0E"></a>
 
 ### Art. 36.
 
@@ -27247,7 +27262,7 @@ Sont nuls:
 
 Les bulletins blancs et nuls sont de suite écartés et leur nombre est inscrit au procès-verbal.
 
-<a id="art_N4FA5D"></a>
+<a id="art_N4FB80"></a>
 
 ### Art. 37.
 
@@ -27255,7 +27270,7 @@ Les bulletins à case noircie ou marquée d’une croix sont classés d’après
 
 Les bulletins à votes nominatifs sont vérifiés par deux scrutateurs quant à leur validité et le nombre de suffrages exprimés est contrôlé. Les suffrages inscrits sur les bulletins reconnus valables sont énoncés par le président, liste par liste, et portés par deux scrutateurs sur les listes de dépouillement.
 
-<a id="art_N4FAB0"></a>
+<a id="art_N4FBD3"></a>
 
 ### Art. 38.
 
@@ -27263,7 +27278,7 @@ Les bulletins douteux sont soumis à un contrôle approfondi par tous les membre
 
 Les suffrages exprimés sur les bulletins reconnus valables sont énoncés par le président et portés sur les listes de dépouillement par deux scrutateurs.
 
-<a id="art_N4FAF7"></a>
+<a id="art_N4FC1A"></a>
 
 ### Art. 39.
 
@@ -27273,7 +27288,7 @@ Le suffrage exprimé dans la case figurant en tête d’une liste compte à cett
 
 Les suffrages recueillis par un candidat décédé après l’expiration du terme pour les déclarations de candidatures sont valablement acquis à la liste à laquelle il appartient.
 
-<a id="art_N4FB3B"></a>
+<a id="art_N4FC5E"></a>
 
 ### Art. 40.
 
@@ -27281,7 +27296,7 @@ Lorsque le bureau doit interrompre ses travaux, tous les bulletins et les listes
 
 A la reprise des travaux, ce local ne peut être ouvert par le président qu’après vérification des scellés par deux membres du bureau. Toute irrégularité constatée est à mentionner au procès-verbal.
 
-<a id="art_N4FB76"></a>
+<a id="art_N4FC99"></a>
 
 ### Art. 41.
 
@@ -27293,7 +27308,7 @@ Le bureau arrête pour les différentes catégories:
 
 Il les fait inscrire au procès-verbal.
 
-<a id="art_N4FBBF"></a>
+<a id="art_N4FCE2"></a>
 
 ### Art. 42.
 
@@ -27311,13 +27326,13 @@ Les différents sièges de membres effectifs, respectivement de membres suppléa
 
 Toutefois, si par les opérations qui précèdent plus de deux sièges de membres effectifs étaient à attribuer dans une catégorie à des candidats d’une même administration de l’Etat ou d’un même établissement public ou d’utilité publique, les deux candidats élus de cette administration ou de cet établissement, à quelque liste qu’ils appartiennent, qui ont obtenu le plus grand nombre de suffrages sont définitivement déclarés élus membres effectifs. En cas de parité de suffrages, l’élection est acquise au candidat le plus âgé. Le siège restant à pourvoir est attribué au premier suppléant de la liste qui n’est pas de la même administration ou du même établissement. Le membre élu écarté prendra rang comme premier suppléant de sa liste.
 
-<a id="art_N4FC3F"></a>
+<a id="art_N4FD62"></a>
 
 ### Art. 43.
 
 Le procès-verbal est signé séance tenante par les membres et le secrétaire de la section qui a procédé au dépouillement des bulletins. Les procès-verbaux des trois sections, les listes électorales et les bulletins valables et nuls sont envoyés par le président du bureau électoral au ministre , le tout sous une ou plusieurs envelopes cachetées.
 
-<a id="art_N4FC7D"></a>
+<a id="art_N4FDA0"></a>
 
 ### Art. 44.
 
@@ -27332,19 +27347,19 @@ A l’expiration des délais prévus pour l’introduction des réclamations, to
 
 ##### Titre V — Répartition des électeurs par catégories
 
-<a id="art_N4FCD6"></a>
+<a id="art_N4FDF9"></a>
 
 ### Art. 45.
 
 La répartition des fonctionnaires et retraités de l’État et du personnel des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans la catégorie A est celle qui figure à l’annexe D de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, à la rubrique IV – Enseignement sous la dénomination de la carrière supérieure, à l’exception des différentes catégories d’instituteurs; celle des fonctionnaires et retraités de l’État et du personnel des établissements publics, pour autant qu’il est assimilé aux fonctionnaires de l’État, dans les catégories A1, B et C est celle qui figure à l’annexe D de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État, aux rubriques I – Administration générale, II – Magistrature, III – Force Publique, V – Cultes et VII – Douanes sous la dénomination des carrières supérieure, moyenne et inférieure, à l’exception des ministres du culte catholique.
 
-<a id="art_N4FD2A"></a>
+<a id="art_N4FE4D"></a>
 
 ### Art. 46.
 
 Sont abrogés toutes les dispositions contraires aux présentes et notamment le règlement grand-ducal du 28 octobre 1964 tel qu’il a été modifié par la suite.
 
-<a id="art_N4FD61"></a>
+<a id="art_N4FE84"></a>
 
 ### Art. 47.
 
@@ -27364,7 +27379,7 @@ Notre Ministre ayant la Chambre dans ses attributions est chargé de l’exécut
 
 ##### Chapitre 1er. — *Dispositions générales*
 
-<a id="art_N4FF59"></a>
+<a id="art_N5007C"></a>
 
 ### Art. 1er.
 
@@ -27372,7 +27387,7 @@ La présente loi détermine le régime et les indemnités des employés de l’E
 
 ##### Chapitre 2. — *Du régime des employés de l’Etat*
 
-<a id="art_N4FFA7"></a>
+<a id="art_N500CA"></a>
 
 ### Art. 2.
 
@@ -27380,7 +27395,7 @@ La qualité d’employé de l’Etat est reconnue à toute personne qui remplit 
 
 Dans les dispositions qui suivent, l’employé de l’Etat est désigné par le terme «employé».
 
-<a id="art_N4FFF1"></a>
+<a id="art_N50114"></a>
 
 ### Art. 3.
 
@@ -27403,7 +27418,7 @@ Lorsqu’aucune candidature d’une personne de nationalité luxembourgeoise à 
 
 **(5)** Pour l’application des dispositions du point f), l’article 2, paragraphe 1er, alinéa 5 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat est applicable.
 
-<a id="art_N500F1"></a>
+<a id="art_N50214"></a>
 
 ### Art. 4.
 
@@ -27413,7 +27428,7 @@ Toutefois, pour les employés relevant des professions médicales, paramédicale
 
 L’engagement est effectué dans les formes et suivant les modalités prévues par les articles L.121-1 à 121-4, les articles L.122-1 à L.122-10 et les articles L.122-12 et L.122-13 du Code du travail.
 
-<a id="art_N50149"></a>
+<a id="art_N5026C"></a>
 
 ### Art. 5.
 
@@ -27421,13 +27436,13 @@ La résiliation du contrat de travail est prononcée par une décision motivée 
 
 Toutefois, pour les employés relevant des professions médicales, paramédicales, sociales, éducatives et de l’enseignement, la résiliation du contrat de travail est prononcée par une décision motivée du ministre du ressort, sur avis du ministre.
 
-<a id="art_N50193"></a>
+<a id="art_N502B6"></a>
 
 ### Art. 6.
 
 L’employé qui bénéficie d’un contrat à durée indéterminée peut résilier ce dernier dans les conditions et selon les modalités prévues par l’article 39 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
 
-<a id="art_N501DA"></a>
+<a id="art_N502FD"></a>
 
 ### Art. 7.
 
@@ -27439,7 +27454,7 @@ L’employé qui bénéficie d’un contrat à durée indéterminée peut résil
 
 Au moins deux mois avant l’écoulement du délai de six mois d’absences pour raisons de santé et du déclenchement prévu de ladite procédure prévus à l’alinéa 1er, le chef d’administration informe l’employé concerné de l’approche de ce délai de six mois. L’employé peut demander, sur base d’un rapport médical circonstancié de son médecin traitant, une prolongation du délai précité d’une durée de trois mois supplémentaires. Sur base de ce rapport médical, le ministre, sur demande du ministre du ressort, ou le ministre du ressort décide du moment de déclencher la procédure de résiliation.
 
-<a id="art_N50292"></a>
+<a id="art_N503B5"></a>
 
 ### Art. 8.
 
@@ -27450,7 +27465,7 @@ Au moins deux mois avant l’écoulement du délai de six mois d’absences pour
 
 **(2)** Pour l’application du présent article, les dates à considérer qui ne coïncident pas avec le premier jour ouvrable du mois sont reportées au premier du mois suivant, sauf dans le cas où l’employé est engagé après l’âge de cinquante-cinq ans ou bien s’il peut faire valoir vingt années de service au moment de son entrée en service en qualité d’employé de l’Etat en application de l’article 9.
 
-<a id="art_N50300"></a>
+<a id="art_N50423"></a>
 
 ### Art. 9.
 
@@ -27465,7 +27480,7 @@ Sont mises en compte pour l’application des délais prévus aux articles 7 et 
 
 Les périodes visées aux points a), c) et d) sont mises en compte à condition qu’elles se succèdent sans interruption et qu’elles rejoignent sans interruption la période prestée en qualité d’employé de l’Etat sous contrat à durée indéterminée. L’interruption de cette dernière période ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.
 
-<a id="art_N5036C"></a>
+<a id="art_N5048F"></a>
 
 ### Art. 10.
 
@@ -27473,13 +27488,13 @@ Les contestations résultant du contrat d’emploi, de la rémunération et des 
 
 Le délai de recours est de trois mois à partir de la notification de la décision.
 
-<a id="art_N503BC"></a>
+<a id="art_N504DF"></a>
 
 ### Art. 11.
 
 Sans préjudice de l’application des dispositions de l’article 8, les employés sont soumis au régime légal de l’assurance pension des salariés.
 
-<a id="art_N503FD"></a>
+<a id="art_N50520"></a>
 
 ### Art. 12.
 
@@ -27489,7 +27504,7 @@ Les dispositions du Code pénal concernant les fonctionnaires de l’Etat s’ap
 
 ##### *Section 1*. — *Dispositions générales*
 
-<a id="art_N5045C"></a>
+<a id="art_N5057F"></a>
 
 ### Art. 13.
 
@@ -27497,7 +27512,7 @@ Les indemnités des employés sont adaptées au coût de la vie conformément au
 
 Sont appliqués aux employés les articles 1er et 2 de la loi modifiée du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que des modalités de mise en vigueur de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
-<a id="art_N504C0"></a>
+<a id="art_N505E3"></a>
 
 ### Art. 14.
 
@@ -27505,7 +27520,7 @@ L’indemnité des employés est due à partir de leur entrée en service. Toute
 
 L’indemnité cesse avec le dernier jour d’activité de service.
 
-<a id="art_N50510"></a>
+<a id="art_N50633"></a>
 
 ### Art. 15.
 
@@ -27513,25 +27528,25 @@ L’indemnité de l’employé et les accessoires de rémunération prévus aux 
 
 L'employé bénéficiaire d’un accessoire de rémunération sur base d’un motif déterminé ne peut pas bénéficier d’un autre accessoire de rémunération ou d’une majoration d’échelon pour le même motif.
 
-<a id="art_N50569"></a>
+<a id="art_N5068C"></a>
 
 ### Art. 16.
 
 Le terme «indemnité» utilisé aux articles 13, 14, 15, 17, 19, 20, 21, 23, 24, 25, 28, 31, 52, 54, 55, 61 et 66, sauf disposition contraire aux articles visés, désigne l’indemnité de base pour chaque grade et échelon par référence aux tableaux indiciaires de l’annexe.
 
-<a id="art_N505AA"></a>
+<a id="art_N506CD"></a>
 
 ### Art. 17.
 
 Les indemnités des employés sont déterminées par catégories, groupes et sous-groupes d’indemnité définis aux articles 43 à 49 et fixées par référence aux grades repris au tableau indiciaire point I. «Administration générale» de l’annexe.
 
-<a id="art_N505F7"></a>
+<a id="art_N5071A"></a>
 
 ### Art. 18.
 
 L’employé n’est admis à une catégorie, un groupe et un sous-groupe d’indemnité déterminés que si les conditions de diplôme et d’emploi sont remplies conjointement, sauf les exceptions prévues aux articles 43 à 49.
 
-<a id="art_N50644"></a>
+<a id="art_N50767"></a>
 
 ### Art. 19.
 
@@ -27539,7 +27554,7 @@ Les décisions individuelles de classement sont prises par le ministre. Pour les
 
 Ces décisions de classement peuvent déroger au déroulement des carrières prévues par la présente loi ainsi qu’aux autres règles relatives à la détermination de l’indemnité de l’employé lorsque l’agent à engager peut se prévaloir d’une expérience étendue dans le secteur privé, lorsque l’agent dispose de qualifications particulières requises pour l’emploi déclaré vacant ou lorsqu’il s’agit d’agents occupés auparavant au service de la couronne ou repris d’un établissement public, des communes, des syndicats de communes, de la Société nationale des Chemins de Fer luxembourgeois, du secteur conventionné ou du secteur privé lorsque l’activité exercée antérieurement dans le secteur privé a été reprise par l’Etat.
 
-<a id="art_N506A0"></a>
+<a id="art_N507C3"></a>
 
 ### Art. 20.
 
@@ -27563,7 +27578,7 @@ Pendant la période d’initiation, les dispositions de l’article 4*bis*, para
 
 **(7)** L’Administration du Personnel de l’Etat sollicite auprès de la Trésorerie de l’Etat, sur simple demande de l’employé nouvellement engagé depuis un mois au moins, une avance sur ses rémunérations dues, sous réserve que l’employé ait accompli toutes les démarches qui lui incombent en vue de la constitution de son dossier personnel.
 
-<a id="art_N50934"></a>
+<a id="art_N50A57"></a>
 
 ### Art. 21.
 
@@ -27577,7 +27592,7 @@ Pour les employés, l’expression «début de carrière» se substitue à l’e
 
 **(5)** L’employé comptant depuis son début de carrière deux ans de bons et loyaux services dans le même échelon de son grade accède à l’échelon suivant de ce grade, sans préjudice de l’application des dispositions inscrites à l’article 5 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. Il en est de même après chaque période subséquente de deux ans de bons et loyaux services. Par dérogation aux dispositions qui précèdent, le deuxième échelon viendra à échéance après un an de service computable.
 
-<a id="art_N50A4A"></a>
+<a id="art_N50B6D"></a>
 
 ### Art. 22.
 
@@ -27587,7 +27602,7 @@ Pour les employés, l’expression «début de carrière» se substitue à l’e
 
 Par avancement en grade au sens de la présente loi, il y a lieu d’entendre l’accès de l’employé à un grade hiérarchiquement supérieur de son sous-groupe d’indemnité après un nombre déterminé d’années de bons et loyaux services à compter du début de carrière.
 
-<a id="art_N50AC3"></a>
+<a id="art_N50BE6"></a>
 
 ### Art. 23.
 
@@ -27597,7 +27612,7 @@ Si dans son ancien grade, l’employé avait atteint le maximum, il a droit, dan
 
 En cas d’avancement en grade, le temps que l’employé est resté dans l’échelon qu’il occupe avant l’avancement en grade, est reporté dans l’échelon de son nouveau grade, si toutefois l’ancien échelon n’était pas le dernier échelon, le cas échéant allongé, du grade.
 
-<a id="art_N50B1C"></a>
+<a id="art_N50C3F"></a>
 
 ### Art. 24.
 
@@ -27609,25 +27624,25 @@ En cas d’avancement en grade, le temps que l’employé est resté dans l’é
 
 **(4)** L’employé classé dans un autre sous-groupe d’indemnité du même groupe d’indemnité accède aux grade et échelon correspondants de ce sous-groupe lorsque celui-ci prévoit une évolution en grades identique, ou, à défaut, aux grade et échelon de ce sous-groupe correspondant à son ancienneté de service et accessibles suivant les conditions prévues.
 
-<a id="art_N50BD9"></a>
+<a id="art_N50CFC"></a>
 
 ### Art. 25.
 
 Lorsqu’un employé est classé dans un grade hiérarchiquement inférieur, les années passées au grade supérieur lui sont comptées pour la fixation de la nouvelle indemnité, si toutefois le changement de grade n’a pas lieu à titre de mesure disciplinaire.
 
-<a id="art_N50C1A"></a>
+<a id="art_N50D3D"></a>
 
 ### Art. 26.
 
 Pour la détermination de l’échéance des augmentations d’âge et des avancements éventuels en échelon et en grade, les dates de naissance et d’entrée en service qui tombent à une date autre que le premier jour ouvrable du mois sont reportées au premier du mois suivant.
 
-<a id="art_N50C6D"></a>
+<a id="art_N50D90"></a>
 
 ### Art. 27.
 
 L’employé de l’Etat qui est engagé au service de l’Etat sur la base d’un nouveau contrat de travail conserve son indemnité de base et son ancienneté de service acquise avant son nouvel engagement sous condition que les deux contrats se succèdent sans interruption et pour autant que cet engagement se fait dans le même groupe d’indemnité, le même sous-groupe d’indemnité et le même grade. Cette disposition s’applique également en cas d’interruption qui ne dépasse pas une période égale au tiers de la durée de l’engagement précédent, renouvellements compris, pour autant que cette interruption ne dépasse cependant pas la durée de huit mois. Il en est de même pour l’employé d’une commune qui est engagé au service de l’Etat.
 
-<a id="art_N50CC6"></a>
+<a id="art_N50DE9"></a>
 
 ### Art. 28.
 
@@ -27637,7 +27652,7 @@ L’employé de l’Etat qui est engagé au service de l’Etat sur la base d’
 
 **(3)** Pour le fonctionnaire ou le fonctionnaire stagiaire de l’Etat ou d’une commune ou l’employé communal qui est engagé en qualité d’employé de l’Etat, les temps de service occupés en qualité de fonctionnaire, fonctionnaire stagiaire ou employé communal ainsi que l’examen de promotion réussi dans l’une de ces qualités sont mis en compte pour le calcul de la nouvelle indemnité ainsi que pour le calcul des avancements en échelon et en grade, sous réserve qu’ils restent classés dans le même groupe de traitement ou d’indemnité . Si l’indemnité prévue à l’article 16 est inférieure à son ancien traitement, à son indemnité de stage ou à son indemnité d’employé, l’employé bénéficie d’un supplément personnel d’indemnité égal à la différence entre l’indemnité prévue à l’article 16 et respectivement son traitement, son indemnité de stage ou son indemnité d’employé antérieurement perçu, sous réserve qu’il est classé dans le même groupe de traitement ou d’indemnité ou à un groupe de traitement ou d’indemnité supérieur . Le supplément d’indemnité personnel diminue en fonction de la réduction de cette différence sous l’effet de l’augmentation de l’indemnité prévue à l’article 16 par accomplissement des conditions d’années de service, d’âge et d’examen.
 
-<a id="art_N50D67"></a>
+<a id="art_N50E8A"></a>
 
 ### Art. 29.
 
@@ -27659,7 +27674,7 @@ Toute fraction dans le calcul du nombre des postes au sens du présent article e
 
 L’employé ayant bénéficié d’une majoration d’échelon pour postes à responsabilités particulières et qui ne remplit plus les conditions du présent article se voit retirer ce bénéfice avec effet au premier jour du mois qui suit la cessation de l’occupation du poste à responsabilités particulières.
 
-<a id="art_N50E54"></a>
+<a id="art_N50F77"></a>
 
 ### Art. 30.
 
@@ -27669,7 +27684,7 @@ Sont applicables aux employés les dispositions relatives à l’allocation de r
 2. 
 3. 
 
-<a id="art_N50EE5"></a>
+<a id="art_N51008"></a>
 
 ### Art. 31.
 
@@ -27683,25 +27698,25 @@ Sont applicables aux employés les dispositions relatives à l’allocation de r
 
 **(4)** Sont applicables aux employés les dispositions relatives à la subvention d’intérêt prévues à l’article 32 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
-<a id="art_N50FB7"></a>
+<a id="art_N510DA"></a>
 
 ### Art. 32.
 
 Les dispositions relatives aux primes pour professions de santé prévues à l’article 26 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat sont applicables aux employés des catégories d’indemnité correspondantes exerçant des activités à caractère exclusivement médical ou paramédical ou occupant un emploi de psychologue.
 
-<a id="art_N50FFE"></a>
+<a id="art_N51121"></a>
 
 ### Art. 33.
 
 Sont applicables aux employés les dispositions relatives à la prime d’astreinte prévues à l’article 22 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
-<a id="art_N51045"></a>
+<a id="art_N51168"></a>
 
 ### Art. 34.
 
 Les employés de la catégorie d’indemnité A, groupe d’indemnité A1 qui sont détenteurs d’un diplôme de doctorat en sciences ou équivalent ou qui obtiennent ce titre au cours de leur engagement en qualité d’employé bénéficient d’une prime correspondant à 20 points indiciaires. Cette prime est allouée à partir du début de carrière, à compter du premier jour du mois qui suit celui où les conditions de son obtention sont réunies dans le chef du bénéficiaire, sous réserve que la détention d’un tel diplôme, inscrit au registre des titres déposés auprès du ministre ayant l’Enseignement supérieur dans ses attributions, constitue une qualification supplémentaire en relation directe avec les missions liées au poste occupé.
 
-<a id="art_N51098"></a>
+<a id="art_N511BB"></a>
 
 ### Art. 35.
 
@@ -27711,19 +27726,19 @@ Le supplément d’indemnité personnel diminue au fur et à mesure que l’inde
 
 Par grade de fin de carrière au sens des dispositions du présent article, il y a lieu d’entendre le grade du sous-groupe d’indemnité accessible à l’employé compte tenu des conditions d’examen prévues pour ce sous-groupe. Toutefois, le bénéfice du supplément d’indemnité personnel est réservé à l’employé ayant passé avec succès l’examen de carrière, sauf si la loi ne prévoit pas d’examen de carrière pour son sous-groupe d’indemnité ou que l’employé en a été dispensé en vertu d’une disposition légale.
 
-<a id="art_N510FD"></a>
+<a id="art_N51220"></a>
 
 ### Art. 36.
 
 L’employé en activité de service bénéficie par assimilation au fonctionnaire d’une allocation de fin d’année calculée sur la base des dispositions de l’article 20 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
 
-<a id="art_N51144"></a>
+<a id="art_N51267"></a>
 
 ### Art. 37.
 
 Les dispositions relatives à la restitution des traitements prévues à l’article 36 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat sont applicables aux employés.
 
-<a id="art_N5118B"></a>
+<a id="art_N512AE"></a>
 
 ### Art. 38.
 
@@ -27737,7 +27752,7 @@ L’employé qui a subi un échec à l’examen de carrière peut se présenter 
 
 Les formalités et conditions particulières à remplir par les candidats pour l’admission à l’examen de carrière, le programme de l’examen ainsi que la procédure et la composition de la commission d’examen sont déterminés par règlement grand-ducal.
 
-<a id="art_N511FC"></a>
+<a id="art_N5131F"></a>
 
 ### Art. 39.
 
@@ -27755,7 +27770,7 @@ Au cas où le trimestre de faveur est inférieur à l’indemnité spéciale, le
 
 **(3)** L’employé relevant du régime de pension des fonctionnaires de l’État et bénéficiant d’une réduction de tâche pour raisons de santé en exécution de l’article 51 de la loi modifiée du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois ou de l’article 73 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, a droit à une indemnité compensatoire fixée d’après les conditions et modalités prévues par l’article 34 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
 
-<a id="art_N512D1"></a>
+<a id="art_N513F4"></a>
 
 ### Art. 40.
 
@@ -27763,13 +27778,13 @@ Pour l’employé qui bénéficie du régime de pension des fonctionnaires de l�
 
 ##### *Section 2*. — *Des employés de l’Administration générale*
 
-<a id="art_N5132A"></a>
+<a id="art_N5144D"></a>
 
 ### Art. 41.
 
 Sans préjudice de l’application de l’article 19, les employés assimilés aux fonctionnaires de l’Etat des catégories de traitement correspondantes A, B, C et D de l’Administration générale sont classés par référence au tableau indiciaire sous I. «Administration générale» repris à l’annexe de la présente loi et conformément aux dispositions des articles 42 à 49.
 
-<a id="art_N51377"></a>
+<a id="art_N5149A"></a>
 
 ### Art. 42.
 
@@ -27783,7 +27798,7 @@ Par niveau supérieur, il y a lieu d’entendre le ou les grades supérieurs du 
 
 Par années de grade aux sens de la présente disposition, il y a lieu d’entendre les années de service accomplies depuis le début de carrière dans le sous-groupe d’indemnité, sans préjudice de l’application des dispositions des articles 28 à 30 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.
 
-<a id="art_N5144B"></a>
+<a id="art_N5156E"></a>
 
 ### Art. 43.
 
@@ -27813,7 +27828,7 @@ Les employés engagés en qualité de médecin vétérinaire et de pharmacien so
 
 Pour les employés de ce sous-groupe, l’avancement au grade du niveau supérieur est en outre lié à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’avoir suivi une autre formation reconnue équivalente ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre.
 
-<a id="art_N5160B"></a>
+<a id="art_N5172E"></a>
 
 ### Art. 44.
 
@@ -27830,7 +27845,7 @@ Pour ces sous-groupes, le niveau général comprend les grades 10, 11 et 12, et 
 
 Le niveau supérieur comprend le grade 13, et l’avancement à ce grade intervient, sous réserve que toutes les conditions prévues par la loi soient remplies, après 20 années de grade depuis le début de carrière.Cet avancement est en outre lié à la condition d’avoir accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis soit par l’Institut national d’administration publique pour les employés d’un des sous-groupes visés aux points a), b) ou c), soit par l’Institut de formation de l’éducation nationale pour les employés du sous-groupe de l’enseignement, ou d’avoir suivi une autre formation reconnue équivalente ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre compétent.
 
-<a id="art_N51732"></a>
+<a id="art_N51855"></a>
 
 ### Art. 45.
 
@@ -27858,7 +27873,7 @@ Le niveau supérieur comprend les grades 11 et 12, et les avancements à ces gra
 
 Pour les employés de ce sous-groupe, les dispositions prévues au paragraphe 1er de l’article 20 ne sont pas applicables.
 
-<a id="art_N518C0"></a>
+<a id="art_N519E3"></a>
 
 ### Art. 46.
 
@@ -27892,7 +27907,7 @@ Le niveau supérieur comprend les grades 10 et 11, et les avancements à ces gra
 
 Pour les employés de ce sous-groupe, les dispositions prévues au paragraphe 1er de l’article 20 ne sont pas applicables.
 
-<a id="art_N51A32"></a>
+<a id="art_N51B55"></a>
 
 ### Art. 47.
 
@@ -27912,7 +27927,7 @@ Le niveau supérieur comprend le grade 7, et l’avancement à ce grade intervie
 
 Pour les employés de ce groupe d’indemnité, le grade 7 est allongé d’un treizième échelon ayant l’indice 282.
 
-<a id="art_N51AFB"></a>
+<a id="art_N51C1E"></a>
 
 ### Art. 48.
 
@@ -27932,7 +27947,7 @@ Pour ces sous-groupes, le niveau supérieur comprend le grade 6, et l’avanceme
 
 Pour les employés de ce groupe d’indemnité, le grade 6 est allongé d’un douzième échelon ayant l’indice 259.
 
-<a id="art_N51BC4"></a>
+<a id="art_N51CE7"></a>
 
 ### Art. 49.
 
@@ -27949,7 +27964,7 @@ Le niveau supérieur comprend le grade 3, et l’avancement à ce grade intervie
 
 Pour les employés de ce groupe d’indemnité qui ont réussi à l’examen de carrière, le grade 3 est allongé d’un douzième, d’un treizième et d’un quatorzième échelon ayant respectivement les indices 209, 216 et 222.
 
-<a id="art_N51C6F"></a>
+<a id="art_N51D92"></a>
 
 ### Art. 50.
 
@@ -27959,7 +27974,7 @@ Les secrétaires de direction bénéficient d’un supplément de rémunération
 
 Un règlement grand-ducal fixe les conditions et modalités pour l’octroi du supplément de rémunération visé à l’alinéa précédent.
 
-<a id="art_N51CF2"></a>
+<a id="art_N51E15"></a>
 
 ### Art. 51.
 
@@ -27969,7 +27984,7 @@ Les standardistes bénéficient d’un supplément de rémunération de dix poin
 
 Un règlement grand-ducal fixe les conditions et modalités pour l’octroi du supplément de rémunération visé à l’alinéa précédent.
 
-<a id="art_N51D51"></a>
+<a id="art_N51E74"></a>
 
 ### Art. 52.
 
@@ -27981,7 +27996,7 @@ Un règlement grand-ducal fixe les conditions et modalités pour l’octroi du s
 
 ##### Chapitre 4. — *Dispositions modificatives, transitoires, abrogatoires et finales*
 
-<a id="art_N51DFF"></a>
+<a id="art_N51F22"></a>
 
 ### Art. 53.
 
@@ -27989,7 +28004,7 @@ Un règlement grand-ducal peut accorder, sans créer un droit en faveur des int�
 
 Toutefois, le total du supplément et des prestations d’autres régimes de pension luxembourgeois et étrangers ne peut dépasser la pension qui serait due si l’ensemble des périodes d’assurance accomplies par l’employé sous les régimes luxembourgeois et étrangers était pris en considération pour la fixation d’une pension de l’Etat.
 
-<a id="art_N51E48"></a>
+<a id="art_N51F6B"></a>
 
 ### Art. 54.
 
@@ -28003,13 +28018,13 @@ Les employés des carrières A, B, B1 et C engagés entre 18 et 19 ans, ont droi
 
 Les employés des carrières D, E1 et E2 engagés avant l’âge de 21 ans ont droit au deuxième échelon de leur grade de début de carrière. Il en est de même des employés de la carrière S engagés avant l’âge de 25 ans.
 
-<a id="art_N51EA7"></a>
+<a id="art_N51FCA"></a>
 
 ### Art. 55.
 
 Les employés en activité de service et en période assimilée au stage au moment de l’entrée en vigueur de la présente loi et classés dans les carrières sociales, éducatives ou paramédicales visées aux sections II et III du point III. «Tableau transitoire des carrières» de l’annexe sont classés au troisième échelon du grade de début de carrière pendant la période assimilée au stage. Toutefois, l’indemnité des employés qui ont atteint l’âge fictif prévu pour leur carrière est fixée au quatrième échelon du grade de début de carrière.
 
-<a id="art_N51EF4"></a>
+<a id="art_N52017"></a>
 
 ### Art. 56.
 
@@ -28019,13 +28034,13 @@ Les employés sont considérés comme étant en première année de stage à par
 
 L’âge fictif de début de carrière est fixé à 21 ans pour les employés classés aux grades E1, E2 et E3, et à 25 ans pour les employés classés aux grades E3ter, E4, E5 et E6.
 
-<a id="art_N51F4D"></a>
+<a id="art_N52070"></a>
 
 ### Art. 57.
 
 Par dérogation à l’article 21, les dispositions relatives à la fixation de l’indemnité au moment du début de carrière et aux modalités de calcul de la bonification d’ancienneté de service telles que celles-ci ont été fixées par les articles 3 et 7 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat restent applicables aux employés en activité de service au moment de l’entrée en vigueur de la présente loi.
 
-<a id="art_N51F93"></a>
+<a id="art_N520B6"></a>
 
 ### Art. 58.
 
@@ -28070,7 +28085,7 @@ Groupe d’indemnité C1:
 2. - les sous-groupes administratif et technique comprennent l’ancienne carrière B;
 3. - les sous-groupes administratif et technique comprennent l’ancienne carrière A.
 
-<a id="art_N520D0"></a>
+<a id="art_N521F3"></a>
 
 ### Art. 59.
 
@@ -28080,13 +28095,13 @@ Groupe d’indemnité C1:
 
 **(3)** Les employés en activité de service et qui au moment de l’entrée en vigueur de la présente loi sont classés à un échelon non repris dans les nouveaux tableaux indiciaires de l’annexe de la présente loi continuent à bénéficier de celui-ci jusqu’à échéance respectivement du prochain avancement en grade ou de l’avancement à l’indice de l’échelon subséquent.
 
-<a id="art_N52144"></a>
+<a id="art_N52267"></a>
 
 ### Art. 60.
 
 Les employés bénéficiant au moment de l’entrée en vigueur de la présente loi de l’un des congés prévus à l’article 30 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat conservent la computation des périodes de service y prévue. La présente disposition s’applique à tous les avancements en grade tels qu’ils sont définis aux articles 43 à 49.
 
-<a id="art_N5218B"></a>
+<a id="art_N522AE"></a>
 
 ### Art. 61.
 
@@ -28094,7 +28109,7 @@ Sans préjudice des dispositions des articles 67 et 68, pour les employés relev
 
 Toutefois, lorsque l’ancienneté de service de l’employé est telle que l’employé aurait pu accéder au grade intercalé ou au grade ajouté d’après les articles 43 à 49, il est tenu compte de ce grade intercalé ou ajouté pour la fixation de sa nouvelle indemnité. Celle-ci correspond dans le nouveau grade à la valeur de l’échelon de base applicable au moment de l’entrée en vigueur de la présente loi ou, à défaut, à la valeur de l’échelon de base immédiatement supérieur, sans préjudice du report de l’ancienneté d’échelon acquise dans l’ancien grade et pour autant que les conditions de formation soient remplies.
 
-<a id="art_N521D5"></a>
+<a id="art_N522F8"></a>
 
 ### Art. 62.
 
@@ -28102,7 +28117,7 @@ Sans préjudice des dispositions des articles 58, 61, 67 et 68, le classement ba
 
 Pour l’application des dispositions de la présente loi, l’ancienneté de grade et d’échelon acquise par les employés au moment de l’entrée en vigueur de la présente loi est reprise. Il en est de même pour les carrières non reprises par l’article 58.
 
-<a id="art_N52219"></a>
+<a id="art_N5233C"></a>
 
 ### Art. 63.
 
@@ -28112,25 +28127,25 @@ Pour l’application des dispositions de la présente loi, l’ancienneté de gr
 
 En vue de la détermination du nouveau grade dans la catégorie d’indemnité B, groupe d’indemnité B1, il est tenu compte des conditions de réussite et de dispense à l’âge de 50 ans de l’examen de carrière définies aux articles 43 à 49. Les employés ayant réussi à l’examen de leur carrière initiale sont considérés comme ayant réussi à l’examen de carrière prévu aux articles 43 à 49. Les employés relevant de carrières visées au tableau point III. «Tableau transitoire des carrières» de l’annexe et n’ayant pas connu d’examen de carrière sont considérés comme ayant réussi à l’examen de carrière dans le nouveau régime tel que prévu aux articles 43 à 49, à moins que leur ancienne carrière n’ait compris qu’un seul grade.
 
-<a id="art_N52292"></a>
+<a id="art_N523B5"></a>
 
 ### Art. 64.
 
 Sans préjudice des dispositions des articles 58, 61 et 67, les employés en activité de service, en congé de maternité, en congé parental ou en congé sans indemnité au moment de l’entrée en vigueur de la présente loi et classés dans les carrières paramédicales visées au point 5 de la section III du tableau point III. «Tableau transitoire des carrières» de l’annexe et intégrées dans les sous-groupes respectifs du groupe d’indemnité A2 conservent leur droit à un avancement au grade 14 après 25 années de grade depuis le début de carrière.
 
-<a id="art_N522D9"></a>
+<a id="art_N523FC"></a>
 
 ### Art. 65.
 
 Les employés engagés avant la date d’entrée en vigueur de la présente loi, classés dans la carrière A et remplissant la fonction de concierge, sont classés dans les sous-groupes respectifs du groupe d’indemnité D3 en conservant leur grade et échelon ainsi que leur droit aux avancements relevant de leur carrière antérieure.
 
-<a id="art_N5231A"></a>
+<a id="art_N5243D"></a>
 
 ### Art. 66.
 
 Les employés en service, en congé de maternité, en congé parental ou en congé sans indemnité au moment de l’entrée en vigueur de la présente loi et dont l’indemnité calculée en fonction des dispositions de la présente loi est inférieure à celle dont ils bénéficient au moment de la prédite entrée en vigueur conservent l’indemnité leur allouée aussi longtemps qu’elle est plus élevée. Toutefois, pour les employés réintégrant les services après un congé de maternité, congé parental ou congé sans indemnité, l’indemnité est celle qui s’applique au jour de la réintégration.
 
-<a id="art_N52355"></a>
+<a id="art_N52478"></a>
 
 ### Art. 67.
 
@@ -28138,7 +28153,7 @@ Les employés engagés avant la date d’entrée en vigueur de la présente loi 
 
 Dans le cas où une décision individuelle prise en faveur d’un employé prévoit un classement spécial ou une expectative de carrière moins favorable par rapport aux dispositions prévues aux articles 43 à 49, celles-ci lui sont appliquées, compte tenu de son ancienneté de grade déterminée sur base de la date de début de carrière pour la fixation de l’échéance des avancements en grade et en échelon.
 
-<a id="art_N523A5"></a>
+<a id="art_N524C8"></a>
 
 ### Art. 68.
 
@@ -28154,19 +28169,19 @@ Pendant une période transitoire de cinq ans à partir de l’entrée en vigueur
 
 Toutefois, à défaut d’un candidat relevant de l’enseignement et remplissant les conditions définies à l’article 29, le ministre ayant l’Education nationale dans ses attributions, sur avis du ministre, peut désigner un employé enseignant n’ayant pas encore accompli le nombre d’années de service prévu à l’alinéa qui précède.
 
-<a id="art_N52439"></a>
+<a id="art_N5255C"></a>
 
 ### Art. 69.
 
 Les dispositions transitoires et abrogatoires prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat et concernant l’allocation de famille ainsi que le supplément compensatoire pour professions de santé sont applicables aux employés en service, en congé de maternité, en congé parental ou en congé sans indemnité au moment de l’entrée en vigueur de la présente loi.
 
-<a id="art_N52486"></a>
+<a id="art_N525A9"></a>
 
 ### Art. 70.
 
 Les dispositions de l’article 27, alinéa 3, de la loi du 6 février 2009 concernant le personnel de l’enseignement fondamental et relatives aux modalités de calcul et d’allocation de l’indemnité de remplacement sont applicables au personnel du Service de l’Education différenciée effectuant des remplacements.
 
-<a id="art_N524CC"></a>
+<a id="art_N525EF"></a>
 
 ### Art. 71.
 
@@ -28174,7 +28189,7 @@ Les employés en service, en congé de maternité, en congé parental ou en cong
 
 Pour ces employés, l’expérience professionnelle à prendre en compte pour déterminer l’augmentation d’échelon est celle acquise au moment de leur entrée en service.
 
-<a id="art_N52528"></a>
+<a id="art_N5264B"></a>
 
 ### Art. 72.
 
@@ -28190,7 +28205,7 @@ Le changement de groupe d’indemnité dans le cadre du présent article ne peut
 
 ##### Chapitre 5. — *Mise en vigueur*
 
-<a id="art_N52596"></a>
+<a id="art_N526B9"></a>
 
 ### Art. 73.
 
@@ -28200,7 +28215,7 @@ Il en est de même des autres dispositions légales contraires à la présente l
 
 Pour les chargés de cours de religion, les dispositions de l’article 23, paragraphe 1er de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat restent applicables.
 
-<a id="art_N525E9"></a>
+<a id="art_N5270C"></a>
 
 ### Art. 74.
 
@@ -28218,13 +28233,13 @@ La présente loi entre en vigueur le premier jour du septième mois qui suit cel
 
 #### Règlement du Gouvernement en Conseil du 4 décembre 1987 concernant les indemnités dues au personnel suppléant et aux chargés de cours pratiques des établissements préscolaires, des écoles primaires, complémentaires et spéciales, et les indemnités pour leçons supplémentaires.
 
-<a id="art_N54606"></a>
+<a id="art_N54729"></a>
 
 ### Art. 1er.
 
 Les indemnités dues au personnel suppléant et aux chargés des cours pratiques des établissements préscolaires et des écoles primaires, complémentaires et spéciales sont fixées comme suit (au nombre-indice 100):**I.****Indemnités semi-journalières et horaires**A.Remplaçant détenteur du brevet d´aptitude pédagogique (BAP), du certificat d´études pédagogiques (CEP), du certificat d´instituteur d´économie familiale ou d´un certificat reconnu équivalent parle ministre de l´Education Nationale et de la Jeunesse:1. par matinée581, —2. par après-midi415, —3. par leçon166, —B.Remplaçant détenteur du brevet provisoire d´enseignement, du brevet de maîtresse de jardin d´enfants, du brevet d´enseignement ménager familial, du certificat de fin d´études secondaires luxembourgeois, du diplôme de fin d´études de l´enseignement technique, division administrative ou d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse.B.O.Chargé de cours pratiques détenteur d´un brevet de maîtrise ou d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse:1. par matinée:a) moins de 21 ansb) 21 ans et plus455, —483, —2. par après-midi:a) moins de 21 ansb) 21 ans et plus325, —345, —3. par leçon:a) moins de 21 ansb) 21 ans et plus130, —138, —C.Remplaçant détenteur du certificat luxembourgeois de fin d´études moyennes ou de l´ancien examen de passage d´un établissement d´enseignement secondaire du pays ou ayant suivi avec succès l´enseignement des cinq premières années d´études dans un établissement d´enseignement secondaire ou secondaire technique ou détenteur d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse.C.O.Chargé de cours pratiques détenteur d´un certificat d´aptitude technique et professionnelle ou d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse:1. par matinée:a) moins de 21 ansb) 21 ans et plus424, —445, —2. par après-midi:a) moins de 21 ansb) 21 ans et plus303, —318, —3. par leçon:a) moins de 21 ansb) 21 ans et plus121, —127, —D.Remplaçant ou chargé de cours pratiques ne pouvant se prévaloir d´aucun des diplômes ou certificats cités sous I/A, I/B ou I/C:1. par matinée:a) moins de 21 ansb) 21 ans et plus336, —357, —2. par après-midi:a) moins de 21 ansb) 21 ans et plus240, —255, —3. par leçon:a) moins de 21 ansb) 21 ans et plus 96, —102, —L´indemnité journalière des remplaçants ou des chargés de cours pratiques remplissant les conditions prévues à l´article 9 (allocation de famille) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat est augmentéede 44, — francs par matinéede 32, — francs par après-midi de 13, — francs par leçon.Les taux prévus aux alinéas A, B, C et D sous 1) et 2) sont dus pour une matinée ou un après-midi tels qu´ils sont définis par l´horaire officiel. Pour le cas où le remplacement ou la tâche ne concerne qu´une fraction de la matinée ou de l´après-midi les taux horaires sous 3) sont applicables.**II .****Indemnités mensuelles**La mensualité est fixée comme suit pour une tâche complète:A.Remplaçant détenteur du brevet d´aptitude pédagogique (BAP), du certificat d´études pédagogiques (CEP), du certificat d´instituteur d´économie familiale ou d´un certificat reconnu équivalent parle ministre de l´Education Nationale et de la Jeunesse:17.041, —B.Remplaçant détenteur du brevet provisoire d´enseignement, du brevet de maîtresse de jardin d´enfants, du brevet d´enseignement ménager familial, du certificat de fin d´études secondaires luxembourgeois, du diplôme de fin d´études de l´enseignement technique, division administrative ou d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse.B.O.Chargé de cours pratiques détenteur d´un brevet de maîtrise ou d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse: a) moins de 21 ans:b) 21 ans et plus:13.358, —14.153, —C.Remplaçant détenteur du certificat luxembourgeois de fin d´études moyennes ou de l´ancien examen de passage d´un établissement d´enseignement secondaire du pays ou ayant suivi avec succès l´enseignement des cinq premières années d´études dans un établissement d´enseignement secondaire ou secondaire technique ou détenteur d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse:C.O.Chargé de cours pratiques détenteur d´un certificat d´aptitude technique et professionnelle ou d´un certificat reconnu équivalent par le ministre de l´Education Nationale et de la Jeunesse:a) moins de 21 ans:b) 21 ans et plus:12.420, —13.070, —D.Remplaçant ou chargé de cours pratiques ne pouvant se prévaloir d´aucun des diplômes ou certificats cités sous I/A, I/B ou I/C:a) moins de 21 ans: b) 21 ans et plus: 9.820, —10.470, —L´indemnité mensuelle des remplaçants et des chargés de cours remplissant les conditions prévues à l´article 9 (allocation de famille) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat est augmentée de 1.300, — francs.L´indemnité mensuelle est due aux remplaçants et aux chargés de cours pratiques pour une occupation continue de trois mois au moins dans la même commune.
 
-<a id="art_N548D9"></a>
+<a id="art_N549FC"></a>
 
 ### Art. 2.
 
@@ -28233,7 +28248,7 @@ Les indemnités dues pour une leçon supplémentaire d´enseignement direct sont
 | I A: I B: I C: I D: | 217, —174, —165, —132, — |
 | --- | --- |
 
-<a id="art_N54913"></a>
+<a id="art_N54A36"></a>
 
 ### Art. 3.
 
@@ -28242,7 +28257,7 @@ Les indemnités dues pour une leçon supplémentaire d´études surveillées son
 | I A: I B: I C: I D: | 163, —131, —124, — 99, — |
 | --- | --- |
 
-<a id="art_N5494D"></a>
+<a id="art_N54A70"></a>
 
 ### Art. 4.
 
@@ -28251,25 +28266,25 @@ Les indemnités dues pour une leçon supplémentaire de surveillance sont les su
 | I A: I B: I C: I D: | 130, —104, — 99, — 80, — |
 | --- | --- |
 
-<a id="art_N54989"></a>
+<a id="art_N54AAC"></a>
 
 ### Art. 5.
 
 La contribution de l´Etat aux indemnités accordées pour leçons supplémentaires dans l´enseignement complémentaire ne peut s´étendre que sur trois leçons hebdomadaires.
 
-<a id="art_N54999"></a>
+<a id="art_N54ABC"></a>
 
 ### Art. 6.
 
 Toutes les dispositions contraires au présent règlement sont abrogées.
 
-<a id="art_N549A9"></a>
+<a id="art_N54ACC"></a>
 
 ### Art. 7.
 
 Le présent règlement est applicable à partir du 1er janvier 1988.
 
-<a id="art_N549BC"></a>
+<a id="art_N54ADF"></a>
 
 ### Art. 8.
 
@@ -28277,25 +28292,25 @@ Une copie du présent règlement sera transmise pour information à la Chambre d
 
 #### Version consolidée applicable au 15/09/1992 : Règlement du Gouvernement en conseil du 8 mai 1987 portant allocation d'un supplément d'indemnité à certains employés exerçant une profession médicale ou paramédicale auprès d'une administration ou d'un service de l'Etat.
 
-<a id="art_N549E1"></a>
+<a id="art_N54B04"></a>
 
 ### Art. 1er.
 
 Les dispositions ainsi que les modalités de mise en vigueur de l’article 25bis de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat sont applicables aux employés exerçant une profession médicale ou paramédicale auprès d’une administration ou d’un service de l’Etat.
 
-<a id="art_N54A1B"></a>
+<a id="art_N54B3E"></a>
 
 ### Art. 2.
 
 La valeur du supplément prévu à l’article 1er ci-dessus est égale à la valeur du même nombre de points de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N54A55"></a>
+<a id="art_N54B78"></a>
 
 ### Art. 3.
 
 Le présent règlement entre en vigueur avec effet à partir du 1er novembre 1986.
 
-<a id="art_N54A8A"></a>
+<a id="art_N54BAD"></a>
 
 ### Art. 4.
 
@@ -28303,13 +28318,13 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Version consolidée applicable au 15/09/2016 : Règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail de deux cents chargés d'éducation à durée indéterminée des lycées et lycées techniques publics.
 
-<a id="art_N54AD1"></a>
+<a id="art_N54BF4"></a>
 
 ### Art. 1er. Champ d’application
 
 Le présent règlement définit le statut des chargés d’éducation engagés à durée indéterminée et à tâche complète sous le régime de l’employé de l’Etat et occupant les deux cents postes créés par loi du 20 décembre 1996 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1997.
 
-<a id="art_N54B11"></a>
+<a id="art_N54C34"></a>
 
 ### Art. 2. Conditions d’engagement
 
@@ -28323,25 +28338,25 @@ Peuvent être engagés en qualité de chargé d’éducation à durée indéterm
 6. - une partie théorique commune portant sur la législation scolaire, les principes généraux de pédagogie, la méthodologie générale, la psychologie de l’adolescence;
 - une partie pratique individuelle, sous la tutelle de professeurs titulaires et la responsabilité du directeur et portant sur la didactique des branches concernées. Un règlement ministériel fixera au besoin les détails de l’organisation de cette formation.
 
-<a id="art_N54B77"></a>
+<a id="art_N54C9A"></a>
 
 ### Art. 3.
 
 
 
-<a id="art_N54BA8"></a>
+<a id="art_N54CCB"></a>
 
 ### Art. 4. Disposition transitoire
 
 Les chargés de cours à durée déterminée, en service au premier janvier 1997 et repris en qualité de chargé d’éducation à durée indéterminée, sont dispensés des épreuves du contrôle linguistique prévu à l’article 2, sub 5 ci-dessus.
 
-<a id="art_N54BE0"></a>
+<a id="art_N54D03"></a>
 
 ### Art. 5. Entrée en vigueur
 
 Le présent règlement sort ses effets à partir de l’année scolaire 1997/1998.
 
-<a id="art_N54C18"></a>
+<a id="art_N54D3B"></a>
 
 ### Art. 6. Disposition finale
 
@@ -28349,13 +28364,13 @@ Notre Ministre de l’Education Nationale et de la Formation Professionnelle et 
 
 #### Version consolidée applicable au 15/09/2016 : Règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail des chargés d'éducation à durée déterminée des lycées et lycées techniques publics.
 
-<a id="art_N54C65"></a>
+<a id="art_N54D88"></a>
 
 ### Art. 1er. Champ d’application
 
 Le présent règlement définit le statut des chargés d’éducation engagés à durée déterminée et à tâche complète ou partielle sous le régime de l’employé de l’Etat dans les lycées et lycées techniques publics.
 
-<a id="art_N54CA0"></a>
+<a id="art_N54DC3"></a>
 
 ### Art. 2. Conditions d’engagement
 
@@ -28367,19 +28382,19 @@ Peuvent être engagés en qualité de chargé d’éducation à durée détermin
 4. satisfaire aux conditions d’aptitude requises pour l’exercice de leur emploi,
 5. loi du 24 février 1984 règlement grand-ducal du 9 décembre 1994
 
-<a id="art_N54CF6"></a>
+<a id="art_N54E19"></a>
 
 ### Art. 3.
 
 
 
-<a id="art_N54D27"></a>
+<a id="art_N54E4A"></a>
 
 ### Art. 4. Entrée en vigueur
 
 Le présent règlement sort ses effets à partir de l’année scolaire 1997/1998.
 
-<a id="art_N54D5F"></a>
+<a id="art_N54E82"></a>
 
 ### Art. 5. Disposition finale
 
@@ -28389,67 +28404,67 @@ Notre Ministre de l’Education Nationale et de la Formation Professionnelle et 
 
 ##### **Chapitre I.**
 
-<a id="art_N54DB6"></a>
+<a id="art_N54ED9"></a>
 
 ### Art. 1er.
 
 Le présent chapitre détermine les principes généraux qui régissent les indemnités des enseignants et des chargés de cours de religion visés par le règlement grand-ducal modifié du 7 août 1998 portant fixation des subventions-salaires des enseignants et chargés de cours de religion.
 
-<a id="art_N54DF0"></a>
+<a id="art_N54F13"></a>
 
 ### Art. 2.
 
 Les indemnités des employés sont fixées par référence à la législation sur les traitements des fonctionnaires de l’Etat, conformément aux dispositions ci-après.
 
-<a id="art_N54E22"></a>
+<a id="art_N54F45"></a>
 
 ### Art. 3.
 
 Les indemnités sont payables le premier jour du mois.
 
-<a id="art_N54E54"></a>
+<a id="art_N54F77"></a>
 
 ### Art. 4.
 
 L’indemnité est due pour le mois entier si l’entrée en service a lieu le premier jour ouvrable du mois.
 
-<a id="art_N54E86"></a>
+<a id="art_N54FA9"></a>
 
 ### Art. 5.
 
 L’indemnité de l’employé occupé à temps partiel est fixée en pourcentage de celle due pour une occupation à plein temps.
 
-<a id="art_N54EB8"></a>
+<a id="art_N54FDB"></a>
 
 ### Art. 6.
 
 Dans les dispositions qui suivent, l’expression «la loi» désigne la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, telle qu’elle a été modifiée et telle qu’elle sera modifiée dans la suite, et le terme «indemnité» désigne l’indemnité de base, sauf disposition contraire.
 
-<a id="art_N54EEF"></a>
+<a id="art_N55012"></a>
 
 ### Art. 7.
 
 Les indemnités des employés sont déterminées par carrières et classements fixés par référence aux grades des tableaux indiciaires annexés à la loi. Les modifications qui seront apportées à ces tableaux indiciaires entraîneront de plein droit le recalcul des indemnités conformément aux nouveaux grades, sauf en cas de restructuration simultanée, affectant les classements décidés, des rubriques de classification des fonctions annexées à la loi.
 
-<a id="art_N54F21"></a>
+<a id="art_N55044"></a>
 
 ### Art. 8.
 
 L’avancement de l’employé à un grade supérieur s’effectue conformément aux dispositions de l’article 5, paragraphe 1, 2 et 3, relatives à la promotion du fonctionnaire, le passage à un grade inférieur conformément à l’article 6, paragraphe 1, de la loi.
 
-<a id="art_N54F53"></a>
+<a id="art_N55076"></a>
 
 ### Art. 9.
 
 L’indemnité de l’employé qui passe à une carrière supérieure est calculée conformément à l’article 7, paragraphe 5 de la loi.
 
-<a id="art_N54F85"></a>
+<a id="art_N550A8"></a>
 
 ### Art. 10.
 
 La carrière de l’employé prend cours dès la fin de la période d’assimilation au stagiaire-fonctionnaire.
 
-<a id="art_N54FB7"></a>
+<a id="art_N550DA"></a>
 
 ### Art. 11.
 
@@ -28461,7 +28476,7 @@ Le second alinéa, première phrase, du paragraphe 6 de l’article 7 de la loi 
 
 La période de stage accomplie par l’employé dans sa carrière est bonifiée dans tous les cas pour la totalité lors de la reconstitution de cette carrière.
 
-<a id="art_N55007"></a>
+<a id="art_N5512A"></a>
 
 ### Art. 12.
 
@@ -28483,13 +28498,13 @@ En cas de suspension de l’avancement d’échelon, la décision y relative est
 
 **5.** Toutefois, pour les employés dont l’engagement et la résiliation du contrat sont effectués par le Ministre de la Fonction Publique et de la Réforme Administrative, le terme de «ministre du ressort» au sens du présent article vise le Ministre de la Fonction Publique et de la Réforme Administrative.
 
-<a id="art_N550A4"></a>
+<a id="art_N551C7"></a>
 
 ### Art. 13.
 
 Pour la détermination de l’échéance des augmentations d’âge et des avancements éventuels d’échelon et en grade, les dates de naissance et d’entrée en service qui tombent à une date autre que le 1er du mois sont reportées au premier du mois suivant.
 
-<a id="art_N550D9"></a>
+<a id="art_N551FC"></a>
 
 ### Art. 14.
 
@@ -28497,7 +28512,7 @@ L’employé qui est engagé au service de l’Etat sur la base d’un nouveau c
 
 L’ouvrier de l’Etat qui est engagé en qualité d’employé et dont l’indemnité au sens de l’article 6 ci-dessus, y compris la majoration de l’indice, est inférieure au salaire d’ouvrier bénéficie d’un supplément personnel d’indemnité égal à la différence entre les éléments comparés. Le salaire pris en considération est le salaire mensuel normal au jour du changement de statut, y compris le montant tenant lieu «d’allocation de famille». Le supplément personnel diminue au fur et à mesure que l’indemnité augmente par l’accomplissement des conditions d’années de service et d’examen.
 
-<a id="art_N55114"></a>
+<a id="art_N55237"></a>
 
 ### Art. 15.
 
@@ -28509,7 +28524,7 @@ Si son degré d’occupation mensuel est inférieur à cent pour cent et supéri
 
 Aucune allocation n’est due lorsque le degré d’occupation est inférieur à vingt-cinq pour cent d’une tâche complète.
 
-<a id="art_N55161"></a>
+<a id="art_N55284"></a>
 
 ### Art. 16.
 
@@ -28517,25 +28532,25 @@ Les employés peuvent bénéficier de la prime d’astreinte conformément aux p
 
 L’employé dont l’indemnité, y compris l’indice majoré, est inférieure à cent cinquante points indiciaires bénéficie d’un supplément d’indemnité de sept points indiciaires; toutefois, le supplément est réduit d’autant de points indiciaires que le total de l’indemnité y compris l’indice majoré, et du supplément dépasse la somme de cent cinquante points indiciaires.
 
-<a id="art_N5519C"></a>
+<a id="art_N552BF"></a>
 
 ### Art. 17.
 
 L’indemnité de l’employé, telle qu’elle est définie à l’article 6 ci-dessus, y compris la majoration de l’indice, ainsi que la prime d’astreinte prévue à l’article 16 ci-dessus sont adaptées au coût de la vie conformément aux dispositions de l’article 11 de la loi. L’indemnité est établie en francs conformément aux dispositions du paragraphe 2 du même article 11.
 
-<a id="art_N551DA"></a>
+<a id="art_N552FD"></a>
 
 ### Art. 18.
 
 Sont appliquées en faveur des employés les dispositions des articles 1er et 2 de la loi modifiée du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, et les modifications qui y seront apportées dans la suite.
 
-<a id="art_N55219"></a>
+<a id="art_N5533C"></a>
 
 ### Art. 19.
 
 Les administrations ou départements ministériels pourront désigner un employé pour remplir les fonctions de secrétaire de direction pour autant que les nécessités de service l’exigent. Le classement et l’indemnité des secrétaires de direction sont fixés conformément au tableau I annexé.
 
-<a id="art_N5524B"></a>
+<a id="art_N5536E"></a>
 
 ### Art. 20.
 
@@ -28549,7 +28564,7 @@ Au cas où le trimestre de faveur est inférieur à l’indemnité spéciale, le
 
 ##### Dispositions transitoires
 
-<a id="art_N552CC"></a>
+<a id="art_N553EF"></a>
 
 ### Art. 38.
 
@@ -28567,7 +28582,7 @@ Les examens reçus et les décisions de classement intervenues soit en exécutio
 
 Sans préjudice de l’application des articles 36, 37 et 38 ci-après, les indemnités de base et les carrières des employés en activité de service et retraités au moment de la publication du présent règlement seront reconstituées, jusqu’au 1er avril 1974, conformément aux dispositions du règlement et de l’annexe en tenant compte de tous les grades des carrières.
 
-<a id="art_N553E2"></a>
+<a id="art_N55505"></a>
 
 ### Art. 39.
 
@@ -28575,7 +28590,7 @@ Par dérogation à l’article 38 ci-dessus la carrière des secrétaires person
 
 Les secrétaires personnels des membres du Gouvernement, en service au moment de l’entrée en vigueur du présent règlement, qui remplissent les conditions d’études prévues pour la carrière D1 du Tableau II annexé, seront classés d’office dans cette carrière à partir de l’entrée en vigueur du présent règlement et leurs indemnités de base reconstituées conformément à cette carrière.
 
-<a id="art_N5541D"></a>
+<a id="art_N55540"></a>
 
 ### Art. 40.
 
@@ -28583,25 +28598,25 @@ Pour les employés qui furent classés à la carrière B du Tableau III de l’a
 
 Les employés en service au moment de l’entrée en vigueur du présent règlement, qui avaient bénéficié de l’avancement au troisième grade de leur carrière par décision spéciale du Gouvernement en conseil, sont dispensés de l’examen y prévu en vue de l’avancement au grade suivant.
 
-<a id="art_N5545B"></a>
+<a id="art_N5557E"></a>
 
 ### Art. 41.
 
 Les dispositions transitoires de l’article 6 du règlement du Gouvernement en conseil du 22 novembre 1968 concernant l’organisation, les programmes et la procédure des examens de carrière des employés de l’Etat seront appliquées aussi longtemps que des employés en service rempliront les conditions y prévues. Toutefois, les employés de la carrière A et les employés féminins des carrières B, B1 et C du Tableau I annexé, en service à la date de l’entrée en vigueur du présent règlement, seront admissibles à l’examen à programme réduit ou à l’examen oral s’ils sont âgés respectivement de 45 et 55 ans à la date de l’entrée en vigueur du présent règlement. Pour les employés de la carrière A l’examen à programme réduit comprendra une seule épreuve écrite portant sur l’organisation de l’administration dont relève le candidat.
 
-<a id="art_N55492"></a>
+<a id="art_N555B5"></a>
 
 ### Art. 42.
 
 Les décisions d’allocation de la prime d’astreinte prises antérieurement à l’entrée en vigueur du présent règlement sont confirmées.
 
-<a id="art_N554C4"></a>
+<a id="art_N555E7"></a>
 
 ### Art. 43.
 
 En application des dispositions du deuxième alinéa de l’article 24 du présent règlement, les employés des carrières C, D et S engagés avant l’entrée en vigueur du présent règlement et considérés comme étant en période de stage ne pourront être dépassés par ceux dont l’admission à la période de stage est postérieure à l’entrée en vigueur du présent règlement.
 
-<a id="art_N55502"></a>
+<a id="art_N55625"></a>
 
 ### Art. 43bis.
 
@@ -28611,7 +28626,7 @@ Par dérogation à l’alinéa 1er de l’article 29 du présent règlement gran
 - de 24 journées de formation continue lorsqu’ils peuvent se prévaloir de la participation à deux cours de recyclage
 - de 30 journées de formation continue lorsqu’ils peuvent se prévaloir de la participation à trois cours de recyclage.
 
-<a id="art_N55544"></a>
+<a id="art_N55667"></a>
 
 ### Art. 44.
 
@@ -28642,7 +28657,7 @@ Les employés dont la participation aux cours de recyclage ou de perfectionnemen
 
 **6.** Le présent règlement entrera en vigueur le 1er novembre 1986, à l’exception toutefois de l’article 1er, paragraphe D, alinéa 6 qui entrera en vigueur le jour de la publication du présent règlement au Mémorial. (c.-à-d. le 4 juin 1987)
 
-<a id="art_N55649"></a>
+<a id="art_N5576C"></a>
 
 ### Art. 45.
 
@@ -28650,7 +28665,7 @@ Les employés dont la participation aux cours de recyclage ou de perfectionnemen
 
 **II.** L’employé qui à la date du 1er janvier 1989 a atteint par application des dispositions de l’art. 34 du règlement du Gouvernement en conseil du 1er mars 1974 , modifié par le présent règlement, le dernier échelon d’un grade qui n’était pas le dernier de sa carrière, bénéficie d’un échelon supplémentaire au moment de son ancienne échéance biennale dont la valeur est égale à la différence entre le dernier et l’avant-dernier échelon actuel.
 
-<a id="art_N556AB"></a>
+<a id="art_N557CE"></a>
 
 ### Art. 46.
 
@@ -28663,7 +28678,7 @@ Les paragraphes 1) et 2) de l’article de la loi du 27 juillet 1992 modifiant e
 5. loi du 28 mars 1986
 6. loi modifiée du 26 mai 1954
 
-<a id="art_N55722"></a>
+<a id="art_N55845"></a>
 
 ### Art. 46bis.
 
@@ -28675,13 +28690,13 @@ Sont prises en considération pour les dispositions de l’alinéa précédent l
 
 La bonification d’ancienneté de service pour la fixation de l’indemnité initiale est calculée selon les conditions prévues à l’article 7 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, à l’exception de la disposition du paragraphe 6, alinéa 2, première phrase pour le temps passé ailleurs que dans l’enseignement public et à l’exception des dispositions du paragraphe 6, alinéa 1er et alinéa 2, première phrase pour le temps passé dans l’enseignement public, quelle qu’ait été la nature de l’emploi y occupé.
 
-<a id="art_N5577C"></a>
+<a id="art_N5589F"></a>
 
 ### Art. 47.
 
 Le présent règlement entre en vigueur le 1er septembre 2000.
 
-<a id="art_N557B1"></a>
+<a id="art_N558D4"></a>
 
 ### Art. 48.
 
@@ -28689,7 +28704,7 @@ Le Ministre de la Fonction Publique et de la Réforme Administrative est chargé
 
 #### Règlement grand-ducal du 30 septembre 2015 déterminant le programme des épreuves, la composition de la commission d'examen et l'organisation des examens de carrière des employés de l'Etat.
 
-<a id="art_N557F9"></a>
+<a id="art_N5591C"></a>
 
 ### Art. 1er.
 
@@ -28705,7 +28720,7 @@ Le programme comprend les matières suivantes:
 2. Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points);
 3. Travail de réflexion en relation avec les missions de l’administration (60 points).
 
-<a id="art_N55836"></a>
+<a id="art_N55959"></a>
 
 ### Art. 2.
 
@@ -28720,7 +28735,7 @@ Le programme comprend les matières suivantes:
 2. 1. Législations et réglementations de l’administration (60 points);
 2. Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points).
 
-<a id="art_N5586D"></a>
+<a id="art_N55990"></a>
 
 ### Art. 3.
 
@@ -28734,7 +28749,7 @@ Le programme comprend les matières suivantes:
 2. 1. Législations et réglementations de l’administration (60 points);
 2. Epreuve d’aptitude professionnelle en relation avec les fonctions exercées et les compétences professionnelles du candidat (60 points).
 
-<a id="art_N558A1"></a>
+<a id="art_N559C4"></a>
 
 ### Art. 4.
 
@@ -28748,7 +28763,7 @@ Le programme comprend les matières suivantes:
 2. 1. Notions sur l’organisation de l’administration (60 points);
 2. Epreuve sur un sujet en relation avec l’occupation quotidienne du candidat (30 points).
 
-<a id="art_N558D5"></a>
+<a id="art_N559F8"></a>
 
 ### Art. 5.
 
@@ -28760,7 +28775,7 @@ Le programme comprend les matières suivantes:
 2. 1. Notions sur l’organisation de l’administration (60 points);
 2. Epreuve sur un sujet en relation avec l’occupation quotidienne du candidat (30 points).
 
-<a id="art_N558FC"></a>
+<a id="art_N55A1F"></a>
 
 ### Art. 6.
 
@@ -28774,13 +28789,13 @@ Le ministre nomme un observateur sur proposition de la Chambre des fonctionnaire
 
 **(2)** Nul ne peut être membre de la commission d’un examen auquel participe un parent ou allié jusqu’au quatrième degré inclusivement.
 
-<a id="art_N5593C"></a>
+<a id="art_N55A5F"></a>
 
 ### Art. 7.
 
 Sans préjudice de l’article 9, paragraphe 3 du présent règlement, les dispositions de l’article 5 du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen du concours d’admission au stage, de l’examen de fin de stage et de l’examen de promotion dans les administrations et services de l’Etat sur le déroulement des épreuves sont applicables aux examens de carrière.
 
-<a id="art_N55950"></a>
+<a id="art_N55A73"></a>
 
 ### Art. 8.
 
@@ -28792,7 +28807,7 @@ La commission statue sur l’admissibilité du candidat conformément à l’art
 
 Le président de la commission d’examen informe le candidat par écrit sur son admissibilité et sur le programme d’examen au moins quatre semaines avant le début des épreuves.
 
-<a id="art_N55969"></a>
+<a id="art_N55A8C"></a>
 
 ### Art. 9.
 
@@ -28810,7 +28825,7 @@ En ce qui concerne les matières des parties spécifiques, la commission défini
 
 La même réduction est possible pour le candidat qui avait déjà réussi à un examen prévu dans un groupe de traitement en qualité de fonctionnaire ou de fonctionnaire stagiaire de l’Etat.
 
-<a id="art_N559CA"></a>
+<a id="art_N55AED"></a>
 
 ### Art. 10.
 
@@ -28822,13 +28837,13 @@ Le candidat doit se présenter à l’examen d’ajournement dans le délai de q
 
 **(3)** Le candidat qui n’a pas obtenu une note finale d’au moins trois cinquièmes du total des points ou qui a obtenu plus d’une note insuffisante a échoué.
 
-<a id="art_N55A07"></a>
+<a id="art_N55B2A"></a>
 
 ### Art. 11.
 
 Le présent règlement entre en vigueur le 1er octobre 2015.
 
-<a id="art_N55A1A"></a>
+<a id="art_N55B3D"></a>
 
 ### Art. 12.
 
@@ -28838,25 +28853,25 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 #### Version consolidée applicable au 25/04/2017 : Règlement grand-ducal du 6 juin 2008 déterminant les conditions générales et les modalités du recrutement centralisé applicables à certains employés occupés dans les administrations et services de l'Etat.
 
-<a id="art_N55A4E"></a>
+<a id="art_N55B71"></a>
 
 ### Art. 1er. Champ d’application
 
 Les dispositions du présent règlement grand-ducal s’appliquent aux employés visés par l’article 4, alinéa 1er de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat.
 
-<a id="art_N55A91"></a>
+<a id="art_N55BB4"></a>
 
 ### Art. 2. Périodicité
 
 Le ministre ayant la Fonction publique dans ses attributions, désigné par la suite par le terme de «ministre», procède, selon les besoins, à la publication des postes vacants par voie électronique ou par toute autre voie appropriée.
 
-<a id="art_N55AC9"></a>
+<a id="art_N55BEC"></a>
 
 ### Art. 3. Phase préliminaire
 
 Les départements ministériels, administrations et services de l’Etat, désignés par la suite indistinctement par le terme «administration», communiquent au ministre leurs vacances de poste.
 
-<a id="art_N55B01"></a>
+<a id="art_N55C24"></a>
 
 ### Art. 4. Inscription des candidats
 
@@ -28875,13 +28890,13 @@ Les informations fournies doivent être complètes et véritables.
 
 Le candidat peut postuler pour les postes vacants pour lesquels il remplit les conditions d’accès requises.
 
-<a id="art_N55B68"></a>
+<a id="art_N55C8B"></a>
 
 ### Art. 5. Conditions d’admission
 
 Un candidat n’est admis à la sélection que s’il a présenté sa demande par voie électronique et dans le délai indiqué dans la publication et s’il remplit les conditions prévues par la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat.
 
-<a id="art_N55BA5"></a>
+<a id="art_N55CC8"></a>
 
 ### Art. 6. Sélection et affectation des candidats
 
@@ -28906,19 +28921,19 @@ L’admission au service de l’Etat peut être refusée au candidat sur base de
 
 **4.** Un certificat médical attestant que le candidat satisfait aux conditions d’aptitude physique et psychique requises pour l’exercice du poste de travail brigué doit être produit avant la conclusion du contrat de travail. Ce certificat est établi par la Division de la santé au travail du secteur public, à la demande de l’administration qui dispose du poste à occuper.
 
-<a id="art_N55C51"></a>
+<a id="art_N55D74"></a>
 
 ### Art. 7. Signature du contrat de travail
 
 Le candidat retenu est invité à se présenter personnellement auprès du département du ministre en vue de la signature de son contrat de travail.
 
-<a id="art_N55C89"></a>
+<a id="art_N55DAC"></a>
 
 ### Art. 8.
 
 
 
-<a id="art_N55CBA"></a>
+<a id="art_N55DDD"></a>
 
 ### Art. 9. Disposition finale
 
@@ -28930,13 +28945,13 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 ##### Chapitre 1er. — Définition et champ d’application
 
-<a id="art_N55D23"></a>
+<a id="art_N55E46"></a>
 
 ### Art. 1er.
 
 Par dérogation aux dispositions fixant les conditions d’admission aux différents groupes de traitement et groupes d’indemnité des administrations de l’Etat, le fonctionnaire de l’Etat peut accéder à un groupe de traitement supérieur au sien et l’employé de l’Etat peut accéder à un groupe d’indemnité supérieur au sien dans les conditions et suivant les modalités déterminées ci-après.
 
-<a id="art_N55D58"></a>
+<a id="art_N55E7B"></a>
 
 ### Art. 2.
 
@@ -28952,7 +28967,7 @@ Par dérogation aux dispositions fixant les conditions d’admission aux différ
 
 **(6)** Par groupe de traitement immédiatement supérieur au groupe de traitement A2, il faut entendre le groupe de traitement A1.
 
-<a id="art_N55DE1"></a>
+<a id="art_N55F04"></a>
 
 ### Art. 3.
 
@@ -28968,7 +28983,7 @@ Par dérogation aux dispositions fixant les conditions d’admission aux différ
 
 **(6)** Par groupe d’indemnité immédiatement supérieur au groupe d’indemnité A2, il faut entendre le groupe d’indemnité A1.
 
-<a id="art_N55E6A"></a>
+<a id="art_N55F8D"></a>
 
 ### Art. 4.
 
@@ -28980,7 +28995,7 @@ Toute fraction résultant de l’application du taux établi ci-dessus compte po
 
 Toute fraction résultant de l’application du taux établi ci-dessus compte pour une unité.
 
-<a id="art_N55EC5"></a>
+<a id="art_N55FE8"></a>
 
 ### Art. 5.
 
@@ -28994,7 +29009,7 @@ Le changement de groupe de traitement au sens de la présente loi n’est pas no
 
 ##### *Section 1. * — *De la demande*
 
-<a id="art_N55F41"></a>
+<a id="art_N56064"></a>
 
 ### Art. 6.
 
@@ -29002,7 +29017,7 @@ Le fonctionnaire de l’Etat qui désire changer de groupe de traitement ou l’
 
 La demande est adressée directement au ministre ayant la Fonction publique dans ses attributions, dénommé ci-après «le ministre», qui en saisit la commission de contrôle prévue à la section 2 du présent chapitre. Le fonctionnaire ou l’employé de l’Etat fait parvenir une copie de sa demande à son ministre et à son chef d’administration ainsi qu’au ministre compétent pour l’administration dont il désire faire partie et au chef d’administration de celle-ci.
 
-<a id="art_N55F7C"></a>
+<a id="art_N5609F"></a>
 
 ### Art. 7.
 
@@ -29026,7 +29041,7 @@ La publication de toute vacance de poste doit préciser s’il y sera pourvu par
 
 ##### *Section 2. * — *De la commission de contrôle*
 
-<a id="art_N56014"></a>
+<a id="art_N56137"></a>
 
 ### Art. 8.
 
@@ -29042,7 +29057,7 @@ Il est institué auprès du ministre une commission de contrôle dont la mission
 
 **5.** évaluer le mémoire prévu à l’article 14 de la présente loi ou le travail personnel de réflexion prévu à l’article 54 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat ou à l’article 72 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat.
 
-<a id="art_N560B4"></a>
+<a id="art_N561D7"></a>
 
 ### Art. 9.
 
@@ -29061,7 +29076,7 @@ Toutes les nominations, soit à titre permanent, soit à titre spécial sont ré
 
 La commission dispose, dans le cadre des services du ministre, d’un secrétariat dont la gestion est assurée par un ou plusieurs agents à désigner par le ministre.
 
-<a id="art_N5611D"></a>
+<a id="art_N56240"></a>
 
 ### Art. 10.
 
@@ -29073,7 +29088,7 @@ Toutes les affaires sont délibérées en réunion; le secrétaire rédige les p
 
 La commission recueille tous les renseignements et se fait communiquer tous les documents et éléments d’information qu’elle juge nécessaires à l’accomplissement de sa mission; elle peut désigner un de ses membres afin de procéder à toute enquête spéciale, jugée utile, et même se faire assister par des experts. La commission est en droit de donner aux candidats la possibilité de présenter des observations écrites ou de venir s’expliquer oralement.
 
-<a id="art_N5616A"></a>
+<a id="art_N5628D"></a>
 
 ### Art. 11.
 
@@ -29085,13 +29100,13 @@ L’avis final de la commission est pris à la majorité des voix, l’abstentio
 
 L’avis final, motivé et signé par tous les membres de la commission, est à transmettre au ministre qui le soumet incessamment au ministre du ressort, lequel décide si le fonctionnaire ou l’employé de l’Etat concerné est retenu ou non. Lorsque le changement de groupe de traitement ou le changement de groupe d’indemnité a lieu vers un poste de l’administration gouvernementale, la décision est prise par le ministre ayant l’administration gouvernementale dans ses attributions.
 
-<a id="art_N561B7"></a>
+<a id="art_N562DA"></a>
 
 ### Art. 12.
 
 La décision du ministre du ressort est transmise à la commission de contrôle qui en informe le fonctionnaire ou l’employé de l’Etat concerné incessamment.
 
-<a id="art_N561E9"></a>
+<a id="art_N5630C"></a>
 
 ### Art. 13.
 
@@ -29099,7 +29114,7 @@ Les membres de la commission, le ou les secrétaires et ceux qui procèdent à d
 
 ##### *Section 3. * — *Du mémoire*
 
-<a id="art_N5622C"></a>
+<a id="art_N5634F"></a>
 
 ### Art. 14.
 
@@ -29121,7 +29136,7 @@ L’avancement en grade de l’employé de l’Etat ayant changé de groupe d’
 
 **(4)** Le fonctionnaire ou l’employé de l’Etat qui ne s’est pas vu attribuer une mention suffisante, est considéré comme ayant échoué. Il ne pourra présenter une nouvelle demande de changement de groupe de traitement respectivement de changement de groupe d’indemnité qu’après un délai de trois ans. Un second échec entraîne la perte définitive du bénéfice du changement de groupe de traitement respectivement du changement de groupe d’indemnité.
 
-<a id="art_N562C2"></a>
+<a id="art_N563E5"></a>
 
 ### Art. 15.
 
@@ -29139,7 +29154,7 @@ Pour l’application de cette disposition, la hiérarchie des grades est déterm
 
 ##### Chapitre 3. — Dispositions transitoires, abrogatoires et finales
 
-<a id="art_N5634C"></a>
+<a id="art_N5646F"></a>
 
 ### Art. 16.
 
@@ -29147,19 +29162,19 @@ Par dérogation à l’article 2 paragraphe 5, pour les fonctionnaires de l’Et
 
 La dérogation de l’alinéa précédent est limitée à une période de dix ans à compter de l’entrée en vigueur de la présente loi.
 
-<a id="art_N56387"></a>
+<a id="art_N564AA"></a>
 
 ### Art. 17.
 
 Pour les postes vacants à occuper par le biais d’un changement de carrière qui ont été publiés avant la date d’entrée en vigueur de la présente loi, les anciennes dispositions de la loi modifiée du 14 novembre 1991 fixant les conditions et les modalités de l’accès du fonctionnaire à une carrière supérieure à la sienne restent applicables.
 
-<a id="art_N563BE"></a>
+<a id="art_N564E1"></a>
 
 ### Art. 18.
 
 La loi modifiée du 14 novembre 1991 fixant les conditions et les modalités de l’accès du fonctionnaire à une carrière supérieure à la sienne est abrogée.
 
-<a id="art_N563F5"></a>
+<a id="art_N56518"></a>
 
 ### Art. 19.
 
@@ -29169,7 +29184,7 @@ Les dispositions de la présente loi entrent en vigueur le premier jour du septi
 
 #### Version consolidée applicable au 04/08/2024 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
 
-<a id="art_N5644B"></a>
+<a id="art_N5656E"></a>
 
 ### Art. 80.
 
@@ -29194,13 +29209,13 @@ Les avancements et promotions ultérieurs se font après chaque fois un délai m
 
 #### Version consolidée applicable au 10/06/1983 : Règlement grand-ducal du 27 août 1977 pris en exécution de l'article 7.3. de la loi du 27 janvier 1972 fixant le régime des employés de l'Etat.
 
-<a id="art_N5651A"></a>
+<a id="art_N5663D"></a>
 
 ### Art. 1er.
 
 La requête présentée par le ministre compétent, telle qu’elle est prévue à l’article 7.3. de la loi du 27 janvier 1972 fixant le régime des employés de l’Etat, à la caisse de pension des employés privés est considérée et traitée par celle-ci comme une demande en obtention d’une pension d’invalidité introduite par l’employé en cause.
 
-<a id="art_N56554"></a>
+<a id="art_N56677"></a>
 
 ### Art. 2.
 
@@ -29208,19 +29223,19 @@ Aux fins de statuer sur l’invalidité professionnelle de l’employé, au sens
 
 Toutefois, lorsque l’employé ne produit pas, dans un délai de 2 mois à compter de l’introduction de la requête du ministre compétent, le certificat médical visé à l’article 1 a) 3° de l’arrêté grand-ducal du 31 décembre 1951, prix en exécution de l’article 145 de la loi du 29 août 1951 ayant pour objet la réforme de l’assurance pension des employés privés, la Caisse de pension des employés privés le fait d’office examiner par un médecin du contrôle médical de la sécurité sociale. En cas de refus de l’employé de se faire examiner les dispositions de l’article 12 de la loi du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont applicables.
 
-<a id="art_N565A8"></a>
+<a id="art_N566CB"></a>
 
 ### Art. 3.
 
 La caisse de pension communique au ministre compétent sa décision au sujet de l’invalidité professionnelle de l’employé, telle qu’elle est définie à l’article 2 ci-dessus.
 
-<a id="art_N565DA"></a>
+<a id="art_N566FD"></a>
 
 ### Art. 4.
 
 Les dépenses assumées par la caisse de pension en exécution de l’article 3 de l’arrêté grand-ducal précité du 31 décembre 1951 lui sont remboursées par l’Etat.
 
-<a id="art_N56611"></a>
+<a id="art_N56734"></a>
 
 ### Art. 5.
 
@@ -29228,25 +29243,25 @@ Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Règlement grand-ducal du 29 mai 1990 portant fixation des suppléments de pension des employés visés par l'article 9 de la loi du 27 janvier 1972.
 
-<a id="art_N56658"></a>
+<a id="art_N5677B"></a>
 
 ### Art. 1er.
 
 Les employés de l'Etat et leurs survivants en jouissance d'une pension d'invalidité, de vieillesse et de survie de la part du régime contributif bénéficient d'un supplément mensuel de pension, pourvu qu'ils remplissent les conditions prévues respectivement à l'article 3 ou aux articles 20 à 23 de la loi du 29 juillet 1988 portant modification et nouvelle coordination de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat.
 
-<a id="art_N5666B"></a>
+<a id="art_N5678E"></a>
 
 ### Art. 2.
 
 Le supplément est fixé à la différence entre une pension de référence égale à quatre-vingt-dix pour cent de la pension-Etat à laquelle l'intéressé aurait pu prétendre en cas de l'application de la loi précitée du 29 juillet 1988 sur les pensions des fonctionnaires de l'Etat et la pension due par le régime de pension contributif.
 
-<a id="art_N5667B"></a>
+<a id="art_N5679E"></a>
 
 ### Art. 3.
 
 L'octroi du supplément est bénévole et subordonné au vote annuel de crédits au budget des dépenses de l'Etat.
 
-<a id="art_N5668B"></a>
+<a id="art_N567AE"></a>
 
 ### Art. 4.
 
@@ -29254,25 +29269,25 @@ La pension de référence est calculée sur la dernière indemnité dont l'emplo
 
 Dans le calcul de la pension de référence, il n'est pas fait application des alinéas 4 et 8 de l'article 44 de la loi précitée du 29 juillet 1988 sur les pensions des fonctionnaires de l'Etat.
 
-<a id="art_N5669E"></a>
+<a id="art_N567C1"></a>
 
 ### Art. 5.
 
 Le montant de la pension du régime contributif est pris en compte avant application des articles 226 à 229 du code des assurances sociales.
 
-<a id="art_N566AE"></a>
+<a id="art_N567D1"></a>
 
 ### Art. 6.
 
 Le supplément calculé conformément aux articles 2, 4 et 5 ci-dessus est réduit dans la même mesure où la pension du régime contributif est réduite en vertu des articles 226 à 229 du code des assurances sociales.
 
-<a id="art_N566BE"></a>
+<a id="art_N567E1"></a>
 
 ### Art. 7.
 
 Le supplément est recalculé lors de chaque modification de la pension de référence ou de la pension du régime contributif.
 
-<a id="art_N566CE"></a>
+<a id="art_N567F1"></a>
 
 ### Art. 8.
 
@@ -29280,7 +29295,7 @@ Le supplément est à charge de l'Etat. Il est sujet à retenue à titre d'impô
 
 Le supplément est versé ensemble avec la pension du régime contributif correspondant au mois pour lequel le supplément est dû. Il est servi pour toute la période pendant laquelle les ayants droit sont en jouissance effective d'une pension du régime contributif.
 
-<a id="art_N566E1"></a>
+<a id="art_N56804"></a>
 
 ### Art. 9.
 
@@ -29288,7 +29303,7 @@ Le supplément alloué pour une pension d'invalidité ou de vieillesse est sujet
 
 La réduction est égale à la différence entre le montant résultant de la prise en compte et le montant de la non-prise en compte du supplément à titre de revenus, en vertu de l'application respectivement des articles 229 du CAS ou 44 alinéa 8 de la loi précitée du 29 juillet 1988 concernant les pensions des fonctionnaires de l'Etat, suivant que la pension est échue dans le régime contributif ou dans le régime non-contributif».
 
-<a id="art_N566F4"></a>
+<a id="art_N56817"></a>
 
 ### Art. 10.
 
@@ -29296,7 +29311,7 @@ Le présent règlement ne sort ses effets que pour les risques échus après sa 
 
 Toutefois, lorsqu'une veuve bénéficiaire d'un supplément échu avant cette mise en vigueur a droit après cette date à une pension personnelle, l'article 6 est applicable; de même, lorsque le titulaire d'une pension personnelle bénéficiant d'un supplément échu avant cette mise en vigueur a droit après cette date à une pension de survie, l'article 9 est applicable.
 
-<a id="art_N56707"></a>
+<a id="art_N5682A"></a>
 
 ### Art. 11.
 
@@ -29308,7 +29323,7 @@ Notre Ministre de la Fonction Publique est chargé de l'exécution du présent r
 
 ##### Chapitre 1er — Champ d’application personnel
 
-<a id="art_N5674B"></a>
+<a id="art_N5686E"></a>
 
 ### Art. 1er.
 
@@ -29321,7 +29336,7 @@ Le titre 1 de la présente loi s’applique sous réserve de l’article 2 qui s
 
 L’organisation du régime et les organismes de pension intervenants au sens de la présente loi sont définis à l’article 37 qui suit.
 
-<a id="art_N567A5"></a>
+<a id="art_N568C8"></a>
 
 ### Art. 2.
 
@@ -29329,7 +29344,7 @@ Sont exclues du champ d’application de la présente loi, les personnes visées
 
 ##### *Section 1* — *Terminologie*
 
-<a id="art_N567F1"></a>
+<a id="art_N56914"></a>
 
 ### Art. 3.
 
@@ -29339,7 +29354,7 @@ Les termes de «partenaire» et de «partenariat» visent respectivement le part
 
 ##### *Section 2 * — *Détermination des périodes de service*
 
-<a id="art_N56846"></a>
+<a id="art_N56969"></a>
 
 ### Art. 4.
 
@@ -29389,7 +29404,7 @@ La conversion de la pension différée visée à l’alinéa 4 est subordonnée 
 
 **VI.** Sauf dispositions légales ou réglementaires contraires, les interruptions de service ne comptent pas.
 
-<a id="art_N56A08"></a>
+<a id="art_N56B2B"></a>
 
 ### Art. 5.
 
@@ -29405,7 +29420,7 @@ La conversion de la pension différée visée à l’alinéa 4 est subordonnée 
 
 **6.** Les bonifications accordées sur la base du présent article sont censées se situer immédiatement après la date de la cessation des fonctions et sont réduites dans la mesure où elles permettraient une mise en compte de services par dépassement de la limite d’âge. Par ailleurs, la période bonifiée est portée en déduction de celle prévue à l’article 12.1.
 
-<a id="art_N56A96"></a>
+<a id="art_N56BB9"></a>
 
 ### Art. 6.
 
@@ -29419,7 +29434,7 @@ Pour l’application des dispositions des articles 4 à 6, l’année est défin
 
 ##### *Section 1 * — * Le droit à la pension personnelle*
 
-<a id="art_N56AF8"></a>
+<a id="art_N56C1B"></a>
 
 ### Art. 7.
 
@@ -29477,13 +29492,13 @@ Sur proposition du membre du Gouvernement compétent, le Gouvernement en conseil
 
 Le maintien en service peut être renouvelé d’année en année selon les modalités prévues au présent paragraphe.
 
-<a id="art_N56C52"></a>
+<a id="art_N56D75"></a>
 
 ### Art. 8.
 
 
 
-<a id="art_N56C83"></a>
+<a id="art_N56DA6"></a>
 
 ### Art. 9.
 
@@ -29493,7 +29508,7 @@ Il en est de même en cas de déchéance du droit à la pension si le fonctionna
 
 ##### *Section 2 * — *Le traitement pensionnable*
 
-<a id="art_N56CDA"></a>
+<a id="art_N56DFD"></a>
 
 ### Art. 10.
 
@@ -29543,7 +29558,7 @@ En cas d’exercice concomitant de plusieurs services ou emplois à temps partie
 
 ##### *Section 3* — *Calcul de la pension personnelle*
 
-<a id="art_N56E1F"></a>
+<a id="art_N56F42"></a>
 
 ### Art. 11.
 
@@ -29614,7 +29629,7 @@ Pour l’application des mesures en matière de pension et de cumul de prestatio
 
 **VII.** La condition d’âge requise au sens du présent article est réalisée le lendemain du jour de l’anniversaire afférent.
 
-<a id="art_N57018"></a>
+<a id="art_N5713B"></a>
 
 ### Art. 12.
 
@@ -29633,7 +29648,7 @@ L’application des dispositions qui précèdent ne peut avoir pour effet de por
 
 Pour le cas où le fonctionnaire aurait également droit à l’application des dispositions des articles 11.III. et/ou 15, la prestation la plus favorable est retenue.
 
-<a id="art_N57085"></a>
+<a id="art_N571A8"></a>
 
 ### Art. 13.
 
@@ -29641,13 +29656,13 @@ A l’égard des agents recrutés pendant les quinze années se situant avant le
 
 Dans cette hypothèse et par dérogation à l’article 1er, les personnes en cause ont droit à l’application de la législation la plus favorable. Le choix pour le régime le plus favorable se fait exclusivement au niveau de la pension personnelle et se répercute, le cas échéant, à la pension des survivants.
 
-<a id="art_N570CB"></a>
+<a id="art_N571EE"></a>
 
 ### Art. 14.
 
 Sous réserve des réductions ou suspensions à faire en matière de pension conformément à une disposition formelle de la loi, la somme des prestations revenant au fonctionnaire retraité à titre de pension personnelle par un régime de pension légal au sens de la loi précitée du 28 juillet 2000 respectivement, par un régime de pension international ou communautaire dont le Luxembourg fait partie, ne peut être inférieure à 1.989,2301 € par an, valeur année de base 1984, pour une durée de service déterminée conformément à l’article 4.I. et correspondant à 40 années. Elle est réduite de 1/40ème par année manquante sans pouvoir être inférieure à 1.404,7643 € par an, respectivement 1.579,1489 € par an pour le fonctionnaire avec un ou plusieurs enfants à charge, valeur année de base 1984.
 
-<a id="art_N57102"></a>
+<a id="art_N57225"></a>
 
 ### Art. 15.
 
@@ -29659,7 +29674,7 @@ Sous réserve des réductions ou suspensions à faire en matière de pension con
 
 **II.** Les pensions établies en conformité avec les dispositions de l’article 5, sous 1. et 2. ne peuvent être inférieures au minimum de respectivement trente soixantièmes et trente-cinq soixantièmes du dernier traitement de l’intéressé visé à l’article 10.IV., suivant que la bonification est de dix ou de quinze années, et en cas d’application de l’article 5 sous 5. à autant de soixantièmes dudit traitement que d’années de service respectivement bonifiées et mises en compte au titre de l’article 4.I. dépassant dix années, augmentés de vingt soixantièmes, sans que la pension en découlant puisse dépasser le maximum prévu à l’article 11.III., avant-dernier alinéa, ni être inférieure au minimum ci-avant prévu suivant la bonification accordée conformément à l’article 5 sous 1. ou 2.
 
-<a id="art_N5715D"></a>
+<a id="art_N57280"></a>
 
 ### Art. 16.
 
@@ -29673,7 +29688,7 @@ Sous réserve des réductions ou suspensions à faire en matière de pension con
 
 Il est renvoyé à la coordination entre organismes en cause prévue à l’article 90, sous 1. et 2.
 
-<a id="art_N571CF"></a>
+<a id="art_N572F2"></a>
 
 ### Art. 17.
 
@@ -29681,7 +29696,7 @@ Par dérogation à l’article 16.1., l’âge de l’intéressé et la durée d
 
 ##### *Section 4* — *Le droit à la pension des conjoints ou partenaires survivants*
 
-<a id="art_N57213"></a>
+<a id="art_N57336"></a>
 
 ### Art. 18.
 
@@ -29696,7 +29711,7 @@ Le conjoint ou le partenaire a droit à une pension de survie:
 4. qu’à la date de décès du fonctionnaire bénéficiaire d’une pension il existe un enfant né ou conçu lors du mariage ou du partenariat ou soit légitimé par le mariage ou le partenariat;
 5. que le décès du fonctionnaire bénéficiaire d’une pension d’invalidité soit la suite directe d’un accident survenu après le mariage ou le partenariat.
 
-<a id="art_N57272"></a>
+<a id="art_N57395"></a>
 
 ### Art. 19.
 
@@ -29712,7 +29727,7 @@ Au cas où le décès du nouveau conjoint ou du nouveau partenaire ouvre égalem
 
 ##### *Section 5* — *Le droit à la pension des conjoints divorcés ou anciens partenaires*
 
-<a id="art_N572DD"></a>
+<a id="art_N57400"></a>
 
 ### Art. 20.
 
@@ -29722,7 +29737,7 @@ Les dispositions de l’article 19 sont applicables aux conjoints divorcés et a
 
 ##### *Section 6* — *Le droit à la pension des autres survivants*
 
-<a id="art_N5732A"></a>
+<a id="art_N5744D"></a>
 
 ### Art. 21.
 
@@ -29753,7 +29768,7 @@ Les pensions ne sont accordées que si les intéressés en font la demande et pr
 
 ##### *Section 7* — *Le droit à la pension des orphelins*
 
-<a id="art_N573FA"></a>
+<a id="art_N5751D"></a>
 
 ### Art. 22.
 
@@ -29767,7 +29782,7 @@ Le droit à pension d’orphelin cesse lorsque le bénéficiaire contracte maria
 
 ##### *Section 8* — *Droits spéciaux des survivants*
 
-<a id="art_N5745E"></a>
+<a id="art_N57581"></a>
 
 ### Art. 23.
 
@@ -29781,7 +29796,7 @@ Si la condition de l’absence vient à défaillir par suite du décès du fonct
 
 A défaut de survivants au sens du présent article remplissant les conditions de droit des articles 18 à 22, le droit aux prestations prévues par la présente loi cesse à partir du premier jour du mois qui suit celui où le fonctionnaire a paru pour la dernière fois. Toutefois, les dispositions des articles 35 et 36 sont applicables.
 
-<a id="art_N574B4"></a>
+<a id="art_N575D7"></a>
 
 ### Art. 24.
 
@@ -29789,7 +29804,7 @@ Lorsqu’il a été établi par jugement pénal que les ayants droit ont causé 
 
 ##### *Section 9 * — *Le calcul de la pension des survivants*
 
-<a id="art_N57508"></a>
+<a id="art_N5762B"></a>
 
 ### Art. 25.
 
@@ -29799,7 +29814,7 @@ Lorsqu’il a été établi par jugement pénal que les ayants droit ont causé 
 
 **3.** Par part fondamentale au sens des dispositions qui précèdent il faut entendre les dix soixantièmes du traitement qui a servi de base au calcul de la pension.
 
-<a id="art_N57561"></a>
+<a id="art_N57684"></a>
 
 ### Art. 26.
 
@@ -29815,7 +29830,7 @@ En cas de décès du fonctionnaire ou en cas de sa mise à la retraite après le
 
 En cas de décès de l’un des bénéficiaires, la pension de l’autre est recalculée en conformité des dispositions du présent article.
 
-<a id="art_N575C8"></a>
+<a id="art_N576EB"></a>
 
 ### Art. 27.
 
@@ -29838,7 +29853,7 @@ La pension de survie et la pension des orphelins réunies ne peuvent dépasser d
 
 La même réduction proportionnelle s’opère en cas de concours de la pension des orphelins avec la pension de survie payée conformément à l’article 21 de la présente loi.
 
-<a id="art_N57642"></a>
+<a id="art_N57765"></a>
 
 ### Art. 28.
 
@@ -29852,7 +29867,7 @@ Les majorations spéciales ne sont pas dues en cas d’arrêt de la pension.
 
 Pour l’application des mesures en matière de pension et de rente d’accident, les majorations spéciales constituent un élément composant de la pension du bénéficiaire et en font partie intégrante.
 
-<a id="art_N57698"></a>
+<a id="art_N577BB"></a>
 
 ### Art. 29.
 
@@ -29865,7 +29880,7 @@ Les dispositions des deux derniers alinéas de l’article 27 ne sont pas applic
 
 ##### *Section 10* — * Calcul spécial de la pension des survivants*
 
-<a id="art_N576F5"></a>
+<a id="art_N57818"></a>
 
 ### Art. 30.
 
@@ -29885,7 +29900,7 @@ S’il n’existe pas de conjoint ou partenaire survivant ou si celui-ci est inh
 
 ##### *Section 11* — *Restitution de la pension*
 
-<a id="art_N5777F"></a>
+<a id="art_N578A2"></a>
 
 ### Art. 31.
 
@@ -29897,7 +29912,7 @@ Dans le cas où la somme à rembourser dépasse cinq pour cent de la pension men
 
 ##### *Section 12* — *Déchéance de la pension*
 
-<a id="art_N577D5"></a>
+<a id="art_N578F8"></a>
 
 ### Art. 32.
 
@@ -29905,7 +29920,7 @@ Le bénéficiaire d’une pension ou l’ayant droit à pension différée en en
 
 ##### *Section 13 * — *Concours de la pension avec d’autres revenus ou pensions*
 
-<a id="art_N5781E"></a>
+<a id="art_N57941"></a>
 
 ### Art. 33.
 
@@ -29960,7 +29975,7 @@ Sans qu’une décision formelle ait à intervenir en ce sens, toutes les pensio
 
 ##### *Section 14* — *De l’adaptation des pensions au niveau de vie et à l’évolution de la valeur du nombre indice*
 
-<a id="art_N579B3"></a>
+<a id="art_N57AD6"></a>
 
 ### Art. 34.
 
@@ -29976,7 +29991,7 @@ Les pensions calculées conformément aux deux alinéas qui précèdent sont mul
 
 ##### *Section 15* — *Le trimestre de faveur*
 
-<a id="art_N57A72"></a>
+<a id="art_N57B95"></a>
 
 ### Art. 35.
 
@@ -29999,7 +30014,7 @@ Sous réserve du point 5. qui suit, la détermination de la prestation la plus f
 
 Dans l’hypothèse de l’exercice de plus d’un service ou emploi à temps partiel, chaque service ou emploi donnera lieu à versement d’un trimestre de faveur, à moins de l’application du point 3 ci-avant.
 
-<a id="art_N57B1B"></a>
+<a id="art_N57C3E"></a>
 
 ### Art. 36.
 
@@ -30018,7 +30033,7 @@ L’indemnité est allouée par le ministre ayant la Fonction publique dans ses 
 
 ##### *Section 1 * — *Administrations compétentes*
 
-<a id="art_N57B97"></a>
+<a id="art_N57CBA"></a>
 
 ### Art. 37.
 
@@ -30032,31 +30047,31 @@ Par ministre compétent au sens des dispositions de la présente loi, il y a lie
 
 ##### *Section 2* — *Comptabilité, gestion et payement des pensions, voies et moyens*
 
-<a id="art_N57C04"></a>
+<a id="art_N57D27"></a>
 
 ### Art. 38.
 
 Sur demande des instances législatives ou du ministre compétent, les organismes de pension en cause produisent toutes les données de statistiques demandées.
 
-<a id="art_N57C36"></a>
+<a id="art_N57D59"></a>
 
 ### Art. 39.
 
 Il est établi et géré auprès des organismes de pension compétents des fichiers et des bases de données informatiques qui renseignent toutes les données nécessaires au calcul, au payement des pensions et à l’établissement des certificats annuels y relatifs. A l’égard des bénéficiaires de pension, ces indications font foi jusqu’à la preuve du contraire.
 
-<a id="art_N57C68"></a>
+<a id="art_N57D8B"></a>
 
 ### Art. 40.
 
 Les pensions sont payées par mois et d’avance. La résidence à l’étranger du titulaire d’une pension est soumise à la production d’un certificat de vie pour la fin de chaque année. Les intéressés sont tenus, en outre, de signaler ou de faire signaler à l’organisme de pension compétent tout changement d’adresse et d’état civil.
 
-<a id="art_N57C9A"></a>
+<a id="art_N57DBD"></a>
 
 ### Art. 41.
 
 De façon générale, et à moins qu’il ne soit disposé autrement, les décisions relatives aux pensions et aux autres prestations de retraite et de survie de l’Etat sont de la compétence de l’organisme de pension compétent qui détermine les pièces et documents à produire pour la justification des droits à pension. Les extraits de l’état civil et toutes autres pièces officielles à produire en la matière sont délivrés sur papier libre et sans frais.
 
-<a id="art_N57CCC"></a>
+<a id="art_N57DEF"></a>
 
 ### Art. 42.
 
@@ -30066,7 +30081,7 @@ Les recours sont intentés dans le délai de trois mois à partir de la notifica
 
 En cas de décision de la Commission des pensions conformément à l’article 49 ci-après, les recours des intéressés sont dirigés contre cette décision.
 
-<a id="art_N57D10"></a>
+<a id="art_N57E33"></a>
 
 ### Art. 43.
 
@@ -30074,7 +30089,7 @@ A moins qu’il n’en soit disposé autrement, toute pension commence à courir
 
 En cas de décès d’un ayant droit à pension différée, la pension de survivant est payée à partir du premier jour du mois qui suit le décès de l’ayant droit.
 
-<a id="art_N57D4B"></a>
+<a id="art_N57E6E"></a>
 
 ### Art. 44.
 
@@ -30084,7 +30099,7 @@ Sauf le retrait de la pension prévu à l’article 53, l’extinction de la pen
 
 La pension suspendue ou retirée, ou la part de pension suspendue reprend son cours à partir du premier jour du mois qui suit celui où la cause de la cessation a pris fin.
 
-<a id="art_N57D8F"></a>
+<a id="art_N57EB2"></a>
 
 ### Art. 45.
 
@@ -30092,7 +30107,7 @@ Le bénéficiaire de pension ou le prétendant droit à la pension qui a laissé
 
 ##### *Section 3* — *La Commission des pensions*
 
-<a id="art_N57DD3"></a>
+<a id="art_N57EF6"></a>
 
 ### Art. 46.
 
@@ -30114,7 +30129,7 @@ Sauf le point b) qui précède, tous les membres de la commission doivent être 
 
 La commission est assistée d’un secrétaire et d’un secrétaire adjoint à désigner par le ministre ayant la Fonction publique dans ses attributions.
 
-<a id="art_N57E49"></a>
+<a id="art_N57F6C"></a>
 
 ### Art. 47.
 
@@ -30138,7 +30153,7 @@ Si l’intéressé ne comparaît pas, la commission statue en son absence par un
 
 La commission a tous les pouvoirs d’investigation. Les autorités publiques donnent suite aux demandes à elles présentées à cet effet.
 
-<a id="art_N57ED9"></a>
+<a id="art_N57FFC"></a>
 
 ### Art. 48.
 
@@ -30154,7 +30169,7 @@ Les dispositions de l’alinéa qui précède sont également applicables en cas
 
 Lorsque l’intéressé refuse de se faire examiner par les hommes de l’art, la commission statue sur le vu des pièces du dossier.
 
-<a id="art_N57F3D"></a>
+<a id="art_N58060"></a>
 
 ### Art. 49.
 
@@ -30173,7 +30188,7 @@ Les décisions prises aux termes des alinéas qui précèdent sont motivées et 
 1. soit par la remise en mains propres contre accusé de réception; si le fonctionnaire refuse d’accepter ces documents ou d’en accuser réception, il en est dressé procès-verbal;
 2. soit par envoi par lettre recommandée à l’adresse que le fonctionnaire a déclarée comme sa résidence; dans ce cas, la notification sort ses effets huit jours après le dépôt de la lettre recommandée à la poste.
 
-<a id="art_N57FA7"></a>
+<a id="art_N580CA"></a>
 
 ### Art. 50.
 
@@ -30185,7 +30200,7 @@ Si, postérieurement à la décision visée à l’alinéa qui précède, l’in
 
 Le rapport entre l’état de santé ayant entraîné sa comparution devant la commission et les congés de maladie postérieurs à la décision de la commission est à établir par le médecin de contrôle.
 
-<a id="art_N57FF4"></a>
+<a id="art_N58117"></a>
 
 ### Art. 51.
 
@@ -30205,7 +30220,7 @@ Durant la période du service à temps partiel pour raisons de santé, le foncti
 
 A partir du moment où le fonctionnaire peut faire valoir ses droits à une pension de vieillesse ou de vieillesse anticipée, il est démissionné d’office par l’autorité de nomination, sans intervention de la commission.
 
-<a id="art_N58072"></a>
+<a id="art_N58195"></a>
 
 ### Art. 52.
 
@@ -30215,7 +30230,7 @@ Si, postérieurement à sa reprise de service, l’intéressé sollicite des con
 
 Le rapport entre l’état de santé ayant entraîné sa comparution devant la commission et les congés de maladie postérieurs à la décision de la commission est à établir par le médecin de contrôle.
 
-<a id="art_N580B6"></a>
+<a id="art_N581D9"></a>
 
 ### Art. 53.
 
@@ -30235,7 +30250,7 @@ A partir du premier jour du mois qui suit le début de la soixante-sixième ann�
 
 ##### *Section 1* — *Champ d’application*
 
-<a id="art_N5813C"></a>
+<a id="art_N5825F"></a>
 
 ### Art. 54.
 
@@ -30248,7 +30263,7 @@ Le champ d’application de l’article 1er sous a) du Titre I est étendu:
 
 ##### *Section 2* — *Procédures*
 
-<a id="art_N58195"></a>
+<a id="art_N582B8"></a>
 
 ### Art. 55.
 
@@ -30266,7 +30281,7 @@ A cette fin, les dispositions de l’article 39 de la loi du 25 mars 2015 fixant
 
 ##### *Section 3* — *Détermination des périodes de service*
 
-<a id="art_N58239"></a>
+<a id="art_N5835C"></a>
 
 ### Art. 56.
 
@@ -30277,7 +30292,7 @@ A la suite de l’article 4.I. sous b) sont insérés les points suivants:
 
 ##### *Section 4* — *Traitement pensionnable*
 
-<a id="art_N5828D"></a>
+<a id="art_N583B0"></a>
 
 ### Art. 57.
 
@@ -30305,7 +30320,7 @@ Les deux derniers alinéas de l’article 10.III.2 sont applicables aux élémen
 
 ##### *Section 5* — *Des magistrats*
 
-<a id="art_N58355"></a>
+<a id="art_N58478"></a>
 
 ### Art. 58.
 
@@ -30319,7 +30334,7 @@ Les alinéas 3 et 4 de l’article 7.I.2. ne sont pas applicables.
 
 ##### *Section 6* — *De certains fonctionnaires du Corps diplomatique*
 
-<a id="art_N583B9"></a>
+<a id="art_N584DC"></a>
 
 ### Art. 59.
 
@@ -30329,7 +30344,7 @@ Par dérogation à l’article 7.I.2., alinéa final, et au cas où un arrêté 
 
 ##### *Section 7* — *Régime spécial des membres du Gouvernement*
 
-<a id="art_N58406"></a>
+<a id="art_N58529"></a>
 
 ### Art. 60.
 
@@ -30361,7 +30376,7 @@ Le membre du Gouvernement qui, au moment de l’admission à la retraite, est â
 
 ##### *Section 8* — *Régime spécial des membres de la Chambre des Députés, des membres du Parlement européen et des membres du Conseil d’Etat sortants relevant du chef de leur activité professionnelle du régime de pension général*
 
-<a id="art_N584DE"></a>
+<a id="art_N58601"></a>
 
 ### Art. 61.
 
@@ -30405,7 +30420,7 @@ Lorsqu’en cas de cessation du mandat de député ou de membre du Conseil d’E
 
 ##### *Section 9* — *Régime spécial des membres de la Chambre des Députés et des membres du Parlement européen applicable pendant l’exercice du mandat*
 
-<a id="art_N585F5"></a>
+<a id="art_N58718"></a>
 
 ### Art. 62.
 
@@ -30417,7 +30432,7 @@ Sauf les articles 12 et 13, toutes les dispositions relatives au calcul de la pe
 
 ##### *Section 10* — *Régime spécial des militaires de carrière de l’Armée, des membres du cadre policier de la Police et des fonctionnaires de l’Inspection générale de la Police issus du cadre policier de la Police*
 
-<a id="art_N5864A"></a>
+<a id="art_N5876D"></a>
 
 ### Art. 63.
 
@@ -30434,7 +30449,7 @@ Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I s
 
 ##### *Section 11* — *Des membres des cultes*
 
-<a id="art_N586AB"></a>
+<a id="art_N587CE"></a>
 
 ### Art. 64.
 
@@ -30442,7 +30457,7 @@ Sauf les dispositions prévues à l’article 7.I. sous 2. et II., toutes les di
 
 ##### *Section 12* — *Dispositions diverses*
 
-<a id="art_N586EF"></a>
+<a id="art_N58812"></a>
 
 ### Art. 65.
 
@@ -30450,7 +30465,7 @@ La Commission des pensions prévue à l’article 46 est également compétente 
 
 ##### Chapitre 2 — Procédures, régimes spéciaux et dispositions additionnelles et dérogatoires applicables aux fonctionnaires des communes
 
-<a id="art_N5872E"></a>
+<a id="art_N58851"></a>
 
 ### Art. 66.
 
@@ -30458,7 +30473,7 @@ Sous réserve des dérogations prévues aux articles 80 à 85 qui suivent, toute
 
 ##### *Section 1* — *De la Caisse de prévoyance des fonctionnaires et employés communaux*
 
-<a id="art_N58771"></a>
+<a id="art_N58894"></a>
 
 ### Art. 67.
 
@@ -30468,7 +30483,7 @@ L’institution a pour objet, dans les conditions et limites déterminées par l
 
 Le Ministre de l’Intérieur est chargé de veiller à la stricte application des dispositions de la loi et des règlements pris en son exécution. Il assure le contrôle de la comptabilité de la caisse.
 
-<a id="art_N587B5"></a>
+<a id="art_N588D8"></a>
 
 ### Art. 68.
 
@@ -30488,7 +30503,7 @@ Les membres sortants peuvent être nommés à nouveau. Le membre nommé en rempl
 
 En cas d’absence, le président est remplacé par le vice-président, respectivement par le membre le plus ancien du conseil. Le président ou celui qui le remplace, assume la direction journalière des affaires de la caisse; il représente celle-ci judiciairement et extrajudiciairement.
 
-<a id="art_N58816"></a>
+<a id="art_N58939"></a>
 
 ### Art. 69.
 
@@ -30498,7 +30513,7 @@ Le président du conseil jouit, en outre, d’une indemnité supplémentaire ann
 
 Les frais de route et de séjour revenant aux membres forains du conseil sont également réglés par disposition ministérielle.
 
-<a id="art_N5885A"></a>
+<a id="art_N5897D"></a>
 
 ### Art. 70.
 
@@ -30508,7 +30523,7 @@ Outre les autres devoirs déterminés par la présente loi ou par le conseil d�
 
 Les lois et règlements sur le statut, sur les traitements et sur les pensions des fonctionnaires communaux sont applicables au personnel de la caisse de prévoyance.
 
-<a id="art_N5889E"></a>
+<a id="art_N589C1"></a>
 
 ### Art. 71.
 
@@ -30526,7 +30541,7 @@ Les procès-verbaux font mention des membres qui ont assisté à la séance. Cha
 
 La correspondance du conseil d’administration est signée par le président et contresignée par le secrétaire-trésorier.
 
-<a id="art_N58906"></a>
+<a id="art_N58A29"></a>
 
 ### Art. 72.
 
@@ -30545,13 +30560,13 @@ En cas de non-paiement, le recouvrement des arriérés sera effectué par la cai
 
 La prescription sera acquise trois ans après la remise de l’extrait.
 
-<a id="art_N5896D"></a>
+<a id="art_N58A90"></a>
 
 ### Art. 73.
 
 Si les ressources de la caisse sont reconnues insuffisantes ou s’il est constaté qu’elles excédent le capital indispensable pour mettre les affiliés à l’abri de toute perte, les retenues annuelles et respectivement les versements des communes, des syndicats de communes, des établissements publics et de l’Etat peuvent être augmentés ou réduits par arrêté grand-ducal, le conseil d’administration de la caisse entendu. Ces augmentations ou diminutions s’opéreront proportionnellement aux taux fixés par l’article 72.
 
-<a id="art_N5899F"></a>
+<a id="art_N58AC2"></a>
 
 ### Art. 74.
 
@@ -30559,7 +30574,7 @@ Il est tenu par le secrétaire-trésorier un état permanent de tous les partici
 
 Les communes, par l’organe de leurs collèges des bourgmestres et échevins, les syndicats de communes par l’organe de leurs bureaux, les établissements publics par l’organe de leurs présidents, communiquent immédiatement au secrétaire-trésorier toute mutation survenue dans le personnel de leurs employés et dans les traitements des participants.
 
-<a id="art_N589DA"></a>
+<a id="art_N58AFD"></a>
 
 ### Art. 75.
 
@@ -30569,7 +30584,7 @@ Le Ministre de l’Intérieur peut aussi faire vérifier à toute époque la cai
 
 Les livres et toutes les pièces relatives à l’administration de la caisse sont à la disposition du conseil d’administration et peuvent être examinés par chacun de ses membres.
 
-<a id="art_N58A1E"></a>
+<a id="art_N58B41"></a>
 
 ### Art. 76.
 
@@ -30577,7 +30592,7 @@ Le conseil d’administration décide du placement de l’avoir de la caisse.
 
 Le conseil prend pour l’encaissement des intérêts des fonds au porteur et pour la conservation des capitaux telles mesures de précaution qu’il juge utiles.
 
-<a id="art_N58A59"></a>
+<a id="art_N58B7C"></a>
 
 ### Art. 77.
 
@@ -30593,7 +30608,7 @@ L’état de la situation annuelle est publié au Mémorial.
 
 Les retenues opérées restent acquises à la caisse.
 
-<a id="art_N58AB7"></a>
+<a id="art_N58BDA"></a>
 
 ### Art. 78.
 
@@ -30607,7 +30622,7 @@ Le conseil d’administration statue dans le plus bref délai.
 
 Toute délibération du conseil concernant l’allocation ou le refus d’une pension est soumise à l’approbation du Ministre de l’Intérieur.
 
-<a id="art_N58B0D"></a>
+<a id="art_N58C30"></a>
 
 ### Art. 79.
 
@@ -30621,7 +30636,7 @@ La caisse de prévoyance des fonctionnaires et employés communaux a pour objet 
 
 L’assurance pension comporte l’octroi de pensions aux affiliés et aux survivants désignés par la présente loi.
 
-<a id="art_N58B64"></a>
+<a id="art_N58C87"></a>
 
 ### Art. 80.
 
@@ -30637,7 +30652,7 @@ Le terme «commune» vise indistinctement les syndicats de communes et les étab
 
 ##### *Section 2* — *Détermination des périodes de service*
 
-<a id="art_N58BEC"></a>
+<a id="art_N58D0F"></a>
 
 ### Art. 81.
 
@@ -30661,7 +30676,7 @@ La lettre recommandée contiendra la mention expresse de la déchéance éventue
 
 La décision de validation de l’assurance volontaire est prise par le conseil d’administration de la caisse de prévoyance qui fixe également la valeur du temps à mettre en compte sans que celui-ci ne peut être inférieur à un tiers.
 
-<a id="art_N58C7D"></a>
+<a id="art_N58DA0"></a>
 
 ### Art. 82.
 
@@ -30669,7 +30684,7 @@ Par dérogation à l’article 6 de la présente loi, dans les états de service
 
 ##### *Section 3* — *Traitement pensionnable*
 
-<a id="art_N58CC1"></a>
+<a id="art_N58DE4"></a>
 
 ### Art. 83.
 
@@ -30683,7 +30698,7 @@ Les éléments de traitement pensionnables énumérés à l’article 10.III. so
 
 ##### *Section 4* — *Régimes spéciaux des sapeurs-pompiers et des chauffeurs d’autobus*
 
-<a id="art_N58D19"></a>
+<a id="art_N58E3C"></a>
 
 ### Art. 84.
 
@@ -30701,7 +30716,7 @@ Les éléments de traitement pensionnables énumérés à l’article 10.III. so
 
 ##### *Section 5* — *Régimes spéciaux des secrétaires communaux et receveurs communaux*
 
-<a id="art_N58DA1"></a>
+<a id="art_N58EC4"></a>
 
 ### Art. 85.
 
@@ -30711,7 +30726,7 @@ Toutefois pour les fonctionnaires visés par l’alinéa qui précède et qui é
 
 ##### Chapitre 3 — Régimes spéciaux et dispositions additionnelles et dérogatoires applicables aux agents de la Société nationale des Chemins de Fer luxembourgeois
 
-<a id="art_N58DEF"></a>
+<a id="art_N58F12"></a>
 
 ### Art. 86.
 
@@ -30719,7 +30734,7 @@ Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I s
 
 ##### *Section 1* — *Procédures*
 
-<a id="art_N58E32"></a>
+<a id="art_N58F55"></a>
 
 ### Art. 87.
 
@@ -30727,7 +30742,7 @@ Sous réserve des dérogations qui suivent, toutes les dispositions du Titre I s
 
 ##### *Section 2* — *Détermination des périodes de service*
 
-<a id="art_N58E8C"></a>
+<a id="art_N58FAF"></a>
 
 ### Art. 88.
 
@@ -30737,7 +30752,7 @@ A la suite de l’article 4.I. sous b), est inséré le point suivant:
 
 ##### *Section 3* — *Régime spécial des agents affectés à la conduite sur rail ou sur route et des agents des équipes de manoeuvre («Rangierdienst»)*
 
-<a id="art_N58ED8"></a>
+<a id="art_N58FFB"></a>
 
 ### Art. 89.
 
@@ -30792,7 +30807,7 @@ Les bonifications visées au paragraphe V. du présent article sont mises en com
 
 ##### Chapitre 4 — Coordination entre organismes du régime spécial transitoire
 
-<a id="art_N5901E"></a>
+<a id="art_N59141"></a>
 
 ### Art. 90.
 
@@ -30810,7 +30825,7 @@ La composition du groupe de travail permanent et son fonctionnement peuvent êtr
 
 ##### TITRE III — **DISPOSITIONS ADDITIONNELLES ET MISE EN VIGUEUR**
 
-<a id="art_N590B1"></a>
+<a id="art_N591D4"></a>
 
 ### Art. 91.
 
@@ -30818,7 +30833,7 @@ La loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’
 
 Il en est de même en ce qui concerne la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes, syndicats de communes et établissements publics placés sous la surveillance des communes.
 
-<a id="art_N590F6"></a>
+<a id="art_N59219"></a>
 
 ### Art. 92.
 
@@ -30826,7 +30841,7 @@ A l’endroit de tout texte se référant ou renvoyant à la loi modifiée du 26
 
 En attendant la mise en vigueur des mesures indispensables à l’exécution des dispositions des Titres I. et II. de la présente loi par les organismes de pension prévus à l’article 37 sous b) et c), l’application des articles 46 à 53 est différée jusqu’au moment de cette mise en vigueur et les dispositions correspondantes prévues par les textes actuels restent d’application.
 
-<a id="art_N59136"></a>
+<a id="art_N59259"></a>
 
 ### Art. 93.
 
@@ -30836,7 +30851,7 @@ La loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnai
 2. Le paragraphe 3. de l’article 49 est supprimé.
 3. Le chapitre 14bis est abrogé.
 
-<a id="art_N591A9"></a>
+<a id="art_N592CC"></a>
 
 ### Art. 94.
 
@@ -30848,21 +30863,21 @@ La présente loi entre en vigueur le premier jour du septième mois qui suit cel
 
 #### Version consolidée applicable au 01/01/2022 : Convention collective des salariés de l'État.
 
-<a id="art_N5920F"></a>
+<a id="art_N59332"></a>
 
 ### Art. 1er.
 
 La convention collective des salariés de l’État, signée en date du 19 décembre 2016 entre le Ministre de la Fonction publique et de la Réforme administrative d’une part et les représentants des syndicats contractants OGBL et LCGB d’autre part, est approuvée.
 
-<a id="art_N59244"></a>
+<a id="art_N59367"></a>
 
 ### Art. 2.
 
 Le présent arrêté est transmis à Monsieur le Ministre de la Fonction publique et de la Réforme administrative pour exécution.
 
-<a id="annex_2157"></a>
+<a id="annex_2156"></a>
 
-### annex_2157
+### annex_2156
 
 
 
@@ -30872,7 +30887,7 @@ Le présent arrêté est transmis à Monsieur le Ministre de la Fonction publiqu
 
 #### Code du travail
 
-<a id="art_N5BEAC"></a>
+<a id="art_N5BFCF"></a>
 
 ### Art. L. 411-1.
 
@@ -30902,7 +30917,7 @@ Toutefois, les salariés sous contrat à durée déterminée et les salariés mi
 
 ##### **Chapitre I.** — **Structure et champ d’application**
 
-<a id="art_N5BF9B"></a>
+<a id="art_N5C0BE"></a>
 
 ### Art. 1er.
 
@@ -30924,7 +30939,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 ##### **Chapitre II.** — **Organisation du cycle long**
 
-<a id="art_N5C035"></a>
+<a id="art_N5C158"></a>
 
 ### Art. 2. Section des carrières supérieures administratives.
 
@@ -30952,7 +30967,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **III.** Les cours sont organisés à plein temps. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5C18F"></a>
+<a id="art_N5C2B2"></a>
 
 ### Art. 3. Section de la carrière du rédacteur.
 
@@ -30991,7 +31006,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours sont organisés à plein temps au début du stage. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5C3A0"></a>
+<a id="art_N5C4C3"></a>
 
 ### Art. 4. Section de la carrière du receveur communal.
 
@@ -31027,7 +31042,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours sont organisés à plein temps au début du stage. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5C584"></a>
+<a id="art_N5C6A7"></a>
 
 ### Art. 5. Section de la carrière de l’expéditionnaire administratif.
 
@@ -31060,7 +31075,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours sont organisés à plein temps au début du stage. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5C73B"></a>
+<a id="art_N5C85E"></a>
 
 ### Art. 6. Section de la carrière de l’ingénieur technicien.
 
@@ -31089,7 +31104,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 ##### **Chapitre III. ** — **Organisation du cycle court**
 
-<a id="art_N5C8A8"></a>
+<a id="art_N5C9CB"></a>
 
 ### Art. 7. Section des carrières supérieures scientifiques.
 
@@ -31105,7 +31120,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours de la présente section peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5C958"></a>
+<a id="art_N5CA7B"></a>
 
 ### Art. 8. Section des carrières moyennes techniques, paramédicales et socio-éducatives.
 
@@ -31123,7 +31138,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours de la présente section peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5CA26"></a>
+<a id="art_N5CB49"></a>
 
 ### Art. 9. Section des carrières inférieures techniques, paramédicales et socio-éducatives.
 
@@ -31142,13 +31157,13 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 ##### **Chapitre IV.** — **Dispositions additionnelles concernant la formation générale**
 
-<a id="art_N5CAF5"></a>
+<a id="art_N5CC18"></a>
 
 ### Art. 10. Visites, conférences et stages.
 
 Jusqu’à concurrence du nombre d’heures de formation générale fixées aux articles 2 à 9 du présent règlement, le temps de formation peut comprendre, dans le cadre ou en dehors des cours proprement dits, des travaux de recherche, des exposés sur des sujets divers, des conférences, des visites de différentes administrations et institutions ainsi que le cas échéant, des stages de formation ou de perfectionnement dans le secteur privé ou dans une administration ou institution à l’étranger.
 
-<a id="art_N5CB2D"></a>
+<a id="art_N5CC50"></a>
 
 ### Art. 11. Relations entre l’Institut et les chargés de cours.
 
@@ -31167,7 +31182,7 @@ L’Institut peut procéder ou faire procéder périodiquement à une évaluatio
 
 Le cas échéant la commission administrative peut, l’Institut et le Ministre de l’Intérieur entendu en leur avis, proposer au Ministre ayant dans ses attributions la Fonction publique la révocation du chargé de cours.
 
-<a id="art_N5CBBE"></a>
+<a id="art_N5CCE1"></a>
 
 ### Art. 12. Relation entre l’Institut et les fonctionnaires en service provisoire.
 
@@ -31177,17 +31192,17 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 
 ##### **Chapitre I.** — **Plan d’insertion professionnelle**
 
-<a id="art_N5CC16"></a>
+<a id="art_N5CD39"></a>
 
-### art_N5CC16
+### art_N5CD39
 
 1. 
 2. 
 3. 
 
-<a id="art_N5CC79"></a>
+<a id="art_N5CD9C"></a>
 
-### art_N5CC79
+### art_N5CD9C
 
 - 
 - 
@@ -31197,9 +31212,9 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 - 
 - 
 
-<a id="art_N5CD74"></a>
+<a id="art_N5CE97"></a>
 
-### art_N5CD74
+### art_N5CE97
 
 1. - 
 - 
@@ -31214,9 +31229,9 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 - 
 - 
 
-<a id="art_N5CE48"></a>
+<a id="art_N5CF6B"></a>
 
-### art_N5CE48
+### art_N5CF6B
 
 - 
 - 
@@ -31233,7 +31248,7 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 
 ##### **Chapitre I.** — **L’examen d’admission définitive du cycle long**
 
-<a id="art_N5CF57"></a>
+<a id="art_N5D07A"></a>
 
 ### Art. 17.
 
@@ -31259,7 +31274,7 @@ Si l’observateur ne présente pas de remarque particulière, le procès-verbal
 
 L’observateur peut également informer directement le Ministre de l’Intérieur par une note écrite, s’il a constaté un fait grave pouvant mettre en cause la validité de l’examen. L’observateur est obligé de garder le secret des délibérations des commissions d’examen.
 
-<a id="art_N5CFE6"></a>
+<a id="art_N5D109"></a>
 
 ### Art. 18. Admission aux examens de fin de formation générale et de fin de formation spéciale.
 
@@ -31277,7 +31292,7 @@ Le Ministre de l’Intérieur informe l’intéressé et l’autorité communale
 
 **III.** Les dates des examens de fin de formation générale et de fin de formation spéciale sont publiées au Mémorial au moins trois mois à l’avance.
 
-<a id="art_N5D069"></a>
+<a id="art_N5D18C"></a>
 
 ### Art. 19. Examen de fin de formation générale.
 
@@ -31307,7 +31322,7 @@ Les notes des matières pour lesquelles une dispense est accordée sont mises en
 
 **IV.** Le résultat de l’examen de fin de formation générale est intégré au dossier-formation du candidat.
 
-<a id="art_N5D129"></a>
+<a id="art_N5D24C"></a>
 
 ### Art. 20. Examen de fin de formation spéciale.
 
@@ -31319,19 +31334,19 @@ Il est organisé au cours de la dernière année de stage.
 
 **III.** Le résultat de l’examen de fin de formation spéciale est intégré au dossier-formation du candidat.
 
-<a id="art_N5D191"></a>
+<a id="art_N5D2B4"></a>
 
-### art_N5D191
-
-
-
-<a id="art_N5D272"></a>
-
-### art_N5D272
+### art_N5D2B4
 
 
 
-<a id="art_N5D2FF"></a>
+<a id="art_N5D395"></a>
+
+### art_N5D395
+
+
+
+<a id="art_N5D422"></a>
 
 ### Art. 23. Examens d’ajournement.
 
@@ -31347,7 +31362,7 @@ Le candidat qui n’a pas obtenu la moitié des points dans une matière d’ajo
 
 ##### **Chapitre II.** — **L’examen d’admission définitive du cycle court**
 
-<a id="art_N5D387"></a>
+<a id="art_N5D4AA"></a>
 
 ### Art. 24.
 
@@ -31357,7 +31372,7 @@ Le candidat qui n’a pas obtenu la moitié des points dans une matière d’ajo
 
 L’Institut transmet la note finale au Ministère de l’Intérieur.
 
-<a id="art_N5D3D9"></a>
+<a id="art_N5D4FC"></a>
 
 ### Art. 25.
 
@@ -31373,21 +31388,21 @@ La dispense est accordée par le Ministre de l’Intérieur sur demande de l’i
 
 ##### **Titre IV** — **Dispositions additionnelles**
 
-<a id="art_N5D458"></a>
+<a id="art_N5D57B"></a>
 
-### art_N5D458
+### art_N5D57B
 
 
 
 ##### **Titre V** — **Dispositions abrogatoires et finales**
 
-<a id="art_N5D4F8"></a>
+<a id="art_N5D61B"></a>
 
-### art_N5D4F8
+### art_N5D61B
 
 
 
-<a id="art_N5D587"></a>
+<a id="art_N5D6AA"></a>
 
 ### Art. 28.
 
@@ -31397,85 +31412,85 @@ Notre Ministre de la Fonction publique et de la Réforme administrative et Notre
 
 ##### Titre I — Programmes détaillés des cours de la section des carrières supérieures administratives
 
-<a id="art_N5D5D9"></a>
+<a id="art_N5D6FC"></a>
 
 ### Art. 1. Méthodes modernes de gestion publique
 
 Le programme détaillé du cours «Méthodes modernes de gestion publique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:Titre I - Management des organisations publiquesChapitre 1er - La détermination de la performance organisationnelleChapitre 2 - Les processus décisionnelsChapitre 3 - Les fonctions de planification, d’organisation et de contrôleChapitre 4 - La motivation et le leadershipTitre II - Structure et organisationChapitre 1er - Les théories de l’organisation administrativeChapitre 2 - La structure et le fonctionnement de l’organisationChapitre 3 - La division du travailChapitre 4 - Les règles bureaucratiques et les politiques administrativesChapitre 5 - La conception du plan d’organisation (organigramme);Chapitre 6 - Les systèmes de planification et de contrôle;Chapitre 7 - La délégation du pouvoir de décision.Chapitre 8 - Le management par objectifsChapitre 9 - La gestion des ressources humainesTitre III - Gestion de projetsChapitre 1er - La définition du projetChapitre 2 - La planification du projetChapitre 3 - L’organisation du projetChapitre 4 - Le suivi et le contrôle du projetChapitre 5 - La fin du projet.
 
-<a id="art_N5D64E"></a>
+<a id="art_N5D771"></a>
 
 ### Art. 2. Protection du citoyen face aux décisions de l’administration
 
 Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section des carrières supérieures administratives est déterminé comme suit:Partie I - Protection du citoyen face aux décisions de l’Administration/Convention européenne des droits de l’hommeTitre I - IntroductionChapitre 1er - Contexte historiqueChapitre 2 - Conseil de l’EuropeChapitre 3 - Protection des droits de l’homme dans l’ordre juridique luxembourgeoisTitre II - Contrôle internationalChapitre 1er - Organisation de la CourChapitre 2 - Procédure suivie devant la CourChapitre 3 - Conditions de saisine de la CourChapitre 4 - Effets des arrêts de la CourTitre III - Droits garantisChapitre 1er - Enumération des droits garantisChapitre 2 - Limitations aux droits garantisPartie II - Procédure administrative non contentieuseTitre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II -Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
 
-<a id="art_N5D6BC"></a>
+<a id="art_N5D7DF"></a>
 
 ### Art. 3. Administration et politique
 
 Le programme détaillé du cours «Administration et politique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:Titre I - Principes et enjeux de l’administration publique- Les principaux fondements de l’Etat moderne- Les principales architectures institutionnelles des Etats démocratiques- Les principaux modes de participation des citoyens dans un Etat démocratique- Les nouveaux défis auxquels sont confrontés les Etats contemporains- L’évolution en cours concernant le rôle et les fonctions de l’Etat- La réforme administrativeTitre II - Analyse des politiques publiques- Les processus d’émergence, d’élaboration, d’adoption, de gestion et d’évaluation des politiques et programmes gouvernementaux.- La mise en œuvre des programmes gouvernementaux et son impact sur l’administration
 
-<a id="art_N5D6FC"></a>
+<a id="art_N5D81F"></a>
 
 ### Art. 4. Contrôle de l’administration
 
 Le programme détaillé du cours «Contrôle de l’administration» assuré à la section des carrières supérieures administratives est déterminé comme suit:IntroductionTitre I - Le contrôle exercé par le pouvoir législatifChapitre 1er - Le médiateur1.1 - Statut1.2 - Compétences1.3 - Conditions de saisine1.4 - Procédure et prérogatives du médiateur1.5 - Relation avec l’exercice d’un recours contentieuxChapitre 2 - Les commissions créées par la Chambre des Députés2.1 - La commission spéciale2.2 - La commission d’enquêteTitre II - Le contrôle exercé par le pouvoir exécutifChapitre 1er - Le contrôle tutélaire sur les collectivités et les établissements autonomesTitre III - Le contrôle exercé par le pouvoir judiciaireChapitre 1er - Le contrôle direct exercé par les juridictions administratives1.1 - Champ de compétence des juridictions administratives1.2 - Voies de recours ouvertes: recours en réformation ou en annulation1.3 - Intérêt et qualité pour agir1.4 - Conditions de recevabilité du recours: délai et formes1.5 - Procédure d’instruction - mémoires1.6 - Mesures provisoires1.7 - Effet des jugements et arrêtsChapitre 2 - Le contrôle indirect par les juridictions judiciaires - régime de la responsabilité de l’Etat- Bases légales- Conditions de fond de la responsabilité pour faute de l’Etat2.4 - Régimes spéciaux de responsabilité2.5 - Procédure
 
-<a id="art_N5D789"></a>
+<a id="art_N5D8AC"></a>
 
 ### Art. 5. Informatique dans le secteur public
 
 Le programme détaillé du cours «Informatique dans le secteur public» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - Son fonctionnement2 - Ses servicesChapitre 2 - Le web1 - Ses particularités2 - La recherche d’informations3 - La qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetTitre III - La protection des données à caractère personnelChapitre 1er - La directive européenneChapitre 2 - La législation luxembourgeoise et sa mise en pratiqueTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueChapitre 3 - Les composants d’une infrastructure de clé publiqueChapitre 4 - La valeur probante de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
 
-<a id="art_N5D80C"></a>
+<a id="art_N5D92F"></a>
 
 ### Art. 6. Gestion du personnel de l’administration publique
 
 Le programme détaillé du cours «Gestion du personnel de l’administration publique» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - HistoriqueTitre II - Administration et gestionTitre III - Direction des affaires du personnelTitre IV - Les différentes catégories de personnel au service communalTitre V - RecrutementChapitre 1er - FonctionnaireChapitre 2 - Employé communal et Employé privé communalChapitre 3 - Ouvrier communalTitre VI - RémunérationChapitre 1er - FonctionnairesGénéralitésDéfinitionsCalcul du brut:Détermination de l’échelon à prendre en considérationAllocation de familleAllocation de repasPrimes diversesAllocation de fin d’annéeGrade de substitutionLogement de serviceFrais de route et de séjourChangement de fonctionChapitre 2 - EmployésChapitre 3 - OuvriersTitre VII - Administration du personnelChapitre 1er - Gestion des EffectifsChapitre 2 - Cadre ouvert et ferméChapitre 3 - Tableau d’avancementChapitre 4 - PromotionsChapitre 5 - Changement de carrièreChapitre 6 - Hors cadreChapitre 7 - FormationChapitre 8 - Sécurité socialeAssurance-PensionAssurance-MaladieAssurance-AccidentsChapitre 9 - Dossier personnelChapitre 10 - Temps de travailGénéralitésLes congésTitre IX - Gestion des ressources humainesChapitre 1er - GénéralitésLa gestion du personnelLa gestion des ressources humainesChapitre 2 - Considérations sur la motivationChapitre 3 - La gestion des compétencesChapitre 4 - OrganigrammeChapitre 5 - Mobilité volontaire - MutationsChapitre 6 - Outils de gestion du service central du personnel de la Ville de Luxembourg
 
-<a id="art_N5D8F4"></a>
+<a id="art_N5DA17"></a>
 
 ### Art. 7. Histoire de l’administration publique
 
 Le programme détaillé du cours «Histoire de l’administration publique» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795-1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l ‘Etat industrielChapitre 16 - Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919:Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 -Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum17.3 -L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranational L’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administrativesPondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
 
-<a id="art_N5D9C6"></a>
+<a id="art_N5DAE9"></a>
 
 ### Art. 8. Langage juridique, administratif et diplomatique
 
 Le programme détaillé du cours «Langage juridique, administratif et diplomatique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:- les conventions du langage juridique, diplomatique et administratif- les expressions juridiques, diplomatiques et administratives- les erreurs juridiques, diplomatiques et administratives les plus fréquentes- les notions à ne pas confondre- les synonymes et antonymes- les fautes de français les plus courantes
 
-<a id="art_N5D9F6"></a>
+<a id="art_N5DB19"></a>
 
 ### Art. 9. La loi communale
 
 Le programme détaillé du cours «La loi communale» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de districtTitre XI - La collaboration des communes entre elles et avec d’autres partenaires
 
-<a id="art_N5DAA0"></a>
+<a id="art_N5DBC3"></a>
 
 ### Art. 10. Règlements communaux
 
 Le programme détaillé du cours «Règlements communaux» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 – Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe , impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir réglementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
 
-<a id="art_N5DB5E"></a>
+<a id="art_N5DC81"></a>
 
 ### Art. 11. Gestion des ressources financières des communes
 
 Le programme détaillé du cours «Gestion des ressources financières des communes» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - La gestion des ressourcesChapitre 1er - Le budget et les différentes comptabilités1.1 - Les notions de base1.2 - La structure du budget1.3 - Les différentes comptabilités1.4 - La comptabilité des communes1.5 - La comptabilité des syndicats de communeChapitre 2 - Les recettes2.1 - Les recettes ordinaires2.2 - Les recettes extraordinaires des communesChapitre 3 - Les dépenses3.1 - Les dépenses ordinaires3.2 - Les dépenses extraordinairesChapitre 4 - Les outils de gestion4.1 - Les budgets et comptes4.2 - Les tableaux de bord4.3 - Les prix de revient4.4 - Le coût de l’équipement4.5 - L’efficacité et le Bench-Marking4.6 - L’analyse des risquesChapitre 5 - Le patrimoineChapitre 6 - Les investissements6.1 - Les investissements de remplacement6.2 - Les investissements nouveaux6.3 - La gestion des projetsChapitre 7 - Le plan de financement7.1 - Le plan de réalisation des projets7.2 - Le plan de financementChapitre 8 - Le recours à des fonds étrangers8.1 - Le cadre légal8.2 - La gestion de la trésorerie8.3 - Les ouvertures de crédit8.4 - Le leasing8.5 - Les emprunts
 
-<a id="art_N5DC48"></a>
+<a id="art_N5DD6B"></a>
 
 ### Art. 12. Statut des fonctionnaires communaux
 
 Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
 
-<a id="art_N5DCA0"></a>
+<a id="art_N5DDC3"></a>
 
 ### Art. 13. Marchés publics
 
 Le programme détaillé du cours «Marchés publics» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics ( secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
 
-<a id="art_N5DD0A"></a>
+<a id="art_N5DE2D"></a>
 
 ### Art. 14. Législation sur l’aménagement des communes
 
@@ -31483,157 +31498,157 @@ Le programme détaillé du cours «Législation sur l’aménagement des commune
 
 ##### Titre II — Programmes détaillés des cours de la section de la carrière du secrétaire communal et du rédacteur
 
-<a id="art_N5DDAC"></a>
+<a id="art_N5DECF"></a>
 
 ### Art. 15. Histoire de l’administration publique et de l’administration luxembourgeoise
 
 Le programme détaillé du cours «Histoire de l’administration publique et de l’administration luxembourgeoise» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795- 1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l ‘Etat industrielChapitre 16 - Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919: Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 -Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum17.3 -L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranationalL’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administratives Pondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
 
-<a id="art_N5DE81"></a>
+<a id="art_N5DFA4"></a>
 
 ### Art. 16. Introduction générale au droit
 
 Le programme détaillé du cours «Introduction générale au droit» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Le droit objectifChapitre 1er - Les divisions des règles de droit et les principales branches du droitChapitre 2 - Les sources du droitTitre II - Les droits subjectifsChapitre 1er - Classification des droits subjectifsChapitre 2 - Les actes juridiques et les faits juridiquesChapitre 3 - Les sujets de droitTitre III - Le pouvoir judiciaireChapitre 1er - L’organisation judiciaire1 - Les juridictions ordinaires2 - Les juridictions particulièresChapitre 2 - La compétence des cours et tribunauxChapitre 3 - Les différents acteurs du monde judiciaire
 
-<a id="art_N5DED6"></a>
+<a id="art_N5DFF9"></a>
 
 ### Art. 17. Droit constitutionnel
 
 Le programme détaillé du cours «Droit constitutionnel» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Introduction, Notions généralesChapitre 1er - Le territoireChapitre 2 - La populationChapitre 3 - L’autorité publiqueTitre II - Les garanties constitutionnellesChapitre 1er - La rigidité de la constitutionChapitre 2 - Les droits des citoyensTitre III - La forme du gouvernementChapitre 1er - Une démocratie représentativeChapitre 2 - La séparation des pouvoirsChapitre 3 - L’exercice du pouvoir législatifChapitre 4 - L’exercice du pouvoir exécutifChapitre 5 - L’exercice du pouvoir judiciaireTitre IV - Le Grand-Duc et le GouvernementChapitre 1er - La situation juridique du Grand-DucChapitre 2 - Les prérogatives du Grand-DucChapitre 3 - La formation du GouvernementChapitre 4 - La responsabilité ministérielleTitre V - La Chambre des députésChapitre 1er - Le système électoralChapitre 2 - L’organisation de la Chambre des députésChapitre 3 - La procédure législativeChapitre 4 - Le contrôle du Gouvernement par la Chambre des députésTitre VI - Le Conseil d’EtatChapitre 1er - La composition du Conseil d’EtatChapitre 2 - Les attributions du Conseil d’EtatChapitre 3 - La procédure au sein du Conseil d’EtatTitre VII - Les Cours et TribunauxChapitre 1er - L’indépendance des jugesChapitre 2 - L’organisation judiciaireChapitre 3 - Le ministère publicChapitre 4 - Les garanties fondamentales offertes aux justiciablesTitre VIII - L’Administration publiqueChapitre 1er - L’administration centraleChapitre 2 - Les services générauxTitre IX - Les finances de l’EtatChapitre 1er - Les ressources de l’EtatChapitre 2 - Le budget de l’EtatChapitre 3 - Les contrôles budgétaires interne et externeTitre X - Les chambres professionnellesChapitre 1er - La composition des chambres professionnellesChapitre 2 - L’organisation des chambres professionnellesChapitre 3 - Les attributions des chambres professionnellesTitre XI - Le Conseil économique et socialChapitre 1er - La composition du Conseil économique et socialChapitre 2 - Les attributions du Conseil économique et socialChapitre 3 - Les rapports avec le Gouvernement
 
-<a id="art_N5DFCB"></a>
+<a id="art_N5E0EE"></a>
 
 ### Art. 18. Droit administratif
 
 Le programme détaillé du cours «Droit administratif» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:- autorisation de bâtir- établissements classés (Loi du 10 juin 1999)- aménagement des communes (L 12 juin 1937)- nature (Loi du 11 août 1982);- responsabilité (Loi du 1er septembre 1988);
 
-<a id="art_N5E02D"></a>
+<a id="art_N5E150"></a>
 
 ### Art. 19. Droit civil
 
 Le programme détaillé du cours «Droit civil» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Les droits réelsChapitre 1er - Le droit de propriétéChapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitationChapitre 3 - Le droit de superficie et le droit d’emphytéoseChapitre 4 - L’indivision et la copropriétéChapitre 5 - Les servitudesTitre II - Les obligationsChapitre 1er - Les sources des obligationsChapitre 2 - Les modalités des obligationsChapitre 3 - Les modes d’extinction des obligationsTitre III - La preuveChapitre 1er - La preuve littérale (ou écrite)Chapitre 2 - La preuve testimoniale (par témoignage)Chapitre 3 - Les présomptionsChapitre 4 - L’aveuChapitre 5 - Le sermentTitre IV - Les régimes matrimoniauxChapitre 1er - Le régime primaireChapitre 2 - La communauté légale et la communauté conventionnelleChapitre 3 - La communauté universelleChapitre 4 - La séparation de biensTitre V - Les successionsChapitre 1er - La succession légale (ab intestat)Chapitre 2 - La succession testamentaire
 
-<a id="art_N5E0B4"></a>
+<a id="art_N5E1D7"></a>
 
 ### Art. 20. Protection du citoyen face aux décisions de l’administration
 
 Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II - Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
 
-<a id="art_N5E0E1"></a>
+<a id="art_N5E204"></a>
 
 ### Art. 21. Relations entre l’administration et le citoyen
 
 Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - IntroductionTitre II - Les diverses relations entre l’administration et les citoyensChapitre 1er - Expériences personnelles vécues avec les administrations publiquesChapitre 2 - L’accueil du citoyen dans les bureaux2.1 - Heures d’ouverture2.2 - Nocturnes2.3 - Aider le citoyen à se retrouver dans l’administration2.4 - Queues d’attente et pauses café2.5 - Vêtements de travailChapitre 3 - Le téléphone3.1 - Répondre à un appel téléphonique3.2 - Comportement face à un citoyen excité3.3 - Gestion des appels téléphoniques à l’intérieur d’un service3.4 - Rôle du central téléphonique3.5 - A qui la priorité: A celui qui téléphone ou à celui qui vient au bureau?Chapitre 4 - Le courrier4.1 - L’accusé de réception4.2 - Le temps de réponse4.3 - La lettre traditionnelle4.4 - La télécopie4.5 - Le courrier électroniqueChapitre 5 - L’Internet5.1 - Les communes dans l’Internet5.2. - Le «E-Government»Titre III - Quelques règles de la communicationTitre IV - DiversChapitre 1er - Les guichets uniquesChapitre 2 - Les publicationsChapitre 3 - Idées nouvelles3.1 - Modèles de sondages (Bertelsmann-Projekt)3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg)3.3 - „Zukunftskonferenzen“ (USA)3.4 - „Customer Contracts“ (Braintree)3.5 - „Benchmarking” (Bertelsmann-Projekt)3.6 - „PR mit VR“ (Delft)
 
-<a id="art_N5E18B"></a>
+<a id="art_N5E2AE"></a>
 
 ### Art. 22. Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers
 
 Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Elaboration de délibérationsChapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90Chapitre 2 - Le mode de rédaction d’une délibération2.1 - Le préambule2.2 - Les motifs2.3 - Le dispositif2.4 - La partie finale2.5 - De l’approbation des délibérationsChapitre 3 - Exemples de délibérations avec explication de la procédureTitre II - Les avis au publicTitre III - Les permis de construireTitre IV - Les comptes rendusTitre VI - Les documents officiels divers
 
-<a id="art_N5E1DA"></a>
+<a id="art_N5E2FD"></a>
 
 ### Art. 23. Méthodes d’archivage
 
 Le programme détaillé du cours «Méthodes d’archivage» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La notion d’archives comprenant:Chapitre 1er - Leur productionChapitre 2 - Les genresChapitre 3 - Leur cycle de vieChapitre 4 - Leur arrangementTitre II - Le classementChapitre 1er - ButsChapitre 2 - Classification (cadre de classement)Chapitre 3 - Procédures de classement (manières, outils, etc.)Titre III - La conservationChapitre 1er - DélaisChapitre 2 - ButsChapitre 3 - Moyens: outils, meubles, locauxChapitre 4 - Dangers inhérents et extérieurs; restaurations etc.Chapitre 5 - Tris et éliminationsTitre IV - L’utilisation:Chapitre 1er - L’utilisation à des fins internesChapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc.,Chapitre 3 - Règles à observer: surveillance etc.
 
-<a id="art_N5E24A"></a>
+<a id="art_N5E36D"></a>
 
 ### Art. 24. Organisation d’un service public
 
 Le programme détaillé du cours «Organisation d’un service public» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La notion de «service public» au niveau de l’administration communaleChapitre 1er - Définition1 - Le public cible2 - Les objectifsTitre II - Les prémisses pour un bon service du citoyenChapitre 1er - L’interaction des différents intervenants1 - Les relations entre l’administration et les élus locaux2 - Les relations entre l’administration et les citoyens3 - Les relations entre services communauxTitre III - La communication et les moyens à mettre en œuvreChapitre 1er - Le rôle de la communication dans un service public1 - Situation existante2 - Les conditions à respecter pour assurer une optimisation de la communicationTitre IV - Le courrierChapitre 1er - Les différentes formes de courrier1 - L’acheminement au sein de l’administration2 - Le suiviChapitre 2 - Les dossiers1 - Leur constitution2 - Les avis3 - La prise des décisionsTitre V - Le conseil communal et le collège échevinalChapitre 1er - Fonctionnement1 - Les ordres du jour2 - L’exécution des décisions
 
-<a id="art_N5E2D5"></a>
+<a id="art_N5E3F8"></a>
 
 ### Art. 25. Les nouvelles technologies de l’information
 
 Le programme détaillé du cours «Les nouvelles technologies de l’information» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - Son fonctionnement2 - Ses servicesChapitre 2 - Le web1 - Ses particularités2 - La recherche d’informations3 - La qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetTitre III - La protection des données à caractère personnelChapitre 1er - La directive européenneChapitre 2 - La législation luxembourgeoise et sa mise en pratiqueTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueChapitre 3 - Les composants d’une infrastructure de clé publiqueChapitre 4 - La valeur probante de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
 
-<a id="art_N5E358"></a>
+<a id="art_N5E47B"></a>
 
 ### Art. 26. Législation sur l’urbanisme et l’environnement naturel
 
 Le programme détaillé du cours «Législation sur l’urbanisme et l’environnement naturel» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II - L’aménagement communalChapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents1 - Les communes2 - Le Ministre3 - La commission d’aménagementChapitre 3 - Les instruments1 - Le plan d’aménagement général (P.A.G.)2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procéduresChapitre 5 - L’exécution du plan d’aménagementChapitre 6 - Etude de cas pratiquesTitre III - Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles)Chapitre 1er - Objectifs de la loiChapitre 2 - Mesures générales de conservation du paysageChapitre 3 - Protection de la faune et de la floreChapitre 4 - Zones protégées d’intérêt communautaireChapitre 5 - Zones protégées d’intérêt nationalChapitre 6 - Zones protégées d’importance communaleChapitre 7 - Dispositions pénalesChapitre 8 - Etudes de cas pratiques
 
-<a id="art_N5E3E3"></a>
+<a id="art_N5E506"></a>
 
 ### Art. 27. Etablissements dangereux et insalubres
 
 Le programme détaillé du cours «Etablissements dangereux et insalubres» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La loi relative aux établissements classésLa nomenclature des établissements classésTitre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003Règlement grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de sécurité;Règlement ministériel du 6 mai 1996 concernant l’intervention d’organismes de contrôle dans le cadre des compétences et attributions de l’Inspection du Travail et des Mines
 
-<a id="art_N5E423"></a>
+<a id="art_N5E546"></a>
 
 ### Art. 28. Loi électorale
 
 Le programme détaillé du cours «Loi électorale» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:IntroductionTitre I - La base de la législation électoraleTitre II - Les électeursTitre III - Les candidatsTitre IV - Le vote obligatoire au LuxembourgTitre V - Les pénalitésTitre VI - Les listes électoralesTitre VII - Les collèges électorauxTitre VIII - Le vote par correspondanceTitre IX - Le financement des campagnes électoralesTitre X - Les élections législativesTitre XI - Les élections européennesTitre XII - Les élections communales
 
-<a id="art_N5E46F"></a>
+<a id="art_N5E592"></a>
 
 ### Art. 29. Matières diverses
 
 Le programme détaillé du cours «Matières diverses tient compte des évolutions récentes dans les domaines suivants:- Permis de pêche et de chasse- Certificats- Légalisation des signatures- Police des aliénés- Cabarettage- Expropriation pour cause d’utilité publique- Syndicats de communes
 
-<a id="art_N5E4A3"></a>
+<a id="art_N5E5C6"></a>
 
 ### Art. 30. Français
 
 Le programme détaillé du cours «Français» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er - La Francophonie.Chapitre 2 - La situation du français dans le monde.Chapitre 3 -La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des langues.Titre II - De la justification du langage administratif.Chapitre 1er - Caractéristiques principales du langage administratif.Chapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte-rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier).Chapitre 3 - Exercices pratiques.Chapitre 4 - Le langage administratif parlé.
 
-<a id="art_N5E4EA"></a>
+<a id="art_N5E60D"></a>
 
 ### Art. 31. Allemand
 
 Le programme détaillé du cours «Allemand» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Das amtliche Schreiben1.1. Der Verwaltungsbrief1.1.1. Aufbau / Formalia1.1.2. Inhaltliche Aspekte / FormulierungTitre II - Stilfragen2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen2.2. Fremdwörter2.3. Schwerpunkte der Rechtschreibung2.4. Die InterpunktionTitre III - Textinterpretation / Linguistische Textanalyse3.1. Analyse der Textstruktur3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ)3.3. Analyse der Textfunktion (Textuelle Grundfunktionen)3.4. Stilistische Analyse (rhetorische Mittel, Tropen)3.5. Auseinandersetzung mit den Textinhalten - Gliederung und Kurzfassung (Précis)Titre IV - Kommunikation4.1. Kommunikationsmodelle4.2. Fehlkodierung / Kodierungsfehler4.3. Die deutsche Standardsprache / Prosodie4.4. Sprachliche Umgangsformen4.5. Rhetorische Grundbegriffe / Der Kurzvortrag
 
-<a id="art_N5E556"></a>
+<a id="art_N5E679"></a>
 
 ### Art. 32. Anglais
 
 Le programme détaillé du cours «Anglais» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - English Phone conversationsChapitre 1er - Introductory words and level of study aimed at - INTERMEDIATEChapitre 2 - Basic phone skills - Listening and Speaking properly, Keeping on hold, etc.Chapitre 3 - The Study of Charts ( Phonetic Script, Intonation, Phone Alphabet (IAOC)Chapitre 4 - The Golden Phone Rules.Chapitre 5 - 10 practical listening exercises at ADVANCED level followed by debates.Titre II - Letter writingChapitre 1er - The essential parts of the English letter.Chapitre 2 - The layout of an English letter inside the local government administration.Chapitre 3 - Linguistic advice on letter-writing - Stylistics, linking words, false friends.Chapitre 4 - Study of at least 6 types of letter (Complaint, inquiry, decline, service note)Chapitre 5 - 25 rules on how to write efficient letters and reports.Titre III - Text analysesIn order to favour reading and writing skills as regards ‘summary’ and ‘composition’ ‘writing’ , 10 texts of ADVANCED level on the modern local government and the EU will be read.Text 1 - Nationalism and the EU, an Anachronism?Text 2 - The Enlarged Europe of Unity in Diversity.Text 3 - Europe and Lifelong Learning.Text 4 - The Unity of European Culture.Text 5 - Local Government Recruitment and Selection.Text 6 - The essential importance of language.Text 7 - Work and Humankind.Text 8 - Europe and small countries.Text 9 - European Resistance and Post-War Reconstruction.Text 10 - Retributive punishment and human society.
 
-<a id="art_N5E5D4"></a>
+<a id="art_N5E6F7"></a>
 
 ### Art. 33. Luxembourgeois
 
 Le programme détaillé du cours «Luxembourgeois» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Aperçu de l’évolution de l’orthographe luxembourgeoiseTitre II - L’orthographe luxembourgeoiseChapitre 1er - Les voyellesChapitre 2 - Les diphtonguesChapitre 3 - Les consonnesChapitre 4 - Les pronomsChapitre 5 - Les verbesChapitre 6 - Les mots étrangers dans la langue luxembourgeoiseTitre III - Rédaction d’une lettre administrative
 
-<a id="art_N5E613"></a>
+<a id="art_N5E736"></a>
 
 ### Art. 34. Loi communale
 
 Le programme détaillé du cours «Loi communale» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de districtTitre XI - La collaboration des communes entre elles et avec d’autres partenaires
 
-<a id="art_N5E6BD"></a>
+<a id="art_N5E7E0"></a>
 
 ### Art. 35. Marchés publics
 
 Le programme détaillé du cours «Marchés publics» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
 
-<a id="art_N5E727"></a>
+<a id="art_N5E84A"></a>
 
 ### Art. 36. Règlements communaux
 
 Le programme détaillé du cours «Règlements communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe , impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir règlementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
 
-<a id="art_N5E7E5"></a>
+<a id="art_N5E908"></a>
 
 ### Art. 37. Etat civil et bureau de population
 
 Le programme détaillé du cours «Etat civil et bureau de population» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Bureau de population - IndigénatChapitre 1er - Indigénat1.1 -Loi modifiée du 22.2.1968 sur la nationalité luxembourgeoise et la circulaire ministérielle afférente1.2 -Loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise et la circulaire ministérielle du 16.2.1995 afférente1.3 -Les mentions marginales en matière d’indigénatChapitre 2 - Population2.1 - Loi du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers, 3. l’emploi de la main-d’œuvre étrangère2.2 - Règlement grand-ducal du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant aux pays2.3 - Règlement grand-ducal du 28 mars 1972 relatif aux conditions d’entrée et de séjour de certaines catégories d’étrangers faisant l’objet de conventions internationales2.4 - Texte historique; Les dispositions légales concernant la tenue des registres de la population: une genèse laborieuse (Définitions des notions de domicile et de résidence)2.5 - Loi du 22.février1886, art.82.6 - Circulaire du Ministre de l’Intérieur du 15 avril 19532.7 - Mise à disposition de tiers des données personnelles des administrés détenues par les communes2.8 - La déclaration des Luxembourgeois & La déclaration des non-LuxembourgeoisChapitre 3 - Titres d’identité3.1 - Arrêté grand-ducal du 30 août 1939, portant introduction de la carte d’identité obligatoire3.2 - Règlement ministériel du 12 juin 1989 déterminant le modèle de la carte d’identité obligatoire à délivrer par les administrations communales3.3 - Loi du 14.4.1934 concernant les passeports à l’étrangerTitre II - Etat civilChapitre 1er - Des actes de l’état civil1.1 - Dispositions générales1.2 - Des actes de naissance1.3 - Des actes de mariages1.4 - Des actes de décès1.5 - De la rectification des actes de l’état civilChapitre 2 - Du mariage2.1 - Qualités2.2 - Des formalitésChapitre 3 - Des seconds mariages
 
-<a id="art_N5E890"></a>
+<a id="art_N5E9B3"></a>
 
 ### Art. 38. Gestion des ressources financières des communes (Budget et comptabilité)
 
 Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - Le système de financement des communes: tarifs communaux, gestion des projets, planning pluriannuel, trésorerieChapitre 1er - La comptabilité de caisse et la comptabilité financière1.1 - La comptabilité de caisse1.2 - La comptabilité financièreChapitre 2 - Le nouveau plan comptable des communesChapitre 3 - Le principe de l’équilibre financierChapitre 4 - Les recettes ordinaires des communes4.1 - Les impôts communaux4.2 - Les dotations4.3 - Les subventions étatiques spécifiques4.4 - Les revenus de prestationsChapitre 5 - Les tarifs communaux5.1 - Le règlement des taxes, tarifs et prix - la base légale5.2 - La fixation de la juste contribution de l’usager5.3 - L’exemple des prix de l’épuration des eaux usées à Cologne5.4 - Les tarifs à fixerLes produits de l’exploitationLes produits domaniaux5.5 - Quelques notions financières5.6 - La différentiation des services5.7 - Les questions à poser5.8 - Un règlement-taxe type - L’évacuation et l’épuration des eaux usées5.9 - Un règlement-taxe de la ville de Luxembourg - CimetièresChapitre 6 - La gestion des projets6.1 - Les choix stratégiques - la prérogative des autorités politiques6.2 - Les projets internes6.3 - Les projets externes6.4 - Les phases du projet de construction6.5 - Le suivi du projet en cours d’exécutionChapitre 7 - Le planning pluriannuel7.1 - La structure du budget ordinaire7.2 - Le plan de réalisation des projets7.3 - Le plan des recettes extraordinaires7.4 - Le planning financier pluriannuelChapitre 8 - Le recours à des fonds étrangers8.1 - Le cadre légal8.2 - La gestion de la trésorerie8.3 - Les ouvertures de crédit8.4 - Les emprunts8.5 - Les équilibres financiersTitre III - La comptabilité communale: notions sur le budget communalChapitre 1er - L’établissement, le vote et l’arrêté1.1 - La formation1.2 - L’élaboration du projet1.3 - Le commentaire budgétaire1.4 - Le vote1.5 - L’apurement et l’arrêté définitifChapitre 2 - Les modifications budgétaires2.1 - La demande de crédit spécial ou supplémentaire2.2 - Le tableau des modifications budgétaires2.3 - Les dépenses urgentes et imprévues2.4 - Le transfert2.5 - Le report d’exercice2.6 - Le budget rectifié - définition - établissement - vote et valeurChapitre 3 - Les obligations et les responsabilités par rapport aux crédits budgétaires3.1 - Du collège des bourgmestre et échevins3.2 - Du receveur communalChapitre 4 - Les budget des syndicats intercommunaux et des établissements publics communaux4.1 - Les généralités4.2 - Le budget des établissements publics communaux4.3 - Le budget des syndicats intercommunaux4.4 - Les principes découlant de la comptabilité commerceTitre IV - La comptabilité communale: l’exécution du budget et la reddition des comptesChapitre 1er - L’exercice financier- La distinction d’exerciceChapitre 2 - La comptabilité2.1 - Le système2.2 - La comptabilité du collège des bourgmestre et échevins2.3 - La comptabilité du receveur2.4 - La conservation des documents de comptabilitéChapitre 3 - La gestion des recettes3.1 - L’exécution des décisions du conseil communal3.2 - L’approbation des pièces justificatives3.3 - Le titre rectificatifChapitre 4 - La gestion des dépenses4.1 - L’ordonnancement4.2 - Le mandatementChapitre 5 - Le contrôle de la comptabilité et de la caisse5.1 - La mission du collège des bourgmestre et échevinsChapitre 6 - La comptabilité des établissements publics communaux et des syndicatsChapitre 7 - Les comptes communaux7.1 - Le compte d’exerciceLa définitionL’objet du compte de gestionLa structure des comptesL’inscription des recettes aux comptesL’inscription des dépenses aux comptesLa concordance des comptesLa justification des recettes et des dépenses7.2 - Le compte de fin de gestion
 
-<a id="art_N5EA60"></a>
+<a id="art_N5EB83"></a>
 
 ### Art. 39. Statut des fonctionnaires communaux
 
 Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et notamment les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
 
-<a id="art_N5EAB8"></a>
+<a id="art_N5EBDB"></a>
 
 ### Art. 40. Traitements des fonctionnaires communaux
 
@@ -31641,139 +31656,139 @@ Le programme détaillé du cours «Traitements des fonctionnaires communaux» as
 
 ##### Titre III — Programmes détaillés des cours de la section de la carrière du receveur communal.
 
-<a id="art_N5EB71"></a>
+<a id="art_N5EC94"></a>
 
 ### Art. 41. Histoire de l’administration publique et notamment de l’administration luxembourgeoie
 
 Le programme détaillé du cours «Histoire de l’administration publique et notamment de l’administration luxembourgeoise» assuré à la section du receveur communal est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795-1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l ‘Etat industrielChapitre 16 - Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919:Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 -Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum17.3 -L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranationalL’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administrativesPondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
 
-<a id="art_N5EC46"></a>
+<a id="art_N5ED69"></a>
 
 ### Art. 42. Introduction générale au droit
 
 Le programme détaillé du cours «Introduction générale au droit» assuré à la section du receveur communal est déterminé comme suit:Titre I - Le droit objectifChapitre 1er - Les divisions des règles de droit et les principales branches du droitChapitre 2 - Les sources du droitTitre II - Les droits subjectifsChapitre 1er - Classification des droits subjectifsChapitre 2 - Les actes juridiques et les faits juridiquesChapitre 3 - Les sujets de droitTitre III - Le pouvoir judiciaireChapitre 1er - L’organisation judiciaire1 - Les juridictions ordinaires2 - Les juridictions particulièresChapitre 2 - La compétence des cours et tribunauxChapitre 3 - Les différents acteurs du monde judiciaire
 
-<a id="art_N5EC9B"></a>
+<a id="art_N5EDBE"></a>
 
 ### Art. 43. Droit constitutionnel
 
 Le programme détaillé du cours «Droit constitutionnel» assuré à la section du receveur communal est déterminé comme suit:Titre I - Introduction, Notions généralesChapitre 1er - Le territoireChapitre 2 - La populationChapitre 3 - L’autorité publiqueTitre II - Les garanties constitutionnellesChapitre 1er - La rigidité de la constitutionChapitre 2 - Les droits des citoyensTitre III - La forme du gouvernementChapitre 1er - Une démocratie représentativeChapitre 2 - La séparation des pouvoirsChapitre 3 - L’exercice du pouvoir législatifChapitre 4 - L’exercice du pouvoir exécutifChapitre 5 - L’exercice du pouvoir judiciaireTitre IV - Le Grand-Duc et le GouvernementChapitre 1er - La situation juridique du Grand-DucChapitre 2 - Les prérogatives du Grand-DucChapitre 3 - La formation du GouvernementChapitre 4 - La responsabilité ministérielleTitre V - La Chambre des députésChapitre 1er - Le système électoralChapitre 2 - L’organisation de la Chambre des députésChapitre 3 - La procédure législativeChapitre 4 - Le contrôle du Gouvernement par la Chambre des députésTitre VI - Le Conseil d’EtatChapitre 1er - La composition du Conseil d’EtatChapitre 2 - Les attributions du Conseil d’EtatChapitre 3 - La procédure au sein du Conseil d’EtatTitre VII - Les Cours et TribunauxChapitre 1er - L’indépendance des jugesChapitre 2 - L’organisation judiciaireChapitre 3 - Le ministère publicChapitre 4 - Les garanties fondamentales offertes aux justiciablesTitre VIII - L’Administration publiqueChapitre 1er - L’administration centraleChapitre 2 - Les services générauxTitre IX - Les finances de l’EtatChapitre 1er - Les ressources de l’EtatChapitre 2 - Le budget de l’EtatChapitre 3 - Les contrôles budgétaires interne et externeTitre X - Les chambres professionnellesChapitre 1er - La composition des chambres professionnellesChapitre 2 - L’organisation des chambres professionnellesChapitre 3 - Les attributions des chambres professionnellesTitre XI - Le Conseil économique et socialChapitre 1er - La composition du Conseil économique et socialChapitre 2 - Les attributions du Conseil économique et socialChapitre 3 - Les rapports avec le Gouvernement
 
-<a id="art_N5ED90"></a>
+<a id="art_N5EEB3"></a>
 
 ### Art. 44. Droit administratif
 
 Le programme détaillé du cours «Droit administratif» assuré à la section du receveur communal est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:- autorisation de bâtir- établissements classés (Loi du 10 juin 1999)- aménagement des communes (L 12 juin 1937)- nature (Loi du 11 août 1982);- responsabilité (Loi du 1er septembre 1988);
 
-<a id="art_N5EDF2"></a>
+<a id="art_N5EF15"></a>
 
 ### Art. 45. Droit civil
 
 Le programme détaillé du cours «Droit civil» assuré à la section du receveur communal est déterminé comme suit:Titre I - Les droits réelsChapitre 1er - Le droit de propriétéChapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitationChapitre 3 - Le droit de superficie et le droit d’emphytéoseChapitre 4 - L’indivision et la copropriétéChapitre 5 - Les servitudesTitre II - Les obligationsChapitre 1er - Les sources des obligationsChapitre 2 - Les modalités des obligationsChapitre 3 - Les modes d’extinction des obligationsTitre III - La preuveChapitre 1er - La preuve littérale (ou écrite)Chapitre 2 - La preuve testimoniale (par témoignage)Chapitre 3 - Les présomptionsChapitre 4 - L’aveuChapitre 5 - Le sermentTitre IV - Les régimes matrimoniauxChapitre 1er - Le régime primaireChapitre 2 - La communauté légale et la communauté conventionnelleChapitre 3 - La communauté universelleChapitre 4 - La séparation de biensTitre V - Les successionsChapitre 1er - La succession légale (ab intestat)Chapitre 2 - La succession testamentaire
 
-<a id="art_N5EE79"></a>
+<a id="art_N5EF9C"></a>
 
 ### Art. 46. Droit commercial (documents commerciaux, entreprises)
 
 Le programme détaillé du cours «Droit commercial (documents commerciaux, entreprises)» assuré à la section du receveur communal est déterminé comme suit:Titre I - Le commerçantChapitre 1er - Qui est commerçantChapitre 2 - Les obligations des commerçantsChapitre 3 - Le fond de commerceChapitre 4 - Avantages et désavantages de l’entreprise individuelleTitre II - Les sociétés commercialesChapitre 1er - La constitution d’une société commercialeChapitre 2 - La notion de la personnalité moraleChapitre 3 - Les différentes formes de sociétés commercialesChapitre 4 - Autres formes de sociétés ou modes d’associationChapitre 5 - La succursaleTitre III - La failliteChapitre 1er - Conditions d’ouverture de la failliteChapitre 2 - Les effets de la failliteChapitre 3 - Les solutions de la failliteChapitre 4 - La banquerouteTitre IV - Contrats spécifiquesChapitre 1er - Le contrat de bail commercialChapitre 2 - Le contrat de franchiseTitre V - De quelques principes en matière commercialeChapitre 1er - De la preuveChapitre 2 - Les mentions obligatoires sur les documents sociauxChapitre 3 - Le recouvrement de créances au Luxembourg
 
-<a id="art_N5EEFC"></a>
+<a id="art_N5F01F"></a>
 
 ### Art. 47. Protection du citoyen face aux décisions de l’administration
 
 Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section du receveur communal est déterminé comme suit:Titre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II - Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
 
-<a id="art_N5EF29"></a>
+<a id="art_N5F04C"></a>
 
 ### Art. 48. Relations entre l’administration et le citoyen
 
 Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section du receveur communal est déterminé comme suit:Titre I - IntroductionTitre II - Les diverses relations entre l’administration et les citoyensChapitre 1er - Expériences personnelles vécues avec les administrations publiquesChapitre 2 - L’accueil du citoyen dans les bureaux2.1 - Heures d’ouverture2.2 - Nocturnes2.3 - Aider le citoyen à se retrouver dans l’administration2.4 - Queues d’attente et pauses café2.5 - Vêtements de travailChapitre 3 - Le téléphone3.1 - Répondre à un appel téléphonique3.2 - Comportement face à un citoyen excité3.3 - Gestion des appels téléphoniques à l’intérieur d’un service3.4 - Rôle du central téléphonique3.5 - A qui la priorité: A celui qui téléphone ou à celui qui vient au bureau ?Chapitre 4 - Le courrier4.1 - L’accusé de réception4.2 - Le temps de réponse4.3 - La lettre traditionnelle4.4 - La télécopie4.5 - Le courrier électroniqueChapitre 5 - L’Internet5.1 - Les communes dans l’Internet5.2 - Le «E-Government»Titre III - Quelques règles de la communicationTitre IV - DiversChapitre 1er - Les guichets uniquesChapitre 2 - Les publicationsChapitre 3 - Idées nouvelles3.1 - Modèles de sondages (Bertelsmann-Projekt)3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg)3.3 - „Zukunftskonferenzen“ (USA)3.4 - „Customer Contracts“ (Braintree)3.5 - „Benchmarking” (Bertelsmann-Projekt)3.6 - „PR mit VR“ (Delft)
 
-<a id="art_N5EFD3"></a>
+<a id="art_N5F0F6"></a>
 
 ### Art. 49. Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers
 
 Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section du receveur communal est déterminé comme suit:Titre I - Elaboration de délibérationsChapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90Chapitre 2 - Mode de rédaction d’une délibération (très sommairement)Titre II - Les avis au publicTitre III - Les permis de construireTitre IV - Les comptes rendusTitre V - Les documents officiels divers
 
-<a id="art_N5F00A"></a>
+<a id="art_N5F12D"></a>
 
 ### Art. 50. Méthodes d’archivage
 
 Le programme détaillé du cours «Méthodes d’archivage» assuré à la section du receveur communal est déterminé comme suit:Titre I - La notion d’archives comprenant:Chapitre 1er - Leur productionChapitre 2 - Les genresChapitre 3 - Leur cycle de vieChapitre 4 - Leur arrangementTitre II - Le classementChapitre 1er - ButsChapitre 2 - Classification (cadre de classement)Chapitre 3 - Procédures de classement (manières, outils, etc.)Titre III - La conservationChapitre 1er - DélaisChapitre 2 - ButsChapitre 3 - Moyens: outils, meubles, locauxChapitre 4 - Dangers inhérents et extérieurs ; restaurations etc.Chapitre 5 - Tris et éliminationsTitre IV - L’utilisation:Chapitre 1er - L’utilisation à des fins internesChapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc.,Chapitre 3 - Règles à observer: surveillance etc.
 
-<a id="art_N5F07A"></a>
+<a id="art_N5F19D"></a>
 
 ### Art. 51. Organisation d’un service public
 
 Le programme détaillé du cours «Organisation d’un service public» assuré à la section du receveur communal est déterminé comme suit:Titre I - La notion de «service public» au niveau de l’administration communaleChapitre 1er - Définition1 - Le public cible2 - Les objectifsTitre II - Les prémisses pour un bon service du citoyenChapitre 1er - L’interaction des différents intervenants1 - Les relations entre l’administration et les élus locaux2 - Les relations entre l’administration et les citoyens3 - Les relations entre services communauxTitre III - La communication et les moyens à mettre en œuvreChapitre 1er - Le rôle de la communication dans un service public1 - Situation existante2 - Les conditions à respecter pour assurer une optimisation de la communicationTitre IV - Le courrierChapitre 1er - Les différentes formes de courrier1 - L’acheminement au sein de l’administration2 - Le suiviChapitre 2 - Les dossiers1 - Leur constitution2 - Les avis3 - La prise des décisionsTitre V - Le conseil communal et le collège échevinalChapitre 1er - Fonctionnement1 - Les ordres du jour2 - L’exécution des décisions
 
-<a id="art_N5F105"></a>
+<a id="art_N5F228"></a>
 
 ### Art. 52. Nouvelles technologies de l’information
 
 Le programme détaillé du cours «Nouvelles technologies de l’information» assuré à la section du receveur communal est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - son fonctionnement2 - ses servicesChapitre 2 - Le web1 - ses particularités2 - la recherche d’informations3 - la qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetTitre III - La protection des données à caractère personnelChapitre 1er - La directive européenneChapitre 2 - La législation luxembourgeoise et sa mise en pratiqueTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueChapitre 3 - Les composants d’une infrastructure de clé publiqueChapitre 4 - La valeur probante de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
 
-<a id="art_N5F188"></a>
+<a id="art_N5F2AB"></a>
 
 ### Art. 53. Français
 
 Le programme détaillé du cours «Français» assuré à la section du receveur communal est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er - La Francophonie.Chapitre 2 - La situation du français dans le monde.Chapitre 3 -La langue française au Luxembourg- situation spécifique - loi du 24 février 1984 sur le régime des langues.Titre II - De la justification du langage administratif.Chapitre 1er - Caractéristiques principales du langage administratif.Chapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier).Chapitre 3 - Exercices pratiques.Chapitre 4 - Le langage administratif parlé.
 
-<a id="art_N5F1CF"></a>
+<a id="art_N5F2F2"></a>
 
 ### Art. 54. Allemand
 
 Le programme détaillé du cours «Allemand» assuré à la section du receveur communal est déterminé comme suit:Titre 1: Das amtliche Schreiben1.1. Der Verwaltungsbrief1.1.1. Aufbau / Formalia1.1.2. Inhaltliche Aspekte / FormulierungTitre 2: Stilfragen2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen2.2. Fremdwörter2.3. Schwerpunkte der Rechtschreibung2.4. Die InterpunktionTitre 3: Textinterpretation / Linguistische Textanalyse3.1. Analyse der Textstruktur3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ)3.3. Analyse der Textfunktion (Textuelle Grundfunktionen)3.4. Stilistische Analyse (rhetorische Mittel, Tropen)3.5. Auseinandersetzung mit den Textinhalten: Gliederung und Kurzfassung (Précis)Titre 4: Kommunikation4.1. Kommunikationsmodelle4.2. Fehlkodierung / Kodierungsfehler4.3. Die deutsche Standardsprache / Prosodie4.4. Sprachliche Umgangsformen4.5. Rhetorische Grundbegriffe / Der Kurzvortrag
 
-<a id="art_N5F23B"></a>
+<a id="art_N5F35E"></a>
 
 ### Art. 55. Anglais
 
 Le programme détaillé du cours «Anglais» assuré à la section du receveur communal est déterminé comme suit:Titre I - English Phone conversationsChapitre 1er - Introductory words and level of study aimed at: INTERMEDIATEChapitre 2 - Basic phone skills: Listening and Speaking properly, Keeping on hold, etc.Chapitre 3 - The Study of Charts (Phonetic Script, Intonation, Phone Alphabet (IAOC)Chapitre 4 - The Golden Phone Rules.Chapitre 5 - 10 practical listening exercises at ADVANCED level followed by debates.Titre II - Letter writingChapitre 1er - The essential parts of the English letter.Chapitre 2 - The layout of an English letter inside the local government administration.Chapitre 3 - Linguistic advice on letter-writing: Stylistics, linking words, false friends.Chapitre 4 - Study of at least 6 types of letter. (Complaint, inquiry, decline, service note )Chapitre 5 - 25 rules on how to write efficient letters and reports.Titre III - Text analysesIn order to favour reading and writing skills as regards ‘summary’ and ‘composition’ ‘writing’, 10 texts of ADVANCED level on the modern local government and the EU will be read.Text 1 - Nationalism and the EU, an Anachronism?Text 2 - The Enlarged Europe of Unity in Diversity.Text 3 - Europe and Lifelong Learning.Text 4 - The Unity of European Culture.Text 5 - Local Government Recruitment and Selection.Text 6 - The essential importance of language.Text 7 - Work and Humankind.Text 8 - Europe and small countries.Text 9 - European Resistance and Post-War Reconstruction.Text 10 - Retributive punishment and human society.
 
-<a id="art_N5F2B9"></a>
+<a id="art_N5F3DC"></a>
 
 ### Art. 56. Loi communale
 
 Le programme détaillé du cours «Loi communale» assuré à la section du receveur communal est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de district
 
-<a id="art_N5F35F"></a>
+<a id="art_N5F482"></a>
 
 ### Art. 57. Marchés publics
 
 Le programme détaillé du cours «Marchés publics» assuré à la section du receveur communal est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
 
-<a id="art_N5F3C9"></a>
+<a id="art_N5F4EC"></a>
 
 ### Art. 58. Règlements communaux
 
 Le programme détaillé du cours «Règlements communaux» assuré à la section du receveur communal est déterminé comme suit:Titre I: IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe, impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir réglementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
 
-<a id="art_N5F487"></a>
+<a id="art_N5F5AA"></a>
 
 ### Art. 59. Gestion des ressources financières des communes (Budget et comptabilité)
 
 Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section du receveur communal est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - Le système de financement des communes: tarifs communaux, gestion des projets, planning pluriannuel, trésorerieChapitre 1er - La comptabilité de caisse et la comptabilité financière1.1 - La comptabilité de caisse1.2 - La comptabilité financièreChapitre 2 - Le nouveau plan comptable des communesChapitre 3 - Le principe de l’équilibre financierChapitre 4 - Les recettes ordinaires des communes4.1 - Les impôts communaux4.2 - Les dotations4.3 - Les subventions étatiques spécifiques4.4 - Les revenus de prestationsChapitre 5 - Les tarifs communaux5.1 - Le règlement des taxes, tarifs et prix - la base légale5.2 - La fixation de la juste contribution de l’usager5.3 - L’exemple des prix de l’épuration des eaux usées à Cologne5.4 - Les tarifs à fixerLes produits de l’exploitationLes produits domaniaux5.5 - Quelques notions financières5.6 - La différentiation des services5.7 - Les questions à poser5.8 - Un règlement-taxe type - L’évacuation et l’épuration des eaux usées5.9 - Un règlement-taxe de la ville de Luxembourg - CimetièresChapitre 6 - La gestion des projets6.1 - Les choix stratégiques - la prérogative des autorités politiques6.2 - Les projets internes6.3 - Les projets externes6.4 - Les phases du projet de construction6.5 - Le suivi du projet en cours d’exécutionChapitre 7 - Le planning pluriannuel7.1 - La structure du budget ordinaire7.2 - Le plan de réalisation des projets7.3 - Le plan des recettes extraordinaires7.4 - Le planning financier pluriannuelChapitre 8 - Le recours à des fonds étrangers8.1 - Le cadre légal8.2 - La gestion de la trésorerie8.3 - Les ouvertures de crédit8.4 - Les emprunts8.5 - Les équilibres financiersTitre III - La comptabilité communale: notions sur le budget communalChapitre 1er - L’établissement, le vote et l’arrêté1.1 - La formation1.2 - L’élaboration du projet1.3 - Le commentaire budgétaire1.4 - Le vote1.5 - L’apurement et l’arrêté définitifChapitre 2 - Les modifications budgétaires2.1 - La demande de crédit spécial ou supplémentaire2.2 - Le tableau des modifications budgétaires2.3 - Les dépenses urgentes et imprévues2.4 - Le transfert2.5 - Le report d’exercice2.6 - Le budget rectifié - définition - établissement - vote et valeurChapitre 3 - Les obligations et les responsabilités par rapport aux crédits budgétaires3.1 - Du collège des bourgmestre et échevins3.2 - Du receveur communalChapitre 4 - Les budget des syndicats intercommunaux et des établissements publics communaux4.1 - Les généralités4.2 - Le budget des établissements publics communaux4.3 - Le budget des syndicats intercommunaux4.4 - Les principes découlant de la comptabilité commercialeTitre IV - La comptabilité communale: l’exécution du budget et la reddition des comptesChapitre 1er - L’exercice financier- La distinction d’exerciceChapitre 2 - La comptabilité2.1 - Le système2.2 - La comptabilité du collège des bourgmestre et échevins2.3 - La comptabilité du receveur2.4 - La conservation des documents de comptabilitéChapitre 3 - La gestion des recettes3.1 - L’exécution des décisions du conseil communal3.2 - L’approbation des pièces justificatives3.3 - Le titre rectificatifChapitre 4 - La gestion des dépenses4.1 - L’ordonnancement4.2 - Le mandatementChapitre 5 - Le contrôle de la comptabilité et de la caisse5.1 - La mission du collège des bourgmestre et échevinsChapitre 6 - La comptabilité des établissements publics communaux et des syndicatsChapitre 7 - Les comptes communaux7.1 - Le compte d’exercice1. La définition2. L’objet du compte de gestion3. La structure des comptes4. L’inscription des recettes aux comptes5. L’inscription des dépenses aux comptes6. La concordance des comptes7. La justification des recettes et des dépenses7.2 - Le compte de fin de gestion
 
-<a id="art_N5F657"></a>
+<a id="art_N5F77A"></a>
 
 ### Art. 60. Statut des fonctionnaires communaux
 
 Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section du receveur communal est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
 
-<a id="art_N5F6AF"></a>
+<a id="art_N5F7D2"></a>
 
 ### Art. 61. Traitements des fonctionnaires communaux
 
 Le programme détaillé du cours «Traitements des fonctionnaires communaux» assuré à la section du receveur communal est déterminé comme suit:Titre I - IntroductionChapitre 1er Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2. Le nombre-indiceChapitre 3. Les valeurs du pointChapitre 4. Calculs des carrières4.1 - Traitements pendant le service provisoire4.2 - Promotions, avancements en traitement et doubles échelons4.3 - Biennales, annale et majorations d’indice4.4 - Bonification pour ancienneté des services4.5 - Cadres ouverts et cadres fermés4.6 - Allongements de grades4.7 - Grades de substitution4.8 - Suppléments de traitement4.9 - Traitement des fonctionnaires à l’âge de 55 ansChapitre 5. Titre V - Accessoires5.1 - Primes pensionnables et primes non pensionnables5.2 - Allocation de famille5.3 - Logement de service5.4 - Allocation de fin d’année5.5 - Allocation de repas5.6 - Paiement des heures supplémentairesChapitre 6. Titre VI - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
 
-<a id="art_N5F75D"></a>
+<a id="art_N5F880"></a>
 
 ### Art. 62. Contentieux, voies de recouvrement, poursuites
 
 Le programme détaillé du cours «Contentieux, voies de recouvrement, poursuites» assuré à la section du receveur communal est déterminé comme suit:IntroductionResponsabilités du receveurExplication de termes juridiquesMesures pour faciliter le recouvrementTitre I - Les moyens de poursuiteChapitre 1er - La voie de recouvrement administrative1 - La procédure2 - Les voies de recoursChapitre 2 - La voie de recouvrement judiciaire1 - La saisie-arrêt spéciale2 - L’ordonnance conditionnelle de paiement3 - La requête en matière de bail à loyer4 - La requête devant le tribunal de travail5 - L’article 160 LCTitre II - Le régime des saisies et cessions sur rémunérationChapitre 1er - La saisie-arrêtChapitre 2 - La cessionChapitre 3 - La pension alimentaireTitre III - La failliteTitre IV - La prescription
 
-<a id="art_N5F7CB"></a>
+<a id="art_N5F8EE"></a>
 
 ### Art. 63. Comptabilité commerciale et analyses financières
 
@@ -31781,157 +31796,157 @@ Le programme détaillé du cours «Comptabilité commerciale et analyses financi
 
 ##### Titre IV — Programmes détaillés des cours de la section de la carrière de l’expéditionnaire administratif.
 
-<a id="art_N5F818"></a>
+<a id="art_N5F93B"></a>
 
 ### Art. 64. Histoire de l’administration publique et notamment de l’administration luxembourgeoise
 
 Le programme détaillé du cours «Histoire de l’administration publique et notamment de l’administration luxembourgeoise» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795-1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l’Etat industrielChapitre 16 - Le Zollverein 1842 - 1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919: Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 - Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le référendum17.3 - L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranationalL’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administrativesPondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
 
-<a id="art_N5F8ED"></a>
+<a id="art_N5FA10"></a>
 
 ### Art. 65. Introduction générale au droit
 
 Le programme détaillé du cours «Introduction générale au droit» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Le droit objectifChapitre 1er - Les divisions des règles de droit et les principales branches du droitChapitre 2 - Les sources du droitTitre II - Les droits subjectifsChapitre 1er - Classification des droits subjectifsChapitre 2 - Les actes juridiques et les faits juridiquesChapitre 3 - Les sujets de droitTitre III - Le pouvoir judiciaireChapitre 1er - L’organisation judiciaire1 - Les juridictions ordinaires2 - Les juridictions particulièresChapitre 2 - La compétence des cours et tribunauxChapitre 3 - Les différents acteurs du monde judiciaire
 
-<a id="art_N5F942"></a>
+<a id="art_N5FA65"></a>
 
 ### Art. 66. Droit constitutionnel
 
 Le programme détaillé du cours «Droit constitutionnel» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Notions généralesChapitre 1er - Le territoireChapitre 2 - La populationTitre II - Les garanties constitutionnellesChapitre 1er - La rigidité de la ConstitutionChapitre 2 - Les droits des citoyensChapitre 3 - La Convention européenne des droits de l’HommeTitre III - La forme du gouvernementChapitre 1er - Une démocratie représentativeChapitre 2 - La séparation des pouvoirsChapitre 3 - L’exercice du pouvoir législatifChapitre 4 - L’exercice du pouvoir exécutifChapitre 5 - L’exercice du pouvoir judiciaireTitre IV - Le Grand-Duc et le gouvernementChapitre 1er - La situation juridique du Grand-DucChapitre 2 - Les prérogatives du Grand-DucChapitre 3 - La formation du gouvernementChapitre 4 - La responsabilité du gouvernementTitre V - La Chambre des DéputésChapitre 1er - L’organisation de la Chambre des députésChapitre 2 - Le contrôle du gouvernement par la Chambre des députésTitre VI - Le Conseil d’EtatChapitre 1er - CompositionChapitre 2 - AttributionsTitre VII - Les communesChapitre 1er - La tutelle administrative des communesChapitre 2 - L’organisation des communesChapitre 3 - Les élections communales
 
-<a id="art_N5F9DF"></a>
+<a id="art_N5FB02"></a>
 
 ### Art. 67. Droit administratif
 
 Le programme détaillé du cours «Droit administratif» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:- autorisation de bâtir- établissements classés (Loi du 10 juin 1999)- aménagement des communes (L 12 juin 1937)- nature (Loi du 11 août 1982);- responsabilité (Loi du 1er septembre 1988);
 
-<a id="art_N5FA41"></a>
+<a id="art_N5FB64"></a>
 
 ### Art. 68. Protection du citoyen face aux décisions de l’administration
 
 Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II - Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
 
-<a id="art_N5FA6E"></a>
+<a id="art_N5FB91"></a>
 
 ### Art. 69. Relations entre l’administration et le citoyen
 
 Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - IntroductionTitre II - Les relations entre l’administration et des citoyensChapitre 1er - Expériences personnelles vécues avec l’administration publiqueChapitre 2 - L’accueil dans le bureau2.1 - Heures d’ouverture2.2 - Accueil du citoyen2.3 - Délai d’attente2.4 - Code vestimentaireChapitre 3 - Le téléphone3.1 - Souveraineté et compétence3.2 - Gestion des appels internes/externes3.3 - Priorités3.4 - Situations conflictuellesChapitre 4 - Le télécopieurChapitre 5 - La correspondance traditionnelle - écrire pour être lu5.1 - Forme, modèles5.2 - Temps de réponse5.3 - Contenu5.4 - Etude d’exemplesChapitre 6 - Le courrier électronique6.1 - Ton et style - code de bonne conduite6.2 - Avantages et désavantages6.3 - Traitement, confidentialitéChapitre 7 - Les différents moyens d’information7.1 - Avis, tracts7.2 - Journaux, magazines7.3 - Réunions de quartiers7.4 - Site InternetChapitre 8 - Les principales règles de la communication (verbale et non verbale)8.1 - Effets de la mimique et de l’expression corporelle8.2 - Règles de la communication partenariale8.3 - Gestion de conflits8.4 - Self management: conduite émotionnelle, motivation personnelle, enthousiasmeChapitre 9 - Les «guichets uniques»9.1 - Situation actuelle au Luxembourg9.2 - Critères de bon fonctionnementTitre III - Le forum des idées nouvellesChapitre 1er - Du management des réclamations au management des idéesChapitre 2 - Gérer les changements moyennant des «conférences de recherche de l’avenir»Chapitre 3 - Charte «service clients»Chapitre 4 - «Benchmarking»Chapitre 5 - Sondages internes et externes (collaborateurs/clients)
 
-<a id="art_N5FB34"></a>
+<a id="art_N5FC57"></a>
 
 ### Art. 70. Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers
 
 Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Elaboration de délibérationsChapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90Chapitre 2 - Le mode de rédaction d’une délibération2.1 - Le préambule2.2 - Les motifs2.3 - Le dispositif2.4 - La partie finale2.5 - De l’approbation des délibérationsChapitre 3 - Exemples de délibérations avec explication de la procédureTitre II - Les avis au publicTitre III - Les permis de construireTitre IV - Les comptes rendusTitre V - Les documents officiels divers
 
-<a id="art_N5FB83"></a>
+<a id="art_N5FCA6"></a>
 
 ### Art. 71. Méthodes d’archivage
 
 Le programme détaillé du cours «Méthodes d’archivage» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La notion d’archives comprenant:Chapitre 1er - Leur productionChapitre 2 - Les genresChapitre 3 - Leur cycle de vieChapitre 4 - Leur arrangementTitre II - Le classementChapitre 1er - ButsChapitre 2 - Classification (cadre de classement)Chapitre 3 - Procédures de classement (manières, outils, etc.)Titre III - La conservationChapitre 1er - DélaisChapitre 2 - ButsChapitre 3 - Moyens: outils, meubles, locauxChapitre 4 - Dangers inhérents et extérieurs ; restaurations etc.Chapitre 5 - Tris et éliminationsTitre IV - L’utilisation:Chapitre 1er - L’utilisation à des fins internesChapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc.,Chapitre 3 - Règles à observer: surveillance etc.
 
-<a id="art_N5FBF3"></a>
+<a id="art_N5FD16"></a>
 
 ### Art. 72. Organisation d’un service public
 
 Le programme détaillé du cours «Organisation d’un service public» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La notion de «service public» au niveau de l’administration communaleChapitre 1er - Définition1 - Le public cible2 - Les objectifsTitre II - Les prémisses pour un bon service du citoyenChapitre 1er - L’interaction des différents intervenants1 - Les relations entre l’administration et les élus locaux2 - Les relations entre l’administration et les citoyens3 - Les relations entre services communauxTitre III - La communication et les moyens à mettre en œuvreChapitre 1er - Le rôle de la communication dans un service public1 - Situation existante2 - Les conditions à respecter pour assurer une optimisation de la communicationTitre IV - Le courrierChapitre 1er - Les différentes formes de courrier1 - L’acheminement au sein de l’administration2 - Le suiviChapitre 2 - Les dossiers1 - Leur constitution2 - Les avis3 - La prise des décisionsTitre V - Le conseil communal et le collège échevinalChapitre 1er - Fonctionnement1 - Les ordres du jour2 - L’exécution des décisions
 
-<a id="art_N5FC7E"></a>
+<a id="art_N5FDA1"></a>
 
 ### Art. 73. Nouvelles technologies de l’information
 
 Le programme détaillé du cours «Nouvelles technologies de l’information» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - son fonctionnement2 - ses servicesChapitre 2 - Le web1 - ses particularités2 - la recherche d’informations3 - la qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetChapitre 3 - La législation luxembourgeoise et sa mise en pratiqueChapitre 4 - La directive européenneTitre III - La protection des données à caractère personnelTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
 
-<a id="art_N5FCF6"></a>
+<a id="art_N5FE19"></a>
 
 ### Art. 74. Système d’enregistrement et communication de données administratives par l’informatique
 
 Le programme détaillé du cours «Système d’enregistrement et communication de données administratives par l’informatique» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Notions générales sur les systèmes d’informationTitre II - L’acquisition de l’information et le problème des erreursTitre III - Le traitement des textes et des donnéesTitre IV - Le stockage de l’information
 
-<a id="art_N5FD1E"></a>
+<a id="art_N5FE41"></a>
 
 ### Art. 75. Législation sur l’urbanisme et l’environnement naturel
 
 Le programme détaillé du cours «Législation sur l’urbanisme et l’environnement naturel» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II - L’aménagement communal (le projet de loi concernant l’aménagement communal et le développement urbain sera voté le 13 mai 2004)Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents1 - Les communes2 - Le Ministre3 - La commission d’aménagementChapitre 3 - Les instruments1 - Le plan d’aménagement général (P.A.G.)2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procéduresChapitre 5 - L’exécution du plan d’aménagementChapitre 6 - Etude de cas pratiquesTitre III: Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles)Chapitre 1er - Objectifs de la loiChapitre 2 - Mesures générales de conservation du paysageChapitre 3 - Protection de la faune et de la floreChapitre 4 - Zones protégées d’intérêt communautaireChapitre 5 - Zones protégées d’intérêt nationalChapitre 6 - Zones protégées d’importance communaleChapitre 7 - Dispositions pénales
 
-<a id="art_N5FDA5"></a>
+<a id="art_N5FEC8"></a>
 
 ### Art. 76. Etablissements dangereux et insalubres
 
 Le programme détaillé du cours «Etablissements dangereux et insalubres» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La loi relative aux établissements classésLa nomenclature des établissements classésTitre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003
 
-<a id="art_N5FDD3"></a>
+<a id="art_N5FEF6"></a>
 
 ### Art. 77. Loi électorale
 
 Le programme détaillé du cours «Loi électorale» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:IntroductionTitre I - La base de la législation électoraleTitre II - Les électeursTitre III - Les candidatsTitre IV - Le vote obligatoire au LuxembourgTitre V - Les pénalitésTitre VI - Les listes électoralesTitre VII - Les collèges électorauxTitre VIII - Le vote par correspondanceTitre IX - Le financement des campagnes électoralesTitre X - Les élections législativesTitre XI - Les élections européennesTitre XII - Les élections communales
 
-<a id="art_N5FE1F"></a>
+<a id="art_N5FF42"></a>
 
 ### Art. 78. Matières diverses
 
 Le programme détaillé du cours «Matières diverses» tient compte des évolutions récentes dans les domaines suivants:- Permis de pêche et de chasse- Certificats- Légalisation des signatures- Police des aliénés- Cabarettage- Expropriation pour cause d’utilité publique- Syndicats de communes
 
-<a id="art_N5FE53"></a>
+<a id="art_N5FF76"></a>
 
 ### Art. 79. Français
 
 Le programme détaillé du cours «Français» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er - La FrancophonieChapitre 2 - La situation du français dans le mondeChapitre 3 -La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des languesTitre II - De la justification du langage administratifChapitre 1er - Caractéristiques principales du langage administratifChapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courriel)Chapitre 3 - Exercices pratiquesChapitre 4 - Le langage administratif parlé
 
-<a id="art_N5FE9A"></a>
+<a id="art_N5FFBD"></a>
 
 ### Art. 80. Allemand
 
 Le programme détaillé du cours «Allemand» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre 1: Lexikologie - Einführung in die Benutzung von NachschlagwerkenTitre 2: Gebräuchliche AbkürzungenTitre 3: Das amtliche Schreiben3.1. Der Verwaltungsbrief3.1.1. Aufbau / Formalia3.1.2. Inhaltliche Aspekte / Formulierung3.2. Das Protokoll3.3. Der BerichtTitre 4: Stilfragen4.1. Wortschatz / Wortwahl / Ausdrucksweise4.2. Grammatische Schwerpunkte4.3. Syntax4.4. Abweichungen vom LuxemburgischenTitre 5: Die KommaregelnTitre 6: Die InterpunktionTitre 7: Die deutsche Rechtschreibung7.1. Groß- und Kleinschreibung7.2. Die s-Lautung7.3. Das Stammprinzip7.4. Das Numerale7.5. Die Zusammen- und GetrenntspracheTitre 8: Gesprochenes Deutsch8.1. Die deutsche Standardsprache8.2. Prosodie8.3. Sprachliche Umgangsformen
 
-<a id="art_N5FF16"></a>
+<a id="art_N60039"></a>
 
 ### Art. 81. Anglais
 
 Le programme détaillé du cours «Anglais» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - English Phone ConversationsChapitre 1er - Introduction including a definition of study level, namely: Intermediate.Chapitre 2 - All kinds of practical charts are essential (Phonetics, Spelling, Intonation)Chapitre 3 - Explanation of golden phone rules to reach an effective image on the phone.Chapitre 4 - Getting the right response on the phoneChapitre 5 -12 practical listening exercises, followed by debates to favour both listening and speaking skills to reach an intermediate level.Titre II - Letter writingChapitre 1er - The essential parts of the English letter.Chapitre 2 - Practical advice on letter-writing. (salutations, abbreviations,paragraphs, etc)Chapitre 3 - About 6 types of letters will be analysed. (reminder, decline, inquiry, etc. )Chapitre 4 - Simplified rules about how to write efficient reports.Titre III - Text analyses10 texts of intermediate level on the modern Civil Service and Europe.Students are trained to write summaries and easy compositions after the readings.Text 1 - General and technological changes in local government administration.Text 2 - Adult Education, Skill needs and a changing T.E.Text 3 - Post Fordism In Work and Learning.Text 4 - Education and Economy beyond the Year 2004.Text 5 - The Modern Local Government Administration.Text 6 - The History of Computers.Text 7 - The British weekly and periodical press.Text 8 - The essential interrelation between language, culture and economy.Text 9 - The Idea of English as a ‘Lingua Franca’.Text 10 - The Future Europe of Unity in Diversity.
 
-<a id="art_N5FF94"></a>
+<a id="art_N600B7"></a>
 
 ### Art. 82. Luxembourgeois
 
 Le programme détaillé du cours «Luxembourgeois» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Aperçu de l’évolution de l’orthographe luxembourgeoiseTitre II - L’orthographe luxembourgeoiseChapitre 1er - Les voyellesChapitre 2 - Les diphtonguesChapitre 3 - Les consonnesChapitre 4 - Les pronomsChapitre 5 - Les verbesChapitre 6 - Les mots étrangers dans la langue luxembourgeoiseTitre III - Rédaction d’une lettre administrative
 
-<a id="art_N5FFD3"></a>
+<a id="art_N600F6"></a>
 
 ### Art. 83. Loi communale
 
 Le programme détaillé du cours «Loi communale» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Contexte géographique et subdivisons administrativesTitre II - L’autonomie communale dans la législation luxembourgeoiseTitre III - Les organes de la communeChapitre 1er - Le conseil communal1 - Composition2 - Conditions d’éligibilité, inéligibilités, déchéance, incompatibilités3 - Entrée en fonctions du conseil communal4 - Tableau de préséance5 - Convocation6 - Ordre du jour7 - Droit d’initiative du conseiller communal8 - Réunion du conseil communal9 - Lieu de réunion10 - Publicité des séances11 - Présidence du conseil communal12 - Langue parlée au conseil communal13 - Quorum requis14 - Modes de votation et votations15 - Règlement d’ordre intérieur16 - Commissions consultatives du conseil communalChapitre 2 - Le collège des bourgmestre et échevins1 - Composition2 - Incompatibilités3 - Prestation de serment4 - Réunions5 - Lieu de réunion6 - Non-publicité des séances7 - Votations8 - Délégation9 - Durée du mandat10 - La démission11 - Attributions du collège des bourgmestre et échevins11.1 - Le collège, organe de la commune11.1 - Le collège, organe de l’EtatChapitre 3 - Le bourgmestre1 - Le bourgmestre, organe de la commune2 - Le bourgmestre, organe de l’EtatChapitre 4 - Le contrôle exercé par le conseil communal sur collège des bourgmestre et échevinsChapitre 5 - Le devoir de délicatesse des membres du corps communalTitre IV - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de la tutelleChapitre 3 - Les voies de recours contre les mesures de tutelleTitre V - Les compétences des communes et l’exercice de ces compétencesChapitre 1er - Cadre légal généralChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VI - Le rôle du commissaire de district
 
-<a id="art_N600B4"></a>
+<a id="art_N601D7"></a>
 
 ### Art. 84. Marchés publics
 
 Le programme détaillé du cours «Marchés publics» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
 
-<a id="art_N6011E"></a>
+<a id="art_N60241"></a>
 
 ### Art. 85. Règlements communaux
 
 Le programme détaillé du cours «Règlements communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe, impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir règlementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
 
-<a id="art_N601DC"></a>
+<a id="art_N602FF"></a>
 
 ### Art. 86. Etat civil et bureau de population
 
 Le programme détaillé du cours «Etat civil et bureau de population» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Bureau de population - IndigénatChapitre 1er - Indigénat1.1 - Loi modifiée du 22.2.1968 sur la nationalité luxembourgeoise et la circulaire ministérielle afférente1.2 -Loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise et la circulaire ministérielle du 16.2.1995 afférente1.3 - Les mentions marginales en matière d’indigénatChapitre 2 - Population2.1 -Loi du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers, 3. l’emploi de la main-d’œuvre étrangère2.2 -Règlement grand-ducal du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant au pays2.3 -Règlement grand-ducal du 28 mars 1972 relatif aux conditions d’entrée et de séjour de certaines catégories d’étrangers faisant l’objet de conventions internationales2.4 -Texte historique; Les dispositions légales concernant la tenue des registres de la population: une genèse laborieuse (Définitions des notions de domicile et de résidence)2.5 -Loi du 22 février 1886, art. 82.6 -Circulaire du Ministre de l’Intérieur du 15 avril 19532.7 -Mise à disposition de tiers des données personnelles des administrés détenues par les communes2.8 -La déclaration des Luxembourgeois & La déclaration des non-LuxembourgeoisChapitre 3 - Titres d’identité3.1 -Arrêté grand-ducal du 30 août 1939, portant introduction de la carte d’identité obligatoire3.2 -Règlement ministériel du 12 juin 1989 déterminant le modèle de la carte d’identité obligatoire à délivrer par les administrations communales3.3 -Loi du 14.4.1934 concernant les passeports à l’étrangerTitre II - Etat civilChapitre 1er - Des actes de l’état civil1.1 - Dispositions générales1.2 - Des actes de naissance1.3 - Des actes de mariages1.4 - Des actes de décès1.5 - De la rectification des actes de l’état civilChapitre 2 - Du mariage2.1 - Qualités2.2 - Des formalitésChapitre 3 - Des seconds mariages
 
-<a id="art_N6028C"></a>
+<a id="art_N603AF"></a>
 
 ### Art. 87. Gestion des ressources financières des communes (Budget et comptabilité)
 
 Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - La comptabilité communaleChapitre 1er - Notions sur le budget communal1.1 - Les dépenses obligatoires et non obligatoires- Les dépenses obligatoires- Les dépenses non obligatoires1.2 - L’établissement, le vote et l’arrêté- La formation- L’élaboration du projet- Le commentaire budgétaire- Le vote- L’apurement et l’arrête définitif1.3 - Les modifications budgétaires- La demande de crédit spécial ou supplémentaire- Le tableau des modifications budgétaires- Les dépenses urgentes et imprévues- Le transfert- Le report d’exercice- Le budget rectifié1.4 - Les obligations et les responsabilités par rapport aux crédits budgétaires- Du collège des bourgmestre et échevins- Du receveur communal1.5 - Le budget des syndicats intercommunaux et des établissements publics communaux- Les généralités- Le budget des établissements publics communaux- Le budget des syndicats intercommunaux- Les principes découlant de la comptabilité commercialeTitre III - L’exécution du budget et la reddition des comptesChapitre 1er - L’exécution du budget1.1 - L’exercice financier- La distinction d’exercice1.2 - La comptabilité- Le système- La comptabilité du collège des bourgmestre et échevins- La comptabilité du receveur- La conservation des documents de comptabilité1.3 - La gestion des recettes- Les deux catégories principales de recettes- L’exécution des décisions du conseil communal- Le titre rectificatif1.4 - La gestion des dépenses- L’ordonnancement- Le mandatement1.5 - Le contrôle de la comptabilité et de la caisse1.6 - La comptabilité commercialeChapitre 2 - La reddition des comptes2.1 - Le compte d’exercice- La définition- L’objet du compte de gestion- La structure des comptes- L’inscription des recettes aux comptes- L’inscription des dépenses aux comptes- La concordance des comptes
 
-<a id="art_N603C1"></a>
+<a id="art_N604E4"></a>
 
 ### Art. 88. Statut des fonctionnaires communaux
 
 Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - DéfinitionTitre II - HistoriqueTitre III - Champ d’applicationTitre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive.Titre V - PromotionsTitre VI - Devoirs du fonctionnaire et les dispositions anti-corruptionTitre VII - Droits du fonctionnaireTitre VIII - Droit d’association - représentation du personnelTitre IX - FormationTitre X - Sécurité socialeTitre XI - IncompatibilitésTitre XII - Cessation définitive des fonctionsTitre XIII - DisciplineTitre XIV - Droit de grèveTitre XV - Dossier personnelTitre XVI - Tableau d’avancement
 
-<a id="art_N60419"></a>
+<a id="art_N6053C"></a>
 
 ### Art. 89. Traitements des fonctionnaires communaux
 
@@ -31939,73 +31954,73 @@ Le programme détaillé du cours «Traitements des fonctionnaires communaux» as
 
 ##### Titre V — Programmes détaillés des cours de la section de la carrière de l’ingénieur technicien.
 
-<a id="art_N604D2"></a>
+<a id="art_N605F5"></a>
 
 ### Art. 90. Droit administratif
 
 Le programme détaillé du cours «Droit administratif» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:autorisation de bâtirétablissements classés (Loi du 10 juin 1999)aménagement des communes (L 12 juin 1937)nature (Loi du 11 août 1982);responsabilité (Loi du 1er septembre 1988);
 
-<a id="art_N60534"></a>
+<a id="art_N60657"></a>
 
 ### Art. 91. Droit civil
 
 Le programme détaillé du cours «Droit civil» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Les droits réelsChapitre 1er - Le droit de propriétéChapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitationChapitre 3 - Le droit de superficie et le droit d’emphytéoseChapitre 4 - L’indivision et la copropriétéChapitre 5 - Les servitudesTitre II - Les obligationsChapitre 1er - Les sources des obligationsChapitre 2 - Les modalités des obligationsChapitre 3 - Les modes d’extinction des obligationsTitre III - La preuveChapitre 1er - La preuve littérale (ou écrite)Chapitre 2 - La preuve testimoniale (par témoignage)Chapitre 3 - Les présomptionsChapitre 4 - L’aveuChapitre 5 - Le sermentTitre IV - Les régimes matrimoniauxChapitre 1er - Le régime primaireChapitre 2 - La communauté légale et la communauté conventionnelleChapitre 3 - La communauté universelleChapitre 4 - La séparation de biensTitre V - Les successionsChapitre 1er - La succession légale (ab intestat)Chapitre 2 - La succession testamentaireTitre VI - La responsabilité civileChapitre 1er - La responsabilité contractuelleChapitre 2 - La responsabilité délictuelle et quasi-délictuelle1 - La responsabilité de droit commun prévue aux articles 1382/1383 du code civil2 - La loi du 1er septembre 1988 relative à la responsabilité civile de l’Etat et des collectivités publiques3 - La responsabilité du fait des choses4 - La responsabilité du fait d’autrui
 
-<a id="art_N605E2"></a>
+<a id="art_N60705"></a>
 
 ### Art. 92. Relations entre l’administration et le citoyen
 
 Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - IntroductionTitre II- Les diverses relations entre l’administration et les citoyensChapitre 1er - Expériences personnelles vécues avec les administrations publiquesChapitre 2 - L’accueil du citoyen dans les bureaux2.1 - Heures d’ouverture2.2 - Nocturnes2.3 - Aider le citoyen à se retrouver dans l’administration2.4 - Queues d’attente et pauses café2.5 - Vêtements de travailChapitre 3 - Le téléphone3.1 - Répondre à un appel téléphonique3.2 - Comportement face à un citoyen excité3.3 - Gestion des appels téléphoniques à l’intérieur d’un service3.4 - Rôle du central téléphonique3.5 - A qui la priorité - A celui qui téléphone ou à celui qui vient au bureau?Chapitre 4 - Le courrier4.1 - L’accusé de réception4.2 - Le temps de réponse4.3 - La lettre traditionnelle4.4 - La télécopie4.5 - Le courrier électroniqueChapitre 5 - L’Internet5.1 - Les communes dans l’Internet5.2 - Le «E-Government»Titre III - Quelques règles de la communicationTitre IV - DiversChapitre 1er - Les guichets uniquesChapitre 2 - Les publicationsChapitre 3 - Idées nouvelles3.1 - Modèles de sondages (Bertelsmann-Projekt)3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg)3.3 - „Zukunftskonferenzen“ (USA)3.4 - „Customer Contracts“ (Braintree)3.5 - „Benchmarking” (Bertelsmann-Projekt)3.6 - „PR mit VR“ (Delft)
 
-<a id="art_N6068C"></a>
+<a id="art_N607AF"></a>
 
 ### Art. 93. Contrats ingénieurs et architectes et règlements sur les bâtisses
 
 Le programme détaillé du cours «Contrats ingénieurs et architectes et règlements sur les bâtisses» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Règlement sur les bâtissesChapitre 1er - Généralités et champ d’applicationChapitre 2 - Places à bâtirChapitre 3 - ConstructionsChapitre 4 - Aménagements extérieursChapitre 5 - Prescriptions techniquesTitre II - Plan d’aménagement général et particulier (PAG et PAP)Chapitre 1er - Généralités et champ d’applicationChapitre 2 - Partie graphique et partie écriteChapitre 3 - Prescriptions dimensionnellesChapitre 4 - Prescriptions architecturales
 
-<a id="art_N606D6"></a>
+<a id="art_N607F9"></a>
 
 ### Art. 94. Organisation d’un service technique communal
 
 Le programme détaillé du cours «Organisation d’un service technique communal» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - IntroductionTitre II - Les charges du service technique communalTitre III - Le code civil en matière de constructionTitre IV - La gestion des projetsTitre V - L’organisation d’un chantierTitre VI - Le contrat collectif des ouvriers
 
-<a id="art_N60706"></a>
+<a id="art_N60829"></a>
 
 ### Art. 95. Français
 
 Le programme détaillé du cours «Français» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er -La Francophonie.Chapitre 2 -La situation du français dans le monde.Chapitre 3 -La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des langues.Titre II - De la justification du langage administratif.Chapitre 1er -Caractéristiques principales du langage administratif.Chapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier).Chapitre 3 - Exercices pratiques.Chapitre 4 -Le langage administratif parlé.
 
-<a id="art_N6074D"></a>
+<a id="art_N60870"></a>
 
 ### Art. 96. Allemand
 
 Le programme détaillé du cours «Allemand» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre 1: Das amtliche Schreiben1.1. Der Verwaltungsbrief1.1.1. Aufbau / Formalia1.1.2. Inhaltliche Aspekte / FormulierungTitre 2: Stilfragen2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen2.2. Fremdwörter2.3. Schwerpunkte der Rechtschreibung2.4. Die InterpunktionTitre 3: Textinterpretation / Linguistische Textanalyse3.1. Analyse der Textstruktur3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ)3.3. Analyse der Textfunktion (Textuelle Grundfunktionen)3.4. Stilistische Analyse (rhetorische Mittel, Tropen)3.5. Auseinandersetzung mit den Textinhalten: Gliederung und Kurzfassung (Précis)Titre 4: Kommunikation4.1. Kommunikationsmodelle4.2. Fehlkodierung / Kodierungsfehler4.3. Die deutsche Standardsprache / Prosodie4.4. Sprachliche Umgangsformen4.5. Rhetorische Grundbegriffe / Der Kurzvortrag
 
-<a id="art_N607B9"></a>
+<a id="art_N608DC"></a>
 
 ### Art. 97. Loi communale
 
 Le programme détaillé du cours «Loi communale» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Le conseil communalChapitre 1er - La formation du conseil communal1 - Les conditions d’éligibilité2 - Les inéligibilités3 - Les incompatibilités4 - La renonciation formelle au mandat de conseiller5 - La renonciation tacite au mandat de conseiller6 - L’installation du conseil communalChapitre 2 - Le fonctionnement du conseil communal1 - La convocation, l’ordre du jour, le lieu de réunion2 - Le droit d’initiative du conseiller communal3 - La publicité des séances4 - La présidence du conseil5 - Le quorum requis6 - Le vote7 - Le règlement d’ordre intérieur8 - Les commissions consultatives du conseil9 - Les jetons de présence10 - Le délit d’immixtion / La prise illégale d’intérêts11 - La démission des conseillersChapitre 3 - Les attributions du conseil communal1 - Le conseil communal, organe de contrôle2 - Le droit d’initiative du conseiller communal3 - La publicité des séancesTitre II - Le collège des bourgmestre et échevinsChapitre 1er - La formation du collège des bourgmestre et échevins1 - La composition2 - La prestation de serment et le rang des échevins3 - Le remplacement du bourgmestre4 - Les indemnités5 - La durée du mandat6 - La démission7 - La révocationChapitre 2 - Le fonctionnement du collège des bourgmestre et échevins1 - La convocation2 - Le lieu de réunion3 - Les délibérationsChapitre 3 - Les attributions du collège des bourgmestre et échevins, organe de la commune1 - La publication et l’exécution des décisions du conseil communal2 - La direction des travaux communaux3 - La surveillance des agents communaux4 - Les actions judiciaires5 - La surveillance de la caisse et de la comptabilité6 - La gestion des revenus et les mandats de paiement7 - Les règlements d’urgenceChapitre 4 - Les attributions du collège des bourgmestre et échevins, organe de l’Etat1 - L’exécution des lois et règlements généraux2 - La garde des registres de l’état civilTitre III - Le bourgmestreChapitre 1er - Les attributions du bourgmestre, organe de la commune1 - La signature du bourgmestre2 - L’exécution des règlements communaux de policeChapitre 2 - Les attributions du bourgmestre, organe de l’Etat1 - La sécurité des personnes et des biens2 - L’état civil3 - La réquisition4 - La légalisation de signatures
 
-<a id="art_N608BE"></a>
+<a id="art_N609E1"></a>
 
 ### Art. 98. Législation sur l’aménagement des communes, sur la protection de la nature et sur l’aménagement général du territoire
 
 Le programme détaillé du cours «Législation sur l’aménagement des communes, sur la protection de la nature et sur l’aménagement général du territoire» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I: L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II: L’aménagement communal (le projet de loi concernant l’aménagement communal et le développement urbain sera voté le 13 mai 2004)Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents2.1 - Les communes2.2 - Le Ministre2.3 - La commission d’aménagementChapitre 3 - Les instruments et leur élaboration3.1 - Le plan d’aménagement général (P.A.G.)3.2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procédures d’adoption du plan d’aménagementChapitre 5 - La mise en œuvre du plan d’aménagement5.1 - La cession gratuite5.2 - Le projet d’exécution5.3 - La convention5.4 - L’autorisation de construireChapitre 6 - L’exécution du plan d’aménagement6.1 - Les zones de développement et zones à restructurer6.2 - Le remembrement urbain6.3 - L’expropriation pour utilité publique6.4 - Disponibilités foncièresChapitre 7 - Les critères d’un urbanisme de qualitéChapitre 8 - Etude de cas pratiquesTitre III: Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles)Chapitre 1er - Objectifs de la loiChapitre 2 - Mesures générales de conservation du paysageChapitre 3 - Protection de la faune et de la floreChapitre 4 - Zones protégées d’intérêt communautaireChapitre 5 - Zones protégées d’intérêt nationalChapitre 6 - Zones protégées d’importance communaleChapitre 7 - Dispositions pénalesChapitre 8 - Etudes de cas pratiques
 
-<a id="art_N60971"></a>
+<a id="art_N60A94"></a>
 
 ### Art. 99. Législation sur les marchés publics
 
 Le programme détaillé du cours «Législation sur les marchés publics» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
 
-<a id="art_N609DB"></a>
+<a id="art_N60AFE"></a>
 
 ### Art. 100. Législation sur les établissements dangereux et insalubres
 
 Le programme détaillé du cours «Législation sur les établissements dangereux et insalubres» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - La loi relative aux établissements classésLa nomenclature des établissements classésTitre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003Règlement grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de sécurité ;Règlement ministériel du 6 mai 1996 concernant l’intervention d’organismes de contrôle dans le cadre des compétences et attributions de l’Inspection du Travail et des Mines
 
-<a id="art_N60A1B"></a>
+<a id="art_N60B3E"></a>
 
 ### Art. 101. Statut des fonctionnaires communaux
 
@@ -32013,31 +32028,31 @@ Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré
 
 ##### Titre VI — Programmes détaillés des cours de la section des carrières supérieures scientifiques.
 
-<a id="art_N60A7E"></a>
+<a id="art_N60BA1"></a>
 
 ### Art. 102. La loi communale
 
 Le programme détaillé du cours «La loi communale» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de districtTitre XI - La collaboration des communes entre elles et avec d’autres partenaires
 
-<a id="art_N60B28"></a>
+<a id="art_N60C4B"></a>
 
 ### Art. 103. Règlements communaux
 
 Le programme détaillé du cours «Règlements communaux» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I: IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe, impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir réglementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III: Etude de cas
 
-<a id="art_N60BE6"></a>
+<a id="art_N60D09"></a>
 
 ### Art. 104. Statut des fonctionnaires communaux
 
 Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
 
-<a id="art_N60C3E"></a>
+<a id="art_N60D61"></a>
 
 ### Art. 105. Marchés publics
 
 Le programme détaillé du cours «Marchés publics» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
 
-<a id="art_N60CA8"></a>
+<a id="art_N60DCB"></a>
 
 ### Art. 106. Législation sur l’aménagement des communes
 
@@ -32045,43 +32060,43 @@ Le programme détaillé du cours «Législation sur l’aménagement des commune
 
 ##### Titre VII — Programmes détaillés des cours de la section des carrières moyennes techniques, paramédicales et socio-éducatives.
 
-<a id="art_N60D4A"></a>
+<a id="art_N60E6D"></a>
 
 ### Art. 107. Statut des fonctionnaires communaux
 
 Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - DéfinitionTitre II - HistoriqueTitre III - Champ d’applicationTitre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive.Titre V - PromotionsTitre VI - Devoirs du fonctionnaire et les dispositions anti-corruptionTitre VII - Droits du fonctionnaireTitre VIII - Droit d’association - représentation du personnelTitre IX - FormationTitre X - Sécurité socialeTitre XI - IncompatibilitésTitre XII - Cessation définitive des fonctionsTitre XIII - DisciplineTitre XIV - Droit de grèveTitre XV - Dossier personnelTitre XVI - Tableau d’avancement
 
-<a id="art_N60DA2"></a>
+<a id="art_N60EC5"></a>
 
 ### Art. 108. Traitements et pensions des fonctionnaires communaux
 
 Le programme détaillé du cours «Traitements et pensions des fonctionnaires communaux» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionChapitre 1er - Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er - Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2 - Le nombre-indiceChapitre 3 - Les valeurs du pointChapitre 4 - Calculs des carrièresChapitre 5 - AccessoiresChapitre 6 - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
 
-<a id="art_N60E14"></a>
+<a id="art_N60F37"></a>
 
 ### Art. 109. Droit administratif
 
 Le programme détaillé du cours «Droit administratif» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionChapitre 1er - L’Etat1 - Les éléments constitutifs1.1 - Le territoire1.2 - La population1.3 - La puissance politique2 - La vie d’un Etat2.1 - La formation2.2 - La continuité2.3 - La disparition3 - Les différentes formes de l’Etat3.1 - L’Etat unitaire3.2 - L’Etat fédéralChapitre 2 - Les parties politiques1 - Définition2 - Le statut juridique3 - Le rôle des partis politiques4 - La structure des partis politiquesChapitre 3 - Les groupes de pression1 - Définition1.1 - Les différentes catégories de groupes de pression1.2 - Les moyens d’actionTitre II - Les institutions luxembourgeoisesChapitre 1er - La constitution1 - Généralités1.1 - Contenu1.2 - Révision1.3 - Le principe représentatif1.4 - La supériorité de la loi constitutionnelleChapitre 2 - Le Grand-Duc1 - La transmission des pouvoirs grand-ducaux et la situation juridique du Grand-Duc1.1 - La transmission des pouvoirs grand-ducaux1.2 - La situation juridique du Grand-Duc2 - Les prérogatives du Grand-Duc2.1 - L’exercice du pouvoir exécutif2.2 - Les droits régaliens2.3 - Les rapports du Grand-Duc avec la Chambre2.4 - La participation du Grand-Duc au pouvoir législatifChapitre 3 - Le Gouvernement1 - L’organisation du gouvernement2 - Le fonctionnement de l’appareil gouvernemental2.1 - L’action collective du gouvernement2.2 - Le président du gouvernement2.3 - L’action individuelle des ministres3 - La responsabilité des ministresChapitre 4 - Le conseil d’Etat1. - Les caractéristiques du suffrage1.1 - Généralités1.2 - Les conditions de l’électorat pour les élections législatives1.3 - Les incompatibilités du mandat de député2 - Les attributions de la Chambre2.1 - La procédure législative2.2 - Les moyens d’action de la chambre sur le gouvernement
 
-<a id="art_N60F06"></a>
+<a id="art_N61029"></a>
 
 ### Art. 110. Les relations entre l’administration et le citoyen
 
 Le programme détaillé du cours «Les relations entre l’administration et le citoyen» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionTitre II - Explications et réflexions relatives aux termes utilisés dans le libellé.Chapitre 1er - Relation, administration, citoyen, administré, clientChapitre 2 - Différentes typologies de relations:Les relations directesLes relations indirectesLes relations volontairesLes relations coercitivesTitre III - Le modèle démocratique et les trois pouvoirs qui le caractérisent.Chapitre 1er - Le pouvoir exécutifChapitre 2 - Le pouvoir législatifChapitre 3 - Le pouvoir judiciaireTitre IV - Définition de l’administration au sens large.Titre V - Le positionnement de l’administration par rapport aux trois pouvoirs.Titre VI - Les différents acteurs dans le modèle démocratique.Chapitre 1er - Citoyens, agents étatiques, agents communauxTitre VII - Exemples de réglementation relatifs aux relations administration-citoyenChapitre 1er - La procédure administrative non-contentieuseChapitre 2 - La procédure administrative contentieuseTitre VIII - Les différents vecteurs de communicationChapitre 1er - Les vecteurs traditionnelsChapitre 2 - Les vecteurs liés aux nouvelles technologiesTitre IX - L’évolution des relations administration-citoyenChapitre 1er - Le processus évolutif de la population bénéficiaire de servicesChapitre 2 - La réforme administrativeChapitre 3 - Réflexions quant aux mouvements de privatisation, de libéralisation, de décentralisation et quant au rôle à assumer par un Etat moderne.Chapitre 4 - L’importance des nouvelles technologies et les débats y reliés.
 
-<a id="art_N60F9C"></a>
+<a id="art_N610BF"></a>
 
 ### Art. 111. La procédure administrative non-contentieuse
 
 Le programme détaillé du cours «La procédure administrative non-contentieuse» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseLe règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communesTitre I - Objectifs de la législationTitre II - Champ d’applicationTitre III - Collaboration procédurale de l’AdministrationTitre IV - Protection des tiers - Publicité de la procédureTitre V - Procédure consultative préalableTitre VI - Assistance du conseilTitre VII - Communication du dossierTitre VIII - MotivationTitre IX - Notification de la décisionTitre X - Indication des voies de recoursTitre XI - Caractère définitif de la décision; le retrait des décisions administrativesTitre XII - Les révocations et les modifications d’office pour l’avenir des décisions administratives
 
-<a id="art_N60FF9"></a>
+<a id="art_N6111C"></a>
 
 ### Art. 112. Accueil et encadrement du public
 
 Le programme détaillé du cours «Accueil et encadrement du public» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Définition et historiqueChapitre 1er - Les premiers éléments de la communicationChapitre 2 - Les notions de code et de registre de langues2.1 - La notion de code2.1 - Le codage et décodage2.3 - La communication verbaleChapitre 3 - Interprétation et utilisation de la voix et des paralangages3.1 - La voix3.2 - Les paralangagesChapitre 4 - L’importance du feed-backChapitre 5 - Les freins à la communicationChapitre 6 - La prise de notes6.1 - La prise de notes6.2 - L’écoute6.3 - La reformulationTitre II - L’accueilChapitre 1er - Définition1.1 - Tenir compte des «bulles»1.2 - S’informer pour mieux informer1.3 - S’identifier au téléphoneChapitre 2 - L’accueil - nécessité pour l’accueilli et l’institution2.1 - L’accueilli2.2 - L’accueillantChapitre 3 - Comment réussir l’accueil3.1 - Les savoir-faire3.2 - Le comportementChapitre 4 - L’attitude au téléphone
 
-<a id="art_N61083"></a>
+<a id="art_N611A6"></a>
 
 ### Art. 113. Budget et comptabilité des communes
 
@@ -32089,43 +32104,43 @@ Le programme détaillé du cours «Budget et comptabilité des communes» assur�
 
 ##### Titre VIII — Programmes détaillés des cours de la section des carrières inférieures techniques, paramédicales et socio-éducatives.
 
-<a id="art_N610E0"></a>
+<a id="art_N61203"></a>
 
 ### Art. 114. Statut des fonctionnaires communaux
 
 Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - DéfinitionTitre II - HistoriqueTitre III - Champ d’applicationTitre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive.Titre V - PromotionsTitre VI - Devoirs du fonctionnaire et les dispositions anti-corruptionTitre VII - Droits du fonctionnaireTitre VIII - Droit d’association - représentation du personnelTitre IX - FormationTitre X - Sécurité socialeTitre XI - IncompatibilitésTitre XII - Cessation définitive des fonctionsTitre XIII - DisciplineTitre XIV - Droit de grèveTitre XV - Dossier personnelTitre XVI - Tableau d’avancement
 
-<a id="art_N61138"></a>
+<a id="art_N6125B"></a>
 
 ### Art. 115. Traitements et pensions des fonctionnaires communaux
 
 Le programme détaillé du cours «Traitements et pensions des fonctionnaires communaux» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionChapitre 1er - Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er - Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2 - Le nombre-indiceChapitre 3 - Les valeurs du pointChapitre 4 - Calculs des carrièresChapitre 5 - AccessoiresChapitre 6 - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
 
-<a id="art_N611AA"></a>
+<a id="art_N612CD"></a>
 
 ### Art. 116. Organisation des institutions de l’Etat et des communes
 
 Le programme détaillé du cours «Organisation des institutions de l’Etat et des communes» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Le droit publicTitre II - Les éléments constitutifs de l’EtatTitre III - La ConstitutionTitre IV - Les actes législatifsTitre V - Le Grand-DucTitre VI - Le GouvernementTitre VII - La Chambre des DéputésTitre VIII - Le Conseil d’EtatTitre IX - Les Cours et TribunauxTitre X - Les CommunesTitre XI - Les Chambres professionnellesTitre XII - L’Administration publiqueTitre XIII - La législation sociale au Luxembourg
 
-<a id="art_N611F6"></a>
+<a id="art_N61319"></a>
 
 ### Art. 117. Les relations entre l’administration et les citoyens
 
 Le programme détaillé du cours «Les relations entre l’administration et les citoyens» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionTitre II - Explications et réflexions relatives aux termes utilisés dans le libellé.Chapitre 1er - Relation, administration, citoyen, administré, clientChapitre 2 - Différentes typologies de relations:Les relations directesLes relations indirectesLes relations volontairesLes relations coercitivesTitre III - Le modèle démocratique et les trois pouvoirs qui le caractérisent.Chapitre 1er - Le pouvoir exécutifChapitre 2 - Le pouvoir législatifChapitre 3 - Le pouvoir judiciaireTitre IV - Définition de l’administration au sens large.Titre V - Le positionnement de l’administration par rapport aux trois pouvoirs.Titre VI - Les différents acteurs dans le modèle démocratique.Chapitre 1er - Citoyens, agents étatiques, agents communauxTitre VII - Exemples de réglementation relatifs aux relations administration-citoyenChapitre 1er - La procédure administrative non-contentieuseChapitre 2 - La procédure administrative contentieuseTitre VIII - Les différents vecteurs de communicationChapitre 1er - Les vecteurs traditionnelsChapitre 2 - Les vecteurs liés aux nouvelles technologiesTitre IX - L’évolution des relations administration-citoyenChapitre 1er - Le processus évolutif de la population bénéficiaire de servicesChapitre 2 - La réforme administrativeChapitre 3 - Réflexions quant aux mouvements de privatisation, de libéralisation, de décentralisation et quant au rôle à assumer par un Etat moderne.Chapitre 4 - L’importance des nouvelles technologies et les débats y reliés.
 
-<a id="art_N6128C"></a>
+<a id="art_N613AF"></a>
 
 ### Art. 118. Accueil et encadrement du public
 
 Le programme détaillé du cours «Accueil et encadrement du public» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Définition et historiqueChapitre 1er - Les premiers éléments de la communicationChapitre 2 - Les notions de code et de registre de langues2.1 - La notion de code2.1 - Le codage et décodage2.3 - La communication verbaleChapitre 3 - Interprétation et utilisation de la voix et des paralangages3.1 - La voix3.2 - Les paralangagesChapitre 4 - L’importance du feed-backChapitre 5 - Les freins à la communicationChapitre 6 - La prise de notes6.1 - La prise de notes6.2 - L’écoute6.3 - La reformulationTitre II - L’accueilChapitre 1er - Définition1.1 - Tenir compte des «bulles»1.2 - S’informer pour mieux informer1.3 - S’identifier au téléphoneChapitre 2 - L’accueil - nécessité pour l’accueilli et l’institution2.1 - L’accueilli2.2 - L’accueillantChapitre 3 - Comment réussir l’accueil3.1 - Les savoir-faire3.2 - Le comportementChapitre 4 - L’attitude au téléphone
 
-<a id="art_N61316"></a>
+<a id="art_N61439"></a>
 
 ### Art. 119. Sécurité dans les administrations et services de l’Etat et des communes
 
 Le programme détaillé du cours «Sécurité dans les administrations et services de l’Etat et des communes» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écolesTitre II - Règlement grand-ducal du 6 octobre 1995 portant- adaptation à l’ensemble de la fonction publique de l’Etat et des communes du règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écoles;- continuation de la transposition dans le droit luxembourgeois pour le compte du secteur public des directives communautaires afférentes à la sécurité et à la santé au travail
 
-<a id="art_N6134E"></a>
+<a id="art_N61471"></a>
 
 ### Art. 120.
 
@@ -32133,7 +32148,7 @@ Le présent règlement ministériel est publié au Mémorial.
 
 #### Règlement grand-ducal du 30 septembre 2015 déterminant la mise en oeuvre du plan d'insertion professionnelle des fonctionnaires stagiaires.
 
-<a id="art_N61373"></a>
+<a id="art_N61496"></a>
 
 ### Art. 1er. Patron de stage
 
@@ -32151,7 +32166,7 @@ Le patron de stage est choisi parmi les fonctionnaires appartenant à la même c
 
 **(3)** L’Institut national d’administration publique organise de façon régulière des formations continues à l’attention des patrons de stage afin de les préparer et de les former aux fonctions d’accompagnement et d’encadrement des fonctionnaires stagiaires.
 
-<a id="art_N613C9"></a>
+<a id="art_N614EC"></a>
 
 ### Art. 2. Livret d’accueil
 
@@ -32167,7 +32182,7 @@ Le livret d’accueil comprend les informations suivantes:
 6. une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, s’il y a lieu, sur le système des permanences à assurer;
 7. une note concernant l’organisation de la formation pendant le stage et de l’examen de fin de stage dans l’administration.
 
-<a id="art_N613FE"></a>
+<a id="art_N61521"></a>
 
 ### Art. 3. Carnet de stage
 
@@ -32179,13 +32194,13 @@ Sont à insérer dans le carnet de stage toutes les pièces en relation avec la 
 
 A la fin du stage, le patron de stage transmet le carnet de stage au service du personnel de l’administration qui l’insère dans le dossier personnel du fonctionnaire stagiaire.
 
-<a id="art_N61438"></a>
+<a id="art_N6155B"></a>
 
 ### Art. 4.
 
 Le présent règlement entre en vigueur le 1er octobre 2015.
 
-<a id="art_N6144B"></a>
+<a id="art_N6156E"></a>
 
 ### Art. 5.
 
@@ -32197,7 +32212,7 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 ##### **Section 1ère ** — **Formations organisées dans le cadre de la formation générale**
 
-<a id="art_N61494"></a>
+<a id="art_N615B7"></a>
 
 ### Art. 1er.
 
@@ -32206,7 +32221,7 @@ Dans le cadre de la formation générale, les fonctionnaires stagiaires suivent 
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les stagiaires, conformément à l’article 3, et
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque stagiaire par le chef d’administration ou son délégué conformément à l’article 4.
 
-<a id="art_N614D5"></a>
+<a id="art_N615F8"></a>
 
 ### Art. 2.
 
@@ -32217,7 +32232,7 @@ La formation générale peut être organisée sous forme de :
 3. études personnelles ; ou
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N61519"></a>
+<a id="art_N6163C"></a>
 
 ### Art. 3.
 
@@ -32250,7 +32265,7 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 **(4)** Lorsque le stagiaire est absent lors d’une ou de plusieurs demi-journées de cours présentiel, il est tenu de transmettre à l’Institut, au plus tard le jour ouvrable suivant le début de son absence, un certificat indiquant la raison dûment justifiée de son absence. Le chargé de direction de l’Institut, ci-après le « chargé de direction », en informe le chef d’administration dont relève le stagiaire qui doit lui permettre une nouvelle inscription à ce cours présentiel lorsqu’il le souhaite. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, le stagiaire est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N615ED"></a>
+<a id="art_N61710"></a>
 
 ### Art. 4.
 
@@ -32281,7 +32296,7 @@ Une telle demande d’assimilation doit mentionner :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que le stagiaire a effectivement participé à la formation en question.
 
-<a id="art_N616B3"></a>
+<a id="art_N617D6"></a>
 
 ### Art. 5.
 
@@ -32289,19 +32304,19 @@ Une journée de formation, quelle que soit sa forme au sens de l’article 2, co
 
 Une demi-journée de formation, quelle que soit sa forme au sens de l’article 2, compte pour 3 heures de formation et est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N616EE"></a>
+<a id="art_N61811"></a>
 
 ### Art. 6.
 
 Le temps de formation générale est considéré comme période d’activité de service.
 
-<a id="art_N61720"></a>
+<a id="art_N61843"></a>
 
 ### Art. 7.
 
 Sur demande du chef d’administration, une dispense de la participation à une ou plusieurs formations du tronc commun ou d’un certain nombre d’heures de formation au choix peut être accordée au stagiaire par le chargé de direction pour des raisons exceptionnelles dûment motivées.
 
-<a id="art_N61752"></a>
+<a id="art_N61875"></a>
 
 ### Art. 8.
 
@@ -32311,7 +32326,7 @@ Sur demande du chef d’administration, une dispense de la participation à une 
 
 ##### **Section 2 ** — **Examen de fin de stage**
 
-<a id="art_N617AB"></a>
+<a id="art_N618CE"></a>
 
 ### Art. 9.
 
@@ -32319,7 +32334,7 @@ L’examen de fin de stage des stagiaires comprend un examen de fin de formation
 
 ##### **Section 3 ** — **Examen de fin de formation générale**
 
-<a id="art_N617ED"></a>
+<a id="art_N61910"></a>
 
 ### Art. 10.
 
@@ -32335,13 +32350,13 @@ Dans ce cas, la décision de dispenser ce stagiaire aussi de la participation au
 
 **(4)** Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation générale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.
 
-<a id="art_N61880"></a>
+<a id="art_N619A3"></a>
 
 ### Art. 11.
 
 Lors des différentes épreuves de l’examen de fin de formation générale, il peut être procédé à un contrôle d’identité des stagiaires.
 
-<a id="art_N618B2"></a>
+<a id="art_N619D5"></a>
 
 ### Art. 12.
 
@@ -32349,7 +32364,7 @@ Au cours des épreuves de l’examen de fin de formation générale, toute commu
 
 Le stagiaire qui contrevient à l’une de ces interdictions au cours d’une épreuve de l’examen de fin de formation générale a d’office subi un échec à l’examen de fin de formation générale.
 
-<a id="art_N618ED"></a>
+<a id="art_N61A10"></a>
 
 ### Art. 13.
 
@@ -32367,7 +32382,7 @@ Le stagiaire qui contrevient à l’une de ces interdictions au cours d’une é
 
 **(7)** Lorsque le stagiaire est absent lors d’une épreuve de l’examen de fin de formation générale, il est tenu de transmettre à l’Institut, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le chargé de direction en informe le chef d’administration dont relève le stagiaire qui l’inscrit à une nouvelle épreuve de l’examen de fin de formation générale de la formation du tronc commun concernée. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le stagiaire obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation générale.
 
-<a id="art_N61986"></a>
+<a id="art_N61AA9"></a>
 
 ### Art. 14.
 
@@ -32399,7 +32414,7 @@ Si l’observateur ne présente pas de remarque particulière, le procès-verbal
 
 L’observateur peut également informer directement le ministre par une note écrite s’il a constaté un fait grave pouvant mettre en cause la validité de l’examen.
 
-<a id="art_N61A4E"></a>
+<a id="art_N61B71"></a>
 
 ### Art. 15.
 
@@ -32409,7 +32424,7 @@ L’observateur peut également informer directement le ministre par une note é
 
 Le secret des questions sélectionnées par le président est à observer jusqu’au début de l’épreuve de l’examen de fin de formation générale concernée. Toute violation de ce secret équivaut à une violation de l’article 11 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
-<a id="art_N61AA5"></a>
+<a id="art_N61BC8"></a>
 
 ### Art. 16.
 
@@ -32439,13 +32454,13 @@ Ce procès-verbal est signé par au moins trois membres de la commission d’exa
 
 ##### **Section 4 ** — **Examen de fin de formation spéciale**
 
-<a id="art_N61B75"></a>
+<a id="art_N61C98"></a>
 
 ### Art. 17.
 
 La partie de la formation spéciale pendant le stage est sanctionnée par un examen de fin de formation spéciale organisé par les administrations et établissements publics de l’État dont relève le stagiaire.
 
-<a id="art_N61BA7"></a>
+<a id="art_N61CCA"></a>
 
 ### Art. 18.
 
@@ -32458,7 +32473,7 @@ La partie de la formation spéciale pendant le stage est sanctionnée par un exa
 
 **(3)** L’admissibilité à l’examen de fin de formation spéciale peut être prononcée, même si le stagiaire n’a pas encore passé l’examen de fin de formation générale à l’Institut.
 
-<a id="art_N61C1D"></a>
+<a id="art_N61D40"></a>
 
 ### Art. 19.
 
@@ -32478,7 +32493,7 @@ La partie de la formation spéciale pendant le stage est sanctionnée par un exa
 
 **(8)** Lorsque le stagiaire est absent lors d’une épreuve de l’examen de fin de formation spéciale, il est tenu de transmettre au chef d’administration dont relève le stagiaire, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le chef d’administration l’inscrit à une nouvelle épreuve de l’examen de fin de formation spéciale de la formation concernée. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le stagiaire obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation spéciale.
 
-<a id="art_N61CC6"></a>
+<a id="art_N61DE9"></a>
 
 ### Art. 20.
 
@@ -32504,7 +32519,7 @@ Ce procès-verbal est signé par au moins la moitié des membres de la commissio
 
 ##### **Section 5 ** — **Mise en compte des résultats des deux parties de l’examen de fin de stage**
 
-<a id="art_N61D7B"></a>
+<a id="art_N61E9E"></a>
 
 ### Art. 21.
 
@@ -32520,7 +32535,7 @@ Pour tout calcul, les fractions de points sont arrondies en faveur du stagiaire.
 
 ##### ****
 
-<a id="art_N61E18"></a>
+<a id="art_N61F3B"></a>
 
 ### Art. 22.
 
@@ -32529,7 +32544,7 @@ Dans le cadre de la formation de début de carrière , les employés suivent :
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 24, et
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le chef d’administration ou son délégué conformément à l’article 25.
 
-<a id="art_N61E9A"></a>
+<a id="art_N61FBD"></a>
 
 ### Art. 23.
 
@@ -32540,7 +32555,7 @@ La formation de début de carrière peut être organisée sous forme de :
 3. études personnelles ; ou
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N61EDE"></a>
+<a id="art_N62001"></a>
 
 ### Art. 24.
 
@@ -32573,7 +32588,7 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 **(4)** Lorsque l’employé est absent lors d’une ou de plusieurs demi-journées de cours présentiel, il est tenu de transmettre à l’Institut, au plus tard le jour ouvrable suivant le début de son absence, un certificat indiquant la raison dûment justifiée de son absence. Le chargé de direction en informe le chef d’administration dont relève l’employé qui doit lui permettre une nouvelle inscription à ce cours présentiel lorsqu’il le souhaite. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, l’employé est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N61FB2"></a>
+<a id="art_N620D5"></a>
 
 ### Art. 25.
 
@@ -32604,7 +32619,7 @@ Une telle demande d’assimilation doit mentionner :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que l’employé a effectivement participé à la formation en question.
 
-<a id="art_N62078"></a>
+<a id="art_N6219B"></a>
 
 ### Art. 26.
 
@@ -32612,80 +32627,80 @@ Une journée de formation, quelle que soit sa forme au sens de l’article 23, c
 
 Une demi-journée de formation, quelle que soit sa forme au sens de l’article 23, compte pour 3 heures de formation et est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N620B3"></a>
+<a id="art_N621D6"></a>
 
 ### Art. 27.
 
 Le temps de formation de début de carrière est considéré comme période d’activité de service.
 
-<a id="art_N620E5"></a>
+<a id="art_N62208"></a>
 
 ### Art. 28.
 
 Sur demande du chef d’administration, une dispense de la participation à une ou plusieurs formations du tronc commun ou d’un certain nombre d’heures de formation au choix peut être accordée à l’employé par le chargé de direction pour des raisons exceptionnelles dûment motivées.
 
-<a id="art_N62117"></a>
+<a id="art_N6223A"></a>
 
-### art_N62117
-
-
-
-<a id="art_N621A3"></a>
-
-### art_N621A3
+### art_N6223A
 
 
 
-<a id="art_N62233"></a>
+<a id="art_N622C6"></a>
 
-### art_N62233
-
-
-
-<a id="art_N62277"></a>
-
-### art_N62277
+### art_N622C6
 
 
 
-<a id="art_N622EA"></a>
+<a id="art_N62356"></a>
 
-### art_N622EA
-
-
-
-<a id="art_N623F7"></a>
-
-### art_N623F7
+### art_N62356
 
 
 
-<a id="art_N6246C"></a>
+<a id="art_N6239A"></a>
 
-### art_N6246C
+### art_N6239A
+
+
+
+<a id="art_N6240D"></a>
+
+### art_N6240D
+
+
+
+<a id="art_N6251A"></a>
+
+### art_N6251A
+
+
+
+<a id="art_N6258F"></a>
+
+### art_N6258F
 
 1. 
 2. 
 3. 
 4. 
 
-<a id="art_N62589"></a>
+<a id="art_N626AC"></a>
 
-### art_N62589
+### art_N626AC
 
 
 
 ##### ****
 
-<a id="art_N62646"></a>
+<a id="art_N62769"></a>
 
-### art_N62646
+### art_N62769
 
 
 
 ##### **Chapitre 3 ** — **Relation entre l’Institut et les chargés de cours**
 
-<a id="art_N626E5"></a>
+<a id="art_N62808"></a>
 
 ### Art. 38.
 
@@ -32704,7 +32719,7 @@ Le cas échéant, le chargé de direction peut proposer au ministre la révocati
 
 ##### **Chapitre 4 ** — **Dispositions modificatives, abrogatoire et transitoires**
 
-<a id="art_N62765"></a>
+<a id="art_N62888"></a>
 
 ### Art. 39.
 
@@ -32713,7 +32728,7 @@ Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure d
 1. du concours d’admission au stage, de l’examen de fin de stage de l’examen de fin de formation spéciale pendant le stage
 2. er de l’examen de fin de stage de l’examen de fin de formation spéciale pendant le stage
 
-<a id="art_N627B7"></a>
+<a id="art_N628DA"></a>
 
 ### Art. 40.
 
@@ -32723,13 +32738,13 @@ Le règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Instit
 2. Le ministre ayant dans ses attributions la Fonction publique nomme les membres de la commission. Le chargé de direction de l’Institut préside la commission. La commission désigne son vice-président. Le président désigne le secrétaire de la commission et le cas échéant un secrétaire adjoint. » ; et
 3. le Chapitre I. du Titre II. est abrogé.
 
-<a id="art_N62825"></a>
+<a id="art_N62948"></a>
 
 ### Art. 41.
 
 Le règlement grand-ducal modifié du 27 octobre 2000 déterminant l’organisation à l’Institut national d’administration publique de la division de la formation pendant le stage du personnel de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière pour les employés de l’État est abrogé.
 
-<a id="art_N6285C"></a>
+<a id="art_N6297F"></a>
 
 ### Art. 42.
 
@@ -32742,13 +32757,13 @@ Pour les stagiaires ou employés qui ont commencé leur formation générale sou
 
 ##### **Chapitre 5 ** — **Dispositions finales**
 
-<a id="art_N628D5"></a>
+<a id="art_N629F8"></a>
 
 ### Art. 43.
 
 La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État ».
 
-<a id="art_N6290C"></a>
+<a id="art_N62A2F"></a>
 
 ### Art. 44.
 
@@ -32766,19 +32781,19 @@ Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Règlement ministériel du 21 juin 2019 fixant les programmes de la formation générale à l’INAP.
 
-<a id="art_N62F65"></a>
+<a id="art_N63088"></a>
 
 ### Art. 1er.
 
 Les formations du tronc commun au sens du règlement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État, sont organisées pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que pour les employés de l’État dans le cadre de leur formation de début de carrière conformément à l’annexe A du présent règlement.
 
-<a id="art_N62F7D"></a>
+<a id="art_N630A0"></a>
 
 ### Art. 2.
 
 Les formations au choix au sens du règlement grand-ducal précité du 31 octobre 2018 sont organisées pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que pour les employés de l’État dans le cadre de leur formation de début de carrière conformément à l’annexe B du présent règlement.
 
-<a id="art_N62F92"></a>
+<a id="art_N630B5"></a>
 
 ### Art. 3.
 
@@ -32800,7 +32815,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 ##### *Section 1re* — *Formations organisées dans le cadre de la formation générale*
 
-<a id="art_N666A7"></a>
+<a id="art_N667CA"></a>
 
 ### Art. 1er.
 
@@ -32809,7 +32824,7 @@ Dans le cadre de la formation générale, les fonctionnaires en service provisoi
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les fonctionnaires en service provisoire, conformément à l’article 3 ;
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque fonctionnaire en service provisoire par le collège des bourgmestre et échevins conformément à l’article 4.
 
-<a id="art_N666E7"></a>
+<a id="art_N6680A"></a>
 
 ### Art. 2.
 
@@ -32820,7 +32835,7 @@ La formation générale peut être organisée sous forme de :
 3. études personnelles ;
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N6672A"></a>
+<a id="art_N6684D"></a>
 
 ### Art. 3.
 
@@ -32848,7 +32863,7 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, le fonctionnaire en service provisoire est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N66836"></a>
+<a id="art_N66959"></a>
 
 ### Art. 4.
 
@@ -32889,7 +32904,7 @@ La demande mentionne :
 
 La demande doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que le fonctionnaire en service provisoire a effectivement participé à la formation en question.
 
-<a id="art_N66918"></a>
+<a id="art_N66A3B"></a>
 
 ### Art. 5.
 
@@ -32897,19 +32912,19 @@ Une journée de formation de 6 heures est considérée comme une journée d’ac
 
 Une demi-journée de formation de 3 heures de formation est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N66953"></a>
+<a id="art_N66A76"></a>
 
 ### Art. 6.
 
 Le temps de formation générale est considéré comme période d’activité de service.
 
-<a id="art_N66985"></a>
+<a id="art_N66AA8"></a>
 
 ### Art. 7.
 
 Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune, une dispense de la participation à une ou plusieurs formations du tronc commun ou d’un certain nombre d’heures de formation au choix peut être accordée au fonctionnaire en service provisoire par le chargé de direction pour des raisons exceptionnelles dûment motivées.
 
-<a id="art_N669B7"></a>
+<a id="art_N66ADA"></a>
 
 ### Art. 8.
 
@@ -32919,7 +32934,7 @@ Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de c
 
 ##### *Section 2* — *Examen d’admission définitive*
 
-<a id="art_N66A12"></a>
+<a id="art_N66B35"></a>
 
 ### Art. 9.
 
@@ -32927,7 +32942,7 @@ L’examen d’admission définitive des fonctionnaires en service provisoire co
 
 ##### *Section 3* — *Examen de fin de formation générale*
 
-<a id="art_N66A56"></a>
+<a id="art_N66B79"></a>
 
 ### Art. 10.
 
@@ -32943,13 +32958,13 @@ Dans ce cas, une dispense de participation de ce fonctionnaire en service provis
 
 **(4)** Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation générale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.
 
-<a id="art_N66AD1"></a>
+<a id="art_N66BF4"></a>
 
 ### Art. 11.
 
 Lors des différentes épreuves de l’examen de fin de formation générale, il peut être procédé à un contrôle d’identité des fonctionnaires en service provisoire.
 
-<a id="art_N66B03"></a>
+<a id="art_N66C26"></a>
 
 ### Art. 12.
 
@@ -32957,7 +32972,7 @@ Au cours des épreuves de l’examen de fin de formation générale, toute commu
 
 Le fonctionnaire en service provisoire qui contrevient à l’une de ces interdictions au cours d’une épreuve de l’examen de fin de formation générale est considéré comme ayant échoué à l’examen de fin de formation générale.
 
-<a id="art_N66B3E"></a>
+<a id="art_N66C61"></a>
 
 ### Art. 13.
 
@@ -32977,7 +32992,7 @@ Un échec à l’examen de fin de formation générale entraîne pour le fonctio
 
 À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le fonctionnaire en service provisoire obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation générale.
 
-<a id="art_N66BCB"></a>
+<a id="art_N66CEE"></a>
 
 ### Art. 14.
 
@@ -33009,7 +33024,7 @@ Si l’observateur ne présente pas de remarque particulière, le procès-verbal
 
 L’observateur peut également informer directement le ministre par une note écrite s’il a constaté un fait grave pouvant mettre en cause la validité de l’examen.
 
-<a id="art_N66C94"></a>
+<a id="art_N66DB7"></a>
 
 ### Art. 15.
 
@@ -33019,7 +33034,7 @@ L’observateur peut également informer directement le ministre par une note é
 
 Le secret des questions est à observer jusqu’au début de l’épreuve de l’examen de fin de formation générale concernée. Toute violation de ce secret équivaut à une violation de l’article 13 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
 
-<a id="art_N66CEC"></a>
+<a id="art_N66E0F"></a>
 
 ### Art. 16.
 
@@ -33049,13 +33064,13 @@ Les points obtenus dans chacune des épreuves de l’examen de fin de formation 
 
 ##### *Section 4* — *Examen de fin de formation spéciale*
 
-<a id="art_N66D8C"></a>
+<a id="art_N66EAF"></a>
 
 ### Art. 17.
 
 La formation spéciale prévue à l’article 7 de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique est organisée par le ministre de l’Intérieur.
 
-<a id="art_N66DF2"></a>
+<a id="art_N66F15"></a>
 
 ### Art. 18.
 
@@ -33063,7 +33078,7 @@ Les conditions de réussite à l’examen de fin de formation spéciale sont cel
 
 ##### *Section 5* — *Mise en compte des résultats des deux parties de l’examen d’admission définitive*
 
-<a id="art_N66E45"></a>
+<a id="art_N66F68"></a>
 
 ### Art. 19.
 
@@ -33077,7 +33092,7 @@ Pour tout calcul, les fractions de points sont arrondies en faveur du fonctionna
 
 ##### *Section 6* — *Plan d’insertion professionnelle*
 
-<a id="art_N66EBC"></a>
+<a id="art_N66FDF"></a>
 
 ### Art. 20.
 
@@ -33087,7 +33102,7 @@ Le plan d’insertion professionnelle prévu à l’article 4, paragraphes 4 et 
 2. la remise d’un livret d’accueil ;
 3. l’établissement d’un carnet de stage pour les fonctionnaires en service provisoire des carrières visées à l’article 4.
 
-<a id="art_N66F02"></a>
+<a id="art_N67025"></a>
 
 ### Art. 21.
 
@@ -33117,7 +33132,7 @@ Les rapports intermédiaires et le rapport final comprennent un avis du patron d
 
 Les rapports intermédiaires et le rapport final sont portés à la connaissance du fonctionnaire en service provisoire. Celui-ci peut, à chaque fois, présenter ses observations, qui sont à joindre chaque fois à ces rapports.
 
-<a id="art_N66FB2"></a>
+<a id="art_N670D5"></a>
 
 ### Art. 22.
 
@@ -33138,7 +33153,7 @@ Le livret d’accueil est remis au fonctionnaire en service provisoire au moment
 5. une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, le cas échéant, sur le système des permanences à assurer ;
 6. un plan détaillé concernant l’organisation de la formation spéciale, le programme à étudier pour l’examen de fin de for­mation spéciale ainsi que les dates de l’examen de fin de formation spéciale.
 
-<a id="art_N67045"></a>
+<a id="art_N67168"></a>
 
 ### Art. 23.
 
@@ -33171,7 +33186,7 @@ Le patron de stage est tenu de compléter le carnet de stage avec toutes les pi�
 
 ##### Chapitre 2 — Organisation de la formation de début de carrière des employés communaux
 
-<a id="art_N670E8"></a>
+<a id="art_N6720B"></a>
 
 ### Art. 24.
 
@@ -33180,7 +33195,7 @@ Dans le cadre de la formation de début de carrière, les employés communaux su
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 26 ;
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune conformément à l’article 27.
 
-<a id="art_N67125"></a>
+<a id="art_N67248"></a>
 
 ### Art. 25.
 
@@ -33191,7 +33206,7 @@ La formation de début de carrière peut être organisée sous forme de :
 3. études personnelles ;
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N67168"></a>
+<a id="art_N6728B"></a>
 
 ### Art. 26.
 
@@ -33234,7 +33249,7 @@ Une telle demande d’assimilation mentionne :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
 
-<a id="art_N672C5"></a>
+<a id="art_N673E8"></a>
 
 ### Art. 27.
 
@@ -33265,7 +33280,7 @@ Une telle demande d’assimilation mentionne :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
 
-<a id="art_N6737E"></a>
+<a id="art_N674A1"></a>
 
 ### Art. 28.
 
@@ -33273,13 +33288,13 @@ Une journée de formation de 6 heures de formation est considérée comme une jo
 
 Une demi-journée de formation de 3 heures est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N673B9"></a>
+<a id="art_N674DC"></a>
 
 ### Art. 29.
 
 Le temps de formation de début de carrière est considéré comme période d’activité de service.
 
-<a id="art_N673EB"></a>
+<a id="art_N6750E"></a>
 
 ### Art. 30.
 
@@ -33287,7 +33302,7 @@ Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de c
 
 ##### Chapitre 3 — Relation entre l’Institut et les chargés de cours
 
-<a id="art_N67429"></a>
+<a id="art_N6754C"></a>
 
 ### Art. 31.
 
@@ -33301,37 +33316,37 @@ Le cas échéant, le chargé de direction peut proposer au ministre la révocati
 
 ##### Chapitre 4 — Dispositions modificatives, abrogatoires et transitoires
 
-<a id="art_N67482"></a>
+<a id="art_N675A5"></a>
 
 ### Art. 32.
 
 L’article 1er du règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux est remplacé comme suit :« Art. 1er.La formation spéciale s’applique aux fonctionnaires en service provisoire énumérés à l’article 4, paragraphe 1er, points 1°, 4°, 6° et 8° du règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux. ».
 
-<a id="art_N674DE"></a>
+<a id="art_N67601"></a>
 
 ### Art. 33.
 
 L’article 4 du même règlement est remplacé comme suit :« Art. 4.Est admissible à l’examen de fin de formation spéciale, le fonctionnaire en service provisoire qui a suivi l’intégralité des formations de la formation spéciale prévues, à moins d’en avoir été dispensé par le ministre ayant les Affaires intérieures dans ses attributions, en application de l’alinéa 2. La demande d’admissibilité à l’examen de fin de formation spéciale est adressée par le fonctionnaire en service provisoire au ministre ayant les Affaires intérieures dans ses attributions.Une dispense de participation à une ou plusieurs formations de la formation spéciale peut être accordée au fonctionnaire en service provisoire par le ministre précité pour des raisons exceptionnelles dûment motivées.Le ministre ayant les Affaires intérieures dans ses attributions examine les conditions de formation spéciale requises du fonctionnaire en service provisoire et statue sur l’admissibilité du fonctionnaire en service provisoire. L’admissibilité à l’examen de fin de formation spéciale peut être prononcée même si le fonctionnaire en service provisoire n’a pas encore passé l’examen de fin de formation générale à l’Institut national d’administration publique.Le ministre précité informe le fonctionnaire en service provisoire de sa décision. ».
 
-<a id="art_N67546"></a>
+<a id="art_N67669"></a>
 
 ### Art. 34.
 
 À l’article 6 du même règlement, le dernier alinéa est remplacé par huit alinéas nouveaux, qui prennent la teneur suivante :« Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation spéciale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.A réussi à l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une note suffisante dans chacune des épreuves de l’examen de fin de formation spéciale.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen ou qui a obtenu une note insuffisante dans plus d’une épreuve de l’examen de fin de formation spéciale.Est ajourné à une épreuve de l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une seule note insuffisante dans l’épreuve de l’examen de fin de formation spéciale concernée.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu une note suffisante dans la matière dans laquelle il a été ajourné.Un échec à l’examen de fin de formation spéciale entraîne pour le candidat la possibilité de se présenter une seconde fois à cet examen.Le fait pour le candidat de ne pas se présenter une seconde fois à l’examen de fin de formation spéciale ou de subir un deuxième échec à l’examen de fin de formation spéciale est éliminatoire.Lorsque le candidat est absent lors d’une épreuve de l’examen de fin de formation spéciale, il est tenu de transmettre au ministre ayant les Affaires intérieures dans ses attributions, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le ministre ayant les Affaires intérieures dans ses attributions l’inscrit à une nouvelle épreuve de l’examen de fin de formation spéciale de la formation concernée.À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le candidat obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation spéciale. ».
 
-<a id="art_N675D2"></a>
+<a id="art_N676F5"></a>
 
 ### Art. 35.
 
 Les articles 16 à 21 du règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Institut national d’administration publique 1. l’organisation de la commission de coordination, 2. la collaboration avec les administrations et établissements publics de l’État et 3. la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes sont abrogés.
 
-<a id="art_N6760A"></a>
+<a id="art_N6772D"></a>
 
 ### Art. 36.
 
 Les articles 13 à 16, 21, 22, 26 et 27 du règlement grand-ducal modifié du 27 octobre 2000 portant 1. organisation à l’Institut national d’administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes, 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux sont abrogés.
 
-<a id="art_N67647"></a>
+<a id="art_N6776A"></a>
 
 ### Art. 37.
 
@@ -33343,13 +33358,13 @@ Pour les fonctionnaires en service provisoire, qui ont réussi à l’examen de 
 
 ##### Chapitre 5 — Dispositions finales
 
-<a id="art_N676BE"></a>
+<a id="art_N677E1"></a>
 
 ### Art. 38.
 
 La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux ».
 
-<a id="art_N676F5"></a>
+<a id="art_N67818"></a>
 
 ### Art. 39.
 
@@ -33369,13 +33384,13 @@ Notre ministre ayant les Affaires communales dans ses attributions et Notre mini
 
 ##### Chapitre I.- — Dispositions générales
 
-<a id="art_N6791C"></a>
+<a id="art_N67A3F"></a>
 
 ### Art. 1er.
 
 L’Institut national d’administration publique, dénommé ci-après «l’Institut», est placé sous l’autorité du ministre ayant dans ses attributions la Fonction publique, dénommé ci-après «le ministre».
 
-<a id="art_N67951"></a>
+<a id="art_N67A74"></a>
 
 ### Art. 2.
 
@@ -33393,7 +33408,7 @@ Les membres du comité ont l’obligation de suivre une formation initiale d’e
 
 Les missions, projets, études ou autres travaux dont l’Institut peut être chargé dans ce cadre doivent faire l’objet, à chaque fois, d’un accord cadre à conclure entre l’institution concernée et le ministre. Cet accord détermine le périmètre du service à prester, les objectifs poursuivis, les effets attendus, les actions envisagées, la durée, le coût et le financement ainsi que la population ciblée qui peut être différente de celle des agents de l’Etat et des communes.
 
-<a id="art_N679E9"></a>
+<a id="art_N67B0C"></a>
 
 ### Art. 3.
 
@@ -33404,7 +33419,7 @@ L’Institut comprend
 - un département chargé de l’organisation du contrôle de la connaissance des trois langues administratives;
 - un département chargé d’assurer des prestations de service pour les autres institutions publiques.
 
-<a id="art_N67A2F"></a>
+<a id="art_N67B52"></a>
 
 ### Art. 4.
 
@@ -33412,7 +33427,7 @@ Le temps passé à l’Institut compte comme temps de service pour le calcul du 
 
 ##### Chapitre II.- — Formation pendant le stage ou le service provisoire
 
-<a id="art_N67A6D"></a>
+<a id="art_N67B90"></a>
 
 ### Art. 5.
 
@@ -33425,7 +33440,7 @@ Ne sont pas visés par le présent article les fonctionnaires en service proviso
 
 **(2)** D’autres catégories d’agents peuvent être autorisées à suivre la formation pendant le stage dans les conditions et suivant les modalités à déterminer par le règlement grand-ducal prévu à l’article 9.
 
-<a id="art_N67AD5"></a>
+<a id="art_N67BF8"></a>
 
 ### Art. 6.
 
@@ -33443,25 +33458,25 @@ Les administrations peuvent être autorisées par le Ministre ayant la Fonction 
 
 Sur demande du chef d’administration, l’Institut assiste les administrations et établissements publics de l’Etat à la conception et à la mise en place de programmes de formation spéciale.
 
-<a id="art_N67B52"></a>
+<a id="art_N67C75"></a>
 
 ### Art. 7.
 
 La formation assurée par l’Institut pendant le service provisoire comprend une partie de formation générale et une partie de formation spéciale. La partie de formation générale est assurée par l’Institut. Un règlement grand-ducal détermine l’intervention du ministre de l’Intérieur, du secteur communal et de l’Institut dans la formation spéciale.
 
-<a id="art_N67B84"></a>
+<a id="art_N67CA7"></a>
 
 ### Art. 8.
 
 La formation pendant le stage ou le service provisoire est sanctionnée par un examen qui décide de l’admission définitive du stagiaire ou du fonctionnaire en service provisoire.
 
-<a id="art_N67BB6"></a>
+<a id="art_N67CD9"></a>
 
 ### Art. 9.
 
 L’organisation de la division de la formation pendant le stage et de la division de la formation pendant le service provisoire, les modalités de la mise en œuvre du plan d’insertion professionnelle ainsi que les modalités de l’examen de fin de stage du personnel de l’Etat et des établissements publics de l’Etat, et de l’examen d’admission définitive du personnel des communes, des syndicats de communes et des établissements publics des communes, sont déterminées par règlement grand-ducal.
 
-<a id="art_N67BE8"></a>
+<a id="art_N67D0B"></a>
 
 ### Art. 9bis.
 
@@ -33471,7 +33486,7 @@ L’organisation de la division de la formation pendant le stage et de la divisi
 
 ##### Chapitre III.- — Formation continue
 
-<a id="art_N67C4D"></a>
+<a id="art_N67D70"></a>
 
 ### Art. 10.
 
@@ -33484,7 +33499,7 @@ La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qu
 5. aux employés occupés dans les services des communes, des syndicats de communes et des établissements publics des communes;
 6. aux ouvriers des communes, des syndicats de communes et des établissements publics des communes.
 
-<a id="art_N67CA2"></a>
+<a id="art_N67DC5"></a>
 
 ### Art. 11.
 
@@ -33496,7 +33511,7 @@ Un règlement grand-ducal détermine l’organisation détaillée de la formatio
 
 ##### Chapitre IV.- — Organisation des cours
 
-<a id="art_N67CF2"></a>
+<a id="art_N67E15"></a>
 
 ### Art. 12.
 
@@ -33506,7 +33521,7 @@ Les missions, la composition et le fonctionnement de la commission de coordinati
 
 **(2)** Le mode de collaboration entre l’Institut et les administrations et établissements publics de l’Etat et entre l’Institut, le ministère de l’Intérieur et les administrations, syndicats et établissements publics des communes est déterminé par règlement grand-ducal.
 
-<a id="art_N67D44"></a>
+<a id="art_N67E67"></a>
 
 ### Art. 13.
 
@@ -33518,13 +33533,13 @@ Les missions, la composition et le fonctionnement de la commission de coordinati
 
 Les chargés de cours peuvent être de nationalité luxembourgeoise ou étrangère. L’arrêté de nomination détermine les attributions du titulaire, conformément aux programmes d’études et de stage applicables.
 
-<a id="art_N67DA6"></a>
+<a id="art_N67EC9"></a>
 
 ### Art. 14.
 
 Les chargés de cours sont nommés pour des mandats renouvelables d’une année.
 
-<a id="art_N67DD8"></a>
+<a id="art_N67EFB"></a>
 
 ### Art. 15.
 
@@ -33532,7 +33547,7 @@ Les chargés de cours sont rémunérés selon un barème à déterminer par règ
 
 ##### Chapitre V.- — Fonctionnement de l’Institut
 
-<a id="art_N67E16"></a>
+<a id="art_N67F39"></a>
 
 ### Art. 16.
 
@@ -33546,13 +33561,13 @@ Les chargés de cours sont rémunérés selon un barème à déterminer par règ
 
 **(5)** Le chargé de la direction, le secrétaire et le personnel attaché à l’Institut pourront être chargés par le ministre au sein de son département de toute autre mission.
 
-<a id="art_N67E8F"></a>
+<a id="art_N67FB2"></a>
 
 ### Art. 17.
 
 Le chargé de la direction bénéficie d’une indemnité non pensionnable de quarante-cinq points indiciaires. La valeur numérique des points est déterminée conformément aux règles fixées par la législation en matière des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N67EC1"></a>
+<a id="art_N67FE4"></a>
 
 ### Art. 18.
 
@@ -33588,7 +33603,7 @@ Les membres de la commission prévus sub h) et i) sont nommés par le ministre s
 
 **(4)** La commission administrative arrête son règlement d’ordre interne sous l’approbation du ministre.
 
-<a id="art_N67F89"></a>
+<a id="art_N680AC"></a>
 
 ### Art. 19.
 
@@ -33596,7 +33611,7 @@ Dans le cadre des missions définies à l’article 2, l’Institut peut conclur
 
 ##### Chapitre VI.- — Dispositions modificatives
 
-<a id="art_N67FC7"></a>
+<a id="art_N680EA"></a>
 
 ### Art. 20.
 
@@ -33604,7 +33619,7 @@ Dans le cadre des missions définies à l’article 2, l’Institut peut conclur
 
 **(2)** La référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes de «loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique».
 
-<a id="art_N6801B"></a>
+<a id="art_N6813E"></a>
 
 ### Art. 21.
 
@@ -33614,13 +33629,13 @@ La loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalit
 
 2° A l’article 1er, il est ajouté un nouveau paragraphe III ayant la teneur suivante:«III.1) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli au moins douze jours de formation continue ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.2) Par dérogation aux dispositions du paragraphe qui précède, le fonctionnaire appartenant à l’une des carrières visées aux articles 10, 11 et 12 (4) de la présente loi ne peut être nommé à une fonction du cadre fermé, s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public. Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
 
-<a id="art_N680BB"></a>
+<a id="art_N681DE"></a>
 
 ### Art. 22.
 
 L’article 22, VI, paragraphe 1er, alinéa 1 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:«1) Sur demande du fonctionnaire et sur avis du chef d’administration, le fonctionnaire peut bénéficier des allongements de grades ci-après à la condition d’avoir accompli, au cours de sa carrière, au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.»
 
-<a id="art_N68103"></a>
+<a id="art_N68226"></a>
 
 ### Art. 23.
 
@@ -33628,7 +33643,7 @@ Le chapitre 11 de la loi modifiée du 24 décembre 1985 fixant le statut génér
 
 ##### Chapitre VII.- — Disposition abrogatoire
 
-<a id="art_N68172"></a>
+<a id="art_N68295"></a>
 
 ### Art. 24.
 
@@ -33636,13 +33651,13 @@ La loi du 9 mars 1983 portant création d’un Institut de formation administrat
 
 ##### Chapitre VIII.- — Dispositions transitoires
 
-<a id="art_N681B6"></a>
+<a id="art_N682D9"></a>
 
 ### Art. 25.
 
 Les dispositions des articles 2 à 7 de la loi modifiée du 9 mars 1983 portant création d’un Institut de formation administrative restent applicables aux fonctionnaires stagiaires admis au stage avant le 1er octobre 2000.
 
-<a id="art_N681F1"></a>
+<a id="art_N68314"></a>
 
 ### Art. 26.
 
@@ -33656,7 +33671,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 ##### Chapitre IX.- — Entrée en vigueur
 
-<a id="art_N6825F"></a>
+<a id="art_N68382"></a>
 
 ### Art. 27.
 
@@ -33672,7 +33687,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 ##### Chapitre I. — Champ d’application
 
-<a id="art_N682F5"></a>
+<a id="art_N68418"></a>
 
 ### Art. 1er.
 
@@ -33680,13 +33695,13 @@ Le présent règlement grand-ducal s’applique au personnel de l’Etat et des 
 
 ##### Chapitre II. — Du programme de formation continue
 
-<a id="art_N6833A"></a>
+<a id="art_N6845D"></a>
 
 ### Art. 2.
 
 Le programme de formation continue pour le personnel visé par le présent règlement est établi par l’Institut national d’administration publique dénommé ci-après «l’Institut» en collaboration avec les administrations et établissements publics de l’Etat.
 
-<a id="art_N6836C"></a>
+<a id="art_N6848F"></a>
 
 ### Art. 3.
 
@@ -33705,13 +33720,13 @@ Le programme de formation continue prévoit:
 
 ##### Chapitre III. — De l’organisation des cours de formation continue
 
-<a id="art_N683D3"></a>
+<a id="art_N684F6"></a>
 
 ### Art. 4.
 
 L’organisation des cours de formation continue pour le personnel visé par le présent règlement est assurée par l’Institut en tenant compte des dispositions prévues aux articles 12 à 15 du règlement grand-ducal du 27 octobre 2000 déterminant à l’Institut national d’administration publique, l’organisation de la commission de coordination, la collaboration avec les administrations et établissements publics de l’Etat et la collaboration avec le Ministère de l’Intérieur et les administrations et les établissements publics des communes.
 
-<a id="art_N6840A"></a>
+<a id="art_N6852D"></a>
 
 ### Art. 5.
 
@@ -33719,13 +33734,13 @@ L’Institut fixe le nombre maximum de participants à un cours en fonction des 
 
 Les cours de formation continue peuvent être organisés pour des périodes à temps plein ou à mi-temps et en alternance avec des plages de travail effectif.
 
-<a id="art_N68445"></a>
+<a id="art_N68568"></a>
 
 ### Art. 6.
 
 Les agents participant à un séminaire de formation continue bénéficient d’un congé de formation individuel conformément à l’article 40 du règlement grand-ducal modifié du 22 août 1985 fixant le régime des congés des fonctionnaires et employés de l’Etat.
 
-<a id="art_N6847C"></a>
+<a id="art_N6859F"></a>
 
 ### Art. 7.
 
@@ -33735,7 +33750,7 @@ La prise en charge ne peut être assurée que si elle a été sollicitée au pr�
 
 ##### Chapitre IV. — De la certification des cours de formation continue
 
-<a id="art_N684C2"></a>
+<a id="art_N685E5"></a>
 
 ### Art. 8.
 
@@ -33756,7 +33771,7 @@ Le programme de formation continue mentionne pour chaque cours la catégorie dan
 
 ##### Chapitre V. — Du cycle en management public
 
-<a id="art_N6854E"></a>
+<a id="art_N68671"></a>
 
 ### Art. 9.
 
@@ -33786,13 +33801,13 @@ Pour le fonctionnaire qui a suivi l’intégralité des séminaires prévus au c
 
 ##### Chapitre VI. — De l’effet de la formation continue
 
-<a id="art_N6860D"></a>
+<a id="art_N68730"></a>
 
 ### Art. 10.
 
 
 
-<a id="art_N6863E"></a>
+<a id="art_N68761"></a>
 
 ### Art. 11.
 
@@ -33800,7 +33815,7 @@ Pour le fonctionnaire qui a suivi l’intégralité des séminaires prévus au c
 
 ##### Chapitre VII. — De l’assimilation des cours de formation
 
-<a id="art_N6867A"></a>
+<a id="art_N6879D"></a>
 
 ### Art. 12.
 
@@ -33814,7 +33829,7 @@ L’assimilation se fait en vue d’une dispense à accorder conformément aux d
 
 La décision d’assimilation ne peut en aucun cas excéder la durée effective de l’activité suivie.
 
-<a id="art_N686EB"></a>
+<a id="art_N6880E"></a>
 
 ### Art. 13.
 
@@ -33832,7 +33847,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 ##### Chapitre VIII. — Cycles de formation préparatoires aux groupes de traitement et d’indemnité supérieurs
 
-<a id="art_N6875C"></a>
+<a id="art_N6887F"></a>
 
 ### Art. 14.
 
@@ -33888,7 +33903,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 **VI.** Les matières prévues aux paragraphes II à V du présent article sont enseignées sous forme de travaux dirigés ou de séminaires.
 
-<a id="art_N689E1"></a>
+<a id="art_N68B04"></a>
 
 ### Art. 15.
 
@@ -33900,7 +33915,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 L’Institut informe les agents sélectionnés des modalités d’organisation et de déroulement du cycle de formation préparatoire auquel ils sont inscrits.
 
-<a id="art_N68A48"></a>
+<a id="art_N68B6B"></a>
 
 ### Art. 16.
 
@@ -33914,7 +33929,7 @@ Un nouvel échec entraîne l’écartement de l’agent du cycle de formation pr
 
 **III.** L’agent qui a passé avec succès tous les séminaires correspondant au cycle de formation auquel il est inscrit a passé avec succès le cycle de formation.
 
-<a id="art_N68AB3"></a>
+<a id="art_N68BD6"></a>
 
 ### Art. 17.
 
@@ -33926,7 +33941,7 @@ Un nouvel échec entraîne l’écartement de l’agent du cycle de formation pr
 
 ##### Chapitre IX. — Dispositions transitoires, abrogatoires et finales
 
-<a id="art_N68B1C"></a>
+<a id="art_N68C3F"></a>
 
 ### Art. 18.
 
@@ -33934,7 +33949,7 @@ Par dérogation à l’article 9 du présent règlement, l’Institut établit u
 
 Le fonctionnaire qui a suivi avec succès l’intégralité du programme spécial en management public se voit délivrer un certificat de qualification en management public.
 
-<a id="art_N68B5C"></a>
+<a id="art_N68C7F"></a>
 
 ### Art. 19.
 
@@ -33944,19 +33959,19 @@ Le fonctionnaire qui a suivi avec succès l’intégralité du programme spécia
 
 Cette disposition s’applique également au fonctionnaire qui, au moment de l’entrée en vigueur du présent règlement, est classé dans l’avant-dernier grade de sa carrière et pour qui la participation aux cours de formation continue constitue une condition à la promotion conformément aux dispositions de l’article 22 (VI) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N68BBD"></a>
+<a id="art_N68CE0"></a>
 
 ### Art. 20.
 
 Le règlement grand-ducal du 17 octobre 1986 déterminant l’organisation des cours de recyclage ou de perfectionnement des fonctionnaires de l’Etat et les éléments à la base de l’avis du chef d’administration est abrogé.
 
-<a id="art_N68BF4"></a>
+<a id="art_N68D17"></a>
 
 ### Art. 21.
 
 Le présent règlement entre en vigueur avec effet au 1er janvier 2001.
 
-<a id="art_N68C29"></a>
+<a id="art_N68D4C"></a>
 
 ### Art. 22.
 
@@ -33966,7 +33981,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### Chapitre I. — Champ d’application
 
-<a id="art_N68C7C"></a>
+<a id="art_N68D9F"></a>
 
 ### Art. 1er.
 
@@ -33974,13 +33989,13 @@ Le présent règlement grand-ducal s’applique au personnel des communes, des s
 
 ##### Chapitre II. — Du programme de formation continue
 
-<a id="art_N68CC1"></a>
+<a id="art_N68DE4"></a>
 
 ### Art. 2.
 
 Le programme de formation continue pour le personnel visé par le présent règlement est établi par l’Institut en collaboration avec le Ministère de l’Intérieur et les administrations communales.
 
-<a id="art_N68CF3"></a>
+<a id="art_N68E16"></a>
 
 ### Art. 3.
 
@@ -33992,13 +34007,13 @@ Ces séminaires ne sont accessibles qu’au personnel répondant aux critères d
 
 ##### Chapitre III. — De l’organisation des cours de formation continue
 
-<a id="art_N68D55"></a>
+<a id="art_N68E78"></a>
 
 ### Art. 4.
 
 L’organisation des cours de formation continue pour le personnel visé par le présent règlement est assurée par l’Institut en tenant compte des dispositions prévues aux articles 22 à 25 du règlement grand-ducal du 27 octobre 2000 déterminant à l’Institut national d’administration publique, l’organisation de la commission de coordination, la collaboration avec les administrations et établissements publics de l’Etat ainsi que la collaboration avec le Ministère de l’Intérieur et les administrations et les établissements publics des communes.
 
-<a id="art_N68D8C"></a>
+<a id="art_N68EAF"></a>
 
 ### Art. 5.
 
@@ -34006,13 +34021,13 @@ L’Institut fixe le nombre maximum de participants à un cours en fonction des 
 
 Les cours de formation continue peuvent être organisés pour des périodes à temps plein ou à mi-temps et en alternance avec des plages de travail effectif.
 
-<a id="art_N68DD3"></a>
+<a id="art_N68EF6"></a>
 
 ### Art. 6.
 
 Les agents participant à un séminaire de formation continue bénéficient d'un congé de formation individuel conformément à l'article 42 du règlement grand-ducal modifié du 21 octobre 1987 concernant le temps de travail et les congés des fonctionnaires communaux.
 
-<a id="art_N68E16"></a>
+<a id="art_N68F39"></a>
 
 ### Art. 7.
 
@@ -34024,7 +34039,7 @@ La demande de remboursement doit être adressée au Ministre de l’Intérieur q
 
 ##### Chapitre IV. — De la certification des cours de formation continue
 
-<a id="art_N68E65"></a>
+<a id="art_N68F88"></a>
 
 ### Art. 8.
 
@@ -34045,7 +34060,7 @@ Le programme de formation continue mentionne pour chaque cours la catégorie dan
 
 ##### Chapitre V. — Du cycle en management public
 
-<a id="art_N68EEB"></a>
+<a id="art_N6900E"></a>
 
 ### Art. 9.
 
@@ -34075,13 +34090,13 @@ Pour le fonctionnaire qui a suivi l’intégralité des séminaires prévus au c
 
 ##### Chapitre VI. — De l’effet de la formation continue
 
-<a id="art_N68FB3"></a>
+<a id="art_N690D6"></a>
 
 ### Art. 10.
 
 Les certificats de perfectionnement et les certificats de qualification en management public établis conformément aux dispositions des articles 8 et 9 ci-dessus entrent seuls en ligne de compte pour l’application des dispositions prévues aux articles 15. (II), 17. (III) et 17. (XI) du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat.
 
-<a id="art_N68FEA"></a>
+<a id="art_N6910D"></a>
 
 ### Art. 11.
 
@@ -34093,7 +34108,7 @@ Les certificats de perfectionnement et les certificats de qualification en manag
 
 ##### Chapitre VII. — De l’assimilation d’autres cours de formation
 
-<a id="art_N69051"></a>
+<a id="art_N69174"></a>
 
 ### Art. 12.
 
@@ -34105,7 +34120,7 @@ L’assimilation se fait en vue d’une dispense à accorder conformément aux d
 
 La décision d’assimilation ne peut en aucun cas excéder la durée effective de l’activité suivie.
 
-<a id="art_N690A3"></a>
+<a id="art_N691C6"></a>
 
 ### Art. 13.
 
@@ -34123,7 +34138,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 ##### Chapitre VIII. — Dispositions additionnelles
 
-<a id="art_N69114"></a>
+<a id="art_N69237"></a>
 
 ### Art. 14.
 
@@ -34135,7 +34150,7 @@ Le règlement grand-ducal modifié du 4 avril 1964 portant assimilation des trai
 4. Sur sa demande, le fonctionnaire peut bénéficier des allongements de grade ci-après à la condition d’avoir accompli au cours de sa carrière au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
 5. 1. Les fonctionnaires énumérés ci-après sont classés au grade 9 (grade de computation 7), ils avancent au grade 10 trois ans après la nomination définitive, ils avancent au grade 11 trois ans après avoir atteint le grade 10, ils avancent au grade 12 trois ans après avoir atteint le grade 11 et ils avancent au grade 13 trois ans après avoir atteint le grade 12 ; pour ces fonctionnaires le grade 13 est allongé par les échelons 455 et 466 sous condition qu’ils aient accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
 
-<a id="art_N691C6"></a>
+<a id="art_N692E9"></a>
 
 ### Art. 15.
 
@@ -34146,13 +34161,13 @@ Le règlement grand-ducal du 5 octobre 1987 concernant les allongements et les s
 
 ##### Chapitre IX. — Dispositions transitoires
 
-<a id="art_N6921F"></a>
+<a id="art_N69342"></a>
 
 ### Art. 16.
 
 Par dérogation à l’article 9 du présent règlement, l’Institut établit un programme spécial en management public pour le fonctionnaire appartenant à l’une des carrières visées à l’article 15 sub XIV, XIV bis.1 et XIV bis 2 du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat et qui, au moment de l’entrée en vigueur du présent règlement est classé dans le dernier grade de promotion du cadre ouvert. Le fonctionnaire qui a accompli avec succès l’intégralité du programme spécial en management public se voit délivrer un certificat de qualification en management public.
 
-<a id="art_N69256"></a>
+<a id="art_N69379"></a>
 
 ### Art. 17.
 
@@ -34164,7 +34179,7 @@ Cette disposition s’applique également au fonctionnaire qui, au moment de l�
 
 **III.** Les dipsositions des paragraphes I. et II. du présent article sont également applicables aux fonctionnaires de la carrière du secrétaire et du receveur communal qui sont classés au moment de l'entrée en vigueur de l'article 11 du présent règlement au dernier grade de leur carrière, respectivement à l'avant-dernier ou antépénultième grade de leur carrière.
 
-<a id="art_N692D3"></a>
+<a id="art_N693F6"></a>
 
 ### Art. 18.
 
@@ -34176,7 +34191,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 ##### Chapitre X. — Dispositions abrogatoires et finales
 
-<a id="art_N69331"></a>
+<a id="art_N69454"></a>
 
 ### Art. 19.
 
@@ -34186,7 +34201,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 Toutefois les dispositions des chapitres IV à IX n’entrent en vigueur qu’avec effet au 1er janvier 2002.
 
-<a id="art_N69391"></a>
+<a id="art_N694B4"></a>
 
 ### Art. 20.
 
@@ -34198,13 +34213,13 @@ Notre Ministre de l’Intérieur et Notre Ministre ayant dans ses attributions l
 
 #### Version consolidée applicable au 04/01/1983 : Arrêté grand-ducal du 8 mars 1961 concernant l'assurance obligatoire contre les accidents des fonctionnaires et employés publics jouissant d'un régime spécial de pensions de retraite.
 
-<a id="art_N693F7"></a>
+<a id="art_N6951A"></a>
 
 ### Art. 1er.
 
 Les dispositions du livre II, titre 1er du code des assurances sociales concernant l’assurance obligatoire contre les accidents du travail, ainsi que les règlements pris en exécution de ces dispositions sont applicables aux fonctionnaires et employés des établissements, exploitations et administrations de l’Etat, des communes et des établissements publics ou d'utilité publique jouissant d'un régime spécial de pensions de retraite, sous réserve des dérogations prévues par le présent arrêté.
 
-<a id="art_N69434"></a>
+<a id="art_N69557"></a>
 
 ### Art. 2.
 
@@ -34216,13 +34231,13 @@ Pour les employés communaux jouissant d’un traitement partiel, le montant de 
 
 Si ces employés sont bénéficiaires de différents traitements partiels le traitement de référence sera constitué par le traitement intégral correspondant aux différentes portions de traitements afférents.
 
-<a id="art_N69484"></a>
+<a id="art_N695A7"></a>
 
 ### Art. 3.
 
 
 
-<a id="art_N694B5"></a>
+<a id="art_N695D8"></a>
 
 ### Art. 4.
 
@@ -34234,7 +34249,7 @@ A partir du 1er du mois qui suit le début de la 66e année, la rente d’accide
 
 L’excédent éventuel sera retenu sur la rente.
 
-<a id="art_N69505"></a>
+<a id="art_N69628"></a>
 
 ### Art. 5.
 
@@ -34242,13 +34257,13 @@ Pour l’application des articles 116 à 118 du code des assurances sociales il 
 
 Lorsque la cause de suspension viendra à défaillir pour le tout ou pour partie de la rente, l’alinéa 5 de l’article 118 du code des assurances sociales sera applicable.
 
-<a id="art_N69552"></a>
+<a id="art_N69675"></a>
 
 ### Art. 6.
 
 En cas de rachat de la rente, le capital sera calculé sur la portion de rente non suspendue. Lorsque la cause de suspension viendra à défaillir, il y aura lieu à paiement du capital correspondant à la portion suspendue suivant sa valeur au jour du rachat supplétif.
 
-<a id="art_N6958C"></a>
+<a id="art_N696AF"></a>
 
 ### Art. 7.
 
@@ -34258,7 +34273,7 @@ A cet effet, les employeurs susvisés seront répartis en trois classes de risqu
 
 Les montants à rembourser conformément aux dispositions qui précèdent seront augmentés de deux pour-cent pour les intérêts et de six pour-cent pour les frais d’administration.
 
-<a id="art_N695D0"></a>
+<a id="art_N696F3"></a>
 
 ### Art. 8.
 
@@ -34266,7 +34281,7 @@ Notre Ministre d’Etat, Président du Gouvernement, Ministre des Finances, Notr
 
 #### Version consolidée applicable au 15/09/2012 : Règlement grand-ducal du 17 décembre 2010 concernant l'assurance accident dans le cadre de l'enseignement précoce, préscolaire, scolaire et universitaire.
 
-<a id="art_N6961A"></a>
+<a id="art_N6973D"></a>
 
 ### Art. 1er.
 
@@ -34290,7 +34305,7 @@ En dehors des activités inscrites au programme des établissements visés à l�
 10. les activités de nature sportive, artistique, culturelle, écologique et scientifique;
 11. l’activité des servants de messe appelés pendant les heures de classe à assister à des cérémonies religieuses.
 
-<a id="art_N696A0"></a>
+<a id="art_N697C3"></a>
 
 ### Art. 2.
 
@@ -34308,19 +34323,19 @@ Par activités péripréscolaires, périscolaires et périuniversitaires au sens
 
 Pour les activités visées à l’alinéa précédent, l’assurance ne s’étend non seulement à l’activité elle-même, mais également au séjour éventuel, aux loisirs connexes à l’activité ainsi qu’aux trajets y relatifs.
 
-<a id="art_N69707"></a>
+<a id="art_N6982A"></a>
 
 ### Art. 3.
 
 Le droit aux prestations prévues par le présent règlement est suspendu jusqu’à concurrence du montant des prestations de même nature auxquelles ouvrent droit à l’étranger les activités dont il s’agit.
 
-<a id="art_N69739"></a>
+<a id="art_N6985C"></a>
 
 ### Art. 4.
 
 Le règlement grand-ducal 23 février 2001 concernant l’assurance accident dans le cadre de l’enseignement précoce, préscolaire, scolaire et universitaire est abrogé.
 
-<a id="art_N69770"></a>
+<a id="art_N69893"></a>
 
 ### Art. 5.
 
@@ -34332,7 +34347,7 @@ Notre Ministre de la Sécurité sociale, Notre Ministre de l’Éducation nation
 
 ##### Chapitre 1er — Désignation des délégués des institutions et juridictions de sécurité sociale
 
-<a id="art_N697D7"></a>
+<a id="art_N698FA"></a>
 
 ### Art. 1er.
 
@@ -34354,7 +34369,7 @@ La Chambre de commerce, la Chambre des métiers et la Chambre d’agriculture co
 
 Le président de la chambre professionnelle nouvellement constituée fixe la date et l’heure de la désignation des délégués des institutions et juridictions de sécurité sociale, ainsi que la durée du scrutin qui sont communiquées aux membres des collèges électoraux par lettre recommandée.
 
-<a id="art_N6984D"></a>
+<a id="art_N69970"></a>
 
 ### Art. 2.
 
@@ -34372,7 +34387,7 @@ A défaut de désignation conjointe, la désignation des sept délégués des em
 
 ##### Section 1 — Présentation de candidatures
 
-<a id="art_N698C6"></a>
+<a id="art_N699E9"></a>
 
 ### Art. 3.
 
@@ -34386,7 +34401,7 @@ Toute liste doit comprendre un nombre de candidats égal au double du nombre des
 
 Chaque liste électorale doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l’expiration du délai imparti pour les déclarations de candidatures, ces listes sont désignées par une lettre d’ordre par le président de la chambre professionnelle.
 
-<a id="art_N6991C"></a>
+<a id="art_N69A3F"></a>
 
 ### Art. 4.
 
@@ -34396,7 +34411,7 @@ Les électeurs peuvent prendre inspection des listes déposées au siège de la 
 
 ##### Section 2 — Dispense d'élections
 
-<a id="art_N69963"></a>
+<a id="art_N69A86"></a>
 
 ### Art. 5.
 
@@ -34410,7 +34425,7 @@ En cas de pluralité de listes, il est procédé à des élections conformément
 
 ##### Section 1 — Mode de scrutin
 
-<a id="art_N699BF"></a>
+<a id="art_N69AE2"></a>
 
 ### Art. 6.
 
@@ -34418,7 +34433,7 @@ Les élections se font à l'urne au scrutin de liste suivant les règles de la r
 
 ##### Section 2 — Bureau électoral
 
-<a id="art_N699FD"></a>
+<a id="art_N69B20"></a>
 
 ### Art. 7.
 
@@ -34430,7 +34445,7 @@ Aucun candidat ne peut faire partie du bureau électoral.
 
 ##### Section 3 — Bulletins de vote
 
-<a id="art_N69A4D"></a>
+<a id="art_N69B70"></a>
 
 ### Art. 8.
 
@@ -34440,7 +34455,7 @@ Chaque liste est surmontée d'une case réservée au vote, deux autres cases se 
 
 ##### Section 4 — Opérations de vote
 
-<a id="art_N69A94"></a>
+<a id="art_N69BB7"></a>
 
 ### Art. 9.
 
@@ -34448,13 +34463,13 @@ Les noms des électeurs qui se présentent pour voter sont pointés sur les list
 
 Après avoir exprimé son vote, l'électeur montre au président du bureau électoral le bulletin dûment replié et le dépose dans l'urne. Le secrétaire prend note du dépôt.
 
-<a id="art_N69ACF"></a>
+<a id="art_N69BF2"></a>
 
 ### Art. 10.
 
 Le droit de vote est exercé personnellement. En cas d'empêchement d'un membre effectif du collège électoral, le vote par procuration peut être exercé par un membre suppléant. Pour être admis au vote, ce dernier doit présenter au bureau électoral la lettre recommandée visée à l'article 1er, alinéa 6, ainsi qu'une procuration signée par le membre effectif empêché. Acte en est fait au procès-verbal.
 
-<a id="art_N69B04"></a>
+<a id="art_N69C27"></a>
 
 ### Art. 11.
 
@@ -34470,7 +34485,7 @@ L’électeur qui aurait détérioré son bulletin, peut en obtenir un autre par
 
 ##### Section 5 — Dépouillement des bulletins
 
-<a id="art_N69B66"></a>
+<a id="art_N69C89"></a>
 
 ### Art. 12.
 
@@ -34478,7 +34493,7 @@ Après la clôture du scrutin, le président du bureau électoral mêle tous les
 
 Les scrutateurs font le recensement et en tiennent note séparément. Ces notes sont paraphées par le président du bureau électoral et annexées au procès-verbal.
 
-<a id="art_N69BA1"></a>
+<a id="art_N69CC4"></a>
 
 ### Art. 13.
 
@@ -34491,13 +34506,13 @@ Est nul tout bulletin qui:
 
 ##### Section 6 — Attribution des sièges
 
-<a id="art_N69BEF"></a>
+<a id="art_N69D12"></a>
 
 ### Art. 14.
 
 Le bureau électoral arrête le nombre des bulletins nuls et des bulletins valables et les fait inscrire au procès-verbal. Il en est de même pour les suffrages de liste et les suffrages nominatifs.
 
-<a id="art_N69C21"></a>
+<a id="art_N69D44"></a>
 
 ### Art. 15.
 
@@ -34505,7 +34520,7 @@ Les suffrages donnés à une liste en totalité (suffrages de liste) ou aux cand
 
 Le nombre total des suffrages valables des listes est divisé par le nombre des délégués effectifs à élire augmenté de un. Est appelé «nombre électoral» le nombre entier immédiatement supérieur au quotient ainsi obtenu.
 
-<a id="art_N69C5C"></a>
+<a id="art_N69D7F"></a>
 
 ### Art. 16.
 
@@ -34517,13 +34532,13 @@ En cas d’égalité, le siège disponible est attribué à la liste qui a recue
 
 Les opérations de calcul sont à faire par un scrutateur et le secrétaire du bureau électoral.
 
-<a id="art_N69CAC"></a>
+<a id="art_N69DCF"></a>
 
 ### Art. 17.
 
 Les sièges sont attribués dans chaque liste aux candidats ayant obtenu le plus grand nombre de suffrages nominatifs. En cas d'égalité de suffrages, le candidat le plus âgé est élu.
 
-<a id="art_N69CDE"></a>
+<a id="art_N69E01"></a>
 
 ### Art. 18.
 
@@ -34533,13 +34548,13 @@ Il en est de même des délégués suppléants qui sont proclamés pour chaque l
 
 Est de même proclamé le nombre de suffrages nominatifs obtenus par chacun des autres candidats dans l’ordre des suffrages obtenus. Ils acquièrent rang de suppléant au fur et à mesure qu’il y a lieu de compléter le nombre de ceux-ci.
 
-<a id="art_N69D22"></a>
+<a id="art_N69E45"></a>
 
 ### Art. 19.
 
 Le procès-verbal des opérations qui précèdent est dressé et signé séance tenante et communiqué aux institutions et juridictions de sécurité sociale respectives. Le procès-verbal des opérations qui précèdent est conservé dans les archives des institutions et juridictions de sécurité sociale. Expédition en est transmise au plus tard le lendemain de sa signature au ministre ayant dans ses attributions la Sécurité sociale. Les bulletins sont tenus à la disposition du ministre ayant dans ses attributions la Sécurité sociale jusqu'au surlendemain de l'expiration du délai prévu pour les réclamations dans des contenants scellés par le président. Ils sont détruits dans la suite.
 
-<a id="art_N69D54"></a>
+<a id="art_N69E77"></a>
 
 ### Art. 20.
 
@@ -34555,7 +34570,7 @@ S’il ne peut être pourvu au remplacement d’un membre suppléant conforméme
 
 ##### Section 7 — Contestations
 
-<a id="art_N69DB6"></a>
+<a id="art_N69ED9"></a>
 
 ### Art. 21.
 
@@ -34571,13 +34586,13 @@ Suivant les circonstances, il y a lieu à annulation des élections dans leur en
 
 ##### Chapitre 4 — Disposition abrogatoire et formule exécutoire
 
-<a id="art_N69E19"></a>
+<a id="art_N69F3C"></a>
 
 ### Art. 22.
 
 Le règlement grand-ducal modifié du 13 juillet 1993 ayant pour objet la désignation des délégués des assurés et des employeurs dans les institutions d'assurance maladie, le centre commun de la sécurité sociale, les caisses de pension, le Fonds de compensation commun au régime général de pension et les juridictions de sécurité sociale ainsi que des délégués des assurés dans l'association d'assurance contre les accidents, section industrielle est abrogé.
 
-<a id="art_N69E4F"></a>
+<a id="art_N69F72"></a>
 
 ### Art. 23.
 
@@ -34597,13 +34612,13 @@ Notre Ministre de la Santé et de la Sécurité sociale est chargé de l'exécut
 
 ##### Chapitre 1er.- Le Comité interministériel de l'égalité des femmes et des hommes
 
-<a id="art_N6A1EB"></a>
+<a id="art_N6A30E"></a>
 
 ### Art. 1er.
 
 Il est créé auprès du Ministre ayant dans ses attributions l’égalité des chances, désigné ci-après le «Ministre», un comité interministériel de l’égalité entre femmes et hommes, dénommé ci-après le «comité».
 
-<a id="art_N6A220"></a>
+<a id="art_N6A343"></a>
 
 ### Art. 2.
 
@@ -34617,13 +34632,13 @@ Il est créé auprès du Ministre ayant dans ses attributions l’égalité des 
 
 **(5)** Un secrétaire, désigné par le Ministre, est adjoint au comité sans voix délibératoire.
 
-<a id="art_N6A299"></a>
+<a id="art_N6A3BC"></a>
 
 ### Art. 3.
 
 Le président convoque le Comité au moins deux fois par an et fixe l'ordre du jour.
 
-<a id="art_N6A2CB"></a>
+<a id="art_N6A3EE"></a>
 
 ### Art. 4.
 
@@ -34637,7 +34652,7 @@ S’il y a lieu, le comité est en charge du suivi de la mise en œuvre des plan
 
 **(4)** Le comité peut assurer l’accompagnement général du programme d’action positive de la fonction publique.
 
-<a id="art_N6A33D"></a>
+<a id="art_N6A460"></a>
 
 ### Art. 5.
 
@@ -34645,7 +34660,7 @@ Les membres du comité remplissent la fonction de correspondants en matière d�
 
 ##### Chapitre 2.- Les cellules de compétences en genre
 
-<a id="art_N6A37F"></a>
+<a id="art_N6A4A2"></a>
 
 ### Art. 6.
 
@@ -34657,7 +34672,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### *Section 1.* — *Définitions et champ d’application*
 
-<a id="art_N6A3E7"></a>
+<a id="art_N6A50A"></a>
 
 ### Art. 1er.
 
@@ -34677,7 +34692,7 @@ Le rejet d’un tel comportement par la personne concernée ou sa soumission à 
 
 **(4)** Tout comportement consistant à enjoindre à quiconque de pratiquer à l’encontre de personnes une discrimination fondée sur le sexe est considéré comme une discrimination au sens de la présente loi.
 
-<a id="art_N6A472"></a>
+<a id="art_N6A595"></a>
 
 ### Art. 2.
 
@@ -34690,7 +34705,7 @@ Le rejet d’un tel comportement par la personne concernée ou sa soumission à 
 
 ##### *Section 2. * — *Disposition particulière*
 
-<a id="art_N6A4CD"></a>
+<a id="art_N6A5F0"></a>
 
 ### Art. 3.
 
@@ -34700,19 +34715,19 @@ Le rejet d’un tel comportement par la personne concernée ou sa soumission à 
 
 ##### *Section 3.* — *Voies de recours et application du droit*
 
-<a id="art_N6A52A"></a>
+<a id="art_N6A64D"></a>
 
 ### Art. 4.
 
 Toute association sans but lucratif d’importance nationale dont l’activité statutaire consiste à combattre la discrimination au sens de l’article 1er qui jouit de la personnalité juridique depuis au moins un an à la date des faits et qui a été préalablement agréée par le ministre ayant la Justice dans ses attributions peut exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article 1er et portant un préjudice direct ou indirect aux intérêts collectifs qu’elle a pour objet de défendre en vertu de leur objet statutaire, même si elle ne justifie pas d’un intérêt matériel ou moral.
 
-<a id="art_N6A562"></a>
+<a id="art_N6A685"></a>
 
 ### Art. 5.
 
 Toutefois quand les faits auront été commis envers des personnes considérées individuellement, l’association sans but lucratif visée à l’article qui précède, ne pourra exercer par voie principale les droits reconnus à la victime d’une discrimination qu’à la condition que ces personnes déclarent expressément et par écrit ne pas s’y opposer.
 
-<a id="art_N6A594"></a>
+<a id="art_N6A6B7"></a>
 
 ### Art. 6.
 
@@ -34724,7 +34739,7 @@ Toute disposition ou tout acte contraire aux deux paragraphes qui précèdent es
 
 ##### *Section 4. * — *Disposition finale*
 
-<a id="art_N6A5E9"></a>
+<a id="art_N6A70C"></a>
 
 ### Art. 7.
 
@@ -34736,7 +34751,7 @@ Est à considérer comme nulle et non avenue toute disposition figurant notammen
 
 ##### Code du travail
 
-<a id="art_N6A648"></a>
+<a id="art_N6A76B"></a>
 
 ### Art. L. 241-1.
 
@@ -34756,7 +34771,7 @@ Le rejet de tels comportements par la personne concernée ou sa soumission à ce
 
 **(4)** Tout comportement consistant à enjoindre à quiconque de pratiquer à l’encontre de personnes une discrimination fondée sur le sexe est considéré comme une discrimination au sens du présent chapitre.
 
-<a id="art_N6A704"></a>
+<a id="art_N6A827"></a>
 
 ### Art. L. 241-2.
 
@@ -34767,13 +34782,13 @@ Le présent titre s’applique à tous les salariés dont les relations de trava
 3. les conditions d’emploi et de travail, y compris les conditions de licenciement ainsi que le salaire;
 4. l’affiliation à, et l’engagement dans, une organisation de salariés ou d’employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d’organisation.
 
-<a id="art_N6A793"></a>
+<a id="art_N6A8B6"></a>
 
 ### Art. L. 241-3.
 
 En ce qui concerne l’accès à l’emploi, y compris la formation qui y donne accès, une différence de traitement fondée sur une caractéristique liée au sexe ne constitue pas une discrimination au sens de la présente loi lorsque, en raison de la nature des activités professionnelles particulières concernées ou du cadre dans lequel elles se déroulent une telle caractéristique constitue une exigence professionnelle essentielle et déterminante, pour autant que l’objectif soit légitime et que l’exigence soit proportionnée.
 
-<a id="art_N6A7DB"></a>
+<a id="art_N6A8FE"></a>
 
 ### Art. L. 241-4.
 
@@ -34781,13 +34796,13 @@ En ce qui concerne l’accès à l’emploi, y compris la formation qui y donne 
 
 **(2)** Le principe de l’égalité de traitement n’empêche pas le maintien ou l’adoption de mesures spécifiques destinées à prévenir ou à compenser des désavantages liés au motif visé à l’article L. 241-1 paragraphe (1) pour assurer la pleine égalité dans la pratique.
 
-<a id="art_N6A832"></a>
+<a id="art_N6A955"></a>
 
 ### Art. L. 241-5.
 
 Toute association sans but lucratif d’importance nationale dont l’activité statutaire consiste à combattre la discrimination au sens de l’article L. 241-1 qui jouit de la personnalité juridique depuis au moins un an à la date des faits et qui a été préalablement agréée par le ministre ayant la Justice dans ses attributions peut exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article L. 241-1 et portant un préjudice direct ou indirect aux intérêts collectifs qu’elle a pour objet de défendre en vertu de leur objet statutaire, même si elle ne justifie pas d’un intérêt matériel ou moral.
 
-<a id="art_N6A874"></a>
+<a id="art_N6A997"></a>
 
 ### Art. L. 241-6.
 
@@ -34795,13 +34810,13 @@ Toute association sans but lucratif d’importance nationale dont l’activité 
 
 **(2)** Les organisations syndicales justifiant de la représentativité nationale générale ou d’une représentativité dans un secteur particulièrement important de l’économie en vertu des articles L. 161-4 et L. 161-6 peuvent exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article L. 241-1 et portant un préjudice direct ou indirect aux intérêts collectifs qu’elles ont pour objet de défendre en vertu de leur objet, même si elles ne justifient pas d’un intérêt matériel ou moral.
 
-<a id="art_N6A8D1"></a>
+<a id="art_N6A9F4"></a>
 
 ### Art. L. 241-7.
 
 Toutefois quand les faits auront été commis envers des personnes considérées individuellement, l’association sans but lucratif respectivement l’organisation syndicale visées aux articles L. 241-5 et L. 241-6 qui précèdent, ne pourront exercer par voie principale les droits reconnus à la victime d’une discrimination qu’à la condition que ces personnes déclarent expressément et par écrit ne pas s’y opposer.
 
-<a id="art_N6A913"></a>
+<a id="art_N6AA36"></a>
 
 ### Art. L. 241-8.
 
@@ -34817,19 +34832,19 @@ Il est statué d’urgence, les parties entendues ou dûment convoquées.
 
 Les convocations par voie de greffe prévues à l’alinéa qui précède contiendront, sous peine de nullité, les mentions prescrites à l’article 80 dunouveau code de procédure civile.
 
-<a id="art_N6A992"></a>
+<a id="art_N6AAB5"></a>
 
 ### Art. L. 241-9.
 
 Est à considérer comme nulle et non avenue toute disposition figurant notamment dans un contrat, une convention individuelle ou collective ou un règlement intérieur d’entreprise, ainsi que dans les règles régissant les associations à but lucratif ou non lucratif, les professions indépendantes et les organisations de salariés et d’employeurs contraire au principe de l’égalité de traitement au sens de la présente loi.
 
-<a id="art_N6A9D4"></a>
+<a id="art_N6AAF7"></a>
 
 ### Art. L. 241-10.
 
 (L. 18 janvier 2012) Pour autant que leurs compétences sont concernées par les matières visées à l’article L. 241-2, l’Inspection du travail et des mines et l’Agence pour le développement de l’emploi sont chargées, chacune en ce qui la concerne, de veiller à l’application du présent chapitre.
 
-<a id="art_N6AA1A"></a>
+<a id="art_N6AB3D"></a>
 
 ### Art. L. 241-11.
 
@@ -34837,13 +34852,13 @@ Est à considérer comme nulle et non avenue toute disposition figurant notammen
 
 En cas de récidive, cette peine peut être portée au double du maximum.
 
-<a id="art_N6AA6F"></a>
+<a id="art_N6AB92"></a>
 
 ### Art. L. 242-1.
 
 Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L. 543-14, paragraphe (2) ainsi que des articles L. 524-6 et L. 526-2, paragraphe (3), est considéré comme sexe sous-représenté dans une profession ou un métier déterminés celui dont la représentation est égale ou inférieure à quarante pour cent de l’ensemble des salariés exerçant cette profession ou ce métier sur le territoire national.
 
-<a id="art_N6AAB7"></a>
+<a id="art_N6ABDA"></a>
 
 ### Art. L. 242-2.
 
@@ -34859,7 +34874,7 @@ Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L
 
 **(4)** (L. 15 décembre 2016)En cas de sous-représentation justifiée, le ministre ayant l’emploi dans ses attributions procède à la prise en charge de la quote-part à charge du Fonds pour l’emploi.
 
-<a id="art_N6AB49"></a>
+<a id="art_N6AC6C"></a>
 
 ### Art. L. 242-3.
 
@@ -34869,7 +34884,7 @@ Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L
 
 **(3)** Pour pouvoir se prévaloir des dérogations prévues aux paragraphes (1) et (2), l’employeur est tenu de se munir préalablement d’une attestation écrite du ministre ayant dans ses attributions l’Egalité des chances certifiant l’état de sous-représentation des salariés du sexe qu’il s’agit de privilégier.
 
-<a id="art_N6ABC0"></a>
+<a id="art_N6ACE3"></a>
 
 ### Art. L. 243-1.
 
@@ -34889,13 +34904,13 @@ Les mesures visées au sens du présent chapitre sont:
 
 **(3)** Par entreprise, on entend tout organisme légalement établi et exerçant la plus grande partie de son activité sur le territoire du Grand-Duché de Luxembourg.
 
-<a id="art_N6AC61"></a>
+<a id="art_N6AD84"></a>
 
 ### Art. L. 243-2.
 
 Le présent chapitre vise les actions positives dans le secteur privé de l’économie quelle que soit l’activité professionnelle concernée, mais ne s’applique pas au secteur public.
 
-<a id="art_N6AC9A"></a>
+<a id="art_N6ADBD"></a>
 
 ### Art. L. 243-3.
 
@@ -34907,7 +34922,7 @@ Le présent chapitre vise les actions positives dans le secteur privé de l’é
 
 A défaut de délégation du personnel, les projets d’actions sont soumis à l’avis d’un comité dont la composition est fixée par règlement grand-ducal.
 
-<a id="art_N6AD20"></a>
+<a id="art_N6AE43"></a>
 
 ### Art. L. 243-4.
 
@@ -34929,7 +34944,7 @@ Les modalités de la mise en œuvre de ces critères font l’objet d’un règl
 
 **(3)** Les entreprises dont les projets ont été approuvés signent une convention de réalisation du projet avec le ministre ayant dans ses attributions les Actions positives.
 
-<a id="art_N6ADBD"></a>
+<a id="art_N6AEE0"></a>
 
 ### Art. L. 243-5.
 
@@ -34941,7 +34956,7 @@ Cette subvention varie en fonction du coût total des actions positives de l’e
 
 Un règlement grand-ducal peut préciser les modalités d’exécution de la contribution de l’Etat.
 
-<a id="art_N6AE26"></a>
+<a id="art_N6AF49"></a>
 
 ### Art. L. 244-1.
 
@@ -34949,25 +34964,25 @@ Aux fins du présent chapitre, le principe de l’égalité de traitement impliq
 
 (...)*(abrogé par laloi du 13 mai 2008)*
 
-<a id="art_N6AE8A"></a>
+<a id="art_N6AFAD"></a>
 
 ### Art. L. 244-2.
 
 Le présent chapitre s’applique à tout litige dans le cadre d’une procédure civile ou administrative des secteurs public et privé ayant pour objet l’accès à l’emploi, le salaire, les possibilités de promotion et de formation professionnelle, l’accès à une profession indépendante, les conditions de travail ainsi que les régimes professionnels de sécurité sociale.
 
-<a id="art_N6AEEA"></a>
+<a id="art_N6B00D"></a>
 
 ### Art. L. 244-3.
 
 Dès qu’une personne qui s’estime lésée par le non-respect à son égard du principe de l’égalité de traitement établit, devant une juridiction ou une autre instance compétente, des faits qui permettent de présumer l’existence d’une discrimination directe ou indirecte, il incombe à la partie défenderesse de prouver qu’il n’y a pas eu violation du principe de l’égalité de traitement.
 
-<a id="art_N6AF2C"></a>
+<a id="art_N6B04F"></a>
 
 ### Art. L. 245-1.
 
 Aux fins du présent chapitre, on entend par salariés tous les salariés tels que définis à l’article L. 121-1, ainsi que les stagiaires, les apprentis et les élèves et étudiants occupés pendant les vacances scolaires.
 
-<a id="art_N6AF80"></a>
+<a id="art_N6B0A3"></a>
 
 ### Art. L. 245-2. (L. 13 mai 2008)
 
@@ -34981,13 +34996,13 @@ Le comportement visé peut être physique, verbal ou non verbal.
 
 L’élément intentionnel du comportement est présumé.
 
-<a id="art_N6B019"></a>
+<a id="art_N6B13C"></a>
 
 ### Art. L. 245-3.
 
 Le harcèlement sexuel à l’occasion des relations de travail, tel que défini à l’article L. 245-2, est considéré comme contraire au principe de l’égalité de traitement au sens des dispositions du présent titre.
 
-<a id="art_N6B05B"></a>
+<a id="art_N6B17E"></a>
 
 ### Art. L. 245-4.
 
@@ -34997,7 +35012,7 @@ Le harcèlement sexuel à l’occasion des relations de travail, tel que défini
 
 **(3)** L’employeur est encore tenu de prendre toutes les mesures de prévention nécessaires pour assurer la protection de la dignité de toute personne à l’occasion des relations de travail. Ces mesures doivent comprendre des mesures d’information.
 
-<a id="art_N6B0C7"></a>
+<a id="art_N6B1EA"></a>
 
 ### Art. L. 245-5.
 
@@ -35011,7 +35026,7 @@ En cas de résiliation du contrat de travail, le salarié peut demander dans les
 
 Les convocations par voie de greffe prévues à l’alinéa qui précède contiennent sous peine de nullité les mentions prescrites à l’article 80 duNouveau Code de procédure civile.
 
-<a id="art_N6B143"></a>
+<a id="art_N6B266"></a>
 
 ### Art. L. 245-6. (L. 23 juillet 2015)
 
@@ -35021,13 +35036,13 @@ Les convocations par voie de greffe prévues à l’alinéa qui précède contie
 
 Le salarié qui fait l’objet d’un harcèlement sexuel a le droit de se faire accompagner et assister par un délégué dans les entrevues avec l’employeur, ou le représentant de celui-ci, qui ont lieu dans le cadre de l’enquête sur le harcèlement sexuel.
 
-<a id="art_N6B1B0"></a>
+<a id="art_N6B2D3"></a>
 
 ### Art. L. 245-7.
 
 Le salarié victime d’un acte de harcèlement sexuel peut refuser de poursuivre l’exécution du contrat de travail et résilier le contrat de travail sans préavis pour motif grave avec dommages et intérêts à charge de l’employeur dont la faute, appréciée par référence à l’article L. 245-4, a occasionné la résiliation immédiate.
 
-<a id="art_N6B1FE"></a>
+<a id="art_N6B321"></a>
 
 ### Art. L. 245-8.
 
@@ -35037,7 +35052,7 @@ L’Inspection du travail et des mines est chargée de veiller à l’applicatio
 
 #### Règlement du Gouvernement en conseil du 19 décembre 1972 sur l'autorisation et le contrôle des voyages de service des fonctionnaires et employés de l'Etat.
 
-<a id="art_N6B261"></a>
+<a id="art_N6B384"></a>
 
 ### Art. 1er.
 
@@ -35051,19 +35066,19 @@ L’Inspection du travail et des mines est chargée de veiller à l’applicatio
 
 **(4)** La feuille de route est à joindre à la déclaration des frais de route et de séjour, à établir conformément à l'article 5 du règlement grand-ducal du 18 décembre 1972 visé ci-dessus. En cas de validité prolongée elle est à joindre à la déclaration se rapportant au premier voyage autorisé et les déclarations se rapportant aux voyages subséquents, effectués pendant la durée de validité de la feuille de route, doivent s'y référer. A ces fins une copie de la feuille de route prolongée est à conserver au bureau émetteur.
 
-<a id="art_N6B2B0"></a>
+<a id="art_N6B3D3"></a>
 
 ### Art. 2.
 
 Si la feuille de route n'a pas pu être établie avant le départ en raison d'une impossibilité matérielle ou de l'urgence du voyage, elle est établie ultérieurement avec une explication précise à l'appui.
 
-<a id="art_N6B2C0"></a>
+<a id="art_N6B3E3"></a>
 
 ### Art. 3.
 
 Les déclaration des frais de route et de séjour doivent faire l'objet d'un contrôle du point de vue matériel et comptable. Le Ministre, et, le cas échéant, le chef de l'administration dont relève le déclarant, doivent certifier cette vérification sur la formule de déclaration à la rubrique spécialement prévue à cette fin.
 
-<a id="art_N6B2D0"></a>
+<a id="art_N6B3F3"></a>
 
 ### Art. 4.
 
@@ -35071,7 +35086,7 @@ Le présent règlement entrera en vigueur le premier du mois qui suit sa publica
 
 #### Version consolidée applicable au 30/05/1977 : Règlement ministériel du 26 janvier 1973 fixant les indemnités forfaitaires spéciales revenant au personnel de l'administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux.
 
-<a id="art_N6B2F5"></a>
+<a id="art_N6B418"></a>
 
 ### Art. 1er.
 
@@ -35081,13 +35096,13 @@ A partir du 1er juin 1977, le personnel ci-après énuméré de l’administrati
 2. 0,55 euros par jour, lorsque la durée des courses journalières dépasse 1 heure sans atteindre 4 heures.
 2. er 2,16 euros par repas principal pris au dehors.
 
-<a id="art_N6B353"></a>
+<a id="art_N6B476"></a>
 
 ### Art. 2.
 
 Est abrogé le règlement ministériel du 15 mars 1966 fixant les indemnités de séjour revenant au personnel de l’administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux à l’exception, toutefois, de la disposition figurant à l’article 1er, sub 4) de ce même règlement.
 
-<a id="art_N6B38D"></a>
+<a id="art_N6B4B0"></a>
 
 ### Art. 3.
 
@@ -35095,7 +35110,7 @@ Le présent règlement sera publié au Mémorial.
 
 #### Règlement ministériel du 25 janvier 1991 fixant les indemnités de séjour revenant au personnel de l'Etat astreint au service de nuit.
 
-<a id="art_N6B3D4"></a>
+<a id="art_N6B4F7"></a>
 
 ### Art. 1er.
 
@@ -35105,7 +35120,7 @@ A partir du 1er février 1991 le personnel de l'Etat astreint au service de nuit
 2. - au moins 3 heures de service de nuit ou
 - au moins 2 heures de service de nuit dans une durée totale de 5 heures au moins.
 
-<a id="art_N6B3FD"></a>
+<a id="art_N6B520"></a>
 
 ### Art. 2.
 
@@ -35113,7 +35128,7 @@ Le présent règlement sera publié au Mémorial et entrera en vigueur le 1er f�
 
 #### Règlement du Gouvernement en Conseil du 22 octobre 1993 fixant l'indemnité forfaitaire de déménagement prévue à l'article 26 (7) du règlement grand-ducal du 5 août 1993 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l'Etat.
 
-<a id="art_N6B425"></a>
+<a id="art_N6B548"></a>
 
 ### Art. 1er.
 
@@ -35121,7 +35136,7 @@ L'indemnité forfaitaire de déménagement prévue à l'article 26 (7) du règle
 
 Elle est majorée de 625,- frs pour chaque enfant qui vit au foyer du bénéficiaire et qui doit effectivement déménager avec ce dernier.
 
-<a id="art_N6B43B"></a>
+<a id="art_N6B55E"></a>
 
 ### Art. 2.
 
@@ -35129,19 +35144,19 @@ Le présent règlement sera publié au Mémorial.
 
 #### Règlement du Gouvernement en Conseil du 22 mars 2002 concernant les modèles pour les déclarations des frais de route, de séjour et de déménagement.
 
-<a id="art_N6B460"></a>
+<a id="art_N6B583"></a>
 
 ### Art. 1er.
 
 Les déclarations des frais de route et de séjour pour voyages de service à l'intérieur du pays, celles pour voyages de service à l'étranger ainsi que celles concernant les indemnités de déménagement sont à faire respectivement suivant les modèles B, C et D ci-annexés.
 
-<a id="art_N6B473"></a>
+<a id="art_N6B596"></a>
 
 ### Art. 2.
 
 Les formulaires servant à l'établissement des déclarations visées à l'article précédent font partie des procédures communes aux matières d'engagement et d'ordonnancement de dépenses éditées sous l'autorité de la Direction du Contrôle financier.
 
-<a id="art_N6B483"></a>
+<a id="art_N6B5A6"></a>
 
 ### Art. 3.
 
@@ -35149,7 +35164,7 @@ Le présent arrêté sera publié au Mémorial.
 
 #### Règlement ministériel du 14 août 1975 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l'Etat.
 
-<a id="art_N6B4A8"></a>
+<a id="art_N6B5CB"></a>
 
 ### Art. 1er.
 
@@ -35160,7 +35175,7 @@ Sont à considérer comme exceptions au sens de l'art. 11 (1)a, du règlement gr
 3. par un agent, qui à cause de l'horaire d'arrivée de l'avion, ne peut arriver à temps à son lieu de réunion qu'en utilisant le taxi;
 4. par un agent dont la résidence se trouve par suite de particularités locales éloignée du lieu de la réunion, et si l'agent n'a pas d'autres moyens de parcourir le trajet dans un délai raisonnable.
 
-<a id="art_N6B4CB"></a>
+<a id="art_N6B5EE"></a>
 
 ### Art. 2.
 
@@ -35170,13 +35185,13 @@ Est notamment à considérer comme cas de nécessité au sens de l'art. 28 (2) d
 - recommandé aux participants de se loger, pour des raisons pratiques, dans l'hôtel même où se déroule le congrès ou la réunion sous condition que l'agent ait choisi sur la liste proposée un hôtel, ou dans l'hôtel recommandé une chambre, dont les prix s'approchent le plus des forfaits fixés par les articles 27 (1), 30 (1) et 32 (2);
 2. le caractère spécial de la mission qui requiert que l'agent luxembourgeois loge, pour des raisons de représentativité, dans un hôtel d'une catégorie plus élevée que celle à laquelle lui donnerait droit le forfait normal.
 
-<a id="art_N6B4EE"></a>
+<a id="art_N6B611"></a>
 
 ### Art. 3.
 
 Est notamment à considérer comme raison de service au sens de l'article 28 (2) du règlement précité, le fait de loger à proximité immédiate du lieu de réunion pour être en mesure d'assurer la meilleure participation possible à la réunion, sous condition qu'il n'y ait pas d'hôtels dans le proche voisinage dont les prix correspondent au forfait auquel l'agent peut prétendre.
 
-<a id="art_N6B4FE"></a>
+<a id="art_N6B621"></a>
 
 ### Art. 4.
 
@@ -35184,13 +35199,13 @@ Le présent règlement entrera en vigueur le premier jour du mois qui suit sa pu
 
 #### Règlement ministériel du 5 juillet 1989 portant fixation d'une indemnité de repas revenant au personnel de la carrière du facteur astreint à effectuer des tournées doubles.
 
-<a id="art_N6B523"></a>
+<a id="art_N6B646"></a>
 
 ### Art. 1er.
 
 Le personnel de la carrière du facteur astreint à effectuer une tournée de distribution double a droit à une indemnité forfaitaire de repas s´élevant à 0,5 du taux fixé à titre d´indemnité de jour à l´article 22 du règlement grand-ducal modifié du 18 décembre 1972 sur les frais de route et de séjour des fonctionnaires et employés de l´Etat.
 
-<a id="art_N6B536"></a>
+<a id="art_N6B659"></a>
 
 ### Art. 2.
 
@@ -35198,7 +35213,7 @@ Le présent règlement sera publié au Mémorial et entrera en vigueur le jour d
 
 #### Règlement du Gouvernement en Conseil du 6 avril 2007 portant fixation de l'indemnité kilométrique pour les cycles, cyclomoteurs et motocycles utilisés pour voyages de service.
 
-<a id="art_N6B55B"></a>
+<a id="art_N6B67E"></a>
 
 ### Art. 1er.
 
@@ -35209,13 +35224,13 @@ Pour les voyages de service qui se font par cycle, cyclomoteur ou motocycle, app
 | b) cyclomoteur (vélomoteur): | 10 cents par km; |
 | c) motocycle (motocyclette): | 28 cents par km. |
 
-<a id="art_N6B59F"></a>
+<a id="art_N6B6C2"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le 1er mai 2007.
 
-<a id="art_N6B5B2"></a>
+<a id="art_N6B6D5"></a>
 
 ### Art. 3.
 
@@ -35223,7 +35238,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 #### Règlement grand-ducal du 2 juillet 2009 portant indemnisation respectivement compensation des entraînements et des instructions militaires ainsi que du service de garde du personnel militaire cadre de l’armée.
 
-<a id="art_N6B5D7"></a>
+<a id="art_N6B6FA"></a>
 
 ### Art. 1er.
 
@@ -35243,19 +35258,19 @@ Le personnel militaire de carrière qui participe à des entraînements et instr
 | 3) | Entraînements et instructions militaires de toutes catégories dont la durée est inférieure à vingt-quatre heures: |  |  |  |
 |  | – | compensation en nature à raison d’une heure par heure prestée. |  |  |
 
-<a id="art_N6B6EC"></a>
+<a id="art_N6B80F"></a>
 
 ### Art. 2.
 
 Le personnel militaire de carrière astreint à des services de garde bénéficie d’un temps de repos de 12 heures par garde de 24 heures prestée en semaine respectivement de 20 heures par garde prestée les jours chômés ou fériés.
 
-<a id="art_N6B6FC"></a>
+<a id="art_N6B81F"></a>
 
 ### Art. 3.
 
 Le règlement grand-ducal du 23 décembre 1974 sur les frais de route et de séjour à accorder aux membres de l’armée participant à des manœuvres ou exercices est abrogé.
 
-<a id="art_N6B711"></a>
+<a id="art_N6B834"></a>
 
 ### Art. 4.
 
@@ -35265,13 +35280,13 @@ Notre Ministre de la Défense est chargé de l’exécution du présent règleme
 
 ##### Chapitre 1er.- Dispositions générales
 
-<a id="art_N6B73E"></a>
+<a id="art_N6B861"></a>
 
 ### Art. 1er.
 
 Le présent règlement fixe les conditions et les modalités du paiement des frais de route et de séjour à l’occasion de voyages de service ainsi que des indemnités de déménagement effectués par les fonctionnaires et les employés de l’Etat ainsi que par les personnes assimilées en vertu de l’article 9, désignés ci-après par le terme «agent»
 
-<a id="art_N6B751"></a>
+<a id="art_N6B874"></a>
 
 ### Art. 2.
 
@@ -35279,7 +35294,7 @@ Est considéré comme voyage de service tout déplacement hors du lieu de résid
 
 Le détachement ou l’affectation d’un agent dans un autre département, administration ou service ne donne pas lieu à remboursement de frais de route entre le lieu de son affectation d’origine et celui de sa nouvelle affectation. L’affectation à des lieux de travail différents ne donne pas lieu à remboursement de frais de route en cas de déplacement entre ces lieux de travail.
 
-<a id="art_N6B764"></a>
+<a id="art_N6B887"></a>
 
 ### Art. 3.
 
@@ -35292,7 +35307,7 @@ Le détachement ou l’affectation d’un agent dans un autre département, admi
 
 Les conditions de ces autorisations ainsi que les mesures de contrôle des voyages de service font l’objet d’un règlement du Gouvernement en Conseil.
 
-<a id="art_N6B79C"></a>
+<a id="art_N6B8BF"></a>
 
 ### Art. 4.
 
@@ -35302,7 +35317,7 @@ Les indemnités pour frais de route et de séjour sont à proportionner aux dép
 
 Le déplacement effectué par l’agent pour se rendre de son domicile à sa résidence officielle et pour rentrer de celle-ci à son domicile ne donne pas lieu à indemnisation.
 
-<a id="art_N6B7B2"></a>
+<a id="art_N6B8D5"></a>
 
 ### Art. 5.
 
@@ -35310,7 +35325,7 @@ Les déclarations des frais de route et de séjour sont consignées sur une feui
 
 Ces déclarations sont signées par la personne appelée à délivrer l’autorisation de voyage conformément à l’article 3.
 
-<a id="art_N6B7C5"></a>
+<a id="art_N6B8E8"></a>
 
 ### Art. 6.
 
@@ -35318,7 +35333,7 @@ Pour le calcul des frais de route et de séjour le lieu de la résidence officie
 
 En cas de détachement, le nouveau lieu de travail est considéré comme point de départ dans le sens des dispositions qui précèdent.
 
-<a id="art_N6B7D8"></a>
+<a id="art_N6B8FB"></a>
 
 ### Art. 7.
 
@@ -35330,19 +35345,19 @@ Les agents participant à des cours de formation obligatoires ou facultatifs ou 
 
 Les fonctionnaires stagiaires et les enseignants stagiaires participant à des cours de formation générale à plein temps dans le cadre du stage de formation n’ont pas droit au remboursement des frais de route.
 
-<a id="art_N6B7F1"></a>
+<a id="art_N6B914"></a>
 
 ### Art. 8.
 
 Si au sens des articles 6. et 7. le domicile est plus proche du lieu de destination que la résidence officielle, les frais de route sont calculés à partir du domicile si le domicile est le lieu de départ.
 
-<a id="art_N6B801"></a>
+<a id="art_N6B924"></a>
 
 ### Art. 9.
 
 Par décision du Ministre d’Etat les personnes étrangères à l’administration effectuant un voyage dans l’intérêt de l’Etat peuvent être assimilées aux fonctionnaires et employés de l’Etat aux fins du remboursement de leurs frais de route et de séjour conformément aux dispositions du présent règlement.
 
-<a id="art_N6B811"></a>
+<a id="art_N6B934"></a>
 
 ### Art. 10.
 
@@ -35350,7 +35365,7 @@ Les membres du Gouvernement ont droit au remboursement de leurs dépenses réell
 
 ##### Chapitre 2.- Frais de route
 
-<a id="art_N6B827"></a>
+<a id="art_N6B94A"></a>
 
 ### Art. 11.
 
@@ -35361,7 +35376,7 @@ En principe chaque déplacement pour compte de l’Etat doit se faire aux condit
 
 L’appréciation des exceptions visées à l’alinéa 1 est de la compétence des personnes appelées à donner l’autorisation de voyage, conformément à l’article 3, pour autant que ces exceptions ne soient pas précisées par un règlement du Gouvernement en Conseil.
 
-<a id="art_N6B844"></a>
+<a id="art_N6B967"></a>
 
 ### Art. 12.
 
@@ -35378,13 +35393,13 @@ Pour les voyages en avion, les agents n’ont droit à la classe affaires que lo
 3. déplacement des ambassadeurs et des agents qui les accompagnent lors de la remise des lettres de créance respectivement des lettres de rappel;
 4. lorsque des billets de la classe économique ne sont pas disponibles. Un certificat ad hoc établi par la compagnie d’aviation concernée est à joindre, le cas échéant, à la déclaration de remboursement.
 
-<a id="art_N6B86D"></a>
+<a id="art_N6B990"></a>
 
 ### Art. 13.
 
 Lorsque les frais de route sont assumés par un organisme étranger ou international, il n’y a pas lieu à remboursement de la part de l’Etat.
 
-<a id="art_N6B87D"></a>
+<a id="art_N6B9A0"></a>
 
 ### Art. 14.
 
@@ -35400,7 +35415,7 @@ Les frais de déplacement en taxi sur ces trajets ne donnent pas lieu à rembour
 
 Les frais relatifs à l’utilisation, pendant la durée du voyage de service, d’un parking payant sont remboursés sur présentation d’une pièce justificative et sur base d’un tarif normal adapté à la durée du voyage.
 
-<a id="art_N6B8D2"></a>
+<a id="art_N6B9F5"></a>
 
 ### Art. 15.
 
@@ -35408,7 +35423,7 @@ Lorsqu’en cas d’accident survenu à un véhicule privé utilisé dans les co
 
 ##### Chapitre 3.- Frais de séjour à l’intérieur du pays
 
-<a id="art_N6B8E8"></a>
+<a id="art_N6BA0B"></a>
 
 ### Art. 16.
 
@@ -35416,7 +35431,7 @@ L’indemnité de jour ainsi que l’indemnité de nuit pour voyages à l’int�
 
 Aucune indemnité de jour n’est accordée lorsque le voyage de service peut s’effectuer pendant les heures de service normales et lorsqu’il ne comporte aucun repas.
 
-<a id="art_N6B8FB"></a>
+<a id="art_N6BA1E"></a>
 
 ### Art. 17.
 
@@ -35424,7 +35439,7 @@ Aucune indemnité de jour n’est accordée lorsque le voyage de service peut s�
 
 **(2)** Ces indemnités sont fixées par règlement du Ministre d’Etat. Elles ne peuvent être supérieures aux taux fixés en vertu de l’article 18.
 
-<a id="art_N6B920"></a>
+<a id="art_N6BA43"></a>
 
 ### Art. 18.
 
@@ -35436,13 +35451,13 @@ Par dérogation à l’article 16, un règlement du Gouvernement en Conseil fixe
 
 ##### Chapitre 4.- Frais de séjour à l’étranger
 
-<a id="art_N6B943"></a>
+<a id="art_N6BA66"></a>
 
 ### Art. 19.
 
 Les frais de séjour à l’étranger comprennent une indemnité de jour et une indemnité de nuit.
 
-<a id="art_N6B953"></a>
+<a id="art_N6BA76"></a>
 
 ### Art. 20.
 
@@ -35465,7 +35480,7 @@ Les dispositions du présent paragraphe s’appliquent également à l’agent e
 
 Le retour en famille peut être remplacé par le remboursement des frais de route du conjoint ou partenaire sur le lieu de détachement suivant les modalités décrites ci-dessus.
 
-<a id="art_N6B9C9"></a>
+<a id="art_N6BAEC"></a>
 
 ### Art. 21.
 
@@ -35479,7 +35494,7 @@ Le retour en famille peut être remplacé par le remboursement des frais de rout
 
 **(3)** Les frais de représentation ne sont pas remboursés en vertu du présent règlement.
 
-<a id="art_N6BA0A"></a>
+<a id="art_N6BB2D"></a>
 
 ### Art. 22.
 
@@ -35489,7 +35504,7 @@ La note d’hôtel est remboursée chaque fois que l’intéressé s’est vu da
 
 Si une note d’hôtel n’est pas présentée, une indemnité forfaitaire équivalent à 20% de l’indemnité de nuit est allouée à l’intéressé, sous réserve que les frais de séjour ne sont pas supportés par un organisme tiers ou que l’agent ait voyagé à bord d’un avion pendant la totalité de la période précitée.
 
-<a id="art_N6BA20"></a>
+<a id="art_N6BB43"></a>
 
 ### Art. 23.
 
@@ -35505,13 +35520,13 @@ Si une note d’hôtel n’est pas présentée, une indemnité forfaitaire équi
 
 Les dérogations sub a) à e) doivent faire l’objet d’une autorisation formelle préalable de la part du ministre du ressort.
 
-<a id="art_N6BA61"></a>
+<a id="art_N6BB84"></a>
 
 ### Art. 24.
 
 Les voyages à l’étranger qui se font dans un périmètre ne dépassant pas de 25 km la limite frontière, sont assimilés aux voyages à l’intérieur du pays.
 
-<a id="art_N6BA71"></a>
+<a id="art_N6BB94"></a>
 
 ### Art. 25.
 
@@ -35519,7 +35534,7 @@ Les sommes revenant à des délégués étrangers qui représentent le Luxembour
 
 ##### Chapitre 5.- Assurances
 
-<a id="art_N6BA87"></a>
+<a id="art_N6BBAA"></a>
 
 ### Art. 26.
 
@@ -35533,7 +35548,7 @@ L’Etat ne rembourse pas les charges relatives à d’éventuelles assurances c
 
 ##### Chapitre 6.- Frais de déménagement
 
-<a id="art_N6BAA6"></a>
+<a id="art_N6BBC9"></a>
 
 ### Art. 27.
 
@@ -35557,13 +35572,13 @@ L’Etat ne rembourse pas les charges relatives à d’éventuelles assurances c
 
 ##### Chapitre 7.- Dispositions spéciales
 
-<a id="art_N6BB3A"></a>
+<a id="art_N6BC5D"></a>
 
 ### Art. 28.
 
 Les cas non prévus par le présent règlement dans lesquels des frais de route, de séjour ou de déménagement laissés à charge d’un agent constitueraient pour lui une rigueur, peuvent être réglés, conformément aux principes généraux régissant la matière, par décision du Ministre d’Etat, sur proposition du ministre du ressort.
 
-<a id="art_N6BB4A"></a>
+<a id="art_N6BC6D"></a>
 
 ### Art. 29.
 
@@ -35575,7 +35590,7 @@ Les avances non régularisées à la clôture définitive de l’exercice auquel
 
 ##### Chapitre 8.- Dispositions finales
 
-<a id="art_N6BB6E"></a>
+<a id="art_N6BC91"></a>
 
 ### Art. 30.
 
@@ -35587,7 +35602,7 @@ Sans préjudice des dispositions de l’alinéa 2 du présent article, les dispo
 
 Il n’est pas dérogé, par ce qui précède, aux dispositions spéciales qui réglementent les voyages de service des membres du collège médical et des fonctionnaires commis experts par les tribunaux.
 
-<a id="art_N6BB8F"></a>
+<a id="art_N6BCB2"></a>
 
 ### Art. 31.
 
@@ -35595,19 +35610,19 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Règlement du Gouvernement en Conseil du 19 juin 2015 portant fixation de l'indemnité kilométrique pour les voitures utilisées pour voyages de service.
 
-<a id="art_N6BBB5"></a>
+<a id="art_N6BCD8"></a>
 
 ### Art. 1er.
 
 Pour les voyages de service qui se font en automobiles appartenant à des fonctionnaires ou employés de l’Etat, l’indemnité kilométrique est fixée à 30 centimes d’euro.
 
-<a id="art_N6BBC8"></a>
+<a id="art_N6BCEB"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.
 
-<a id="art_N6BBD8"></a>
+<a id="art_N6BCFB"></a>
 
 ### Art. 3.
 
@@ -35615,7 +35630,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Règlement du Gouvernement en Conseil du 18 décembre 2023 fixant les indemnités prévues aux articles 16, alinéa 1er, 18 et 20, paragraphe 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
 
-<a id="art_N6BBFD"></a>
+<a id="art_N6BD20"></a>
 
 ### Art. 1er.
 
@@ -35626,7 +35641,7 @@ Les indemnités prévues à l’article 16, alinéa 1er, du règlement grand-duc
 
 L’indemnité prévue à l’article 18 du même règlement est fixée à 1 euro.
 
-<a id="art_N6BC31"></a>
+<a id="art_N6BD54"></a>
 
 ### Art. 2.
 
@@ -35682,25 +35697,25 @@ Les indemnités prévues à l’article 20, paragraphe 1er, du même règlement 
 | Ukraine Kiev | 5060 | 120220 |
 | Autres | 70 | 200 |
 
-<a id="art_N6C207"></a>
+<a id="art_N6C32A"></a>
 
 ### Art. 3.
 
 Pour les pays qui président le Conseil de l’Union européenne, les montants plafonds de l’indemnité de nuit sont augmentés de 10 pour cent pendant la durée de la présidence.
 
-<a id="art_N6C217"></a>
+<a id="art_N6C33A"></a>
 
 ### Art. 4.
 
 Le règlement du Gouvernement en Conseil du 22 décembre 2022 fixant les indemnités prévues aux articles 16, alinéa 1er, 18 et 20, paragraphe 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État est abrogé.
 
-<a id="art_N6C237"></a>
+<a id="art_N6C35A"></a>
 
 ### Art. 5.
 
 Le présent règlement entre en vigueur le 1er janvier 2024.
 
-<a id="art_N6C24A"></a>
+<a id="art_N6C36D"></a>
 
 ### Art. 6.
 
@@ -35710,7 +35725,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 ##### Version consolidée applicable au 22/08/2023 : Loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'Etat.
 
-<a id="art_N6C27C"></a>
+<a id="art_N6C39F"></a>
 
 ### Art. 29.
 
@@ -35726,13 +35741,13 @@ Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément 
 
 #### Version consolidée applicable au 01/09/2020 : Loi du 24 février 1984 sur le régime des langues.
 
-<a id="art_N6C2EF"></a>
+<a id="art_N6C412"></a>
 
 ### Art. 1er. Langue nationale
 
 La langue nationale des Luxembourgeois est le luxembourgeois.
 
-<a id="art_N6C32B"></a>
+<a id="art_N6C44E"></a>
 
 ### Art. 2. Langue de la législation
 
@@ -35742,13 +35757,13 @@ Au cas où des règlements non visés à l'alinéa qui précède sont édictés 
 
 Le présent article ne déroge pas aux dispositions applicables en matière de conventions internationales.
 
-<a id="art_N6C376"></a>
+<a id="art_N6C499"></a>
 
 ### Art. 3. Langues administratives et judiciaires
 
 En matiére administrative, contentieuse ou non contentieuse, et en matière judiciaire, il peut être fait usage des langues française, allemande ou luxembourgeois e, sans préjudice des dispositions spéciales concernant certaines matières.
 
-<a id="art_N6C3AF"></a>
+<a id="art_N6C4D2"></a>
 
 ### Art. 3bis. Langue des signes
 
@@ -35762,13 +35777,13 @@ Sur demande écrite auprès du ministre ayant la politique pour personnes handic
 
 Tout élève malentendant, sourd ou privé de l’usage de la parole a le droit de suivre son enseignement fondamental et secondaire dans la langue des signes selon les conditions fixées par la loi du 20 juillet 2018 portant création des Centres de compétences en psycho-pédagogie spécialisée en faveur de l’inclusion scolaire.
 
-<a id="art_N6C445"></a>
+<a id="art_N6C568"></a>
 
 ### Art. 4. Requêtes administratives
 
 Lorsqu'une requête est rédigée en luxembourgeois, en français ou en allemand, l'administration doit se servir, dans la mesure du possible, pour sa réponse de la langue choisie par le requérant.
 
-<a id="art_N6C47E"></a>
+<a id="art_N6C5A1"></a>
 
 ### Art. 5. Abrogation
 
@@ -35782,7 +35797,7 @@ Sont abrogées toutes les dispositions incompatibles avec la présente loi, nota
 
 ##### **Chapitre 1er ** — **Objectifs et mise en œuvre de la politique sur la langue luxembourgeoise**
 
-<a id="art_N6C4F9"></a>
+<a id="art_N6C61C"></a>
 
 ### Art. 1er.
 
@@ -35797,7 +35812,7 @@ Un plan d’action sur la langue luxembourgeoise, désigné ci-après « plan d�
 
 Le plan d’action adopté par le Gouvernement porte sur une période de vingt ans. Tous les cinq ans sa mise en œuvre est évaluée et le plan d’action révisé, le cas échéant.
 
-<a id="art_N6C52F"></a>
+<a id="art_N6C652"></a>
 
 ### Art. 2.
 
@@ -35807,7 +35822,7 @@ Le Gouvernement peut, dans la limite des crédits budgétaires, décider de déc
 
 ##### **Section 1ère ** — **Le commissaire à la langue luxembourgeoise**
 
-<a id="art_N6C561"></a>
+<a id="art_N6C684"></a>
 
 ### Art. 3.
 
@@ -35817,7 +35832,7 @@ Le commissaire est appelé à contribuer à la mise en œuvre de la politique de
 
 Le commissaire établit un rapport d’activités annuel et peut, sur demande du Gouvernement ou de sa propre initiative, établir un rapport thématique.
 
-<a id="art_N6C583"></a>
+<a id="art_N6C6A6"></a>
 
 ### Art. 4.
 
@@ -35825,7 +35840,7 @@ Le commissaire est nommé, sur proposition du Gouvernement en conseil, par le Gr
 
 ##### **Section 2 ** — **Le Centre pour le luxembourgeois**
 
-<a id="art_N6C5A2"></a>
+<a id="art_N6C6C5"></a>
 
 ### Art. 5.
 
@@ -35835,7 +35850,7 @@ La dénomination luxembourgeoise du Centre est « Zenter fir d’Lëtzebuerger S
 
 Une autre dénomination peut être conférée au Centre par voie de règlement grand-ducal.
 
-<a id="art_N6C5C4"></a>
+<a id="art_N6C6E7"></a>
 
 ### Art. 6.
 
@@ -35854,7 +35869,7 @@ Les règles visées à l’alinéa 3, point 1, sont soumises pour avis au Consei
 
 Le Centre peut être chargé par les ministres d’autres missions dans le domaine de la mise en œuvre de la politique de la langue luxembourgeoise.
 
-<a id="art_N6C609"></a>
+<a id="art_N6C72C"></a>
 
 ### Art. 7.
 
@@ -35862,7 +35877,7 @@ Le Centre peut être chargé par les ministres d’autres missions dans le domai
 
 **(2)** Le cadre du personnel peut être complété, selon les besoins et dans les limites des crédits budgétaires, par des fonctionnaires stagiaires, des employés et des salariés de l’État.
 
-<a id="art_N6C633"></a>
+<a id="art_N6C756"></a>
 
 ### Art. 8.
 
@@ -35870,13 +35885,13 @@ Le Centre peut être chargé par les ministres d’autres missions dans le domai
 
 **(2)** Le directeur adjoint du Centre doit être titulaire d'un grade ou diplôme délivré par un établissement d'enseignement supérieur reconnu par l'État du siège de I‘établissement et sanctionnant I‘accomplissement avec succès d'au moins un bachelor ou de son équivalent.
 
-<a id="art_N6C658"></a>
+<a id="art_N6C77B"></a>
 
 ### Art. 9.
 
 Le cadre prévu à l’article 7 peut, suivant les besoins et dans la limite des crédits budgétaires et par dérogation à l’article 3, paragraphe 1er, alinéa 1er, lettre e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État être complété par des employés prouvant par des certificats avoir atteint le niveau C1 du cadre européen commun de référence des langues dans au moins une des trois langues administratives définies par la loi du 24 février 1984 sur le régime des langues.
 
-<a id="art_N6C678"></a>
+<a id="art_N6C79B"></a>
 
 ### Art. 10.
 
@@ -35884,7 +35899,7 @@ Dans l’accomplissement de ses missions, le Centre peut recourir à des experts
 
 ##### **Section 3 ** — **Le Conseil permanent de la langue luxembourgeoise**
 
-<a id="art_N6C697"></a>
+<a id="art_N6C7BA"></a>
 
 ### Art. 11.
 
@@ -35900,7 +35915,7 @@ Le CPLL est demandé en son avis sur tous les projets et propositions de loi con
 
 **(4)** La dénomination luxembourgeoise du CPLL est « Conseil fir d’Lëtzebuerger Sprooch ». Une autre dénomination peut être conférée au CPLL par voie de règlement grand-ducal.
 
-<a id="art_N6C6EC"></a>
+<a id="art_N6C80F"></a>
 
 ### Art. 12.
 
@@ -35922,19 +35937,19 @@ L’indemnisation des membres, du secrétaire administratif et des experts qui n
 
 ##### **Chapitre 3 ** — **Dispositions modificatives, transitoires et finales**
 
-<a id="art_N6C763"></a>
+<a id="art_N6C886"></a>
 
 ### Art. 13.
 
 L’article 24 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État est abrogé.
 
-<a id="art_N6C77B"></a>
+<a id="art_N6C89E"></a>
 
 ### Art. 14.
 
 À l’article 1er, alinéa 2, de la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État est ajouté un tiret libellé comme suit :commissaire à la langue luxembourgeoise.
 
-<a id="art_N6C7A4"></a>
+<a id="art_N6C8C7"></a>
 
 ### Art. 15.
 
@@ -35943,7 +35958,7 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 1. er commissaire à la langue luxembourgeoise de commissaire du Gouvernement chargé de l’instruction disciplinaire
 2. commissaire à la langue luxembourgeoise
 
-<a id="art_N6C7D1"></a>
+<a id="art_N6C8F4"></a>
 
 ### Art. 16.
 
@@ -35952,19 +35967,19 @@ La loi du 15 décembre 2017 concernant le budget des recettes et des dépenses d
 1. - Centre pour le luxembourgeois.
 2. Dotation dans l’intérêt du fonctionnement du Centre pour le luxembourgeois : 50.000 euros ».
 
-<a id="art_N6C815"></a>
+<a id="art_N6C938"></a>
 
 ### Art. 17.
 
 Les employés de l’État visés à l’article 7 et relevant de la rubrique « Administration générale » telle qu’énoncée à l’article 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, en service auprès de l’administration gouvernementale, affectés au Ministère de la culture, service du « Lëtzebuerger online Dictionnaire » au moment de l’entrée en vigueur de la présente loi, sont intégrés dans le cadre du personnel du Centre au grade et échelon atteints au moment de l’entrée en vigueur de la présente loi.
 
-<a id="art_N6C82A"></a>
+<a id="art_N6C94D"></a>
 
 ### Art. 18.
 
 Le président et les membres du CPLL nommés avant l’entrée en vigueur de la présente loi restent en place jusqu’à échéance de la durée de leur mandat.
 
-<a id="art_N6C83A"></a>
+<a id="art_N6C95D"></a>
 
 ### Art. 19.
 
@@ -35976,7 +35991,7 @@ La référence à la présente loi se fait sous la forme suivante : « loi du 20
 
 #### Code du travail
 
-<a id="art_N6C88B"></a>
+<a id="art_N6C9AE"></a>
 
 ### Art. L. 111-1.
 
@@ -35988,7 +36003,7 @@ Le droit de former peut être retiré à un organisme de formation lorsque la te
 
 Les modalités pour accorder et retirer le droit de former ainsi que le nombre maximum de personnes que les organismes de formation ont le droit de former sont fixées par règlement grand-ducal.
 
-<a id="art_N6C8FC"></a>
+<a id="art_N6CA1F"></a>
 
 ### Art. L. 111-2.
 
@@ -35996,7 +36011,7 @@ La formation pratique en milieu professionnel et le stage en milieu professionne
 
 Le statut de la personne à former est soit celui de l’apprenti lorsqu’il s’agit d’un contrat d’apprentissage, soit celui de l’élève stagiaire lorsqu’il s’agit d’une convention de stage de formation.
 
-<a id="art_N6C959"></a>
+<a id="art_N6CA7C"></a>
 
 ### Art. L. 111-3.
 
@@ -36087,7 +36102,7 @@ Il doit à son patron formateur et à son tuteur respect et loyauté. L’appren
 
 **(9)** (L. 24 juillet 2024) Pour un contrat d’apprentissage existant au 4 août 2024, l’organisme de formation doit remettre à l’apprenti qui en fait la demande dans un délai de deux mois à partir de la réception de celle-ci un document conforme aux dispositions des paragraphes 1erà 1er*ter*.
 
-<a id="art_N6CBBC"></a>
+<a id="art_N6CCDF"></a>
 
 ### Art. L. 111-4.
 
@@ -36095,7 +36110,7 @@ Pour former un apprenti, le patron formateur doit être âgé de vingt-et-un ans
 
 Si ces conditions ne sont plus remplies, les autorités qui ont accordé le droit de former peuvent retirer ce droit ou définir les modalités selon lesquelles l’organisme de formation a le droit de continuer à dispenser la formation jusqu’au terme des contrats d’apprentissage.
 
-<a id="art_N6CC07"></a>
+<a id="art_N6CD2A"></a>
 
 ### Art. L. 111-5.
 
@@ -36114,7 +36129,7 @@ Si ces conditions ne sont plus remplies, les autorités qui ont accordé le droi
 
 Les organismes de formation qui accueillent des apprentis dans le cadre d’une convention de lieux de formation pluriels doivent disposer du droit de former.
 
-<a id="art_N6CCA4"></a>
+<a id="art_N6CDC7"></a>
 
 ### Art. L. 111-6.
 
@@ -36126,7 +36141,7 @@ La personne qui veut faire un apprentissage doit en informer ce service qui le r
 
 La personne qui bénéficie d’un poste d’apprentissage obtenu de sa propre initiative doit également en informer ce service.
 
-<a id="art_N6CD01"></a>
+<a id="art_N6CE24"></a>
 
 ### Art. L. 111-7.
 
@@ -36150,7 +36165,7 @@ En cas de réussite, de réorientation ou si l’apprenti est écarté de la for
 
 **(3)** En cas de changement d’organisme de formation, la période d’apprentissage accomplie antérieurement dans le même métier ou profession est mise en compte. Les unités acquises lors d’un apprentissage antérieur sont capitalisées et restent acquises pendant un certain nombre d’années, à définir selon la profession.
 
-<a id="art_N6CDAA"></a>
+<a id="art_N6CECD"></a>
 
 ### Art. L. 111-8.
 
@@ -36173,7 +36188,7 @@ Le contrat d’apprentissage peut être résilié par l’organisme de formation
 
 **(5)** La procédure de résiliation est fixée par règlement grand-ducal.
 
-<a id="art_N6CE48"></a>
+<a id="art_N6CF6B"></a>
 
 ### Art. L. 111-9.
 
@@ -36191,7 +36206,7 @@ Lorsqu’une réunion de conciliation est décidée, le conseiller à l’appren
 
 Si la conciliation n’aboutit pas, chaque partie concernée peut saisir le tribunal du travail du litige en question.
 
-<a id="art_N6CED2"></a>
+<a id="art_N6CFF5"></a>
 
 ### Art. L. 111-10.
 
@@ -36220,13 +36235,13 @@ Les dispositions légales et réglementaires relatives à la protection des jeun
 
 Les modalités d’organisation des stages de formation sont définies par règlement grand-ducal.
 
-<a id="art_N6CF95"></a>
+<a id="art_N6D0B8"></a>
 
 ### Art. L. 111-11.
 
 Pendant la durée de l’apprentissage, le patron verse à l’apprenti une indemnité d’apprentissage qui est fixée par règlement grand-ducal, sur avis des chambres professionnelles compétentes. Cette indemnité est adaptée aux variations de l’indice du coût de la vie.
 
-<a id="art_N6CFEF"></a>
+<a id="art_N6D112"></a>
 
 ### Art. L. 111-12.
 
@@ -36248,7 +36263,7 @@ Dans l’organisme de formation, le conseiller à l’apprentissage intervient :
 
 #### Version consolidée applicable au 10/07/2023 : Loi du 28 juillet 2018 relative au revenu d'inclusion socialeet portant modification1° du Code de la Sécurité sociale ;2° du Code du travail ;3° de la loi modifiée du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité ;4° de la loi modifiée du 10 août 1991 sur la profession d’avocat ;5° de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées ;6° de la loi modifiée du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l'accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit ;7° de la loi modifiée du 18 décembre 2009 organisant l'aide socialeet portant abrogation de la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti.
 
-<a id="art_N6D08C"></a>
+<a id="art_N6D1AF"></a>
 
 ### Art. 2.
 
@@ -36288,7 +36303,7 @@ Cette disposition ne s'applique pas aux travailleurs salariés ou non-salariés 
 10. qui exerce une activité à titre d’indépendant pendant une période de six mois renouvelable une fois, qui ne génère pas, à l’issue de cette période un revenu professionnel supérieur ou égal au taux du salaire social minimum non qualifié ;
 11. qui exerce une activité à titre d’indépendant et dont le revenu professionnel est supérieur ou égal au taux du salaire social minimum non qualifié.
 
-<a id="art_N6D17F"></a>
+<a id="art_N6D2A2"></a>
 
 ### Art. 3.
 
@@ -36315,7 +36330,7 @@ Cette disposition ne s'applique pas aux travailleurs salariés ou non-salariés 
 
 #### Code du travail
 
-<a id="art_N6D243"></a>
+<a id="art_N6D366"></a>
 
 ### Art. L. 522-1.
 
@@ -36339,7 +36354,7 @@ Toutefois, l’adolescent âgé de seize ans et de dix-sept ans accomplis et qui
 
 Dans le cas visé au deuxième alinéa du paragraphe (1) de l’article L. 521-14, les taux d’indemnisation visés au présent paragraphe sont majorés de cinq pour cent.
 
-<a id="art_N6D321"></a>
+<a id="art_N6D444"></a>
 
 ### Art. L. 522-2.
 
@@ -36351,7 +36366,7 @@ En cas de renonciation aux études ou à la formation au cours d’une année d�
 
 **(3)** Les dispositions de l’article L. 521-4 sont applicables.
 
-<a id="art_N6D390"></a>
+<a id="art_N6D4B3"></a>
 
 ### Art. L. 522-3. (L. 22 décembre 2006)
 
@@ -36363,7 +36378,7 @@ Il en est de même des périodes couvertes par contrat d’apprentissage, des p�
 
 **(3)** Les périodes d’incapacité de travail temporaire et d’indisponibilité temporaire pour le marché de l’emploi n’interrompent pas le cours des périodes d’inscription prévues au paragraphe (3) de l’article L. 522-1, pourvu que leur durée globale ne dépasse pas trente jours de calendrier.
 
-<a id="art_N6D412"></a>
+<a id="art_N6D535"></a>
 
 ### Art. L. 523-1.
 
@@ -36399,7 +36414,7 @@ La décision d’une telle prolongation exceptionnelle est prise par le directeu
 
 **(3)** L’attribution ou le maintien de l’indemnité de chômage complet peuvent être subordonnés à la participation du chômeur à des stages de préparation en entreprise, à des actions de formation, à des travaux d’utilité publique ou à des expériences de travail mis en œuvre sur la base du présent article.
 
-<a id="art_N6D555"></a>
+<a id="art_N6D678"></a>
 
 ### Art. L. 524-1.
 
@@ -36431,7 +36446,7 @@ Dans ce cas, le droit à l’indemnité de chômage complet est allongé d’une
 
 Le remboursement n’est dû et versé que douze mois après l’engagement à condition que le contrat de travail soit toujours en vigueur au moment de la demande et que la durée du stage de professionnalisation ait été expressément déduite d’une éventuelle période d’essai légale, conventionnelle ou contractuelle.
 
-<a id="art_N6D659"></a>
+<a id="art_N6D77C"></a>
 
 ### Art. L. 524-2.
 
@@ -36441,13 +36456,13 @@ Ce contrat est réservé aux promoteurs qui peuvent offrir aux demandeurs d’em
 
 **(2)** Le contrat de réinsertion-emploi est conclu entre le promoteur, le demandeur d’emploi et l’Agence pour le développement de l’emploi.
 
-<a id="art_N6D6BF"></a>
+<a id="art_N6D7E2"></a>
 
 ### Art. L. 524-3.
 
 Un tuteur est désigné par le promoteur pour assister et encadrer le demandeur d’emploi pendant la durée du contrat de réinsertion-emploi. Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur et le tuteur établissent avec le demandeur d’emploi un plan de formation, envoyé en copie à l’Agence pour le développement de l’emploi.
 
-<a id="art_N6D719"></a>
+<a id="art_N6D83C"></a>
 
 ### Art. L. 524-4.
 
@@ -36461,7 +36476,7 @@ Au cas où son indemnité de chômage, son indemnité d’attente, son indemnit�
 
 **(3)** L’indemnité est soumise aux charges sociales et fiscales prévues en matière de salaires, la part patronale étant prise en charge par le Fonds pour l’emploi.
 
-<a id="art_N6D7B0"></a>
+<a id="art_N6D8D3"></a>
 
 ### Art. L. 524-5.
 
@@ -36469,7 +36484,7 @@ Une quote-part correspondant à cinquante pour cent du salaire social minimum po
 
 Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des députés peut modifier les taux prévus à l’alinéa qui précède sans que ces taux ne puissent être ni inférieurs à vingt-cinq pour cent ni supérieurs à soixante-quinze pour cent.
 
-<a id="art_N6D801"></a>
+<a id="art_N6D924"></a>
 
 ### Art. L. 524-6.
 
@@ -36479,7 +36494,7 @@ Cette prime ne peut être prise en compte comme autre revenu pour le calcul de l
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux demandeurs d’emploi sous contrat de réinsertion-emploi.
 
-<a id="art_N6D855"></a>
+<a id="art_N6D978"></a>
 
 ### Art. L. 524-7.
 
@@ -36491,13 +36506,13 @@ En cas de travail de nuit, de travail supplémentaire, de travail pendant les jo
 
 #### Règlement ministériel du 28 juillet 1982 établissant le contrat type à utiliser dans les relations entre l'employeur et l'élève ou l'étudiant.
 
-<a id="art_N6D8D8"></a>
+<a id="art_N6D9FB"></a>
 
 ### Art. 1er.
 
 Le contrat à utiliser dans les relations entre l'employeur et l'élève ou l'étudiant conclu en application de l'article 3 de la loi du 22 juillet 1982 concernant l'occupation d'élèves ou d'étudiants pendant les vacances scolaires doit contenir au moins les clauses reprises au contrat type annexé au présent règlement.
 
-<a id="art_N6D8EB"></a>
+<a id="art_N6DA0E"></a>
 
 ### Art. 2.
 
@@ -36505,7 +36520,7 @@ Le présent règlement sortira ses effets le jour de sa publication au Mémorial
 
 #### Règlement grand-ducal du 10 août 1982 fixant les conditions et modalités des stages de formation et des stages probatoires prévus à l'article 1er alinéa 2 de la loi du 22 juillet 1982 concernant l'occupation d'élèves et d'étudiants pendant les vacances scolaires.
 
-<a id="art_N6D910"></a>
+<a id="art_N6DA33"></a>
 
 ### Art. 1er.
 
@@ -36520,7 +36535,7 @@ Le présent règlement sortira ses effets le jour de sa publication au Mémorial
 1. avoir un caractère d'information ou d'orientation;
 2. ne pas affecter l'étudiant ou l'élève à des tâches requérant un rendement comparable à celui d'un travail normal.
 
-<a id="art_N6D955"></a>
+<a id="art_N6DA78"></a>
 
 ### Art. 2.
 
@@ -36530,7 +36545,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 ##### Code du travail
 
-<a id="art_N6D987"></a>
+<a id="art_N6DAAA"></a>
 
 ### Art. L. 151-1.
 
@@ -36538,7 +36553,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 (...)*(supprimé par laL. 4 juin 2020)*
 
-<a id="art_N6D9EF"></a>
+<a id="art_N6DB12"></a>
 
 ### Art. L. 151-2.
 
@@ -36546,7 +36561,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 (L. 4 juin 2020) Il en est de même de la personne dont l’inscription scolaire ou le statut de volontaire au sens de laloi modifiée du 31 octobre 2007sur le service volontaire des jeunes a pris fin depuis moins de quatre mois.
 
-<a id="art_N6DA49"></a>
+<a id="art_N6DB6C"></a>
 
 ### Art. L. 151-3. (L. 24 juillet 2024)
 
@@ -36595,19 +36610,19 @@ L’ordonnance du président de la juridiction du travail est exécutoire par pr
 
 En cas de récidive dans le délai de deux ans, ces peines peuvent être portées au double du maximum.
 
-<a id="art_N6DB7B"></a>
+<a id="art_N6DC9E"></a>
 
 ### Art. L. 151-4.
 
 (L. 4 juin 2020) Le contrat ne peut être conclu pour une période excédant deux mois ou trois cent quarante-six heures par année civile. Cette durée ne peut être dépassée, même en cas de pluralité de contrats.
 
-<a id="art_N6DBB9"></a>
+<a id="art_N6DCDC"></a>
 
 ### Art. L. 151-5.
 
 (L. 4 juin 2020) L’employeur qui occupe un élève ou un étudiant dans les conditions du présent chapitre est tenu de lui verser un salaire qui ne peut être inférieur à quatre-vingts pour cent du salaire social minimum, gradué le cas échéant en raison de l’âge.
 
-<a id="art_N6DC0B"></a>
+<a id="art_N6DD2E"></a>
 
 ### Art. L. 151-6.
 
@@ -36615,7 +36630,7 @@ L’occupation d’élèves et d’étudiants ne donne pas lieu à affiliation e
 
 Le salaire revenant à l’élève ou l’étudiant est exonéré des cotisations dues en matière d’allocations familiales.
 
-<a id="art_N6DC80"></a>
+<a id="art_N6DDA3"></a>
 
 ### Art. L. 151-7.
 
@@ -36628,13 +36643,13 @@ Toutefois, ne sont pas applicables:
 3. loi du 8 avril 1982
 4. les dispositions de l’article L. 122-4.
 
-<a id="art_N6DCFE"></a>
+<a id="art_N6DE21"></a>
 
 ### Art. L. 151-8.
 
 (L. 4 juin 2020) Les contestations pouvant naître de l’application du présent chapitre relèvent des juridictions compétentes en matière de louage de services, compte tenu de la nature de l’occupation.
 
-<a id="art_N6DD44"></a>
+<a id="art_N6DE67"></a>
 
 ### Art. L. 151-9.
 
@@ -36646,7 +36661,7 @@ Toutefois, ne sont pas applicables:
 
 ##### **Chapitre 1er.** — **Adaptation temporaire des mesures en faveur de l'emploi des jeunes**
 
-<a id="art_N6DDBE"></a>
+<a id="art_N6DEE1"></a>
 
 ### Art. 1er.
 
@@ -36664,13 +36679,13 @@ Jusqu'au 31 décembre 2012, les dispositions suivantes, dérogatoires aux mesure
 10. Sur demande du promoteur ayant procédé à l'embauche subséquente du bénéficiaire, le Fonds pour l'emploi lui verse une prime unique correspondant à trente pour cent de l'indemnité touchée par le jeune. La prime n'est due et versée que six mois après l'engagement du bénéficiaire sous contrat à durée indéterminée et à condition que le contrat de travail soit toujours en vigueur et non encore dénoncé au moment de la demande.
 11. La durée de la priorité d'embauche est identique à la durée totale du temps passé en contrat d'initiation à l'emploi auprès du promoteur. A cet effet, et sous peine de remboursement au Fonds pour l'emploi des sommes perçues en application de l'article L. 543-21, le promoteur doit informer en temps utile l'ancien bénéficiaire d'un contrat d'initiation à l'emploi s'il répond aux qualifications et au profil exigés. Ce dernier dispose d'un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N6DE7D"></a>
+<a id="art_N6DFA0"></a>
 
 ### Art. 2.
 
 Pour une période se terminant le 31 décembre 2012, le contrat d'initiation à l'emploi au sens des articles L. 543-15 à L. 54329 du Code du travail est élargi d'un volet expérience pratique dans les conditions et selon les modalités prévues aux articles 3 à 11 qui suivent.
 
-<a id="art_N6DEB4"></a>
+<a id="art_N6DFD7"></a>
 
 ### Art. 3.
 
@@ -36686,7 +36701,7 @@ Pour une période se terminant le 31 décembre 2012, le contrat d'initiation à 
 
 Ces dispositions redeviennent automatiquement applicables si les jeunes en question n'ont pas signé un contrat d'initiation à l'emploi-expérience pratique dans un délai de trois mois à partir de l'inscription. Ils peuvent par ailleurs à tout moment opter pour le retour à l'application de l'article L. 622-10.
 
-<a id="art_N6DF3B"></a>
+<a id="art_N6E05E"></a>
 
 ### Art. 4.
 
@@ -36698,7 +36713,7 @@ L'employeur peut, à titre facultatif, lui verser une prime de mérite.
 
 L'indemnité est soumise aux charges sociales et fiscales prévues en matière de salaires.
 
-<a id="art_N6DF88"></a>
+<a id="art_N6E0AB"></a>
 
 ### Art. 5.
 
@@ -36706,7 +36721,7 @@ L'indemnité est soumise aux charges sociales et fiscales prévues en matière d
 
 **(2)** Sur demande du promoteur ayant procédé à l'embauche subséquente du bénéficiaire, le Fonds pour l'emploi lui verse une prime unique correspondant à trente pour cent de l'indemnité touchée par le jeune. La prime n'est due et versée que six mois après l'engagement du bénéficiaire sous contrat à durée indéterminée et à condition que le contrat de travail soit toujours en vigueur et non encore dénoncé au moment de la demande.
 
-<a id="art_N6DFD1"></a>
+<a id="art_N6E0F4"></a>
 
 ### Art. 6.
 
@@ -36714,7 +36729,7 @@ L'employeur est obligé, en cas de recrutement de personnel, d'embaucher par pri
 
 La durée de la priorité d'embauche est identique à la durée totale du temps passé en contrat d'initiation à l'emploi-expérience pratique auprès de l'employeur. A cet effet, sous peine de remboursement au Fonds pour l'emploi des sommes perçues en application de l'article 5 de la présente loi, l'employeur doit informer en temps utile l'ancien bénéficiaire d'un contrat d'initiation à l'emploi-expérience pratique s'il répond aux qualifications et au profil exigés. Ce dernier dispose d'un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N6E00C"></a>
+<a id="art_N6E12F"></a>
 
 ### Art. 7.
 
@@ -36730,25 +36745,25 @@ Au-delà des six premières semaines, l'employeur ne peut mettre fin au contrat 
 
 **(5)** Sous peine de remboursement intégral des sommes touchées par le Fonds pour l'emploi, l'employeur est tenu d'informer le ministre ayant l'Emploi dans ses attributions de la situation du jeune dont le contrat d'initiation à l'emploi-expérience pratique est venu à échéance.
 
-<a id="art_N6E093"></a>
+<a id="art_N6E1B6"></a>
 
 ### Art. 8.
 
 A l'expiration du contrat d'initiation à l'emploi-expérience pratique, l'employeur doit délivrer au jeune un certificat de travail sur la nature et la durée de l'occupation et sur les formations le cas échéant suivies.
 
-<a id="art_N6E0C5"></a>
+<a id="art_N6E1E8"></a>
 
 ### Art. 9.
 
 Les jeunes bénéficiant d'un contrat d'initiation à l'emploi-expérience pratique ont droit au congé applicable dans l'entreprise où ils travaillent en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable.
 
-<a id="art_N6E0F7"></a>
+<a id="art_N6E21A"></a>
 
 ### Art. 10.
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés, de travail de dimanche, les dispositions légales, réglementaires et conventionnelles de droit commun afférentes s'appliquent aux bénéficiaires d'un contrat d'initiation à l'emploi-expérience pratique.
 
-<a id="art_N6E129"></a>
+<a id="art_N6E24C"></a>
 
 ### Art. 11.
 
@@ -36756,7 +36771,7 @@ Les périodes d'occupation en contrat d'initiation à l'emploi-expérience prati
 
 ##### **Chapitre 2.** — **Dispositions modificatives et transitoires**
 
-<a id="art_N6E16C"></a>
+<a id="art_N6E28F"></a>
 
 ### Art. 12.
 
@@ -36769,13 +36784,13 @@ Les dispositions du Code du travail sont modifiées comme suit:
 5. **(1)** Les jeunes bénéficiant d'un contrat d'appui-emploi ont droit au congé applicable dans l'entreprise où ils travaillent, en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable. **(2)** En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés, de travail de dimanche, les dispositions légales, réglementaires et conventionnelles de droit commun afférentes s'appliquent aux bénéficiaires d'un contrat d'initiation à l'emploi.
 6. Les jeunes bénéficiant d'un contrat d'initiation à l'emploi ont droit au congé applicable dans l'entreprise où ils travaillent, en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable.
 
-<a id="art_N6E238"></a>
+<a id="art_N6E35B"></a>
 
 ### Art. 13.
 
 Le Comité permanent du travail et de l’emploi procèdera à l’évaluation des dispositions de la présente loi.
 
-<a id="art_N6E26A"></a>
+<a id="art_N6E38D"></a>
 
 ### Art. 14.
 
@@ -36787,7 +36802,7 @@ Le Comité permanent du travail et de l’emploi procèdera à l’évaluation d
 
 ##### Code du travail
 
-<a id="art_N6E2D6"></a>
+<a id="art_N6E3F9"></a>
 
 ### Art. L. 543-1.
 
@@ -36799,7 +36814,7 @@ Le Comité permanent du travail et de l’emploi procèdera à l’évaluation d
 
 Sont exclus du champ d’application de l’alinéa qui précède, les promoteurs ayant la forme juridique d’une société commerciale au sens de laloi du 10 août 1915concernant les sociétés commerciales, telle qu’elle a été modifiée.
 
-<a id="art_N6E361"></a>
+<a id="art_N6E484"></a>
 
 ### Art. L. 543-2.
 
@@ -36809,7 +36824,7 @@ Le directeur de l’Agence pour le développement de l’emploi, sur avis du dé
 
 La décision de la prolongation doit tenir compte des résultats des évaluations prévues à l’article L. 543-9 (3) et des conclusions tirées d’un entretien entre le jeune demandeur d’emploi bénéficiant d’un contrat d’appui-emploi et l’Agence pour le développement de l’emploi.
 
-<a id="art_N6E3B5"></a>
+<a id="art_N6E4D8"></a>
 
 ### Art. L. 543-3.
 
@@ -36825,7 +36840,7 @@ Le promoteur doit également permettre au jeune demandeur d’emploi de particip
 
 La participation du jeune demandeur d’emploi à tout entretien d’embauche doit faire l’objet d’un certificat de présence signé par l’employeur potentiel ou son représentant. A cette fin, un formulaire pré-imprimé est mis à disposition par l’Agence pour le développement de l’emploi. Le jeune demandeur d’emploi est tenu de remettre ce certificat au promoteur, ainsi que de l’envoyer, en copie, au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N6E430"></a>
+<a id="art_N6E553"></a>
 
 ### Art. L. 543-4.
 
@@ -36833,7 +36848,7 @@ Les promoteurs visés à l’article L. 543-1, paragraphe (2) adressent leur dem
 
 Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur et le tuteur prévu à l’article L. 543-5 établissent avec le jeune demandeur d’emploi un plan de formation. Copie de ce plan est transmise au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N6E487"></a>
+<a id="art_N6E5AA"></a>
 
 ### Art. L. 543-5.
 
@@ -36843,13 +36858,13 @@ Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur e
 
 **(3)** Le délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi peut inviter le tuteur à assister à des séances de formation respectivement d’information.
 
-<a id="art_N6E4F3"></a>
+<a id="art_N6E616"></a>
 
 ### Art. L. 543-6.
 
 Les dispositions du titre II du livre premier ne sont pas applicables au contrat d’appui-emploi.
 
-<a id="art_N6E52C"></a>
+<a id="art_N6E64F"></a>
 
 ### Art. L. 543-7.
 
@@ -36863,7 +36878,7 @@ Ces résiliations entraînent que le jeune demandeur d’emploi ne peut être ad
 
 **(3)** L’Agence pour le développement de l’emploi peut refuser à un promoteur la conclusion d’un contrat d’appuiemploi en cas d’abus manifeste par le promoteur de la mesure et lorsqu’un encadrement adéquat du jeune demandeur d’emploi ne peut pas être garanti.
 
-<a id="art_N6E5AA"></a>
+<a id="art_N6E6CD"></a>
 
 ### Art. L. 543-8.
 
@@ -36871,7 +36886,7 @@ Ces résiliations entraînent que le jeune demandeur d’emploi ne peut être ad
 
 **(2)** En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux jeunes demandeurs d’emploi sous contrat d’appui-emploi.
 
-<a id="art_N6E613"></a>
+<a id="art_N6E736"></a>
 
 ### Art. L. 543-9.
 
@@ -36887,13 +36902,13 @@ Ces évaluations portent sur des points préalablement définis par l’Agence p
 
 **(4)** A la fin du contrat d’appui-emploi le promoteur établit un certificat de fin de mesure, dont les éléments sont définis par l’Agence pour le développement de l’emploi, sur la nature et la durée de l’occupation et sur les éventuelles formations.
 
-<a id="art_N6E691"></a>
+<a id="art_N6E7B4"></a>
 
 ### Art. L. 543-10.
 
 Le jeune demandeur d’emploi qui refuse sans motif valable un contrat d’appui-emploi, qui lui est proposé par l’Agence pour le développement de l’emploi, est exclu du bénéfice de l’indemnité de chômage complet.
 
-<a id="art_N6E6DF"></a>
+<a id="art_N6E802"></a>
 
 ### Art. L. 543-11.
 
@@ -36919,7 +36934,7 @@ Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentimen
 
 Ce remboursement n’est pas cumulable avec d’autres mesures en faveur de l’emploi.
 
-<a id="art_N6E7AB"></a>
+<a id="art_N6E8CE"></a>
 
 ### Art. L. 543-12.
 
@@ -36927,13 +36942,13 @@ Le jeune demandeur d’emploi, sous contrat d’appui-emploi, doit accepter un e
 
 Le jeune demandeur d’emploi, sous contrat d’appui-emploi bénéficiant d’une formation, qui s’engage dans les liens d’un contrat de travail, peut terminer sa formation après accord du délégué à l’emploi des jeunes de l’Agence pour le développement de l’emploi.
 
-<a id="art_N6E7F6"></a>
+<a id="art_N6E919"></a>
 
 ### Art. L. 543-13.
 
 Le délégué à l’emploi des jeunes de l’Agence pour le développement de l’emploi ou l’agent désigné par lui est habilité à procéder à des visites des lieux de travail des jeunes demandeurs d’emploi bénéficiant d’un contrat d’appui-emploi afin de s’assurer de la bonne exécution du contrat conformément aux dispositions qui précèdent.
 
-<a id="art_N6E838"></a>
+<a id="art_N6E95B"></a>
 
 ### Art. L. 543-14.
 
@@ -36951,19 +36966,19 @@ Le délégué à l’emploi des jeunes de l’Agence pour le développement de l
 
 La participation du jeune demandeur d’emploi à tout entretien d’embauche doit faire l’objet d’un certificat de présence signé par l’employeur potentiel ou son représentant. A cette fin, un formulaire pré-imprimé est mis à disposition par l’Agence pour le développement de l’emploi. Ce certificat est à remettre au promoteur et à envoyer, en copie, au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N6E8EC"></a>
+<a id="art_N6EA0F"></a>
 
 ### Art. L. 543-15.
 
 Le contrat d’initiation à l’emploi est réservé aux promoteurs qui peuvent offrir au jeune demandeur d’emploi une réelle perspective d’emploi à la fin du contrat.
 
-<a id="art_N6E925"></a>
+<a id="art_N6EA48"></a>
 
 ### Art. L. 543-16.
 
 Les promoteurs visés à l’article L. 543-15 adressent leur demande d’un contrat d’initiation à l’emploi au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi. Ils y joignent une description des tâches à accomplir ainsi qu’un profil du poste à remplir.
 
-<a id="art_N6E967"></a>
+<a id="art_N6EA8A"></a>
 
 ### Art. L. 543-17.
 
@@ -36975,7 +36990,7 @@ Le tuteur, d’un commun accord avec le jeune demandeur d’emploi, communique �
 
 Le délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi peut inviter le tuteur à assister à des séances de formation respectivement d’information.
 
-<a id="art_N6E9D0"></a>
+<a id="art_N6EAF3"></a>
 
 ### Art. L. 543-18.
 
@@ -36987,7 +37002,7 @@ La décision de la prolongation doit tenir compte des résultats des évaluation
 
 **(3)** Par dérogation au paragraphe (2), aucune autorisation n’est nécessaire pour les promoteurs qui sont couverts par un plan de maintien dans l’emploi au sens de l’article L. 513-3.
 
-<a id="art_N6EA36"></a>
+<a id="art_N6EB59"></a>
 
 ### Art. L. 543-19.
 
@@ -36999,7 +37014,7 @@ L’indemnité est portée à cent trente pour cent pour les jeunes demandeurs d
 
 Le promoteur peut, à titre facultatif, lui verser une prime de mérite non remboursable par le Fonds pour l’emploi.
 
-<a id="art_N6EA9F"></a>
+<a id="art_N6EBC2"></a>
 
 ### Art. L. 543-20.
 
@@ -37009,7 +37024,7 @@ Le remboursement de cette quote-part est fixé à soixante-cinq pour cent en cas
 
 En cas de prolongation prévue à l’article L. 543-18 (2), le Fonds pour l’emploi rembourse, pour la durée de la prolongation, mensuellement au promoteur une quote-part correspondant à trente pour cent de l’indemnité touchée par le jeune demandeur d’emploi ainsi que la part patronale des charges sociales.
 
-<a id="art_N6EAF9"></a>
+<a id="art_N6EC1C"></a>
 
 ### Art. L. 543-21.
 
@@ -37017,7 +37032,7 @@ Sur demande du promoteur ayant procédé à l’embauche subséquente du jeune d
 
 Ce remboursement n’est pas cumulable avec d’autres mesures en faveur de l’emploi.
 
-<a id="art_N6EB50"></a>
+<a id="art_N6EC73"></a>
 
 ### Art. L. 543-22.
 
@@ -37031,7 +37046,7 @@ Au-delà des six premières semaines, le promoteur peut, avec l’accord de l’
 
 En cas de motifs graves, le préavis de huit jours n’est pas applicable.
 
-<a id="art_N6EBC8"></a>
+<a id="art_N6ECEB"></a>
 
 ### Art. L. 543-23.
 
@@ -37043,7 +37058,7 @@ Ces évaluations portent sur des éléments définis par l’Agence pour le dév
 
 **(3)** A la fin du contrat d’initiation à l’emploi le promoteur établit un certificat de fin de mesure, dont les éléments sont définis par l’Agence pour le développement de l’emploi, sur la nature et la durée de l’occupation et sur les éventuelles formations.
 
-<a id="art_N6EC37"></a>
+<a id="art_N6ED5A"></a>
 
 ### Art. L. 543-24.
 
@@ -37051,31 +37066,31 @@ Le promoteur est obligé, en cas de recrutement de personnel, d’embaucher par 
 
 A cet effet, le promoteur doit informer en temps utile l’Agence pour le développement de l’emploi sur le ou les postes disponibles. L’Agence pour le développement de l’emploi contacte l’ancien jeune demandeur d’emploi sous contrat d’initiation à l’emploi s’il répond aux qualifications et aux profils exigés. Ce dernier dispose d’un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N6EC82"></a>
+<a id="art_N6EDA5"></a>
 
 ### Art. L. 543-25.
 
 Les jeunes demandeurs d’emploi bénéficiant d’un contrat d’initiation à l’emploi ont droit au congé applicable dans l’entreprise où ils travaillent, en vertu de la loi, de dispositions réglementaires, conventionnelles ou statutaires, le cas échéant proportionnellement à la durée de leur contrat.
 
-<a id="art_N6ECC4"></a>
+<a id="art_N6EDE7"></a>
 
 ### Art. L. 543-26.
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux jeunes demandeurs d’emploi sous contrat d’initiation à l’emploi.
 
-<a id="art_N6ED12"></a>
+<a id="art_N6EE35"></a>
 
 ### Art. L. 543-27.
 
 Le jeune demandeur d’emploi qui refuse sans motif valable un contrat d’initiation à l’emploi, qui lui est proposé par l’Agence pour le développement de l’emploi, est exclu du bénéfice de l’indemnité de chômage complet.
 
-<a id="art_N6ED5A"></a>
+<a id="art_N6EE7D"></a>
 
 ### Art. L. 543-28.
 
 L’Agence pour le développement de l’emploi peut refuser à un promoteur la conclusion d’un contrat d’initiation à l’emploi en cas d’abus manifeste par l’employeur de la mesure et lorsqu’un encadrement adéquat du jeune demandeur d’emploi ne peut pas être garanti.
 
-<a id="art_N6ED93"></a>
+<a id="art_N6EEB6"></a>
 
 ### Art. L. 543-29.
 
@@ -37083,7 +37098,7 @@ L’Agence pour le développement de l’emploi peut refuser à un promoteur la 
 
 **(2)** Les dispositions prévues au paragraphe (1) sont mises en vigueur par règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des Députés, le Comité de coordination tripartite visé à l’article L. 512-3 demandé en son avis. Le même règlement détermine en outre les secteurs et branches économiques tombant sous l’application de ces dispositions.
 
-<a id="art_N6EDF0"></a>
+<a id="art_N6EF13"></a>
 
 ### Art. L. 543-30.
 
@@ -37091,7 +37106,7 @@ Au cas où l’indemnité, versée au jeune demandeur d’emploi en application 
 
 Les périodes d’occupation en contrat d’appui-emploi et en contrat d’initiation à l’emploi sont mises en compte comme périodes de stage ouvrant droit à l’indemnité de chômage complet.
 
-<a id="art_N6EE5F"></a>
+<a id="art_N6EF82"></a>
 
 ### Art. L. 543-31.
 
@@ -37101,7 +37116,7 @@ Les conditions et les modalités d’attribution de cette prime sont déterminé
 
 L’Agence pour le développement de l’emploi est chargée de l’application des dispositions du présent article.
 
-<a id="art_N6EED1"></a>
+<a id="art_N6EFF4"></a>
 
 ### Art. L. 543-32.
 
@@ -37109,7 +37124,7 @@ Le ministre ayant l’Emploi dans ses attributions peut, à charge du Fonds pour
 
 L’Agence pour le développement de l’emploi est chargée de l’application des dispositions du présent article.
 
-<a id="art_N6EF2E"></a>
+<a id="art_N6F051"></a>
 
 ### Art. L. 543-33.
 
@@ -37123,7 +37138,7 @@ La même disposition s’applique aux mandataires et préposés de personnes mor
 
 ##### Chapitre 1er. — Dispositions générales.
 
-<a id="art_N6EFAC"></a>
+<a id="art_N6F0CF"></a>
 
 ### Art. 1er.
 
@@ -37148,7 +37163,7 @@ La personne qui n’est pas un ressortissant du Grand-Duché de Luxembourg ou d�
 
 Par dérogation aux conditions prévues aux points a), b) et c), peut également prétendre au revenu pour personnes gravement handicapées, la personne reconnue salarié handicapé, qui, pour des raisons indépendantes de sa volonté, n'a pas accès à un emploi salarié et dispose de ressources d'un montant inférieur à celui du revenu pour personnes gravement handicapées, fixé à l'article 25 ci-après.
 
-<a id="art_N6F039"></a>
+<a id="art_N6F15C"></a>
 
 ### Art. 2.
 
@@ -37156,7 +37171,7 @@ Les demandes en reconnaissance de la qualité de salarié handicapé et/ou les d
 
 La demande est réputée faite à la date du dépôt, à condition qu'elle soit signée et accompagnée des pièces justificatives requises déterminées par règlement grand-ducal.
 
-<a id="art_N6F077"></a>
+<a id="art_N6F19A"></a>
 
 ### Art. 3.
 
@@ -37190,13 +37205,13 @@ Aucune décision de la Commission médicale ne peut faire l'objet d'une demande 
 
 La décision relative à la demande en révision est prise conformément à la procédure prévue aux paragraphes 1 à 3 ci-avant.
 
-<a id="art_N6F15A"></a>
+<a id="art_N6F27D"></a>
 
 ### Art. 4.
 
 Toute personne reconnue salarié handicapé est tenue à se faire inscrire au service de placement et au service des salariés handicapés de l'Administration de l'Emploi ou à une de ses agences, service défini à l'article 31.
 
-<a id="art_N6F18C"></a>
+<a id="art_N6F2AF"></a>
 
 ### Art. 5.
 
@@ -37204,7 +37219,7 @@ Toute personne reconnue salarié handicapé est tenue à se faire inscrire au se
 
 **(2)** Le salarié handicapé, qui refuse d'occuper un poste de travail qui lui est offert et qui correspond à ses aptitudes de travail, perd le bénéfice du revenu pour personnes gravement handicapées.
 
-<a id="art_N6F1D5"></a>
+<a id="art_N6F2F8"></a>
 
 ### Art. 6.
 
@@ -37222,7 +37237,7 @@ Aucune décision de la Commission d'orientation et de reclassement professionnel
 
 La décision relative à la demande en révision est prise conformément à la procédure prévue aux paragraphes 1 et 2 ci-avant.
 
-<a id="art_N6F252"></a>
+<a id="art_N6F375"></a>
 
 ### Art. 7.
 
@@ -37244,7 +37259,7 @@ L’article 456 du Code de la sécurité sociale est applicable. Pour les person
 
 ##### Chapitre 2. — Salariés handicapés guidés vers le marché du travail ordinaire
 
-<a id="art_N6F349"></a>
+<a id="art_N6F46C"></a>
 
 ### Art. 8.
 
@@ -37260,7 +37275,7 @@ La forme et le contenu de ces mesures, qui peuvent comporter notamment l'attribu
 
 Cette charge n'est pas disproportionnée lorsqu'elle est compensée de façon suffisante par les mesures prévues à l'article 26 du règlement grand-ducal du 7 octobre 2004 portant exécution du paragraphe (4) qui précède.
 
-<a id="art_N6F3B4"></a>
+<a id="art_N6F4D7"></a>
 
 ### Art. 9.
 
@@ -37268,7 +37283,7 @@ Si le salarié handicapé refuse d'occuper un poste qui correspond à ses aptitu
 
 La décision afférente du directeur de l'Administration de l'emploi sera notifiée à l'intéressé par lettre recommandée à la poste.
 
-<a id="art_N6F3EF"></a>
+<a id="art_N6F512"></a>
 
 ### Art. 10.
 
@@ -37290,7 +37305,7 @@ Au cas où les employeurs occupent un nombre de salariés handicapés supérieur
 
 Pour la computation du nombre des postes à réserver, les chiffres atteignant et dépassant la demie sont à arrondir vers le haut, les autres sont à négliger.
 
-<a id="art_N6F481"></a>
+<a id="art_N6F5A4"></a>
 
 ### Art. 11.
 
@@ -37300,13 +37315,13 @@ Pour la computation du nombre des postes à réserver, les chiffres atteignant e
 
 **(3)** L'assignation d'un poste de salarié handicapé tant dans le secteur public que privé doit se faire en collaboration avec le service des salariés handicapés de l'Administration de l'Emploi.
 
-<a id="art_N6F4DD"></a>
+<a id="art_N6F600"></a>
 
 ### Art. 12.
 
 En cas de refus d'un employeur du secteur privé d'embaucher le nombre prescrit de handicapés, une taxe de compensation équivalant à 50 % du salaire social minimum est à verser chaque mois au Trésor public par ledit employeur. Cette taxe est due aussi longtemps que dure le refus et pour chaque salarié handicapé non embauché.
 
-<a id="art_N6F50F"></a>
+<a id="art_N6F632"></a>
 
 ### Art. 13.
 
@@ -37316,13 +37331,13 @@ La fixation de la rémunération interviendra indépendamment et sans prise en c
 
 Lesdites rentes sont à payer intégralement aux bénéficiaires, elles ne doivent en aucun cas être déduites de la rémunération des salariés handicapés, ni être réduites d'une autre manière au détriment de leurs bénéficiaires.
 
-<a id="art_N6F553"></a>
+<a id="art_N6F676"></a>
 
 ### Art. 14.
 
 Les salariés indépendants qui ont obtenu la reconnaissance de la qualité de salarié handicapé et qui sont disposés à poursuivre leur activité professionnelle, peuvent bénéficier, sous les conditions à déterminer par règlement grand-ducal, de l'exemption totale ou partielle des charges de sécurité sociale qui sont prises en charge par le budget de l'Etat.
 
-<a id="art_N6F585"></a>
+<a id="art_N6F6A8"></a>
 
 ### Art. 15.
 
@@ -37332,7 +37347,7 @@ La participation au salaire est fixée notamment en fonction de la perte de rend
 
 Le taux de la participation au salaire peut être adapté périodiquement par le directeur de l'Administration de l'emploi, sur avis de la Commission d'orientation, compte tenu notamment de l'évolution du handicap et/ou de l'adaptation du salarié handicapé au milieu du travail.
 
-<a id="art_N6F5C9"></a>
+<a id="art_N6F6EC"></a>
 
 ### Art. 16.
 
@@ -37342,19 +37357,19 @@ Le taux de la participation au salaire peut être adapté périodiquement par le
 
 ##### Chapitre 3. — Salariés handicapés guidés vers les ateliers protégés
 
-<a id="art_N6F622"></a>
+<a id="art_N6F745"></a>
 
 ### Art. 17.
 
 Est guidé vers les ateliers protégés, tout salarié handicapé qui, en raison de ses capacités de travail réduites, ne suffit pas ou pas encore aux exigences et contraintes du marché du travail ordinaire. Les modalités et critères permettant de guider le salarié handicapé vers le marché du travail ordinaire ou vers les ateliers protégés peuvent être précisés par règlement grand-ducal.
 
-<a id="art_N6F654"></a>
+<a id="art_N6F777"></a>
 
 ### Art. 18.
 
 Pour le salarié handicapé guidé vers les ateliers protégés, les responsables de l'atelier protégé définissent les mesures permettant l'emploi du salarié handicapé dans des conditions adaptées à ses besoins et les mesures d'insertion professionnelle, d'accompagnement et de suivi du salarié handicapé sur le marché du travail ordinaire.
 
-<a id="art_N6F686"></a>
+<a id="art_N6F7A9"></a>
 
 ### Art. 19.
 
@@ -37374,7 +37389,7 @@ Pour le salarié handicapé guidé vers les ateliers protégés, les responsable
 
 **(4)** Dans le cas du salarié handicapé se trouvant en régime de tutelle, conformément aux dispositions prévues par le Code civil au titre XI qui traite de la majorité et des majeurs qui sont protégés par la loi, le tuteur de la personne majeure protégée par la loi signe le contrat de travail.
 
-<a id="art_N6F718"></a>
+<a id="art_N6F83B"></a>
 
 ### Art. 20.
 
@@ -37384,7 +37399,7 @@ Pour le salarié handicapé guidé vers les ateliers protégés, les responsable
 
 Par dérogation à la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés, à la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée du travail des ouvriers occupés dans les secteurs public et privé de l'économie et à la loi du 23 mars 2001 concernant la protection des jeunes salariés, la durée du travail dans les ateliers protégés inclut la durée des activités socio-pédagogiques et thérapeutiques exercées durant les heures de travail sur le lieu de travail. Il en est de même pour le temps durant lequel le salarié handicapé participe à des stages en entreprise non rémunérés par l'entreprise d'affectation et organisés par l'atelier protégé.
 
-<a id="art_N6F77E"></a>
+<a id="art_N6F8A1"></a>
 
 ### Art. 21.
 
@@ -37396,13 +37411,13 @@ L’Etat participe au salaire du salarié engagé dans un atelier protégé à r
 
 **(3)** Par dérogation à la loi modifiée du 12 juillet 1895 concernant le paiement des salaires des ouvriers, le salaire est payé une fois par mois par l'atelier protégé au «salarié» handicapé.
 
-<a id="art_N6F7EF"></a>
+<a id="art_N6F912"></a>
 
 ### Art. 22.
 
 En cas de cessation des relations d'emploi avec l'atelier protégé, le salarié handicapé sans emploi a droit à l'octroi d'une indemnité de chômage complet, pourvu qu'il réponde aux conditions d'admission déterminées au titre 2 de la loi modifée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet.
 
-<a id="art_N6F826"></a>
+<a id="art_N6F949"></a>
 
 ### Art. 23.
 
@@ -37416,7 +37431,7 @@ L'agrément est accordé conformément aux dispositions de la loi du 8 septembre
 
 **(2)** Tout atelier protégé est soumis à la loi du 10 juin 1999 relative aux établissements classés.
 
-<a id="art_N6F88F"></a>
+<a id="art_N6F9B2"></a>
 
 ### Art. 24.
 
@@ -37426,7 +37441,7 @@ L'agrément est accordé conformément aux dispositions de la loi du 8 septembre
 
 ##### Chapitre 4. — Revenu pour personnes gravement handicapées
 
-<a id="art_N6F8ED"></a>
+<a id="art_N6FA10"></a>
 
 ### Art. 25.
 
@@ -37438,7 +37453,7 @@ Le montant prévu par le présent article est adapté à l’augmentation du mon
 
 L’ECI est limité à la période qui se situe entre le premier jour du mois pour lequel la première adaptation des traitements, salaires, pensions, rentes et autres indemnités serait déclenchée au cours des mois de mai à décembre 2022 conformément aux dispositions du paragraphe 2 de l’article 3 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et le 31 décembre 2024 inclus. L’ECI est exempt d’impôts.
 
-<a id="art_N6F96A"></a>
+<a id="art_N6FA8D"></a>
 
 ### Art. 26.
 
@@ -37446,7 +37461,7 @@ Le revenu pour personnes gravement handicapées est suspendu jusqu'à concurrenc
 
 Le revenu pour personnes gravement handicapées est intégralement mis en compte en vue de la détermination des prestations de revenu minimum garanti prévues par la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti.
 
-<a id="art_N6F9AA"></a>
+<a id="art_N6FACD"></a>
 
 ### Art. 27.
 
@@ -37456,13 +37471,13 @@ Le revenu pour personnes gravement handicapées est intégralement mis en compte
 
 **(3)** Le revenu est soumis au paiement des cotisations en matière d'assurance dépendance.
 
-<a id="art_N6FA03"></a>
+<a id="art_N6FB26"></a>
 
 ### Art. 27bis.
 
 Le revenu pour personnes gravement handicapées est soumis au paiement des cotisations en matière d’assurance pension si le bénéficiaire justifie d’une affiliation à l’assurance pension au titre de l’article 171 du Code de la sécurité sociale de vingt-cinq années au moins. Dans ce cas, la part assuré et la part patronale sont imputées sur le Fonds national de solidarité.
 
-<a id="art_N6FA3A"></a>
+<a id="art_N6FB5D"></a>
 
 ### Art. 28.
 
@@ -37476,19 +37491,19 @@ Le revenu est dû à partir de la date de communication du dossier par le direct
 
 **(3)** Le revenu est versé au requérant par le Fonds national de solidarité.
 
-<a id="art_N6FAAB"></a>
+<a id="art_N6FBCE"></a>
 
 ### Art. 29.
 
 **(1)** La révision de la décision d’attribution du revenu pour personnes gravement handicapées se fait selon les conditions et modalités prévues par les articles 28 et 29 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale.
 
-<a id="art_N6FB10"></a>
+<a id="art_N6FC33"></a>
 
 ### Art. 30.
 
 Le revenu pour personnes gravement handicapées est à charge du budget de l'Etat.
 
-<a id="art_N6FB42"></a>
+<a id="art_N6FC65"></a>
 
 ### Art. 30bis.
 
@@ -37496,13 +37511,13 @@ Ne peut prétendre aux prestations de la présente loi, la personne qui fait l�
 
 ##### Chapitre 5. — Dispositions organiques
 
-<a id="art_N6FB89"></a>
+<a id="art_N6FCAC"></a>
 
 ### Art. 31.
 
 Le service des salariés handicapés de l'Administration de l'Emploi, visé par l'article 28 de la loi modifiée du 21 février 1976 concernant l'organisation et le fonctionnement de l'Administration de l'Emploi et portant création d'une Commission nationale de l'Emploi est chargé des mesures d'orientation, de formation, de placement, de rééducation, d'intégration et de réintégration professionnelles des personnes reconnues comme salarié handicapé.
 
-<a id="art_N6FBC0"></a>
+<a id="art_N6FCE3"></a>
 
 ### Art. 32.
 
@@ -37524,7 +37539,7 @@ Le secrétariat de la Commission est assuré par un agent du service des salari�
 
 **(3)** La Commission médicale délibère valablement quand la majorité de ses membres sont présents. Les décisions et avis de la Commission médicale sont pris à la majorité des voix exprimées. En cas d'égalité des voix, la voix du président est prépondérante.
 
-<a id="art_N6FC4A"></a>
+<a id="art_N6FD6D"></a>
 
 ### Art. 33.
 
@@ -37550,7 +37565,7 @@ Le secrétariat de la Commission est assuré par un agent du service des salari�
 
 **(3)** La Commission d'orientation et de reclassement professionnel délibère valablement quand la majorité de ses membres sont présents. Les décisions et avis de la commission sont pris à la majorité des voix exprimées. En cas d'égalité des voix, la voix du président est prépondérante.
 
-<a id="art_N6FCE0"></a>
+<a id="art_N6FE03"></a>
 
 ### Art. 34.
 
@@ -37571,31 +37586,31 @@ Un règlement grand-ducal précise les modalités d'organisation et de fonctionn
 
 ##### Chapitre 6. — Dispositions modificatives et abrogatoires
 
-<a id="art_N6FD67"></a>
+<a id="art_N6FE8A"></a>
 
 ### Art. 35.
 
 L'article 23, I, avant-dernier alinéa de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat, l'article XVIII, 2) de la loi modifiée du 27 juillet 1987 concernant l'assurance pension en cas de vieillesse, d'invalidité et de survie et l'article 22, dernier alinéa de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois ainsi que les dispositions correspondantes régissant les régimes de pension spéciaux définis à l'article 1er de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension sont abrogés. Ces dispositions continuent toutefois à sortir leurs effets en ce qui concerne les personnes handicapées ayant droit à la pension d'orphelin avant l'entrée en vigueur de la présente loi.
 
-<a id="art_N6FDB0"></a>
+<a id="art_N6FED3"></a>
 
 ### Art. 36.
 
 L'article 4, alinéa 2 de la loi modifiée du 22 avril 1966 portant réglementation uniforme du congé annuel des salariés du secteur privé est modifié comme suit:Un congé supplémentaire de six jours ouvrables est accordé aux invalides de guerre, aux accidentés de travail et aux personnes ayant un handicap physique, mental, sensoriel ou psychique, auxquelles a été reconnue la qualité de travailleur handicapé conformément à la loi du 12 septembre 2003 relative aux personnes handicapées. L'indemnité journalière du congé supplémentaire est à charge des crédits budgétaires de l'Etat.
 
-<a id="art_N6FDF9"></a>
+<a id="art_N6FF1C"></a>
 
 ### Art. 37.
 
 L'article 6, alinéa 1 de la loi modifiée du 12 mars 1973 portant réforme du salaire social minimum est abrogé.
 
-<a id="art_N6FE30"></a>
+<a id="art_N6FF53"></a>
 
 ### Art. 38.
 
 L'article 2, paragraphe (1) de la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet est complété par le numéro suivant:38. La prise en charge de l'indemnité compensatoire versée aux travailleurs handicapés en vertu de l'article 45 (1) alinéa 2 de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
-<a id="art_N6FE78"></a>
+<a id="art_N6FF9B"></a>
 
 ### Art. 39.
 
@@ -37605,13 +37620,13 @@ La loi modifiée du 19 juin 1985 concernant les allocations familiales et portan
 2. L'allocation spéciale supplémentaire est continuée jusqu'à l'âge de vingt-sept ans accomplis au plus pour la personne bénéficiaire d'allocations familiales en application de l'article 3, alinéa 4, pour autant que les revenus de cette personne, y compris les allocations familiales, ne soient égaux ou supérieurs aux revenus visés à l'article 3, alinéa 4, ou ne constituent un revenu garanti ou de remplacement ou une prestation pour adultes handicapés au titre d'un régime non luxembourgeois.
 3. Dispositions transitoires. L'ancien alinéa 4 de l'article 3 et l'ancien alinéa 6 de l'article 4 demeurent applicables pour les personnes bénéficiaires de l'allocation familiale et de l'allocation spéciale supplémentaire au moment de l'entrée en vigueur de la loi du 12 septembre 2003 relative aux personnes handicapées. Toutefois, ces allocations ne sont plus dues lorsque la personne handicapée est admise soit au bénéfice du revenu pour travailleurs handicapés ou du revenu pour personnes gravement handicapées visés par la loi du 12 septembre 2003 relative aux personnes handicapées, soit à un revenu garanti ou de remplacement ou à toute prestation pour adultes handicapés prévus par un régime non luxembourgeois.
 
-<a id="art_N6FF0D"></a>
+<a id="art_N70030"></a>
 
 ### Art. 40.
 
 A l'article 4 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, est ajouté un nouveau point 7. libellé comme suit:les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales, pendant lesquelles le travailleurs handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
 
-<a id="art_N6FF5F"></a>
+<a id="art_N70082"></a>
 
 ### Art. 41.
 
@@ -37625,7 +37640,7 @@ Le Code des assurances sociales est modifié comme suit:
 6. Pour les personnes visées à l'article 171, alinéa 1, sous 17), est prise en compte l'activité exercée dans l'atelier protégé.
 7. 1. par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 171, 17).
 
-<a id="art_N7002C"></a>
+<a id="art_N7014F"></a>
 
 ### Art. 42.
 
@@ -37633,13 +37648,13 @@ La loi modifiée du 12 novembre 1991 sur les travailleurs handicapés est abrog�
 
 ##### Chapitre 7. — Dispositions transitoires et finales
 
-<a id="art_N7006E"></a>
+<a id="art_N70191"></a>
 
 ### Art. 43.
 
 Les mesures prises depuis l'entrée en vigueur de la loi modifiée du 12 novembre 1991 sur les salariés handicapés sont maintenues après l'entrée en vigueur de la présente loi, à l'exception de la prime d'encouragement ou de rééducation versée aux personnes reconnues comme salarié handicapé et occupées dans les ateliers protégés, qui sera remplacée par un salaire conformément aux dispositions de l'article 21.
 
-<a id="art_N700A5"></a>
+<a id="art_N701C8"></a>
 
 ### Art. 44.
 
@@ -37648,7 +37663,7 @@ Par dérogation aux nombres limites inscrits dans la loi budgétaire pour l'exer
 - deux fonctionnaires dans la carrière du rédacteur pour les besoins du service des salariés handicapés de l'Administration de l'Emploi;
 - un fonctionnaire dans la carrière du rédacteur pour les besoins du Ministère du Travail et de l'Emploi.
 
-<a id="art_N700E1"></a>
+<a id="art_N70204"></a>
 
 ### Art. 45.
 
@@ -37662,13 +37677,13 @@ Au cas où les revenus de la personne handicapée admise au bénéfice du revenu
 
 Cette indemnité compensatoire est adaptée à l'indice des prix à la consommation et est soumise aux mêmes charges sociales que le revenu pour personnes gravement handicapées.
 
-<a id="art_N7014F"></a>
+<a id="art_N70272"></a>
 
 ### Art. 46.
 
 Les dispositions de la présente loi entrent en vigueur le premier jour du neuvième mois après leur publication au Mémorial, à l'exception de l'article 44 qui entre en vigueur le quatrième jour après la publication au Mémorial.
 
-<a id="art_N70181"></a>
+<a id="art_N702A4"></a>
 
 ### Art. 47.
 
@@ -37680,7 +37695,7 @@ La référence à la présente loi pourra se faire sous une forme abrégée en u
 
 #### Loi du 1er août 2007 portant approbation de l'Accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg relatif à la coopération dans les régions frontalières, conclu par échange de lettres le 23 mai 2005 à Luxembourg.
 
-<a id="art_N701F4"></a>
+<a id="art_N70317"></a>
 
 ### Article unique.
 
@@ -37698,7 +37713,7 @@ Est approuvé l'Accord entre le Gouvernement du Royaume de Belgique avec la Rég
 
 #### Loi du 12 mai 1997 portant approbation de l'Accord entre le Grand-Duché de Luxembourg, la République fédérale d'Allemagne, la République française et la Confédération Suisse, agissant au nom des cantons de Soleure, de Bâle-Ville, de Bâle-Campagne, d'Argovie et du Jura sur la coopération transfrontalière des collectivités territoriales et organismes publics locaux, fait à Karlsruhe, le 23 janvier 1996.
 
-<a id="art_N70286"></a>
+<a id="art_N703A9"></a>
 
 ### Article unique.
 
@@ -37716,7 +37731,7 @@ Est approuvé l'Accord entre le Gouvernement du Royaume de Belgique avec la Rég
 
 #### Loi du 31 juillet 1987 portant approbation de la Convention Benelux concernant la coopération transfrontalière entre collectivités ou autorités territoriales, signée à Bruxelles, le 12 septembre 1986.
 
-<a id="art_N7031F"></a>
+<a id="art_N70442"></a>
 
 ### Article unique.
 
@@ -37734,13 +37749,13 @@ Est approuvée la Convention Benelux concernant la coopération transfrontalièr
 
 #### Loi du 18 mai 1999 portant approbation du Protocole no. 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération interterritoriale, fait à Strasbourg, le 5 mai 1998.
 
-<a id="art_N703B1"></a>
+<a id="art_N704D4"></a>
 
 ### Art. 1er.
 
 Est approuvé le Protocole No2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération inter-territoriale, fait à Strasbourg, le 5 mai 1998.
 
-<a id="art_N703C4"></a>
+<a id="art_N704E7"></a>
 
 ### Art. 2.
 
@@ -37758,7 +37773,7 @@ Le Grand-Duché de Luxembourg applique, conformément aux dispositions de l'arti
 
 #### Loi du 26 novembre 1996 portant approbation du Protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, signé à Strasbourg, le 9 novembre 1995.
 
-<a id="art_N70456"></a>
+<a id="art_N70579"></a>
 
 ### Article unique.
 
@@ -37776,7 +37791,7 @@ Est approuvé le Protocole additionnel à la Convention-cadre européenne sur la
 
 #### Loi du 29 novembre 1982 portant approbation de la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, signée à Madrid, le 21 mai 1980.
 
-<a id="art_N704E8"></a>
+<a id="art_N7060B"></a>
 
 ### Article unique.
 
