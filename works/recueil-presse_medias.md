@@ -1,18 +1,18 @@
 ---
-lex_id: lu-legilux:recueil-presse_medias:2024-08-05
+lex_id: lu-legilux:recueil-presse_medias:2024-12-28
 title: Presse et Médias électroniques
-valid_from: 2024-08-05
-valid_to: 2024-12-27
-source: https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20240805/fr
-source_sha256: 6c99642a6cd2b88a37695fbfbeeee4657fcbd89906b877cbf7c830948b9433e1
+valid_from: 2024-12-28
+valid_to: 2025-11-24
+source: https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20241228/fr
+source_sha256: 397a7b51d51fa737bf442bb11348d75bb605b2013c3c6b4ce31ac0a9c5ea6ac2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
 ---
 
-## 1. Constitution
+## **1. Constitution**
 
-### Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.
+### **Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.**
 
 <a id="art_N1003F"></a>
 
@@ -22,19 +22,19 @@ La liberté de manifester ses opinions et la liberté de la presse sont garantie
 
 La censure ne peut pas être établie.
 
-## 2. Loi sur la liberté d'expression dans les médias
+## **2. Loi sur la liberté d'expression dans les médias**
 
-### Version consolidée applicable au 26/07/2024 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.
+### **Version consolidée applicable au 26/07/2024 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.**
 
 #### **Chapitre I.**** De l’objet de la loi**
 
-<a id="art_N100AB"></a>
+<a id="art_N100AF"></a>
 
 ### Art. 1er.
 
 La présente loi vise à assurer la liberté d’expression dans le domaine des médias.
 
-<a id="art_N100E0"></a>
+<a id="art_N100E4"></a>
 
 ### Art. 2.
 
@@ -42,7 +42,7 @@ Conformément à l’article 10 de la Convention de sauvegarde des droits de l�
 
 #### **Chapitre II. **** Des définitions**
 
-<a id="art_N10124"></a>
+<a id="art_N10128"></a>
 
 ### Art. 3.
 
@@ -66,7 +66,7 @@ Aux fins de la présente loi, on entend par:
 
 #### **Chapitre III. ****Des droits des journalistes professionnels dans le cadre de leurs relations avec les éditeurs**
 
-<a id="art_N101AA"></a>
+<a id="art_N101AE"></a>
 
 ### Art. 4.
 
@@ -74,7 +74,7 @@ Tout journaliste professionnel a le droit de refuser la communication au public 
 
 Ne constitue pas un motif réel et sérieux de licenciement au sens de la loi du 24 avril 1989 sur le contrat de travail, telle que modifiée et ne justifie pas une sanction de quelque nature qu’elle soit le fait pour un journaliste professionnel d’avoir opposé un refus dans les conditions précitées.
 
-<a id="art_N101EA"></a>
+<a id="art_N101EE"></a>
 
 ### Art. 5.
 
@@ -84,7 +84,7 @@ En cas de changement fondamental de la ligne éditoriale, le journaliste profess
 
 ##### *Section 1. ** Du droit de rechercher et de commenter les informations*
 
-<a id="art_N1023E"></a>
+<a id="art_N10242"></a>
 
 ### Art. 6.
 
@@ -94,7 +94,7 @@ En cas de changement fondamental de la ligne éditoriale, le journaliste profess
 
 ##### *Section 2.** De la protection des sources*
 
-<a id="art_N10298"></a>
+<a id="art_N1029C"></a>
 
 ### Art. 7.
 
@@ -106,7 +106,7 @@ En cas de changement fondamental de la ligne éditoriale, le journaliste profess
 
 **(4)** Si des informations identifiant une source ont été obtenues de manière régulière à travers l’une des actions visées au paragraphe (3) du présent article qui n’avait pas pour objet ou pour but de découvrir l’identité d’une source, ces informations ne peuvent pas être utilisées comme preuve dans le cadre d’une action ultérieure en justice, sauf dans le cas où la divulgation de celles-ci serait justifiée en application de l’article 8 de la présente loi.
 
-<a id="art_N10301"></a>
+<a id="art_N10305"></a>
 
 ### Art. 8.
 
@@ -114,7 +114,7 @@ Toutefois, par dérogation à l’article précédent, lorsque l’action des au
 
 ##### *Section 3. ** Du droit d’auteur*
 
-<a id="art_N10341"></a>
+<a id="art_N10345"></a>
 
 ### Art. 9.
 
@@ -126,7 +126,7 @@ La qualité d’auteur, ainsi que les droits de l’auteur sur l’œuvre journa
 
 ##### *Section 1. ** Du devoir d’exactitude et de véracité*
 
-<a id="art_N10397"></a>
+<a id="art_N1039B"></a>
 
 ### Art. 10.
 
@@ -134,7 +134,7 @@ Le collaborateur a un devoir d’exactitude et de véracité par rapport aux fai
 
 Il a l’obligation de les vérifier préalablement eu égard à leur véracité, leur contenu et leur origine, dans la mesure raisonnable de ses moyens et compte tenu des circonstances de l’espèce.
 
-<a id="art_N103D2"></a>
+<a id="art_N103D6"></a>
 
 ### Art. 11.
 
@@ -144,7 +144,7 @@ L’éditeur de la publication dans laquelle le fait inexact a été communiqué
 
 ##### *Section 2. ** De la présomption d’innocence*
 
-<a id="art_N1041B"></a>
+<a id="art_N1041F"></a>
 
 ### Art. 12.
 
@@ -152,7 +152,7 @@ L’éditeur de la publication dans laquelle le fait inexact a été communiqué
 
 **(2)** Lorsque, en dehors des cas prévus à l’article 13, une personne est, avant toute condamnation définitive, présentée publiquement comme coupable de faits faisant l’objet d’une enquête ou d’une instruction judiciaire, le juge peut, même en référé, sans préjudice de la réparation du dommage subi, prescrire toutes mesures, telles que l’insertion d’une rectification ou la diffusion d’un communiqué, au besoin sous astreinte conformément aux articles 2059 à 2066 du Code civil, aux fins de faire cesser l’atteinte à la présomption d’innocence, et ce aux frais de la personne responsable de cette atteinte.
 
-<a id="art_N10469"></a>
+<a id="art_N1046D"></a>
 
 ### Art. 13.
 
@@ -168,7 +168,7 @@ Toutefois, la communication au public d’une publication contenant une informat
 
 ##### **Section 3. * De la protection de la vie privée*
 
-<a id="art_N104D3"></a>
+<a id="art_N104D7"></a>
 
 ### Art. 14.
 
@@ -176,7 +176,7 @@ Toutefois, la communication au public d’une publication contenant une informat
 
 **(2)** Lorsque, en dehors des cas prévus à l’article 15 de la présente loi, une information relative à la vie privée d’une personne est communiquée au public, le juge peut, même en référé, sans préjudice de la réparation du dommage subi, prescrire toutes mesures, telles que l’insertion d’une rectification ou la diffusion d’un communiqué, au besoin sous astreinte conformément aux articles 2059 à 2066 du Code civil, aux fins de faire cesser l’atteinte à la vie privée, et ce aux frais de la personne responsable de cette atteinte.
 
-<a id="art_N10521"></a>
+<a id="art_N10525"></a>
 
 ### Art. 15.
 
@@ -193,7 +193,7 @@ Toutefois, la communication au public d’une publication contenant une informat
 
 ##### *Section 4. ** De la protection de la réputation et de l’honneur*
 
-<a id="art_N1058E"></a>
+<a id="art_N10592"></a>
 
 ### Art. 16.
 
@@ -201,7 +201,7 @@ Toutefois, la communication au public d’une publication contenant une informat
 
 **(2)** Lorsque, en dehors des cas prévus à l’article 17 de la présente loi, une information portant atteinte à l’honneur ou à la réputation d’une personne est communiquée au public, le juge peut, même en référé, sans préjudice de la réparation du dommage subi, prescrire toutes mesures telles que l’insertion d’une rectification ou la diffusion d’un communiqué, au besoin sous astreinte conformément aux articles 2059 à 2066 du Code civil, aux fins de faire cesser l’atteinte à l’honneur ou à la réputation, et ce aux frais de la personne responsable de cette atteinte.
 
-<a id="art_N105DC"></a>
+<a id="art_N105E0"></a>
 
 ### Art. 17.
 
@@ -217,7 +217,7 @@ Toutefois, la communication au public d’une publication contenant une informat
 
 ##### *Section 5. ** De la protection des mineurs*
 
-<a id="art_N1064E"></a>
+<a id="art_N10652"></a>
 
 ### Art. 18.
 
@@ -228,7 +228,7 @@ Est interdite la communication au public par la voie d’un média d’informati
 - d’un mineur qui s’est suicidé;
 - d’un mineur victime d’une infraction.
 
-<a id="art_N10695"></a>
+<a id="art_N10699"></a>
 
 ### Art. 19.
 
@@ -244,7 +244,7 @@ Toutefois, la communication au public d’une publication contenant une informat
 
 ##### *Section 6.** Dispositions communes*
 
-<a id="art_N106FF"></a>
+<a id="art_N10703"></a>
 
 ### Art. 20.
 
@@ -254,13 +254,13 @@ Toutefois, la communication au public d’une publication contenant une informat
 
 #### ****Chapitre VI. **Des personnes responsables**
 
-<a id="art_N10756"></a>
+<a id="art_N1075A"></a>
 
 ### Art. 21.
 
 La responsabilité, civile ou pénale, pour toute faute commise par la voie d’un média incombe au collaborateur, s’il est connu, à défaut à l’éditeur et à défaut au diffuseur.
 
-<a id="art_N10788"></a>
+<a id="art_N1078C"></a>
 
 ### Art. 22.
 
@@ -274,7 +274,7 @@ Dans le cas où la provocation n’aura été suivie d’aucun effet, ou lorsque
 
 ##### *Section 1. **Des missions*
 
-<a id="art_N107F0"></a>
+<a id="art_N107F4"></a>
 
 ### Art. 23.
 
@@ -290,13 +290,13 @@ Dans le cas où la provocation n’aura été suivie d’aucun effet, ou lorsque
 
 ##### *Section 2. **De la composition du Conseil de Presse*
 
-<a id="art_N10865"></a>
+<a id="art_N10869"></a>
 
 ### Art. 24.
 
 Le Conseil de Presse est composé d’un nombre minimal de 14 membres, qui représentent par moitié les éditeurs et par moitié les journalistes professionnels.
 
-<a id="art_N10897"></a>
+<a id="art_N1089B"></a>
 
 ### Art. 25.
 
@@ -304,7 +304,7 @@ Les membres du Conseil de Presse sont nommés par voie d’arrêté grand-ducal,
 
 ##### *Section 3. ** De la présidence*
 
-<a id="art_N108D7"></a>
+<a id="art_N108DB"></a>
 
 ### Art. 26.
 
@@ -320,13 +320,13 @@ Le Conseil de Presse est représenté par son président tant judiciairement qu�
 
 ##### **Section 4. * De la Commission des Cartes de presse*
 
-<a id="art_N1093B"></a>
+<a id="art_N1093F"></a>
 
 ### Art. 27.
 
 Il est créé au sein du Conseil de Presse une Commission des Cartes de presse, chargée d’exécuter la mission spécifiée à l’article 23 (1) de la présente loi.
 
-<a id="art_N1096D"></a>
+<a id="art_N10971"></a>
 
 ### Art. 28.
 
@@ -340,7 +340,7 @@ Les modalités de désignation et les conditions d’éligibilité sont détermi
 
 Le Conseil de Presse règle la procédure qui sera suivie devant la Commission des Cartes de presse.
 
-<a id="art_N109CF"></a>
+<a id="art_N109D3"></a>
 
 ### Art. 29.
 
@@ -358,7 +358,7 @@ Le Conseil de Presse règle la procédure qui sera suivie devant la Commission d
 
 L’appel contre la décision de la Commission des Cartes de presse est déclaré au secrétariat du Conseil de Presse dans un délai de quarante jours qui court pour les parties en cause du jour où la décision leur a été notifiée, à la diligence de la Commission des Cartes de presse, par lettre recommandée avec accusé de réception.
 
-<a id="art_N10A37"></a>
+<a id="art_N10A3B"></a>
 
 ### Art. 30.
 
@@ -366,7 +366,7 @@ Les modalités relatives à l’établissement des documents et insignes d’ide
 
 ##### *Section 5. ** Des conditions d’octroi de la carte*
 
-<a id="art_N10A77"></a>
+<a id="art_N10A7B"></a>
 
 ### Art. 31.
 
@@ -374,13 +374,13 @@ La carte de journaliste professionnel constitue une attestation de l’exercice 
 
 ##### *Section 6. ** De la Commission des Plaintes*
 
-<a id="art_N10AB7"></a>
+<a id="art_N10ABB"></a>
 
 ### Art. 32.
 
 Il est créé au sein du Conseil de Presse une Commission des Plaintes chargée de l’exécution de la mission prévue à l’article 23 (2) 2.
 
-<a id="art_N10AE9"></a>
+<a id="art_N10AED"></a>
 
 ### Art. 33.
 
@@ -394,13 +394,13 @@ Il doit être juriste et est nommé par voie d’arrêté grand-ducal, sur propo
 
 **(4)** À chaque membre est adjoint un membre suppléant, nommé suivant les modalités des paragraphes (1) et (2). Le membre suppléant remplace le membre en cas d’empêchement de ce dernier.
 
-<a id="art_N10B67"></a>
+<a id="art_N10B6B"></a>
 
 ### Art. 34.
 
 Les modalités de saisine de la Commission des Plaintes, les conditions de recevabilité des plaintes et la procédure qui sera suivie devant elle seront déterminées par le Conseil de Presse, de même que les modalités de désignation de ses membres, à l’exception du représentant du public, et les conditions d’éligibilité.
 
-<a id="art_N10B99"></a>
+<a id="art_N10B9D"></a>
 
 ### Art. 35.
 
@@ -410,7 +410,7 @@ La Commission des Plaintes peut rejeter ou approuver la plainte. La décision d�
 
 ##### *Section 1. ** Des conditions d’exercice*
 
-<a id="art_N10BE6"></a>
+<a id="art_N10BEA"></a>
 
 ### Art. 36.
 
@@ -418,31 +418,31 @@ Sans préjudice des autres voies de droit, toute personne physique ou morale, to
 
 ##### *Section 2. ** De la procédure*
 
-<a id="art_N10C32"></a>
+<a id="art_N10C36"></a>
 
 ### Art. 37.
 
 La demande est adressée par envoi recommandé avec avis de réception à l’éditeur au plus tard le quatre-vingt-dixième jour qui suit la date de la diffusion.
 
-<a id="art_N10C64"></a>
+<a id="art_N10C68"></a>
 
 ### Art. 38.
 
 Si la personne visée est un mineur, le représentant légal exercera le droit de réponse sans préjudice de l’article 12 de la Convention relative aux Droits de l’Enfant.
 
-<a id="art_N10C96"></a>
+<a id="art_N10C9A"></a>
 
 ### Art. 39.
 
 Si la personne visée est décédée, le droit de réponse appartient à tous les parents en ligne directe ou au conjoint ou, à défaut, aux parents les plus proches. Il n’est exercé qu’une fois et par le plus diligent d’entre eux. Si au jour du décès de la personne visée, le délai prévu à l’article 37 est en cours, les ayants droit ne disposent que de la partie de ce délai restant à courir.
 
-<a id="art_N10CC8"></a>
+<a id="art_N10CCC"></a>
 
 ### Art. 40.
 
 La demande contient, sous peine de refus de diffusion, l’indication précise des textes, mentions ou citations auxquels se rapporte la réponse, ainsi que le texte de la réponse dont la diffusion est demandée. Elle doit être signée et indiquer l’identité complète du requérant, à savoir ses nom, prénom et domicile s’il s’agit d’une personne physique, sa raison ou dénomination sociale, sa forme juridique, l’adresse de son siège social et la qualité du signataire s’il s’agit d’une personne morale, sa dénomination, son siège et la qualité du signataire s’il s’agit d’une association de fait.
 
-<a id="art_N10CFA"></a>
+<a id="art_N10CFE"></a>
 
 ### Art. 41.
 
@@ -453,13 +453,13 @@ Peut être refusée la diffusion de toute réponse:
 3. qui est rédigée dans une langue autre que celle des propos incriminés;
 4. qui n’a pas de rapport immédiat avec les propos ou les images incriminés.
 
-<a id="art_N10D3D"></a>
+<a id="art_N10D41"></a>
 
 ### Art. 42.
 
 La réponse prend la forme d’un écrit quelle que soit la nature de l’information à laquelle elle se rapporte. Elle peut atteindre l’étendue de l’information à laquelle elle se réfère et pourra en toute hypothèse comporter mille lettres d’écriture.
 
-<a id="art_N10D7B"></a>
+<a id="art_N10D7F"></a>
 
 ### Art. 43.
 
@@ -469,7 +469,7 @@ Si la réponse se rapporte à une publication en ligne, elle sera diffusée dans
 
 Dans tous les cas, elle pourra être assortie d’une réplique ou d’un commentaire qui sera formulé dans la forme décrite ci-dessus et qui ne pourra dépasser un tiers de l’étendue de la réponse.
 
-<a id="art_N10DC5"></a>
+<a id="art_N10DC9"></a>
 
 ### Art. 44.
 
@@ -477,7 +477,7 @@ Lorsqu’il s’agit d’une publication paraissant au moins cinq fois par semai
 
 Lorsqu’il s’agit d’une publication en ligne, la réponse doit être mise à disposition du public dans les trois jours ouvrables à compter de la réception de celle-ci, avec les mêmes facilités d’accès. Si l’information qui a donné lieu au droit de réponse reste à la disposition du public dans des archives électroniques, la réponse doit être accessible depuis celle-ci.
 
-<a id="art_N10E0C"></a>
+<a id="art_N10E10"></a>
 
 ### Art. 45.
 
@@ -485,7 +485,7 @@ La réponse est lue par la personne qui est désignée par l’éditeur, mais qu
 
 ##### *Section 3. ** Des voies de recours*
 
-<a id="art_N10E4C"></a>
+<a id="art_N10E50"></a>
 
 ### Art. 46.
 
@@ -493,7 +493,7 @@ Sans préjudice d’autres voies de droit, et notamment d’une action en répar
 
 Cette demande doit, sous peine de forclusion, être introduite dans les trois mois à compter de la date à laquelle la réponse aurait dû être diffusée ou à laquelle la réponse jugée insatisfaisante a été diffusée.
 
-<a id="art_N10E87"></a>
+<a id="art_N10E8B"></a>
 
 ### Art. 47.
 
@@ -501,13 +501,13 @@ La demande est introduite et jugée comme en matière de référés.
 
 Le Président du Tribunal d’arrondissement statue au fond et selon la procédure prévue en matière de référé conformément aux articles 934 à 940 du nouveau code de procédure civile. Toutefois, par dérogation à l’article 939, alinéa 2 du nouveau code de procédure civile, l’ordonnance de référé n’est pas susceptible d’opposition.
 
-<a id="art_N10ECC"></a>
+<a id="art_N10ED0"></a>
 
 ### Art. 48.
 
 L’ordonnance du Président du Tribunal d’arrondissement doit être rendue dans les dix jours à partir de la date de l’audience pour laquelle l’assignation à comparaître a été lancée.
 
-<a id="art_N10EFE"></a>
+<a id="art_N10F02"></a>
 
 ### Art. 49.
 
@@ -515,7 +515,7 @@ La décision ordonnant la diffusion de la réponse endéans le délai détermin�
 
 L’éditeur peut en outre être condamné à diffuser, simultanément avec la réponse, le texte en entier, en partie ou le dispositif de l’ordonnance rendue par le Président du Tribunal d’arrondissement.
 
-<a id="art_N10F39"></a>
+<a id="art_N10F3D"></a>
 
 ### Art. 50.
 
@@ -527,7 +527,7 @@ L’acte d’appel contient assignation à jour fixe. L’appel est porté devan
 
 ##### *Section 1. **Des conditions d’exercice*
 
-<a id="art_N10F8F"></a>
+<a id="art_N10F93"></a>
 
 ### Art. 51.
 
@@ -535,31 +535,31 @@ Sans préjudice des autres voies de droit, toute personne bénéficiaire d’une
 
 ##### *Section 2. **De la procédure*
 
-<a id="art_N10FCF"></a>
+<a id="art_N10FD3"></a>
 
 ### Art. 52.
 
 La demande est adressée par envoi recommandé avec avis de réception à l’éditeur au plus tard le quatre-vingt-dixième jour qui suit la date à laquelle la décision de non-lieu a acquis force de chose jugée, ou la date à laquelle la décision de renvoi des fins de la poursuite ou d’acquittement a acquis force de chose jugée.
 
-<a id="art_N11001"></a>
+<a id="art_N11005"></a>
 
 ### Art. 53.
 
 Si la personne visée est un mineur, le représentant légal exercera le droit d’information postérieure sans préjudice de l’article 12 de la Convention relative aux Droits de l’Enfant.
 
-<a id="art_N11033"></a>
+<a id="art_N11037"></a>
 
 ### Art. 54.
 
 Si la personne visée est décédée après la date où les décisions de non-lieu, de renvoi des fins de la poursuite ou d’acquittement ont acquis force de chose jugée, ce droit appartient à tous les parents en ligne directe ou au conjoint ou, à défaut, aux parents les plus proches. Il n’est exercé qu’une fois et par le plus diligent d’entre eux. Si au jour du décès de la personne visée, le délai prévu à l’article 52 est en cours, les ayants droit ne disposent que de la partie de ce délai restant à courir.
 
-<a id="art_N11065"></a>
+<a id="art_N11069"></a>
 
 ### Art. 55.
 
 La demande contient, sous peine de refus de diffusion, l’indication précise des propos ou des images contenant l’information sur laquelle porte ce droit. Elle doit être signée et indiquer l’identité complète du requérant, à savoir ses nom, prénom et domicile. A la demande sont joints le texte de l’information postérieure, la décision de non-lieu, de renvoi des fins de la poursuite ou d’acquittement, ainsi qu’une attestation émanant de l’autorité judiciaire compétente et établissant que la décision n’est pas frappée d’un recours et qu’elle est définitive.
 
-<a id="art_N11097"></a>
+<a id="art_N1109B"></a>
 
 ### Art. 56.
 
@@ -572,7 +572,7 @@ Le texte de l’information postérieure est formulé dans la même langue que c
 5. le fait qu’elle n’est plus susceptible d’opposition, d’appel ou de pourvoi en cassation;
 6. la juridiction qui a rendu cette décision.
 
-<a id="art_N110E0"></a>
+<a id="art_N110E4"></a>
 
 ### Art. 57.
 
@@ -582,7 +582,7 @@ Si l’information postérieure se rapporte à une publication en ligne, elle se
 
 Dans tous les cas, elle pourra être assortie d’une réplique ou d’un commentaire qui sera formulé dans la forme décrite ci-dessus et qui ne pourra dépasser un tiers de l’étendue de la réponse.
 
-<a id="art_N1112A"></a>
+<a id="art_N1112E"></a>
 
 ### Art. 58.
 
@@ -590,7 +590,7 @@ Lorsqu’il s’agit d’une publication paraissant au moins cinq fois par semai
 
 Lorsqu’il s’agit d’une publication en ligne, l’information postérieure doit être mise à disposition du public dans les trois jours ouvrables à compter de la réception de celle-ci, avec les mêmes facilités d’accès. Si l’information qui a donné lieu au droit à l’information postérieure reste à la disposition du public dans des archives électroniques, l’information postérieure doit être accessible depuis celle-ci.
 
-<a id="art_N11171"></a>
+<a id="art_N11175"></a>
 
 ### Art. 59.
 
@@ -598,7 +598,7 @@ L’information postérieure est lue par la personne qui est désignée par l’
 
 ##### **Section 3. * Des voies de recours*
 
-<a id="art_N111B1"></a>
+<a id="art_N111B5"></a>
 
 ### Art. 60.
 
@@ -608,7 +608,7 @@ Cette demande doit, sous peine de forclusion, être introduite dans les trois mo
 
 #### **Chapitre X. Dispositions communes au droit de réponse et au droit d’information postérieure**
 
-<a id="art_N111F7"></a>
+<a id="art_N111FB"></a>
 
 ### Art. 61.
 
@@ -616,7 +616,7 @@ Toute personne qui désire exercer le droit de réponse ou le droit d’informat
 
 #### **Chapitre XI. Du régime des publications**
 
-<a id="art_N1124C"></a>
+<a id="art_N11250"></a>
 
 ### Art. 62.
 
@@ -628,7 +628,7 @@ Si l’auteur ou l’éditeur n’a pas la personnalité juridique, l’identit�
 
 Elle doit en outre indiquer la date de la première mise à disposition du public.
 
-<a id="art_N11299"></a>
+<a id="art_N1129D"></a>
 
 ### Art. 63.
 
@@ -638,19 +638,19 @@ Si l’éditeur est une personne morale, sa dénomination, l’adresse de son si
 
 Si l’éditeur n’a pas la personnalité juridique, le nom, le prénom et l’adresse professionnelle de la ou des personnes qui assument la qualité d’éditeur doivent être indiqués.
 
-<a id="art_N112DD"></a>
+<a id="art_N112E1"></a>
 
 ### Art. 64.
 
 La ligne éditoriale d’une publication périodique peut être publiée par l’éditeur.
 
-<a id="art_N1130F"></a>
+<a id="art_N11313"></a>
 
 ### Art. 65.
 
 Les publications périodiques contenant une table des matières doivent indiquer l’endroit où sont publiées les informations précisées aux articles 63, 64, 66 et 67 de la présente loi.
 
-<a id="art_N11341"></a>
+<a id="art_N11345"></a>
 
 ### Art. 66.
 
@@ -660,19 +660,19 @@ Toute publication éditée par une personne morale indique une fois par an, au p
 - l’identité des personnes composant les organes d’administration et de direction, ainsi que l’identité de la ou des personnes chargées de la direction et de la gestion journalière de la société;
 - en cas de superposition de plusieurs personnes morales, les indications ci-dessus doivent être complétées de façon à ce que le public ait connaissance des nom, prénom, profession et pays de domicile de toutes les personnes physiques contrôlant la personne morale qui édite la publication en question par le biais de ces personnes morales, lorsqu’elles détiennent dans l’une quelconque de ces personnes morales une participation excédant 25 pour cent du capital social, lorsqu’elles font partie des organes d’administration et de direction de l’une de ces personnes morales, ou lorsqu’elles sont chargées de la gestion journalière de l’une de ces personnes morales.
 
-<a id="art_N11380"></a>
+<a id="art_N11384"></a>
 
 ### Art. 67.
 
 Lorsqu’une personne à identifier conformément à l’article 66 de la présente loi est encore membre d’un organe d’administration ou de direction d’une personne morale propriétaire d’une autre publication ou éditant une autre publication, ou si elle détient directement ou indirectement dans une autre publication une participation excédant 25 pour cent du capital social, le nom de cette publication, la dénomination sociale de l’éditeur, sa forme juridique, son objet commercial ou social et son siège ou lieu d’établissement doivent également être indiqués.
 
-<a id="art_N113B2"></a>
+<a id="art_N113B6"></a>
 
 ### Art. 68.
 
 Sont exceptées des formalités prévues aux articles 62 à 67 et 69, les menues impressions que nécessitent les besoins du commerce ou les relations sociales, telles que les formulaires, étiquettes, liste des prix, bulletins de vote et cartes de visite.
 
-<a id="art_N113E4"></a>
+<a id="art_N113E8"></a>
 
 ### Art. 69.
 
@@ -684,19 +684,19 @@ Toutefois, les bénéficiaires d’une telle concession ou permission doivent te
 
 ##### *Section 1. De la prescription*
 
-<a id="art_N11438"></a>
+<a id="art_N1143C"></a>
 
 ### Art. 70.
 
 L’action publique, lorsqu’elle résulte d’une infraction commise par la voie d’un média, ainsi que l’action civile, qu’elle résulte d’une infraction commise par la voie d’un média ou d’un quasi-délit commis par la voie d’un média et qu’elle est exercée soit devant les juridictions répressives en même temps que l’action publique, soit devant les juridictions civiles, se prescrivent chacune après trois mois à partir de la date de première mise à disposition du public.
 
-<a id="art_N1146A"></a>
+<a id="art_N1146E"></a>
 
 ### Art. 71.
 
 Le délit est censé commis au moment de la première communication incriminée au public ou de la première mise à disposition au public. Dans le cas d’une publication en ligne, la première mise à disposition au public correspond au moment où elle a été rendue accessible au public.
 
-<a id="art_N1149C"></a>
+<a id="art_N114A0"></a>
 
 ### Art. 72.
 
@@ -704,7 +704,7 @@ La date de la première mise à disposition du public est présumée, sauf preuv
 
 A défaut d’indication de date, la preuve de la date de première mise à disposition du public incombe à la personne qui invoque la prescription à l’encontre de l’action, pénale ou civile.
 
-<a id="art_N114D7"></a>
+<a id="art_N114DB"></a>
 
 ### Art. 73.
 
@@ -712,7 +712,7 @@ La prescription est interrompue par tout acte d’instruction ou de poursuite. S
 
 ##### *Section 2. De la communication au public d’une décision de justice*
 
-<a id="art_N11514"></a>
+<a id="art_N11518"></a>
 
 ### Art. 74.
 
@@ -722,7 +722,7 @@ La décision qui ordonne cette communication au public peut condamner l’édite
 
 ##### *Section 3. De la saisie d’une publication*
 
-<a id="art_N1155F"></a>
+<a id="art_N11563"></a>
 
 ### Art. 75.
 
@@ -730,7 +730,7 @@ La décision qui ordonne cette communication au public peut condamner l’édite
 
 **(2)** Dans le cas d’une infraction commise par la voie d’un média, la mesure visée au paragraphe (1) pourra encore être ordonnée dans le cadre d’une instruction contre inconnu, si la personne responsable au sens de l’article 21 de la présente loi n’a pu être identifiée.
 
-<a id="art_N115AD"></a>
+<a id="art_N115B1"></a>
 
 ### Art. 76.
 
@@ -738,43 +738,43 @@ La saisie ne s’étendra pas aux exemplaires isolés se trouvant entre les main
 
 #### **Chapitre XIII. Disposition pénale **
 
-<a id="art_N115EA"></a>
+<a id="art_N115EE"></a>
 
 ### Art. 77.
 
 Quiconque fait état de la qualité de journaliste professionnel, sans remplir les conditions prévues à l’article 3, point 6, est puni d’une amende de 500.- à 25.000.- euros. En cas de récidive, l’amende est portée au double.
 
-<a id="art_N1161C"></a>
+<a id="art_N11620"></a>
 
 ### Art. 78.
 
 *(...)* (*devenu vacant à la suite de la loi du 11 avril 2010*)
 
-<a id="art_N11659"></a>
+<a id="art_N1165D"></a>
 
 ### Art. 79.
 
 *(...)* (*devenu vacant à la suite de la loi du 11 avril 2010*)
 
-<a id="art_N11696"></a>
+<a id="art_N1169A"></a>
 
 ### Art. 80.
 
 *(...)* (*devenu vacant à la suite de la loi du 11 avril 2010*)
 
-<a id="art_N116D3"></a>
+<a id="art_N116D7"></a>
 
 ### Art. 81.
 
 (...) (*devenu vacant à la suite de la loi du 11 avril 2010*)
 
-<a id="art_N1170D"></a>
+<a id="art_N11711"></a>
 
 ### Art. 82.
 
 (...) (*devenu vacant à la suite de la loi du 11 avril 2010*)
 
-<a id="art_N11747"></a>
+<a id="art_N1174B"></a>
 
 ### Art. 83.
 
@@ -782,7 +782,7 @@ Quiconque fait état de la qualité de journaliste professionnel, sans remplir l
 
 #### **Chapitre XIV. Des dispositions transitoires**
 
-<a id="art_N1178E"></a>
+<a id="art_N11792"></a>
 
 ### Art. 84.
 
@@ -792,25 +792,25 @@ L’article 2 de la prédite loi continuera toutefois à servir de fondement jur
 
 #### **Chapitre XV. Des dispositions abrogatoires**
 
-<a id="art_N117D8"></a>
+<a id="art_N117DC"></a>
 
 ### Art. 85.
 
 La loi modifiée du 20 juillet 1869 est abrogée.
 
-<a id="art_N1180F"></a>
+<a id="art_N11813"></a>
 
 ### Art. 86.
 
 Les articles 36 et 37 de la loi modifiée du 27 juillet 1991 sur les médias électroniques sont abrogés.
 
-## 3. Promotion de la presse
+## **3. Promotion de la presse**
 
-### Loi du 30 juillet 2021 relative à un régime d’aides en faveur du journalisme professionnel.
+### **Loi du 30 juillet 2021 relative à un régime d’aides en faveur du journalisme professionnel.**
 
 #### **Chapitre 1er ** — **Objet et champ d’application**
 
-<a id="art_N1187C"></a>
+<a id="art_N11884"></a>
 
 ### Art. 1er.
 
@@ -826,7 +826,7 @@ Est exclu du champ d’application un éditeur qui :
 
 #### Chapitre 2 — Définitions
 
-<a id="art_N118C3"></a>
+<a id="art_N118CB"></a>
 
 ### Art. 2.
 
@@ -848,7 +848,7 @@ Pour l’application de la présente loi, en entend par :
 
 #### Chapitre 3 — Maintien du pluralisme
 
-<a id="art_N11935"></a>
+<a id="art_N1193D"></a>
 
 ### Art. 3.
 
@@ -870,7 +870,7 @@ Pour l’application de la présente loi, en entend par :
 8. rendre aisément identifiable le contenu publié contre rémunération et facilement distinguable du contenu journalistique émanant de la rédaction ;
 9. mettre en œuvre des dispositifs appropriés de lutte contre les contenus illicites sur les espaces de contribution personnelle des internautes.
 
-<a id="art_N1198F"></a>
+<a id="art_N11997"></a>
 
 ### Art. 4.
 
@@ -884,7 +884,7 @@ Ce montant est établi sur base de la valeur 834,76 de la cote d’application d
 
 Ce montant est établi sur base de la valeur 834,76 de la cote d’application de l’échelle mobile des salaires et varie en fonction de l’évolution de celle-ci. L’échéance d’une tranche indiciaire pendant l’exercice budgétaire en cours entraîne un ajustement correspondant de l’aide pour l’exercice budgétaire suivant.
 
-<a id="art_N119D8"></a>
+<a id="art_N119E0"></a>
 
 ### Art. 5.
 
@@ -902,7 +902,7 @@ Un règlement grand-ducal peut déterminer les pièces justificatives nécessair
 
 #### Chapitre 4 — Promotion du pluralisme
 
-<a id="art_N11A44"></a>
+<a id="art_N11A4C"></a>
 
 ### Art. 6.
 
@@ -918,7 +918,7 @@ Un règlement grand-ducal peut déterminer les pièces justificatives nécessair
 3. ne pas faire partie d’un groupe de presse ;
 4. En cas de non atteinte de ce seuil, l’aide est diminuée au prorata de la différence.
 
-<a id="art_N11A8F"></a>
+<a id="art_N11A97"></a>
 
 ### Art. 7.
 
@@ -928,7 +928,7 @@ Ce montant est établi sur base de la valeur 834,76 de la cote d’application d
 
 **(2)** L’allocation de l’aide est limitée à trois années consécutives.
 
-<a id="art_N11ABF"></a>
+<a id="art_N11AC7"></a>
 
 ### Art. 8.
 
@@ -945,7 +945,7 @@ Un règlement grand-ducal peut déterminer les pièces justificatives nécessair
 
 #### Chapitre 5 — Éducation aux médias et à la citoyenneté
 
-<a id="art_N11B16"></a>
+<a id="art_N11B1E"></a>
 
 ### Art. 9.
 
@@ -960,7 +960,7 @@ Est considéré comme éditeur citoyen, un éditeur qui remplit, depuis un an au
 7. disposer d’une équipe composée d’un nombre de salariés équivalent à au moins deux emplois à temps plein, dont au moins un journaliste professionnel ;
 8. ne pas constituer un outil de promotion ou un accessoire d’une activité industrielle ou commerciale.
 
-<a id="art_N11B48"></a>
+<a id="art_N11B50"></a>
 
 ### Art. 10.
 
@@ -977,7 +977,7 @@ Ce montant est établi sur base de la valeur 834,76 de la cote d’application d
 
 Une convention détermine le montant et définit, dans le respect de l’indépendance éditoriale du média, les engagements de l’éditeur citoyen et les modalités de paiement.
 
-<a id="art_N11B81"></a>
+<a id="art_N11B89"></a>
 
 ### Art. 11.
 
@@ -985,7 +985,7 @@ Une demande de subvention dûment motivée est soumise au ministre sous forme é
 
 #### Chapitre 6 — Suivi des aides
 
-<a id="art_N11B9D"></a>
+<a id="art_N11BA5"></a>
 
 ### Art. 12.
 
@@ -995,7 +995,7 @@ Une demande de subvention dûment motivée est soumise au ministre sous forme é
 
 #### Chapitre 7 — Limite des aides
 
-<a id="art_N11BD0"></a>
+<a id="art_N11BD8"></a>
 
 ### Art. 13.
 
@@ -1014,7 +1014,7 @@ Les calculs se basent sur les comptes annuels de l’année précédant la deman
 
 #### Chapitre 8 — Commission « Aide à la presse »
 
-<a id="art_N11C2D"></a>
+<a id="art_N11C35"></a>
 
 ### Art. 14.
 
@@ -1060,7 +1060,7 @@ Les membres liés à l’éditeur demandeur ne peuvent participer aux délibéra
 
 #### Chapitre 9 — Restitution
 
-<a id="art_N11D3A"></a>
+<a id="art_N11D42"></a>
 
 ### Art. 15.
 
@@ -1072,7 +1072,7 @@ Les membres liés à l’éditeur demandeur ne peuvent participer aux délibéra
 
 #### Chapitre 10 — Suspension de l’octroi des aides
 
-<a id="art_N11D80"></a>
+<a id="art_N11D88"></a>
 
 ### Art. 16.
 
@@ -1080,7 +1080,7 @@ Aucune aide prévue par la présente loi ne peut être accordée avant la décis
 
 #### Chapitre 11 — Dispositions financières
 
-<a id="art_N11D9C"></a>
+<a id="art_N11DA4"></a>
 
 ### Art. 17.
 
@@ -1088,7 +1088,7 @@ L’octroi des aides prévues à l’article 4, paragraphe 3, et à l’article 
 
 #### Chapitre 12 — Disposition pénale
 
-<a id="art_N11DB8"></a>
+<a id="art_N11DC0"></a>
 
 ### Art. 18.
 
@@ -1096,7 +1096,7 @@ Les personnes qui ont obtenu une aide en application de la présente loi sur bas
 
 #### Chapitre 13 — Disposition abrogatoire
 
-<a id="art_N11DD9"></a>
+<a id="art_N11DE1"></a>
 
 ### Art. 19.
 
@@ -1104,7 +1104,7 @@ La loi modifiée du 3 août 1998 sur la promotion de la presse écrite est abrog
 
 #### Chapitre 14 — Disposition transitoire
 
-<a id="art_N11DFA"></a>
+<a id="art_N11E02"></a>
 
 ### Art. 20.
 
@@ -1114,11 +1114,11 @@ Le bénéfice de ce régime transitoire est lié à la condition du maintien de 
 
 **(2)** La compensation annuelle est affectée à des dépenses directement liées à l’édition, à l’autopromotion ou à l’innovation de la publication de presse.
 
-## 4. Dépôt légal
+## **4. Dépôt légal**
 
-### Version consolidée applicable au 23/12/2022 : Loi du 25 juin 2004 portant réorganisation des instituts culturels de l’Etat.
+### **Version consolidée applicable au 23/12/2022 : Loi du 25 juin 2004 portant réorganisation des instituts culturels de l’Etat.**
 
-<a id="art_N11E59"></a>
+<a id="art_N11E65"></a>
 
 ### Art. 9.
 
@@ -1141,7 +1141,7 @@ La Bibliothèque nationale du Luxembourg a pour missions :
 12. de mener des projets de recherches scientifiques sur ses propres collections et activités en relation avec ses missions par la publication d’ouvrages scientifiques, par l’organisation de colloques et d’expositions temporaires, ou encore par la création de bourses d’études ;
 13. d’organiser des conférences ainsi que des activités pédagogiques et culturelles.
 
-<a id="art_N11ED0"></a>
+<a id="art_N11ED9"></a>
 
 ### Art. 10.
 
@@ -1155,7 +1155,7 @@ Au moins un exemplaire des ouvrages ayant trait à la langue et à la littératu
 
 Un règlement grand-ducal détermine tout ce qui a trait à la mise en oeuvre du dépôt légal et à la distribution des publications ainsi collectées. Il définit notamment la nature des publications soumises au dépôt légal, les personnes physiques ou morales devant effectuer le dépôt ainsi que les délais endéans lesquels le dépôt doit être effectué.
 
-<a id="art_N11F2E"></a>
+<a id="art_N11F34"></a>
 
 ### Art. 18.
 
@@ -1177,7 +1177,7 @@ Le Centre national de l’audiovisuel a pour missions :
 
 La Médiathèque du Centre national de l’audiovisuel a un rôle de promotion de l’audiovisuel, de la photographie et du son. La Médiathèque est intégrée au réseau national des bibliothèques luxembourgeoises et fait partie du conseil supérieur des bibliothèques.
 
-<a id="art_N11F9A"></a>
+<a id="art_N11FA0"></a>
 
 ### Art. 19.
 
@@ -1185,7 +1185,7 @@ Les documents audiovisuels et sonores, à l’exception des documents photograph
 
 Un règlement grand-ducal détermine la mise en œuvre du dépôt légal. Il définit la nature des documents soumis au dépôt légal, les personnes physiques ou morales devant effectuer le dépôt, ainsi que le nombre d’exemplaires et les délais endéans lesquels le dépôt doit être effectué.
 
-<a id="art_N11FDD"></a>
+<a id="art_N11FE0"></a>
 
 ### Art. 31.
 
@@ -1195,13 +1195,13 @@ Un règlement grand-ducal détermine la mise en œuvre du dépôt légal. Il dé
 
 **(3)** La non-restitution et la restitution tardive par les emprunteurs des documents rendus accessibles par les Archives nationales, la Bibliothèque nationale du Luxembourg, le Centre national de l’audiovisuel et le Centre national de littérature sont punies d’une amende de 500 euros au moins et de 10.000 euros au plus.
 
-## 5. Protection du journaliste
+## **5. Protection du journaliste**
 
-### Version consolidée applicable au 12/06/2004 : Loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste.
+### **Version consolidée applicable au 12/06/2004 : Loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste.**
 
-<a id="art_N12059"></a>
+<a id="art_N1205F"></a>
 
-### art_N12059
+### art_N1205F
 
 1. 
 2. 
@@ -1209,13 +1209,13 @@ Un règlement grand-ducal détermine la mise en œuvre du dépôt légal. Il dé
 4. 
 5. 
 
-<a id="art_N120D1"></a>
+<a id="art_N120D7"></a>
 
-### art_N120D1
+### art_N120D7
 
 
 
-<a id="art_N12120"></a>
+<a id="art_N12126"></a>
 
 ### Art. 2.
 
@@ -1234,15 +1234,15 @@ Le Conseil de Presse règle la procédure qui sera suivie devant lui, un recours
 
 Les modalités relatives à l´établissement des documents et insignes d´identification délivrés par le Conseil de Presse seront déterminées par règlement grand-ducal.
 
-<a id="art_N121A7"></a>
+<a id="art_N121AD"></a>
 
-### art_N121A7
+### art_N121AD
 
 
 
-### Règlement grand-ducal du 13 mars 1987 pris en exécution de l'article 2 de la loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste.
+### **Règlement grand-ducal du 13 mars 1987 pris en exécution de l'article 2 de la loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste.**
 
-<a id="art_N121FE"></a>
+<a id="art_N12206"></a>
 
 ### Art. 1er.
 
@@ -1250,7 +1250,7 @@ L'intéressé peut interjeter appel de la décision du Conseil de Presse dans le
 
 Le dossier est transmis dans les huit jours de la déclaration d'appel au Président de la Commission d'appel.
 
-<a id="art_N12214"></a>
+<a id="art_N1221C"></a>
 
 ### Art. 2.
 
@@ -1262,7 +1262,7 @@ Tous sont nommés par le Grand-Duc.
 
 La Commission désigne dans son sein un secrétaire.
 
-<a id="art_N1222D"></a>
+<a id="art_N12235"></a>
 
 ### Art. 3.
 
@@ -1270,13 +1270,13 @@ La procédure se fait contradictoirement sur pièces. La convocation est adress�
 
 L'appelant invité à comparaître peut se faire assister ou représenter par un avocat ou par toute autre personne de son choix, préalablement agréée par le président.
 
-<a id="art_N12240"></a>
+<a id="art_N12248"></a>
 
 ### Art. 4.
 
 La commission ne peut délibérer que si elle est au complet. Les débats ont lieu en séance publique.
 
-<a id="art_N12250"></a>
+<a id="art_N12258"></a>
 
 ### Art. 5.
 
@@ -1284,45 +1284,45 @@ Les décisions sont prises à la majorité des voix.
 
 Elles doivent être motivées. Une copie de la décision certifiée conforme par le président est notifiée à l'intéressé à son domicile par lettre recommandée à la poste dans un délai de quinze jours à dater de la décision.
 
-<a id="art_N12263"></a>
+<a id="art_N1226B"></a>
 
 ### Art. 6.
 
 Notre Président du Gouvernement, Ministre d'Etat et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.
 
-### Règlement grand-ducal du 8 décembre 2010 portant création d'une carte de presse de journaliste professionnel et d'une carte de presse de journaliste professionnel stagiaire.
+### **Règlement grand-ducal du 8 décembre 2010 portant création d'une carte de presse de journaliste professionnel et d'une carte de presse de journaliste professionnel stagiaire.**
 
-<a id="art_N12286"></a>
+<a id="art_N12290"></a>
 
 ### Art. 1er.
 
 Il est créé une carte de presse dénommée «Carte de presse de Journaliste professionnel» délivrée par le Conseil de Presse aux journalistes qui remplissent les conditions prévues à l'article 3 (6) de la loi modifiée du 8 juin 2004 sur la liberté d'expression dans les médias.
 
-<a id="art_N1229F"></a>
+<a id="art_N122A9"></a>
 
 ### Art. 2.
 
 La «Carte de presse de Journaliste professionnel» établie par le Conseil de Presse conformément aux spécifications de l'annexe A ci-après est nominative et a une durée de validité d'une année.
 
-<a id="art_N122AF"></a>
+<a id="art_N122B9"></a>
 
 ### Art. 3.
 
 Elle est renouvelée annuellement suite à la révision, par le Conseil de Presse, de la liste des journalistes professionnels porteurs de la carte.
 
-<a id="art_N122BF"></a>
+<a id="art_N122C9"></a>
 
 ### Art. 4.
 
 Il est créé une carte de presse dénommée «Carte de presse de Journaliste professionnel stagiaire» délivrée par le Conseil de Presse aux journalistes qui remplissent les conditions prévues à l'article 3 (6) de la loi modifiée du 8 juin 2004 sur la liberté d'expression dans les médias et qui ont une pratique professionnelle inférieure à deux ans.
 
-<a id="art_N122D5"></a>
+<a id="art_N122DF"></a>
 
 ### Art. 5.
 
 La «Carte de presse de Journaliste professionnel stagiaire» établie par le Conseil de Presse conformément aux spécifications de l'annexe B ci-après est nominative et a une durée de validité d'une année.
 
-<a id="art_N122E5"></a>
+<a id="art_N122EF"></a>
 
 ### Art. 6.
 
@@ -1330,13 +1330,13 @@ Elle est renouvelable une fois, suite à la révision par le Conseil de Presse d
 
 Une Carte de presse de Journaliste professionnel est délivrée au détenteur de la Carte de Journaliste professionnel stagiaire ayant accompli deux années d'expérience professionnelle.
 
-<a id="art_N122F8"></a>
+<a id="art_N12302"></a>
 
 ### Art. 7.
 
 Le règlement grand-ducal du 25 janvier 1984 portant création d'une carte d'identité des journalistes professionnels, le règlement grand-ducal du 10 janvier 1995 portant création d'une «Carte de Presse pour stagiaires» et le règlement grand-ducal du 19 décembre 2003 portant 1) remplacement de l'annexe au réglement grand-ducal du 25 janvier 1984 portant création d'une carte d'identité des journalistes professionnels; 2) remplacement de l'annexe au règlement grand-ducal du 10 janvier 1995 portant création d'une «Carte de presse pour stagiaires» et abrogation du règlement grand-ducal du 24 octobre 1995 portant remplacement de l'annexe au règlement grand-ducal du 25 janvier 1984 portant création d'une carte d'identité des journalistes professionnels, sont abrogés.
 
-<a id="art_N1232D"></a>
+<a id="art_N12337"></a>
 
 ### Art. 8.
 
@@ -1348,11 +1348,11 @@ Notre Ministre des Communications et des Médias est chargé de l'exécution du 
 
 
 
-## 5. Protection du journaliste
+## **5. Protection du journaliste**
 
-### Version rectifiée applicable au 26/04/2013 : Règlement grand-ducal du 6 avril 2013 concernant la création et l’usage d’un signe distinctif particulier «Presse».
+### **Version rectifiée applicable au 26/04/2013 : Règlement grand-ducal du 6 avril 2013 concernant la création et l’usage d’un signe distinctif particulier «Presse».**
 
-<a id="art_N123B5"></a>
+<a id="art_N123C1"></a>
 
 ### Art. 1er.
 
@@ -1362,7 +1362,7 @@ Le signe distinctif est nominatif et a une durée de validité correspondant à 
 
 Sont seuls admis à faire usage de ce signe les journalistes professionnels et les journalistes professionnels stagiaires qui remplissent les conditions prévues à l'article 3 (6) de la loi modifiée du 8 juin 2004 sur la liberté d'expression dans les médias.
 
-<a id="art_N12402"></a>
+<a id="art_N1240E"></a>
 
 ### Art. 2.
 
@@ -1370,7 +1370,7 @@ Le signe distinctif visé à l'article 1er est constitué d'un carton large de 2
 
 Le signe distinctif porte en plus un numéro d'ordre qui doit correspondre à celui de la carte de presse de journaliste professionnel voire à celui de la carte de presse de journaliste professionnel stagiaire de son titulaire, prévues par le règlement grand-ducal du 8 décembre 2010 portant création d'une carte de presse de journaliste professionnel et d'une carte de presse de journaliste professionnel stagiaire.
 
-<a id="art_N12444"></a>
+<a id="art_N12450"></a>
 
 ### Art. 3.
 
@@ -1378,7 +1378,7 @@ Le titulaire de l'autorisation individuelle visée à l'article 2 peut, en étan
 
 Les personnes faisant usage du signe distinctif doivent exhiber sur réquisition leur carte de journaliste respective.
 
-<a id="art_N1247F"></a>
+<a id="art_N1248B"></a>
 
 ### Art. 4.
 
@@ -1390,11 +1390,11 @@ Notre Ministre du Développement durable et des Infrastructures et Notre Ministr
 
 
 
-## 5. Protection du journaliste
+## **5. Protection du journaliste**
 
-### Loi du 7 août 2023 portant modification : 1° du Code pénal ; 2° du Code de procédure pénale.
+### **Loi du 7 août 2023 portant modification : 1° du Code pénal ; 2° du Code de procédure pénale.**
 
-<a id="art_N12530"></a>
+<a id="art_N1253E"></a>
 
 ### Art. 1er.
 
@@ -1419,19 +1419,19 @@ Le Code pénal est modifié comme suit :
 9. d’une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
 10. d’une personne qui est tenue à son égard par des liens de subordination ; la peine sera de trois mois à deux ans d’emprisonnement et de 500 euros à 10.000 euros d’amende.
 
-<a id="art_N12627"></a>
+<a id="art_N12635"></a>
 
 ### Art. 2.
 
 À l’article 48-26, paragraphe 1er, alinéa 1er, phrase liminaire, du Code de procédure pénale, les termes contre la sûreté de l’État au sens des articles 101 à 123 du Code pénal et des actes de terrorisme et de financement du terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal sont remplacés par les termes punis par une peine criminelle ou une peine correctionnelle dont le maximum est égal ou supérieur à deux ans d’emprisonnement. .
 
-## 6. Soutien au secteur audio-visuel
+## **6. Soutien au secteur audio-visuel**
 
-### Loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel.
+### **Loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel.**
 
 #### **Chapitre 1: Dispositions générales**
 
-<a id="art_N12685"></a>
+<a id="art_N12697"></a>
 
 ### Art. 1er. Statut
 
@@ -1439,7 +1439,7 @@ Le Fonds national de soutien à la production audiovisuelle, désigné ci-après
 
 Le siège du Fonds est à Luxembourg.
 
-<a id="art_N126A7"></a>
+<a id="art_N126B9"></a>
 
 ### Art. 2. Mission
 
@@ -1459,7 +1459,7 @@ Le Fonds a pour mission:
 
 #### **Chapitre 2: Organisation**
 
-<a id="art_N126EC"></a>
+<a id="art_N126FE"></a>
 
 ### Art. 3. Conseil d'administration: attributions
 
@@ -1473,7 +1473,7 @@ Les attributions du Conseil d'administration du Fonds, dénommé ci-après le «
 6. il approuve le règlement d'ordre intérieur du Comité de sélection;
 7. il accepte les dons et legs.
 
-<a id="art_N1271B"></a>
+<a id="art_N1272D"></a>
 
 ### Art. 4. Conseil d'administration: nominations
 
@@ -1485,7 +1485,7 @@ En cas de démission, de décès ou de révocation d'un membre du Conseil, il es
 
 Les membres du Conseil ne peuvent être membres du Gouvernement, de la Chambre des Députés, du Conseil d'Etat, du Parlement Européen ni exercer une activité professionnelle liée au secteur audiovisuel ou détenir directement ou indirectement des intérêts dans une entreprise ou tout autre organisme opérant dans le secteur de la production audiovisuelle.
 
-<a id="art_N1274C"></a>
+<a id="art_N1275E"></a>
 
 ### Art. 5. Conseil d'administration: fonctionnement
 
@@ -1503,7 +1503,7 @@ Les membres du Conseil bénéficient d'un jeton de présence à charge du Fonds 
 
 Mises à part les décisions que le Conseil décide de rendre publiques, les membres du Conseil et toutes les personnes admises à assister aux réunions du Conseil sont tenus au secret des délibérations.
 
-<a id="art_N12798"></a>
+<a id="art_N127AA"></a>
 
 ### Art. 6. Le directeur: attributions
 
@@ -1513,13 +1513,13 @@ Le directeur assure la liaison avec le Conseil et le Comité de sélection.
 
 Le directeur est le chef hiérarchique des agents du Fonds et représente le Fonds judiciairement et extrajudiciairement.
 
-<a id="art_N127C0"></a>
+<a id="art_N127D2"></a>
 
 ### Art. 7. Le directeur: nomination
 
 Le directeur est nommé par le Grand-Duc.
 
-<a id="art_N127D6"></a>
+<a id="art_N127E8"></a>
 
 ### Art. 8. Le cadre du personnel
 
@@ -1555,7 +1555,7 @@ La promotion aux fonctions supérieures à celles respectivement de rédacteur p
 
 #### **Chapitre 3: Aide financière sélective**
 
-<a id="art_N1288F"></a>
+<a id="art_N128A1"></a>
 
 ### Art. 9. Aide financière sélective
 
@@ -1578,7 +1578,7 @@ L'octroi de l'aide financière sélective prévue par la présente loi fait l'ob
 
 Un règlement grand-ducal précise le contenu de la convention qui portera sur les critères d'attribution, les modalités de remboursement et la caducité et restitution des aides.
 
-<a id="art_N128EE"></a>
+<a id="art_N12900"></a>
 
 ### Art. 10. Conditions d'éligibilité des oeuvres
 
@@ -1594,7 +1594,7 @@ Un règlement grand-ducal précise le contenu de la convention qui portera sur l
 2. les oeuvres destinées ou utilisées à des fins de publicité;
 3. les programmes d'information, débats d'actualité ou les émissions sportives.
 
-<a id="art_N12935"></a>
+<a id="art_N12947"></a>
 
 ### Art. 11. Comité de sélection: composition et nomination
 
@@ -1604,7 +1604,7 @@ La nomination d'un nouveau membre en remplacement d'un membre démissionnaire, d
 
 Les membres du Comité ne peuvent être membres du Gouvernement, de la Chambre des Députés, du Conseil d'Etat, du Parlement Européen, ni exercer une activité professionnelle liée au secteur audiovisuel ou détenir directement ou indirectement des intérêts dans une entreprise ou tout autre organisme opérant dans le secteur de la production audiovisuelle au Grand-Duché de Luxembourg.
 
-<a id="art_N1295D"></a>
+<a id="art_N1296F"></a>
 
 ### Art. 12. Comité de sélection: attribution et procédure
 
@@ -1640,7 +1640,7 @@ Le Comité peut s'adjoindre des consultants pour des missions spécifiques.
 
 Les membres du Comité, et les agents visés ci-avant peuvent se voir attribuer une indemnité fixée par voie de règlement grand-ducal en fonction de l'ampleur et de l'importance de leurs tâches, qui est à charge du Fonds.
 
-<a id="art_N129F2"></a>
+<a id="art_N12A04"></a>
 
 ### Art. 13. Détermination du montant de l'aide financière sélective
 
@@ -1656,19 +1656,19 @@ Un règlement grand-ducal précise les charges et catégories de dépenses qui p
 
 #### **Chapitre 4: Comptes et financement du Fonds**
 
-<a id="art_N12A36"></a>
+<a id="art_N12A48"></a>
 
 ### Art. 14. Comptes du Fonds
 
 Les comptes du Fonds sont tenus selon les règles de la comptabilité commerciale. L'exercice financier coïncide avec l'année civile. Avant le 30 juin de chaque année, le directeur du Fonds soumet au Conseil les comptes annuels comprenant le bilan et le compte de profits et pertes ainsi que l'annexe arrêtés au 31 décembre de l'exercice écoulé, ensemble avec son rapport d'activité et le rapport du réviseur d'entreprises agréé. Le budget annuel du Fonds est proposé au Conseil par le directeur avant le 31 décembre pour l'année qui suit.
 
-<a id="art_N12A4C"></a>
+<a id="art_N12A5E"></a>
 
 ### Art. 15. Contrôle des comptes
 
 Le Gouvernement en conseil nomme un réviseur d’entreprises agréé sur proposition du Conseil du Fonds. Le réviseur d’entreprises agréé a pour mission de vérifier et de certifier les comptes annuels du Fonds. Le réviseur d’entreprises agréé est nommé pour une période de 5 ans renouvelable. Il peut être chargé par le Conseil du Fonds de procéder à des vérifications spécifiques. Sa rémunération est à la charge du Fonds.
 
-<a id="art_N12A5C"></a>
+<a id="art_N12A6E"></a>
 
 ### Art. 16. Approbation gouvernementale
 
@@ -1676,7 +1676,7 @@ Les comptes annuels et les rapports arrêtés par le Conseil sont transmis au Go
 
 L'organigramme et les décisions relatives aux rémunérations des agents du Fonds sont soumis à l'approbation du Gouvernement en conseil.
 
-<a id="art_N12A7B"></a>
+<a id="art_N12A8D"></a>
 
 ### Art. 17. Ressources
 
@@ -1687,7 +1687,7 @@ Le Fonds peut disposer des ressources suivantes:
 3. des contributions financières provenant du budget des recettes et des dépenses de l'Etat et réservées à l'exécution de projets déterminés ayant fait l'objet d'une convention préalable entre le Gouvernement et le Fonds;
 4. de dons et legs en espèces et en nature.
 
-<a id="art_N12AA1"></a>
+<a id="art_N12AB3"></a>
 
 ### Art. 18. Acceptation de dons
 
@@ -1699,37 +1699,37 @@ Le Fonds dispose des dons reçus sans indication de destination dans l'intérêt
 
 #### **Chapitre 5: Dispositions spéciales**
 
-<a id="art_N12AD3"></a>
+<a id="art_N12AE5"></a>
 
 ### Art. 19. Partenariats et commandes
 
 Le Fonds peut conclure des partenariats avec des personnes physiques ou morales, du secteur public ou privé, ou leur passer des commandes, pour faire exécuter sur base contractuelle des oeuvres de création cinématographique ou audiovisuelle.
 
-<a id="art_N12AE9"></a>
+<a id="art_N12AFB"></a>
 
 ### Art. 20. Rapport annuel
 
 Le Gouvernement soumet annuellement à la Chambre des Députés un rapport global sur les activités du Fonds.
 
-<a id="art_N12AFF"></a>
+<a id="art_N12B11"></a>
 
 ### Art. 21. Etablissement de statistiques
 
 Le Fonds est autorisé à procéder à l'établissement de statistiques dans le domaine de l'aide financière sélective prévue par la présente loi, et à recueillir les informations appropriées notamment auprès des bénéficiaires de ces aides, sous réserve des dispositions civiles et pénales régissant le secret professionnel, le secret des affaires, la protection des données informatiques nominatives et la protection de la vie privée.
 
-<a id="art_N12B15"></a>
+<a id="art_N12B27"></a>
 
 ### Art. 22. Remise de matériel audiovisuel au Fonds
 
 Dans l'intérêt de la promotion du secteur de la production audiovisuelle au Grand-Duché de Luxembourg, et sans préjudice des dispositions de l'article 18 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l'Etat, les bénéficiaires de l'aide financière sélective créée par la présente loi, ont l'obligation de remettre sur demande du Fonds, sans frais pour celui-ci, une copie du produit écrit ou cinématographique ou audiovisuel fini ayant bénéficié de l'aide, ainsi que, pour les oeuvres cinématographiques et audiovisuelles, une copie de tout matériel de promotion disponible et un extrait d'au moins trente secondes de l'oeuvre, libres de droits, le tout sur des supports matériels à définir par le Fonds.
 
-<a id="art_N12B2F"></a>
+<a id="art_N12B41"></a>
 
 ### Art. 23. Disposition fiscale
 
 Le Fonds est exempt de tous droits, taxes et impôts généralement quelconques au profit de l'Etat et des communes, excepté la taxe sur la valeur ajoutée.
 
-<a id="art_N12B45"></a>
+<a id="art_N12B57"></a>
 
 ### Art. 24. Dons
 
@@ -1741,7 +1741,7 @@ Cette commission émet un avis tant sur l'intérêt culturel, artistique ou hist
 
 La valeur retenue par cette commission est censée constituer la valeur estimée de réalisation au sens de l'article 27, alinéa 2, de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu.
 
-<a id="art_N12B7F"></a>
+<a id="art_N12B91"></a>
 
 ### Art. 25. Successions
 
@@ -1749,7 +1749,7 @@ Lorsqu'une personne a disposé d'un bien à titre gratuit au profit du Fonds ou 
 
 Il en est de même des sommes ou valeurs que le Fonds ou le tiers est appelé à recevoir à titre de legs en vertu d'un contrat renfermant une stipulation à son profit.
 
-<a id="art_N12B9E"></a>
+<a id="art_N12BB0"></a>
 
 ### Art. 26. Legs
 
@@ -1759,13 +1759,13 @@ Le bien est soumis à l'avis de la commission interministérielle. Dans le cadre
 
 La donation n'est considérée comme réalisée qu'après acceptation par le Conseil.
 
-<a id="art_N12BC6"></a>
+<a id="art_N12BD8"></a>
 
 ### Art. 27. Registre audiovisuel
 
 Il peut être instauré auprès du Fonds un registre luxembourgeois des oeuvres audiovisuelles, permettant d'attribuer aux oeuvres y inscrites la nationalité luxembourgeoise. Le fonctionnement de ce registre, les conditions d'inscription et de mise en gage éventuelle des droits et les modalités de dépôt des supports matériels des oeuvres, ainsi que les conditions et modalités d'attribution de la nationalité luxembourgeoise aux oeuvres inscrites sont déterminés par règlement grand-ducal.
 
-<a id="art_N12BDC"></a>
+<a id="art_N12BEE"></a>
 
 ### Art. 28. Imposition forfaitaire des collaborateurs non-résidents
 
@@ -1773,7 +1773,7 @@ Par dérogation à l'article 157, alinéas 3 et 4, de la loi modifiée du 4 déc
 
 #### **Chapitre 6: Dispositions modificatives, abrogatoires et transitoires**
 
-<a id="art_N12C06"></a>
+<a id="art_N12C18"></a>
 
 ### Art. 29. Dispositions modificatives
 
@@ -1785,27 +1785,27 @@ Par dérogation à l'article 157, alinéas 3 et 4, de la loi modifiée du 4 déc
 
 **(2)** A l'article 2, alinéa 1 de la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel, la référence à l'année «2015» est remplacée par celle à l'année «2013».
 
-<a id="art_N12C4F"></a>
+<a id="art_N12C61"></a>
 
 ### Art. 30. Disposition abrogatoire
 
 La loi modifiée du 11 avril 1990 portant création d'un Fonds national de soutien à la production audiovisuelle est abrogée.
 
-<a id="art_N12C69"></a>
+<a id="art_N12C7B"></a>
 
 ### Art. 31. Dispositions transitoires
 
 Sans préjudice de dispositions particulières contenues dans la présente loi, les fonctionnaires détachés au Fonds sur base de la loi modifiée du 11 avril 1990 portant création d'un Fonds national de soutien à la production audiovisuelle qui sont intégrés dans le cadre du personnel du Fonds et qui d'après l'ancienne législation avaient une perspective de carrière plus favorable pour l'accès aux différentes fonctions de leur carrière conservent leurs anciennes possibilités d'avancement. Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.
 
-### Version consolidée applicable au 14/10/2014 : Loi du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d’investissement audiovisuel.
+### **Version consolidée applicable au 14/10/2014 : Loi du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d’investissement audiovisuel.**
 
-<a id="art_N12C98"></a>
+<a id="art_N12CAC"></a>
 
 ### Art. 1er. Le régime et sa finalité
 
 Il est instauré un régime fiscal temporaire spécial sur la base de certificats d’investissement audiovisuel, désigné ci-après par le «régime», destiné à favoriser les investissements de capitaux à risque dans la production d’œuvres audiovisuelles à réaliser au Grand-Duché de Luxembourg.
 
-<a id="art_N12CD3"></a>
+<a id="art_N12CE7"></a>
 
 ### Art. 2. Les bénéficiaires
 
@@ -1815,7 +1815,7 @@ Sur avis préalable de l’établissement public «Fonds national de soutien à 
 
 Les sociétés de production qui désirent bénéficier du régime des certificats d’investissement audiovisuel adressent à cette fin une requête au Fonds visé ci-dessus. Le Conseil d’administration du Fonds avise la requête et la transmet aux ministres compétents qui décident de l’éligibilité du projet. Les modalités de cette procédure sont définies par règlement grand-ducal.
 
-<a id="art_N12D22"></a>
+<a id="art_N12D36"></a>
 
 ### Art. 3. Les certificats d’investissement audiovisuel
 
@@ -1833,7 +1833,7 @@ La demande d’attribution des certificats d’investissement audiovisuel est à
 
 Le bénéficiaire principal, les bénéficiaires substitutifs et les endossataires des certificats d’investissement audiovisuel ne peuvent être que des personnes morales constituées sous forme de sociétés de capitaux ou de sociétés coopératives.
 
-<a id="art_N12D90"></a>
+<a id="art_N12DA4"></a>
 
 ### Art. 4. Conditions d’éligibilité des œuvres
 
@@ -1850,7 +1850,7 @@ Le bénéficiaire principal, les bénéficiaires substitutifs et les endossatair
 - les œuvres destinées ou utilisées à des fins de publicité;
 - les programmes d’information, débats d’actualité ou les émissions sportives.
 
-<a id="art_N12E03"></a>
+<a id="art_N12E17"></a>
 
 ### Art. 5. Détermination du montant des certificats
 
@@ -1860,7 +1860,7 @@ Par coûts de production au sens de la loi, on entend les charges décaissables 
 
 Un règlement grand-ducal précisera l’assiette de calcul des dépenses éligibles et pourra fixer des forfaits ou des limites de prise en compte de certaines catégories de dépenses.
 
-<a id="art_N12E4D"></a>
+<a id="art_N12E61"></a>
 
 ### Art. 6.
 
@@ -1872,27 +1872,27 @@ A défaut d’impôt suffisant, la bonification d’impôt en souffrance n’est
 
 La bonification d’impôt pour investissement audiovisuel ne peut être cumulée avec la bonification d’impôt pour investissement en capital-risque.
 
-<a id="art_N12E9A"></a>
+<a id="art_N12EAE"></a>
 
 ### Art. 7. Gestion administrative du régime
 
 Le Fonds national de soutien à la production audiovisuelle est chargé d’assumer la gestion administrative, la surveillance et le contrôle du régime.
 
-<a id="art_N12ED2"></a>
+<a id="art_N12EE6"></a>
 
 ### Art. 8. Remise de matériel audiovisuel
 
 Dans l’intérêt de la promotion du secteur de la production audiovisuelle au Grand-Duché de Luxembourg, et sans préjudice des dispositions de l’article 2 alinéa 1 de la loi du 18 mai 1989 portant création du Centre national de l’audiovisuel, les bénéficiaires principaux des certificats d’investissement audiovisuel ont l’obligation de remettre au Fonds, sans frais pour celui-ci, une copie de l’œuvre audiovisuelle produite ayant bénéficié du régime instauré par la présente loi, ainsi qu’une copie de tout matériel de promotion disponible et un extrait d’au moins trente (30) secondes de cette œuvre, libres de droits, le tout sur des supports matériels à définir par le Fonds.
 
-<a id="art_N12F0F"></a>
+<a id="art_N12F23"></a>
 
 ### Art. 9. Recours
 
 Les décisions administratives prises en application de la présente loi sont susceptibles d’un recours en annulation devant le tribunal administratif.
 
-### Loi du 21 décembre 1998 portant modification et refonte de la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel et de la loi du 11 avril 1990 portant création d'un Fonds national de soutien à la production audiovisuelle.
+### **Loi du 21 décembre 1998 portant modification et refonte de la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel et de la loi du 11 avril 1990 portant création d'un Fonds national de soutien à la production audiovisuelle.**
 
-<a id="art_N12F61"></a>
+<a id="art_N12F77"></a>
 
 ### ARTICLE III: Registre audiovisuel
 
@@ -1900,7 +1900,7 @@ Il peut être instauré auprès de l'établissement public «Fonds national de s
 
 Le fonctionnement de ce registre, les conditions d'inscription et de mise en gage éventuelle des droits et les modalités de dépôt des supports matériels des œuvres, ainsi que les conditions et modalités d'attribution de la nationalité luxembourgeoise aux œuvres inscrites sont déterminés par règlement grand-ducal.
 
-<a id="art_N12F79"></a>
+<a id="art_N12F8F"></a>
 
 ### ARTICLE IV: Imposition forfaitaire des collaborateurs non-résidents
 
@@ -1908,7 +1908,7 @@ Par dérogation à l'article 157, alinéas 3 et 4, de la loi du 4 décembre 1967
 
 Le taux d'imposition forfaitaire ne peut pas être inférieur à 10 %. La retenue d'impôt forfaitaire peut être perçue le cas échéant par dérogation aux articles 136 et 137 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu et aux dispositions d'exécution des articles en question.
 
-<a id="art_N12F91"></a>
+<a id="art_N12FA7"></a>
 
 ### ARTICLE V: Dispositions modificatives et abrogatoires
 
@@ -1916,35 +1916,35 @@ Le taux d'imposition forfaitaire ne peut pas être inférieur à 10 %. La retenu
 
 **2.** Sont abrogées toutes les dispositions antérieures, contraires à la présente loi.
 
-<a id="art_N12FBB"></a>
+<a id="art_N12FD1"></a>
 
 ### ARTICLE VI:
 
 La présente loi entre en vigueur trois jours après sa publication au Mémorial.
 
-### Règlement grand-ducal du 16 mars 1999 portant exécution de la loi modifiée du 11 avril 1990 portant création d'un Fonds national de soutien à la production audiovisuelle.
+### **Règlement grand-ducal du 16 mars 1999 portant exécution de la loi modifiée du 11 avril 1990 portant création d'un Fonds national de soutien à la production audiovisuelle.**
 
-<a id="art_N12FDF"></a>
+<a id="art_N12FF7"></a>
 
 ### ARTICLE I :
 
 **Le règlement grand-ducal du 13 février 1991 déterminant l'intervention financière du Fonds national de soutien à la production audiovisuelle a dorénavant la teneur suivante :****Article 1er:**Champ d'applicationLe présent règlement détermine les conditions et les modalités d'intervention du Fonds national de soutien à la production audiovisuelle, désigné ci-après par le «Fonds», en exécution des dispositions de la loi modifiée du 11 avril 1990 ayant créé une aide financière sélective à la production audiovisuelle destinée à promouvoir la création cinématographique et audiovisuelle au Grand-Duché de Luxembourg et à encourager le développement de la production, la coproduction et la distribution d'oeuvres dans ce domaine, ci-après désignée par la «Loi».Les oeuvres et projets susceptibles d'être pris en considération pour l'octroi d'une aide financière sélective créée par la Loi doivent être des oeuvres de fiction ou d'animation ou des documentaires de création, de nature cinématographique ou audiovisuelle, sans destination ni utilisation publicitaire. **Article 2:**Conditions d'éligibilité1.Peuvent bénéficier d'une aide à l'écriture et au développement, les projets de scénarios : qui font l'objet d'un intérêt manifesté par un producteur luxembourgeois envisageant une réalisation cinématographique ou audiovisuelle ultérieure du scénario en projet, ouqui font ou ont fait l'objet d'un concours public.Outre les frais d’écriture proprement dits, l’aide à l'écriture et au développement peut comprendre, en une ou plusieurs langues, des frais de traduction de la version finale d'un scénario présenté au Fonds, ainsi que des frais de tentatives de montage financier, préparatoires à la production cinématographique ou audiovisuelle effective d'un scénario présenté au Fonds. En cas de film d’animation, il peut également comprendre la réalisation d’un pilote.2.Peuvent bénéficier d'une aide à la production ou à la coproduction, les scénarios d'oeuvres cinématographiques et audiovisuelles à produire ou à coproduire par des producteurs luxembourgeois.Sans préjudice des dispositions du droit international et des réglementations nationales applicables dans le ou les Etats dont relèvent le ou les coproducteurs éventuels, les coproductions doivent, pour pouvoir bénéficier de l'aide à la production ou à la coproduction créée par la Loi, remplir notamment les conditions cumulatives suivantes:la part du ou des coproducteurs luxembourgeois ne peut en principe être inférieure à dix pour cent (10 %) du coût total de la production de l'oeuvre concernée, et celle d’un éventuel coproducteur minoritaire étranger ne peut, en principe, être inférieure à ce même montant, la propriété du négatif original image et son de l’oeuvre coproduite ou du support de fixation originale de l'oeuvre coproduite, permettant d'en reproduire des exemplaires d'exploitation, doit être la propriété indivise des coproducteurs. Les droits appartenant au coproducteur luxembourgeois dans la répartition des droits d’exploitation sur l'oeuvre doivent, au moins, être proportionnels à sa contribution dans le financement de l'oeuvre concernée, la participation du coproducteur luxembourgeois doit être effective, sur les plans artistique et technique, lors de la réalisation de l'oeuvre coproduite.3.Peuvent bénéficier d'une aide à la distribution, les producteurs ou distributeurs luxembourgeois qui ont produit, coproduit ou souhaitent distribuer une ou plusieurs oeuvres cinématographiques ou audiovisuelles, reconnues de nationalité luxembourgeoise.Sans préjudice des dispositions du droit international et des réglementations nationales applicables dans le ou les Etats de distribution, les producteurs, coproducteurs et distributeurs sollicitant l'aide à la distribution doivent justifier qu'ils sont en mesure de financer par eux-mêmes une proportion raisonnable des frais de distribution pour lesquels ils sollicitent cette aide.4.Peuvent bénéficier d’une des aides énumérées ci-avant, les œuvres de création audiovisuelle pour l’exécution desquelles le Fonds a passé une commande ou conclu un partenariat avec des personnes physiques ou morales, conformément à l’article 4 de la loi. **Article 3:**Présentation des demandes d'aideLes demandes d'aide sont à adresser au Fonds dans les formes et délais à arrêter par le Conseil et qui sont portés de façon appropriée à la connaissance des requérants. Toute omission ou fausse indication volontaire dans les formulaires, informations ou pièces justificatives fournis par le requérant entraîne le rejet de la demande, sans préjudice de l'application éventuelle des sanctions de droit commun.En cas de coproduction ou de codistribution luxembourgeoise, la demande est à adresser par le partenaire luxembourgeois disposant de la part luxembourgeoise de production ou de distribution la plus importante par rapport à l'ensemble de l'oeuvre objet de la demande et qui est délégué à cet effet par les autres partenaires concernés.**Article 4:**Instruction des demandes d'aide1.Après avoir constaté la recevabilité « prima facie » de la demande d'aide au regard des dispositions de la Loi, du présent règlement et des autres mesures d'exécution qu'ils permettent, le Conseil la transmet à un ou plusieurs comités de lecture et au comité d'analyse économique et financière institués auprès du Fonds, pour avis conformément à la Loi.Ces comités rendent, dans les limites de leurs compétences, leur avis écrit et motivé au Conseil, dans les formes et délais fixés par celui-ci.2.Sur base des avis des comités sus-visés, le Conseil décide de l'octroi ou du refus de l'aide sollicitée et, en cas d'octroi, en détermine le montant, les modalités de versement et de remboursement, ainsi que toutes autres modalités et conditions qu'il juge appropriées, en tenant compte notamment:de la nature des oeuvres concernées et de la qualité artistique et technique de leur exécution,des conditions et des coûts de production ou de distribution des oeuvres objet de la demande,des disponibilités financières du Fonds.3.Les décisions du Conseil sont consignées dans un procès-verbal transmis au chargé de direction du Fonds pour exécution.**Article 5:**ConventionsSauf décision contraire du Conseil, les aides accordées font l'objet de conventions à conclure entre le Fonds et le ou les bénéficiaires de ces aides. Le chargé de direction du Fonds dresse ces conventions en exécution des décisions afférentes du Conseil et des dispositions légales et réglementaires applicables, et signe ces conventions pour compte du Fonds.**Article 6:**Modalités de versement des aidesLes aides accordées sont versées en plusieurs tranches fixées par le Conseil.Les versements sont effectués sur base et en proportion du décaissement effectif des charges du requérant, figurant dans la comptabilité de celui-ci en tant que frais réels, indiqués par nature de charge et par activité pour laquelle ils sont engagés, dont l'affectation au développement, à la production ou à la distribution de l'oeuvre objet de la demande ainsi que le décaissement effectif sont dûment justifiés par le requérant. Ce principe s'applique également aux «sociétés liées», au sens de la loi du 17 juin 1992 relative aux comptes annuels et comptes consolidés des établissements de crédit de droit luxembourgeois et notamment son article 109, dont le requérant utilise le cas échéant les biens ou services pour les besoins de l'objet de sa demande.La dernière tranche de l'aide, qui ne peut être inférieure à vingt pour cent (20 %) du montant total de l'aide accordée par le Conseil en faveur de l'oeuvre objet de la demande, est liquidée sur présentation du décompte final des charges payées pour l’écriture et le développement, ou pour la production ou pour la distribution de l'oeuvre concernée. Le Conseil fixe les définitions et les modalités de la structure budgétaire et du décompte des charges à prendre en considération pour l'octroi des aides créées par la Loi, et peut exiger la remise, de la part et aux frais du bénéficiaire de l'aide, d'un rapport de vérification des comptes de celui-ci, établi par un réviseur d'entreprises agréé au Grand-Duché de Luxembourg.Lors du décompte final, au cas où il s'avère que les charges effectives de l’écriture et du développement, de la production ou de la distribution de l'oeuvre, objet de la demande, sont inférieures aux charges estimatives ayant servi à la fixation du montant originaire de l'aide octroyée par le Conseil, le montant total de l’aide fixé à l’origine sera réduit dans les mêmes proportions. **Article 7:**Modalités de remboursement des aidesSauf décision contraire, les aides accordées sont en principe intégralement remboursables. Le Conseil peut cependant moduler la somme à rembourser, en différer ou suspendre les échéances, y adjoindre des intérêts de retards, voire y renoncer en tout ou en partie, avec ou sans condition.En principe, les remboursements sont à effectuer par prélèvement « pari passu » sur les recettes nettes générées par l'oeuvre, en fonction d’un pourcentage ne pouvant être, ni inférieur à 0,5 fois, ni supérieur à 1,5 fois le pourcentage de la part proportionnelle que représente l'aide du Fonds dans le financement de l'ensemble des charges de production ou de distribution de cette œuvre. On entend par recettes nettes celles revenant au producteur, après déduction des taxes et frais de commercialisation de l'oeuvre concernée.Les recettes nettes à prendre en considération aux fins du présent article, qui peuvent être plus amplement définies par le Conseil, sont portées par les bénéficiaires des aides sur des états récapitulatifs transmis régulièrement au Fonds, aux échéances décidées par le Conseil, le cas échéant ensemble avec les versements conséquents des parts de remboursement des aides revenant au Fonds sur base de ces recettes.Le Fonds est habilité à se faire consentir notamment des gages sur les droits et/ou supports matériels du bénéficiaire d'une aide, en garantie du remboursement de l'aide accordée.**Article 8:**Caducité et restitution des aidesSauf dérogation totale ou partielle accordée par le Conseil, les aides du Fonds sont caduques si l'acte d'écriture, de développement, de production ou de distribution qui en a motivé l'octroi n’intervient pas effectivement endéans le délai fixé par le Conseil au moment de l'octroi de l'aide. Il en est de même au cas où une des conditions liées à l'octroi de l'aide n'était plus remplie.Sauf décision contraire du Conseil, le montant d'une aide caduque est à restituer intégralement au Fonds à la première demande de celui-ci.**Article 9:**Monnaie de compteLes comptes du Fonds, y compris ceux relatifs aux différents types d'aides, sont tenus en monnaie ayant cours légal au Grand-Duché de Luxembourg. Sauf décision contraire du Conseil, le versement, le remboursement et le cas échéant la restitution des aides accordées sont liquidés en cette même monnaie.**Article 10:**Obligation particulièreLe générique et le matériel de promotion de l'oeuvre audiovisuelle ayant bénéficié d'une des aides créées par la loi doivent comporter, sur tout support de reproduction et lors de toute communication publique, une mention indiquant l'obtention du bénéfice de ce régime, suivant un énoncé et des modalités à définir par le Fonds, sans frais pour celui-ci.**Article 11:**ContrôleDans le cadre de sa mission, le Fonds est habilité à demander aux requérants et aux bénéficiaires d'une aide créée par la Loi, tous documents et renseignements utiles à l'appréciation du financement, de l'exécution et de l'exploitation de l'écriture, du développement, de la production, de la coproduction, de la distribution ou de la codistribution de l'oeuvre cinématographique ou audiovisuelle, objet de l'aide. Cette demande de communication et de vérification peut porter notamment sur la comptabilité et les contrats conclus par le requérant ou le bénéficiaire en relation avec l'objet de l'aide. Le Fonds est par ailleurs autorisé à accéder aux locaux de travail des requérants ou bénéficiaires et ceci dans le cadre de sa mission de surveillance et de contrôle.
 
-<a id="art_N1321F"></a>
+<a id="art_N13237"></a>
 
 ### ARTICLE II :
 
 Le règlement grand-ducal du 13 février 1991 portant organisation du secrétariat du Fonds national de soutien à la production audiovisuelle et le règlement grand-ducal du 13 février 1991 déterminant le contrôle du Fonds national de soutien à la production audiovisuelle par la Chambre des Comptes, ainsi que toutes les dispositions antérieures contraires au présent règlement sont abrogés.
 
-<a id="art_N13239"></a>
+<a id="art_N13251"></a>
 
 ### ARTICLE III :
 
 Notre Premier Ministre, Ministre d'Etat, et Notre Ministre de la Culture sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement, qui sera publié au Mémorial.
 
-### Règlement grand-ducal du 4 juillet 2007 portant exécution de la loi du 8 juin 2007 portant modification de la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel.
+### **Règlement grand-ducal du 4 juillet 2007 portant exécution de la loi du 8 juin 2007 portant modification de la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel.**
 
-<a id="art_N1325C"></a>
+<a id="art_N13276"></a>
 
 ### Art. 1er. : Agrément des sociétés requérantes
 
@@ -1960,7 +1960,7 @@ L'agrément peut être retiré à tout moment par décision motivée des ministr
 
 Le Fonds est autorisé à demander aux sociétés agréées tous documents et renseignements permettant de vérifier si les conditions pour l'octroi de l'agrément sont toujours remplies. Le retrait de l'agrément entraîne de plein droit la déchéance du bénéfice du régime de la Loi pour les productions audiovisuelles en cours ou à venir de la société sanctionnée.
 
-<a id="art_N1327E"></a>
+<a id="art_N13298"></a>
 
 ### Art. 2. : Décision d'éligibilité au régime instauré par la Loi
 
@@ -1968,19 +1968,19 @@ Les sociétés agréées requérant le bénéfice du régime instauré par la Lo
 
 Le Conseil avise la requête sur base des conditions d'éligibilité des oeuvres prévues à l'article 4 de la Loi et la transmet aux ministres compétents qui se prononcent avant la fin du deuxième mois qui suit le mois de la réception de la susdite requête, sous réserve que la requête, les informations et pièces justificatives afférentes soient complètes, en délivrant à la société requérante une décision d'éligibilité de l'oeuvre audiovisuelle, qui fera l'objet d'une convention à conclure entre le Fonds et le(s) bénéficiaire(s).
 
-<a id="art_N13291"></a>
+<a id="art_N132AB"></a>
 
 ### Art. 3. : Montant des certificats
 
 Le montant des certificats est déterminé sur base de l'assiette de calcul des dépenses éligibles, conformément aux dispositions de l'article 5 de la Loi. Il représente partant un pourcentage de cette assiette fixé par le Fonds en fonction des dites dispositions.
 
-<a id="art_N132A1"></a>
+<a id="art_N132BB"></a>
 
 ### Art. 4. : Détermination de l'assiette de calcul des dépenses éligibles
 
 Pour le calcul de l'assiette des dépenses éligibles au sens de la Loi et du présent règlement, ne peuvent entrer en ligne de compte que les seules charges décaissables de la société requérante et des sociétés de coproduction, figurant dans la comptabilité de l'oeuvre en tant que frais réels, indiqués par nature de charge et par activité pour laquelle ils sont engagés, dont l'affectation à la production de l'oeuvre audiovisuelle, objet de la demande, et le décaissement effectif au titre de cette production sont dûment justifiés par la société requérante et les sociétés de coproduction par tous moyens reconnus par les lois comptables et fiscales.
 
-<a id="art_N132B1"></a>
+<a id="art_N132CB"></a>
 
 ### Art. 5. : Catégories de dépenses
 
@@ -1994,7 +1994,7 @@ Par part de financement luxembourgeoise, on entend l'ensemble des financements a
 
 La société requérante tient une comptabilité analytique qui permet le suivi des réinvestissements des émoluments des producteurs et des frais généraux dans les productions futures.
 
-<a id="art_N132D4"></a>
+<a id="art_N132EE"></a>
 
 ### Art. 6. : Modalités de délivrance des certificats d'investissement audiovisuel
 
@@ -2008,7 +2008,7 @@ Au vu du dossier, le Fonds se prononce sur le pourcentage de l'assiette des dép
 
 Après réception de la décision d'attribution de la part des ministres compétents, la société requérante leur adresse, par l'intermédiaire du Fonds, une requête en délivrance des certificats, en précisant pour chaque bénéficiaire principal et pour chaque bénéficiaire substitutif le montant du (des) certificat(s) demandé(s), avec indication de la dénomination, de la forme et du siège social de chaque bénéficiaire. Le bénéficiaire principal et les bénéficiaires substitutifs co-signent la requête sus-visée et s'engagent à communiquer sans délai au Fonds la dénomination, la forme et le siège social des endossataires éventuels de leurs certificats.
 
-<a id="art_N132F0"></a>
+<a id="art_N1330A"></a>
 
 ### Art. 7. : Obligations particulières
 
@@ -2016,7 +2016,7 @@ Le générique et le matériel de promotion de l'oeuvre audiovisuelle produite p
 
 Au cours du premier trimestre de chaque année, toute société ayant requis et obtenu le bénéfice du régime instauré par la Loi est tenue de remettre au Fonds un état détaillé des recettes réalisées pendant l'année écoulée par l'exploitation des oeuvres audiovisuelles pour la production desquelles elle a reçu des certificats d'investissement audiovisuel.
 
-<a id="art_N13303"></a>
+<a id="art_N1331D"></a>
 
 ### Art. 8. : Dispositions abrogatoires et transitoires:
 
@@ -2024,29 +2024,29 @@ Au cours du premier trimestre de chaque année, toute société ayant requis et 
 
 **2.** Les requêtes introduites avant l'entrée en vigueur du présent règlement grand-ducal pourront continuer à bénéficier des dispositions du règlement grand-ducal du 16 mars 1999 portant exécution de la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel.
 
-<a id="art_N13328"></a>
+<a id="art_N13342"></a>
 
 ### Art. 9. :
 
 Notre Premier Ministre, Ministre d'Etat et Notre Secrétaire d'Etat à la Culture, à l'Enseignement Supérieur et à la Recherche, sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.
 
-## 7. Média de service public 100,7
+## **7. Média de service public 100,7**
 
-### Loi du 12 août 2022 portant organisation de l’établissement public « Média de service public 100,7 » et portant modification de la loi modifiée du 27 juillet 1991 sur les médias électroniques.
+### **Loi du 12 août 2022 portant organisation de l’établissement public « Média de service public 100,7 » et portant modification de la loi modifiée du 27 juillet 1991 sur les médias électroniques.**
 
-<a id="art_N13359"></a>
+<a id="art_N1337C"></a>
 
 ### Art. 1er. Statut juridique et indépendance
 
 Le média de service public 100,7, ci-après « établissement », est un établissement public indépendant doté de la personnalité juridique et jouissant de l’autonomie financière et administrative.
 
-<a id="art_N13370"></a>
+<a id="art_N13393"></a>
 
 ### Art. 2. Siège
 
 Le siège de l’établissement est fixé par règlement grand-ducal.
 
-<a id="art_N13384"></a>
+<a id="art_N133A7"></a>
 
 ### Art. 3. Mission et activités connexes
 
@@ -2066,7 +2066,7 @@ Dans l’accomplissement de sa mission, l’établissement doit :
 
 **(3)** L’établissement peut réaliser en outre toutes autres prestations se rattachant directement ou indirectement à sa mission ou tendant à favoriser la réalisation de celle-ci, à condition de respecter le principe de la séparation comptable entre sa mission de service public et d’éventuelles autres activités.
 
-<a id="art_N133E2"></a>
+<a id="art_N13405"></a>
 
 ### Art. 4. Permissions et fréquences de radiodiffusion
 
@@ -2080,7 +2080,7 @@ Dans l’accomplissement de sa mission, l’établissement doit :
 
 **(5)** Tant qu’il est tenu par la loi de s’acquitter de son mandat de service public, l’établissement ne peut renoncer à sa permission pour service de radio à émetteur de haute puissance.
 
-<a id="art_N13443"></a>
+<a id="art_N13466"></a>
 
 ### Art. 5. Principes de gouvernance
 
@@ -2092,7 +2092,7 @@ L’établissement s’organise de manière à garantir :
 4. la prise en compte des réalités démographiques au Grand-Duché de Luxembourg ;
 5. la séparation de l’activité rédactionnelle et de toute activité commerciale des activités impliquant des revenus publicitaires ou de parrainage.
 
-<a id="art_N1346B"></a>
+<a id="art_N1348E"></a>
 
 ### Art. 6. Indépendance éditoriale
 
@@ -2114,7 +2114,7 @@ Le statut rédactionnel est un document public.
 
 **(6)** Le conseil d’administration veille, dans le cadre de ses prérogatives, à ce que l’indépendance éditoriale de l’établissement soit respectée.
 
-<a id="art_N134F1"></a>
+<a id="art_N13514"></a>
 
 ### Art. 7. Relations avec le public
 
@@ -2122,7 +2122,7 @@ L’établissement met en place un conseil des auditeurs, composé de membres du
 
 L’établissement met en outre en place un mécanisme permanent interne de traitement de tout retour du public sur sa programmation et ses contenus.
 
-<a id="art_N1350E"></a>
+<a id="art_N13531"></a>
 
 ### Art. 8. Attributions du conseil d’administration
 
@@ -2155,7 +2155,7 @@ L’établissement met en outre en place un mécanisme permanent interne de trai
 6. décide sur les acquisitions, les aliénations et les échanges d’immeubles et leur affectation, ainsi que des travaux de construction et les réparations majeures ;
 7. approuve les conventions à conclure.
 
-<a id="art_N135A7"></a>
+<a id="art_N135CA"></a>
 
 ### Art. 9. Composition du conseil d’administration
 
@@ -2173,7 +2173,7 @@ L’établissement met en outre en place un mécanisme permanent interne de trai
 
 **(7)** Les administrateurs élisent parmi les membres du conseil d’administration leur président selon des modalités à définir dans le règlement d’ordre intérieur.
 
-<a id="art_N13622"></a>
+<a id="art_N13645"></a>
 
 ### Art. 10. Organisation du conseil d’administration
 
@@ -2193,7 +2193,7 @@ L’établissement met en outre en place un mécanisme permanent interne de trai
 
 **(8)** Le montant des indemnités et des jetons de présence des membres et participants aux réunions du conseil d’administration est déterminé par règlement grand-ducal. Ceux des membres du conseil d’administration sont à charge de l’établissement, ceux du commissaire du Gouvernement à charge de l’État.
 
-<a id="art_N136AD"></a>
+<a id="art_N136D0"></a>
 
 ### Art. 11. Directeur général et personnel
 
@@ -2211,7 +2211,7 @@ L’établissement met en outre en place un mécanisme permanent interne de trai
 
 **(7)** Les relations entre l’établissement et son directeur général ou ses collaborateurs, salariés ou non, à durée ou tâche déterminée ou non, sont régies par des contrats de droit privé.
 
-<a id="art_N13728"></a>
+<a id="art_N1374B"></a>
 
 ### Art. 12. Commissaire du Gouvernement
 
@@ -2219,7 +2219,7 @@ Le Gouvernement nomme un commissaire du Gouvernement chargé de la surveillance 
 
 Le commissaire du Gouvernement assiste aux réunions du conseil d’administration avec voix consultative. Il jouit du droit d’information et de contrôle sur les activités de l’établissement et sur la gestion administrative et financière, à l’exception de ce qui a trait aux programmes de l’établissement. Il peut suspendre les décisions du conseil d’administration en matière financière et administrative lorsqu’il estime qu’elles sont contraires aux lois, aux règlements, à la Convention ou au cahier des charges. Dans ce cas, il appartient au ministre ayant les Médias dans ses attributions de trancher dans le délai d’un mois après la suspension de la décision.
 
-<a id="art_N13745"></a>
+<a id="art_N13768"></a>
 
 ### Art. 13. Financement
 
@@ -2246,7 +2246,7 @@ Le commissaire du Gouvernement assiste aux réunions du conseil d’administrati
 7. des revenus provenant de la gestion de son patrimoine ;
 8. de recettes de toute nature compatible avec son objet social.
 
-<a id="art_N137DD"></a>
+<a id="art_N13800"></a>
 
 ### Art. 14. Comptes annuels
 
@@ -2266,7 +2266,7 @@ Le Gouvernement en conseil est appelé à décider sur la décharge à donner au
 
 **(5)** La gestion financière de l’établissement est soumise au contrôle de la Cour des comptes.
 
-<a id="art_N13862"></a>
+<a id="art_N13885"></a>
 
 ### Art. 15. Publicité
 
@@ -2280,19 +2280,19 @@ Le Gouvernement en conseil est appelé à décider sur la décharge à donner au
 
 **(5)** L’établissement assume la responsabilité éditoriale des annonces de parrainage qu’il diffuse.
 
-<a id="art_N138C6"></a>
+<a id="art_N138E9"></a>
 
 ### Art. 16. Surveillance du contenu des programmes
 
 La surveillance du contenu des programmes relève de la compétence de l’ALIA, conformément à l’article 35, paragraphe 2, lettre g), de la loi modifiée du 27 juillet 1991 sur les médias électroniques.
 
-<a id="art_N138E0"></a>
+<a id="art_N13903"></a>
 
 ### Art. 17. Obligation de diffuser
 
 L’établissement met ses installations gratuitement à disposition de l’État et des autorités locales pour la diffusion d’informations relatives à la sécurité de la vie humaine et aux nécessités de police, cette diffusion se faisant à la demande et sous la responsabilité du Gouvernement, et ayant priorité sur celles des autres éléments du programme.
 
-<a id="art_N138F4"></a>
+<a id="art_N13917"></a>
 
 ### Art. 18. Dispositions fiscales
 
@@ -2300,7 +2300,7 @@ L’établissement met ses installations gratuitement à disposition de l’Éta
 
 **(2)** Les actes passés au nom et en faveur de l’établissement sont exempts des droits de timbre, d’enregistrement, d’hypothèque ou de succession, sauf le salaire des formalités hypothécaires.
 
-<a id="art_N1391F"></a>
+<a id="art_N13942"></a>
 
 ### Art. 19. Dispositions modificatives
 
@@ -2309,7 +2309,7 @@ La loi modifiée du 27 juillet 1991 sur les médias électroniques est modifiée
 1. loi du 12 août 2022
 2. L’article 14 est abrogé.
 
-<a id="art_N1394C"></a>
+<a id="art_N1396F"></a>
 
 ### Art. 20. Dispositions transitoires
 
@@ -2319,27 +2319,27 @@ La durée du mandat des membres du conseil d’administration, nommés avant l�
 
 Le mandat du commissaire nommé avant l’entrée en vigueur de la présente loi n’est pas affecté.
 
-<a id="art_N13978"></a>
+<a id="art_N1399B"></a>
 
 ### Art. 21. Dénomination de l’établissement
 
 Dans tous les textes de loi et de règlement, la référence à l’établissement de radiodiffusion socioculturelle s’entend comme référence au Média de service public 100,7.
 
-<a id="art_N1398C"></a>
+<a id="art_N139AF"></a>
 
 ### Art. 22. Intitulé de citation
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant : « Loi du 12 août 2022 portant organisation de l’établissement public « Média de service public 100,7 » ».
 
-### Loi du 15 août 2023 autorisant l’État à accorder une dotation annuelle à l’établissement public « Média de service public 100,7 » pour les exercices 2024 à 2030 inclus.
+### **Loi du 15 août 2023 autorisant l’État à accorder une dotation annuelle à l’établissement public « Média de service public 100,7 » pour les exercices 2024 à 2030 inclus.**
 
-<a id="art_N139C1"></a>
+<a id="art_N139E6"></a>
 
 ### Art. 1er.
 
 Le Gouvernement est autorisé à accorder une dotation annuelle à l’établissement public « Média de service public 100,7 » pour fournir la mission de service public de radiodiffusion au Luxembourg telle que prévue à l’article 3 de la loi du 12 août 2022 portant organisation de l’établissement public « Média de service public 100,7 ».
 
-<a id="art_N139DA"></a>
+<a id="art_N139FF"></a>
 
 ### Art. 2.
 
@@ -2347,19 +2347,19 @@ Les dépenses engagées au titre de la mission de service public visée à l’a
 
 Ces montants correspondent à la valeur 855,62 au 1er octobre 2021 de l’indice des prix à la consommation rapporté à la base 100 au 1er janvier 1948, et sont adaptés selon les modalités prévues par la Convention.
 
-<a id="art_N139FC"></a>
+<a id="art_N13A21"></a>
 
 ### Art. 3.
 
 Les dépenses annuelles occasionnées par l’exécution de l’article 1er sont à charge du budget de l’État.
 
-## 8. Médias électroniques
+## **﻿8. Médias électroniques**
 
-### Version consolidée applicable au 05/08/2024 : Loi du 27 juillet 1991 sur les médias électroniques.
+### **Version consolidée applicable au 05/08/2024 : Loi du 27 juillet 1991 sur les médias électroniques.**
 
 #### Chapitre Ier.- — De l’objet de la loi et des définitions
 
-<a id="art_N13A4B"></a>
+<a id="art_N13A77"></a>
 
 ### Art. 1er. Objet de la loi
 
@@ -2378,13 +2378,13 @@ Les dépenses annuelles occasionnées par l’exécution de l’article 1er sont
 9. la promotion de la concurrence loyale ;
 10. le bon fonctionnement du marché intérieur.
 
-<a id="art_N13ABE"></a>
+<a id="art_N13AEA"></a>
 
 ### Art. 1bis. Règle de conflit de lois
 
 La loi modifiée du 14 août 2000 relative au commerce électronique s’applique, sauf disposition contraire de la présente loi. En cas de conflit entre la loi modifiée du 14 août 2000 relative au commerce électronique et la présente loi, la présente loi prévaut, sauf dispositions contraires de la présente loi.
 
-<a id="art_N13B00"></a>
+<a id="art_N13B2C"></a>
 
 ### Art. 2. Définitions
 
@@ -2426,7 +2426,7 @@ Aux fins de la présente loi, on entend par:
 32. «télé-achat», la diffusion d’offres directes au public en vue de la fourniture, moyennant paiement, de biens ou de services, y compris les biens immeubles, ou de droits et d’obligations.
 33. « vidéo créée par l’utilisateur », un ensemble d’images animées, combinées ou non à du son, constituant un seul élément, quelle qu’en soit la longueur, qui est créé par un utilisateur et téléchargé vers une plateforme de partage de vidéos par ce même utilisateur ou par n’importe quel autre utilisateur.
 
-<a id="art_N13BF0"></a>
+<a id="art_N13C1C"></a>
 
 ### Art. 2bis. Fournisseurs de services de médias audiovisuels réputés établis au Grand-Duché de Luxembourg
 
@@ -2444,7 +2444,7 @@ Aux fins de la présente loi, on entend par:
 
 #### Chapitre II.- — De la radiodiffusion
 
-<a id="art_N13C83"></a>
+<a id="art_N13CAF"></a>
 
 ### Art. 3. Concessions et permissions de radiodiffusion
 
@@ -2466,13 +2466,13 @@ Les modalités du retrait sont régies par les dispositions de l’article 35sex
 
 **(6)** Une copie de toute concession ou permission et de toute décision de retrait est communiquée au ministre ayant dans ses attributions les Radiocommunications et la Gestion du spectre radioélectrique , pour qu’il se saisisse de la procédure prévue à l’article 5, paragraphe 1er .
 
-<a id="art_N13D48"></a>
+<a id="art_N13D74"></a>
 
 ### Art. 4. Fréquences de radiodiffusion luxembourgeoises
 
 Un règlement grand-ducal établit et tient à jour la liste des fréquences de radiodiffusion luxembourgeoises. Il pourra affecter les fréquences à différentes catégories, correspondant notamment aux différents usages prévus par la présente loi. Il pourra également définir de façon plus précise ces catégories de fréquences.
 
-<a id="art_N13D7E"></a>
+<a id="art_N13DAA"></a>
 
 ### Art. 5. Licences
 
@@ -2520,7 +2520,7 @@ Le cahier des charges contient les éléments suivants :
 
 **(11)** Si le bénéficiaire de la licence a enfreint de manière manifeste, sérieuse et grave les dispositions prévues par la présente loi ou le cahier des charges, il est procédé au retrait de la licence.
 
-<a id="art_N13ECC"></a>
+<a id="art_N13EF8"></a>
 
 ### Art. 9. Services radiodiffusés luxembourgeois à rayonnement international
 
@@ -2530,7 +2530,7 @@ Le cahier des charges contient les éléments suivants :
 
 **(3)** Des concessions pour des services visés à l’article 2, point 24), lettre b), ne peuvent être accordées que si la régie finale ou la liaison montante se trouve située sur le territoire du Grand-Duché et si le concessionnaire est une société de droit luxembourgeois. Il n’est pas requis de procéder à un appel public de candidatures.
 
-<a id="art_N13F29"></a>
+<a id="art_N13F55"></a>
 
 ### Art. 10. Cahiers des charges
 
@@ -2552,7 +2552,7 @@ Le cahier des charges contient les éléments suivants :
 
 **(2)** Les cahiers des charges relatifs à des services utilisant des fréquences de radiodiffusion luxembourgeoises autres que celles en modulation de fréquences, peuvent contenir l’obligation soit de transmettre de brefs programmes quotidiens en langue luxembourgeoise pour les Luxembourgeois vivant à l’étranger, soit de rendre disponible l’émetteur pour la transmission de tels programmes.
 
-<a id="art_N13FA3"></a>
+<a id="art_N13FCF"></a>
 
 ### Art. 10bis. Services radiodiffusés non luxembourgeois
 
@@ -2563,7 +2563,7 @@ Le cahier des charges contient les éléments suivants :
 1. la concession est accordée au bénéficiaire d’une concession pour service radiodiffusé luxembourgeois à rayonnement international pour lui permettre de continuer à diffuser à l’aide d’une fréquence de radiodiffusion luxembourgeoise un service venant à perdre la qualité de service luxembourgeois parce qu’il passe sous la compétence d’un autre Etat membre de l’Espace Economique Européen; ou
 2. la concession est accordée au bénéficiaire d’une concession pour service radiodiffusé luxembourgeois à rayonnement international pour lui permettre de diffuser à l’aide de la fréquence de radiodiffusion luxembourgeoise lui accordée dans le cadre de sa concession existante un service non luxembourgeois à temps partiel ou à titre temporaire.
 
-<a id="art_N13FFB"></a>
+<a id="art_N14027"></a>
 
 ### Art. 10ter. Cahiers des charges
 
@@ -2577,7 +2577,7 @@ Le cahier des charges contient les éléments suivants :
 2. les droits de regard du Gouvernement sur les statuts, l’actionnariat et les organes de la société concessionnaire;
 3. l’obligation de mettre les installations gratuitement à la disposition de l’Etat pour la diffusion de communiqués officiels ou d’informations relatifs à la sécurité de la vie humaine et aux nécessités de police, cette diffusion se faisant à la demande du Gouvernement et ayant priorité sur celle des autres programmes.
 
-<a id="art_N14073"></a>
+<a id="art_N1409F"></a>
 
 ### Art. 11. Enumération des services radiodiffusés visés
 
@@ -2593,7 +2593,7 @@ Le cahier des charges contient les éléments suivants :
 
 **(2)** Les services radiodiffusés prévus dans le présent article font l’objet d’une permission délivrée aux risques et périls de leurs bénéficiaires.
 
-<a id="art_N140EC"></a>
+<a id="art_N14118"></a>
 
 ### Art. 12. Services de télévision
 
@@ -2614,7 +2614,7 @@ Le cahier des charges contient les éléments suivants :
 11. la proportion des programmes qui doivent être acquis auprès de producteurs indépendants du bénéficiaire;
 12. les conditions dans lesquelles le bénéficiaire peut associer d’autres sociétés à l’exploitation de la permission.
 
-<a id="art_N14162"></a>
+<a id="art_N1418E"></a>
 
 ### Art. 13. Services de radio sonore à émetteur de haute puissance
 
@@ -2635,7 +2635,7 @@ Le cahier des charges contient les éléments suivants :
 7. l’obligation de mettre les installations gratuitement à la disposition de l’Etat pour la diffusion de communiqués officiels ou d’informations relatifs à la sécurité de la vie humaine et aux nécessités de police, cette diffusion se faisant à la demande du Gouvernement et ayant priorité sur celle des autres programmes ;
 8. les conditions dans lesquelles le bénéficiaire peut associer d’autres sociétés à l’exploitation de la permission.
 
-<a id="art_N141EC"></a>
+<a id="art_N14218"></a>
 
 ### Art. 15. Services de radio sonore à émetteur(s) de faible puissance
 
@@ -2651,7 +2651,7 @@ Le cahier des charges contient les éléments suivants :
 
 **(6)** L’association ou la société bénéficiaire doit faire parvenir à «l’Autorité», avant le 10ème jour de chaque mois, un rapport sur le contenu du service de radio au cours du mois écoulé. Celui-ci relèvera toute information utile sur la durée de diffusion, les horaires, le temps d’antenne consacré à des messages publicitaires, ainsi que sur les recettes publicitaires. Elle fournira tous les ans un rapport annuel et une copie des comptes sociaux.
 
-<a id="art_N1427C"></a>
+<a id="art_N142A8"></a>
 
 ### Art. 16. Modalités d’allocation des fréquences pour émetteurs de faible puissance
 
@@ -2684,7 +2684,7 @@ Le cahier des charges contient les éléments suivants :
 
 **(9)** La permission pour service de radio à réseau d’émission indique la ou les fréquences que le bénéficiaire peut utiliser pour la diffusion de son programme. S’il s’avère que cette ou ces fréquences ne permettent pas de couvrir de façon satisfaisante certaines parties du pays, «l’Autorité» peut, à la demande du bénéficiaire de la permission et sans nouvel appel de candidatures, ajouter une fréquence supplémentaire ou remplacer une fréquence inscrite dans une permission par une autre fréquence. Ces fréquences doivent figurer dans la liste des fréquences réservées aux radios à réseau d’émission fixée par le règlement grand-ducal prévu à l’article 4.
 
-<a id="art_N14361"></a>
+<a id="art_N1438D"></a>
 
 ### Art. 17. Services de radio locale
 
@@ -2712,7 +2712,7 @@ Par dérogation à l’alinéa 1er, l’interconnexion technique et le regroupem
 6. la date limite pour le commencement des émissions;
 7. le respect du pluralisme dans la présentation de l’actualité locale et des idées.
 
-<a id="art_N14444"></a>
+<a id="art_N14470"></a>
 
 ### Art. 18. Services de radio à réseau d’émission
 
@@ -2732,7 +2732,7 @@ Par dérogation à l’alinéa 1er, l’interconnexion technique et le regroupem
 6. l’obligation de mettre les installations gratuitement à la disposition de l’Etat pour la diffusion de communiqués officiels ou d’informations relatifs à la sécurité de la vie humaine et aux nécessités de police, cette diffusion se faisant à la demande du Gouvernement et ayant priorité sur celle des autres programmes ;
 7. la date limite pour le commencement des émissions.
 
-<a id="art_N144CB"></a>
+<a id="art_N144F7"></a>
 
 ### Art. 19. Les services de radio sonore diffusés en multiplex numérique
 
@@ -2788,7 +2788,7 @@ Le dossier peut en outre exposer les arguments du candidat par rapport aux crit�
 2. si les obligations inscrites dans le cahier des charges ne sont pas respectées ; ou
 3. sexies
 
-<a id="art_N1462B"></a>
+<a id="art_N14657"></a>
 
 ### Art. 19bis. Les services de télévision diffusés en multiplex numérique
 
@@ -2796,7 +2796,7 @@ Un règlement grand-ducal à prendre sur avis du Conseil d’Etat pourra déterm
 
 #### Chapitre III. — Des autres modes de diffusion et des services de médias audiovisuels à la demande
 
-<a id="art_N14679"></a>
+<a id="art_N146A5"></a>
 
 ### Art. 20. Systèmes de satellites luxembourgeois
 
@@ -2829,7 +2829,7 @@ Le concessionnaire est tenu de déposer et de tenir à jour auprès du Service d
 7. les conditions dans lesquelles le concessionnaire peut mettre sa capacité de transmission à la disposition d’utilisateurs et peut associer d’autres firmes à l’exploitation de la concession;
 8. l’obligation de mettre de la capacité de transmission à la disposition du Gouvernement.
 
-<a id="art_N1474A"></a>
+<a id="art_N14776"></a>
 
 ### Art. 21. Services luxembourgeois par satellite
 
@@ -2863,7 +2863,7 @@ Les modalités du retrait sont régies par les dispositions de l’article 35sex
 8. l’obligation de s’identifier comme un service luxembourgeois et de contribuer par sa programmation au renom et au rayonnement international du Grand-Duché;
 9. les conditions dans lesquelles le concessionnaire peut associer d’autres sociétés à l’exploitation de la concession.
 
-<a id="art_N14823"></a>
+<a id="art_N1484F"></a>
 
 ### Art. 22. Réseaux câblés
 
@@ -2880,7 +2880,7 @@ Les modalités du retrait sont régies par les dispositions de l’article 35sex
 
 **(5)** Un règlement grand-ducal pourra établir une liste de services radiodiffusés luxembourgeois devant être retransmis de façon prioritaire.
 
-<a id="art_N148AC"></a>
+<a id="art_N148D8"></a>
 
 ### Art. 23. Services luxembourgeois par câble
 
@@ -2900,19 +2900,19 @@ Les modalités du retrait sont régies par les dispositions de l’article 35sex
 
 Les modalités du retrait sont régies par les dispositions de l’article 35sexies.
 
-<a id="art_N14945"></a>
+<a id="art_N14971"></a>
 
 ### Art. 23bis. Services de télévision transmis par des réseaux de communications électroniques autres que les fréquences de radiodiffusion, les satellites ou les réseaux câblés
 
 Tout fournisseur de services de médias audiovisuels luxembourgeois qui a l’intention de fournir un service de télévision qui n’est ni un service radiodiffusé luxembourgeois, ni un service luxembourgeois par satellite, ni un service luxembourgeois par câble doit, au plus tard vingt jours avant le lancement du service, notifier cette intention au ministre ayant dans ses attributions les Médias. La notification identifie sans équivoque le fournisseur de services de médias audiovisuels et le nom du service de télévision et contient une description du service à fournir ainsi que la date prévue pour le lancement des activités. En notifiant, le fournisseur du service de médias audiovisuels s’engage à donner un accès gratuit et décrypté à son service à «l’Autorité» ou à lui fournir toutes informations requises en vue de lui permettre d’en assurer la surveillance.
 
-<a id="art_N1497B"></a>
+<a id="art_N149A7"></a>
 
 ### Art. 23ter. Services de médias audiovisuels à la demande
 
 Tout fournisseur de services de médias audiovisuels luxembourgeois qui a l’intention de fournir un service à la demande doit, au plus tard vingt jours avant le lancement du service, notifier cette intention au ministre ayant dans ses attributions les Médias. La notification identifie sans équivoque le fournisseur de services de médias audiovisuels et le nom du service de médias audiovisuels à la demande et contient une description du service à fournir, ainsi que la date prévue pour le lancement des activités. En notifiant, le fournisseur de services de médias audiovisuels s’engage à donner un accès gratuit et décrypté à son service de médias audiovisuels à la demande à «l’Autorité» ou à lui fournir toutes informations requises en vue de lui permettre d’en assurer la surveillance.
 
-<a id="art_N149B1"></a>
+<a id="art_N149DD"></a>
 
 ### Art. 23quater. Services de médias audiovisuels de pays tiers utilisant une liaison montante luxembourgeoise ou un satellite luxembourgeois
 
@@ -2929,7 +2929,7 @@ sauf si le service de médias audiovisuels concerné est exclusivement destiné 
 
 **(4)** Les services visés au paragraphe (1) doivent respecter les règles prévues au chapitre V ainsi qu’à l’article 34bis de la présente loi. S’il s’agit de services de télévision, ils doivent également accorder un droit de réponse conformément à la loi du 8 juin 2004 sur la liberté d’expression dans les médias.
 
-<a id="art_N14A39"></a>
+<a id="art_N14A65"></a>
 
 ### Art. 23quinquies. Services de plateformes de partage de vidéos
 
@@ -2960,7 +2960,7 @@ S’il existe plusieurs autres entreprises qui font partie du groupe et que chac
 
 #### Chapitre IV.- — De la réception et de la retransmission des services de médias audiovisuels ou sonores
 
-<a id="art_N14B19"></a>
+<a id="art_N14B45"></a>
 
 ### Art. 24. Liberté de réception et de retransmission
 
@@ -2968,7 +2968,7 @@ S’il existe plusieurs autres entreprises qui font partie du groupe et que chac
 
 **(2)** La retransmission simultanée et inaltérée de tout service de médias audiovisuels ou sonores visé au paragraphe (1) et non frappé par les mesures prévues à l’article 25, paragraphes (2) à (5), est permise à tout réseau câblé visé à l’article 22.
 
-<a id="art_N14B66"></a>
+<a id="art_N14B92"></a>
 
 ### Art. 25. Restrictions à la liberté de retransmettre et de commercialiser
 
@@ -3004,7 +3004,7 @@ Si la Commission européenne décide que les mesures prises sont incompatibles a
 
 #### Chapitre V.- — Des règles applicables aux services de médias audiovisuels ou sonores
 
-<a id="art_N14C51"></a>
+<a id="art_N14C7D"></a>
 
 ### Art. 26. Services visés
 
@@ -3015,7 +3015,7 @@ Si la Commission européenne décide que les mesures prises sont incompatibles a
 
 **(2)** Les services de médias audiovisuels ou sonores luxembourgeois exclusivement destinés à être captés dans des pays tiers à l’Espace économique européen et qui ne sont pas reçus directement ou indirectement au moyens d’équipements standard par le public d’un ou plusieurs Etats membres de l’Espace économique européen doivent respecter les dispositions de l’article 26bis et, selon le cas, celles des articles 27ter, 28quater ou 28quinquies, ainsi que, le cas échéant, les dispositions du cahier des charges assorti à la concession.
 
-<a id="art_N14CB6"></a>
+<a id="art_N14CE2"></a>
 
 ### Art. 26bis. Interdiction de l’incitation à la violence, à la haine et au terrorisme
 
@@ -3024,7 +3024,7 @@ Sans préjudice de l’obligation de respecter et de protéger la dignité humai
 1. Charte des droits fondamentaux de l’Union européenne
 2. Code pénal
 
-<a id="art_N14D0E"></a>
+<a id="art_N14D3A"></a>
 
 ### Art. 27. Promotion de la distribution et de la production de programmes européens
 
@@ -3032,7 +3032,7 @@ Sans préjudice de l’obligation de respecter et de protéger la dignité humai
 
 **(2)** Les fournisseurs de services de médias audiovisuels ne transmettront pas d’œuvres cinématographiques en dehors des délais convenus avec les ayants droit.
 
-<a id="art_N14D60"></a>
+<a id="art_N14D8C"></a>
 
 ### Art. 27bis. Communications commerciales audiovisuelles
 
@@ -3059,7 +3059,7 @@ Sans préjudice de l’obligation de respecter et de protéger la dignité humai
 
 Un règlement grand-ducal détermine les règles restrictives en matière de placement de produit.
 
-<a id="art_N14E1D"></a>
+<a id="art_N14E49"></a>
 
 ### Art. 27ter. Protection des mineurs
 
@@ -3090,7 +3090,7 @@ A cet effet, les fournisseurs de services de médias audiovisuels utilisent un s
 
 **(6)** Un règlement grand-ducal détermine les modalités selon lesquels un fournisseur de services de médias audiovisuels doit décrire la nature potentiellement préjudiciable du contenu d’un service de médias audiovisuels.
 
-<a id="art_N14EEB"></a>
+<a id="art_N14F17"></a>
 
 ### Art. 27quater. Accessibilité des services de médias audiovisuels
 
@@ -3102,7 +3102,7 @@ Au plus tard le 19 décembre 2022, et tous les trois ans par la suite, l’Autor
 
 **(3)** Les communications et les annonces publiques en situations de catastrophes naturelles, mises à la disposition du public, sont fournies d’une manière qui soit accessible pour les personnes handicapées.
 
-<a id="art_N14F54"></a>
+<a id="art_N14F80"></a>
 
 ### Art. 27quinquies. Superposition par des bandeaux à des fins commerciales
 
@@ -3117,7 +3117,7 @@ Au plus tard le 19 décembre 2022, et tous les trois ans par la suite, l’Autor
 5. les sous-titres ;
 6. les bandeaux de communications commerciales fournis par le fournisseur de services de médias.
 
-<a id="art_N14FC8"></a>
+<a id="art_N14FF4"></a>
 
 ### Art. 28. Publicité télévisée et télé-achat
 
@@ -3139,7 +3139,7 @@ Il ne peut être procédé à l’affichage et à la publication qu’en vertu d
 
 Tout manquement aux injonctions ou interdictions portées par une décision judiciaire prononcée en vertu du présent article et coulée en force de chose jugée est puni d’une amende de 251 à 50.000 euros.
 
-<a id="art_N1506A"></a>
+<a id="art_N15096"></a>
 
 ### Art. 28bis. Droits exclusifs pour des événements majeurs
 
@@ -3149,7 +3149,7 @@ Tout manquement aux injonctions ou interdictions portées par une décision judi
 
 **(3)** Les fournisseurs de services de télévision n’exercent pas les droits exclusifs qu’ils ont achetés après le 30 juillet 1997 de façon à priver une partie importante du public d’un autre Etat membre de l’Espace Economique Européen de la possibilité de suivre sur une télévision à accès libre, intégralement ou partiellement, en direct ou en différé, selon les dispositions prises par cet autre Etat membre, les événements que cet autre Etat membre a désignés conformément aux paragraphes 1 et 2 de l’article 14 de la directive Services de médias audiovisuels.
 
-<a id="art_N150D1"></a>
+<a id="art_N150FD"></a>
 
 ### Art. 28ter. Droit d’accès aux extraits d’événements majeurs
 
@@ -3165,13 +3165,13 @@ Tout manquement aux injonctions ou interdictions portées par une décision judi
 
 **(6)** La durée maximale des extraits ne pourra dépasser 90 secondes. Cette durée peut être modifiée par règlement grand-ducal. Ce règlement peut également fixer un délai maximal pour la diffusion des extraits.
 
-<a id="art_N1516B"></a>
+<a id="art_N15197"></a>
 
 ### Art. 28quinquies. Protection des mineurs
 
 Les paragraphes (1) et (2) de l’article 27ter sont également applicables aux services de radio luxembourgeois.
 
-<a id="art_N151A1"></a>
+<a id="art_N151CD"></a>
 
 ### Art. 28sexies. Contenu publicitaire
 
@@ -3182,7 +3182,7 @@ Les paragraphes (1) et (2) de l’article 27ter sont également applicables aux 
 
 **(2)** Il ne peut être fait de propagande en faveur du tabac et de ses produits dans les services de radio luxembourgeois.
 
-<a id="art_N15206"></a>
+<a id="art_N15232"></a>
 
 ### Art. 28septies. Mesures appropriées à prendre par les fournisseurs de plateformes de partage de vidéos
 
@@ -3219,7 +3219,7 @@ Les données à caractère personnel de mineurs collectées ou générées d’u
 
 #### Chapitre VI.- — Autres dispositions
 
-<a id="art_N1530C"></a>
+<a id="art_N15338"></a>
 
 ### Art. 29. Service des médias et des communications
 
@@ -3238,7 +3238,7 @@ Les données à caractère personnel de mineurs collectées ou générées d’u
 
 **(4)** Un règlement grand-ducal fixe l’organisation interne du Service des médias et des communications.
 
-<a id="art_N15395"></a>
+<a id="art_N153C1"></a>
 
 ### Art. 32.
 
@@ -3264,13 +3264,13 @@ Il est nommé par le Grand-Duc, sur proposition du membre du Gouvernement ayant 
 
 Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.
 
-<a id="art_N15443"></a>
+<a id="art_N1546F"></a>
 
 ### Art. 34. Ressources publicitaires de la presse écrite
 
 **(4)** Une commission composée de délégués du Gouvernement, de représentants des éditeurs d’organes de presse bénéficiant du régime de promotion de la presse écrite et d’experts choisis de commun accord est chargée de surveiller et d’évaluer les conséquences que l’introduction de nouveaux services de radio sonore et de télévision aura sur les ressources publicitaires des organes de presse bénéficiant du régime de promotion de la presse écrite, et de proposer, le cas échéant, une compensation à charge du budget de l’Etat.
 
-<a id="art_N15480"></a>
+<a id="art_N154AC"></a>
 
 ### Art. 34bis. Informations à fournir et enregistrements à conserver
 
@@ -3287,7 +3287,7 @@ Ce cadre peut être complété par des fonctionnaires stagiaires, des employés 
 
 **(4)** Une copie de l’enregistrement d’un programme doit être délivrée sur demande aux autorités de surveillance ou aux instances judiciaires saisies d’une contestation à propos du programme concerné.
 
-<a id="art_N15504"></a>
+<a id="art_N15530"></a>
 
 ### Art. 34ter. Echange d’informations
 
@@ -3303,7 +3303,7 @@ Lorsque la demande lui en est faite, le ministre ayant dans ses attributions les
 
 #### Chapitre VII. — De la surveillance de l’application de la loi
 
-<a id="art_N15588"></a>
+<a id="art_N155B4"></a>
 
 ### Art. 35. L’Autorité luxembourgeoise indépendante de l’audiovisuel
 
@@ -3338,7 +3338,7 @@ Elle exerce ces pouvoirs de manière impartiale, indépendante et transparente.
 
 **(3)** L’Autorité est consultée par le Ministre ayant les médias dans ses attributions avant l’octroi d’une concession ou permission demandée conformément aux articles 9, 10bis, 12, 13, 19, 21 et 23, ainsi qu’avant le retrait d’une permission ou concession visées ci-dessus.
 
-<a id="art_N15662"></a>
+<a id="art_N1568E"></a>
 
 ### Art. 35bis. Les organes de l’Autorité
 
@@ -3428,7 +3428,7 @@ Il assiste avec voix consultative aux réunions du Conseil d’administration, s
 
 6. Il établit ou fait établir les comptes annuels et le budget ainsi que le rapport de gestion et les soumet au Conseil d’administration pour approbation.
 
-<a id="art_N1582A"></a>
+<a id="art_N15856"></a>
 
 ### Art. 35ter. L’Assemblée consultative
 
@@ -3450,7 +3450,7 @@ Le directeur assiste aux délibérations de l’Assemblée avec voix consultativ
 
 Les membres de l’Assemblée consultative bénéficient d’un jeton de présence à charge de l’Autorité. Il est fixé par règlement grand-ducal.
 
-<a id="art_N158C6"></a>
+<a id="art_N158F2"></a>
 
 ### Art. 35quater. Le cadre du personnel
 
@@ -3460,7 +3460,7 @@ Les membres de l’Assemblée consultative bénéficient d’un jeton de présen
 
 **(3)** Le directeur peut, en accord avec le Conseil d’administration, dans des cas déterminés et ponctuels, faire appel à des experts externes dont les prestations sont définies et rémunérées sur la base d’un contrat de droit privé.
 
-<a id="art_N15929"></a>
+<a id="art_N15955"></a>
 
 ### Art. 35quinquies. Dispositions financières
 
@@ -3488,7 +3488,7 @@ Son mandat d’une durée de trois ans est renouvelable. Sa rémunération est �
 
 **(7)** La gestion financière de l’Autorité est soumise au contrôle de la Cour des Comptes.
 
-<a id="art_N159F9"></a>
+<a id="art_N15A25"></a>
 
 ### Art. 35sexies. Sanctions
 
@@ -3520,13 +3520,13 @@ Dans les cas prévus aux deux premiers tirets du présent article, il appartient
 
 **(8)** Le recouvrement des amendes d’ordre prononcées conformément au paragraphe (3) et (5) ci-dessus est confié à l’Administration de l’enregistrement et des domaines. Il se fait comme en matière d’enregistrement.
 
-<a id="art_N15AD6"></a>
+<a id="art_N15B02"></a>
 
 ### Art. 35septies. Règlement extrajudiciaire des litiges à la disposition des usagers et fournisseurs de plateformes de partage de vidéos
 
 Un règlement grand-ducal détermine les règles de procédure applicables aux demandes de résolution extrajudiciaire des réclamations introduites auprès de l’Autorité.
 
-<a id="art_N15B0C"></a>
+<a id="art_N15B38"></a>
 
 ### Art. 35octies. Demande de renseignements
 
@@ -3538,7 +3538,7 @@ Un règlement grand-ducal détermine les règles de procédure applicables aux d
 
 **(4)** Ces demandes de renseignements n’obligent pas le destinataire de la demande à admettre l’existence d’une violation de la loi.
 
-<a id="art_N15B79"></a>
+<a id="art_N15BA5"></a>
 
 ### Art. 35nonies. Astreintes
 
@@ -3550,7 +3550,7 @@ Un règlement grand-ducal détermine les règles de procédure applicables aux d
 
 **(4)** Les astreintes infligées par l’Autorité sont susceptibles d’un recours en réformation devant le tribunal administratif.
 
-<a id="art_N15BE6"></a>
+<a id="art_N15C12"></a>
 
 ### Art. 39. Entrée en vigueur et dispositions transitoires
 
@@ -3560,19 +3560,19 @@ Un règlement grand-ducal détermine les règles de procédure applicables aux d
 
 **(4)** Toute disposition légale contraire à la présente loi est abolie à partir de la mise en vigueur de celle-ci.
 
-### Mesures d'exécution de la loi du 27 juillet 1991 sur les médias électroniques.
+### **Mesures d'exécution de la loi du 27 juillet 1991 sur les médias électroniques.**
 
-#### Radiodiffusion
+#### **Radiodiffusion**
 
-##### Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 21 janvier 1993 déterminant les modalités d'attribution des concessions pour les services radiodiffusés luxembourgeois à rayonnement international, ainsi que les règles générales gouvernant ces concessions et les cahiers des charges qui leur sont assortis.
+##### **Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 21 janvier 1993 déterminant les modalités d'attribution des concessions pour les services radiodiffusés luxembourgeois à rayonnement international, ainsi que les règles générales gouvernant ces concessions et les cahiers des charges qui leur sont assortis.**
 
-<a id="art_N15C80"></a>
+<a id="art_N15CB0"></a>
 
 ### Art. 1er.
 
 Les concessions pour les services radiodiffusés luxembourgeois à rayonnement international sont accordées par le Gouvernement sur proposition du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre», et après consultation de la Commission indépendante de la radiodiffusion, conformément à la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi».
 
-<a id="art_N15CCB"></a>
+<a id="art_N15CFB"></a>
 
 ### Art. 2.
 
@@ -3583,7 +3583,7 @@ Les concessions pour les services radiodiffusés luxembourgeois à rayonnement i
 
 **(2)** Les concessions visées à l’article 1er pour les services visés à l’article 2, alinéa (2), lettre b) de la loi peuvent être accordées sans appel de candidatures.
 
-<a id="art_N15D65"></a>
+<a id="art_N15D95"></a>
 
 ### Art. 3.
 
@@ -3595,19 +3595,19 @@ Les concessions pour les services radiodiffusés luxembourgeois à rayonnement i
 
 **(4)** Après l’écoulement du délai pour la présentation des dossiers de candidature, et après consultation de la Commission indépendante de la radiodiffusion, le Ministre soumet ses propositions au Gouvernement en conseil qui décide de l’attribution de la concession.
 
-<a id="art_N15DE7"></a>
+<a id="art_N15E17"></a>
 
 ### Art. 4.
 
 De même en l’absence d’appel public de candidatures, le Ministre soumet ses propositions au Gouvernement en conseil qui décide de l’attribution des concessions.
 
-<a id="art_N15E19"></a>
+<a id="art_N15E49"></a>
 
 ### Art. 5.
 
 Le Ministre accorde les concessions, assorties des cahiers des charges, au nom du Gouvernement.
 
-<a id="art_N15E4B"></a>
+<a id="art_N15E7B"></a>
 
 ### Art. 6.
 
@@ -3617,7 +3617,7 @@ Le Ministre accorde les concessions, assorties des cahiers des charges, au nom d
 
 **(3)** Une concession peut comporter des éléments d’exclusivité, si des impératifs d’ordre commercial et financier le requièrent ou le rendent souhaitable. Les dispositions relatives à ces éléments d’exclusivité auront un effet limité dans le temps qui pourra être inférieur à la durée de la concession.
 
-<a id="art_N15EB0"></a>
+<a id="art_N15EE0"></a>
 
 ### Art. 7.
 
@@ -3625,27 +3625,27 @@ Le Ministre accorde les concessions, assorties des cahiers des charges, au nom d
 
 **(2)** Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
 
-<a id="art_N15F22"></a>
+<a id="art_N15F52"></a>
 
 ### Art. 8.
 
 Notre Premier Ministre, Ministre d’Etat, est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
 
-##### Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 déterminant les modalités d'attribution des permissions pour les servicess de télévision et de télétexte diffusé et services y assimilés, ainsi que les règles générales gouvernant ces permissions et les cahiers de charges qui leur sont assortis.
+##### **Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 déterminant les modalités d'attribution des permissions pour les servicess de télévision et de télétexte diffusé et services y assimilés, ainsi que les règles générales gouvernant ces permissions et les cahiers de charges qui leur sont assortis.**
 
-<a id="art_N15F67"></a>
+<a id="art_N15F99"></a>
 
 ### Art. 1er.
 
 Les permissions pour les services de télévision et pour les services de télétexte diffusé et services y assimilés visant un public résident sont accordées par le Gouvernement, sur proposition du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre», et après consultation de la Commission indépendante de la radiodiffusion, conformément à la loi modifiée du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi» .
 
-<a id="art_N15FD6"></a>
+<a id="art_N16008"></a>
 
-### art_N15FD6
+### art_N16008
 
 
 
-<a id="art_N1601F"></a>
+<a id="art_N16051"></a>
 
 ### Art. 3.
 
@@ -3657,45 +3657,45 @@ Les permissions pour les services de télévision et pour les services de télé
 
 **(4)** Après l’écoulement du délai pour la présentation des dossiers de candidature, et après consultation de la Commission indépendante de la radiodiffusion, le Ministre soumet ses propositions au Gouvernement en conseil qui décide de l’attribution des permissions.
 
-<a id="art_N160A1"></a>
+<a id="art_N160D3"></a>
 
 ### Art. 4.
 
 De même en l’absence d’appel public de candidatures, le Ministre soumet ses propositions au Gouvernement en conseil qui décide de l’attribution des permissions.
 
-<a id="art_N160D3"></a>
+<a id="art_N16105"></a>
 
 ### Art. 5.
 
 Le Ministre accorde les permissions, assorties des cahiers des charges, au nom du Gouvernement.
 
-<a id="art_N16105"></a>
+<a id="art_N16137"></a>
 
 ### Art. 6.
 
 Les permissions sont d’une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire sans qu’il doive être procédé à un appel de candidatures. Les dispositions de la nouvelle permission et du cahier des charges peuvent être différentes de celles applicables antérieurement.
 
-<a id="art_N16137"></a>
+<a id="art_N16169"></a>
 
 ### Art. 7.
 
 Les cahiers des charges assortis aux permissions seront conformes à l’article 12 de la loi.
 
-<a id="art_N1616E"></a>
+<a id="art_N161A0"></a>
 
-### art_N1616E
+### art_N161A0
 
 
 
-<a id="art_N161B7"></a>
+<a id="art_N161E9"></a>
 
 ### Art. 9.
 
 Notre Premier Ministre, Ministre d’Etat, est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
 
-##### Version consolidée applicable au 03/12/2023 : Règlement grand-ducal du 28 juillet 2014 établissant la liste des fréquences de radiodiffusion luxembourgeoises visée à l'article 4 de la loi modifiée du 27 juillet 1991 sur les médias électroniques.
+##### **Version consolidée applicable au 03/12/2023 : Règlement grand-ducal du 28 juillet 2014 établissant la liste des fréquences de radiodiffusion luxembourgeoises visée à l'article 4 de la loi modifiée du 27 juillet 1991 sur les médias électroniques.**
 
-<a id="art_N161FC"></a>
+<a id="art_N16230"></a>
 
 ### Art. 1er.
 
@@ -3753,39 +3753,39 @@ La liste des fréquences de radiodiffusion luxembourgeoises prévue à l’artic
 - - 41 (fréquence centrale: 634 MHz)
 - 27 (fréquence centrale : 522 MHz)
 
-<a id="art_N1661D"></a>
+<a id="art_N16651"></a>
 
 ### Art. 2.
 
 Le règlement grand-ducal modifié du 10 janvier 1992 établissant la liste des fréquences de radiodiffusion luxembourgeoises visée à l’article 4 de la loi du 27 juillet 1991 sur les médias électroniques est abrogé.
 
-<a id="art_N16659"></a>
+<a id="art_N1668D"></a>
 
 ### Art. 3.
 
 Notre Ministre des Communications et des Médias est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
 
-##### Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 15 octobre 1992 déterminant les modalités d'attribution des permissions pour les services de radio sonore à émetteur de haute puissance, ainsi que les règles générales gouvernant ces permissions et les cahiers des charges qui leur sont assortis.
+##### **Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 15 octobre 1992 déterminant les modalités d'attribution des permissions pour les services de radio sonore à émetteur de haute puissance, ainsi que les règles générales gouvernant ces permissions et les cahiers des charges qui leur sont assortis.**
 
-<a id="art_N166A6"></a>
+<a id="art_N166DC"></a>
 
 ### Art. 1er.
 
 Les permissions pour les services de radio sonore à émetteur de haute puissance destinés à un public résident sont accordées par le Gouvernement, sur proposition du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre», et après consultation de la Commission indépendante de la radiodiffusion, conformément à la loi modifiée du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi».
 
-<a id="art_N166FE"></a>
+<a id="art_N16734"></a>
 
 ### Art. 2.
 
 Les permissions sont accordées après publication d'un appel de candidatures, sauf les exceptions prévues par la loi, qui font l'objet de l’article 9 du présent règlement.
 
-<a id="art_N16741"></a>
+<a id="art_N16777"></a>
 
 ### Art. 3.
 
 Le Ministre procède aux appels de candidatures en publiant les fréquences et emplacements disponibles, avec leurs caractéristiques respectives et en indiquant le dernier délai pour la présentation des dossiers de candidature.
 
-<a id="art_N16773"></a>
+<a id="art_N167A9"></a>
 
 ### Art. 4.
 
@@ -3793,7 +3793,7 @@ L'appel de candidatures publié précisera les informations à fournir par les c
 
 L'appel de candidatures pourra également préciser les conditions auxquelles devront répondre le bénéficiaire d'une permission et le service qu'il propose.
 
-<a id="art_N167C7"></a>
+<a id="art_N167FD"></a>
 
 ### Art. 5.
 
@@ -3801,39 +3801,39 @@ Après l'écoulement du délai pour la présentation des dossiers de candidature
 
 Le Ministre accorde les permissions, assorties des cahiers des charges, au nom du Gouvernement.
 
-<a id="art_N16802"></a>
+<a id="art_N16838"></a>
 
 ### Art. 6.
 
 Les permissions sont d'une durée limitée, mais elle peuvent être renouvelées au profit du même bénéficiaire sans qu'il doive être procédé à un appel de candidatures. Les dispositions de la nouvelle permission et du cahier des charges peuvent être différentes de celles applicables antérieurement.
 
-<a id="art_N16834"></a>
+<a id="art_N1686A"></a>
 
 ### Art. 7.
 
 Les cahiers des charges assortis aux permissions seront conformes à l'article 13, alinéas (3) et (4) de la loi.
 
-<a id="art_N1686B"></a>
+<a id="art_N168A1"></a>
 
-### art_N1686B
+### art_N168A1
 
 
 
-<a id="art_N168B4"></a>
+<a id="art_N168EA"></a>
 
 ### Art. 9.
 
 Dans le but d'exploiter la ou les fréquences réservées en tout ou en partie à la diffusion des services de radio socioculturelle, une permission peut être accordée sans appel de candidatures à l'établissement public créé par l'article 14, alinéa (2) de la loi.
 
-<a id="art_N16903"></a>
+<a id="art_N16939"></a>
 
 ### Art. 10.
 
 Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
 
-##### Version consolidée applicable au 09/08/2016 : Règlement grand-ducal du 19 juin 1992 fixant les modalités de structure et de fonctionnement de l'établissement public créé par l'article 14 de la loi du 27 juillet 1991 sur les médias électroniques.
+##### **Version consolidée applicable au 09/08/2016 : Règlement grand-ducal du 19 juin 1992 fixant les modalités de structure et de fonctionnement de l'établissement public créé par l'article 14 de la loi du 27 juillet 1991 sur les médias électroniques.**
 
-<a id="art_N16948"></a>
+<a id="art_N16980"></a>
 
 ### Art. 1er. Personnalité, dénomination, siège, tutelle.
 
@@ -3842,7 +3842,7 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 3. Le siège de l'établissement est fixé à Luxembourg. Toutefois un autre siège dans le Grand-Duché peut être désigné par règlement grand-ducal.
 4. L'établissement est placé sous la tutelle du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre».
 
-<a id="art_N1699A"></a>
+<a id="art_N169D2"></a>
 
 ### Art. 2. Objet.
 
@@ -3852,7 +3852,7 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 3. L'établissement peut faire en outre toutes autres prestations se rattachant directement ou indirectement à son objet ou tendant à favoriser la réalisation de celui-ci.
 4. Dans l'accomplissement de sa mission, et dans le respect du cahier des charges assorti à la permission de radiodiffusion, l'établissement doit notamment promouvoir la vie culturelle, favoriser la création artistique, contribuer à la communication sociale, y compris la vie interculturelle et la coopération transfrontalière, participer à l'information libre et pluraliste et fournir un large accès à l'antenne aux organisations sociales et culturelles du pays.
 
-<a id="art_N169F2"></a>
+<a id="art_N16A2A"></a>
 
 ### Art. 3. Conseil d'administration.
 
@@ -3880,14 +3880,14 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 11. Le président représente l'établissement en justice et dans les actes privés et publics.
 12. loi loi
 
-<a id="art_N16A9B"></a>
+<a id="art_N16AD3"></a>
 
 ### Art. 4. Commissaire du Gouvernement.
 
 1. Le Gouvernement nomme un commissaire du Gouvernement chargé de la surveillance de l'activité de l'établissement.
 2. Le commissaire du Gouvernement assiste aux réunions du Conseil d'administration avec voix consultative. Il jouit du droit d'information et de contrôle sur les activités de l'établissement et sur la gestion administrative et financière, à l'exception de ce qui a trait aux programmes de l'établissement. Il peut suspendre les décisions du conseil d'administration en matière financière et administrative lorsqu'il estime qu'elles sont contraires aux lois, aux règlements ou au cahier des charges. Dans ce cas, il appartient au Ministre de trancher dans le délai d'un mois après la suspension de la décision.
 
-<a id="art_N16AD9"></a>
+<a id="art_N16B11"></a>
 
 ### Art. 5. Directeur et pesonnel.
 
@@ -3896,14 +3896,14 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 3. Le directeur est le chef hiérarchique du personnel et il est seul habilité à soumettre au conseil d'administration des propositions en matière d'engagement et de licenciement du personnel.
 4. Les relations entre l'établissement et ses collaborateurs, salariés ou non, à durée ou tâche déterminée ou non, sont régies par des contrats de droit privé.
 
-<a id="art_N16B1D"></a>
+<a id="art_N16B55"></a>
 
 ### Art. 6. Surveillance du contenu des programmes.
 
 1. La surveillance du contenu des programmes est assurée par le Ministre ayant dans ses attributions les médias, avec le concours du Conseil national des programmes.
 2. loi loi
 
-<a id="art_N16B65"></a>
+<a id="art_N16B9D"></a>
 
 ### Art. 7. Ressources.
 
@@ -3914,7 +3914,7 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 5. des dons et legs en espèce et en nature;
 6. des revenus provenant de la gestion de son patrimoine.
 
-<a id="art_N16BB7"></a>
+<a id="art_N16BEF"></a>
 
 ### Art. 8. Comptes.
 
@@ -3924,15 +3924,15 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 4. Avant le premier novembre de chaque année, le conseil d'administration arrête le budget pour l'année à venir.
 5. La gestion financière de l'établissement est soumise au contrôle de la Chambre des Comptes selon les modalités à fixer par règlement du Gouvernement en conseil.
 
-<a id="art_N16C13"></a>
+<a id="art_N16C4B"></a>
 
 ### Art. 9.
 
 Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
 
-##### Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 13 février 1992 fixant les limites à imposer au volume des messages publicitaires pouvant être contenus dans les services de radio locale.
+##### **Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 13 février 1992 fixant les limites à imposer au volume des messages publicitaires pouvant être contenus dans les services de radio locale.**
 
-<a id="art_N16C58"></a>
+<a id="art_N16C92"></a>
 
 ### Art. 1er.
 
@@ -3942,102 +3942,102 @@ Les services de radio locale visés à l’article 17 de la loi du 27 juillet 19
 2. le temps d’antenne consacré à la publicité ne peut pas être retenu à raison de plus de 10 % par un seul commerçant, une seule firme ou un seul groupe de firmes;
 3. les messages publicitaires ne peuvent au total dépasser ni 6 minutes par heure d’antenne en moyenne journalière, ni 8 minutes pour une quelconque tranche horaire.
 
-<a id="art_N16CB7"></a>
+<a id="art_N16CF1"></a>
 
 ### Art. 2.
 
 L’acquisition des messages publicitaires contenus dans les services de radio locale doit être assurée par l’association bénéficiaire de la permission elle-même et ne peut être confiée à une régie, une agence publicitaire ou un autre intermédiaire professionnel.
 
-<a id="art_N16CF5"></a>
+<a id="art_N16D2F"></a>
 
 ### Art. 3.
 
 Une association ayant renoncé, lors de la présentation de sa candidature, à la faculté de diffuser des messages publicitaires, ne peut diffuser de tels messages qu’après avoir obtenu une nouvelle permission prévoyant cette faculté.
 
-<a id="art_N16D27"></a>
+<a id="art_N16D61"></a>
 
 ### Art. 4.
 
 Le montant inscrit à l’article 1er, lettre a), peut être adapté par règlement grand-ducal.
 
-<a id="art_N16D5C"></a>
+<a id="art_N16D96"></a>
 
 ### Art. 5.
 
 Notre Premier Ministre, Ministre d’Etat, est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
 
-#### Diffusion par satellite
+#### **Diffusion par satellite**
 
-##### Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 21 janvier 1993 fixant les modalités selon lesquelles le Gouvernement accorde les concessions pour les services luxembourgeois par satellite, ainsi que les règles générales gouvernant ces concessions et les cahiers des charges qui leur sont assortis.
+##### **Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 21 janvier 1993 fixant les modalités selon lesquelles le Gouvernement accorde les concessions pour les services luxembourgeois par satellite, ainsi que les règles générales gouvernant ces concessions et les cahiers des charges qui leur sont assortis.**
 
-<a id="art_N16DB1"></a>
+<a id="art_N16DED"></a>
 
 ### Art. 1er.
 
 Les concessions pour les services luxembourgeois par satellite sont accordées par le Gouvernement, sur proposition du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre», et après consultation de la Commission indépendante de la radiodiffusion, conformément à la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi».
 
-<a id="art_N16DFD"></a>
+<a id="art_N16E39"></a>
 
 ### Art. 2.
 
 Après consultation de la Commission indépendante de la radiodiffusion, le Ministre soumet ses propositions au Gouvernement en conseil, qui décide de l'attribution de la concession.
 
-<a id="art_N16E2F"></a>
+<a id="art_N16E6B"></a>
 
 ### Art. 3.
 
 Le Ministre accorde les concessions, assorties des cahiers des charges, au nom du Gouvernement.
 
-<a id="art_N16E61"></a>
+<a id="art_N16E9D"></a>
 
 ### Art. 4.
 
 1. Les concessions sont d'une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire. Les dispositions de la nouvelle concession et du cahier des charges peuvent être différentes de celles applicables antérieurement.
 2. Une concession peut porter sur un ou plusieurs services .
 
-<a id="art_N16EA7"></a>
+<a id="art_N16EE3"></a>
 
 ### Art. 5.
 
 1. loi
 2. Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
 
-<a id="art_N16F0A"></a>
+<a id="art_N16F46"></a>
 
 ### Art. 6.
 
 Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
 
-#### Diffusion par câble
+#### **Diffusion par câble**
 
-##### Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 fixant les modalités selon lesquelles le Gouvernement accorde les concessions pour services luxembourgeois par câble, ainsi que les règles générales gouvernant ces concessions et les cahiers de charges qui leur sont assortis.
+##### **Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 fixant les modalités selon lesquelles le Gouvernement accorde les concessions pour services luxembourgeois par câble, ainsi que les règles générales gouvernant ces concessions et les cahiers de charges qui leur sont assortis.**
 
-<a id="art_N16F5F"></a>
+<a id="art_N16F9D"></a>
 
 ### Art. 1er.
 
 Les concessions pour les services luxembourgeois par câble sont accordées par le Gouvernement, sur proposition du Ministre ayant dans ses attributions les médias, appelé ci-après «le Ministre», et après consultation de la Commission indépendante de la radiodiffusion, conformément à la loi du 27 juillet 1991 sur les médias électroniques, appelée ci-après «la loi».
 
-<a id="art_N16FAB"></a>
+<a id="art_N16FE9"></a>
 
 ### Art. 2.
 
 Après consultation de la Commission indépendante de la radiodiffusion, le Ministre soumet ses propositions au Gouvernement en conseil, qui décide de l'attribution de la concession.
 
-<a id="art_N16FDD"></a>
+<a id="art_N1701B"></a>
 
 ### Art. 3.
 
 Le Ministre accorde les concessions, assorties des cahiers des charges, au nom du Gouvernement.
 
-<a id="art_N1700F"></a>
+<a id="art_N1704D"></a>
 
 ### Art. 4.
 
 1. Les concessions sont d'une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire. Les dispositions de la nouvelle concession et du cahier des charges peuvent être différentes de celles applicables antérieurement.
 2. Une concession peut porter sur un ou sur plusieurs services .
 
-<a id="art_N17055"></a>
+<a id="art_N17093"></a>
 
 ### Art. 5.
 
@@ -4055,17 +4055,17 @@ Le Ministre accorde les concessions, assorties des cahiers des charges, au nom d
 12. les conditions dans lesquelles le bénéficiaire peut associer d'autres sociétés à l'exploitation de la concession.
 2. Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
 
-<a id="art_N1714B"></a>
+<a id="art_N17189"></a>
 
 ### Art. 6.
 
 Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
 
-#### Protection des mineurs
+#### **Protection des mineurs**
 
-##### Version consolidée applicable au 18/06/2017 : Règlement grand-ducal du 8 janvier 2015 relatif à la protection des mineurs dans les services des médias audiovisuels.
+##### **Version consolidée applicable au 18/06/2017 : Règlement grand-ducal du 8 janvier 2015 relatif à la protection des mineurs dans les services des médias audiovisuels.**
 
-<a id="art_N171A0"></a>
+<a id="art_N171E0"></a>
 
 ### Art. 1er.
 
@@ -4079,13 +4079,13 @@ Les programmes de télévision luxembourgeois diffusés dans le cadre des servic
 
 Des pictogrammes identifiant les différentes catégories sont reproduits en annexe au présent règlement.
 
-<a id="art_N171F9"></a>
+<a id="art_N17239"></a>
 
 ### Art. 2.
 
 Les programmes de la catégorie I ne font l’objet d’aucune identification.
 
-<a id="art_N1722B"></a>
+<a id="art_N1726B"></a>
 
 ### Art. 3.
 
@@ -4099,7 +4099,7 @@ La mention «déconseillé aux moins de 10 ans» devra apparaître à l’antenn
 
 **(3)** Le pictogramme et la mention de la catégorie II doivent être visibles pendant toute la diffusion des bandes-annonces.
 
-<a id="art_N17296"></a>
+<a id="art_N172D6"></a>
 
 ### Art. 4.
 
@@ -4115,7 +4115,7 @@ La mention «déconseillé aux moins de 12 ans» doit apparaître pendant au moi
 
 **(4)** Le pictogramme et la mention de la catégorie III doivent être visibles pendant toute la diffusion des bandes-annonces.
 
-<a id="art_N17311"></a>
+<a id="art_N17351"></a>
 
 ### Art. 5.
 
@@ -4131,7 +4131,7 @@ La mention «déconseillé aux moins de 16 ans» de la catégorie IV doit appara
 
 **(4)** Le pictogramme et la mention de la catégorie IV doivent être visibles pendant toute la diffusion des bandes-annonces.
 
-<a id="art_N1738C"></a>
+<a id="art_N173CC"></a>
 
 ### Art. 6.
 
@@ -4141,13 +4141,13 @@ La mention «déconseillé aux moins de 16 ans» de la catégorie IV doit appara
 
 **(3)** Les programmes ainsi que les bandes-annonces y relatifs sont interdits de diffusion sauf s’ils sont diffusés à l’aide de signaux cryptés et en recourant à un ou des dispositifs qui permette de n’y accéder qu’après avoir saisi un code d’accès personnel. Sans introduction de ce code le dispositif doit avoir pour effet de diffuser une image monochrome en plein écran non accompagnée de son.
 
-<a id="art_N173E5"></a>
+<a id="art_N17425"></a>
 
 ### Art. 7.
 
 Le fournisseur de services de médias audiovisuels luxembourgeois doit procéder à la classification des programmes de télévision luxembourgeois diffusés dans le cadre des services de télévision visés à l’article 27*ter* de la loi modifiée du 27 juillet 1991 sur les médias électroniques selon les catégories visées à l’article 1er.
 
-<a id="art_N17422"></a>
+<a id="art_N17462"></a>
 
 ### Art. 8.
 
@@ -4155,7 +4155,7 @@ Le fournisseur de services de médias audiovisuels luxembourgeois doit procéder
 
 **(2)** Le fournisseur qui entend recourir à cette option notifie le système qu’il souhaite appliquer à l’Autorité luxembourgeoise indépendante de l’audiovisuel ci-après désignée par «l’Autorité» qui décide de l’acception ou du refus du système.
 
-<a id="art_N1747A"></a>
+<a id="art_N174BA"></a>
 
 ### Art. 9.
 
@@ -4163,25 +4163,25 @@ Le fournisseur de services de médias audiovisuels luxembourgeois doit procéder
 
 **(2)** Le fournisseur qui entend recourir à une de ces options notifie le système qu’il souhaite appliquer à «l’Autorité» qui décide de l’acception ou du refus du système.
 
-<a id="art_N174D5"></a>
+<a id="art_N17515"></a>
 
 ### Art. 10.
 
 Le fournisseur d’un service de médias audiovisuels à la demande met dans tous les cas en place un système de contrôle parental qui permet aux utilisateurs de soumettre l’accès aux programmes audiovisuels contenus dans son catalogue à un code spécifique. Il veille à ce que les utilisateurs soient informés de manière appropriée de l’existence d’un tel système de contrôle parental.
 
-<a id="art_N17507"></a>
+<a id="art_N17547"></a>
 
 ### Art. 11.
 
 Les services de médias audiovisuels à la demande de la catégorie V doivent être présentés dans un espace séparé. Ils doivent être commercialisés dans le cadre d’offres payantes, par séance ou par abonnement.
 
-<a id="art_N17539"></a>
+<a id="art_N17579"></a>
 
 ### Art. 12.
 
 L’espace réservé aux services de médias audiovisuels à la demande de la catégorie V ainsi que les bandesannonces y relatifs, font en permanence l’objet d’un verrouillage spécifique, de façon à ne pouvoir être accédés en clair que moyennant un code spécial d’accès. L’accès à cet espace ainsi qu’aux œuvres qui composent cet espace doit être verrouillé à chaque tentative d’accès.
 
-<a id="art_N1756B"></a>
+<a id="art_N175AB"></a>
 
 ### Art. 13.
 
@@ -4193,45 +4193,45 @@ Notre Ministre des Communications et des Médias est chargé de l’exécution d
 
 
 
-## 8. Médias électroniques
+## **﻿8. Médias électroniques**
 
-### Mesures d'exécution de la loi du 27 juillet 1991 sur les médias électroniques.
+### **Mesures d'exécution de la loi du 27 juillet 1991 sur les médias électroniques.**
 
-#### Autorité luxembourgeoise indépendante de l’audiovisuel
+#### **Autorité luxembourgeoise indépendante de l’audiovisuel**
 
-##### Loi du 27 août 2013 portant création de l'établissement public «Autorité luxembourgeoise indépendante de l'audiovisuel», et modifiant 1. la loi modifiée du 27 juillet 1991 sur les médias électroniques, 2. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et 3. la loi du 20 avril 2009 relative à l'accès aux représentations cinématographiques publiques.
+##### **Loi du 27 août 2013 portant création de l'établissement public «Autorité luxembourgeoise indépendante de l'audiovisuel», et modifiant 1. la loi modifiée du 27 juillet 1991 sur les médias électroniques, 2. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et 3. la loi du 20 avril 2009 relative à l'accès aux représentations cinématographiques publiques.**
 
-<a id="art_N17629"></a>
+<a id="art_N1766B"></a>
 
 ### Art. 1er.
 
 Dans l’ensemble des dispositions de la loi modifiée du 27 juillet 1991 sur les médias électroniques, les termes Conseil national des programmes et Commission indépendante de la radiodiffusion sont remplacés par les termes l’Autorité.
 
-<a id="art_N1764A"></a>
+<a id="art_N1768C"></a>
 
 ### Art. 2.
 
 L’article 2 de la même loi est complété par un point 1) nouveau qui a la teneur suivante:Autorité, l’Autorité luxembourgeoise indépendante de l’audiovisuel; Le texte actuel de l’article 2 est maintenu tel quel, mais les définitions figurant sous les numéros de 1 à 28 figureront désormais sous les numéros de 2 à 29.
 
-<a id="art_N17672"></a>
+<a id="art_N176B4"></a>
 
 ### Art. 3.
 
 A l’article 3 paragraphe (4) de la même loi, la mention de l’article 35 est remplacée par celle de l’article 35*sexies*.»
 
-<a id="art_N1768B"></a>
+<a id="art_N176CD"></a>
 
 ### Art. 4.
 
 A l’article 5 de la même loi est rajoutée une nouvelle phrase qui a la teneur suivante:En cas de non-exploitation d’une concession ou permission pendant la durée d’un an, il peut être procédé au retrait de la licence».
 
-<a id="art_N176A7"></a>
+<a id="art_N176E9"></a>
 
 ### Art. 5.
 
 A l’article 9 aux paragraphes (2) et (3) de la même loi, les deux mentions de chiffre 23) sont remplacées par celles de point 24).
 
-<a id="art_N176BD"></a>
+<a id="art_N176FF"></a>
 
 ### Art. 6.
 
@@ -4240,31 +4240,31 @@ A l’article 14 paragraphe (5) de la même loi sont apportées les modification
 1. habilité Il Elle chargé e
 2. La dernière phrase est supprimée.
 
-<a id="art_N176EA"></a>
+<a id="art_N1772C"></a>
 
 ### Art. 7.
 
 A l’article 21 paragraphe (5) de la même loi, la mention de l’article 35 est remplacée par celle del’article 35*sexies*.
 
-<a id="art_N17703"></a>
+<a id="art_N17745"></a>
 
 ### Art. 8.
 
 A l’article 23 paragraphe (4) de la même loi, la mention de l’article 35 est remplacée par celle de l’article 35*sexies*.
 
-<a id="art_N1771C"></a>
+<a id="art_N1775E"></a>
 
 ### Art. 9.
 
 A l’article 23*bis* de la même loi, dernière phrase, les mots au ministre ayant dans ses attributions les médias et au sont biffés et remplacés par le mot à et le mot leur employé avant le mot fournir et avant le mot permettre est à chaque fois remplacé par le mot lui.
 
-<a id="art_N17741"></a>
+<a id="art_N17783"></a>
 
 ### Art. 10.
 
 A l’article 23*ter* de la même loi, dernière phrase, les mots au ministre ayant dans ses attributions les médias et à sont biffés et remplacés par le mot à et le mot leur employé avant le mot fournir et avant le mot permettre est à chaque fois remplacé par le mot lui.
 
-<a id="art_N17766"></a>
+<a id="art_N177A8"></a>
 
 ### Art. 11.
 
@@ -4274,7 +4274,7 @@ A l’article 23*quater* de la même loi sont apportées les modifications suiva
 2. La notification prévue au présent paragraphe peut également être effectuée par la personne à laquelle incombe l’obligation visée au paragraphe (2)
 3. au chapitre V bis
 
-<a id="art_N177A6"></a>
+<a id="art_N177E8"></a>
 
 ### Art. 12.
 
@@ -4283,7 +4283,7 @@ L’article 25 de la même loi est modifié comme suit:
 1. l’article 35 sexies
 2. entendu
 
-<a id="art_N177D4"></a>
+<a id="art_N17816"></a>
 
 ### Art. 13.
 
@@ -4292,25 +4292,25 @@ L’article 28*ter* de la même loi est modifié comme suit:
 1. si le fournisseur du service de télévision demandant l’accès
 2. la même émission est offerte le même programme est offert
 
-<a id="art_N177FF"></a>
+<a id="art_N17841"></a>
 
 ### Art. 14.
 
 Au paragraphe (2) d) de l’article 29 de la même loi, les mots la Commission indépendante de la radiodiffusion créée par l’article 30, le Conseil national des programmes créé par l’article 31 sont biffés.
 
-<a id="art_N17812"></a>
+<a id="art_N17854"></a>
 
 ### Art. 15.
 
 L’article 30 de la même loi est supprimé.
 
-<a id="art_N17822"></a>
+<a id="art_N17864"></a>
 
 ### Art. 16.
 
 L’article 31 de la même loi est supprimé.
 
-<a id="art_N17832"></a>
+<a id="art_N17874"></a>
 
 ### Art. 17.
 
@@ -4318,13 +4318,13 @@ L’article 34*bis*, paragraphe (1) de la même loi est complété comme suit:
 
 Après les mots chaque service de télévision ou de radio sont rajoutés les mots relevant de la compétence du Grand-Duché de Luxembourg.
 
-<a id="art_N17854"></a>
+<a id="art_N17896"></a>
 
 ### Art. 18.
 
 Après l’article 34*bis* de la même loi il est inséré un nouveau chapitre VII, comprenant les articles 35 à 35*sexies* et intitulé comme suit: De la surveillance de l’application de la loi.
 
-<a id="art_N1786D"></a>
+<a id="art_N178AF"></a>
 
 ### Art. 19.
 
@@ -4334,7 +4334,7 @@ L’article 35 de la même loi est modifié et a désormais la teneur suivante:
 
 Art. 35.***L’Autorité luxembourgeoise indépendante de l’audiovisuel***(1)L’Autorité est un établissement public à caractère administratif indépendant doté de la personnalité juridique. Le siège de l’Autorité est établi à Luxembourg. Il peut être transféré à tout moment dans toute autre localité du Luxembourg par voie de règlement grand-ducal. L’Autorité jouit de l’autonomie financière et administrative, sous la tutelle du ministre ayant les médias dans ses attributions. Elle exerce en toute indépendance et dans le respect des objectifs définis à l’article 1er de la présente loi, les missions dont elle est investie en vertu de la présente loi.(2)L’Autorité a pour mission:d’attribuer et de retirer les permissions visées aux articles 15 à 18 de la présente loi,d’élaborer des propositions pour assurer un choix accru et équilibré en éléments de programmes pour le public résidant, notamment lors de la mise en œuvre des dispositions de l’article 12, paragraphe (2), lettre e), et de l’article 14, paragraphe (5) de la présente loi,d’encourager les fournisseurs de services de médias audiovisuels qui relèvent de sa compétence à veiller à ce que les services qu’ils offrent deviennent progressivement accessibles aux personnes souffrant de déficiences visuelles ou auditives, d’encourager les fournisseurs de services de médias audiovisuels à élaborer des codes déontologiques relatifs à la communication commerciale audiovisuelle inappropriée, accompagnant les programmes pour enfants ou incluse dans ces programmes, et concernant des denrées alimentaires ou des boissons contenant des nutriments ou des substances ayant un effet nutritionnel ou physiologique, notamment ceux tels que les matières grasses, les acides gras trans, le sel/sodium et les sucres, dont la présence en quantités excessives dans le régime alimentaire global n’est pas recommandée,d’encourager les fournisseurs de services de médias audiovisuels à la demande qui relèvent de sa compétence à veiller à ce que les services à la demande qu’ils offrent promeuvent lorsque cela est réalisable et par les moyens appropriés la production d’œuvres européennes ainsi que l’accès à celles-ci,d’exercer les attributions lui confiées par l’article 6 de la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques,de surveiller, de contrôler et d’assurer le respect des dispositions légales et réglementaires et des dispositions des cahiers des charges des services de médias audiovisuels ou sonores qui relèvent de la compétence des autorités luxembourgeoises en application de la présente loi, soit parce qu’ils sont bénéficiaires d’une concession ou permission accordée en vertu de la présente loi, soit parce qu’ils ont notifié leurs services conformément à l’article 23*bis*, 23*ter* ou 23*quater *(2) de la présente loi.(3)L’Autorité est consultée par le Ministre ayant les médias dans ses attributions avant l’octroi d’une concession ou permission demandée conformément aux articles 9, 10*bis*, 12, 13, 19, 21 et 23, ainsi qu’avant le retrait d’une permission ou concession visées ci-dessus.
 
-<a id="art_N17913"></a>
+<a id="art_N17955"></a>
 
 ### Art. 20.
 
@@ -4342,37 +4342,37 @@ Il est ajouté un nouvel article 35*bis*, à intercaler après l’article 35 de
 
 Art. 35*bis*.***Les organes de l’Autorité***Les organes de l’Autorité sont le Conseil d’administration, le directeur et l’Assemblée consultative.A. Le Conseil d’administration(1)1. Les compétences du Conseil d’administrationIl se prononce sur la recevabilité d’une plainte et l’ouverture d’une instruction, constate les violations à la présente loi et aux règlements pris en exécution de celle-ci, ainsi que les manquements aux obligations découlant des concessions, permissions et des charges assortis et prononce le cas échéant une des sanctions prévues à l’article 35*sexies* de la présente loi, le directeur entendu en son avis.Lorsque le Conseil d’administration arrive à la conclusion que les faits relevés par le dossier d’instruction ne constituent pas un manquement aux dispositions de la présente loi et qu’aucune disposition de la présente loi n’ait été enfreinte, il décide de classer l’affaire.Si le Conseil d’administration le juge utile, il peut demander au directeur de procéder à un complément d’instruction. De même, si le Conseil le juge utile il peut décider d’entendre lui-même les personnes mises en cause par l’instruction.2.Il rend un avis préalable sur toute demande de concession ou de permission qui lui est soumise par le ministre ayant les médias dans ses attributions et avant toute décision de retrait, à prononcer par le Gouvernement.3.Il attribue et retire les permissions visées aux articles 15 à 18 de la présente loi.4.Il approuve le règlement d’ordre intérieur ainsi que les règles de procédure régissant l’instruction élaborées par le directeur.5.Il arrête le budget et les comptes annuels de l’Autorité.6.Il approuve le rapport de gestion établi par le directeur et le présente au Gouvernement conformément à l’article 35*quinqies*, paragraphe (6). 7.Il arrête son règlement d’ordre intérieur.8.Il nomme le réviseur d’entreprises agréé de l’Autorité.9.Il approuve les actes de disposition du directeur ainsi que les actes d’administration pouvant grever le budget.10.Il approuve l’état des effectifs et soumet, en cas de vacance de poste, des propositions aux autorités compétentes, le directeur entendu en son avis. 11.Il émet un avis sur les candidats au poste de directeur.12. Il exerce les missions confiées à l’Autorité par l’article 6 de la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques.Les décisions sub 5) pour autant qu’elles concernent le budget, et sub 8), sont soumises pour approbation au ministre de tutelle, les décisions sub 5) pour autant qu’elles concernent les comptes annuels, et sub 10), sont soumises pour approbation au Conseil de Gouvernement.(2) La composition du Conseil d’administrationLe Conseil d’administration se compose de 5 membres, dont un président, nommés par le Grand-Duc sur proposition du Gouvernement en conseil.Le Président représente l’Autorité judiciairement et extrajudiciairement.Les membres du Conseil d’administration ne peuvent être membre du Gouvernement, de la Chambre des Députés, du Conseil d’Etat ou du Parlement européen. Ils ne peuvent exercer ni un mandat communal, ni une fonction ou un mandat dans une entité relevant de la surveillance de l’Autorité, ni détenir directement ou indirectement des intérêts dans une entreprise ou tout autre organisme relevant de la compétence du Conseil.Leur mandat d’une durée de 5 ans est renouvelable.La nomination d’un nouveau membre en remplacement d’un membre démissionnaire, décédé ou qui se trouve dans une incapacité durable d’exercer ses fonctions doit être faite le plus tôt possible selon les modalités prévues aux paragraphes précédents. Les remplaçants sont nommés pour le reste de la période du mandat de celui qu’ils remplacent.Le Conseil d’administration choisit son secrétaire parmi les agents de l’Autorité.Les membres du Conseil d’administration ainsi que le secrétaire bénéficient d’une indemnité mensuelle à charge de l’Autorité. Celle-ci est fixée par règlement grand-ducal en fonction de l’ampleur et de l’importance de leurs tâches respectives.(3) Le fonctionnement du Conseil d’administrationLe Conseil d’administration se réunit aussi souvent que l’exécution de ses missions le requiert. Il est convoqué par le président, ou, en cas d’empêchement de celui-ci, par le plus âgé de ses membres.Il doit être convoqué à la demande de trois membres au moins ou à la demande du directeur.Les délibérations du Conseil d’administration sont valables si la majorité des membres est présente. Un membre du Conseil d’administration ne peut représenter qu’un seul autre membre. Le mandat ne peut être donné qu’à un autre membre du Conseil d’administration.Les décisions du Conseil d’administration sont prises à la majorité simple des membres présents.Les délibérations du Conseil d’administration sont secrètes. Les décisions du Conseil d’administration concernant le classement sans suite d’une plainte ou d’un dossier d’instruction, celles ordonnant un complément d’instruction ou celles prononçant une sanction sont publiées.B. Le directeur(1) Les modalités de désignation du directeurLe directeur est nommé par le Grand-Duc, sur proposition du Gouvernement en conseil, le Conseil d’administration entendu en son avis, pour une durée de 5 ans, renouvelable.Le Gouvernement en conseil peut, l’avis du Conseil d’administration demandé, proposer au Grand-Duc de révoquer le directeur lorsqu’il se trouve dans une incapacité durable d’exercer ses fonctions ou lorsqu’il ne remplit plus les conditions nécessaires à ses fonctions.Le directeur doit être détenteur d’un diplôme d’études universitaires sanctionnant un cycle complet d’études au niveau d’un master ou d’un diplôme reconnu équivalent.Le directeur est fonctionnaire de l’Etat.Il ne peut être membre du Gouvernement, de la Chambre des Députés, du Conseil d’Etat ou du Parlement européen. Il ne peut exercer ni un mandat communal, ni une activité incompatible avec sa fonction, ni détenir directement ou indirectement des intérêts dans une entreprise ou tout autre organisme relevant de la compétence de l’Autorité.(2) Les missions du directeurLe directeur surveille le respect des dispositions légales de la présente loi, de ses règlements d’exécution et des dispositions des concessions et permissions ainsi que des cahiers des charges dont elles sont assorties.1. Les plaintes adressées à l’Autorité sont transmises, après avoir été vérifiées quant à leur recevabilité par le Conseil d’administration, au directeur pour instruction.2. Le directeur dirige l’instruction. Lorsque l’instruction est clôturée, il soumet le dossier au Conseil d’administration en lui proposant soit de classer l’instruction sans suite, soit de prononcer une des sanctions prévues à l’article 35*sexies*.Il assiste avec voix consultative aux réunions du Conseil d’administration, sauf décision contraire du Conseil d’administration.3. Il accomplit tous les actes de gestion administrative et exécute les décisions du Conseil d’administration. 4. Il est le supérieur hiérarchique du personnel de l’Autorité.5. Il établit un règlement d’ordre intérieur ainsi que les règles de procédure régissant l’instruction, qui n’entrent en vigueur qu’après leur approbation par le Conseil d’administration.6. Il établit ou fait établir les comptes annuels et le budget ainsi que le rapport de gestion et les soumet au Conseil d’administration pour approbation.
 
-<a id="art_N17B84"></a>
+<a id="art_N17BC6"></a>
 
 ### Art. 21.
 
 Il est ajouté un nouvel article 35*ter*, à intercaler après l’article 35*bis* de la loi qui a la teneur suivante:Art. 35*ter*.***L’Assemblée consultative***(1)L’Assemblée consultative est l’organe consultatif de l’Autorité et se compose de vingt-cinq membres au maximum, délégués pour cinq ans par les organisations les plus représentatives de la vie sociale et culturelle du pays. Un arrêté grand-ducal fixe la liste des organisations représentées et le nombre de leurs délégués. (2)Elle ne peut délibérer valablement que si la majorité de ses membres est présente. Les délibérations sont adoptées à la majorité des membres présents. En cas de partage des voix, le président a voix prépondérante.Les délibérations de l’assemblée sont secrètes.Le directeur assiste aux délibérations de l’Assemblée avec voix consultative.(3)Elle établit son règlement d’ordre intérieur qui règle les modalités de fonctionnement interne.(4)Elle a les missions suivantes:elle doit être consultée dans le cadre d’une instruction concernant les articles 26*bis*, 27*ter*, 28*quater* et 28*quinquies* de la présente loi;elle doit être consultée en cas de saisine de l’Autorité conformément à l’article 6 alinéa 2 de la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques; elle peut être consultée, sur décision du Conseil d’administration, dans le cadre des autres attributions de l’Autorité.Les membres de l’Assemblée consultative bénéficient d’un jeton de présence à charge de l’Autorité. Il est fixé par règlement grand-ducal.
 
-<a id="art_N17C2C"></a>
+<a id="art_N17C6E"></a>
 
 ### Art. 22.
 
 Il est ajouté un nouvel article 35*quater,* à intercaler après l’article 35*ter* de la même loi qui a la teneur suivante:Art. 35*quater.****Le cadre du personnel***(1) En dehors du directeur, le cadre du personnel comprend, dans l’ordre hiérarchique, les fonctions et emplois suivants:dans la carrière supérieure de l’administration, grade de computation de la bonification d’ancienneté: grade 12:des conseillers de direction première classe,des conseillers de direction,des conseillers de direction adjoints,des attachés de Gouvernement premiers en rang,des attachés de Gouvernement,dans la carrière moyenne, grade de computation de la bonification d’ancienneté: grade 7:des inspecteurs principaux premiers en rang,des inspecteurs principaux,des inspecteurs,des chefs de bureau,des chefs de bureau adjoints,des rédacteurs principaux,des rédacteurs,dans la carrière inférieure de l’administration, grade de computation de la bonification d’ancienneté: grade 4: des premiers commis principaux,des commis principaux,des commis,des commis adjoints,des expéditionnaires.(2) Le cadre prévu au paragraphe (1) ci-dessus peut être complété par des stagiaires, des employés de l’Etat ainsi que par des salariés de l’Etat dans la limite des crédits budgétaires disponibles.(3) Le directeur peut, en accord avec le Conseil d’administration, dans des cas déterminés et ponctuels, faire appel à des experts externes dont les prestations sont définies et rémunérées sur la base d’un contrat de droit privé.
 
-<a id="art_N17CD8"></a>
+<a id="art_N17D1A"></a>
 
 ### Art. 23.
 
 Il est ajouté un nouvel article 35*quinquies*, à intercaler après l’article 35*quater* de la loi qui a la teneur suivante: Art. 35*quinquies*.***Dispositions financières***(1) L’Autorité bénéficie d’une dotation annuelle à charge du budget de l’Etat. L’Etat met à sa disposition les biens immobiliers nécessaires au bon fonctionnement et à l’exercice de ses missions.(2) L’Autorité est autorisée à prélever la partie de ses frais de personnel et de fonctionnement non couverte par la dotation annuelle à charge du budget de l’Etat par des taxes à percevoir auprès de chaque fournisseur de services de médias audiovisuels ou personne soumise à sa surveillance.Un règlement grand-ducal fixe le montant des taxes et les modalités d’exécution du présent paragraphe.(3) Les comptes de l’Autorité sont tenus selon les principes et les modalités de la comptabilité commerciale.L’exercice financier de l’Autorité coïncide avec l’année civile.A la clôture de chaque exercice, le directeur établit un projet de bilan et un projet de compte de profits et pertes et les soumet au Conseil d’administration pour approbation.(4)Un réviseur d’entreprises agréé, désigné par le Conseil d’administration, est chargé de contrôler les comptes de l’Autorité et la régularité des opérations effectuées et des écritures comptables.Le réviseur d’entreprises agréé doit remplir les conditions requises par la loi du 18 décembre 2009 relative à la profession de l’audit.Son mandat d’une durée de trois ans est renouvelable. Sa rémunération est à charge de l’Autorité. Il remet son rapport au Conseil d’administration pour le premier avril. Il peut être chargé par le Conseil d’administration de procéder à des vérifications spécifiques.(5) Avant le 30 avril de chaque année, le directeur établit une proposition de budget pour l’année à venir et la soumet pour approbation au Conseil d’administration.(6) Pour le premier mai au plus tard, le Conseil d’administration présente au Gouvernement les comptes annuels accompagnés d’un rapport de gestion ainsi que du rapport du réviseur d’entreprises agréé. Le Gouvernement en conseil décide de la décharge à donner aux organes de l’Autorité. Cette décision ainsi que les comptes annuels sont publiés au Mémorial.(7) La gestion financière de l’Autorité est soumise au contrôle de la Cour des Comptes.
 
-<a id="art_N17DA1"></a>
+<a id="art_N17DE3"></a>
 
 ### Art. 24.
 
 Il est ajouté un nouvel article 35*sexies*, à intercaler après l’article 35*quinquies* de la loi qui a la teneur suivante:Art. 35*sexies*.***Sanctions***(1)Toute personne physique ou morale, résidant ou non au Grand-Duché de Luxembourg, peut introduire par écrit une plainte auprès de l’Autorité au sujet du non-respect par un service de média audiovisuel ou sonore relevant de la compétence du Luxembourg d’une disposition de la présente loi ou prise en exécution de la présente loi ou d’un cahier des charges.(2)Toute plainte est enregistrée et un accusé de réception est adressé au plaignant. L’Autorité informe sans délai le fournisseur de services de médias concerné. Celui-ci est tenu de conserver une copie de l’enregistrement du programme contesté, si cet enregistrement est encore disponible compte tenu du délai prévu à l’article 34*bis* (3). L’Autorité peut demander communication de l’enregistrement et elle peut également mettre le plaignant en mesure de prendre connaissance de cet enregistrement.(3) Si l’Autorité prend connaissance, soit de sa propre initiative soit par le biais d’une plainte, d’un manquement par un fournisseur de médias audiovisuel ou sonore transmettant un service de média audiovisuel ou sonore visé par la présente loi aux dispositions des articles 3, 5, 13(3), 15(6), 17(4), 17(5), 18(3), 20, 21(1), 21(2), 22(1), 22(4), 23(1), 23(2), 23*bis,* 23*ter*, 23*quater* (2), 23*quater* (3), 23*quater* (4), 25(1), 25(5), 26*bis*, 27, 27*bis*, 28, 28*bis*, 28*ter*, 28*quater,* 28*quinquies*, 28*sexies*, 34, 35*quinquies* (2), à une disposition d’un des règlements grand-ducaux pris en exécution de la présente loi ainsi qu’aux concessions/permissions et cahier des charges qui leur sont assortis, elle invite le fournisseur concerné par lettre recommandée à fournir des explications. Cette procédure ne peut toutefois être déclenchée pour des faits remontant à plus d’un an. Si l’Autorité conclut au terme de la procédure que le service a enfreint de manière manifeste, sérieuse et grave les dispositions applicables, elle prononce en fonction de la gravité des faits, l’une des sanctions disciplinaires suivantes:le blâme,le blâme avec obligation de lecture d’un communiqué à l’antenne, une amende d’ordre de 250 à 25.000 euros.Les blâmes et les amendes ne peuvent être prononcés que pour autant que les manquements ne fassent pas l’objet d’une sanction pénale.(4) Dans tous les cas visés au présent article, il est statué après une procédure contradictoire, le fournisseur de services de médias entendu en ses moyens de défense ou dûment appelé par envoi recommandé. Le fournisseur de services de médias peut se faire assister ou représenter.(5)Si un fournisseur de services de medias ne se met pas en conformité avec une disposition visée au paragraphe (3) après la prononciation d’une amende d’ordre prononcée sur base du paragraphe (3), ou en cas de récidive pour violation de la même disposition dans un délai de six mois suivant la prononciation de l’amende, soit le maximum de l’amende d’ordre prévue au paragraphe (3) c) peut être doublé, soit l’Autorité peut, lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 9, 10*bis*, 12, 13, 14, 19, 21 et 23 de la présente loi, faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou le retrait de la permission ou de la concession;lorsqu’il s’agit d’un service de médias audiovisuels visé aux articles 23*bis*, 23*ter* ou 23*quater* faire rapport au Ministre ayant l’Autorité dans ses attributions et proposer la suspension temporaire ou l’interdiction définitive. Dans le cas d’un service visé à l’article 23*quater*, l’interdiction du service entraîne l’interdiction de l’usage de la liaison montante ou de la capacité de satellite luxembourgeois;lorsqu’il s’agit d’un service de médias sonore visé aux articles 15 à 18 de la présente loi prononcer la suspension temporaire ou le retrait de la permission.Dans les cas prévus aux deux premiers tirets du présent article, il appartient au Gouvernement, sur proposition du Ministre ayant l’Autorité dans ses attributions, de prononcer la sanction, sans que celle-ci ne puisse être plus lourde que celle proposée par l’Autorité dans son rapport.(6)Les décisions de retrait font l’objet d’une publication au Mémorial.(7) Un recours en réformation devant les tribunaux administratifs est ouvert contre les décisions de l’Autorité prises en vertu du présent article.(8)Le recouvrement des amendes d’ordre prononcées conformément au paragraphe (3) et (5) ci-dessus est confié à l’Administration de l’enregistrement et des domaines. Il se fait comme en matière d’enregistrement.
 
-<a id="art_N17EAF"></a>
+<a id="art_N17EF1"></a>
 
 ### Art. 25.
 
 L’article 38 de la même loi est abrogé.
 
-<a id="art_N17EBF"></a>
+<a id="art_N17F01"></a>
 
 ### Art. 26.
 
@@ -4381,7 +4381,7 @@ La loi du 20 avril 2009 relative à l’accès aux représentations cinématogra
 1. ceci à partir de la limite d’âge de 12 ans ceci à partir de l’âge de 6 ans
 2. L’Autorité luxembourgeoise indépendante de l’Audiovisuel, ci-après dénommée «l’Autorité» est appelée à contrôler le classement des films, le respect et la publication obligatoire de ce classement prévue à l’article 3. Outre l’autosaisine, l’Autorité peut être saisie par les Ministres ayant en charge respectivement la Famille, la Justice, la Culture, l’Education nationale ainsi que par le Comité luxembourgeois des droits de l’enfant, appelé «Ombuds-Comité fir d’Rechter vum Kand». En cas de divergence de classification par différents organisateurs, l’Autorité est saisie de plein droit. L’Autorité peut, par décision motivée, reclasser des films. Le classement opéré par l’Autorité se substitue à tout classement antérieur et vaut à l’égard des organisateurs et du public à partir du jour de la décision.
 
-<a id="art_N17F01"></a>
+<a id="art_N17F43"></a>
 
 ### Art. 27.
 
@@ -4391,27 +4391,27 @@ La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionn
 2. Autorité luxembourgeoise indépendante de l’Audiovisuel – directeur
 3. directeur de l’Autorité luxembourgeoise indépendante de l’Audiovisuel.
 
-<a id="art_N17F2E"></a>
+<a id="art_N17F70"></a>
 
 ### Art. 28.
 
 Sous réserve d’avoir accompli au moins dix années de service, les employés de l’Etat remplissant les conditions d’études pour être admis dans la carrière supérieure de l’attaché de gouvernement, engagés avant l’entrée en vigueur de la présente loi auprès du Conseil national des programmes peuvent obtenir une nomination dans la carrière de l’attaché de gouvernement, avec dispense de l’examen d’admission au stage, du stage, de l’examen de fin de stage sous condition d’avoir passé avec succès un examen spécial dont les conditions et modalités sont à fixer par règlement grand-ducal. Les employés qui ont réussi à l’examen précité sont nommés hors cadre en qualité de fonctionnaire au même niveau de carrière et aux mêmes grade et échelon qu’ils avaient atteints avant leur fonctionnarisation. La date de nomination détermine l’échéance des avancements en grade et en échelon ultérieurs. Les avancements ultérieurs dans la nouvelle carrière sont subordonnés aux conditions prévues par les dispositions légales et réglementaires applicables aux fonctionnaires de l’Etat. Les fonctionnaires visés par la présente disposition pourront avancer hors cadre aux fonctions du cadre fermé de leur nouvelle carrière lorsque les fonctions de même grade sont atteintes par les fonctionnaires de rang égal ou immédiatement inférieur de leur nouvelle carrière.
 
-<a id="art_N17F3E"></a>
+<a id="art_N17F80"></a>
 
 ### Art. 29.
 
 La présente loi entre en vigueur au premier jour du troisième mois suivant celui de sa publication au Mémorial.
 
-##### Version consolidée applicable au 27/07/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de promotion des œuvres européennes dans les services de médias audiovisuels.
+##### **Version consolidée applicable au 27/07/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de promotion des œuvres européennes dans les services de médias audiovisuels.**
 
-<a id="art_N17F6A"></a>
+<a id="art_N17FAE"></a>
 
 ### Art. 1er. Champ d'application
 
 Le présent règlement grand-ducal ne s'applique pas aux services de télévision à caractère local qui ne font pas partie d'un réseau national, ni aux services de télévision consacrés exclusivement au téléachat ou exclusivement à l'autopromotion.
 
-<a id="art_N17FB1"></a>
+<a id="art_N17FF5"></a>
 
 ### Art. 2. Définitions
 
@@ -4433,7 +4433,7 @@ Les œuvres visées aux lettres b) et c) ci-dessus ne sont considérées comme d
 
 **(6)** Aux fins du présent règlement on entend par producteur indépendant toute personne physique produisant des œuvres audiovisuelles sans exercer l’activité de fournisseur de services de télévision et toute personne morale produisant des œuvres audiovisuelles sans exercer l’activité de fournisseur de services de télévision et dont le capital n’est pas contrôlé majoritairement par un fournisseur de services de télévision .
 
-<a id="art_N180BB"></a>
+<a id="art_N180FF"></a>
 
 ### Art. 3. Contenu en oeuvres européennes dans les services de télévision
 
@@ -4441,19 +4441,19 @@ Les œuvres visées aux lettres b) et c) ci-dessus ne sont considérées comme d
 
 **(2)** Lorsque la proportion définie au paragraphe (1) ne peut être atteinte, elle ne doit pas être inférieure à celle qui est constatée pour le service en moyenne en 1988.
 
-<a id="art_N1813A"></a>
+<a id="art_N1817E"></a>
 
 ### Art. 4. Contenu en oeuvres européennes de producteurs indépendants dans les services de télévision
 
 Chaque fois que cela est réalisable tout service de télévision réserve au moins 10% de son temps d'antenne à l'exclusion du temps consacré aux informations, à des manifestations sportives, à des jeux, à la publicité, aux services de télétexte et au télé-achat à des œuvres européennes émanant de producteurs indépendants du fournisseur de services de télévision . Cette proportion, compte tenu des responsabilités du fournisseur de services de télévision à l'égard de son public en matière d'information, d'éducation, de culture et de divertissement, devra être obtenue progressivement sur la base de critères appropriés; elle doit être atteinte en réservant une proportion adéquate à des œuvres récentes, c'est-à-dire des œuvres diffusées dans un laps de temps de cinq ans après leur production.
 
-<a id="art_N181A2"></a>
+<a id="art_N181E6"></a>
 
 ### Art. 5. Relevés statistiques concernant les services de télévision
 
 Chaque fournisseur de services de télévision fournit à l’Autorité luxembourgeoise indépendante de l’audiovisuel un relevé statistique de la réalisation des proportions visées aux articles 3 et 4, en indiquant le cas échéant les raisons pour lesquelles il n'a pas été possible d'atteindre ces proportions, ainsi que les mesures adoptées ou envisagées pour les atteindre.
 
-<a id="art_N181FE"></a>
+<a id="art_N18242"></a>
 
 ### Art. 5bis. Promotion des œuvres européennes dans les services de médias audiovisuels
 
@@ -4465,21 +4465,21 @@ Chaque fournisseur de services de télévision fournit à l’Autorité luxembou
 
 **(4)** L’obligation imposée en vertu du paragraphe (1) ne s’applique pas lorsqu'elle est impossible à respecter ou injustifiée en raison de la nature ou du thème des services de médias audiovisuels.
 
-<a id="art_N182A2"></a>
+<a id="art_N182E6"></a>
 
 ### Art. 6. Exécution
 
 Notre Premier Ministre, Ministre d’Etat est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
 
-##### Version consolidée applicable au 12/03/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de communications commerciales dans les services de médias audiovisuels.
+##### **Version consolidée applicable au 12/03/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de communications commerciales dans les services de médias audiovisuels.**
 
-<a id="art_N182ED"></a>
+<a id="art_N18333"></a>
 
 ### Art. 1er. Champ d’application
 
 Les dispositions du présent règlement grand-ducal s'appliquent aux services de médias audiovisuels visés à l'article 26 de la loi modifiée du 27 juillet 1991 sur les médias électroniques.
 
-<a id="art_N18338"></a>
+<a id="art_N1837E"></a>
 
 ### Art. 2. Insertion de la publicité télévisée et du télé-achat dans les services de télévision
 
@@ -4489,16 +4489,16 @@ Les dispositions du présent règlement grand-ducal s'appliquent aux services de
 
 La diffusion de séquences de téléachat est interdite pendant les programmes pour enfants.
 
-<a id="art_N183E7"></a>
+<a id="art_N1842D"></a>
 
-### art_N183E7
+### art_N1842D
 
 1. 
 2. 
 3. 
 4. 
 
-<a id="art_N18475"></a>
+<a id="art_N184BB"></a>
 
 ### Art. 4. Communications commerciales pour certains produits dans les services de médias audiovisuels
 
@@ -4515,7 +4515,7 @@ La diffusion de séquences de téléachat est interdite pendant les programmes p
 
 **(4)** À l’exception du parrainage et du placement de produit, les communications commerciales pour les boissons alcooliques dans les services de médias audiovisuels à la demande respectent les critères établis au paragraphe (3).
 
-<a id="art_N18534"></a>
+<a id="art_N1857A"></a>
 
 ### Art. 5. Parrainage
 
@@ -4531,7 +4531,7 @@ La diffusion de séquences de téléachat est interdite pendant les programmes p
 
 **(4)** Les journaux télévisés et les programmes d'information et d’actualité ne peuvent pas être parrainés.
 
-<a id="art_N18643"></a>
+<a id="art_N18689"></a>
 
 ### Art. 5bis. Placement de produit
 
@@ -4552,7 +4552,7 @@ Les exigences énoncées au point d) ne sont pas obligatoires si le programme co
 - de produits du tabac ou de cigarettes, ainsi que de cigarettes électroniques et de flacons de recharge, ou de placement de produit émanant d'entreprises qui ont pour activité principale la fabrication ou la vente de ces produits ;
 - ou de médicaments ou de traitements médicaux spécifiques disponibles uniquement sur ordonnance.
 
-<a id="art_N18737"></a>
+<a id="art_N1877D"></a>
 
 ### Art. 6. Temps de transmission consacré à la publicité télévisée et au télé-achat dans les services de télévision
 
@@ -4567,27 +4567,27 @@ Les exigences énoncées au point d) ne sont pas obligatoires si le programme co
 
 **(3)** Les fenêtres de télé-achat doivent être clairement identifiées comme telles grâce à des moyens optiques et acoustiques et avoir une durée minimale ininterrompue de quinze minutes.
 
-<a id="art_N187D7"></a>
+<a id="art_N1881D"></a>
 
 ### Art. 7. Services de télévision consacrés exclusivement au télé-achat
 
 Des services de télévision peuvent être consacrés exclusivement au télé-achat. La publicité est autorisée sur ces chaînes. L'article 2 et les paragraphes (1) et (2) de l'article 6 du présent règlement ne s'appliquent pas à ces chaînes. L'article 6 paragraphe (2) ne s'applique pas.
 
-<a id="art_N1884B"></a>
+<a id="art_N18891"></a>
 
 ### Art. 8. Services de télévision consacrés exclusivement à l’autopromotion
 
 Des services de télévision peuvent être consacrées exclusivement à l'autopromotion. D'autres formes de communications commerciales audiovisuelles sont autorisées sur ces chaînes. L'article 2 et les paragraphes (1) et (2) de l'article 6 du présent règlement ne s'appliquent pas à ces chaînes.
 
-<a id="art_N188BF"></a>
+<a id="art_N18905"></a>
 
 ### Art. 9. Exécution
 
 Notre Premier Ministre, Ministre d’Etat est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
 
-##### Règlement grand-ducal du 13 décembre 2013 portant fixation des indemnités revenant au président et aux membres du conseil d'administration ainsi qu'aux membres de l'assemblée consultative de l'Autorité luxembourgeoise indépendante de l'audiovisuel.
+##### **Règlement grand-ducal du 13 décembre 2013 portant fixation des indemnités revenant au président et aux membres du conseil d'administration ainsi qu'aux membres de l'assemblée consultative de l'Autorité luxembourgeoise indépendante de l'audiovisuel.**
 
-<a id="art_N1890A"></a>
+<a id="art_N18952"></a>
 
 ### Art. 1er.
 
@@ -4599,21 +4599,21 @@ Notre Premier Ministre, Ministre d’Etat est chargé de l’exécution du prés
 
 Les indemnités visées aux paragraphes (1) et (2) ne sont pas pensionnables.
 
-<a id="art_N18955"></a>
+<a id="art_N1899D"></a>
 
 ### Art. 2.
 
 Les membres de l'assemblée consultative de l'Autorité luxembourgeoise indépendante de l'audiovisuel touchent une indemnité de 25 euros par séance effectivement prestée.
 
-<a id="art_N18965"></a>
+<a id="art_N189AD"></a>
 
 ### Art. 3.
 
 Notre Ministre des Communications et des Médias est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
 
-##### Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 2 février 2015 fixant le montant et les modalités de paiement des taxes à percevoir par l'Autorité luxembourgeoise indépendante de l'audiovisuel en matière de surveillance des services de médias audiovisuels et sonores.
+##### **Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 2 février 2015 fixant le montant et les modalités de paiement des taxes à percevoir par l'Autorité luxembourgeoise indépendante de l'audiovisuel en matière de surveillance des services de médias audiovisuels et sonores.**
 
-<a id="art_N18988"></a>
+<a id="art_N189D2"></a>
 
 ### Art. 1er.
 
@@ -4621,19 +4621,19 @@ Tout fournisseur de service de média audiovisuel ou sonore établi au Luxembour
 
 La taxe est due pour chaque service de média audiovisuel qui est notifié conformément à l'article 23*bis*, 23*ter, *23*quater et 23quinquies * de la loi modifiée du 27 juillet 1991 sur les médias électroniques ou pour chaque service de média audiovisuel ou sonore pour lequel une concession ou une permission a été accordée. Toutefois, par dérogation, les fournisseurs ayant la forme d'une association sans but lucratif sont exempts du paiement de la taxe. Les fournisseurs de services de médias audiovisuels ou sonores établis au Luxembourg qui ne sont pas soumis à l’impôt sur le revenu des collectivités ou qui sont exempts de l’impôt sur le revenu des collectivités sont également exempts du paiement de la taxe.
 
-<a id="art_N189FF"></a>
+<a id="art_N18A49"></a>
 
 ### Art. 1bis.
 
 Dans le contexte de l’agression militaire non provoquée et injustifiée de la Fédération de Russie contre l’Ukraine, les fournisseurs des services de médias audiovisuels sous la supervision du Conseil national de la radiodiffusion et de la télévision de l’Ukraine et tombant sous compétence luxembourgeoise en vertu de l’article 23*quater* de la loi modifiée du 27 juillet 1991 sur les médias électroniques sont exempts de la taxe visée à l’article 1er.
 
-<a id="art_N18A2A"></a>
+<a id="art_N18A74"></a>
 
 ### Art. 2.
 
 Lorsque le service de média audiovisuel ou sonore est diffusé dans une langue autre que celles visées à l'article 3 de la loi du 24 février 1984 sur le régime des langues et que l'Autorité doit recourir aux services d'un expert externe, les frais engendrés par cette mission sont facturés par l'Autorité et doivent alors être réglés par le fournisseur du service de média audiovisuel ou sonore.
 
-<a id="art_N18A60"></a>
+<a id="art_N18AAA"></a>
 
 ### Art. 3.
 
@@ -4641,29 +4641,29 @@ Les taxes sont payables au courant du mois de janvier de l'année civile pour la
 
 Les taxes et frais sont payables à l'Autorité moyennant règlement sur l'un des comptes indiqués à cet effet par l'Autorité.
 
-<a id="art_N18A95"></a>
+<a id="art_N18ADF"></a>
 
 ### Art. 4.
 
 Les dispositions du présent règlement sont applicables à partir de l'exercice 2015.
 
-<a id="art_N18AC7"></a>
+<a id="art_N18B11"></a>
 
 ### Art. 5.
 
 Notre Ministre des Communications et des Médias est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
 
-#### Service des médias, de la connectivité et de la politique numérique
+#### **Service des médias, de la connectivité et de la politique numérique**
 
-##### Règlement grand-ducal du 14 septembre 2022 fixant l’organisation du Service des médias et des communications.
+##### **Règlement grand-ducal du 14 septembre 2022 fixant l’organisation du Service des médias et des communications.**
 
-<a id="art_N18B1C"></a>
+<a id="art_N18B68"></a>
 
 ### Art. 1er.
 
 Le Service des médias et des communications créé par l’article 29 de la loi modifiée du 27 juillet 1991 sur les médias électroniques peut encore être désigné sous la dénomination « Service des médias, de la connectivité et de la politique numérique ». Il est chargé des missions énumérées à l’article 29, paragraphe 2, de la loi du 27 juillet 1991 sur les médias électroniques.
 
-<a id="art_N18B39"></a>
+<a id="art_N18B85"></a>
 
 ### Art. 2.
 
@@ -4690,49 +4690,49 @@ Le Service des médias, de la connectivité et de la politique numérique compre
 - d’assister le ministre compétent dans la définition et l’exécution des politiques en matière de technologies émergentes ;
 - de représenter le pays dans les organes internationaux et européens en matière de politique numérique.
 
-<a id="art_N18B9F"></a>
+<a id="art_N18BEB"></a>
 
 ### Art. 3.
 
 Le règlement grand-ducal du 14 novembre 2008 fixant l’organisation du Service des médias et de l’audiovisuel créé par l’article 29 de la loi du 27 juillet 1991 sur les médias électroniques est abrogé.
 
-<a id="art_N18BB9"></a>
+<a id="art_N18C05"></a>
 
 ### Art. 4.
 
 Notre Premier Ministre, Ministre d’État, et Notre Ministre des Communications et des Médias sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
-#### Service Information et Presse
+#### **Service Information et Presse**
 
-##### Règlement grand-ducal du 6 janvier 2018 déterminant les conditions d’admission, de nomination et de promotion du personnel des cadres du Service information et presse.
+##### **Règlement grand-ducal du 6 janvier 2018 déterminant les conditions d’admission, de nomination et de promotion du personnel des cadres du Service information et presse.**
 
-<a id="art_N18BEC"></a>
+<a id="art_N18C3A"></a>
 
 ### Art. 1er.
 
 Les conditions d’admission, de nomination et de promotion du personnel des cadres du Service information et presse sont celles applicables au personnel de l’administration gouvernementale telles qu’arrêtées par le règlement grand-ducal modifié du 22 mars 2004 déterminant les conditions d’admission, de nomination et d’avancement du personnel des cadres de l’administration gouvernementale.
 
-<a id="art_N18C04"></a>
+<a id="art_N18C52"></a>
 
 ### Art. 2.
 
 Le règlement grand-ducal du 17 décembre 1991 fixant l’organisation interne du Service information et presse créé par l’article 32 de la loi du 27 juillet 1991 sur les médias électroniques est abrogé.
 
-<a id="art_N18C1E"></a>
+<a id="art_N18C6C"></a>
 
 ### Art. 3.
 
 Notre Premier ministre, ministre d’État, est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
-## 9. Accès à l'information
+## **9. Accès à l'information**
 
-### Version consolidée applicable au 08/06/2019 : Loi du 14 septembre 2018 relative à une administration transparente et ouverte.
+### **Version consolidée applicable au 08/06/2019 : Loi du 14 septembre 2018 relative à une administration transparente et ouverte.**
 
 #### **Chapitre Ier** — **Accessibilité des documents**
 
 ##### **Section 1re ** — **Droit d’accès**
 
-<a id="art_N18C79"></a>
+<a id="art_N18CCB"></a>
 
 ### Art. 1er.
 
@@ -4753,13 +4753,13 @@ Notre Premier ministre, ministre d’État, est chargé de l’exécution du pr�
 
 ##### **Section 2** — **Modalités d’accès**
 
-<a id="art_N18D0D"></a>
+<a id="art_N18D5F"></a>
 
 ### Art. 2.
 
 Les organismes visés à l’article 1er, paragraphe 1er, sont tenus de procéder à la publication des documents accessibles en vertu de la présente loi. Ces documents sont publiés moyennant les nouvelles technologies de l’information et de la communication. En cas de modification d’un document, la version publiée est mise à jour.
 
-<a id="art_N18D45"></a>
+<a id="art_N18D97"></a>
 
 ### Art. 3.
 
@@ -4767,7 +4767,7 @@ Sans préjudice d’autres dispositions légales qui règlent l’accès à des 
 
 ##### **Section 3** — **Communication des documents**
 
-<a id="art_N18D8D"></a>
+<a id="art_N18DDF"></a>
 
 ### Art. 4.
 
@@ -4775,7 +4775,7 @@ Sans préjudice d’autres dispositions légales qui règlent l’accès à des 
 
 **(2)** Pour les demandes formulées de manière trop générale, l’organisme sollicité invite le demandeur, au plus tard avant l’expiration du délai prévu à l’article 5, paragraphe 1er, alinéa 1er, à préciser sa demande d’information.
 
-<a id="art_N18DE2"></a>
+<a id="art_N18E34"></a>
 
 ### Art. 5.
 
@@ -4799,7 +4799,7 @@ Le demandeur est informé dès que possible, et, en tout état de cause, avant l
 
 **(3)** Lorsque l’organisme sollicité demande au requérant de préciser la demande, conformément à l’article 4, paragraphe 2, le délai prévu à l’article 5, paragraphe 1er, alinéa 1er, est suspendu jusqu’à réception d’une demande libellée de manière suffisamment précise.
 
-<a id="art_N18E86"></a>
+<a id="art_N18ED8"></a>
 
 ### Art. 6.
 
@@ -4809,7 +4809,7 @@ Ne sont communicables qu’à la personne concernée les documents qui :
 2. Si la demande porte sur un document qui comporte également une appréciation ou un jugement de valeur sur d’autres personnes nommément désignées ou facilement identifiables, le document n’est communiqué à la personne à l’origine de la demande que s’il est possible pour les organismes visés à l’article 1er, paragraphe 1er, d’occulter ou de disjoindre, sans charge administrative excessive, les informations relatives aux autres personnes concernées par ce document ou si celles-ci en donnent leur accord écrit.
 3. comportent une opinion communiquée à titre confidentiel à l’administration, à moins que le caractère confidentiel du document n’ait été levé par la personne qui est à l’origine du document.
 
-<a id="art_N18EDC"></a>
+<a id="art_N18F2E"></a>
 
 ### Art. 7.
 
@@ -4820,7 +4820,7 @@ La demande de communication peut être refusée si :
 3. la demande est manifestement abusive par son nombre, son caractère systématique ou répétitif ;
 4. la demande concerne des communications internes.
 
-<a id="art_N18F1F"></a>
+<a id="art_N18F71"></a>
 
 ### Art. 8.
 
@@ -4830,13 +4830,13 @@ Chaque organisme visé à l’article 1er, paragraphe 1er, désigne un agent cha
 
 ##### **Section Ire** — **Attributions de la Commission d’accès aux documents**
 
-<a id="art_N18F7C"></a>
+<a id="art_N18FCE"></a>
 
 ### Art. 9.
 
 Une Commission dite "Commission d’accès aux documents", établie auprès du Premier ministre, ministre d’État, est chargée de veiller au respect du droit d’accès aux documents dans les conditions prévues par la présente loi. Elle conseille les organismes visés à l’article 1er, paragraphe 1er, sur toutes les questions relatives à l’application de la présente loi. Elle établit un rapport annuel.
 
-<a id="art_N18FB4"></a>
+<a id="art_N19006"></a>
 
 ### Art. 10.
 
@@ -4852,7 +4852,7 @@ Une Commission dite "Commission d’accès aux documents", établie auprès du P
 
 ##### **Section 2** — **Fonctionnement de la Commission d’accès aux documents**
 
-<a id="art_N19036"></a>
+<a id="art_N19088"></a>
 
 ### Art. 11.
 
@@ -4870,59 +4870,59 @@ Un règlement d’ordre intérieur fixe les modalités de fonctionnement de la C
 
 #### ** Chapitre III** — ****Dispositions transitoires et finale****
 
-<a id="art_N190EA"></a>
+<a id="art_N1913C"></a>
 
 ### Art. 12.
 
 Pour les documents qui ont été créés avant l’entrée en vigueur de la présente loi, l’obligation de publication visée à l’article 2 ne s’applique pas.
 
-<a id="art_N1911C"></a>
+<a id="art_N1916E"></a>
 
 ### Art. 12bis.
 
 La durée de la première nomination de membres suppléants est limitée à la durée du mandat restant à courir des membres effectifs en exercice.
 
-<a id="art_N1915D"></a>
+<a id="art_N191AF"></a>
 
 ### Art. 13.
 
 La présente loi entre en vigueur le premier jour du troisième mois qui suit sa publication au Journal officiel du Grand-Duché de Luxembourg.
 
-## 10. Droit de réponse en ligne
+## **10. Droit de réponse en ligne**
 
-### Version consolidée applicable au 26/07/2024 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.
+### **Version consolidée applicable au 26/07/2024 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.**
 
-<a id="art_N191B0"></a>
+<a id="art_N19206"></a>
 
 ### Art. 36.
 
 Sans préjudice des autres voies de droit, toute personne physique ou morale, toute association de fait ou tout corps constitué, cité nominativement ou implicitement désigné dans une publication périodique ou dans une publication en ligne , a le droit de requérir la diffusion gratuite d’une réponse.
 
-<a id="art_N191F3"></a>
+<a id="art_N19249"></a>
 
 ### Art. 37.
 
 La demande est adressée par envoi recommandé avec avis de réception à l’éditeur au plus tard le quatre-vingt-dixième jour qui suit la date de la diffusion.
 
-<a id="art_N1922A"></a>
+<a id="art_N19280"></a>
 
 ### Art. 38.
 
 Si la personne visée est un mineur, le représentant légal exercera le droit de réponse sans préjudice de l’article 12 de la Convention relative aux Droits de l’Enfant.
 
-<a id="art_N19261"></a>
+<a id="art_N192B7"></a>
 
 ### Art. 39.
 
 Si la personne visée est décédée, le droit de réponse appartient à tous les parents en ligne directe ou au conjoint ou, à défaut, aux parents les plus proches. Il n’est exercé qu’une fois et par le plus diligent d’entre eux. Si au jour du décès de la personne visée, le délai prévu à l’article 37 est en cours, les ayants droit ne disposent que de la partie de ce délai restant à courir.
 
-<a id="art_N19298"></a>
+<a id="art_N192EE"></a>
 
 ### Art. 40.
 
 La demande contient, sous peine de refus de diffusion, l’indication précise des textes, mentions ou citations auxquels se rapporte la réponse, ainsi que le texte de la réponse dont la diffusion est demandée. Elle doit être signée et indiquer l’identité complète du requérant, à savoir ses nom, prénom et domicile s’il s’agit d’une personne physique, sa raison ou dénomination sociale, sa forme juridique, l’adresse de son siège social et la qualité du signataire s’il s’agit d’une personne morale, sa dénomination, son siège et la qualité du signataire s’il s’agit d’une association de fait.
 
-<a id="art_N192CF"></a>
+<a id="art_N19325"></a>
 
 ### Art. 41.
 
@@ -4933,13 +4933,13 @@ Peut être refusée la diffusion de toute réponse:
 3. qui est rédigée dans une langue autre que celle des propos incriminés;
 4. qui n’a pas de rapport immédiat avec les propos ou les images incriminés.
 
-<a id="art_N19317"></a>
+<a id="art_N1936D"></a>
 
 ### Art. 42.
 
 La réponse prend la forme d’un écrit quelle que soit la nature de l’information à laquelle elle se rapporte. Elle peut atteindre l’étendue de l’information à laquelle elle se réfère et pourra en toute hypothèse comporter mille lettres d’écriture.
 
-<a id="art_N1935A"></a>
+<a id="art_N193B0"></a>
 
 ### Art. 43.
 
@@ -4949,7 +4949,7 @@ Si la réponse se rapporte à une publication en ligne, elle sera diffusée dans
 
 Dans tous les cas, elle pourra être assortie d’une réplique ou d’un commentaire qui sera formulé dans la forme décrite ci-dessus et qui ne pourra dépasser un tiers de l’étendue de la réponse.
 
-<a id="art_N193A9"></a>
+<a id="art_N193FF"></a>
 
 ### Art. 44.
 
@@ -4957,13 +4957,13 @@ Lorsqu’il s’agit d’une publication paraissant au moins cinq fois par semai
 
 Lorsqu’il s’agit d’une publication en ligne, la réponse doit être mise à disposition du public dans les trois jours ouvrables à compter de la réception de celle-ci, avec les mêmes facilités d’accès. Si l’information qui a donné lieu au droit de réponse reste à la disposition du public dans des archives électroniques, la réponse doit être accessible depuis celle-ci.
 
-<a id="art_N193F5"></a>
+<a id="art_N1944B"></a>
 
 ### Art. 45.
 
 La réponse est lue par la personne qui est désignée par l’éditeur, mais qui ne peut être ni l’auteur de l’information incriminée, ni le requérant ayant exercé le droit de réponse.
 
-<a id="art_N1942C"></a>
+<a id="art_N19482"></a>
 
 ### Art. 46.
 
@@ -4971,7 +4971,7 @@ Sans préjudice d’autres voies de droit, et notamment d’une action en répar
 
 Cette demande doit, sous peine de forclusion, être introduite dans les trois mois à compter de la date à laquelle la réponse aurait dû être diffusée ou à laquelle la réponse jugée insatisfaisante a été diffusée.
 
-<a id="art_N1946C"></a>
+<a id="art_N194C2"></a>
 
 ### Art. 47.
 
@@ -4979,13 +4979,13 @@ La demande est introduite et jugée comme en matière de référés.
 
 Le Président du Tribunal d’arrondissement statue au fond et selon la procédure prévue en matière de référé conformément aux articles 934 à 940 du nouveau code de procédure civile. Toutefois, par dérogation à l’article 939, alinéa 2 du nouveau code de procédure civile, l’ordonnance de référé n’est pas susceptible d’opposition.
 
-<a id="art_N194B6"></a>
+<a id="art_N1950C"></a>
 
 ### Art. 48.
 
 L’ordonnance du Président du Tribunal d’arrondissement doit être rendue dans les dix jours à partir de la date de l’audience pour laquelle l’assignation à comparaître a été lancée.
 
-<a id="art_N194ED"></a>
+<a id="art_N19543"></a>
 
 ### Art. 49.
 
@@ -4993,7 +4993,7 @@ La décision ordonnant la diffusion de la réponse endéans le délai détermin�
 
 L’éditeur peut en outre être condamné à diffuser, simultanément avec la réponse, le texte en entier, en partie ou le dispositif de l’ordonnance rendue par le Président du Tribunal d’arrondissement.
 
-<a id="art_N1952D"></a>
+<a id="art_N19583"></a>
 
 ### Art. 50.
 
@@ -5001,9 +5001,9 @@ L’ordonnance rendue par le Président du Tribunal d’arrondissement est susce
 
 L’acte d’appel contient assignation à jour fixe. L’appel est porté devant la Cour d’appel et il est jugé d’urgence et selon la même procédure qu’en première instance.
 
-## 11. Conseil de Presse
+## **11. Conseil de Presse**
 
-<a id="art_N19589"></a>
+<a id="art_N195E3"></a>
 
 ### Art. 23.
 
@@ -5017,19 +5017,19 @@ L’acte d’appel contient assignation à jour fixe. L’appel est porté devan
 
 **(3)** Le Conseil de Presse peut en outre émettre des recommandations et des directives pour le travail des journalistes professionnels et des éditeurs et organiser des cours de formation professionnelle pour les journalistes professionnels et les éditeurs.
 
-<a id="art_N195F5"></a>
+<a id="art_N1964F"></a>
 
 ### Art. 24.
 
 Le Conseil de Presse est composé d’un nombre minimal de 14 membres, qui représentent par moitié les éditeurs et par moitié les journalistes professionnels.
 
-<a id="art_N1962C"></a>
+<a id="art_N19686"></a>
 
 ### Art. 25.
 
 Les membres du Conseil de Presse sont nommés par voie d’arrêté grand-ducal, sur proposition des milieux professionnels respectifs.
 
-<a id="art_N19663"></a>
+<a id="art_N196BD"></a>
 
 ### Art. 26.
 
@@ -5043,13 +5043,13 @@ Le Président du Conseil de Presse assure également, pour la durée de son mand
 
 Le Conseil de Presse est représenté par son président tant judiciairement qu’extrajudiciairement.
 
-<a id="art_N196BE"></a>
+<a id="art_N19718"></a>
 
 ### Art. 27.
 
 Il est créé au sein du Conseil de Presse une Commission des Cartes de presse, chargée d’exécuter la mission spécifiée à l’article 23 (1) de la présente loi.
 
-<a id="art_N196F5"></a>
+<a id="art_N1974F"></a>
 
 ### Art. 28.
 
@@ -5063,7 +5063,7 @@ Les modalités de désignation et les conditions d’éligibilité sont détermi
 
 Le Conseil de Presse règle la procédure qui sera suivie devant la Commission des Cartes de presse.
 
-<a id="art_N1975C"></a>
+<a id="art_N197B6"></a>
 
 ### Art. 29.
 
@@ -5081,25 +5081,25 @@ Le Conseil de Presse règle la procédure qui sera suivie devant la Commission d
 
 L’appel contre la décision de la Commission des Cartes de presse est déclaré au secrétariat du Conseil de Presse dans un délai de quarante jours qui court pour les parties en cause du jour où la décision leur a été notifiée, à la diligence de la Commission des Cartes de presse, par lettre recommandée avec accusé de réception.
 
-<a id="art_N197C9"></a>
+<a id="art_N19823"></a>
 
 ### Art. 30.
 
 Les modalités relatives à l’établissement des documents et insignes d’identification délivrés par le Conseil de Presse seront déterminées par voie de règlement grand-ducal.
 
-<a id="art_N19800"></a>
+<a id="art_N1985A"></a>
 
 ### Art. 31.
 
 La carte de journaliste professionnel constitue une attestation de l’exercice du métier de journaliste professionnel et est délivrée à toute personne qui remplit les conditions de l’article 3, point 6.
 
-<a id="art_N19837"></a>
+<a id="art_N19891"></a>
 
 ### Art. 32.
 
 Il est créé au sein du Conseil de Presse une Commission des Plaintes chargée de l’exécution de la mission prévue à l’article 23 (2) 2.
 
-<a id="art_N1986E"></a>
+<a id="art_N198C8"></a>
 
 ### Art. 33.
 
@@ -5113,23 +5113,23 @@ Il doit être juriste et est nommé par voie d’arrêté grand-ducal, sur propo
 
 **(4)** À chaque membre est adjoint un membre suppléant, nommé suivant les modalités des paragraphes (1) et (2). Le membre suppléant remplace le membre en cas d’empêchement de ce dernier.
 
-<a id="art_N198F1"></a>
+<a id="art_N1994B"></a>
 
 ### Art. 34.
 
 Les modalités de saisine de la Commission des Plaintes, les conditions de recevabilité des plaintes et la procédure qui sera suivie devant elle seront déterminées par le Conseil de Presse, de même que les modalités de désignation de ses membres, à l’exception du représentant du public, et les conditions d’éligibilité.
 
-<a id="art_N19928"></a>
+<a id="art_N19982"></a>
 
 ### Art. 35.
 
 La Commission des Plaintes peut rejeter ou approuver la plainte. La décision d’approuver une plainte peut être assortie d’une recommandation, à l’adresse de la ou des personnes responsables, d’un blâme public ou non public, à communiquer par l’éditeur d’après les modalités à déterminer par la Commission des Plaintes.
 
-## 12. Diffamation
+## **12. Diffamation**
 
-### Code pénal
+### **Code pénal**
 
-<a id="art_N1997C"></a>
+<a id="art_N199D9"></a>
 
 ### Art. 443.
 
@@ -5144,9 +5144,9 @@ Celui qui, dans les cas ci-après indiqués, a méchamment imputé à une person
 2. que l’indication de l'identité de l'auteur des propos cités accompagne l'information communiquée, et
 3. que la communication au public de cette citation soit justifiée par l’existence d’un intérêt prépondérant du public à connaître les propos cités.
 
-### Version consolidée applicable au 26/07/2024 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.
+### **Version consolidée applicable au 26/07/2024 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.**
 
-<a id="art_N19A09"></a>
+<a id="art_N19A68"></a>
 
 ### Art. 21.
 
