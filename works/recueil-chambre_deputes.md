@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-chambre_deputes:2025-01-22
+lex_id: lu-legilux:recueil-chambre_deputes:2025-03-15
 title: Chambre des Députés
-valid_from: 2025-01-22
-valid_to: 2025-03-14
-source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20250122/fr
-source_sha256: c6a05a2f2fd7fdf7f7da1fe33c4133a8bf946f7a267781f6fc28cc2f3a890f66
+valid_from: 2025-03-15
+valid_to: 2025-06-16
+source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20250315/fr
+source_sha256: 754b7e65679816095db4578e86cba7dd04809ea1704e3c8c616c2132cce21d65
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -136,7 +136,7 @@ La mission de la commission d’enquête prend fin au moment où la Chambre des 
 
 La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.
 
-## **Version consolidée applicable au 22/01/2025 : Règlement de la Chambre des Députés.**
+## **Version consolidée applicable au 15/03/2025 : Règlement de la Chambre des Députés.**
 
 ### TITRE I — De l’organisation de la Chambre et de son fonctionnement
 
@@ -2281,7 +2281,7 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 #### Chapitre 11 — Des pétitions
 
-<a id="art_N132C9"></a>
+<a id="art_N132CD"></a>
 
 ### Art. 164.
 
@@ -2289,89 +2289,175 @@ En cas de rejet d’une candidature, une nouvelle proposition est soumise à la 
 
 **(2)** La Commission des Pétitions nomme, dans son sein, un président et deux vice-présidents.
 
-**(3)** Il est fait mention des pétitions ordinaires et publiques nouvellement déposées ou introduites dans les communications que le Président fait à la Chambre lors d’une séance publique.
+**(3)** Il est fait mention des pétitions ordinaires et publiques nouvellement déposées dans les communications que le Président fait à la Chambre lors d’une séance publique.
 
-<a id="art_N1330D"></a>
+<a id="art_N13311"></a>
 
 ### Art. 165.
 
-**(1)** Les pétitions ordinaires sont adressées par écrit au Président de la Chambre.
+**(1)** Toute personne inscrite dans le Registre national des personnes physiques et âgée de quinze ans au moins peut introduire une demande de pétition.
 
-**(2)** Toute pétition ordinaire est revêtue de la signature du pétitionnaire et indique lisiblement ses nom et prénoms ainsi que sa résidence.
+**(2)** La Chambre des Députés peut recevoir des pétitions ordinaires et des pétitions publiques :
 
-**(3)** La Chambre ne s’occupe d’aucune pétition ordinaire ayant pour objet des intérêts individuels.
+Les pétitions ordinaires visent à attirer l’attention de la Chambre des Députés sur une problématique ou une requête dans l’optique d’inciter la Chambre des Députés à intervenir grâce aux moyens dont elle dispose.
 
-**(4)** Le Président renvoie les pétitions ordinaires à la Commission des Pétitions.
+Les pétitions publiques visent à obtenir la tenue d’un débat public sur une problématique donnée entre des représentants de la Chambre des Députés et du ou des pétitionnaires dans les formes et sous les conditions définies ci-après.
 
-**(5)** La Commission des Pétitions fait parvenir une réponse au pétitionnaire.
+**(3)** La demande de pétition, ordinaire ou publique, doit impérativement être rédigée dans au moins une des langues administratives du pays. En cas d’usage de plusieurs langues administratives, le pétitionnaire désigne celle faisant foi. Pour les pétitions publiques, une traduction en anglais est admise sans que celle-ci ne fasse foi.
 
-**(6)** Dans le cadre de l’élaboration de cette réponse, la Commission des Pétitions prend toutes les mesures utiles.
+<a id="art_N1335A"></a>
 
-**(7)** La Commission des Pétitions informe la commission compétente conformément à l’article 20(1) de l’existence d’une pétition ordinaire rentrant dans son domaine de compétence.
+### Art. 165bis.
 
-**(8)** La Commission des Pétitions peut renvoyer une pétition ordinaire à une autre commission de la Chambre.
+**(1)** Les demandes de pétition ordinaire peuvent être soit déposées électroniquement sur le site Internet des Pétitions par un moyen d’authentification électronique reconnu, soit déposées en personne à la Chambre des Députés sous condition de présentation d’une pièce d’identité ou bien envoyées par courrier postal au Président de la Chambre sous réserve d’une légalisation de signature au préalable.
 
-Elle peut également demander un avis à une autre commission, conformément à l’article 29(3).
+**(2)** Toute demande de pétition ordinaire est revêtue de la signature du pétitionnaire et indique lisiblement ses nom et prénom, son adresse postale ainsi que son numéro d’identification national. La condition relative à la signature ne s’applique pas aux demandes de pétition ordinaire introduites par voie électronique.
 
-**(9)** Si la Commission des Pétitions décide de demander une prise de position à un Ministre, elle en informe la commission compétente conformément à l’article 20(1). La prise de position du Ministre est envoyée au Président de la Chambre au plus tard dans un délai d’un mois.
+**(3)** La Chambre ne traite aucune demande de pétition ordinaire ayant pour objet des intérêts individuels ou qui ne satisfait pas aux conditions de recevabilité prévues aux points 1° à 3°, 5° à 9° et 11° à 12° de l’article 165*ter*, paragraphe 3.
 
-Si le Ministre compétent n’est pas en mesure de fournir sa réponse dans le délai prescrit, il en informe le Président de la Chambre tout en indiquant et les raisons d’empêchement et la date probable de la réponse.
+**(4)** La Commission des Pétitions juge de la recevabilité des demandes de pétition ordinaire et fait parvenir une réponse motivée au pétitionnaire. Dans le cadre de l’élaboration de cette réponse, la Commission des Pétitions peut :
 
-Le Président de la Chambre peut accorder un délai supplémentaire d’un mois.
+1. demander une prise de position au Gouvernement ;
+2. entendre le pétitionnaire lors d’une réunion, inviter tout organe ou expert concerné par la pétition ;
+3. réaliser des visites sur le terrain.
 
-À défaut de réponse du Ministre à une demande de la Commission des Pétitions dans le délai prescrit, le membre du Gouvernement concerné est invité pour une prise de position orale à la Commission des Pétitions.
+**(5)** Dans le cadre du traitement de la pétition ordinaire, la Commission des Pétitions peut, si elle le juge opportun, renvoyer la pétition ordinaire à la commission dont le domaine de compétence, conformément à l’article 20, paragraphe 1er, englobe l’objet de la pétition, ou demander un avis à une autre commission, conformément à l’article 29, paragraphe 3.
 
-<a id="art_N133D5"></a>
+**(6)** Dans le cadre de l’article 165*bis*, paragraphe 4, point 1°, la prise de position du Gouvernement est envoyée à la Commission des Pétitions dans un délai de 60 jours. Passé ce délai, la Commission des Pétitions envoie un rappel.
+
+Le Président de la Chambre peut accorder au Gouvernement un délai supplémentaire de 30 jours sur demande motivée.
+
+À défaut de réponse du Gouvernement à une demande de la Commission des Pétitions dans le délai prescrit, le ou les membre(s) du Gouvernement concerné(s) peut être invité pour une prise de position orale devant la Commission des Pétitions.
+
+**(7)** La Commission des Pétitions transmet la prise de position au pétitionnaire par courrier postal et à la commission parlementaire dont le domaine de compétence englobe l’objet de la pétition.
+
+Le pétitionnaire peut répondre à la prise de position de position gouvernementale dans un délai de 60 jours. Passé ce délai, la pétition est clôturée. Le Gouvernement n’est pas tenu de répondre.
+
+<a id="art_N13402"></a>
+
+### Art. 165ter.
+
+**(1)** Les demandes de pétition publique peuvent être soit déposées électroniquement sur le site Internet des Pétitions moyennant un moyen d’authentification électronique reconnu, soit déposées en personne à la Chambre des Députés sous condition de présentation d’une pièce d’identité ou bien envoyées par courrier postal au Président de la Chambre sous réserve d’une légalisation de signature au préalable.
+
+**(2)** Toute demande de pétition publique est revêtue de la signature du pétitionnaire et indique lisiblement ses nom et prénom, son adresse postale ainsi que son numéro d’identification national. La condition relative à la signature ne s’applique pas aux demandes de pétition publique introduites par voie électronique.
+
+**(3)** La Commission des Pétitions instruit par ordre chronologique de dépôt les demandes de pétition publique en les soumettant à des conditions de recevabilité cumulatives. La recevabilité de la demande de pétition publique est fonction de l’intérêt général de son objet. Outre cette condition, la demande de pétition publique ne peut :
+
+1. être déposée par une personne ne figurant pas dans le Registre national des personnes physiques ;
+2. être déposée par une personne âgée de moins de quinze ans ;
+3. être déposée par un député ou un membre du Gouvernement ;
+4. être rédigée exclusivement dans une langue autre que les trois langues administratives ;
+5. faire usage de la forme personnelle ou se référer de manière directe à la situation ou à l’expérience personnelle du pétitionnaire ;
+6. relater de fausses informations ou contenir des informations ne pouvant être vérifiées ;
+7. faire usage d’un langage provocateur, vexatoire ou inapproprié ;
+8. Constitution
+9. poursuivre des revendications contraires aux droits de l’Homme, contraires au principe de non-discrimination ou incitant à la haine ;
+10. être formulée de façon incompréhensible ou excessivement lacunaire ;
+11. comporter un intitulé qui ne renvoie pas correctement ou pas suffisamment à la revendication exprimée dans la pétition ;
+12. être diffamatoire ou viser de manière spécifique une personne donnée ;
+13. s’immiscer dans une affaire judiciaire nationale en cours ;
+14. être similaire, quant à son fond, à une autre pétition publique publiée au cours des douze derniers mois ou dont le délai de signature est arrivé à échéance au cours des douze derniers mois ;
+15. être similaire, quant à son fond, à une autre pétition publique dont le débat public a eu lieu au cours des douze derniers mois.
+
+La Commission des Pétitions peut, sous réserve de l’accord du pétitionnaire, apporter des adaptions d’ordre rédactionnel à des pétitions afin de retirer une forme personnelle ou de préciser des abréviations.
+
+**(4)** La Commission des Pétitions est juge de la recevabilité de la demande de pétition publique. Le pétitionnaire est informé de la décision de la Commission des Pétitions soit par courrier postal en cas de décision favorable ou défavorable, soit par courrier électronique en cas de demande de reformulation ou de tenue en suspens.
+
+Un recours gracieux devant la Commission des Pétitions est ouvert à tout pétitionnaire souhaitant contester la décision de recevabilité de la pétition dont il est l’auteur. Le recours est à adresser au Président de la Chambre des Députés par courrier postal dans un délai de 30 jours suivant la décision défavorable. Un recours devant les juridictions administratives est impérativement précédé du recours gracieux.
+
+**(5)** Le non-respect d’une ou de plusieurs des conditions énumérées au paragraphe 3 entraîne soit une demande de reformulation, soit une décision défavorable. En cas de demande de reformulation adressée au pétitionnaire par la Commission des Pétitions, ce dernier dispose d’un délai de 30 jours pour faire parvenir une version reformulée de sa demande de pétition publique à la Commission des Pétitions. Passé ce délai, la demande de pétition publique est clôturée.
+
+**(6)** Une demande de pétition publique peut être tenue en suspens par la Commission des Pétitions lorsque celle-ci requiert davantage d’informations, soit de la part du pétitionnaire, soit lorsqu’une recherche plus approfondie sur le sujet est nécessaire pour juger de la recevabilité de la demande de pétition publique. L’analyse de la recevabilité des demandes de pétition publique tenues en suspens est renvoyée à la prochaine réunion de la Commission, sous réserve que celle-ci dispose entretemps des informations complémentaires requises.
+
+**(7)** Lorsqu’une demande de pétition publique est irrecevable en vertu de l’article 165*ter*, paragraphe (3), point 7°, la Commission des Pétitions peut décider de la transférer à l’entité publique compétente. Le transfert d’une demande de pétition publique à un organisme privé ne peut se faire qu’avec l’accord exprès du pétitionnaire.
+
+**(8)** Dans le cadre du traitement de la demande de pétition publique, la Commission des Pétitions peut envoyer la pétition publique à la commission dont le domaine de compétence, conformément à l’article 20, paragraphe 1er, englobe l’objet de la pétition, ou demander un avis à une autre commission, conformément à l’article 29, paragraphe 3.
+
+**(9)** Préalablement à la publication de la pétition telle que prévue à l’article 165*quater*, paragraphe 1er, tout pétitionnaire peut demander le retrait de sa demande de pétition publique.
+
+Postérieurement à la publication de la pétition telle que prévue à l’article 165*quater*, paragraphe 1er, le pétitionnaire souhaitant retirer sa pétition publique adresse une demande motivée en ce sens par courrier postal au Président de la Chambre des Députés. La Commission des Pétitions est juge de la demande de retrait.
+
+La Commission des Pétitions peut exceptionnellement procéder au retrait de la pétition dans l’intérêt du public.
+
+En cas d’urgence, le président de la Commission des Pétitions peut procéder provisoirement au retrait de la pétition dans l’intérêt du pétitionnaire ou du public. Cette décision est à confirmer dans la réunion de la Commission des Pétitions qui suit.
+
+En cas de retrait dans l’intérêt du public, les modalités de recours prévues à l’article 165*ter* (4) sont d’application.
+
+<a id="art_N13519"></a>
+
+### Art. 165quater.
+
+**(1)** La pétition publique ayant reçu une décision favorable est publiée sur le site Internet des pétitions, accompagnée du nom et du prénom de son auteur. Elle est ouverte à signature pendant 42 jours.
+
+À la demande du pétitionnaire, la pétition publique peut être anonymisée un an après sa publication. La demande est adressée par courrier postal au Président de la Chambre des Députés ou par courriel à la Commission des Pétitions.
+
+**(2)** La pétition publique peut être signée sur le site Internet des pétitions ou sur un formulaire papier mis à disposition de toute personne intéressée par la Chambre des Députés. La signature d’une pétition publique sur le site Internet des pétitions est également possible par le biais d’un moyen d’authentification électronique reconnu.
+
+Une même personne ne peut signer une pétition publique donnée qu’une seule fois, toutes formes confondues.
+
+**(3)** Toute personne inscrite dans le Registre national des personnes physiques et âgée de quinze ans au moins peut signer une pétition publique.
+
+Par dérogation à l’alinéa qui précède, les Députés et les Membres du Gouvernement ne peuvent pas signer une pétition publique.
+
+La Chambre des Députés est autorisée à vérifier l’identité des signataires et le respect de la condition d’âge par le biais du Registre national des personnes physiques.
+
+**(4)** Toute signature d’une pétition publique mentionne, sous peine de nullité, les nom et prénom du signataire, son adresse postale ainsi que son numéro d’identification national.
+
+Le prénom, le nom et le lieu de résidence du signataire ne sont pas publiés sur le site Internet à moins que le signataire n’en décide autrement.
+
+Les signatures fournies sur papier ne sont pas publiées sur le site Internet des pétitions.
+
+**(5)** Le nombre de signatures valides, toutes formes confondues, nécessaire à un débat public est fixé à 5 500. Ce seuil est évalué au début de chaque législature.
+
+**(6)** La pétition publique n’ayant pas atteint le nombre de signatures valides prévu au paragraphe 5 ouvre, dans le chef de son auteur, le droit de demander un reclassement de sa pétition publique en pétition ordinaire. Le pétitionnaire dispose de trente jours pour introduire sa demande de reclassement.
+
+**(7)** La pétition publique qui a atteint le nombre de signatures prévu au paragraphe 5 ouvre, dans le chef de son auteur, le droit à un débat public à la Chambre des Députés.
+
+Le pétitionnaire peut renoncer au droit à un débat public, mais ne peut le céder. Lorsque le pétitionnaire renonce au droit à un débat public, l’article 165*ter*, paragraphe 3, point 14°, cesse de s’appliquer à l’égard des pétitions jugées similaires à la pétition qui aurait dû donner lieu à un débat public.
+
+Lorsqu’un pétitionnaire, en l’absence de force majeure, refuse deux propositions de date pour la tenue du débat public, le débat public a lieu en son absence. Lorsqu’un pétitionnaire, en l’absence de force majeure, est absent lors de la date convenue pour le débat public, le débat public a lieu en son absence.
+
+<a id="art_N135E7"></a>
 
 ### Art. 166.
 
-**(1)** Toute personne inscrite dans le registre national des personnes physiques et âgée de 15 ans au moins peut introduire une demande de pétition publique.
+**(1)** Un débat public est organisé en présence du pétitionnaire, de ses accompagnateurs éventuels, du Président de la Chambre des Députés ou de son remplaçant, du président de la Commission des Pétitions ou de son remplaçant, des membres de la Commission des Pétitions et des commissions parlementaires concernées par la thématique du débat en vertu de l’article 20, paragraphe 1er, ainsi que du membre du Gouvernement ayant la thématique concernée par la pétition dans ses attributions.
 
-**(2)** Les demandes de pétition publique sont introduites par le formulaire disponible sur le site Internet de la Chambre.
+Exceptionnellement, la Commission des Pétitions peut décider que plusieurs membres du Gouvernement participent à un même débat public.
 
-**(3)** La recevabilité de la pétition publique est fonction de l’intérêt général de son objet. À la demande de la Commission des Pétitions, le pétitionnaire est tenu de préciser son argumentaire relatif à l’objet de la pétition publique dans le délai d’un mois. À défaut de réponse dans ce délai, la Commission émet un avis défavorable au sujet de la recevabilité de la demande de pétition publique.
+Les débats publics sont présidés par le président de la Commission des Pétitions ou son remplaçant.
 
-Une pétition publique introduite sur le site Internet de la Chambre ne peut être présentée à nouveau au cours de l’année qui suit son introduction conformément au paragraphe 2.
+Le débat public a lieu dans les quatre mois suivant l’échéance de la période de signatures. Le délai précité est suspendu pendant la durée des vacances scolaires d’été ainsi que pendant les trois mois précédant et suivant les élections législatives.
 
-La Conférence des Présidents est juge de la recevabilité de la pétition publique, sur avis de la Commission des Pétitions.
+**(2)** Le débat public est accessible aux membres du public à condition de présenter une pièce d’identité valable et dans la limite des places disponibles au niveau des tribunes du public. La presse accréditée est autorisée à assister au débat public. Ni les membres du public, ni la presse n’interviennent dans les discussions.
 
-Le pétitionnaire est informé de la décision de la Conférence des Présidents.
+Le débat public est retransmis en direct sur la chaîne télévisée de la Chambre, ainsi que sur le site Internet de la Chambre et le site Internet des pétitions.
 
-La Commission des Pétitions informe la commission compétente conformément à l’article 20(1) de l’existence d’une pétition publique rentrant dans son domaine de compétence.
+**(3)** Les débats publics se déroulent en principe en langue luxembourgeoise.
 
-**(4)** La pétition publique recevable est ouverte à signature sur le site Internet de la Chambre pendant 42 jours.
+À la demande du pétitionnaire, une traduction simultanée en langue française ou en langue allemande peut être autorisée par la Commission des Pétitions.
 
-Toute personne inscrite dans le registre national des personnes physiques et âgée de 15 ans au moins peut signer la pétition publique par le formulaire disponible sur le site Internet de la Chambre.
+**(4)** Le pétitionnaire peut être accompagné de cinq personnes au maximum sous réserve de notification à la Chambre des Députés au moins cinq jours ouvrables avant le débat, à défaut de quoi leur participation est refusée.
 
-Le nom, le prénom et le lieu de résidence du signataire ne sont pas publiés sur le site Internet à moins que le signataire n’en décide autrement.
+La Chambre des Députés ne prend en charge aucun frais de déplacement ou similaire lié à la participation du pétitionnaire ou de ses accompagnateurs au débat public. La participation en personne au débat public du pétitionnaire et de ses accompagnateurs éventuels est obligatoire, aucune participation à distance n’est permise.
 
-**(5)** Parallèlement à la procédure de signature sur le site Internet de la Chambre des Députés prévue au paragraphe 4, une pétition publique peut être signée moyennant un formulaire sur papier mis à disposition par l’Administration parlementaire sur lequel figurent le numéro et l’intitulé de la pétition ainsi que les conditions relatives à la date de réception des formulaires.
+La Chambre des Députés se réserve le droit de refuser l’accès au débat public à toute personne susceptible de présenter un danger pour la sécurité.
 
-Les conditions d’âge et d’inscription dans le registre national des personnes physiques prévues au paragraphe 4, alinéa 2, ainsi que le délai de signature prévu au paragraphe 4, alinéa 1er, s’appliquent à la procédure de signature sur papier prévue au présent paragraphe.
+**(5)** L’auteur de la pétition donnant lieu à un débat public dispose d’un temps de parole de dix minutes pour expliquer et défendre l’objet de sa pétition. Les supports de présentation digitaux ou électroniques sont interdits. S’ensuit un échange de vues entre les membres des commissions parlementaires et les pétitionnaires qui ne peut excéder trente minutes. Chaque membre du gouvernement dispose alors de dix minutes pour prendre position. Enfin, les pétitionnaires disposent d’une prise de parole commune finale de cinq minutes.
 
-Les signatures fournies sur papier ne sont pas publiées sur le site Internet de la Chambre des Députés.
+Les informations sur le déroulement du débat figurent sur la convocation envoyée aux participants en amont du débat public.
 
-**(6)** Une pétition publique ne peut être signée plus d’une fois par une même personne.
-
-**(7)** La Chambre est autorisée à vérifier l’identité du pétitionnaire et des signataires et le respect de la condition d’âge par le biais du registre national des personnes physiques.
-
-**(8)** Si une pétition publique a recueilli au moins 4.500 signatures après 42 jours, une réunion jointe de la Commission des Pétitions et de la ou des commissions parlementaires compétentes est organisée, en présence du ou des Ministres concernés par l’objet de la pétition. Un maximum de six pétitionnaires peut participer à cette réunion. La réunion est transmise en direct par la chaîne télévisée de la Chambre. La presse accréditée et le public sont autorisés à assister à la réunion sans toutefois pouvoir intervenir dans les discussions.
-
-**(9)** Si une pétition publique n’a pas recueilli au moins 4.500 signatures après 42 jours, elle est instruite, sous réserve de l’accord du pétitionnaire dans le délai d’un mois, par la Commission des Pétitions en tant que pétition ordinaire conformément à l’article 165.
-
-**(10)** La Commission des Pétitions fait parvenir une réponse au pétitionnaire.
-
-**(11)** Dans le cadre de l’élaboration de cette réponse, la Commission des Pétitions prend toutes les mesures utiles. Les modalités prévues à l’article 165 (8) et (9) sont applicables.
+**(6)** Le débat public est suivi d’une partie non publique en vue de tirer les conclusions relatives à la pétition publique débattue. Les conclusions sont communiquées publiquement par le président de la Commission des Pétitions ou son remplaçant, selon les modalités de l’article 166, paragraphe 1er, à l’issue de la partie non publique. La communication des conclusions clôt le débat.
 
 #### Chapitre 12 — Des rapports de la Chambre avec le Grand-Duc, la Cour des Comptes et le Conseil d’État
 
-<a id="art_N134E5"></a>
+<a id="art_N136AF"></a>
 
 ### Art. 167.
 
 Les rapports de la Chambre avec le Grand-Duc et la Cour des Comptes ont lieu par l’intermédiaire du Président de la Chambre.
 
-<a id="art_N134F5"></a>
+<a id="art_N136BF"></a>
 
 ### Art. 168.
 
@@ -2379,7 +2465,7 @@ Les rapports de la Chambre avec le Conseil d’État ont lieu par l’intermédi
 
 #### Chapitre 13 — Du contrôle et de l’apurement des comptes de la Cour des Comptes, de l’Ombudman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher
 
-<a id="art_N13513"></a>
+<a id="art_N136DD"></a>
 
 ### Art. 169.
 
@@ -2391,7 +2477,7 @@ L’apurement des comptes de la Cour, de l’Ombudsman, du Centre pour l’égal
 
 #### Chapitre 14 — De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre
 
-<a id="art_N13543"></a>
+<a id="art_N1370D"></a>
 
 ### Art. 170.
 
@@ -2413,7 +2499,7 @@ Durant une période transitoire dont la durée est fixée par le Bureau, la Cham
 
 En cas de départ à la retraite du Secrétaire général, ce dernier peut prendre son congé restant suite à la période transitoire, tout en gardant le titre de Secrétaire général et en restant classé au grade prévu à l’article 12. 1. b) 2° du régime des traitements des fonctionnaires de la Chambre des Députés. Le Secrétaire général nouvellement élu exerce la fonction de Secrétaire général et est classé au même grade.
 
-<a id="art_N135CC"></a>
+<a id="art_N13796"></a>
 
 ### Art. 171.
 
@@ -2425,7 +2511,7 @@ En cas de départ à la retraite du Secrétaire général, ce dernier peut prend
 
 **(4)** En cas d’absence du Secrétaire général, celui-ci est remplacé par un des Secrétaires généraux adjoints désigné par lui.
 
-<a id="art_N13613"></a>
+<a id="art_N137DD"></a>
 
 ### Art. 172.
 
@@ -2439,7 +2525,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 15 — Du compte rendu
 
-<a id="art_N13666"></a>
+<a id="art_N13830"></a>
 
 ### Art. 173.
 
@@ -2449,7 +2535,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 16 — De la retransmission des séances publiques
 
-<a id="art_N1369E"></a>
+<a id="art_N13868"></a>
 
 ### Art. 174.
 
@@ -2457,13 +2543,13 @@ Les séances publiques de la Chambre des Députés peuvent être retransmises in
 
 #### Chapitre 17 — De la comptabilité
 
-<a id="art_N136BC"></a>
+<a id="art_N13886"></a>
 
 ### Art. 175.
 
 La gestion des finances de la Chambre est effectuée par l’administration parlementaire sous la direction du secrétaire général et la surveillance et la responsabilité du Bureau.
 
-<a id="art_N136CC"></a>
+<a id="art_N13896"></a>
 
 ### Art. 176.
 
@@ -2479,13 +2565,13 @@ La gestion des finances de la Chambre est effectuée par l’administration parl
 
 #### Chapitre 18 — Des devoirs des députés
 
-<a id="art_N13731"></a>
+<a id="art_N138FB"></a>
 
 ### Art. 177.
 
 Les députés exercent leur mandat de façon indépendante. Ils ne peuvent être liés par des instructions ni recevoir de mandat impératif.
 
-<a id="art_N13741"></a>
+<a id="art_N1390B"></a>
 
 ### Art. 178.
 
@@ -2495,7 +2581,7 @@ Les députés respectent les dispositions du Chapitre 18*bis* relatif au registr
 
 #### Chapitre 18*bis* — Le Registre de transparence
 
-<a id="art_N13771"></a>
+<a id="art_N1393B"></a>
 
 ### Art. 178bis.
 
@@ -2544,7 +2630,7 @@ Les informations relatives au nom, à la forme juridique et au nom du tiers repr
 
 #### Chapitre 19 — Des affaires européennes
 
-<a id="art_N13857"></a>
+<a id="art_N13A21"></a>
 
 ### Art. 179.
 
@@ -2574,7 +2660,7 @@ Au cas où aucune séance publique n’est convoquée en temps utile pour respec
 
 #### Chapitre 20 — De la police de la Chambre et des tribunes
 
-<a id="art_N13909"></a>
+<a id="art_N13AD3"></a>
 
 ### Art. 180.
 
@@ -2602,13 +2688,13 @@ Tous signes d’approbation ou d’improbation sont interdits.
 
 #### Chapitre 21 — De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre
 
-<a id="art_N139BC"></a>
+<a id="art_N13B86"></a>
 
 ### Art. 181.
 
 Il est constitué pour chaque demande d’arrestation d’un membre de la Chambre une commission spéciale, conformément aux dispositions du chapitre 5, titre I, du Règlement de la Chambre.
 
-<a id="art_N139CC"></a>
+<a id="art_N13B96"></a>
 
 ### Art. 182.
 
@@ -2616,31 +2702,31 @@ Les règles applicables au fonctionnement de la commission sont celles prévues 
 
 Le membre de la commission ne peut toutefois pas se faire remplacer.
 
-<a id="art_N139E5"></a>
+<a id="art_N13BAF"></a>
 
 ### Art. 183.
 
 La commission informe le membre intéressé et l’entend en ses explications. Il peut se faire assister ou représenter par un de ses collègues.
 
-<a id="art_N139F5"></a>
+<a id="art_N13BBF"></a>
 
 ### Art. 184.
 
 La commission fait rapport à la Chambre sous forme d’une proposition de résolution. Le rapport sera examiné par la Chambre en séance non publique.
 
-<a id="art_N13A05"></a>
+<a id="art_N13BCF"></a>
 
 ### Art. 185.
 
 Le vote se fera par bulletins secrets. Chaque député participant au vote peut représenter un collègue absent, moyennant procuration écrite.
 
-<a id="art_N13A15"></a>
+<a id="art_N13BDF"></a>
 
 ### Art. 186.
 
 La décision d’accord ou de refus d’arrestation d’un député prise par la Chambre sera annoncée à la prochaine séance publique.
 
-<a id="art_N13A25"></a>
+<a id="art_N13BEF"></a>
 
 ### Art. 187.
 
@@ -2648,25 +2734,25 @@ En cas de rejet d’une demande d’arrestation d’un membre de la Chambre, auc
 
 #### Chapitre 22 — De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution
 
-<a id="art_N13A43"></a>
+<a id="art_N13C0D"></a>
 
 ### Art. 188.
 
 Un projet ou une proposition de révision de la Constitution, adoptés en première lecture par la Chambre des Députés, sont soumis à un référendum qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite par plus d’un quart des membres de la Chambre, selon les dispositions qui suivent.
 
-<a id="art_N13A58"></a>
+<a id="art_N13C22"></a>
 
 ### Art. 189.
 
 Chaque député a le droit de faire une demande d’organisation d’un référendum tel que prévu à l’article 131, alinéa 3 de la Constitution.
 
-<a id="art_N13A6D"></a>
+<a id="art_N13C37"></a>
 
 ### Art. 190.
 
 Le député initiateur qui veut faire une telle demande d’organiser un référendum doit la signer et la déposer sur le bureau de la Chambre.
 
-<a id="art_N13A7D"></a>
+<a id="art_N13C47"></a>
 
 ### Art. 191.
 
@@ -2677,19 +2763,19 @@ Le député initiateur qui veut faire une telle demande d’organiser un référ
 1. l’intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des Députés en première lecture ;
 2. les signatures manuscrites des députés préqualifiés.
 
-<a id="art_N13AAF"></a>
+<a id="art_N13C79"></a>
 
 ### Art. 192.
 
 La Conférence des Présidents décide dans la huitaine de la saisine si ladite demande satisfait aux exigences fixées par le présent règlement.
 
-<a id="art_N13ABF"></a>
+<a id="art_N13C89"></a>
 
 ### Art. 193.
 
 La demande d’organiser un référendum, dont la recevabilité et la régularité ont été vérifiées et constatées par la Conférence des Présidents, est transmise au Gouvernement, qui doit organiser un référendum endéans un délai de six mois, conformément à l’article 20 de la loi du 4 février 2005 relative au référendum au niveau national.
 
-<a id="art_N13AD5"></a>
+<a id="art_N13C9F"></a>
 
 ### Art. 194.
 
@@ -2697,31 +2783,31 @@ L’organisation de ce référendum se fait conformément aux dispositions de la
 
 #### Chapitre 23 — L’octroi du titre honorifique aux anciens députés
 
-<a id="art_N13AF9"></a>
+<a id="art_N13CC3"></a>
 
 ### Art. 195.
 
 Le titre de député honoraire peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins quatre ans de mandat parlementaire.
 
-<a id="art_N13B09"></a>
+<a id="art_N13CD3"></a>
 
 ### Art. 196.
 
 Le titre de Président d’honneur de la Chambre des Députés peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins une année de présidence.
 
-<a id="art_N13B19"></a>
+<a id="art_N13CE3"></a>
 
 ### Art. 197.
 
 Les titres sont conférés par la Chambre siégeant en séance plénière, sur proposition du Bureau.
 
-<a id="art_N13B29"></a>
+<a id="art_N13CF3"></a>
 
 ### Art. 198.
 
 Une carte d’identité, analogue à celle du député en exercice, portant la mention « Président d’honneur » ou « député honoraire », est délivrée au Président d’honneur et au député honoraire.
 
-<a id="art_N13B39"></a>
+<a id="art_N13D03"></a>
 
 ### Art. 199.
 
@@ -2729,7 +2815,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 #### Chapitre 24 — De la vérification des pouvoirs relative au Parlement européen
 
-<a id="art_N13B57"></a>
+<a id="art_N13D21"></a>
 
 ### Art. 200.
 
@@ -2742,7 +2828,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 **(2)** Les quatre formalités exigées au paragraphe qui précède doivent être accomplies quatre jours au plus tard avant la réunion en séance publique de la Chambre au cours de laquelle les pouvoirs des candidats élus aux élections européennes sont vérifiés. Toutefois, lorsque ces formalités ne peuvent être accomplies dans le délai prévu en raison de circonstances indépendantes de la volonté des candidats élus, elles doivent être satisfaites dans les meilleurs délais et au plus tard un jour avant la réunion en séance publique au cours de laquelle leurs pouvoirs sont vérifiés.
 
-<a id="art_N13BAC"></a>
+<a id="art_N13D76"></a>
 
 ### Art. 201.
 
@@ -2766,7 +2852,7 @@ Après le vote par scrutin secret, il est procédé en commission à un vote par
 
 Lorsque la Chambre décide d’examiner séparément la validité des pouvoirs d’un candidat élu, les dispositions des alinéas 2 et 3 de l’article 201 (4), qui déterminent les modes de scrutin et l’effet des votes séparés, sont appliqués par analogie. Le vote par procuration n’est pas permis à l’occasion du vote par scrutin secret en séance.
 
-<a id="art_N13C3A"></a>
+<a id="art_N13E04"></a>
 
 ### Art. 202.
 
@@ -2790,7 +2876,7 @@ Dans le cas où la Chambre décide que le membre du Parlement européen concern�
 
 Dans le cas où la Chambre décide que des membres du Parlement européen sont frappés par les incompatibilités liées à la parenté ou à l’alliance, l’un des membres du Parlement européen concernés est appelé à renoncer volontairement à son mandat. Faute d’un renoncement volontaire, il est procédé en séance publique à un tirage au sort, et le membre du Parlement européen dont le nom est tiré au sort doit cesser son mandat. Le Président de la Chambre informe le Président du Parlement européen de ce que le membre du Parlement européen, qui a renoncé volontairement à son mandat ou qui, le cas échéant, a été tiré au sort, est déchu de son mandat.
 
-<a id="art_N13CCE"></a>
+<a id="art_N13E98"></a>
 
 ### Art. 203.
 
@@ -2804,7 +2890,7 @@ En cas de doute ou de contestation sur une candidature du suppléant aux électi
 
 **(4)** Les conclusions adoptées par la Chambre relativement à l’identité du suppléant appelé à occuper le siège vacant au Parlement européen sont transmises par le Président de la Chambre au Président du Parlement européen.
 
-<a id="art_N13D21"></a>
+<a id="art_N13EEB"></a>
 
 ### Art. 203bis.
 
@@ -2812,7 +2898,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 25 — Des changements au Règlement
 
-<a id="art_N13D42"></a>
+<a id="art_N13F0C"></a>
 
 ### Art. 204.
 
@@ -2820,7 +2906,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 **(2)** La proposition est transmise à la Conférence des Présidents, qui en saisit la Commission du Règlement.
 
-<a id="art_N13D69"></a>
+<a id="art_N13F33"></a>
 
 ### Art. 205.
 
@@ -2836,7 +2922,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 26 — Disposition transitoire
 
-<a id="art_N13DCE"></a>
+<a id="art_N13F98"></a>
 
 ### Art. 206.
 
@@ -2844,7 +2930,7 @@ Les modifications au présent règlement entrent en vigueur la séance publique 
 
 #### Chapitre 27 — Disposition finale
 
-<a id="art_N13DEC"></a>
+<a id="art_N13FB6"></a>
 
 ### Art. 207.
 
@@ -2860,7 +2946,7 @@ Le présent Règlement est publié au Journal officiel.
 
 ### **Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.**
 
-<a id="art_N1B12B"></a>
+<a id="art_N1B2F5"></a>
 
 ### Art. 2.
 
@@ -2868,13 +2954,13 @@ Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parle
 
 Il est fondé sur les principes d’un État de droit et sur le respect des droits de l’Homme.
 
-<a id="art_N1B16E"></a>
+<a id="art_N1B338"></a>
 
 ### Art. 49.
 
 Le Grand-Duc promulgue les lois dans les trois mois de leur adoption par la Chambre des Députés.
 
-<a id="art_N1B1A8"></a>
+<a id="art_N1B372"></a>
 
 ### Art. 56.
 
@@ -2888,7 +2974,7 @@ Lorsque des circonstances exceptionnelles le commandent, la Chambre des Député
 
 **(4)** L’abdication du Grand-Duc requiert la forme d’un acte écrit qui est irrévocable.
 
-<a id="art_N1B222"></a>
+<a id="art_N1B3EC"></a>
 
 ### Art. 62.
 
@@ -2896,7 +2982,7 @@ La Chambre des Députés représente le pays. Elle exerce le pouvoir législatif
 
 Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que l’intérêt général.
 
-<a id="art_N1B265"></a>
+<a id="art_N1B42F"></a>
 
 ### Art. 63.
 
@@ -2917,7 +3003,7 @@ Le vote est obligatoire et secret. Ses modalités sont déterminées par la loi.
 
 Une loi adoptée à la majorité qualifiée fixe le nombre des députés à élire dans chacune des circonscriptions.
 
-<a id="art_N1B2F9"></a>
+<a id="art_N1B4C3"></a>
 
 ### Art. 64.
 
@@ -2927,7 +3013,7 @@ Une loi adoptée à la majorité qualifiée fixe le nombre des députés à éli
 
 **(3)** Les juridictions peuvent, dans les cas prévus par la loi, prononcer l’interdiction du droit de vote et d’éligibilité.
 
-<a id="art_N1B35A"></a>
+<a id="art_N1B524"></a>
 
 ### Art. 65.
 
@@ -2935,7 +3021,7 @@ Le mandat de député est incompatible avec la fonction de membre du Gouvernemen
 
 Cette même incompatibilité s’applique aux emplois et fonctions publics à déterminer par une loi adoptée à la majorité qualifiée. Elle peut être étendue à d’autres mandats politiques à déterminer par une loi adoptée à la majorité qualifiée.
 
-<a id="art_N1B39D"></a>
+<a id="art_N1B567"></a>
 
 ### Art. 66.
 
@@ -2949,7 +3035,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(3)** Les personnes qui se trouvent dans un cas d’incompatibilité ont le droit d’opter entre le mandat de député et leur emploi ou activité.
 
-<a id="art_N1B410"></a>
+<a id="art_N1B5DA"></a>
 
 ### Art. 67.
 
@@ -2963,7 +3049,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(5)** La réunion en séance publique de la Chambre des Députés issue des élections au sens du paragraphe 1er fait cesser les fonctions de la Chambre des Députés issue des élections précédentes.
 
-<a id="art_N1B494"></a>
+<a id="art_N1B65E"></a>
 
 ### Art. 68.
 
@@ -2971,19 +3057,19 @@ La Chambre des Députés détermine par son Règlement le mode suivant lequel el
 
 Le Règlement de la Chambre des Députés détermine les mesures d’exécution des lois qui concernent son organisation.
 
-<a id="art_N1B4E1"></a>
+<a id="art_N1B6AB"></a>
 
 ### Art. 69.
 
 La Chambre des Députés nomme son président et ses vice-présidents et compose son bureau.
 
-<a id="art_N1B51B"></a>
+<a id="art_N1B6E5"></a>
 
 ### Art. 70.
 
 Les séances de la Chambre des Députés sont publiques, sauf les exceptions à déterminer par son Règlement.
 
-<a id="art_N1B55A"></a>
+<a id="art_N1B724"></a>
 
 ### Art. 71.
 
@@ -2993,13 +3079,13 @@ Toute décision, toute résolution, toute motion est prise à la majorité des s
 
 Les décisions et les résolutions dont l’adoption requiert la majorité qualifiée en vertu de la Constitution doivent réunir au moins les deux tiers des suffrages des députés, le vote par procuration n’étant pas admis.
 
-<a id="art_N1B5A6"></a>
+<a id="art_N1B770"></a>
 
 ### Art. 72.
 
 Le Règlement de la Chambre des Députés détermine les règles de majorité pour la désignation de personnes à des mandats ou fonctions à laquelle procède la Chambre des Députés.
 
-<a id="art_N1B5E5"></a>
+<a id="art_N1B7AF"></a>
 
 ### Art. 73.
 
@@ -3011,13 +3097,13 @@ Les nouvelles élections ont lieu au plus tard dans les trois mois.
 
 Le Grand-Duc ne peut pas fixer des élections anticipées pendant l’état de crise.
 
-<a id="art_N1B63A"></a>
+<a id="art_N1B804"></a>
 
 ### Art. 74.
 
 Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent être entendus quand ils le demandent.
 
-<a id="art_N1B674"></a>
+<a id="art_N1B83E"></a>
 
 ### Art. 75.
 
@@ -3030,19 +3116,19 @@ Aux fins d’exercer les missions prévues à l’article 62, la Chambre des Dé
 
 L’exercice de ces prérogatives est organisé par le Règlement de la Chambre des Députés.
 
-<a id="art_N1B6CD"></a>
+<a id="art_N1B897"></a>
 
 ### Art. 76.
 
 Le Gouvernement dépose à la Chambre des Députés des projets de loi.
 
-<a id="art_N1B707"></a>
+<a id="art_N1B8D1"></a>
 
 ### Art. 77.
 
 Chaque député a le droit de soumettre des propositions de loi à la Chambre des Députés.
 
-<a id="art_N1B741"></a>
+<a id="art_N1B90B"></a>
 
 ### Art. 78.
 
@@ -3056,7 +3142,7 @@ Chaque député a le droit de soumettre des propositions de loi à la Chambre de
 
 **(4)** Toutes les lois sont soumises à un second vote, à moins que la Chambre des Députés, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. Il y aura un intervalle d’au moins trois mois entre les deux votes.
 
-<a id="art_N1B7BB"></a>
+<a id="art_N1B985"></a>
 
 ### Art. 79.
 
@@ -3064,13 +3150,13 @@ La Chambre des Députés se prononce en séance publique sur les propositions mo
 
 La loi règle l’exercice de ce droit d’initiative législative.
 
-<a id="art_N1B7FE"></a>
+<a id="art_N1B9C8"></a>
 
 ### Art. 80.
 
 La Chambre des Députés peut décider d’avoir recours au référendum dans les cas, sous les conditions et avec les effets à déterminer par la loi.
 
-<a id="art_N1B838"></a>
+<a id="art_N1BA02"></a>
 
 ### Art. 81.
 
@@ -3078,13 +3164,13 @@ La Chambre des Députés a le droit d’enquête. La loi règle l’exercice de 
 
 Une commission d’enquête doit être instituée si un tiers au moins des députés le demande.
 
-<a id="art_N1B87B"></a>
+<a id="art_N1BA45"></a>
 
 ### Art. 82.
 
 La Chambre des Députés reçoit les pétitions qui lui sont adressées dans la forme prescrite par son Règlement.
 
-<a id="art_N1B8BA"></a>
+<a id="art_N1BA84"></a>
 
 ### Art. 83.
 
@@ -3092,13 +3178,13 @@ L’Ombudsman est nommé par le Grand-Duc sur proposition de la Chambre des Dép
 
 Les attributions et les règles de fonctionnement de l’Ombudsman et les relations avec la Chambre des Députés sont déterminées par la loi.
 
-<a id="art_N1B8FD"></a>
+<a id="art_N1BAC7"></a>
 
 ### Art. 84.
 
 Aucune action, ni civile ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
 
-<a id="art_N1B937"></a>
+<a id="art_N1BB01"></a>
 
 ### Art. 85.
 
@@ -3108,7 +3194,7 @@ Cependant, l’arrestation d’un député est, sauf le cas de flagrant délit, 
 
 Une autorisation de la Chambre des Députés n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
 
-<a id="art_N1B983"></a>
+<a id="art_N1BB4D"></a>
 
 ### Art. 86.
 
