@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-chambre_deputes:2026-01-01
+lex_id: lu-legilux:recueil-chambre_deputes:2026-01-21
 title: Chambre des Députés
-valid_from: 2026-01-01
-valid_to: 2026-01-20
-source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20260101/fr
-source_sha256: c2ae5e26e84b336a8d90d55dcffa66303f9877827d400b61ff5625d8d394c2e0
+valid_from: 2026-01-21
+valid_to: open
+source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20260121/fr
+source_sha256: c3c5cf969adf407902f6014735c3f416aa762b24f203820c878a4761bccfb014
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -136,7 +136,7 @@ La mission de la commission d’enquête prend fin au moment où la Chambre des 
 
 La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.
 
-## **Version consolidée applicable au 01/01/2026 : Règlement de la Chambre des Députés.**
+## **Version consolidée applicable au 21/01/2026 : Règlement de la Chambre des Députés.**
 
 ### TITRE I — De l’organisation de la Chambre et de son fonctionnement
 
@@ -2477,11 +2477,9 @@ Le contrôle des comptes de la Cour des Comptes, de l’Ombudsman, du Centre pou
 
 La Chambre, sur le rapport de cette commission, se prononce sur l’apurement des comptes. La décision est communiquée à la Cour des Comptes, à l’Ombudsman, au Centre pour l’égalité de traitement et à l’Ombudsman fir Kanner a Jugendlecher pour être enregistrée.
 
-L’apurement des comptes de la Cour, de l’Ombudsman, du Centre pour l’égalité de traitement et de l’Ombudsman fir Kanner a Jugendlecher se fait parallèlement à celui des comptes de la Chambre des Députés.
-
 #### Chapitre 14 — De l’administration parlementaire, du Secrétaire général, des fonctionnaires et des salariés de la Chambre
 
-<a id="art_N137AA"></a>
+<a id="art_N137B9"></a>
 
 ### Art. 170.
 
@@ -2503,7 +2501,7 @@ Durant une période transitoire dont la durée est fixée par le Bureau, la Cham
 
 En cas de départ à la retraite du Secrétaire général, ce dernier peut prendre son congé restant suite à la période transitoire, tout en gardant le titre de Secrétaire général et en restant classé au grade prévu à l’article 12. 1. b) 2° du régime des traitements des fonctionnaires de la Chambre des Députés. Le Secrétaire général nouvellement élu exerce la fonction de Secrétaire général et est classé au même grade.
 
-<a id="art_N13833"></a>
+<a id="art_N13842"></a>
 
 ### Art. 171.
 
@@ -2515,7 +2513,7 @@ En cas de départ à la retraite du Secrétaire général, ce dernier peut prend
 
 **(4)** En cas d’absence du Secrétaire général, celui-ci est remplacé par un des Secrétaires généraux adjoints désigné par lui.
 
-<a id="art_N1387A"></a>
+<a id="art_N13889"></a>
 
 ### Art. 172.
 
@@ -2529,7 +2527,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 15 — Du compte rendu
 
-<a id="art_N138CD"></a>
+<a id="art_N138DC"></a>
 
 ### Art. 173.
 
@@ -2539,7 +2537,7 @@ Les règlements pris par le Bureau dans le cadre du statut des fonctionnaires de
 
 #### Chapitre 16 — De la retransmission des séances publiques
 
-<a id="art_N13905"></a>
+<a id="art_N13914"></a>
 
 ### Art. 174.
 
@@ -2547,13 +2545,13 @@ Les séances publiques de la Chambre des Députés peuvent être retransmises in
 
 #### Chapitre 17 — De la comptabilité
 
-<a id="art_N13923"></a>
+<a id="art_N13932"></a>
 
 ### Art. 175.
 
 La gestion des finances de la Chambre est effectuée par l’administration parlementaire sous la direction du secrétaire général et la surveillance et la responsabilité du Bureau.
 
-<a id="art_N13933"></a>
+<a id="art_N13942"></a>
 
 ### Art. 176.
 
@@ -2569,13 +2567,13 @@ La gestion des finances de la Chambre est effectuée par l’administration parl
 
 #### Chapitre 18 — Des devoirs des députés
 
-<a id="art_N13998"></a>
+<a id="art_N139A7"></a>
 
 ### Art. 177.
 
 Les députés exercent leur mandat de façon indépendante. Ils ne peuvent être liés par des instructions ni recevoir de mandat impératif.
 
-<a id="art_N139A8"></a>
+<a id="art_N139B7"></a>
 
 ### Art. 178.
 
@@ -2585,7 +2583,7 @@ Les députés respectent les dispositions du Chapitre 18*bis* relatif au registr
 
 #### Chapitre 18*bis* — Le Registre de transparence
 
-<a id="art_N139D8"></a>
+<a id="art_N139E7"></a>
 
 ### Art. 178bis
 
@@ -2677,7 +2675,7 @@ Au-delà de ce terme, les données sont conservées pendant cinq années dans un
 
 #### Chapitre 19 — Des affaires européennes
 
-<a id="art_N13BD4"></a>
+<a id="art_N13BE3"></a>
 
 ### Art. 179.
 
@@ -2707,7 +2705,7 @@ Au cas où aucune séance publique n’est convoquée en temps utile pour respec
 
 #### Chapitre 20 — De la police de la Chambre et des tribunes
 
-<a id="art_N13C86"></a>
+<a id="art_N13C95"></a>
 
 ### Art. 180.
 
@@ -2735,13 +2733,13 @@ Tous signes d’approbation ou d’improbation sont interdits.
 
 #### Chapitre 21 — De la procédure d’examen des demandes d’arrestation d’un membre de la Chambre
 
-<a id="art_N13D39"></a>
+<a id="art_N13D48"></a>
 
 ### Art. 181.
 
 Il est constitué pour chaque demande d’arrestation d’un membre de la Chambre une commission spéciale, conformément aux dispositions du chapitre 5, titre I, du Règlement de la Chambre.
 
-<a id="art_N13D49"></a>
+<a id="art_N13D58"></a>
 
 ### Art. 182.
 
@@ -2749,31 +2747,31 @@ Les règles applicables au fonctionnement de la commission sont celles prévues 
 
 Le membre de la commission ne peut toutefois pas se faire remplacer.
 
-<a id="art_N13D62"></a>
+<a id="art_N13D71"></a>
 
 ### Art. 183.
 
 La commission informe le membre intéressé et l’entend en ses explications. Il peut se faire assister ou représenter par un de ses collègues.
 
-<a id="art_N13D72"></a>
+<a id="art_N13D81"></a>
 
 ### Art. 184.
 
 La commission fait rapport à la Chambre sous forme d’une proposition de résolution. Le rapport sera examiné par la Chambre en séance non publique.
 
-<a id="art_N13D82"></a>
+<a id="art_N13D91"></a>
 
 ### Art. 185.
 
 Le vote se fera par bulletins secrets. Chaque député participant au vote peut représenter un collègue absent, moyennant procuration écrite.
 
-<a id="art_N13D92"></a>
+<a id="art_N13DA1"></a>
 
 ### Art. 186.
 
 La décision d’accord ou de refus d’arrestation d’un député prise par la Chambre sera annoncée à la prochaine séance publique.
 
-<a id="art_N13DA2"></a>
+<a id="art_N13DB1"></a>
 
 ### Art. 187.
 
@@ -2781,25 +2779,25 @@ En cas de rejet d’une demande d’arrestation d’un membre de la Chambre, auc
 
 #### Chapitre 22 — De la procédure en cas de demande par plus d’un quart des membres de la Chambre des Députés d’organiser un référendum selon l’article 131, alinéa 3 de la Constitution
 
-<a id="art_N13DC0"></a>
+<a id="art_N13DCF"></a>
 
 ### Art. 188.
 
 Un projet ou une proposition de révision de la Constitution, adoptés en première lecture par la Chambre des Députés, sont soumis à un référendum qui se substitue au second vote de la Chambre, si dans les deux mois suivant le premier vote demande en est faite par plus d’un quart des membres de la Chambre, selon les dispositions qui suivent.
 
-<a id="art_N13DD5"></a>
+<a id="art_N13DE4"></a>
 
 ### Art. 189.
 
 Chaque député a le droit de faire une demande d’organisation d’un référendum tel que prévu à l’article 131, alinéa 3 de la Constitution.
 
-<a id="art_N13DEA"></a>
+<a id="art_N13DF9"></a>
 
 ### Art. 190.
 
 Le député initiateur qui veut faire une telle demande d’organiser un référendum doit la signer et la déposer sur le bureau de la Chambre.
 
-<a id="art_N13DFA"></a>
+<a id="art_N13E09"></a>
 
 ### Art. 191.
 
@@ -2810,19 +2808,19 @@ Le député initiateur qui veut faire une telle demande d’organiser un référ
 1. l’intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des Députés en première lecture ;
 2. les signatures manuscrites des députés préqualifiés.
 
-<a id="art_N13E2C"></a>
+<a id="art_N13E3B"></a>
 
 ### Art. 192.
 
 La Conférence des Présidents décide dans la huitaine de la saisine si ladite demande satisfait aux exigences fixées par le présent règlement.
 
-<a id="art_N13E3C"></a>
+<a id="art_N13E4B"></a>
 
 ### Art. 193.
 
 La demande d’organiser un référendum, dont la recevabilité et la régularité ont été vérifiées et constatées par la Conférence des Présidents, est transmise au Gouvernement, qui doit organiser un référendum endéans un délai de six mois, conformément à l’article 20 de la loi du 4 février 2005 relative au référendum au niveau national.
 
-<a id="art_N13E52"></a>
+<a id="art_N13E61"></a>
 
 ### Art. 194.
 
@@ -2830,31 +2828,31 @@ L’organisation de ce référendum se fait conformément aux dispositions de la
 
 #### Chapitre 23 — L’octroi du titre honorifique aux anciens députés
 
-<a id="art_N13E76"></a>
+<a id="art_N13E85"></a>
 
 ### Art. 195.
 
 Le titre de député honoraire peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins quatre ans de mandat parlementaire.
 
-<a id="art_N13E86"></a>
+<a id="art_N13E95"></a>
 
 ### Art. 196.
 
 Le titre de Président d’honneur de la Chambre des Députés peut être conféré à l’ancien membre de la Chambre des Députés comptant au moins une année de présidence.
 
-<a id="art_N13E96"></a>
+<a id="art_N13EA5"></a>
 
 ### Art. 197.
 
 Les titres sont conférés par la Chambre siégeant en séance plénière, sur proposition du Bureau.
 
-<a id="art_N13EA6"></a>
+<a id="art_N13EB5"></a>
 
 ### Art. 198.
 
 Une carte d’identité, analogue à celle du député en exercice, portant la mention « Président d’honneur » ou « député honoraire », est délivrée au Président d’honneur et au député honoraire.
 
-<a id="art_N13EB6"></a>
+<a id="art_N13EC5"></a>
 
 ### Art. 199.
 
@@ -2862,7 +2860,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 #### Chapitre 24 — De la vérification des pouvoirs relative au Parlement européen
 
-<a id="art_N13ED4"></a>
+<a id="art_N13EE3"></a>
 
 ### Art. 200.
 
@@ -2875,7 +2873,7 @@ Des facilités matérielles peuvent être accordées aux Présidents d’honneur
 
 **(2)** Les quatre formalités exigées au paragraphe qui précède doivent être accomplies quatre jours au plus tard avant la réunion en séance publique de la Chambre au cours de laquelle les pouvoirs des candidats élus aux élections européennes sont vérifiés. Toutefois, lorsque ces formalités ne peuvent être accomplies dans le délai prévu en raison de circonstances indépendantes de la volonté des candidats élus, elles doivent être satisfaites dans les meilleurs délais et au plus tard un jour avant la réunion en séance publique au cours de laquelle leurs pouvoirs sont vérifiés.
 
-<a id="art_N13F29"></a>
+<a id="art_N13F38"></a>
 
 ### Art. 201.
 
@@ -2899,7 +2897,7 @@ Après le vote par scrutin secret, il est procédé en commission à un vote par
 
 Lorsque la Chambre décide d’examiner séparément la validité des pouvoirs d’un candidat élu, les dispositions des alinéas 2 et 3 de l’article 201 (4), qui déterminent les modes de scrutin et l’effet des votes séparés, sont appliqués par analogie. Le vote par procuration n’est pas permis à l’occasion du vote par scrutin secret en séance.
 
-<a id="art_N13FB7"></a>
+<a id="art_N13FC6"></a>
 
 ### Art. 202.
 
@@ -2923,7 +2921,7 @@ Dans le cas où la Chambre décide que le membre du Parlement européen concern�
 
 Dans le cas où la Chambre décide que des membres du Parlement européen sont frappés par les incompatibilités liées à la parenté ou à l’alliance, l’un des membres du Parlement européen concernés est appelé à renoncer volontairement à son mandat. Faute d’un renoncement volontaire, il est procédé en séance publique à un tirage au sort, et le membre du Parlement européen dont le nom est tiré au sort doit cesser son mandat. Le Président de la Chambre informe le Président du Parlement européen de ce que le membre du Parlement européen, qui a renoncé volontairement à son mandat ou qui, le cas échéant, a été tiré au sort, est déchu de son mandat.
 
-<a id="art_N1404B"></a>
+<a id="art_N1405A"></a>
 
 ### Art. 203.
 
@@ -2937,7 +2935,7 @@ En cas de doute ou de contestation sur une candidature du suppléant aux électi
 
 **(4)** Les conclusions adoptées par la Chambre relativement à l’identité du suppléant appelé à occuper le siège vacant au Parlement européen sont transmises par le Président de la Chambre au Président du Parlement européen.
 
-<a id="art_N1409E"></a>
+<a id="art_N140AD"></a>
 
 ### Art. 203bis.
 
@@ -2945,7 +2943,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 25 — Des changements au Règlement
 
-<a id="art_N140BF"></a>
+<a id="art_N140CE"></a>
 
 ### Art. 204.
 
@@ -2953,7 +2951,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 **(2)** La proposition est transmise à la Conférence des Présidents, qui en saisit la Commission du Règlement.
 
-<a id="art_N140E6"></a>
+<a id="art_N140F5"></a>
 
 ### Art. 205.
 
@@ -2969,7 +2967,7 @@ Un recours contre les décisions prises par la Chambre en application de l’art
 
 #### Chapitre 26 — Disposition transitoire
 
-<a id="art_N1414B"></a>
+<a id="art_N1415A"></a>
 
 ### Art. 206.
 
@@ -2977,7 +2975,7 @@ Les modifications au présent règlement entrent en vigueur la séance publique 
 
 #### Chapitre 27 — Disposition finale
 
-<a id="art_N14169"></a>
+<a id="art_N14178"></a>
 
 ### Art. 207.
 
@@ -2993,7 +2991,7 @@ Le présent Règlement est publié au Journal officiel.
 
 ### **Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.**
 
-<a id="art_N1B9C4"></a>
+<a id="art_N1B9D3"></a>
 
 ### Art. 2.
 
@@ -3001,13 +2999,13 @@ Le Grand-Duché de Luxembourg est placé sous le régime de la démocratie parle
 
 Il est fondé sur les principes d’un État de droit et sur le respect des droits de l’Homme.
 
-<a id="art_N1BA07"></a>
+<a id="art_N1BA16"></a>
 
 ### Art. 49.
 
 Le Grand-Duc promulgue les lois dans les trois mois de leur adoption par la Chambre des Députés.
 
-<a id="art_N1BA41"></a>
+<a id="art_N1BA50"></a>
 
 ### Art. 56.
 
@@ -3021,7 +3019,7 @@ Lorsque des circonstances exceptionnelles le commandent, la Chambre des Député
 
 **(4)** L’abdication du Grand-Duc requiert la forme d’un acte écrit qui est irrévocable.
 
-<a id="art_N1BABB"></a>
+<a id="art_N1BACA"></a>
 
 ### Art. 62.
 
@@ -3029,7 +3027,7 @@ La Chambre des Députés représente le pays. Elle exerce le pouvoir législatif
 
 Les députés votent sans en référer à leurs commettants et ne peuvent avoir en vue que l’intérêt général.
 
-<a id="art_N1BAFE"></a>
+<a id="art_N1BB0D"></a>
 
 ### Art. 63.
 
@@ -3050,7 +3048,7 @@ Le vote est obligatoire et secret. Ses modalités sont déterminées par la loi.
 
 Une loi adoptée à la majorité qualifiée fixe le nombre des députés à élire dans chacune des circonscriptions.
 
-<a id="art_N1BB92"></a>
+<a id="art_N1BBA1"></a>
 
 ### Art. 64.
 
@@ -3060,7 +3058,7 @@ Une loi adoptée à la majorité qualifiée fixe le nombre des députés à éli
 
 **(3)** Les juridictions peuvent, dans les cas prévus par la loi, prononcer l’interdiction du droit de vote et d’éligibilité.
 
-<a id="art_N1BBF3"></a>
+<a id="art_N1BC02"></a>
 
 ### Art. 65.
 
@@ -3068,7 +3066,7 @@ Le mandat de député est incompatible avec la fonction de membre du Gouvernemen
 
 Cette même incompatibilité s’applique aux emplois et fonctions publics à déterminer par une loi adoptée à la majorité qualifiée. Elle peut être étendue à d’autres mandats politiques à déterminer par une loi adoptée à la majorité qualifiée.
 
-<a id="art_N1BC36"></a>
+<a id="art_N1BC45"></a>
 
 ### Art. 66.
 
@@ -3082,7 +3080,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(3)** Les personnes qui se trouvent dans un cas d’incompatibilité ont le droit d’opter entre le mandat de député et leur emploi ou activité.
 
-<a id="art_N1BCA9"></a>
+<a id="art_N1BCB8"></a>
 
 ### Art. 67.
 
@@ -3096,7 +3094,7 @@ En cas de concours entre plusieurs ayants droit, la réinscription est faite dan
 
 **(5)** La réunion en séance publique de la Chambre des Députés issue des élections au sens du paragraphe 1er fait cesser les fonctions de la Chambre des Députés issue des élections précédentes.
 
-<a id="art_N1BD2D"></a>
+<a id="art_N1BD3C"></a>
 
 ### Art. 68.
 
@@ -3104,19 +3102,19 @@ La Chambre des Députés détermine par son Règlement le mode suivant lequel el
 
 Le Règlement de la Chambre des Députés détermine les mesures d’exécution des lois qui concernent son organisation.
 
-<a id="art_N1BD7A"></a>
+<a id="art_N1BD89"></a>
 
 ### Art. 69.
 
 La Chambre des Députés nomme son président et ses vice-présidents et compose son bureau.
 
-<a id="art_N1BDB4"></a>
+<a id="art_N1BDC3"></a>
 
 ### Art. 70.
 
 Les séances de la Chambre des Députés sont publiques, sauf les exceptions à déterminer par son Règlement.
 
-<a id="art_N1BDF3"></a>
+<a id="art_N1BE02"></a>
 
 ### Art. 71.
 
@@ -3126,13 +3124,13 @@ Toute décision, toute résolution, toute motion est prise à la majorité des s
 
 Les décisions et les résolutions dont l’adoption requiert la majorité qualifiée en vertu de la Constitution doivent réunir au moins les deux tiers des suffrages des députés, le vote par procuration n’étant pas admis.
 
-<a id="art_N1BE3F"></a>
+<a id="art_N1BE4E"></a>
 
 ### Art. 72.
 
 Le Règlement de la Chambre des Députés détermine les règles de majorité pour la désignation de personnes à des mandats ou fonctions à laquelle procède la Chambre des Députés.
 
-<a id="art_N1BE7E"></a>
+<a id="art_N1BE8D"></a>
 
 ### Art. 73.
 
@@ -3144,13 +3142,13 @@ Les nouvelles élections ont lieu au plus tard dans les trois mois.
 
 Le Grand-Duc ne peut pas fixer des élections anticipées pendant l’état de crise.
 
-<a id="art_N1BED3"></a>
+<a id="art_N1BEE2"></a>
 
 ### Art. 74.
 
 Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent être entendus quand ils le demandent.
 
-<a id="art_N1BF0D"></a>
+<a id="art_N1BF1C"></a>
 
 ### Art. 75.
 
@@ -3163,19 +3161,19 @@ Aux fins d’exercer les missions prévues à l’article 62, la Chambre des Dé
 
 L’exercice de ces prérogatives est organisé par le Règlement de la Chambre des Députés.
 
-<a id="art_N1BF66"></a>
+<a id="art_N1BF75"></a>
 
 ### Art. 76.
 
 Le Gouvernement dépose à la Chambre des Députés des projets de loi.
 
-<a id="art_N1BFA0"></a>
+<a id="art_N1BFAF"></a>
 
 ### Art. 77.
 
 Chaque député a le droit de soumettre des propositions de loi à la Chambre des Députés.
 
-<a id="art_N1BFDA"></a>
+<a id="art_N1BFE9"></a>
 
 ### Art. 78.
 
@@ -3189,7 +3187,7 @@ Chaque député a le droit de soumettre des propositions de loi à la Chambre de
 
 **(4)** Toutes les lois sont soumises à un second vote, à moins que la Chambre des Députés, d’accord avec le Conseil d’État, siégeant en séance publique, n’en décide autrement. Il y aura un intervalle d’au moins trois mois entre les deux votes.
 
-<a id="art_N1C054"></a>
+<a id="art_N1C063"></a>
 
 ### Art. 79.
 
@@ -3197,13 +3195,13 @@ La Chambre des Députés se prononce en séance publique sur les propositions mo
 
 La loi règle l’exercice de ce droit d’initiative législative.
 
-<a id="art_N1C097"></a>
+<a id="art_N1C0A6"></a>
 
 ### Art. 80.
 
 La Chambre des Députés peut décider d’avoir recours au référendum dans les cas, sous les conditions et avec les effets à déterminer par la loi.
 
-<a id="art_N1C0D1"></a>
+<a id="art_N1C0E0"></a>
 
 ### Art. 81.
 
@@ -3211,13 +3209,13 @@ La Chambre des Députés a le droit d’enquête. La loi règle l’exercice de 
 
 Une commission d’enquête doit être instituée si un tiers au moins des députés le demande.
 
-<a id="art_N1C114"></a>
+<a id="art_N1C123"></a>
 
 ### Art. 82.
 
 La Chambre des Députés reçoit les pétitions qui lui sont adressées dans la forme prescrite par son Règlement.
 
-<a id="art_N1C153"></a>
+<a id="art_N1C162"></a>
 
 ### Art. 83.
 
@@ -3225,13 +3223,13 @@ L’Ombudsman est nommé par le Grand-Duc sur proposition de la Chambre des Dép
 
 Les attributions et les règles de fonctionnement de l’Ombudsman et les relations avec la Chambre des Députés sont déterminées par la loi.
 
-<a id="art_N1C196"></a>
+<a id="art_N1C1A5"></a>
 
 ### Art. 84.
 
 Aucune action, ni civile ni pénale, ne peut être dirigée contre un député à l’occasion des opinions et votes émis par lui dans l’exercice de ses fonctions.
 
-<a id="art_N1C1D0"></a>
+<a id="art_N1C1DF"></a>
 
 ### Art. 85.
 
@@ -3241,7 +3239,7 @@ Cependant, l’arrestation d’un député est, sauf le cas de flagrant délit, 
 
 Une autorisation de la Chambre des Députés n’est pas requise pour l’exécution des peines, même celles privatives de liberté, prononcées à l’encontre d’un député.
 
-<a id="art_N1C21C"></a>
+<a id="art_N1C22B"></a>
 
 ### Art. 86.
 
