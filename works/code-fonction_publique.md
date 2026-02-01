@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:code-fonction_publique:2026-01-01
+lex_id: lu-legilux:code-fonction_publique:2026-02-01
 title: Code de la fonction publique
-valid_from: 2026-01-01
-valid_to: 2026-01-31
-source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20260101/fr
-source_sha256: 29bfd29b4b27b921faa1d521b00ec60ab6d876497f53cd9675fa6d1e7bd3ed48
+valid_from: 2026-02-01
+valid_to: 2026-04-30
+source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20260201/fr
+source_sha256: 482f5d845c953ca52876dfd7c8c69028dbdffb8f0b4d8490a64d420bb6cf94b9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -577,7 +577,7 @@ Ces dispositions s’appliquent également au fonctionnaire qui a cessé ses fon
 
 **1.** Le fonctionnaire ne peut s’absenter de son service sans autorisation.
 
-**2.** Celle-ci fait défaut notamment lorsque le fonctionnaire absent refuse de se faire examiner par le médecin de contrôle (...) ou que ce dernier le reconnaît apte au service.
+**2.** Celle-ci fait défaut notamment lorsque le fonctionnaire absent refuse de se faire examiner par le médecin de contrôle ou que ce dernier le reconnaît apte au service.
 
 **3.** Le fonctionnaire qui s’absente sans autorisation ni excuse valable perd de plein droit la partie de son traitement à raison d’un trentième par journée d’absence entière ou entamée, sans préjudice de l’application éventuelle de sanctions disciplinaires.
 
@@ -35269,43 +35269,9 @@ L’Inspection du travail et des mines est chargée de veiller à l’applicatio
 
 ### 4. Frais de route, de séjour et de déménagment
 
-#### Règlement du Gouvernement en conseil du 19 décembre 1972 sur l'autorisation et le contrôle des voyages de service des fonctionnaires et employés de l'Etat.
-
-<a id="art_N6D4E5"></a>
-
-### Art. 1er.
-
-**(1)** Les personnes chargées d'autoriser les voyages de service à l'intérieur du pays sont tenues d'organiser les conditions de ces autorisations de façon à assurer l'établissement d'une documentation permettant un contrôle efficace.
-
-**(2)** L'autorisation des voyages de service à l'étranger est consignée, avant le départ, sur une feuille de route, établie d'après le modèle A annexé au présent règlement.
-
-**(3)** L'autorisation pour plusieurs voyages concernant la même mission et la même destination peut
-
-être consignée sur la même feuille de route, valable pour une période déterminée, mais au maximum pour six mois.
-
-**(4)** La feuille de route est à joindre à la déclaration des frais de route et de séjour, à établir conformément à l'article 5 du règlement grand-ducal du 18 décembre 1972 visé ci-dessus. En cas de validité prolongée elle est à joindre à la déclaration se rapportant au premier voyage autorisé et les déclarations se rapportant aux voyages subséquents, effectués pendant la durée de validité de la feuille de route, doivent s'y référer. A ces fins une copie de la feuille de route prolongée est à conserver au bureau émetteur.
-
-<a id="art_N6D534"></a>
-
-### Art. 2.
-
-Si la feuille de route n'a pas pu être établie avant le départ en raison d'une impossibilité matérielle ou de l'urgence du voyage, elle est établie ultérieurement avec une explication précise à l'appui.
-
-<a id="art_N6D544"></a>
-
-### Art. 3.
-
-Les déclaration des frais de route et de séjour doivent faire l'objet d'un contrôle du point de vue matériel et comptable. Le Ministre, et, le cas échéant, le chef de l'administration dont relève le déclarant, doivent certifier cette vérification sur la formule de déclaration à la rubrique spécialement prévue à cette fin.
-
-<a id="art_N6D554"></a>
-
-### Art. 4.
-
-Le présent règlement entrera en vigueur le premier du mois qui suit sa publication au Mémorial.
-
 #### Version consolidée applicable au 30/05/1977 : Règlement ministériel du 26 janvier 1973 fixant les indemnités forfaitaires spéciales revenant au personnel de l'administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux.
 
-<a id="art_N6D579"></a>
+<a id="art_N6D4E5"></a>
 
 ### Art. 1er.
 
@@ -35315,63 +35281,27 @@ A partir du 1er juin 1977, le personnel ci-après énuméré de l’administrati
 2. 0,55 euros par jour, lorsque la durée des courses journalières dépasse 1 heure sans atteindre 4 heures.
 2. er 2,16 euros par repas principal pris au dehors.
 
-<a id="art_N6D5D7"></a>
+<a id="art_N6D543"></a>
 
 ### Art. 2.
 
 Est abrogé le règlement ministériel du 15 mars 1966 fixant les indemnités de séjour revenant au personnel de l’administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux à l’exception, toutefois, de la disposition figurant à l’article 1er, sub 4) de ce même règlement.
 
-<a id="art_N6D611"></a>
+<a id="art_N6D57D"></a>
 
 ### Art. 3.
 
 Le présent règlement sera publié au Mémorial.
-
-#### Règlement du Gouvernement en Conseil du 22 octobre 1993 fixant l'indemnité forfaitaire de déménagement prévue à l'article 26 (7) du règlement grand-ducal du 5 août 1993 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l'Etat.
-
-<a id="art_N6D658"></a>
-
-### Art. 1er.
-
-L'indemnité forfaitaire de déménagement prévue à l'article 26 (7) du règlement grand-ducal du 5 août 1993 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l'Etat est fixée à 4.375,- frs.
-
-Elle est majorée de 625,- frs pour chaque enfant qui vit au foyer du bénéficiaire et qui doit effectivement déménager avec ce dernier.
-
-<a id="art_N6D66E"></a>
-
-### Art. 2.
-
-Le présent règlement sera publié au Mémorial.
-
-#### Règlement du Gouvernement en Conseil du 22 mars 2002 concernant les modèles pour les déclarations des frais de route, de séjour et de déménagement.
-
-<a id="art_N6D693"></a>
-
-### Art. 1er.
-
-Les déclarations des frais de route et de séjour pour voyages de service à l'intérieur du pays, celles pour voyages de service à l'étranger ainsi que celles concernant les indemnités de déménagement sont à faire respectivement suivant les modèles B, C et D ci-annexés.
-
-<a id="art_N6D6A6"></a>
-
-### Art. 2.
-
-Les formulaires servant à l'établissement des déclarations visées à l'article précédent font partie des procédures communes aux matières d'engagement et d'ordonnancement de dépenses éditées sous l'autorité de la Direction du Contrôle financier.
-
-<a id="art_N6D6B6"></a>
-
-### Art. 3.
-
-Le présent arrêté sera publié au Mémorial.
 
 #### Règlement ministériel du 5 juillet 1989 portant fixation d'une indemnité de repas revenant au personnel de la carrière du facteur astreint à effectuer des tournées doubles.
 
-<a id="art_N6D6DB"></a>
+<a id="art_N6D5C4"></a>
 
 ### Art. 1er.
 
 Le personnel de la carrière du facteur astreint à effectuer une tournée de distribution double a droit à une indemnité forfaitaire de repas s´élevant à 0,5 du taux fixé à titre d´indemnité de jour à l´article 22 du règlement grand-ducal modifié du 18 décembre 1972 sur les frais de route et de séjour des fonctionnaires et employés de l´Etat.
 
-<a id="art_N6D6EE"></a>
+<a id="art_N6D5D7"></a>
 
 ### Art. 2.
 
@@ -35379,7 +35309,7 @@ Le présent règlement sera publié au Mémorial et entrera en vigueur le jour d
 
 #### Règlement du Gouvernement en Conseil du 6 avril 2007 portant fixation de l'indemnité kilométrique pour les cycles, cyclomoteurs et motocycles utilisés pour voyages de service.
 
-<a id="art_N6D713"></a>
+<a id="art_N6D5FC"></a>
 
 ### Art. 1er.
 
@@ -35390,13 +35320,13 @@ Pour les voyages de service qui se font par cycle, cyclomoteur ou motocycle, app
 | b) cyclomoteur (vélomoteur): | 10 cents par km; |
 | c) motocycle (motocyclette): | 28 cents par km. |
 
-<a id="art_N6D757"></a>
+<a id="art_N6D640"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le 1er mai 2007.
 
-<a id="art_N6D76A"></a>
+<a id="art_N6D653"></a>
 
 ### Art. 3.
 
@@ -35404,7 +35334,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 #### Règlement grand-ducal du 2 juillet 2009 portant indemnisation respectivement compensation des entraînements et des instructions militaires ainsi que du service de garde du personnel militaire cadre de l’armée.
 
-<a id="art_N6D78F"></a>
+<a id="art_N6D678"></a>
 
 ### Art. 1er.
 
@@ -35424,19 +35354,19 @@ Le personnel militaire de carrière qui participe à des entraînements et instr
 | 3) | Entraînements et instructions militaires de toutes catégories dont la durée est inférieure à vingt-quatre heures: |  |  |  |
 |  | – | compensation en nature à raison d’une heure par heure prestée. |  |  |
 
-<a id="art_N6D8A4"></a>
+<a id="art_N6D78D"></a>
 
 ### Art. 2.
 
 Le personnel militaire de carrière astreint à des services de garde bénéficie d’un temps de repos de 12 heures par garde de 24 heures prestée en semaine respectivement de 20 heures par garde prestée les jours chômés ou fériés.
 
-<a id="art_N6D8B4"></a>
+<a id="art_N6D79D"></a>
 
 ### Art. 3.
 
 Le règlement grand-ducal du 23 décembre 1974 sur les frais de route et de séjour à accorder aux membres de l’armée participant à des manœuvres ou exercices est abrogé.
 
-<a id="art_N6D8C9"></a>
+<a id="art_N6D7B2"></a>
 
 ### Art. 4.
 
@@ -35444,126 +35374,29 @@ Notre Ministre de la Défense est chargé de l’exécution du présent règleme
 
 #### Règlement du Gouvernement en Conseil du 19 juin 2015 portant fixation de l'indemnité kilométrique pour les voitures utilisées pour voyages de service.
 
-<a id="art_N6D8EE"></a>
+<a id="art_N6D7D7"></a>
 
 ### Art. 1er.
 
 Pour les voyages de service qui se font en automobiles appartenant à des fonctionnaires ou employés de l’Etat, l’indemnité kilométrique est fixée à 30 centimes d’euro.
 
-<a id="art_N6D901"></a>
+<a id="art_N6D7EA"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.
 
-<a id="art_N6D911"></a>
+<a id="art_N6D7FA"></a>
 
 ### Art. 3.
 
 Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement.
 
-#### Règlement du Gouvernement en Conseil du 13 décembre 2024 fixant les indemnités prévues aux articles 16, alinéa 1er, 18 et 20, paragraphe 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
-
-<a id="art_N6D936"></a>
-
-### Art. 1er.
-
-Les indemnités prévues à l‘article 16, alinéa 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État sont fixées comme suit :
-
-1. indemnité de jour : 14 euros ;
-2. indemnité de nuit : 56 euros.
-
-L’indemnité prévue à l’article 18 du même règlement est fixée à 1 euro.
-
-<a id="art_N6D96B"></a>
-
-### Art. 2.
-
-Les indemnités prévues à l’article 20, paragraphe 1er du même règlement sont fixées comme suit :
-
-| **Pays ou Lieu de destination** | **Indemnité de jour €** | **Indemnité de nuit €** |
-| --- | --- | --- |
-| **Albanie**Tirana | 3045 | 100140 |
-| **Allemagne**Berlin/Munich | 6060 | 195220 |
-| **Arabie Saoudite** | 80 | 270 |
-| **Autriche**Vienne | 5060 | 160220 |
-| **Belgique**Bruxelles | 5060 | 160250 |
-| **Bosnie-Herzégovine**Sarajevo | 4070 | 100160 |
-| **Bulgarie**Sofia | 5050 | 180210 |
-| **Canada**Ottawa/Montréal/Toronto | 6060 | 180220 |
-| **Chine**PékinHong KongShanghai | 60808070 | 200300330300 |
-| **Croatie**Zagreb/Split | 4070 | 100190 |
-| **Chypre** | 60 | 210 |
-| **Corée du Sud** | 80 | 240 |
-| **Danemark**Copenhague | 7090 | 200250 |
-| **Émirats arabes unis** | 80 | 270 |
-| **Espagne**Madrid/Barcelone | 5060 | 200260 |
-| **Estonie**Tallin | 3555 | 120190 |
-| **États-Unis d’Amérique**New YorkWashington/San Francisco/Norfolk/Los Angeles/Miami/Austin/Chicago | 8010085 | 250400375 |
-| **Éthiopie** | 60 | 250 |
-| **Finlande** | 80 | 250 |
-| **France**ParisStrasbourg | 606060 | 200320240 |
-| **Grèce**Athènes/Thessalonique/Crète/Corfou | 5050 | 150210 |
-| **Hongrie**Budapest | 5060 | 150220 |
-| **Inde**New Delhi/Mumbai/Calcutta | 6060 | 200280 |
-| **Irlande**Dublin | 6570 | 200240 |
-| **Islande** | 70 | 260 |
-| **Italie**Rome/Venise/Milan | 6070 | 180240 |
-| **Japon**Tokyo | 100100 | 220260 |
-| **Kazakhstan**Astana | 6060 | 180250 |
-| **Lettonie**Riga | 3560 | 110200 |
-| **Lituanie**Vilnius | 4555 | 110200 |
-| **Luxembourg**Luxembourg-ville | 6060 | 200240 |
-| **Monaco** | 80 | 300 |
-| **Norvège** | 80 | 250 |
-| **Pays-Bas**La Haye/Amsterdam | 5060 | 180210 |
-| **Pologne**Varsovie | 5060 | 160210 |
-| **Portugal**Lisbonne/Porto | 5060 | 150200 |
-| **République Tchèque**Prague | 4060 | 150200 |
-| **Roumanie**Bucarest | 4060 | 150220 |
-| **Royaume-Uni**Londres/Edimbourg | 7090 | 200280 |
-| **Russie**MoscouSt. Pétersbourg | 409080 | 125250240 |
-| **Pays du SAHEL****Sénégal, Maurétanie, Mali, Burkina Faso, Niger | 60 | 260 |
-| **Singapour** | 80 | 330 |
-| **Slovaquie**Bratislava | 3560 | 150220 |
-| **Slovénie**Ljubljana | 4060 | 150220 |
-| **Suède** | 80 | 250 |
-| **Suisse**Zurich/Genève/Berne | 7580 | 220260 |
-| **Thaïlande**Bangkok | 6070 | 170250 |
-| **Turquie**Ankara/IzmirIstanbul/Antalya | 408060 | 150230240 |
-| **Ukraine**Kiev | 5060 | 120220 |
-| **Vietnam** | 70 | 220 |
-| **Autres** | 70 | 210 |
-
-<a id="art_N6E002"></a>
-
-### Art. 3.
-
-Pour les pays qui président le Conseil de l’Union européenne, les montants plafonds de l’indemnité de nuit sont augmentés de 10 pour cent pendant la durée de la présidence.
-
-<a id="art_N6E012"></a>
-
-### Art. 4.
-
-Le règlement du Gouvernement en Conseil du 18 décembre 2023 fixant les indemnités prévues aux articles 16, alinéa 1er, 18 et 20, paragraphe 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État est abrogé.
-
-<a id="art_N6E033"></a>
-
-### Art. 5.
-
-Le présent règlement entre en vigueur le 1er janvier 2025.
-
-<a id="art_N6E046"></a>
-
-### Art. 6.
-
-Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxembourg.
-
 #### Règlement grand-ducal du 17 décembre 2025 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
 
 ##### Chapitre 1er — Dispositions générales
 
-<a id="art_N6E078"></a>
+<a id="art_N6D82C"></a>
 
 ### Art. 1er.
 
@@ -35582,7 +35415,7 @@ Pour l’application du présent règlement on entend par :
 2. lorsqu’il s’agit d’un voyage de service au Grand-Duché de Luxembourg ou dans un pays tiers, le ministre ayant les Affaires étrangères dans ses attributions ;
 8. « ministre du ressort » : le membre du Gouvernement ayant dans ses attributions le département ministériel dont relève l’agent qui est appelé à voyager.
 
-<a id="art_N6E0D4"></a>
+<a id="art_N6D888"></a>
 
 ### Art. 2.
 
@@ -35592,7 +35425,7 @@ Le détachement ou l’affectation d’un agent dans un autre département, admi
 
 Les voyages à l’étranger qui se font dans un périmètre ne dépassant pas de 25 kilomètres la limite frontière luxembourgeoise sont assimilés aux voyages à l’intérieur du pays.
 
-<a id="art_N6E0F6"></a>
+<a id="art_N6D8AA"></a>
 
 ### Art. 3.
 
@@ -35602,7 +35435,7 @@ Une prolongation du séjour à l’étranger à titre privé doit être dûment 
 
 Les frais encourus par une prolongation du séjour à titre privé ne sont remboursés à l’agent qu’à hauteur du montant des frais encourus sans cette prolongation.
 
-<a id="art_N6E118"></a>
+<a id="art_N6D8CC"></a>
 
 ### Art. 4.
 
@@ -35610,13 +35443,13 @@ Lorsque les frais de route et de séjour sont assumés par un organisme étrange
 
 Si les frais de route et de séjour octroyés à l’agent par l’organisme étranger ou international sont supérieurs à l’indemnisation au sens du présent règlement, l’agent bénéfice de cette différence sur base de justificatifs.
 
-<a id="art_N6E131"></a>
+<a id="art_N6D8E5"></a>
 
 ### Art. 5.
 
 Le remboursement des frais de route et de séjour à l’agent se fait sur présentation d’une déclaration approuvée par l’approbateur.
 
-<a id="art_N6E141"></a>
+<a id="art_N6D8F5"></a>
 
 ### Art. 6.
 
@@ -35624,7 +35457,7 @@ Les membres du Gouvernement ont droit au remboursement de leurs dépenses réell
 
 ##### Chapitre 2 — Frais de route
 
-<a id="art_N6E15C"></a>
+<a id="art_N6D910"></a>
 
 ### Art. 7.
 
@@ -35637,7 +35470,7 @@ En principe chaque déplacement pour le compte de l’État doit se faire aux co
 
 L’appréciation des exceptions visées à l’alinéa 2 est de la compétence de l’approbateur.
 
-<a id="art_N6E189"></a>
+<a id="art_N6D93D"></a>
 
 ### Art. 8.
 
@@ -35647,7 +35480,7 @@ Si le trajet entre le domicile et le lieu de mission est plus court que celui en
 
 En cas de détachement de l’agent, le nouveau lieu de travail est considéré comme point de départ au sens du présent article.
 
-<a id="art_N6E1AB"></a>
+<a id="art_N6D95F"></a>
 
 ### Art. 9.
 
@@ -35659,7 +35492,7 @@ Les agents participant à des cours de formation obligatoires ou facultatifs ou 
 
 Les agents participant à des cours de formation générale à plein temps dans le cadre du stage de formation ou dans le cadre de la période d’initiation n’ont pas droit au remboursement des frais de route.
 
-<a id="art_N6E1D6"></a>
+<a id="art_N6D98A"></a>
 
 ### Art. 10.
 
@@ -35676,7 +35509,7 @@ En principe, les agents ont droit au remboursement des billets de la classe éco
 3. déplacement des ambassadeurs et des agents qui les accompagnent lors de la remise des lettres de créance respectivement des lettres de rappel ;
 4. lorsque des billets de la classe économique ne sont pas disponibles. Une attestation établie par la compagnie d’aviation concernée est à joindre, le cas échéant, à la déclaration de remboursement.
 
-<a id="art_N6E224"></a>
+<a id="art_N6D9D8"></a>
 
 ### Art. 11.
 
@@ -35694,13 +35527,13 @@ Les frais de déplacement en taxi ou en voiture de location avec chauffeur sur c
 
 ##### Chapitre 3 — Frais de séjour
 
-<a id="art_N6E28A"></a>
+<a id="art_N6DA3E"></a>
 
 ### Art. 12.
 
 Les frais de séjour comprennent une indemnité de jour et une indemnité de nuit, dont les montants sont fixés par règlement du Gouvernement en conseil.
 
-<a id="art_N6E29A"></a>
+<a id="art_N6DA4E"></a>
 
 ### Art. 13.
 
@@ -35714,7 +35547,7 @@ Les frais de séjour comprennent une indemnité de jour et une indemnité de nui
 
 **(3)** Les frais de représentation ne relèvent pas du champ d’application du présent règlement.
 
-<a id="art_N6E2DF"></a>
+<a id="art_N6DA93"></a>
 
 ### Art. 14.
 
@@ -35724,7 +35557,7 @@ La note d’hôtel est remboursée chaque fois que l’agent s’est vu dans l�
 
 Si une note d’hôtel n’est pas présentée, une indemnité forfaitaire équivalente à 20 pour cent de l’indemnité de nuit est allouée à l’agent, sous réserve que l’indemnité de nuit n’est pas supportée par un organisme tiers. Si l’agent a voyagé à bord d’un avion et ne peut présenter une note d’hôtel, aucune indemnité de nuit ne lui est allouée.
 
-<a id="art_N6E301"></a>
+<a id="art_N6DAB5"></a>
 
 ### Art. 15.
 
@@ -35740,7 +35573,7 @@ Si une note d’hôtel n’est pas présentée, une indemnité forfaitaire équi
 
 Les dérogations prévues à l’alinéa 1er doivent faire l’objet d’une autorisation formelle préalable de la part de l’approbateur.
 
-<a id="art_N6E346"></a>
+<a id="art_N6DAFA"></a>
 
 ### Art. 16.
 
@@ -35761,7 +35594,7 @@ Ce retour en famille consiste pour l’agent au remboursement des frais de route
 
 Le retour en famille peut être remplacé à l’aller comme au retour par le remboursement des frais de route du conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats et ses enfants pour rejoindre l’agent sur le lieu de détachement suivant les modalités décrites ci-dessus. Dans l’hypothèse dûment motivée où le logement du lieu de détachement n’est pas adapté, une indemnité de nuit peut également être prise en charge.
 
-<a id="art_N6E3C1"></a>
+<a id="art_N6DB75"></a>
 
 ### Art. 17.
 
@@ -35771,7 +35604,7 @@ Une indemnité est payée aux agents astreints au service de nuit sur décision 
 
 ##### Chapitre 4 — Frais de déménagement
 
-<a id="art_N6E3E5"></a>
+<a id="art_N6DB99"></a>
 
 ### Art. 18.
 
@@ -35795,7 +35628,7 @@ Une indemnité est payée aux agents astreints au service de nuit sur décision 
 
 ##### Chapitre 5 — Dispositions spéciales
 
-<a id="art_N6E47E"></a>
+<a id="art_N6DC32"></a>
 
 ### Art. 19.
 
@@ -35803,7 +35636,7 @@ Sur décision du Premier ministre, tous les dégâts occasionnés au véhicule p
 
 Lorsqu’en cas d’accident survenu au véhicule privé de l’agent dûment autorisé et utilisé lors d’un voyage de service, le résultat de l’instruction permet d’exclure toute faute grave de l’agent mais conclut qu’une négligence ou inadvertance dans le chef de l’agent conducteur ait contribué à la réalisation de l’accident, une partie des dégâts occasionnés au véhicule est remboursée par l’État, sur décision du Premier ministre, sous condition que l’agent subroge l’État dans les droits qui, du chef de l’accident, peuvent lui revenir contre un tiers responsable.
 
-<a id="art_N6E497"></a>
+<a id="art_N6DC4B"></a>
 
 ### Art. 20.
 
@@ -35821,13 +35654,13 @@ Lorsque le résultat de l’instruction permet d’exclure toute faute grave de 
 
 **(6)** L’État ne rembourse pas les charges relatives à d’éventuelles assurances contractées personnellement par les agents pour les besoins de leur déplacement, sauf dans des cas exceptionnels et si elles ont été dûment autorisées par l’approbateur.
 
-<a id="art_N6E504"></a>
+<a id="art_N6DCB8"></a>
 
 ### Art. 21.
 
 Les cas non prévus par le présent règlement dans lesquels des frais en relation directe avec le voyage de service laissés à charge d’un agent constitueraient pour lui une rigueur, peuvent être réglés, conformément aux principes généraux régissant la matière, par décision du Premier ministre, sur proposition du ministre du ressort.
 
-<a id="art_N6E514"></a>
+<a id="art_N6DCC8"></a>
 
 ### Art. 22.
 
@@ -35839,7 +35672,7 @@ Les avances non régularisées à la clôture définitive de l’exercice auquel
 
 ##### Chapitre 6 — Dispositions abrogatoires
 
-<a id="art_N6E54D"></a>
+<a id="art_N6DD01"></a>
 
 ### Art. 23.
 
@@ -35849,13 +35682,13 @@ L’arrêté royal grand-ducal du 1er février 1858 concernant les frais de rout
 
 ##### Chapitre 7 — Dispositions finales
 
-<a id="art_N6E57F"></a>
+<a id="art_N6DD33"></a>
 
 ### Art. 24.
 
 Le présent règlement entre en vigueur le 1er janvier 2026.
 
-<a id="art_N6E592"></a>
+<a id="art_N6DD46"></a>
 
 ### Art. 25.
 
@@ -35863,7 +35696,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Règlement du Gouvernement en Conseil du 17 décembre 2025 fixant les indemnités prévues à l’article 20, paragraphe 3, du règlement grand-ducal du 17 décembre 2025 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
 
-<a id="art_N6E5B8"></a>
+<a id="art_N6DD6C"></a>
 
 ### Art. 1er.
 
@@ -35872,13 +35705,13 @@ Les montants maximums indemnisables en application de l’article 20, paragraphe
 1. 300 000 euros en cas de décès ;
 2. 600 000 euros en cas d’incapacité physique permanente.
 
-<a id="art_N6E5DF"></a>
+<a id="art_N6DD93"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le 1er janvier 2026.
 
-<a id="art_N6E5F2"></a>
+<a id="art_N6DDA6"></a>
 
 ### Art. 3.
 
@@ -35886,7 +35719,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 #### Règlement du Gouvernement en Conseil du 23 janvier 2026 fixant les indemnités prévues aux articles 12 et 17 du règlement grand-ducal du 17 décembre 2025 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
 
-<a id="art_N6E618"></a>
+<a id="art_N6DDCB"></a>
 
 ### Art. 1er.
 
@@ -35951,7 +35784,7 @@ Les indemnités prévues à l’article 12 du règlement grand-ducal du 17 déce
 
 Pour les voyages dans les pays qui président le Conseil de l’Union européenne, les montants plafonds de l’indemnité de nuit sont augmentés de 10 pour cent pendant la durée de la présidence.
 
-<a id="art_N6EC7D"></a>
+<a id="art_N6E430"></a>
 
 ### Art. 2.
 
@@ -35963,7 +35796,7 @@ Pour les voyages dans les pays qui président le Conseil de l’Union européenn
 2. 1. au moins trois heures de service de nuit ; ou
 2. au moins deux heures de service de nuit dans une durée totale de cinq heures au moins.
 
-<a id="art_N6ECC6"></a>
+<a id="art_N6E479"></a>
 
 ### Art. 3.
 
@@ -35977,13 +35810,13 @@ Sont abrogés :
 6. règlement du Gouvernement en Conseil du 22 mars 2002
 7. règlement du Gouvernement en Conseil du 13 décembre 2024 er er règlement grand-ducal du 14 juin 2015
 
-<a id="art_N6ED2D"></a>
+<a id="art_N6E4E0"></a>
 
 ### Art. 4.
 
 Le présent règlement entre en vigueur le 1er février 2026, à l’exception de l’article 2, paragraphe 2, point 2°, qui produit ses effets au 1er janvier 2026.
 
-<a id="art_N6ED43"></a>
+<a id="art_N6E4F6"></a>
 
 ### Art. 5.
 
@@ -35993,7 +35826,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 ##### Version consolidée applicable au 01/01/2026 : Loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'Etat.
 
-<a id="art_N6ED73"></a>
+<a id="art_N6E526"></a>
 
 ### Art. 29.
 
@@ -36009,13 +35842,13 @@ Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément 
 
 #### Version consolidée applicable au 01/09/2020 : Loi du 24 février 1984 sur le régime des langues.
 
-<a id="art_N6EDE6"></a>
+<a id="art_N6E599"></a>
 
 ### Art. 1er. Langue nationale
 
 La langue nationale des Luxembourgeois est le luxembourgeois.
 
-<a id="art_N6EE22"></a>
+<a id="art_N6E5D5"></a>
 
 ### Art. 2. Langue de la législation
 
@@ -36025,13 +35858,13 @@ Au cas où des règlements non visés à l'alinéa qui précède sont édictés 
 
 Le présent article ne déroge pas aux dispositions applicables en matière de conventions internationales.
 
-<a id="art_N6EE6D"></a>
+<a id="art_N6E620"></a>
 
 ### Art. 3. Langues administratives et judiciaires
 
 En matiére administrative, contentieuse ou non contentieuse, et en matière judiciaire, il peut être fait usage des langues française, allemande ou luxembourgeois e, sans préjudice des dispositions spéciales concernant certaines matières.
 
-<a id="art_N6EEA6"></a>
+<a id="art_N6E659"></a>
 
 ### Art. 3bis. Langue des signes
 
@@ -36045,13 +35878,13 @@ Sur demande écrite auprès du ministre ayant la politique pour personnes handic
 
 Tout élève malentendant, sourd ou privé de l’usage de la parole a le droit de suivre son enseignement fondamental et secondaire dans la langue des signes selon les conditions fixées par la loi du 20 juillet 2018 portant création des Centres de compétences en psycho-pédagogie spécialisée en faveur de l’inclusion scolaire.
 
-<a id="art_N6EF3C"></a>
+<a id="art_N6E6EF"></a>
 
 ### Art. 4. Requêtes administratives
 
 Lorsqu'une requête est rédigée en luxembourgeois, en français ou en allemand, l'administration doit se servir, dans la mesure du possible, pour sa réponse de la langue choisie par le requérant.
 
-<a id="art_N6EF75"></a>
+<a id="art_N6E728"></a>
 
 ### Art. 5. Abrogation
 
@@ -36065,7 +35898,7 @@ Sont abrogées toutes les dispositions incompatibles avec la présente loi, nota
 
 ##### **Chapitre 1er ** — **Objectifs et mise en œuvre de la politique sur la langue luxembourgeoise**
 
-<a id="art_N6EFF1"></a>
+<a id="art_N6E7A4"></a>
 
 ### Art. 1er.
 
@@ -36080,7 +35913,7 @@ Un plan d’action sur la langue luxembourgeoise, désigné ci-après « plan d�
 
 Le plan d’action adopté par le Gouvernement porte sur une période de vingt ans. Tous les cinq ans sa mise en œuvre est évaluée et le plan d’action révisé, le cas échéant.
 
-<a id="art_N6F027"></a>
+<a id="art_N6E7DA"></a>
 
 ### Art. 2.
 
@@ -36090,7 +35923,7 @@ Le Gouvernement peut, dans la limite des crédits budgétaires, décider de déc
 
 ##### **Section 1ère ** — **Le commissaire à la langue luxembourgeoise**
 
-<a id="art_N6F05B"></a>
+<a id="art_N6E80E"></a>
 
 ### Art. 3.
 
@@ -36100,7 +35933,7 @@ Le commissaire est appelé à contribuer à la mise en œuvre de la politique de
 
 Le commissaire établit un rapport d’activités annuel et peut, sur demande du Gouvernement ou de sa propre initiative, établir un rapport thématique.
 
-<a id="art_N6F07D"></a>
+<a id="art_N6E830"></a>
 
 ### Art. 4.
 
@@ -36108,7 +35941,7 @@ Le commissaire est nommé, sur proposition du Gouvernement en conseil, par le Gr
 
 ##### **Section 2 ** — **Le Centre pour le luxembourgeois**
 
-<a id="art_N6F09D"></a>
+<a id="art_N6E850"></a>
 
 ### Art. 5.
 
@@ -36118,7 +35951,7 @@ La dénomination luxembourgeoise du Centre est « Zenter fir d’Lëtzebuerger S
 
 Une autre dénomination peut être conférée au Centre par voie de règlement grand-ducal.
 
-<a id="art_N6F0BF"></a>
+<a id="art_N6E872"></a>
 
 ### Art. 6.
 
@@ -36137,7 +35970,7 @@ Les règles visées à l’alinéa 3, point 1, sont soumises pour avis au Consei
 
 Le Centre peut être chargé par les ministres d’autres missions dans le domaine de la mise en œuvre de la politique de la langue luxembourgeoise.
 
-<a id="art_N6F104"></a>
+<a id="art_N6E8B7"></a>
 
 ### Art. 7.
 
@@ -36145,7 +35978,7 @@ Le Centre peut être chargé par les ministres d’autres missions dans le domai
 
 **(2)** Le cadre du personnel peut être complété, selon les besoins et dans les limites des crédits budgétaires, par des fonctionnaires stagiaires, des employés et des salariés de l’État.
 
-<a id="art_N6F12E"></a>
+<a id="art_N6E8E1"></a>
 
 ### Art. 8.
 
@@ -36153,13 +35986,13 @@ Le Centre peut être chargé par les ministres d’autres missions dans le domai
 
 **(2)** Le directeur adjoint du Centre doit être titulaire d'un grade ou diplôme délivré par un établissement d'enseignement supérieur reconnu par l'État du siège de I‘établissement et sanctionnant I‘accomplissement avec succès d'au moins un bachelor ou de son équivalent.
 
-<a id="art_N6F153"></a>
+<a id="art_N6E906"></a>
 
 ### Art. 9.
 
 Le cadre prévu à l’article 7 peut, suivant les besoins et dans la limite des crédits budgétaires et par dérogation à l’article 3, paragraphe 1er, alinéa 1er, lettre e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État être complété par des employés prouvant par des certificats avoir atteint le niveau C1 du cadre européen commun de référence des langues dans au moins une des trois langues administratives définies par la loi du 24 février 1984 sur le régime des langues.
 
-<a id="art_N6F173"></a>
+<a id="art_N6E926"></a>
 
 ### Art. 10.
 
@@ -36167,7 +36000,7 @@ Dans l’accomplissement de ses missions, le Centre peut recourir à des experts
 
 ##### **Section 3 ** — **Le Conseil permanent de la langue luxembourgeoise**
 
-<a id="art_N6F193"></a>
+<a id="art_N6E946"></a>
 
 ### Art. 11.
 
@@ -36183,7 +36016,7 @@ Le CPLL est demandé en son avis sur tous les projets et propositions de loi con
 
 **(4)** La dénomination luxembourgeoise du CPLL est « Conseil fir d’Lëtzebuerger Sprooch ». Une autre dénomination peut être conférée au CPLL par voie de règlement grand-ducal.
 
-<a id="art_N6F1E8"></a>
+<a id="art_N6E99B"></a>
 
 ### Art. 12.
 
@@ -36205,19 +36038,19 @@ L’indemnisation des membres, du secrétaire administratif et des experts qui n
 
 ##### **Chapitre 3 ** — **Dispositions modificatives, transitoires et finales**
 
-<a id="art_N6F260"></a>
+<a id="art_N6EA13"></a>
 
 ### Art. 13.
 
 L’article 24 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État est abrogé.
 
-<a id="art_N6F278"></a>
+<a id="art_N6EA2B"></a>
 
 ### Art. 14.
 
 À l’article 1er, alinéa 2, de la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État est ajouté un tiret libellé comme suit :commissaire à la langue luxembourgeoise.
 
-<a id="art_N6F2A1"></a>
+<a id="art_N6EA54"></a>
 
 ### Art. 15.
 
@@ -36226,7 +36059,7 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 1. er commissaire à la langue luxembourgeoise de commissaire du Gouvernement chargé de l’instruction disciplinaire
 2. commissaire à la langue luxembourgeoise
 
-<a id="art_N6F2CE"></a>
+<a id="art_N6EA81"></a>
 
 ### Art. 16.
 
@@ -36235,19 +36068,19 @@ La loi du 15 décembre 2017 concernant le budget des recettes et des dépenses d
 1. - Centre pour le luxembourgeois.
 2. Dotation dans l’intérêt du fonctionnement du Centre pour le luxembourgeois : 50.000 euros ».
 
-<a id="art_N6F312"></a>
+<a id="art_N6EAC5"></a>
 
 ### Art. 17.
 
 Les employés de l’État visés à l’article 7 et relevant de la rubrique « Administration générale » telle qu’énoncée à l’article 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, en service auprès de l’administration gouvernementale, affectés au Ministère de la culture, service du « Lëtzebuerger online Dictionnaire » au moment de l’entrée en vigueur de la présente loi, sont intégrés dans le cadre du personnel du Centre au grade et échelon atteints au moment de l’entrée en vigueur de la présente loi.
 
-<a id="art_N6F327"></a>
+<a id="art_N6EADA"></a>
 
 ### Art. 18.
 
 Le président et les membres du CPLL nommés avant l’entrée en vigueur de la présente loi restent en place jusqu’à échéance de la durée de leur mandat.
 
-<a id="art_N6F337"></a>
+<a id="art_N6EAEA"></a>
 
 ### Art. 19.
 
@@ -36259,7 +36092,7 @@ La référence à la présente loi se fait sous la forme suivante : « loi du 20
 
 #### Code du travail
 
-<a id="art_N6F388"></a>
+<a id="art_N6EB3B"></a>
 
 ### Art. L. 111-1.
 
@@ -36271,7 +36104,7 @@ Le droit de former peut être retiré à un organisme de formation lorsque la te
 
 Les modalités pour accorder et retirer le droit de former ainsi que le nombre maximum de personnes que les organismes de formation ont le droit de former sont fixées par règlement grand-ducal.
 
-<a id="art_N6F3F9"></a>
+<a id="art_N6EBAC"></a>
 
 ### Art. L. 111-2.
 
@@ -36279,7 +36112,7 @@ La formation pratique en milieu professionnel et le stage en milieu professionne
 
 Le statut de la personne à former est soit celui de l’apprenti lorsqu’il s’agit d’un contrat d’apprentissage, soit celui de l’élève stagiaire lorsqu’il s’agit d’une convention de stage de formation.
 
-<a id="art_N6F456"></a>
+<a id="art_N6EC09"></a>
 
 ### Art. L. 111-3.
 
@@ -36370,7 +36203,7 @@ Il doit à son patron formateur et à son tuteur respect et loyauté. L’appren
 
 **(9)** (L. 24 juillet 2024) Pour un contrat d’apprentissage existant au 4 août 2024, l’organisme de formation doit remettre à l’apprenti qui en fait la demande dans un délai de deux mois à partir de la réception de celle-ci un document conforme aux dispositions des paragraphes 1erà 1er*ter*.
 
-<a id="art_N6F6B9"></a>
+<a id="art_N6EE6C"></a>
 
 ### Art. L. 111-4.
 
@@ -36378,7 +36211,7 @@ Pour former un apprenti, le patron formateur doit être âgé de vingt-et-un ans
 
 Si ces conditions ne sont plus remplies, les autorités qui ont accordé le droit de former peuvent retirer ce droit ou définir les modalités selon lesquelles l’organisme de formation a le droit de continuer à dispenser la formation jusqu’au terme des contrats d’apprentissage.
 
-<a id="art_N6F704"></a>
+<a id="art_N6EEB7"></a>
 
 ### Art. L. 111-5.
 
@@ -36397,7 +36230,7 @@ Si ces conditions ne sont plus remplies, les autorités qui ont accordé le droi
 
 Les organismes de formation qui accueillent des apprentis dans le cadre d’une convention de lieux de formation pluriels doivent disposer du droit de former.
 
-<a id="art_N6F7A1"></a>
+<a id="art_N6EF54"></a>
 
 ### Art. L. 111-6.
 
@@ -36409,7 +36242,7 @@ La personne qui veut faire un apprentissage doit en informer ce service qui le r
 
 La personne qui bénéficie d’un poste d’apprentissage obtenu de sa propre initiative doit également en informer ce service.
 
-<a id="art_N6F7FE"></a>
+<a id="art_N6EFB1"></a>
 
 ### Art. L. 111-7.
 
@@ -36433,7 +36266,7 @@ En cas de réussite, de réorientation ou si l’apprenti est écarté de la for
 
 **(3)** En cas de changement d’organisme de formation, la période d’apprentissage accomplie antérieurement dans le même métier ou profession est mise en compte. Les unités acquises lors d’un apprentissage antérieur sont capitalisées et restent acquises pendant un certain nombre d’années, à définir selon la profession.
 
-<a id="art_N6F8A7"></a>
+<a id="art_N6F05A"></a>
 
 ### Art. L. 111-8.
 
@@ -36456,7 +36289,7 @@ Le contrat d’apprentissage peut être résilié par l’organisme de formation
 
 **(5)** La procédure de résiliation est fixée par règlement grand-ducal.
 
-<a id="art_N6F945"></a>
+<a id="art_N6F0F8"></a>
 
 ### Art. L. 111-9.
 
@@ -36474,7 +36307,7 @@ Lorsqu’une réunion de conciliation est décidée, le conseiller à l’appren
 
 Si la conciliation n’aboutit pas, chaque partie concernée peut saisir le tribunal du travail du litige en question.
 
-<a id="art_N6F9CF"></a>
+<a id="art_N6F182"></a>
 
 ### Art. L. 111-10.
 
@@ -36503,13 +36336,13 @@ Les dispositions légales et réglementaires relatives à la protection des jeun
 
 Les modalités d’organisation des stages de formation sont définies par règlement grand-ducal.
 
-<a id="art_N6FA92"></a>
+<a id="art_N6F245"></a>
 
 ### Art. L. 111-11.
 
 Pendant la durée de l’apprentissage, le patron verse à l’apprenti une indemnité d’apprentissage qui est fixée par règlement grand-ducal, sur avis des chambres professionnelles compétentes. Cette indemnité est adaptée aux variations de l’indice du coût de la vie.
 
-<a id="art_N6FAEC"></a>
+<a id="art_N6F29F"></a>
 
 ### Art. L. 111-12.
 
@@ -36531,7 +36364,7 @@ Dans l’organisme de formation, le conseiller à l’apprentissage intervient :
 
 #### Version consolidée applicable au 01/01/2025 : Loi du 28 juillet 2018 relative au revenu d'inclusion sociale et portant modification 1° du Code de la Sécurité sociale ; 2° du Code du travail ; 3° de la loi modifiée du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité ; 4° de la loi modifiée du 10 août 1991 sur la profession d’avocat ; 5° de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées ; 6° de la loi modifiée du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l'accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit ; 7° de la loi modifiée du 18 décembre 2009 organisant l'aide sociale et portant abrogation de la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti.
 
-<a id="art_N6FB89"></a>
+<a id="art_N6F33C"></a>
 
 ### Art. 2.
 
@@ -36571,7 +36404,7 @@ Cette disposition ne s'applique pas aux travailleurs salariés ou non-salariés 
 10. qui exerce une activité à titre d’indépendant pendant une période de six mois renouvelable une fois, qui ne génère pas, à l’issue de cette période un revenu professionnel supérieur ou égal au taux du salaire social minimum non qualifié ;
 11. qui exerce une activité à titre d’indépendant et dont le revenu professionnel est supérieur ou égal au taux du salaire social minimum non qualifié.
 
-<a id="art_N6FC7C"></a>
+<a id="art_N6F42F"></a>
 
 ### Art. 3.
 
@@ -36598,7 +36431,7 @@ Cette disposition ne s'applique pas aux travailleurs salariés ou non-salariés 
 
 #### Code du travail
 
-<a id="art_N6FD40"></a>
+<a id="art_N6F4F3"></a>
 
 ### Art. L. 522-1.
 
@@ -36622,7 +36455,7 @@ Toutefois, l’adolescent âgé de seize ans et de dix-sept ans accomplis et qui
 
 Dans le cas visé au deuxième alinéa du paragraphe (1) de l’article L. 521-14, les taux d’indemnisation visés au présent paragraphe sont majorés de cinq pour cent.
 
-<a id="art_N6FE1E"></a>
+<a id="art_N6F5D1"></a>
 
 ### Art. L. 522-2.
 
@@ -36634,7 +36467,7 @@ En cas de renonciation aux études ou à la formation au cours d’une année d�
 
 **(3)** Les dispositions de l’article L. 521-4 sont applicables.
 
-<a id="art_N6FE8D"></a>
+<a id="art_N6F640"></a>
 
 ### Art. L. 522-3. (L. 22 décembre 2006)
 
@@ -36646,7 +36479,7 @@ Il en est de même des périodes couvertes par contrat d’apprentissage, des p�
 
 **(3)** Les périodes d’incapacité de travail temporaire et d’indisponibilité temporaire pour le marché de l’emploi n’interrompent pas le cours des périodes d’inscription prévues au paragraphe (3) de l’article L. 522-1, pourvu que leur durée globale ne dépasse pas trente jours de calendrier.
 
-<a id="art_N6FF0F"></a>
+<a id="art_N6F6C2"></a>
 
 ### Art. L. 523-1.
 
@@ -36682,7 +36515,7 @@ La décision d’une telle prolongation exceptionnelle est prise par le directeu
 
 **(3)** L’attribution ou le maintien de l’indemnité de chômage complet peuvent être subordonnés à la participation du chômeur à des stages de préparation en entreprise, à des actions de formation, à des travaux d’utilité publique ou à des expériences de travail mis en œuvre sur la base du présent article.
 
-<a id="art_N70052"></a>
+<a id="art_N6F805"></a>
 
 ### Art. L. 524-1.
 
@@ -36714,7 +36547,7 @@ Dans ce cas, le droit à l’indemnité de chômage complet est allongé d’une
 
 Le remboursement n’est dû et versé que douze mois après l’engagement à condition que le contrat de travail soit toujours en vigueur au moment de la demande et que la durée du stage de professionnalisation ait été expressément déduite d’une éventuelle période d’essai légale, conventionnelle ou contractuelle.
 
-<a id="art_N70156"></a>
+<a id="art_N6F909"></a>
 
 ### Art. L. 524-2.
 
@@ -36724,13 +36557,13 @@ Ce contrat est réservé aux promoteurs qui peuvent offrir aux demandeurs d’em
 
 **(2)** Le contrat de réinsertion-emploi est conclu entre le promoteur, le demandeur d’emploi et l’Agence pour le développement de l’emploi.
 
-<a id="art_N701BC"></a>
+<a id="art_N6F96F"></a>
 
 ### Art. L. 524-3.
 
 Un tuteur est désigné par le promoteur pour assister et encadrer le demandeur d’emploi pendant la durée du contrat de réinsertion-emploi. Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur et le tuteur établissent avec le demandeur d’emploi un plan de formation, envoyé en copie à l’Agence pour le développement de l’emploi.
 
-<a id="art_N70216"></a>
+<a id="art_N6F9C9"></a>
 
 ### Art. L. 524-4.
 
@@ -36744,7 +36577,7 @@ Au cas où son indemnité de chômage, son indemnité d’attente, son indemnit�
 
 **(3)** L’indemnité est soumise aux charges sociales et fiscales prévues en matière de salaires, la part patronale étant prise en charge par le Fonds pour l’emploi.
 
-<a id="art_N702AD"></a>
+<a id="art_N6FA60"></a>
 
 ### Art. L. 524-5.
 
@@ -36752,7 +36585,7 @@ Une quote-part correspondant à cinquante pour cent du salaire social minimum po
 
 Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des députés peut modifier les taux prévus à l’alinéa qui précède sans que ces taux ne puissent être ni inférieurs à vingt-cinq pour cent ni supérieurs à soixante-quinze pour cent.
 
-<a id="art_N702FE"></a>
+<a id="art_N6FAB1"></a>
 
 ### Art. L. 524-6.
 
@@ -36762,7 +36595,7 @@ Cette prime ne peut être prise en compte comme autre revenu pour le calcul de l
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux demandeurs d’emploi sous contrat de réinsertion-emploi.
 
-<a id="art_N70352"></a>
+<a id="art_N6FB05"></a>
 
 ### Art. L. 524-7.
 
@@ -36774,13 +36607,13 @@ En cas de travail de nuit, de travail supplémentaire, de travail pendant les jo
 
 #### Règlement ministériel du 28 juillet 1982 établissant le contrat type à utiliser dans les relations entre l'employeur et l'élève ou l'étudiant.
 
-<a id="art_N703D5"></a>
+<a id="art_N6FB88"></a>
 
 ### Art. 1er.
 
 Le contrat à utiliser dans les relations entre l'employeur et l'élève ou l'étudiant conclu en application de l'article 3 de la loi du 22 juillet 1982 concernant l'occupation d'élèves ou d'étudiants pendant les vacances scolaires doit contenir au moins les clauses reprises au contrat type annexé au présent règlement.
 
-<a id="art_N703E8"></a>
+<a id="art_N6FB9B"></a>
 
 ### Art. 2.
 
@@ -36788,7 +36621,7 @@ Le présent règlement sortira ses effets le jour de sa publication au Mémorial
 
 #### Règlement grand-ducal du 10 août 1982 fixant les conditions et modalités des stages de formation et des stages probatoires prévus à l'article 1er alinéa 2 de la loi du 22 juillet 1982 concernant l'occupation d'élèves et d'étudiants pendant les vacances scolaires.
 
-<a id="art_N7040D"></a>
+<a id="art_N6FBC0"></a>
 
 ### Art. 1er.
 
@@ -36803,7 +36636,7 @@ Le présent règlement sortira ses effets le jour de sa publication au Mémorial
 1. avoir un caractère d'information ou d'orientation;
 2. ne pas affecter l'étudiant ou l'élève à des tâches requérant un rendement comparable à celui d'un travail normal.
 
-<a id="art_N70452"></a>
+<a id="art_N6FC05"></a>
 
 ### Art. 2.
 
@@ -36813,7 +36646,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 ##### Code du travail
 
-<a id="art_N70484"></a>
+<a id="art_N6FC37"></a>
 
 ### Art. L. 151-1.
 
@@ -36821,7 +36654,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 (...)*(supprimé par laL. 4 juin 2020)*
 
-<a id="art_N704EC"></a>
+<a id="art_N6FC9F"></a>
 
 ### Art. L. 151-2.
 
@@ -36829,7 +36662,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 (L. 4 juin 2020) Il en est de même de la personne dont l’inscription scolaire ou le statut de volontaire au sens de laloi modifiée du 31 octobre 2007sur le service volontaire des jeunes a pris fin depuis moins de quatre mois.
 
-<a id="art_N70546"></a>
+<a id="art_N6FCF9"></a>
 
 ### Art. L. 151-3. (L. 24 juillet 2024)
 
@@ -36878,19 +36711,19 @@ L’ordonnance du président de la juridiction du travail est exécutoire par pr
 
 En cas de récidive dans le délai de deux ans, ces peines peuvent être portées au double du maximum.
 
-<a id="art_N70678"></a>
+<a id="art_N6FE2B"></a>
 
 ### Art. L. 151-4.
 
 (L. 4 juin 2020) Le contrat ne peut être conclu pour une période excédant deux mois ou trois cent quarante-six heures par année civile. Cette durée ne peut être dépassée, même en cas de pluralité de contrats.
 
-<a id="art_N706B6"></a>
+<a id="art_N6FE69"></a>
 
 ### Art. L. 151-5.
 
 (L. 4 juin 2020) L’employeur qui occupe un élève ou un étudiant dans les conditions du présent chapitre est tenu de lui verser un salaire qui ne peut être inférieur à quatre-vingts pour cent du salaire social minimum, gradué le cas échéant en raison de l’âge.
 
-<a id="art_N70708"></a>
+<a id="art_N6FEBB"></a>
 
 ### Art. L. 151-6.
 
@@ -36898,7 +36731,7 @@ L’occupation d’élèves et d’étudiants ne donne pas lieu à affiliation e
 
 Le salaire revenant à l’élève ou l’étudiant est exonéré des cotisations dues en matière d’allocations familiales.
 
-<a id="art_N7077D"></a>
+<a id="art_N6FF30"></a>
 
 ### Art. L. 151-7.
 
@@ -36911,13 +36744,13 @@ Toutefois, ne sont pas applicables:
 3. loi du 8 avril 1982
 4. les dispositions de l’article L. 122-4.
 
-<a id="art_N707FB"></a>
+<a id="art_N6FFAE"></a>
 
 ### Art. L. 151-8.
 
 (L. 4 juin 2020) Les contestations pouvant naître de l’application du présent chapitre relèvent des juridictions compétentes en matière de louage de services, compte tenu de la nature de l’occupation.
 
-<a id="art_N70841"></a>
+<a id="art_N6FFF4"></a>
 
 ### Art. L. 151-9.
 
@@ -36929,7 +36762,7 @@ Toutefois, ne sont pas applicables:
 
 ##### **Chapitre 1er.** — **Adaptation temporaire des mesures en faveur de l'emploi des jeunes**
 
-<a id="art_N708BB"></a>
+<a id="art_N7006E"></a>
 
 ### Art. 1er.
 
@@ -36947,13 +36780,13 @@ Jusqu'au 31 décembre 2012, les dispositions suivantes, dérogatoires aux mesure
 10. Sur demande du promoteur ayant procédé à l'embauche subséquente du bénéficiaire, le Fonds pour l'emploi lui verse une prime unique correspondant à trente pour cent de l'indemnité touchée par le jeune. La prime n'est due et versée que six mois après l'engagement du bénéficiaire sous contrat à durée indéterminée et à condition que le contrat de travail soit toujours en vigueur et non encore dénoncé au moment de la demande.
 11. La durée de la priorité d'embauche est identique à la durée totale du temps passé en contrat d'initiation à l'emploi auprès du promoteur. A cet effet, et sous peine de remboursement au Fonds pour l'emploi des sommes perçues en application de l'article L. 543-21, le promoteur doit informer en temps utile l'ancien bénéficiaire d'un contrat d'initiation à l'emploi s'il répond aux qualifications et au profil exigés. Ce dernier dispose d'un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N7097A"></a>
+<a id="art_N7012D"></a>
 
 ### Art. 2.
 
 Pour une période se terminant le 31 décembre 2012, le contrat d'initiation à l'emploi au sens des articles L. 543-15 à L. 54329 du Code du travail est élargi d'un volet expérience pratique dans les conditions et selon les modalités prévues aux articles 3 à 11 qui suivent.
 
-<a id="art_N709B1"></a>
+<a id="art_N70164"></a>
 
 ### Art. 3.
 
@@ -36969,7 +36802,7 @@ Pour une période se terminant le 31 décembre 2012, le contrat d'initiation à 
 
 Ces dispositions redeviennent automatiquement applicables si les jeunes en question n'ont pas signé un contrat d'initiation à l'emploi-expérience pratique dans un délai de trois mois à partir de l'inscription. Ils peuvent par ailleurs à tout moment opter pour le retour à l'application de l'article L. 622-10.
 
-<a id="art_N70A38"></a>
+<a id="art_N701EB"></a>
 
 ### Art. 4.
 
@@ -36981,7 +36814,7 @@ L'employeur peut, à titre facultatif, lui verser une prime de mérite.
 
 L'indemnité est soumise aux charges sociales et fiscales prévues en matière de salaires.
 
-<a id="art_N70A85"></a>
+<a id="art_N70238"></a>
 
 ### Art. 5.
 
@@ -36989,7 +36822,7 @@ L'indemnité est soumise aux charges sociales et fiscales prévues en matière d
 
 **(2)** Sur demande du promoteur ayant procédé à l'embauche subséquente du bénéficiaire, le Fonds pour l'emploi lui verse une prime unique correspondant à trente pour cent de l'indemnité touchée par le jeune. La prime n'est due et versée que six mois après l'engagement du bénéficiaire sous contrat à durée indéterminée et à condition que le contrat de travail soit toujours en vigueur et non encore dénoncé au moment de la demande.
 
-<a id="art_N70ACE"></a>
+<a id="art_N70281"></a>
 
 ### Art. 6.
 
@@ -36997,7 +36830,7 @@ L'employeur est obligé, en cas de recrutement de personnel, d'embaucher par pri
 
 La durée de la priorité d'embauche est identique à la durée totale du temps passé en contrat d'initiation à l'emploi-expérience pratique auprès de l'employeur. A cet effet, sous peine de remboursement au Fonds pour l'emploi des sommes perçues en application de l'article 5 de la présente loi, l'employeur doit informer en temps utile l'ancien bénéficiaire d'un contrat d'initiation à l'emploi-expérience pratique s'il répond aux qualifications et au profil exigés. Ce dernier dispose d'un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N70B09"></a>
+<a id="art_N702BC"></a>
 
 ### Art. 7.
 
@@ -37013,25 +36846,25 @@ Au-delà des six premières semaines, l'employeur ne peut mettre fin au contrat 
 
 **(5)** Sous peine de remboursement intégral des sommes touchées par le Fonds pour l'emploi, l'employeur est tenu d'informer le ministre ayant l'Emploi dans ses attributions de la situation du jeune dont le contrat d'initiation à l'emploi-expérience pratique est venu à échéance.
 
-<a id="art_N70B90"></a>
+<a id="art_N70343"></a>
 
 ### Art. 8.
 
 A l'expiration du contrat d'initiation à l'emploi-expérience pratique, l'employeur doit délivrer au jeune un certificat de travail sur la nature et la durée de l'occupation et sur les formations le cas échéant suivies.
 
-<a id="art_N70BC2"></a>
+<a id="art_N70375"></a>
 
 ### Art. 9.
 
 Les jeunes bénéficiant d'un contrat d'initiation à l'emploi-expérience pratique ont droit au congé applicable dans l'entreprise où ils travaillent en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable.
 
-<a id="art_N70BF4"></a>
+<a id="art_N703A7"></a>
 
 ### Art. 10.
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés, de travail de dimanche, les dispositions légales, réglementaires et conventionnelles de droit commun afférentes s'appliquent aux bénéficiaires d'un contrat d'initiation à l'emploi-expérience pratique.
 
-<a id="art_N70C26"></a>
+<a id="art_N703D9"></a>
 
 ### Art. 11.
 
@@ -37039,7 +36872,7 @@ Les périodes d'occupation en contrat d'initiation à l'emploi-expérience prati
 
 ##### **Chapitre 2.** — **Dispositions modificatives et transitoires**
 
-<a id="art_N70C69"></a>
+<a id="art_N7041C"></a>
 
 ### Art. 12.
 
@@ -37052,13 +36885,13 @@ Les dispositions du Code du travail sont modifiées comme suit:
 5. **(1)** Les jeunes bénéficiant d'un contrat d'appui-emploi ont droit au congé applicable dans l'entreprise où ils travaillent, en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable. **(2)** En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés, de travail de dimanche, les dispositions légales, réglementaires et conventionnelles de droit commun afférentes s'appliquent aux bénéficiaires d'un contrat d'initiation à l'emploi.
 6. Les jeunes bénéficiant d'un contrat d'initiation à l'emploi ont droit au congé applicable dans l'entreprise où ils travaillent, en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable.
 
-<a id="art_N70D35"></a>
+<a id="art_N704E8"></a>
 
 ### Art. 13.
 
 Le Comité permanent du travail et de l’emploi procèdera à l’évaluation des dispositions de la présente loi.
 
-<a id="art_N70D67"></a>
+<a id="art_N7051A"></a>
 
 ### Art. 14.
 
@@ -37070,7 +36903,7 @@ Le Comité permanent du travail et de l’emploi procèdera à l’évaluation d
 
 ##### Code du travail
 
-<a id="art_N70DD3"></a>
+<a id="art_N70586"></a>
 
 ### Art. L. 543-1.
 
@@ -37082,7 +36915,7 @@ Le Comité permanent du travail et de l’emploi procèdera à l’évaluation d
 
 Sont exclus du champ d’application de l’alinéa qui précède, les promoteurs ayant la forme juridique d’une société commerciale au sens de laloi du 10 août 1915concernant les sociétés commerciales, telle qu’elle a été modifiée.
 
-<a id="art_N70E5E"></a>
+<a id="art_N70611"></a>
 
 ### Art. L. 543-2.
 
@@ -37092,7 +36925,7 @@ Le directeur de l’Agence pour le développement de l’emploi, sur avis du dé
 
 La décision de la prolongation doit tenir compte des résultats des évaluations prévues à l’article L. 543-9 (3) et des conclusions tirées d’un entretien entre le jeune demandeur d’emploi bénéficiant d’un contrat d’appui-emploi et l’Agence pour le développement de l’emploi.
 
-<a id="art_N70EB2"></a>
+<a id="art_N70665"></a>
 
 ### Art. L. 543-3.
 
@@ -37108,7 +36941,7 @@ Le promoteur doit également permettre au jeune demandeur d’emploi de particip
 
 La participation du jeune demandeur d’emploi à tout entretien d’embauche doit faire l’objet d’un certificat de présence signé par l’employeur potentiel ou son représentant. A cette fin, un formulaire pré-imprimé est mis à disposition par l’Agence pour le développement de l’emploi. Le jeune demandeur d’emploi est tenu de remettre ce certificat au promoteur, ainsi que de l’envoyer, en copie, au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N70F2D"></a>
+<a id="art_N706E0"></a>
 
 ### Art. L. 543-4.
 
@@ -37116,7 +36949,7 @@ Les promoteurs visés à l’article L. 543-1, paragraphe (2) adressent leur dem
 
 Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur et le tuteur prévu à l’article L. 543-5 établissent avec le jeune demandeur d’emploi un plan de formation. Copie de ce plan est transmise au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N70F84"></a>
+<a id="art_N70737"></a>
 
 ### Art. L. 543-5.
 
@@ -37126,13 +36959,13 @@ Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur e
 
 **(3)** Le délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi peut inviter le tuteur à assister à des séances de formation respectivement d’information.
 
-<a id="art_N70FF0"></a>
+<a id="art_N707A3"></a>
 
 ### Art. L. 543-6.
 
 Les dispositions du titre II du livre premier ne sont pas applicables au contrat d’appui-emploi.
 
-<a id="art_N71029"></a>
+<a id="art_N707DC"></a>
 
 ### Art. L. 543-7.
 
@@ -37146,7 +36979,7 @@ Ces résiliations entraînent que le jeune demandeur d’emploi ne peut être ad
 
 **(3)** L’Agence pour le développement de l’emploi peut refuser à un promoteur la conclusion d’un contrat d’appuiemploi en cas d’abus manifeste par le promoteur de la mesure et lorsqu’un encadrement adéquat du jeune demandeur d’emploi ne peut pas être garanti.
 
-<a id="art_N710A7"></a>
+<a id="art_N7085A"></a>
 
 ### Art. L. 543-8.
 
@@ -37154,7 +36987,7 @@ Ces résiliations entraînent que le jeune demandeur d’emploi ne peut être ad
 
 **(2)** En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux jeunes demandeurs d’emploi sous contrat d’appui-emploi.
 
-<a id="art_N71110"></a>
+<a id="art_N708C3"></a>
 
 ### Art. L. 543-9.
 
@@ -37170,13 +37003,13 @@ Ces évaluations portent sur des points préalablement définis par l’Agence p
 
 **(4)** A la fin du contrat d’appui-emploi le promoteur établit un certificat de fin de mesure, dont les éléments sont définis par l’Agence pour le développement de l’emploi, sur la nature et la durée de l’occupation et sur les éventuelles formations.
 
-<a id="art_N7118E"></a>
+<a id="art_N70941"></a>
 
 ### Art. L. 543-10.
 
 Le jeune demandeur d’emploi qui refuse sans motif valable un contrat d’appui-emploi, qui lui est proposé par l’Agence pour le développement de l’emploi, est exclu du bénéfice de l’indemnité de chômage complet.
 
-<a id="art_N711DC"></a>
+<a id="art_N7098F"></a>
 
 ### Art. L. 543-11.
 
@@ -37202,7 +37035,7 @@ Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentimen
 
 Ce remboursement n’est pas cumulable avec d’autres mesures en faveur de l’emploi.
 
-<a id="art_N712A8"></a>
+<a id="art_N70A5B"></a>
 
 ### Art. L. 543-12.
 
@@ -37210,13 +37043,13 @@ Le jeune demandeur d’emploi, sous contrat d’appui-emploi, doit accepter un e
 
 Le jeune demandeur d’emploi, sous contrat d’appui-emploi bénéficiant d’une formation, qui s’engage dans les liens d’un contrat de travail, peut terminer sa formation après accord du délégué à l’emploi des jeunes de l’Agence pour le développement de l’emploi.
 
-<a id="art_N712F3"></a>
+<a id="art_N70AA6"></a>
 
 ### Art. L. 543-13.
 
 Le délégué à l’emploi des jeunes de l’Agence pour le développement de l’emploi ou l’agent désigné par lui est habilité à procéder à des visites des lieux de travail des jeunes demandeurs d’emploi bénéficiant d’un contrat d’appui-emploi afin de s’assurer de la bonne exécution du contrat conformément aux dispositions qui précèdent.
 
-<a id="art_N71335"></a>
+<a id="art_N70AE8"></a>
 
 ### Art. L. 543-14.
 
@@ -37234,19 +37067,19 @@ Le délégué à l’emploi des jeunes de l’Agence pour le développement de l
 
 La participation du jeune demandeur d’emploi à tout entretien d’embauche doit faire l’objet d’un certificat de présence signé par l’employeur potentiel ou son représentant. A cette fin, un formulaire pré-imprimé est mis à disposition par l’Agence pour le développement de l’emploi. Ce certificat est à remettre au promoteur et à envoyer, en copie, au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N713E9"></a>
+<a id="art_N70B9C"></a>
 
 ### Art. L. 543-15.
 
 Le contrat d’initiation à l’emploi est réservé aux promoteurs qui peuvent offrir au jeune demandeur d’emploi une réelle perspective d’emploi à la fin du contrat.
 
-<a id="art_N71422"></a>
+<a id="art_N70BD5"></a>
 
 ### Art. L. 543-16.
 
 Les promoteurs visés à l’article L. 543-15 adressent leur demande d’un contrat d’initiation à l’emploi au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi. Ils y joignent une description des tâches à accomplir ainsi qu’un profil du poste à remplir.
 
-<a id="art_N71464"></a>
+<a id="art_N70C17"></a>
 
 ### Art. L. 543-17.
 
@@ -37258,7 +37091,7 @@ Le tuteur, d’un commun accord avec le jeune demandeur d’emploi, communique �
 
 Le délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi peut inviter le tuteur à assister à des séances de formation respectivement d’information.
 
-<a id="art_N714CD"></a>
+<a id="art_N70C80"></a>
 
 ### Art. L. 543-18.
 
@@ -37270,7 +37103,7 @@ La décision de la prolongation doit tenir compte des résultats des évaluation
 
 **(3)** Par dérogation au paragraphe (2), aucune autorisation n’est nécessaire pour les promoteurs qui sont couverts par un plan de maintien dans l’emploi au sens de l’article L. 513-3.
 
-<a id="art_N71533"></a>
+<a id="art_N70CE6"></a>
 
 ### Art. L. 543-19.
 
@@ -37282,7 +37115,7 @@ L’indemnité est portée à cent trente pour cent pour les jeunes demandeurs d
 
 Le promoteur peut, à titre facultatif, lui verser une prime de mérite non remboursable par le Fonds pour l’emploi.
 
-<a id="art_N7159C"></a>
+<a id="art_N70D4F"></a>
 
 ### Art. L. 543-20.
 
@@ -37292,7 +37125,7 @@ Le remboursement de cette quote-part est fixé à soixante-cinq pour cent en cas
 
 En cas de prolongation prévue à l’article L. 543-18 (2), le Fonds pour l’emploi rembourse, pour la durée de la prolongation, mensuellement au promoteur une quote-part correspondant à trente pour cent de l’indemnité touchée par le jeune demandeur d’emploi ainsi que la part patronale des charges sociales.
 
-<a id="art_N715F6"></a>
+<a id="art_N70DA9"></a>
 
 ### Art. L. 543-21.
 
@@ -37300,7 +37133,7 @@ Sur demande du promoteur ayant procédé à l’embauche subséquente du jeune d
 
 Ce remboursement n’est pas cumulable avec d’autres mesures en faveur de l’emploi.
 
-<a id="art_N7164D"></a>
+<a id="art_N70E00"></a>
 
 ### Art. L. 543-22.
 
@@ -37314,7 +37147,7 @@ Au-delà des six premières semaines, le promoteur peut, avec l’accord de l’
 
 En cas de motifs graves, le préavis de huit jours n’est pas applicable.
 
-<a id="art_N716C5"></a>
+<a id="art_N70E78"></a>
 
 ### Art. L. 543-23.
 
@@ -37326,7 +37159,7 @@ Ces évaluations portent sur des éléments définis par l’Agence pour le dév
 
 **(3)** A la fin du contrat d’initiation à l’emploi le promoteur établit un certificat de fin de mesure, dont les éléments sont définis par l’Agence pour le développement de l’emploi, sur la nature et la durée de l’occupation et sur les éventuelles formations.
 
-<a id="art_N71734"></a>
+<a id="art_N70EE7"></a>
 
 ### Art. L. 543-24.
 
@@ -37334,31 +37167,31 @@ Le promoteur est obligé, en cas de recrutement de personnel, d’embaucher par 
 
 A cet effet, le promoteur doit informer en temps utile l’Agence pour le développement de l’emploi sur le ou les postes disponibles. L’Agence pour le développement de l’emploi contacte l’ancien jeune demandeur d’emploi sous contrat d’initiation à l’emploi s’il répond aux qualifications et aux profils exigés. Ce dernier dispose d’un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N7177F"></a>
+<a id="art_N70F32"></a>
 
 ### Art. L. 543-25.
 
 Les jeunes demandeurs d’emploi bénéficiant d’un contrat d’initiation à l’emploi ont droit au congé applicable dans l’entreprise où ils travaillent, en vertu de la loi, de dispositions réglementaires, conventionnelles ou statutaires, le cas échéant proportionnellement à la durée de leur contrat.
 
-<a id="art_N717C1"></a>
+<a id="art_N70F74"></a>
 
 ### Art. L. 543-26.
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux jeunes demandeurs d’emploi sous contrat d’initiation à l’emploi.
 
-<a id="art_N7180F"></a>
+<a id="art_N70FC2"></a>
 
 ### Art. L. 543-27.
 
 Le jeune demandeur d’emploi qui refuse sans motif valable un contrat d’initiation à l’emploi, qui lui est proposé par l’Agence pour le développement de l’emploi, est exclu du bénéfice de l’indemnité de chômage complet.
 
-<a id="art_N71857"></a>
+<a id="art_N7100A"></a>
 
 ### Art. L. 543-28.
 
 L’Agence pour le développement de l’emploi peut refuser à un promoteur la conclusion d’un contrat d’initiation à l’emploi en cas d’abus manifeste par l’employeur de la mesure et lorsqu’un encadrement adéquat du jeune demandeur d’emploi ne peut pas être garanti.
 
-<a id="art_N71890"></a>
+<a id="art_N71043"></a>
 
 ### Art. L. 543-29.
 
@@ -37366,7 +37199,7 @@ L’Agence pour le développement de l’emploi peut refuser à un promoteur la 
 
 **(2)** Les dispositions prévues au paragraphe (1) sont mises en vigueur par règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des Députés, le Comité de coordination tripartite visé à l’article L. 512-3 demandé en son avis. Le même règlement détermine en outre les secteurs et branches économiques tombant sous l’application de ces dispositions.
 
-<a id="art_N718ED"></a>
+<a id="art_N710A0"></a>
 
 ### Art. L. 543-30.
 
@@ -37374,7 +37207,7 @@ Au cas où l’indemnité, versée au jeune demandeur d’emploi en application 
 
 Les périodes d’occupation en contrat d’appui-emploi et en contrat d’initiation à l’emploi sont mises en compte comme périodes de stage ouvrant droit à l’indemnité de chômage complet.
 
-<a id="art_N7195C"></a>
+<a id="art_N7110F"></a>
 
 ### Art. L. 543-31.
 
@@ -37384,7 +37217,7 @@ Les conditions et les modalités d’attribution de cette prime sont déterminé
 
 L’Agence pour le développement de l’emploi est chargée de l’application des dispositions du présent article.
 
-<a id="art_N719CE"></a>
+<a id="art_N71181"></a>
 
 ### Art. L. 543-32.
 
@@ -37392,7 +37225,7 @@ Le ministre ayant l’Emploi dans ses attributions peut, à charge du Fonds pour
 
 L’Agence pour le développement de l’emploi est chargée de l’application des dispositions du présent article.
 
-<a id="art_N71A2B"></a>
+<a id="art_N711DE"></a>
 
 ### Art. L. 543-33.
 
@@ -37406,7 +37239,7 @@ La même disposition s’applique aux mandataires et préposés de personnes mor
 
 ##### Chapitre 1er. — Dispositions générales.
 
-<a id="art_N71AA9"></a>
+<a id="art_N7125C"></a>
 
 ### Art. 1er.
 
@@ -37431,7 +37264,7 @@ La personne qui n’est pas un ressortissant du Grand-Duché de Luxembourg ou d�
 
 Par dérogation aux conditions prévues aux points a), b) et c), peut également prétendre au revenu pour personnes gravement handicapées, la personne reconnue salarié handicapé, qui, pour des raisons indépendantes de sa volonté, n'a pas accès à un emploi salarié et dispose de ressources d'un montant inférieur à celui du revenu pour personnes gravement handicapées, fixé à l'article 25 ci-après.
 
-<a id="art_N71B36"></a>
+<a id="art_N712E9"></a>
 
 ### Art. 2.
 
@@ -37439,7 +37272,7 @@ Les demandes en reconnaissance de la qualité de salarié handicapé et/ou les d
 
 La demande est réputée faite à la date du dépôt, à condition qu'elle soit signée et accompagnée des pièces justificatives requises déterminées par règlement grand-ducal.
 
-<a id="art_N71B74"></a>
+<a id="art_N71327"></a>
 
 ### Art. 3.
 
@@ -37473,13 +37306,13 @@ Aucune décision de la Commission médicale ne peut faire l'objet d'une demande 
 
 La décision relative à la demande en révision est prise conformément à la procédure prévue aux paragraphes 1 à 3 ci-avant.
 
-<a id="art_N71C57"></a>
+<a id="art_N7140A"></a>
 
 ### Art. 4.
 
 Toute personne reconnue salarié handicapé est tenue à se faire inscrire au service de placement et au service des salariés handicapés de l'Administration de l'Emploi ou à une de ses agences, service défini à l'article 31.
 
-<a id="art_N71C89"></a>
+<a id="art_N7143C"></a>
 
 ### Art. 5.
 
@@ -37487,7 +37320,7 @@ Toute personne reconnue salarié handicapé est tenue à se faire inscrire au se
 
 **(2)** Le salarié handicapé, qui refuse d'occuper un poste de travail qui lui est offert et qui correspond à ses aptitudes de travail, perd le bénéfice du revenu pour personnes gravement handicapées.
 
-<a id="art_N71CD2"></a>
+<a id="art_N71485"></a>
 
 ### Art. 6.
 
@@ -37505,7 +37338,7 @@ Aucune décision de la Commission d'orientation et de reclassement professionnel
 
 La décision relative à la demande en révision est prise conformément à la procédure prévue aux paragraphes 1 et 2 ci-avant.
 
-<a id="art_N71D4F"></a>
+<a id="art_N71502"></a>
 
 ### Art. 7.
 
@@ -37527,7 +37360,7 @@ L’article 456 du Code de la sécurité sociale est applicable. Pour les person
 
 ##### Chapitre 2. — Salariés handicapés guidés vers le marché du travail ordinaire
 
-<a id="art_N71E47"></a>
+<a id="art_N715FA"></a>
 
 ### Art. 8.
 
@@ -37543,7 +37376,7 @@ La forme et le contenu de ces mesures, qui peuvent comporter notamment l'attribu
 
 Cette charge n'est pas disproportionnée lorsqu'elle est compensée de façon suffisante par les mesures prévues à l'article 26 du règlement grand-ducal du 7 octobre 2004 portant exécution du paragraphe (4) qui précède.
 
-<a id="art_N71EB2"></a>
+<a id="art_N71665"></a>
 
 ### Art. 9.
 
@@ -37551,7 +37384,7 @@ Si le salarié handicapé refuse d'occuper un poste qui correspond à ses aptitu
 
 La décision afférente du directeur de l'Administration de l'emploi sera notifiée à l'intéressé par lettre recommandée à la poste.
 
-<a id="art_N71EED"></a>
+<a id="art_N716A0"></a>
 
 ### Art. 10.
 
@@ -37573,7 +37406,7 @@ Au cas où les employeurs occupent un nombre de salariés handicapés supérieur
 
 Pour la computation du nombre des postes à réserver, les chiffres atteignant et dépassant la demie sont à arrondir vers le haut, les autres sont à négliger.
 
-<a id="art_N71F7F"></a>
+<a id="art_N71732"></a>
 
 ### Art. 11.
 
@@ -37583,13 +37416,13 @@ Pour la computation du nombre des postes à réserver, les chiffres atteignant e
 
 **(3)** L'assignation d'un poste de salarié handicapé tant dans le secteur public que privé doit se faire en collaboration avec le service des salariés handicapés de l'Administration de l'Emploi.
 
-<a id="art_N71FDB"></a>
+<a id="art_N7178E"></a>
 
 ### Art. 12.
 
 En cas de refus d'un employeur du secteur privé d'embaucher le nombre prescrit de handicapés, une taxe de compensation équivalant à 50 % du salaire social minimum est à verser chaque mois au Trésor public par ledit employeur. Cette taxe est due aussi longtemps que dure le refus et pour chaque salarié handicapé non embauché.
 
-<a id="art_N7200D"></a>
+<a id="art_N717C0"></a>
 
 ### Art. 13.
 
@@ -37599,13 +37432,13 @@ La fixation de la rémunération interviendra indépendamment et sans prise en c
 
 Lesdites rentes sont à payer intégralement aux bénéficiaires, elles ne doivent en aucun cas être déduites de la rémunération des salariés handicapés, ni être réduites d'une autre manière au détriment de leurs bénéficiaires.
 
-<a id="art_N72051"></a>
+<a id="art_N71804"></a>
 
 ### Art. 14.
 
 Les salariés indépendants qui ont obtenu la reconnaissance de la qualité de salarié handicapé et qui sont disposés à poursuivre leur activité professionnelle, peuvent bénéficier, sous les conditions à déterminer par règlement grand-ducal, de l'exemption totale ou partielle des charges de sécurité sociale qui sont prises en charge par le budget de l'Etat.
 
-<a id="art_N72083"></a>
+<a id="art_N71836"></a>
 
 ### Art. 15.
 
@@ -37615,7 +37448,7 @@ La participation au salaire est fixée notamment en fonction de la perte de rend
 
 Le taux de la participation au salaire peut être adapté périodiquement par le directeur de l'Administration de l'emploi, sur avis de la Commission d'orientation, compte tenu notamment de l'évolution du handicap et/ou de l'adaptation du salarié handicapé au milieu du travail.
 
-<a id="art_N720C7"></a>
+<a id="art_N7187A"></a>
 
 ### Art. 16.
 
@@ -37625,19 +37458,19 @@ Le taux de la participation au salaire peut être adapté périodiquement par le
 
 ##### Chapitre 3. — Salariés handicapés guidés vers les ateliers protégés
 
-<a id="art_N72120"></a>
+<a id="art_N718D3"></a>
 
 ### Art. 17.
 
 Est guidé vers les ateliers protégés, tout salarié handicapé qui, en raison de ses capacités de travail réduites, ne suffit pas ou pas encore aux exigences et contraintes du marché du travail ordinaire. Les modalités et critères permettant de guider le salarié handicapé vers le marché du travail ordinaire ou vers les ateliers protégés peuvent être précisés par règlement grand-ducal.
 
-<a id="art_N72152"></a>
+<a id="art_N71905"></a>
 
 ### Art. 18.
 
 Pour le salarié handicapé guidé vers les ateliers protégés, les responsables de l'atelier protégé définissent les mesures permettant l'emploi du salarié handicapé dans des conditions adaptées à ses besoins et les mesures d'insertion professionnelle, d'accompagnement et de suivi du salarié handicapé sur le marché du travail ordinaire.
 
-<a id="art_N72184"></a>
+<a id="art_N71937"></a>
 
 ### Art. 19.
 
@@ -37657,7 +37490,7 @@ Pour le salarié handicapé guidé vers les ateliers protégés, les responsable
 
 **(4)** Dans le cas du salarié handicapé se trouvant en régime de tutelle, conformément aux dispositions prévues par le Code civil au titre XI qui traite de la majorité et des majeurs qui sont protégés par la loi, le tuteur de la personne majeure protégée par la loi signe le contrat de travail.
 
-<a id="art_N72216"></a>
+<a id="art_N719C9"></a>
 
 ### Art. 20.
 
@@ -37667,7 +37500,7 @@ Pour le salarié handicapé guidé vers les ateliers protégés, les responsable
 
 Par dérogation à la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés, à la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée du travail des ouvriers occupés dans les secteurs public et privé de l'économie et à la loi du 23 mars 2001 concernant la protection des jeunes salariés, la durée du travail dans les ateliers protégés inclut la durée des activités socio-pédagogiques et thérapeutiques exercées durant les heures de travail sur le lieu de travail. Il en est de même pour le temps durant lequel le salarié handicapé participe à des stages en entreprise non rémunérés par l'entreprise d'affectation et organisés par l'atelier protégé.
 
-<a id="art_N7227C"></a>
+<a id="art_N71A2F"></a>
 
 ### Art. 21.
 
@@ -37679,13 +37512,13 @@ L’Etat participe au salaire du salarié engagé dans un atelier protégé à r
 
 **(3)** Par dérogation à la loi modifiée du 12 juillet 1895 concernant le paiement des salaires des ouvriers, le salaire est payé une fois par mois par l'atelier protégé au «salarié» handicapé.
 
-<a id="art_N722ED"></a>
+<a id="art_N71AA0"></a>
 
 ### Art. 22.
 
 En cas de cessation des relations d'emploi avec l'atelier protégé, le salarié handicapé sans emploi a droit à l'octroi d'une indemnité de chômage complet, pourvu qu'il réponde aux conditions d'admission déterminées au titre 2 de la loi modifée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet.
 
-<a id="art_N72324"></a>
+<a id="art_N71AD7"></a>
 
 ### Art. 23.
 
@@ -37699,7 +37532,7 @@ L'agrément est accordé conformément aux dispositions de la loi du 8 septembre
 
 **(2)** Tout atelier protégé est soumis à la loi du 10 juin 1999 relative aux établissements classés.
 
-<a id="art_N7238D"></a>
+<a id="art_N71B40"></a>
 
 ### Art. 24.
 
@@ -37709,7 +37542,7 @@ L'agrément est accordé conformément aux dispositions de la loi du 8 septembre
 
 ##### Chapitre 4. — Revenu pour personnes gravement handicapées
 
-<a id="art_N723EB"></a>
+<a id="art_N71B9E"></a>
 
 ### Art. 25.
 
@@ -37721,7 +37554,7 @@ Le montant prévu par le présent article est adapté à l’augmentation du mon
 
 L’ECI est exempt d’impôts.
 
-<a id="art_N72483"></a>
+<a id="art_N71C36"></a>
 
 ### Art. 26.
 
@@ -37729,7 +37562,7 @@ Le revenu pour personnes gravement handicapées est suspendu jusqu'à concurrenc
 
 Le revenu pour personnes gravement handicapées est intégralement mis en compte en vue de la détermination des prestations de revenu minimum garanti prévues par la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti.
 
-<a id="art_N724C3"></a>
+<a id="art_N71C76"></a>
 
 ### Art. 27.
 
@@ -37739,13 +37572,13 @@ Le revenu pour personnes gravement handicapées est intégralement mis en compte
 
 **(3)** Le revenu est soumis au paiement des cotisations en matière d'assurance dépendance.
 
-<a id="art_N7251C"></a>
+<a id="art_N71CCF"></a>
 
 ### Art. 27bis.
 
 Le revenu pour personnes gravement handicapées est soumis au paiement des cotisations en matière d’assurance pension si le bénéficiaire justifie d’une affiliation à l’assurance pension au titre de l’article 171 du Code de la sécurité sociale de vingt-cinq années au moins. Dans ce cas, la part assuré et la part patronale sont imputées sur le Fonds national de solidarité.
 
-<a id="art_N72553"></a>
+<a id="art_N71D06"></a>
 
 ### Art. 28.
 
@@ -37759,19 +37592,19 @@ Le revenu est dû à partir de la date de communication du dossier par le direct
 
 **(3)** Le revenu est versé au requérant par le Fonds national de solidarité.
 
-<a id="art_N725C4"></a>
+<a id="art_N71D77"></a>
 
 ### Art. 29.
 
 **(1)** La révision de la décision d’attribution du revenu pour personnes gravement handicapées se fait selon les conditions et modalités prévues par les articles 28 et 29 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale.
 
-<a id="art_N72629"></a>
+<a id="art_N71DDC"></a>
 
 ### Art. 30.
 
 Le revenu pour personnes gravement handicapées est à charge du budget de l'Etat.
 
-<a id="art_N7265B"></a>
+<a id="art_N71E0E"></a>
 
 ### Art. 30bis.
 
@@ -37779,13 +37612,13 @@ Ne peut prétendre aux prestations de la présente loi, la personne qui fait l�
 
 ##### Chapitre 5. — Dispositions organiques
 
-<a id="art_N726A2"></a>
+<a id="art_N71E55"></a>
 
 ### Art. 31.
 
 Le service des salariés handicapés de l'Administration de l'Emploi, visé par l'article 28 de la loi modifiée du 21 février 1976 concernant l'organisation et le fonctionnement de l'Administration de l'Emploi et portant création d'une Commission nationale de l'Emploi est chargé des mesures d'orientation, de formation, de placement, de rééducation, d'intégration et de réintégration professionnelles des personnes reconnues comme salarié handicapé.
 
-<a id="art_N726D9"></a>
+<a id="art_N71E8C"></a>
 
 ### Art. 32.
 
@@ -37807,7 +37640,7 @@ Le secrétariat de la Commission est assuré par un agent du service des salari�
 
 **(3)** La Commission médicale délibère valablement quand la majorité de ses membres sont présents. Les décisions et avis de la Commission médicale sont pris à la majorité des voix exprimées. En cas d'égalité des voix, la voix du président est prépondérante.
 
-<a id="art_N72763"></a>
+<a id="art_N71F16"></a>
 
 ### Art. 33.
 
@@ -37833,7 +37666,7 @@ Le secrétariat de la Commission est assuré par un agent du service des salari�
 
 **(3)** La Commission d'orientation et de reclassement professionnel délibère valablement quand la majorité de ses membres sont présents. Les décisions et avis de la commission sont pris à la majorité des voix exprimées. En cas d'égalité des voix, la voix du président est prépondérante.
 
-<a id="art_N727F9"></a>
+<a id="art_N71FAC"></a>
 
 ### Art. 34.
 
@@ -37854,31 +37687,31 @@ Un règlement grand-ducal précise les modalités d'organisation et de fonctionn
 
 ##### Chapitre 6. — Dispositions modificatives et abrogatoires
 
-<a id="art_N72880"></a>
+<a id="art_N72033"></a>
 
 ### Art. 35.
 
 L'article 23, I, avant-dernier alinéa de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat, l'article XVIII, 2) de la loi modifiée du 27 juillet 1987 concernant l'assurance pension en cas de vieillesse, d'invalidité et de survie et l'article 22, dernier alinéa de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois ainsi que les dispositions correspondantes régissant les régimes de pension spéciaux définis à l'article 1er de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension sont abrogés. Ces dispositions continuent toutefois à sortir leurs effets en ce qui concerne les personnes handicapées ayant droit à la pension d'orphelin avant l'entrée en vigueur de la présente loi.
 
-<a id="art_N728C9"></a>
+<a id="art_N7207C"></a>
 
 ### Art. 36.
 
 L'article 4, alinéa 2 de la loi modifiée du 22 avril 1966 portant réglementation uniforme du congé annuel des salariés du secteur privé est modifié comme suit:Un congé supplémentaire de six jours ouvrables est accordé aux invalides de guerre, aux accidentés de travail et aux personnes ayant un handicap physique, mental, sensoriel ou psychique, auxquelles a été reconnue la qualité de travailleur handicapé conformément à la loi du 12 septembre 2003 relative aux personnes handicapées. L'indemnité journalière du congé supplémentaire est à charge des crédits budgétaires de l'Etat.
 
-<a id="art_N72912"></a>
+<a id="art_N720C5"></a>
 
 ### Art. 37.
 
 L'article 6, alinéa 1 de la loi modifiée du 12 mars 1973 portant réforme du salaire social minimum est abrogé.
 
-<a id="art_N72949"></a>
+<a id="art_N720FC"></a>
 
 ### Art. 38.
 
 L'article 2, paragraphe (1) de la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet est complété par le numéro suivant:38. La prise en charge de l'indemnité compensatoire versée aux travailleurs handicapés en vertu de l'article 45 (1) alinéa 2 de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
-<a id="art_N72991"></a>
+<a id="art_N72144"></a>
 
 ### Art. 39.
 
@@ -37888,13 +37721,13 @@ La loi modifiée du 19 juin 1985 concernant les allocations familiales et portan
 2. L'allocation spéciale supplémentaire est continuée jusqu'à l'âge de vingt-sept ans accomplis au plus pour la personne bénéficiaire d'allocations familiales en application de l'article 3, alinéa 4, pour autant que les revenus de cette personne, y compris les allocations familiales, ne soient égaux ou supérieurs aux revenus visés à l'article 3, alinéa 4, ou ne constituent un revenu garanti ou de remplacement ou une prestation pour adultes handicapés au titre d'un régime non luxembourgeois.
 3. Dispositions transitoires. L'ancien alinéa 4 de l'article 3 et l'ancien alinéa 6 de l'article 4 demeurent applicables pour les personnes bénéficiaires de l'allocation familiale et de l'allocation spéciale supplémentaire au moment de l'entrée en vigueur de la loi du 12 septembre 2003 relative aux personnes handicapées. Toutefois, ces allocations ne sont plus dues lorsque la personne handicapée est admise soit au bénéfice du revenu pour travailleurs handicapés ou du revenu pour personnes gravement handicapées visés par la loi du 12 septembre 2003 relative aux personnes handicapées, soit à un revenu garanti ou de remplacement ou à toute prestation pour adultes handicapés prévus par un régime non luxembourgeois.
 
-<a id="art_N72A26"></a>
+<a id="art_N721D9"></a>
 
 ### Art. 40.
 
 A l'article 4 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, est ajouté un nouveau point 7. libellé comme suit:les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales, pendant lesquelles le travailleurs handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
 
-<a id="art_N72A78"></a>
+<a id="art_N7222B"></a>
 
 ### Art. 41.
 
@@ -37908,7 +37741,7 @@ Le Code des assurances sociales est modifié comme suit:
 6. Pour les personnes visées à l'article 171, alinéa 1, sous 17), est prise en compte l'activité exercée dans l'atelier protégé.
 7. 1. par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 171, 17).
 
-<a id="art_N72B45"></a>
+<a id="art_N722F8"></a>
 
 ### Art. 42.
 
@@ -37916,13 +37749,13 @@ La loi modifiée du 12 novembre 1991 sur les travailleurs handicapés est abrog�
 
 ##### Chapitre 7. — Dispositions transitoires et finales
 
-<a id="art_N72B87"></a>
+<a id="art_N7233A"></a>
 
 ### Art. 43.
 
 Les mesures prises depuis l'entrée en vigueur de la loi modifiée du 12 novembre 1991 sur les salariés handicapés sont maintenues après l'entrée en vigueur de la présente loi, à l'exception de la prime d'encouragement ou de rééducation versée aux personnes reconnues comme salarié handicapé et occupées dans les ateliers protégés, qui sera remplacée par un salaire conformément aux dispositions de l'article 21.
 
-<a id="art_N72BBE"></a>
+<a id="art_N72371"></a>
 
 ### Art. 44.
 
@@ -37931,7 +37764,7 @@ Par dérogation aux nombres limites inscrits dans la loi budgétaire pour l'exer
 - deux fonctionnaires dans la carrière du rédacteur pour les besoins du service des salariés handicapés de l'Administration de l'Emploi;
 - un fonctionnaire dans la carrière du rédacteur pour les besoins du Ministère du Travail et de l'Emploi.
 
-<a id="art_N72BFA"></a>
+<a id="art_N723AD"></a>
 
 ### Art. 45.
 
@@ -37945,13 +37778,13 @@ Au cas où les revenus de la personne handicapée admise au bénéfice du revenu
 
 Cette indemnité compensatoire est adaptée à l'indice des prix à la consommation et est soumise aux mêmes charges sociales que le revenu pour personnes gravement handicapées.
 
-<a id="art_N72C68"></a>
+<a id="art_N7241B"></a>
 
 ### Art. 46.
 
 Les dispositions de la présente loi entrent en vigueur le premier jour du neuvième mois après leur publication au Mémorial, à l'exception de l'article 44 qui entre en vigueur le quatrième jour après la publication au Mémorial.
 
-<a id="art_N72C9A"></a>
+<a id="art_N7244D"></a>
 
 ### Art. 47.
 
@@ -37963,7 +37796,7 @@ La référence à la présente loi pourra se faire sous une forme abrégée en u
 
 #### Loi du 1er août 2007 portant approbation de l'Accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg relatif à la coopération dans les régions frontalières, conclu par échange de lettres le 23 mai 2005 à Luxembourg.
 
-<a id="art_N72D0D"></a>
+<a id="art_N724C0"></a>
 
 ### Article unique.
 
@@ -37981,7 +37814,7 @@ Est approuvé l'Accord entre le Gouvernement du Royaume de Belgique avec la Rég
 
 #### Loi du 12 mai 1997 portant approbation de l'Accord entre le Grand-Duché de Luxembourg, la République fédérale d'Allemagne, la République française et la Confédération Suisse, agissant au nom des cantons de Soleure, de Bâle-Ville, de Bâle-Campagne, d'Argovie et du Jura sur la coopération transfrontalière des collectivités territoriales et organismes publics locaux, fait à Karlsruhe, le 23 janvier 1996.
 
-<a id="art_N72D9F"></a>
+<a id="art_N72552"></a>
 
 ### Article unique.
 
@@ -37999,7 +37832,7 @@ Est approuvé l'Accord entre le Gouvernement du Royaume de Belgique avec la Rég
 
 #### Loi du 31 juillet 1987 portant approbation de la Convention Benelux concernant la coopération transfrontalière entre collectivités ou autorités territoriales, signée à Bruxelles, le 12 septembre 1986.
 
-<a id="art_N72E38"></a>
+<a id="art_N725EB"></a>
 
 ### Article unique.
 
@@ -38017,13 +37850,13 @@ Est approuvée la Convention Benelux concernant la coopération transfrontalièr
 
 #### Loi du 18 mai 1999 portant approbation du Protocole no. 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération interterritoriale, fait à Strasbourg, le 5 mai 1998.
 
-<a id="art_N72ECA"></a>
+<a id="art_N7267D"></a>
 
 ### Art. 1er.
 
 Est approuvé le Protocole No2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération inter-territoriale, fait à Strasbourg, le 5 mai 1998.
 
-<a id="art_N72EDD"></a>
+<a id="art_N72690"></a>
 
 ### Art. 2.
 
@@ -38041,7 +37874,7 @@ Le Grand-Duché de Luxembourg applique, conformément aux dispositions de l'arti
 
 #### Loi du 26 novembre 1996 portant approbation du Protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, signé à Strasbourg, le 9 novembre 1995.
 
-<a id="art_N72F6F"></a>
+<a id="art_N72722"></a>
 
 ### Article unique.
 
@@ -38059,7 +37892,7 @@ Est approuvé le Protocole additionnel à la Convention-cadre européenne sur la
 
 #### Loi du 29 novembre 1982 portant approbation de la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, signée à Madrid, le 21 mai 1980.
 
-<a id="art_N73001"></a>
+<a id="art_N727B4"></a>
 
 ### Article unique.
 
