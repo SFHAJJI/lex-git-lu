@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:code-fonction_publique:2026-02-01
+lex_id: lu-legilux:code-fonction_publique:2026-05-01
 title: Code de la fonction publique
-valid_from: 2026-02-01
-valid_to: 2026-04-30
-source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20260201/fr
-source_sha256: 482f5d845c953ca52876dfd7c8c69028dbdffb8f0b4d8490a64d420bb6cf94b9
+valid_from: 2026-05-01
+valid_to: 2026-05-31
+source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20260501/fr
+source_sha256: 42b6dd4b2c7cf87f1c139a88c76823c10968791b41f7f88938a58c627450c183
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -11525,7 +11525,7 @@ Pour le sous-groupe à attributions particulières mentionné sous d), le classe
 1. la fonction de conservateur des hypothèques est classée au grade 12;
 2. la fonction de secrétaire général au ravitaillement est classée au grade 13.
 
-**(4)** Dans la catégorie de traitement C, groupe de traitement C1, il est créé trois sous-groupes avec au niveau général les grades 4, 5 et 6 et au niveau supérieur les grades 7*bis *et 8*bis* :
+**(4)** Dans la catégorie de traitement C, groupe de traitement C1, il est créé trois sous-groupes avec au niveau général les grades 4, 5 et 6 et au niveau supérieur les grades 7*bis *et 8*bis*:
 
 1. un sous-groupe administratif avec au niveau général la fonction d'expéditionnaire et au niveau supérieur la fonction d'expéditionnaire dirigeant;
 2. un sous-groupe technique avec au niveau général la fonction d'expéditionnaire technique et au niveau supérieur la fonction d'expéditionnaire technique dirigeant ;
@@ -27841,7 +27841,7 @@ Pendant la période d’initiation, les dispositions de l’article 4*bis* de la
 
 ### Art. 21.
 
-**(1)** Dès la fin de la période prévue à l’article 20, paragraphe 1er , l’employé bénéficie d’office d’une bonification d’ancienneté de service conformément aux dispositions prévues par l’article 5 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, sous réserve de l’application des alinéas ci-après. Pour les employés exerçant la profession de médecin de la catégorie d’indemnité A, groupe d’indemnité A1, sous-groupe à attributions particulières, les dispositions prévues à l’article 5, paragraphe 4, de la même loi sont applicables.
+**(1)** Dès la fin de la période prévue à l’article 20, paragraphe 1er, l’employé bénéficie d’office d’une bonification d’ancienneté de service conformément aux dispositions prévues par l’article 5 de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, sous réserve de l’application des alinéas ci-après. Pour les employés exerçant la profession de médecin de la catégorie d’indemnité A, groupe d’indemnité A1, sous-groupe à attributions particulières, les dispositions prévues à l’article 5, paragraphe 4, de la même loi sont applicables.
 
 Pour les employés, l’expression «début de carrière» se substitue à l’expression «nomination définitive».
 
@@ -31080,23 +31080,23 @@ La présente loi entre en vigueur le premier jour du septième mois qui suit cel
 
 ### 1. Convention collective
 
-#### Version consolidée applicable au 01/01/2022 : Convention collective des salariés de l'État.
+#### Arrêté du Gouvernement en Conseil du 20 mars 2026 portant approbation de la convention collective des salariés de l’État, signée en date du 19 mars 2026 entre le Ministre de la Fonction publique, d’une part, et les représentants des syndicats contractants OGBL et LCGB, d’autre part.
 
 <a id="art_N5B441"></a>
 
 ### Art. 1er.
 
-La convention collective des salariés de l’État, signée en date du 19 décembre 2016 entre le Ministre de la Fonction publique et de la Réforme administrative d’une part et les représentants des syndicats contractants OGBL et LCGB d’autre part, est approuvée.
+La convention collective des salariés de l’État, signée en date du 19 mars 2026 entre le Ministre de la Fonction publique, d’une part, et les représentants des syndicats contractants OGBL et LCGB, d’autre part, est approuvée.
 
-<a id="art_N5B476"></a>
+<a id="art_N5B454"></a>
 
 ### Art. 2.
 
-Le présent arrêté est transmis à Monsieur le Ministre de la Fonction publique et de la Réforme administrative pour exécution.
+Le présent arrêté sera publié au Journal officiel du Grand-Duché de Luxembourg.
 
-<a id="annex_2184"></a>
+<a id="convention_collective_des_salaries_de_l_etat"></a>
 
-### annex_2184
+### Convention collective des salariés de l’État
 
 
 
@@ -31106,7 +31106,7 @@ Le présent arrêté est transmis à Monsieur le Ministre de la Fonction publiqu
 
 #### Code du travail
 
-<a id="art_N5E11E"></a>
+<a id="art_N5D7C9"></a>
 
 ### Art. L. 411-1.
 
@@ -31136,7 +31136,7 @@ Toutefois, les salariés sous contrat à durée déterminée et les salariés mi
 
 ##### **Chapitre I.** — **Structure et champ d’application**
 
-<a id="art_N5E20D"></a>
+<a id="art_N5D8B8"></a>
 
 ### Art. 1er.
 
@@ -31158,7 +31158,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 ##### **Chapitre II.** — **Organisation du cycle long**
 
-<a id="art_N5E2A7"></a>
+<a id="art_N5D952"></a>
 
 ### Art. 2. Section des carrières supérieures administratives.
 
@@ -31186,7 +31186,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **III.** Les cours sont organisés à plein temps. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5E401"></a>
+<a id="art_N5DAAC"></a>
 
 ### Art. 3. Section de la carrière du rédacteur.
 
@@ -31225,7 +31225,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours sont organisés à plein temps au début du stage. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5E612"></a>
+<a id="art_N5DCBD"></a>
 
 ### Art. 4. Section de la carrière du receveur communal.
 
@@ -31261,7 +31261,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours sont organisés à plein temps au début du stage. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5E7F6"></a>
+<a id="art_N5DEA1"></a>
 
 ### Art. 5. Section de la carrière de l’expéditionnaire administratif.
 
@@ -31294,7 +31294,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours sont organisés à plein temps au début du stage. Ils peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5E9AD"></a>
+<a id="art_N5E058"></a>
 
 ### Art. 6. Section de la carrière de l’ingénieur technicien.
 
@@ -31323,7 +31323,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 ##### **Chapitre III. ** — **Organisation du cycle court**
 
-<a id="art_N5EB1A"></a>
+<a id="art_N5E1C5"></a>
 
 ### Art. 7. Section des carrières supérieures scientifiques.
 
@@ -31339,7 +31339,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours de la présente section peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5EBCA"></a>
+<a id="art_N5E275"></a>
 
 ### Art. 8. Section des carrières moyennes techniques, paramédicales et socio-éducatives.
 
@@ -31357,7 +31357,7 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 **II.** Les cours de la présente section peuvent être organisés soit sous forme de plages successives de deux à quatre heures réparties sur plusieurs semaines, soit sous forme de travaux dirigés ou de séminaires couvrant des journées entières.
 
-<a id="art_N5EC98"></a>
+<a id="art_N5E343"></a>
 
 ### Art. 9. Section des carrières inférieures techniques, paramédicales et socio-éducatives.
 
@@ -31376,13 +31376,13 @@ La formation générale du personnel des communes, des syndicats de communes et 
 
 ##### **Chapitre IV.** — **Dispositions additionnelles concernant la formation générale**
 
-<a id="art_N5ED67"></a>
+<a id="art_N5E412"></a>
 
 ### Art. 10. Visites, conférences et stages.
 
 Jusqu’à concurrence du nombre d’heures de formation générale fixées aux articles 2 à 9 du présent règlement, le temps de formation peut comprendre, dans le cadre ou en dehors des cours proprement dits, des travaux de recherche, des exposés sur des sujets divers, des conférences, des visites de différentes administrations et institutions ainsi que le cas échéant, des stages de formation ou de perfectionnement dans le secteur privé ou dans une administration ou institution à l’étranger.
 
-<a id="art_N5ED9F"></a>
+<a id="art_N5E44A"></a>
 
 ### Art. 11. Relations entre l’Institut et les chargés de cours.
 
@@ -31401,7 +31401,7 @@ L’Institut peut procéder ou faire procéder périodiquement à une évaluatio
 
 Le cas échéant la commission administrative peut, l’Institut et le Ministre de l’Intérieur entendu en leur avis, proposer au Ministre ayant dans ses attributions la Fonction publique la révocation du chargé de cours.
 
-<a id="art_N5EE30"></a>
+<a id="art_N5E4DB"></a>
 
 ### Art. 12. Relation entre l’Institut et les fonctionnaires en service provisoire.
 
@@ -31411,17 +31411,17 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 
 ##### **Chapitre I.** — **Plan d’insertion professionnelle**
 
-<a id="art_N5EE88"></a>
+<a id="art_N5E533"></a>
 
-### art_N5EE88
+### art_N5E533
 
 1. 
 2. 
 3. 
 
-<a id="art_N5EEEC"></a>
+<a id="art_N5E597"></a>
 
-### art_N5EEEC
+### art_N5E597
 
 - 
 - 
@@ -31431,9 +31431,9 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 - 
 - 
 
-<a id="art_N5EFE8"></a>
+<a id="art_N5E693"></a>
 
-### art_N5EFE8
+### art_N5E693
 
 1. - 
 - 
@@ -31448,9 +31448,9 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 - 
 - 
 
-<a id="art_N5F0BD"></a>
+<a id="art_N5E768"></a>
 
-### art_N5F0BD
+### art_N5E768
 
 - 
 - 
@@ -31467,7 +31467,7 @@ Le chargé de direction invite les délégués de classe désignés par les fonc
 
 ##### **Chapitre I.** — **L’examen d’admission définitive du cycle long**
 
-<a id="art_N5F1CD"></a>
+<a id="art_N5E878"></a>
 
 ### Art. 17.
 
@@ -31493,7 +31493,7 @@ Si l’observateur ne présente pas de remarque particulière, le procès-verbal
 
 L’observateur peut également informer directement le Ministre de l’Intérieur par une note écrite, s’il a constaté un fait grave pouvant mettre en cause la validité de l’examen. L’observateur est obligé de garder le secret des délibérations des commissions d’examen.
 
-<a id="art_N5F25C"></a>
+<a id="art_N5E907"></a>
 
 ### Art. 18. Admission aux examens de fin de formation générale et de fin de formation spéciale.
 
@@ -31511,7 +31511,7 @@ Le Ministre de l’Intérieur informe l’intéressé et l’autorité communale
 
 **III.** Les dates des examens de fin de formation générale et de fin de formation spéciale sont publiées au Mémorial au moins trois mois à l’avance.
 
-<a id="art_N5F2DF"></a>
+<a id="art_N5E98A"></a>
 
 ### Art. 19. Examen de fin de formation générale.
 
@@ -31541,7 +31541,7 @@ Les notes des matières pour lesquelles une dispense est accordée sont mises en
 
 **IV.** Le résultat de l’examen de fin de formation générale est intégré au dossier-formation du candidat.
 
-<a id="art_N5F39F"></a>
+<a id="art_N5EA4A"></a>
 
 ### Art. 20. Examen de fin de formation spéciale.
 
@@ -31553,19 +31553,19 @@ Il est organisé au cours de la dernière année de stage.
 
 **III.** Le résultat de l’examen de fin de formation spéciale est intégré au dossier-formation du candidat.
 
-<a id="art_N5F407"></a>
+<a id="art_N5EAB2"></a>
 
-### art_N5F407
-
-
-
-<a id="art_N5F4E9"></a>
-
-### art_N5F4E9
+### art_N5EAB2
 
 
 
-<a id="art_N5F577"></a>
+<a id="art_N5EB94"></a>
+
+### art_N5EB94
+
+
+
+<a id="art_N5EC22"></a>
 
 ### Art. 23. Examens d’ajournement.
 
@@ -31581,7 +31581,7 @@ Le candidat qui n’a pas obtenu la moitié des points dans une matière d’ajo
 
 ##### **Chapitre II.** — **L’examen d’admission définitive du cycle court**
 
-<a id="art_N5F5FF"></a>
+<a id="art_N5ECAA"></a>
 
 ### Art. 24.
 
@@ -31591,7 +31591,7 @@ Le candidat qui n’a pas obtenu la moitié des points dans une matière d’ajo
 
 L’Institut transmet la note finale au Ministère de l’Intérieur.
 
-<a id="art_N5F651"></a>
+<a id="art_N5ECFC"></a>
 
 ### Art. 25.
 
@@ -31607,21 +31607,21 @@ La dispense est accordée par le Ministre de l’Intérieur sur demande de l’i
 
 ##### **Titre IV** — **Dispositions additionnelles**
 
-<a id="art_N5F6D0"></a>
+<a id="art_N5ED7B"></a>
 
-### art_N5F6D0
+### art_N5ED7B
 
 
 
 ##### **Titre V** — **Dispositions abrogatoires et finales**
 
-<a id="art_N5F771"></a>
+<a id="art_N5EE1C"></a>
 
-### art_N5F771
+### art_N5EE1C
 
 
 
-<a id="art_N5F801"></a>
+<a id="art_N5EEAC"></a>
 
 ### Art. 28.
 
@@ -31631,735 +31631,3879 @@ Notre Ministre de la Fonction publique et de la Réforme administrative et Notre
 
 ##### Titre I — Programmes détaillés des cours de la section des carrières supérieures administratives
 
-<a id="art_N5F853"></a>
+<a id="art_N5EEFF"></a>
 
 ### Art. 1. Méthodes modernes de gestion publique
 
-Le programme détaillé du cours «Méthodes modernes de gestion publique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:Titre I - Management des organisations publiquesChapitre 1er - La détermination de la performance organisationnelleChapitre 2 - Les processus décisionnelsChapitre 3 - Les fonctions de planification, d’organisation et de contrôleChapitre 4 - La motivation et le leadershipTitre II - Structure et organisationChapitre 1er - Les théories de l’organisation administrativeChapitre 2 - La structure et le fonctionnement de l’organisationChapitre 3 - La division du travailChapitre 4 - Les règles bureaucratiques et les politiques administrativesChapitre 5 - La conception du plan d’organisation (organigramme);Chapitre 6 - Les systèmes de planification et de contrôle;Chapitre 7 - La délégation du pouvoir de décision.Chapitre 8 - Le management par objectifsChapitre 9 - La gestion des ressources humainesTitre III - Gestion de projetsChapitre 1er - La définition du projetChapitre 2 - La planification du projetChapitre 3 - L’organisation du projetChapitre 4 - Le suivi et le contrôle du projetChapitre 5 - La fin du projet.
+Le programme détaillé du cours «Méthodes modernes de gestion publique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:
 
-<a id="art_N5F8C8"></a>
+| Titre I - Management des organisations publiques |
+| --- |
+| Chapitre 1er - La détermination de la performance organisationnelle |
+| Chapitre 2 - Les processus décisionnels |
+| Chapitre 3 - Les fonctions de planification, d’organisation et de contrôle |
+| Chapitre 4 - La motivation et le leadership |
+| Titre II - Structure et organisation |
+| Chapitre 1er - Les théories de l’organisation administrative |
+| Chapitre 2 - La structure et le fonctionnement de l’organisation |
+| Chapitre 3 - La division du travail |
+| Chapitre 4 - Les règles bureaucratiques et les politiques administratives |
+| Chapitre 5 - La conception du plan d’organisation (organigramme); |
+| Chapitre 6 - Les systèmes de planification et de contrôle; |
+| Chapitre 7 - La délégation du pouvoir de décision. |
+| Chapitre 8 - Le management par objectifs |
+| Chapitre 9 - La gestion des ressources humaines |
+| Titre III - Gestion de projets |
+| Chapitre 1er - La définition du projet |
+| Chapitre 2 - La planification du projet |
+| Chapitre 3 - L’organisation du projet |
+| Chapitre 4 - Le suivi et le contrôle du projet |
+| Chapitre 5 - La fin du projet. |
+
+<a id="art_N5EFE9"></a>
 
 ### Art. 2. Protection du citoyen face aux décisions de l’administration
 
-Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section des carrières supérieures administratives est déterminé comme suit:Partie I - Protection du citoyen face aux décisions de l’Administration/Convention européenne des droits de l’hommeTitre I - IntroductionChapitre 1er - Contexte historiqueChapitre 2 - Conseil de l’EuropeChapitre 3 - Protection des droits de l’homme dans l’ordre juridique luxembourgeoisTitre II - Contrôle internationalChapitre 1er - Organisation de la CourChapitre 2 - Procédure suivie devant la CourChapitre 3 - Conditions de saisine de la CourChapitre 4 - Effets des arrêts de la CourTitre III - Droits garantisChapitre 1er - Enumération des droits garantisChapitre 2 - Limitations aux droits garantisPartie II - Procédure administrative non contentieuseTitre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II -Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
+Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5F936"></a>
+| Partie I - | Protection du citoyen face aux décisions de l’Administration/Convention européenne des droits de l’homme |  |
+| --- | --- | --- |
+| Titre I - Introduction |  |  |
+| Chapitre 1er - Contexte historique |  |  |
+| Chapitre 2 - Conseil de l’Europe |  |  |
+| Chapitre 3 - Protection des droits de l’homme dans l’ordre juridique luxembourgeois |  |  |
+| Titre II - Contrôle international |  |  |
+| Chapitre 1er - Organisation de la Cour |  |  |
+| Chapitre 2 - Procédure suivie devant la Cour |  |  |
+| Chapitre 3 - Conditions de saisine de la Cour |  |  |
+| Chapitre 4 - Effets des arrêts de la Cour |  |  |
+| Titre III - Droits garantis |  |  |
+| Chapitre 1er - Enumération des droits garantis |  |  |
+| Chapitre 2 - Limitations aux droits garantis |  |  |
+| Partie II - Procédure administrative non contentieuse |  |  |
+| Titre I | - | La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuse |
+| Titre II | - | Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes |
+
+<a id="art_N5F0E3"></a>
 
 ### Art. 3. Administration et politique
 
-Le programme détaillé du cours «Administration et politique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:Titre I - Principes et enjeux de l’administration publique- Les principaux fondements de l’Etat moderne- Les principales architectures institutionnelles des Etats démocratiques- Les principaux modes de participation des citoyens dans un Etat démocratique- Les nouveaux défis auxquels sont confrontés les Etats contemporains- L’évolution en cours concernant le rôle et les fonctions de l’Etat- La réforme administrativeTitre II - Analyse des politiques publiques- Les processus d’émergence, d’élaboration, d’adoption, de gestion et d’évaluation des politiques et programmes gouvernementaux.- La mise en œuvre des programmes gouvernementaux et son impact sur l’administration
+Le programme détaillé du cours «Administration et politique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:
 
-<a id="art_N5F976"></a>
+| Titre I - Principes et enjeux de l’administration publique |  |
+| --- | --- |
+| - | Les principaux fondements de l’Etat moderne |
+| - | Les principales architectures institutionnelles des Etats démocratiques |
+| - | Les principaux modes de participation des citoyens dans un Etat démocratique |
+| - | Les nouveaux défis auxquels sont confrontés les Etats contemporains |
+| - | L’évolution en cours concernant le rôle et les fonctions de l’Etat |
+| - | La réforme administrative |
+| Titre II - Analyse des politiques publiques |  |
+| - | Les processus d’émergence, d’élaboration, d’adoption, de gestion et d’évaluation des politiques et programmes gouvernementaux. |
+| - | La mise en œuvre des programmes gouvernementaux et son impact sur l’administration |
+
+<a id="art_N5F196"></a>
 
 ### Art. 4. Contrôle de l’administration
 
-Le programme détaillé du cours «Contrôle de l’administration» assuré à la section des carrières supérieures administratives est déterminé comme suit:IntroductionTitre I - Le contrôle exercé par le pouvoir législatifChapitre 1er - Le médiateur1.1 - Statut1.2 - Compétences1.3 - Conditions de saisine1.4 - Procédure et prérogatives du médiateur1.5 - Relation avec l’exercice d’un recours contentieuxChapitre 2 - Les commissions créées par la Chambre des Députés2.1 - La commission spéciale2.2 - La commission d’enquêteTitre II - Le contrôle exercé par le pouvoir exécutifChapitre 1er - Le contrôle tutélaire sur les collectivités et les établissements autonomesTitre III - Le contrôle exercé par le pouvoir judiciaireChapitre 1er - Le contrôle direct exercé par les juridictions administratives1.1 - Champ de compétence des juridictions administratives1.2 - Voies de recours ouvertes: recours en réformation ou en annulation1.3 - Intérêt et qualité pour agir1.4 - Conditions de recevabilité du recours: délai et formes1.5 - Procédure d’instruction - mémoires1.6 - Mesures provisoires1.7 - Effet des jugements et arrêtsChapitre 2 - Le contrôle indirect par les juridictions judiciaires - régime de la responsabilité de l’Etat- Bases légales- Conditions de fond de la responsabilité pour faute de l’Etat2.4 - Régimes spéciaux de responsabilité2.5 - Procédure
+Le programme détaillé du cours «Contrôle de l’administration» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FA03"></a>
+| Introduction |
+| --- |
+| Titre I - Le contrôle exercé par le pouvoir législatif |
+| Chapitre 1er - Le médiateur |
+| 1.1 - Statut |
+| 1.2 - Compétences |
+| 1.3 - Conditions de saisine |
+| 1.4 - Procédure et prérogatives du médiateur |
+| 1.5 - Relation avec l’exercice d’un recours contentieux |
+| Chapitre 2 - Les commissions créées par la Chambre des Députés |
+| 2.1 - La commission spéciale |
+| 2.2 - La commission d’enquête |
+| Titre II - Le contrôle exercé par le pouvoir exécutif |
+| Chapitre 1er - Le contrôle tutélaire sur les collectivités et les établissements autonomes |
+| Titre III - Le contrôle exercé par le pouvoir judiciaire |
+| Chapitre 1er - Le contrôle direct exercé par les juridictions administratives |
+| 1.1 - Champ de compétence des juridictions administratives |
+| 1.2 - Voies de recours ouvertes: recours en réformation ou en annulation |
+| 1.3 - Intérêt et qualité pour agir |
+| 1.4 - Conditions de recevabilité du recours: délai et formes |
+| 1.5 - Procédure d’instruction - mémoires |
+| 1.6 - Mesures provisoires |
+| 1.7 - Effet des jugements et arrêts |
+| Chapitre 2 - Le contrôle indirect par les juridictions judiciaires - régime de la responsabilité de l’Etat |
+| - Bases légales |
+| - Conditions de fond de la responsabilité pour faute de l’Etat |
+| 2.4 - Régimes spéciaux de responsabilité |
+| 2.5 - Procédure |
+
+<a id="art_N5F2D5"></a>
 
 ### Art. 5. Informatique dans le secteur public
 
-Le programme détaillé du cours «Informatique dans le secteur public» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - Son fonctionnement2 - Ses servicesChapitre 2 - Le web1 - Ses particularités2 - La recherche d’informations3 - La qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetTitre III - La protection des données à caractère personnelChapitre 1er - La directive européenneChapitre 2 - La législation luxembourgeoise et sa mise en pratiqueTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueChapitre 3 - Les composants d’une infrastructure de clé publiqueChapitre 4 - La valeur probante de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
+Le programme détaillé du cours «Informatique dans le secteur public» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FA86"></a>
+| Titre I - Introduction à Internet et le Web |
+| --- |
+| Chapitre 1er - Le réseau Internet |
+| 1 - Son fonctionnement |
+| 2 - Ses services |
+| Chapitre 2 - Le web |
+| 1 - Ses particularités |
+| 2 - La recherche d’informations |
+| 3 - La qualité des informations |
+| Titre II - La sécurité informatique |
+| Chapitre 1er - Les composants d’un système fiable |
+| Chapitre 2 - Les dangers inhérents à l’usage d’Internet |
+| Titre III - La protection des données à caractère personnel |
+| Chapitre 1er - La directive européenne |
+| Chapitre 2 - La législation luxembourgeoise et sa mise en pratique |
+| Titre IV - e-Gouvernement |
+| Chapitre 1er - Les initiatives e-Europe et e-Luxembourg |
+| Chapitre 2 - Les niveaux d’évolution des services e-gouvernement |
+| Titre V - Cryptographie et signature électronique |
+| Chapitre 1er - Les bases de la cryptographie |
+| Chapitre 2 - Le principe de fonctionnement de la signature électronique |
+| Chapitre 3 - Les composants d’une infrastructure de clé publique |
+| Chapitre 4 - La valeur probante de la signature électronique |
+| Titre VI - Les services offerts aux communes par le SIGI |
+
+<a id="art_N5F3DA"></a>
 
 ### Art. 6. Gestion du personnel de l’administration publique
 
-Le programme détaillé du cours «Gestion du personnel de l’administration publique» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - HistoriqueTitre II - Administration et gestionTitre III - Direction des affaires du personnelTitre IV - Les différentes catégories de personnel au service communalTitre V - RecrutementChapitre 1er - FonctionnaireChapitre 2 - Employé communal et Employé privé communalChapitre 3 - Ouvrier communalTitre VI - RémunérationChapitre 1er - FonctionnairesGénéralitésDéfinitionsCalcul du brut:Détermination de l’échelon à prendre en considérationAllocation de familleAllocation de repasPrimes diversesAllocation de fin d’annéeGrade de substitutionLogement de serviceFrais de route et de séjourChangement de fonctionChapitre 2 - EmployésChapitre 3 - OuvriersTitre VII - Administration du personnelChapitre 1er - Gestion des EffectifsChapitre 2 - Cadre ouvert et ferméChapitre 3 - Tableau d’avancementChapitre 4 - PromotionsChapitre 5 - Changement de carrièreChapitre 6 - Hors cadreChapitre 7 - FormationChapitre 8 - Sécurité socialeAssurance-PensionAssurance-MaladieAssurance-AccidentsChapitre 9 - Dossier personnelChapitre 10 - Temps de travailGénéralitésLes congésTitre IX - Gestion des ressources humainesChapitre 1er - GénéralitésLa gestion du personnelLa gestion des ressources humainesChapitre 2 - Considérations sur la motivationChapitre 3 - La gestion des compétencesChapitre 4 - OrganigrammeChapitre 5 - Mobilité volontaire - MutationsChapitre 6 - Outils de gestion du service central du personnel de la Ville de Luxembourg
+Le programme détaillé du cours «Gestion du personnel de l’administration publique» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FB6E"></a>
+| Titre I - Historique |
+| --- |
+| Titre II - Administration et gestion |
+| Titre III - Direction des affaires du personnel |
+| Titre IV - Les différentes catégories de personnel au service communal |
+| Titre V - Recrutement |
+| Chapitre 1er - Fonctionnaire |
+| Chapitre 2 - Employé communal et Employé privé communal |
+| Chapitre 3 - Ouvrier communal |
+| Titre VI - Rémunération |
+| Chapitre 1er - Fonctionnaires |
+| Généralités |
+| Définitions |
+| Calcul du brut: |
+| Détermination de l’échelon à prendre en considération |
+| Allocation de famille |
+| Allocation de repas |
+| Primes diverses |
+| Allocation de fin d’année |
+| Grade de substitution |
+| Logement de service |
+| Frais de route et de séjour |
+| Changement de fonction |
+| Chapitre 2 - Employés |
+| Chapitre 3 - Ouvriers |
+| Titre VII - Administration du personnel |
+| Chapitre 1er - Gestion des Effectifs |
+| Chapitre 2 - Cadre ouvert et fermé |
+| Chapitre 3 - Tableau d’avancement |
+| Chapitre 4 - Promotions |
+| Chapitre 5 - Changement de carrière |
+| Chapitre 6 - Hors cadre |
+| Chapitre 7 - Formation |
+| Chapitre 8 - Sécurité sociale |
+| Assurance-Pension |
+| Assurance-Maladie |
+| Assurance-Accidents |
+| Chapitre 9 - Dossier personnel |
+| Chapitre 10 - Temps de travail |
+| Généralités |
+| Les congés |
+| Titre IX - Gestion des ressources humaines |
+| Chapitre 1er - Généralités |
+| La gestion du personnel |
+| La gestion des ressources humaines |
+| Chapitre 2 - Considérations sur la motivation |
+| Chapitre 3 - La gestion des compétences |
+| Chapitre 4 - Organigramme |
+| Chapitre 5 - Mobilité volontaire - Mutations |
+| Chapitre 6 - Outils de gestion du service central du personnel de la Ville de Luxembourg |
+
+<a id="art_N5F5C4"></a>
 
 ### Art. 7. Histoire de l’administration publique
 
-Le programme détaillé du cours «Histoire de l’administration publique» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795-1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l ‘Etat industrielChapitre 16 - Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919:Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 -Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum17.3 -L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranational L’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administrativesPondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
+Le programme détaillé du cours «Histoire de l’administration publique» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FC40"></a>
+| Titre I - Les grandes étapes de l’histoire politique et administrative du Luxembourg |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | L’ancien régime: l’ancien Duché de Luxembourg |
+| Chapitre 2 | - | 1795-1814/15: L’époque française |
+| Chapitre 3 | - | 1815: la création de l’Etat du Grand-Duché de Luxembourg |
+| Chapitre 4 | - | 1815-1830: Epoque hollandaise proprement dite |
+| Chapitre 5 | - | 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de Luxembourg |
+| Chapitre 6 | - | 1839: Le Traité de Londres: les bases nouvelles |
+| Chapitre 7 | - | 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché. |
+| Chapitre 8 | - | Les années 1850: la réaction |
+| Chapitre 9 | - | La constitution octroyée de 1856 |
+| Chapitre 10 | - | l’impact de l’appartenance à la confédération germanique |
+| Chapitre 11 | - | 1857-1867: années de reflux |
+| Chapitre 12 | - | 1867: Le Traité de Londres II. |
+| Chapitre 13 | - | 1868: La Constitution revue et actualisée |
+| Chapitre 14 | - | 1890: La question dynastique |
+| Chapitre 15 | - | 19ième siècle: De l’Etat agricole à l ‘Etat industriel |
+| Chapitre 16 | - | Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigration |
+| Chapitre 17 | - | 1918/1919:Années charnières pour les institutions du pays: |
+| 17.1 - | La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché |  |
+| 17.2 - | Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum |  |
+| 17.3 - | L’importance des deux referenda de septembre 1919 |  |
+| Titre II - Eléments de synthèse |  |  |
+| Chapitre 1er - Au niveau surpranational |  |  |
+| L’intégration européenne depuis l’UEBL à l’Union européenne |  |  |
+| Flash-back sur les précurseurs: la confédération germanique et le Zollverein |  |  |
+| Chapitre 2 - Au niveau national |  |  |
+| De l’Etat à la Nation |  |  |
+| De l’Etat veilleur de nuit à l’Etat moderne |  |  |
+| Analyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise. |  |  |
+| Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848. |  |  |
+| Chapitre 3 - Au niveau infra-national |  |  |
+| Les divisions politiques et administratives du pays |  |  |
+| La situation actuelle: |  |  |
+| - les districts administratifs |  |  |
+| - les cantons |  |  |
+| - les communes et les syndicats de communes |  |  |
+| - les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieures |  |  |
+| Chapitre 4 - Anciens et nouveaux équilibres des structures politiques et administratives |  |  |
+| Pondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat national |  |  |
+| Structures nationales: |  |  |
+| - centralisation et délocalisation |  |  |
+| - fusions de communes |  |  |
+| - communes et sections de communes |  |  |
+| - circonscriptions électorales |  |  |
+| - coopération transfrontalière |  |  |
+
+<a id="art_N5F899"></a>
 
 ### Art. 8. Langage juridique, administratif et diplomatique
 
-Le programme détaillé du cours «Langage juridique, administratif et diplomatique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:- les conventions du langage juridique, diplomatique et administratif- les expressions juridiques, diplomatiques et administratives- les erreurs juridiques, diplomatiques et administratives les plus fréquentes- les notions à ne pas confondre- les synonymes et antonymes- les fautes de français les plus courantes
+Le programme détaillé du cours «Langage juridique, administratif et diplomatique» assuré à la section des carrières supérieures administratives tient compte des éléments suivants:
 
-<a id="art_N5FC70"></a>
+- les conventions du langage juridique, diplomatique et administratif
+- les expressions juridiques, diplomatiques et administratives
+- les erreurs juridiques, diplomatiques et administratives les plus fréquentes
+- les notions à ne pas confondre
+- les synonymes et antonymes
+- les fautes de français les plus courantes
+
+<a id="art_N5F8C8"></a>
 
 ### Art. 9. La loi communale
 
-Le programme détaillé du cours «La loi communale» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de districtTitre XI - La collaboration des communes entre elles et avec d’autres partenaires
+Le programme détaillé du cours «La loi communale» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FD1A"></a>
+| Titre I - Histoire des communes luxembourgeoises |
+| --- |
+| Titre II - Contexte géographique actuel |
+| Titre III - L’autonomie communale dans la législation luxembourgeoise |
+| Titre IV - Les organes communaux |
+| Chapitre 1er - Le Conseil communal |
+| Chapitre 2 - Le collège des bourgmestre et échevins |
+| Chapitre 3 - Le bourgmestre |
+| Chapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevins |
+| Chapitre 5 - Les devoirs de délicatesse des membres du corps communal |
+| Titre V - La tutelle administrative et les voies de recours |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les moyens de tutelle administrative |
+| Chapitre 3 - Les voies de recours contre les mesures de tutelle |
+| Titre VI - Les compétences des communes et l’exercice des compétences |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les attributions actuelles les plus importantes des communes |
+| Chapitre 3 - Exercice des compétences communales |
+| Titre VII - La participation des citoyens aux affaires communales |
+| Chapitre 1er - Information |
+| Chapitre 2 - Droit de prendre connaissance des délibérations du conseil communal |
+| Chapitre 3 - Publication des règlements |
+| Chapitre 4 - Référendum |
+| Chapitre 5 - Consultation des administrés |
+| Titre VIII - Jetons de présence, indemnités, congé politique |
+| Chapitre 1er - Jetons de présence |
+| Chapitre 2 - Indemnités |
+| Chapitre 3 - Congé politique |
+| Titre IX - Les fonctions de secrétaire et de receveur |
+| Chapitre 1er - Le secrétaire communal |
+| Chapitre 2 - Le receveur communal |
+| Titre X - Le rôle du commissaire de district |
+| Titre XI - La collaboration des communes entre elles et avec d’autres partenaires |
+
+<a id="art_N5FA22"></a>
 
 ### Art. 10. Règlements communaux
 
-Le programme détaillé du cours «Règlements communaux» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 – Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe , impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir réglementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
+Le programme détaillé du cours «Règlements communaux» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FDD8"></a>
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - La règle de droit |
+| 1. Analyse de la règle de droit |
+| 2. Les sources du droit - système et hiérarchie |
+| Titre II - Le règlement communal |
+| Chapitre 1er - Définition |
+| Chapitre 2 - Les catégories de règlements |
+| 1 – Les règlements d’administration intérieure |
+| 1.1 le règlement d’ordre intérieur du conseil communal |
+| 1.2 le règlement-taxe , impôts, taxes, redevances |
+| 2 - Les règlements de police |
+| 2.1 le règlement général de police |
+| 2.2 le règlement de circulation |
+| 2.3 le plan d’aménagement général |
+| 2.4 le règlement sur les bâtisses |
+| 3 - Les règlements d’urgence en matière de police |
+| 4 - Les sanctions |
+| 4.1 l’amende de police |
+| 4.2 les peines supérieures |
+| 4.3 les peines accessoires |
+| Chapitre 3 - Les limites du pouvoir réglementaire communal |
+| 1 - par rapport au territoire |
+| 2 - par rapport à son objet |
+| Chapitre 4 - Les autorités compétentes |
+| 1 - Le conseil communal |
+| 2 - Le collège échevinal |
+| Chapitre 5 - Les formalités de validité et de contrôle |
+| 1 - Tutelle générale |
+| 1.1 suspension ministérielle |
+| 1.2 annulation grand-ducale |
+| 2 - Tutelle spéciale |
+| 2.1 approbation grand-ducale |
+| 2.2 approbation ministérielle |
+| 3 - Formes spéciales de validité |
+| 3.1 avis du médecin-inspecteur |
+| 4 - Publication |
+| Chapitre 6 - Les recours en justice |
+| Le recours des communes contre l’autorité supérieure en cas de refus d’approbation |
+| Le recours des citoyens contre un règlement qui cause grief |
+| Titre III - Etude de cas |
+
+<a id="art_N5FBB3"></a>
 
 ### Art. 11. Gestion des ressources financières des communes
 
-Le programme détaillé du cours «Gestion des ressources financières des communes» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - La gestion des ressourcesChapitre 1er - Le budget et les différentes comptabilités1.1 - Les notions de base1.2 - La structure du budget1.3 - Les différentes comptabilités1.4 - La comptabilité des communes1.5 - La comptabilité des syndicats de communeChapitre 2 - Les recettes2.1 - Les recettes ordinaires2.2 - Les recettes extraordinaires des communesChapitre 3 - Les dépenses3.1 - Les dépenses ordinaires3.2 - Les dépenses extraordinairesChapitre 4 - Les outils de gestion4.1 - Les budgets et comptes4.2 - Les tableaux de bord4.3 - Les prix de revient4.4 - Le coût de l’équipement4.5 - L’efficacité et le Bench-Marking4.6 - L’analyse des risquesChapitre 5 - Le patrimoineChapitre 6 - Les investissements6.1 - Les investissements de remplacement6.2 - Les investissements nouveaux6.3 - La gestion des projetsChapitre 7 - Le plan de financement7.1 - Le plan de réalisation des projets7.2 - Le plan de financementChapitre 8 - Le recours à des fonds étrangers8.1 - Le cadre légal8.2 - La gestion de la trésorerie8.3 - Les ouvertures de crédit8.4 - Le leasing8.5 - Les emprunts
+Le programme détaillé du cours «Gestion des ressources financières des communes» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FEC2"></a>
+| Titre I - Le système de financement des communes: introduction |
+| --- |
+| Chapitre 1er - La nature des missions à la base du modèle de financement des communes |
+| 1.1 - Le financement des missions originaires |
+| 1.2 - Le financement des missions déléguées |
+| 1.3 - Le financement des autres missions des communes |
+| Chapitre 2 - Les ressources financières des communes |
+| 2.1 - Au niveau du budget de fonctionnement |
+| 2.2 - Au niveau du budget d’investissement |
+| Chapitre 3 - Le mécanisme de financement des communes |
+| 3.1 - Le contexte général |
+| 3.2 - Le mécanisme de financement garant de l’autonomie locale |
+| Chapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale |
+| 4.1 - Au niveau de la commune |
+| 4.2 - Au niveau national et dans la comparaison internationale |
+| Chapitre 5 - Les statistiques sur les revenus non affectés des communes |
+| 5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1) |
+| 5.2 - Présentation détaillée |
+| Titre II - La gestion des ressources |
+| Chapitre 1er - Le budget et les différentes comptabilités |
+| 1.1 - Les notions de base |
+| 1.2 - La structure du budget |
+| 1.3 - Les différentes comptabilités |
+| 1.4 - La comptabilité des communes |
+| 1.5 - La comptabilité des syndicats de commune |
+| Chapitre 2 - Les recettes |
+| 2.1 - Les recettes ordinaires |
+| 2.2 - Les recettes extraordinaires des communes |
+| Chapitre 3 - Les dépenses |
+| 3.1 - Les dépenses ordinaires |
+| 3.2 - Les dépenses extraordinaires |
+| Chapitre 4 - Les outils de gestion |
+| 4.1 - Les budgets et comptes |
+| 4.2 - Les tableaux de bord |
+| 4.3 - Les prix de revient |
+| 4.4 - Le coût de l’équipement |
+| 4.5 - L’efficacité et le Bench-Marking |
+| 4.6 - L’analyse des risques |
+| Chapitre 5 - Le patrimoine |
+| Chapitre 6 - Les investissements |
+| 6.1 - Les investissements de remplacement |
+| 6.2 - Les investissements nouveaux |
+| 6.3 - La gestion des projets |
+| Chapitre 7 - Le plan de financement |
+| 7.1 - Le plan de réalisation des projets |
+| 7.2 - Le plan de financement |
+| Chapitre 8 - Le recours à des fonds étrangers |
+| 8.1 - Le cadre légal |
+| 8.2 - La gestion de la trésorerie |
+| 8.3 - Les ouvertures de crédit |
+| 8.4 - Le leasing |
+| 8.5 - Les emprunts |
+
+<a id="art_N5FDDA"></a>
 
 ### Art. 12. Statut des fonctionnaires communaux
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FF1A"></a>
+| Titre I - Analyse du statut juridique du fonctionnaire |
+| --- |
+| Titre II - Mesures concernant le personnel communal contenues dans la loi communale |
+| Titre III - Définition du fonctionnaire public |
+| Titre IV - Conditions de recrutement |
+| Titre V - Nomination provisoire et définitive du fonctionnaire |
+| Titre VI - Affectation du fonctionnaire |
+| Titre VII - Les devoirs du fonctionnaire et les dispositions anti-corruption |
+| Titre VIII - Incompatibilité |
+| Titre IX - La durée de travail |
+| Titre X - La rémunération |
+| Titre XI - La protection du fonctionnaire |
+| Titre XII - Droit d’association et représentation du personnel |
+| Titre XIII - Cessation des fonctions |
+| Titre XIV - La discipline |
+| Titre XV - Le droit de grève |
+| Titre XVI - Le changement de carrière |
+
+<a id="art_N5FE8C"></a>
 
 ### Art. 13. Marchés publics
 
-Le programme détaillé du cours «Marchés publics» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics ( secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
+Le programme détaillé du cours «Marchés publics» assuré à la section des carrières supérieures administratives est déterminé comme suit:
 
-<a id="art_N5FF84"></a>
+| Titre I - Définitions |
+| --- |
+| Titre II - Les dispositions du livre I de la législation sur les marchés publics |
+| Chapitre 1er - Procédures |
+| Chapitre 2 - Les conditions générales d’accès aux marchés publics |
+| Chapitre 3 - Formes de mise en adjudication |
+| Chapitre 4 - Etablissement du dossier de soumission |
+| Chapitre 5 - La demande d’offre |
+| Chapitre 6 - Le contenu de la soumission |
+| Chapitre 7 - Dépôt et ouverture des offres |
+| Chapitre 8 - Examen des offres |
+| Chapitre 9 - Adjudication |
+| Chapitre 10 - Annulation d’une mise en adjudication et remise en adjudication |
+| Chapitre 11 - Dossiers des marchés à présenter au Ministère de l’Intérieur |
+| Chapitre 12 - Commission des Soumissions |
+| Titre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure) |
+| Titre IV - Les dispositions du livre III de la législation sur les marchés publics ( secteurs exclus) |
+| Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communes |
+| Chapitre 1er - Les différentes étapes de la procédure |
+| Chapitre 2 - L’esprit et le bien-fondé de cette procédure préalable |
+
+<a id="art_N5FF5F"></a>
 
 ### Art. 14. Législation sur l’aménagement des communes
 
-Le programme détaillé du cours «Législation sur l’aménagement des communes» assuré à la section des carrières supérieures administratives est déterminé comme suit:Titre I: L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II: L’aménagement communalChapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents2.1 - Les communes2.2 - Le Ministre2.3 - La commission d’aménagementChapitre 3 - Les instruments et leur élaboration3.1 - Le plan d’aménagement général (P.A.G.)3.2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procédures d’adoption du plan d’aménagementChapitre 5 - La mise en œuvre du plan d’aménagement5.1 - La cession gratuite5.2 - Le projet d’exécution5.3 - La convention5.4 - L’autorisation de construireChapitre 6 - L’exécution du plan d’aménagement6.1 - Les zones de développement et zones à restructurer6.2 - Le remembrement urbain6.3 - L’expropriation pour utilité publique6.4 - Disponibilités foncièresChapitre 7 - Les critères d’un urbanisme de qualitéChapitre 8 - Etude de cas pratiquesTitre III - Protection de la nature (loi du 19 janvier 2004 de la nature et des ressources naturelles)Chapitre 1er - Dispositions de la loi ayant une incidence directe sur l’aménagement des communes
+Le programme détaillé du cours «Législation sur l’aménagement des communes» assuré à la section des carrières supérieures administratives est déterminé comme suit:
+
+| Titre I: L’aménagement général du territoire (Loi du 21 mai 1999) |
+| --- |
+| Chapitre 1er - Les objectifs |
+| Chapitre 2 - Les instruments |
+| Titre II: L’aménagement communal |
+| Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national. |
+| Chapitre 2 - Les organes compétents |
+| 2.1 - Les communes |
+| 2.2 - Le Ministre |
+| 2.3 - La commission d’aménagement |
+| Chapitre 3 - Les instruments et leur élaboration |
+| 3.1 - Le plan d’aménagement général (P.A.G.) |
+| 3.2 - Le plan d’aménagement particulier (P.A.P.) |
+| Chapitre 4 - Les procédures d’adoption du plan d’aménagement |
+| Chapitre 5 - La mise en œuvre du plan d’aménagement |
+| 5.1 - La cession gratuite |
+| 5.2 - Le projet d’exécution |
+| 5.3 - La convention |
+| 5.4 - L’autorisation de construire |
+| Chapitre 6 - L’exécution du plan d’aménagement |
+| 6.1 - Les zones de développement et zones à restructurer |
+| 6.2 - Le remembrement urbain |
+| 6.3 - L’expropriation pour utilité publique |
+| 6.4 - Disponibilités foncières |
+| Chapitre 7 - Les critères d’un urbanisme de qualité |
+| Chapitre 8 - Etude de cas pratiques |
+| Titre III - Protection de la nature (loi du 19 janvier 2004 de la nature et des ressources naturelles) |
+| Chapitre 1er - Dispositions de la loi ayant une incidence directe sur l’aménagement des communes |
 
 ##### Titre II — Programmes détaillés des cours de la section de la carrière du secrétaire communal et du rédacteur
 
-<a id="art_N60026"></a>
+<a id="art_N600AF"></a>
 
 ### Art. 15. Histoire de l’administration publique et de l’administration luxembourgeoise
 
-Le programme détaillé du cours «Histoire de l’administration publique et de l’administration luxembourgeoise» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795- 1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l ‘Etat industrielChapitre 16 - Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919: Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 -Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum17.3 -L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranationalL’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administratives Pondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
+Le programme détaillé du cours «Histoire de l’administration publique et de l’administration luxembourgeoise» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N600FB"></a>
+| Titre I - Les grandes étapes de l’histoire politique et administrative du Luxembourg |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | L’ancien régime: l’ancien Duché de Luxembourg |
+| Chapitre 2 | - | 1795- 1814/15: L’époque française |
+| Chapitre 3 | - | 1815: la création de l’Etat du Grand-Duché de Luxembourg |
+| Chapitre 4 | - | 1815-1830: Epoque hollandaise proprement dite |
+| Chapitre 5 | - | 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de Luxembourg |
+| Chapitre 6 | - | 1839: Le Traité de Londres: les bases nouvelles |
+| Chapitre 7 | - | 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché. |
+| Chapitre 8 | - | Les années 1850: la réaction |
+| Chapitre 9 | - | La constitution octroyée de 1856 |
+| Chapitre 10 | - | l’impact de l’appartenance à la confédération germanique |
+| Chapitre 11 | - | 1857-1867: années de reflux |
+| Chapitre 12 | - | 1867: Le Traité de Londres II. |
+| Chapitre 13 | - | 1868: La Constitution revue et actualisée |
+| Chapitre 14 | - | 1890: La question dynastique |
+| Chapitre 15 | - | 19ième siècle: De l’Etat agricole à l ‘Etat industriel |
+| Chapitre 16 | - | Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigration |
+| Chapitre 17 | - | 1918/1919: Années charnières pour les institutions du pays: |
+| 17.1 - | La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché |  |
+| 17.2 - | Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum |  |
+| 17.3 - | L’importance des deux referenda de septembre 1919 |  |
+| Titre II - Eléments de synthèse |  |  |
+| Chapitre 1er - Au niveau surpranational |  |  |
+| L’intégration européenne depuis l’UEBL à l’Union européenne |  |  |
+| Flash-back sur les précurseurs: la confédération germanique et le Zollverein |  |  |
+| Chapitre 2 - Au niveau national |  |  |
+| De l’Etat à la Nation |  |  |
+| De l’Etat veilleur de nuit à l’Etat moderne |  |  |
+| Analyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise. |  |  |
+| Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848. |  |  |
+| Chapitre 3 - Au niveau infra-national |  |  |
+| Les divisions politiques et administratives du pays |  |  |
+| La situation actuelle: |  |  |
+| - les districts administratifs |  |  |
+| - les cantons |  |  |
+| - les communes et les syndicats de communes |  |  |
+| - les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieures |  |  |
+| Chapitre 4 - Anciens et nouveaux équilibres des structures politiques et administratives |  |  |
+| Pondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat national |  |  |
+| Structures nationales: |  |  |
+| - centralisation et délocalisation |  |  |
+| - fusions de communes |  |  |
+| - communes et sections de communes |  |  |
+| - circonscriptions électorales |  |  |
+| - coopération transfrontalière |  |  |
+
+<a id="art_N60376"></a>
 
 ### Art. 16. Introduction générale au droit
 
-Le programme détaillé du cours «Introduction générale au droit» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Le droit objectifChapitre 1er - Les divisions des règles de droit et les principales branches du droitChapitre 2 - Les sources du droitTitre II - Les droits subjectifsChapitre 1er - Classification des droits subjectifsChapitre 2 - Les actes juridiques et les faits juridiquesChapitre 3 - Les sujets de droitTitre III - Le pouvoir judiciaireChapitre 1er - L’organisation judiciaire1 - Les juridictions ordinaires2 - Les juridictions particulièresChapitre 2 - La compétence des cours et tribunauxChapitre 3 - Les différents acteurs du monde judiciaire
+Le programme détaillé du cours «Introduction générale au droit» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N60150"></a>
+| Titre I - Le droit objectif |
+| --- |
+| Chapitre 1er - Les divisions des règles de droit et les principales branches du droit |
+| Chapitre 2 - Les sources du droit |
+| Titre II - Les droits subjectifs |
+| Chapitre 1er - Classification des droits subjectifs |
+| Chapitre 2 - Les actes juridiques et les faits juridiques |
+| Chapitre 3 - Les sujets de droit |
+| Titre III - Le pouvoir judiciaire |
+| Chapitre 1er - L’organisation judiciaire |
+| 1 - Les juridictions ordinaires |
+| 2 - Les juridictions particulières |
+| Chapitre 2 - La compétence des cours et tribunaux |
+| Chapitre 3 - Les différents acteurs du monde judiciaire |
+
+<a id="art_N60418"></a>
 
 ### Art. 17. Droit constitutionnel
 
-Le programme détaillé du cours «Droit constitutionnel» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Introduction, Notions généralesChapitre 1er - Le territoireChapitre 2 - La populationChapitre 3 - L’autorité publiqueTitre II - Les garanties constitutionnellesChapitre 1er - La rigidité de la constitutionChapitre 2 - Les droits des citoyensTitre III - La forme du gouvernementChapitre 1er - Une démocratie représentativeChapitre 2 - La séparation des pouvoirsChapitre 3 - L’exercice du pouvoir législatifChapitre 4 - L’exercice du pouvoir exécutifChapitre 5 - L’exercice du pouvoir judiciaireTitre IV - Le Grand-Duc et le GouvernementChapitre 1er - La situation juridique du Grand-DucChapitre 2 - Les prérogatives du Grand-DucChapitre 3 - La formation du GouvernementChapitre 4 - La responsabilité ministérielleTitre V - La Chambre des députésChapitre 1er - Le système électoralChapitre 2 - L’organisation de la Chambre des députésChapitre 3 - La procédure législativeChapitre 4 - Le contrôle du Gouvernement par la Chambre des députésTitre VI - Le Conseil d’EtatChapitre 1er - La composition du Conseil d’EtatChapitre 2 - Les attributions du Conseil d’EtatChapitre 3 - La procédure au sein du Conseil d’EtatTitre VII - Les Cours et TribunauxChapitre 1er - L’indépendance des jugesChapitre 2 - L’organisation judiciaireChapitre 3 - Le ministère publicChapitre 4 - Les garanties fondamentales offertes aux justiciablesTitre VIII - L’Administration publiqueChapitre 1er - L’administration centraleChapitre 2 - Les services générauxTitre IX - Les finances de l’EtatChapitre 1er - Les ressources de l’EtatChapitre 2 - Le budget de l’EtatChapitre 3 - Les contrôles budgétaires interne et externeTitre X - Les chambres professionnellesChapitre 1er - La composition des chambres professionnellesChapitre 2 - L’organisation des chambres professionnellesChapitre 3 - Les attributions des chambres professionnellesTitre XI - Le Conseil économique et socialChapitre 1er - La composition du Conseil économique et socialChapitre 2 - Les attributions du Conseil économique et socialChapitre 3 - Les rapports avec le Gouvernement
+Le programme détaillé du cours «Droit constitutionnel» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N60245"></a>
+| Titre I - Introduction, Notions générales |
+| --- |
+| Chapitre 1er - Le territoire |
+| Chapitre 2 - La population |
+| Chapitre 3 - L’autorité publique |
+| Titre II - Les garanties constitutionnelles |
+| Chapitre 1er - La rigidité de la constitution |
+| Chapitre 2 - Les droits des citoyens |
+| Titre III - La forme du gouvernement |
+| Chapitre 1er - Une démocratie représentative |
+| Chapitre 2 - La séparation des pouvoirs |
+| Chapitre 3 - L’exercice du pouvoir législatif |
+| Chapitre 4 - L’exercice du pouvoir exécutif |
+| Chapitre 5 - L’exercice du pouvoir judiciaire |
+| Titre IV - Le Grand-Duc et le Gouvernement |
+| Chapitre 1er - La situation juridique du Grand-Duc |
+| Chapitre 2 - Les prérogatives du Grand-Duc |
+| Chapitre 3 - La formation du Gouvernement |
+| Chapitre 4 - La responsabilité ministérielle |
+| Titre V - La Chambre des députés |
+| Chapitre 1er - Le système électoral |
+| Chapitre 2 - L’organisation de la Chambre des députés |
+| Chapitre 3 - La procédure législative |
+| Chapitre 4 - Le contrôle du Gouvernement par la Chambre des députés |
+| Titre VI - Le Conseil d’Etat |
+| Chapitre 1er - La composition du Conseil d’Etat |
+| Chapitre 2 - Les attributions du Conseil d’Etat |
+| Chapitre 3 - La procédure au sein du Conseil d’Etat |
+| Titre VII - Les Cours et Tribunaux |
+| Chapitre 1er - L’indépendance des juges |
+| Chapitre 2 - L’organisation judiciaire |
+| Chapitre 3 - Le ministère public |
+| Chapitre 4 - Les garanties fondamentales offertes aux justiciables |
+| Titre VIII - L’Administration publique |
+| Chapitre 1er - L’administration centrale |
+| Chapitre 2 - Les services généraux |
+| Titre IX - Les finances de l’Etat |
+| Chapitre 1er - Les ressources de l’Etat |
+| Chapitre 2 - Le budget de l’Etat |
+| Chapitre 3 - Les contrôles budgétaires interne et externe |
+| Titre X - Les chambres professionnelles |
+| Chapitre 1er - La composition des chambres professionnelles |
+| Chapitre 2 - L’organisation des chambres professionnelles |
+| Chapitre 3 - Les attributions des chambres professionnelles |
+| Titre XI - Le Conseil économique et social |
+| Chapitre 1er - La composition du Conseil économique et social |
+| Chapitre 2 - Les attributions du Conseil économique et social |
+| Chapitre 3 - Les rapports avec le Gouvernement |
+
+<a id="art_N6060C"></a>
 
 ### Art. 18. Droit administratif
 
-Le programme détaillé du cours «Droit administratif» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:- autorisation de bâtir- établissements classés (Loi du 10 juin 1999)- aménagement des communes (L 12 juin 1937)- nature (Loi du 11 août 1982);- responsabilité (Loi du 1er septembre 1988);
+Le programme détaillé du cours «Droit administratif» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N602A7"></a>
+| Titre I - Droit administratif. Notion et sources |
+| --- |
+| Titre II - Le service public |
+| Titre III - Les personnes publiques et leur statut |
+| Titre IV - Activité des actes de l’administration |
+| Titre V - Domaine public et domaine privé |
+| Titre VI - Les servitudes d’utilité publique |
+| Titre VII - Les Recours et juridictions administratives |
+| Titre VIII - La procédure administrative non contentieuse |
+| Titre IX - Sujets spécifiques: |
+| - autorisation de bâtir |
+| - établissements classés (Loi du 10 juin 1999) |
+| - aménagement des communes (L 12 juin 1937) |
+| - nature (Loi du 11 août 1982); |
+| - responsabilité (Loi du 1er septembre 1988); |
+
+<a id="art_N606C3"></a>
 
 ### Art. 19. Droit civil
 
-Le programme détaillé du cours «Droit civil» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Les droits réelsChapitre 1er - Le droit de propriétéChapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitationChapitre 3 - Le droit de superficie et le droit d’emphytéoseChapitre 4 - L’indivision et la copropriétéChapitre 5 - Les servitudesTitre II - Les obligationsChapitre 1er - Les sources des obligationsChapitre 2 - Les modalités des obligationsChapitre 3 - Les modes d’extinction des obligationsTitre III - La preuveChapitre 1er - La preuve littérale (ou écrite)Chapitre 2 - La preuve testimoniale (par témoignage)Chapitre 3 - Les présomptionsChapitre 4 - L’aveuChapitre 5 - Le sermentTitre IV - Les régimes matrimoniauxChapitre 1er - Le régime primaireChapitre 2 - La communauté légale et la communauté conventionnelleChapitre 3 - La communauté universelleChapitre 4 - La séparation de biensTitre V - Les successionsChapitre 1er - La succession légale (ab intestat)Chapitre 2 - La succession testamentaire
+Le programme détaillé du cours «Droit civil» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N6032E"></a>
-
-### Art. 20. Protection du citoyen face aux décisions de l’administration
-
-Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II - Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
-
-<a id="art_N6035B"></a>
-
-### Art. 21. Relations entre l’administration et le citoyen
-
-Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - IntroductionTitre II - Les diverses relations entre l’administration et les citoyensChapitre 1er - Expériences personnelles vécues avec les administrations publiquesChapitre 2 - L’accueil du citoyen dans les bureaux2.1 - Heures d’ouverture2.2 - Nocturnes2.3 - Aider le citoyen à se retrouver dans l’administration2.4 - Queues d’attente et pauses café2.5 - Vêtements de travailChapitre 3 - Le téléphone3.1 - Répondre à un appel téléphonique3.2 - Comportement face à un citoyen excité3.3 - Gestion des appels téléphoniques à l’intérieur d’un service3.4 - Rôle du central téléphonique3.5 - A qui la priorité: A celui qui téléphone ou à celui qui vient au bureau?Chapitre 4 - Le courrier4.1 - L’accusé de réception4.2 - Le temps de réponse4.3 - La lettre traditionnelle4.4 - La télécopie4.5 - Le courrier électroniqueChapitre 5 - L’Internet5.1 - Les communes dans l’Internet5.2. - Le «E-Government»Titre III - Quelques règles de la communicationTitre IV - DiversChapitre 1er - Les guichets uniquesChapitre 2 - Les publicationsChapitre 3 - Idées nouvelles3.1 - Modèles de sondages (Bertelsmann-Projekt)3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg)3.3 - „Zukunftskonferenzen“ (USA)3.4 - „Customer Contracts“ (Braintree)3.5 - „Benchmarking” (Bertelsmann-Projekt)3.6 - „PR mit VR“ (Delft)
-
-<a id="art_N60405"></a>
-
-### Art. 22. Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers
-
-Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Elaboration de délibérationsChapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90Chapitre 2 - Le mode de rédaction d’une délibération2.1 - Le préambule2.2 - Les motifs2.3 - Le dispositif2.4 - La partie finale2.5 - De l’approbation des délibérationsChapitre 3 - Exemples de délibérations avec explication de la procédureTitre II - Les avis au publicTitre III - Les permis de construireTitre IV - Les comptes rendusTitre VI - Les documents officiels divers
-
-<a id="art_N60454"></a>
-
-### Art. 23. Méthodes d’archivage
-
-Le programme détaillé du cours «Méthodes d’archivage» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La notion d’archives comprenant:Chapitre 1er - Leur productionChapitre 2 - Les genresChapitre 3 - Leur cycle de vieChapitre 4 - Leur arrangementTitre II - Le classementChapitre 1er - ButsChapitre 2 - Classification (cadre de classement)Chapitre 3 - Procédures de classement (manières, outils, etc.)Titre III - La conservationChapitre 1er - DélaisChapitre 2 - ButsChapitre 3 - Moyens: outils, meubles, locauxChapitre 4 - Dangers inhérents et extérieurs; restaurations etc.Chapitre 5 - Tris et éliminationsTitre IV - L’utilisation:Chapitre 1er - L’utilisation à des fins internesChapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc.,Chapitre 3 - Règles à observer: surveillance etc.
-
-<a id="art_N604C4"></a>
-
-### Art. 24. Organisation d’un service public
-
-Le programme détaillé du cours «Organisation d’un service public» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La notion de «service public» au niveau de l’administration communaleChapitre 1er - Définition1 - Le public cible2 - Les objectifsTitre II - Les prémisses pour un bon service du citoyenChapitre 1er - L’interaction des différents intervenants1 - Les relations entre l’administration et les élus locaux2 - Les relations entre l’administration et les citoyens3 - Les relations entre services communauxTitre III - La communication et les moyens à mettre en œuvreChapitre 1er - Le rôle de la communication dans un service public1 - Situation existante2 - Les conditions à respecter pour assurer une optimisation de la communicationTitre IV - Le courrierChapitre 1er - Les différentes formes de courrier1 - L’acheminement au sein de l’administration2 - Le suiviChapitre 2 - Les dossiers1 - Leur constitution2 - Les avis3 - La prise des décisionsTitre V - Le conseil communal et le collège échevinalChapitre 1er - Fonctionnement1 - Les ordres du jour2 - L’exécution des décisions
-
-<a id="art_N6054F"></a>
-
-### Art. 25. Les nouvelles technologies de l’information
-
-Le programme détaillé du cours «Les nouvelles technologies de l’information» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - Son fonctionnement2 - Ses servicesChapitre 2 - Le web1 - Ses particularités2 - La recherche d’informations3 - La qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetTitre III - La protection des données à caractère personnelChapitre 1er - La directive européenneChapitre 2 - La législation luxembourgeoise et sa mise en pratiqueTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueChapitre 3 - Les composants d’une infrastructure de clé publiqueChapitre 4 - La valeur probante de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
-
-<a id="art_N605D2"></a>
-
-### Art. 26. Législation sur l’urbanisme et l’environnement naturel
-
-Le programme détaillé du cours «Législation sur l’urbanisme et l’environnement naturel» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II - L’aménagement communalChapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents1 - Les communes2 - Le Ministre3 - La commission d’aménagementChapitre 3 - Les instruments1 - Le plan d’aménagement général (P.A.G.)2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procéduresChapitre 5 - L’exécution du plan d’aménagementChapitre 6 - Etude de cas pratiquesTitre III - Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles)Chapitre 1er - Objectifs de la loiChapitre 2 - Mesures générales de conservation du paysageChapitre 3 - Protection de la faune et de la floreChapitre 4 - Zones protégées d’intérêt communautaireChapitre 5 - Zones protégées d’intérêt nationalChapitre 6 - Zones protégées d’importance communaleChapitre 7 - Dispositions pénalesChapitre 8 - Etudes de cas pratiques
-
-<a id="art_N6065D"></a>
-
-### Art. 27. Etablissements dangereux et insalubres
-
-Le programme détaillé du cours «Etablissements dangereux et insalubres» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - La loi relative aux établissements classésLa nomenclature des établissements classésTitre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003Règlement grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de sécurité;Règlement ministériel du 6 mai 1996 concernant l’intervention d’organismes de contrôle dans le cadre des compétences et attributions de l’Inspection du Travail et des Mines
-
-<a id="art_N6069D"></a>
-
-### Art. 28. Loi électorale
-
-Le programme détaillé du cours «Loi électorale» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:IntroductionTitre I - La base de la législation électoraleTitre II - Les électeursTitre III - Les candidatsTitre IV - Le vote obligatoire au LuxembourgTitre V - Les pénalitésTitre VI - Les listes électoralesTitre VII - Les collèges électorauxTitre VIII - Le vote par correspondanceTitre IX - Le financement des campagnes électoralesTitre X - Les élections législativesTitre XI - Les élections européennesTitre XII - Les élections communales
-
-<a id="art_N606E9"></a>
-
-### Art. 29. Matières diverses
-
-Le programme détaillé du cours «Matières diverses tient compte des évolutions récentes dans les domaines suivants:- Permis de pêche et de chasse- Certificats- Légalisation des signatures- Police des aliénés- Cabarettage- Expropriation pour cause d’utilité publique- Syndicats de communes
-
-<a id="art_N6071D"></a>
-
-### Art. 30. Français
-
-Le programme détaillé du cours «Français» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er - La Francophonie.Chapitre 2 - La situation du français dans le monde.Chapitre 3 -La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des langues.Titre II - De la justification du langage administratif.Chapitre 1er - Caractéristiques principales du langage administratif.Chapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte-rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier).Chapitre 3 - Exercices pratiques.Chapitre 4 - Le langage administratif parlé.
-
-<a id="art_N60764"></a>
-
-### Art. 31. Allemand
-
-Le programme détaillé du cours «Allemand» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Das amtliche Schreiben1.1. Der Verwaltungsbrief1.1.1. Aufbau / Formalia1.1.2. Inhaltliche Aspekte / FormulierungTitre II - Stilfragen2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen2.2. Fremdwörter2.3. Schwerpunkte der Rechtschreibung2.4. Die InterpunktionTitre III - Textinterpretation / Linguistische Textanalyse3.1. Analyse der Textstruktur3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ)3.3. Analyse der Textfunktion (Textuelle Grundfunktionen)3.4. Stilistische Analyse (rhetorische Mittel, Tropen)3.5. Auseinandersetzung mit den Textinhalten - Gliederung und Kurzfassung (Précis)Titre IV - Kommunikation4.1. Kommunikationsmodelle4.2. Fehlkodierung / Kodierungsfehler4.3. Die deutsche Standardsprache / Prosodie4.4. Sprachliche Umgangsformen4.5. Rhetorische Grundbegriffe / Der Kurzvortrag
+| Titre I - Les droits réels |
+| --- |
+| Chapitre 1er - Le droit de propriété |
+| Chapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitation |
+| Chapitre 3 - Le droit de superficie et le droit d’emphytéose |
+| Chapitre 4 - L’indivision et la copropriété |
+| Chapitre 5 - Les servitudes |
+| Titre II - Les obligations |
+| Chapitre 1er - Les sources des obligations |
+| Chapitre 2 - Les modalités des obligations |
+| Chapitre 3 - Les modes d’extinction des obligations |
+| Titre III - La preuve |
+| Chapitre 1er - La preuve littérale (ou écrite) |
+| Chapitre 2 - La preuve testimoniale (par témoignage) |
+| Chapitre 3 - Les présomptions |
+| Chapitre 4 - L’aveu |
+| Chapitre 5 - Le serment |
+| Titre IV - Les régimes matrimoniaux |
+| Chapitre 1er - Le régime primaire |
+| Chapitre 2 - La communauté légale et la communauté conventionnelle |
+| Chapitre 3 - La communauté universelle |
+| Chapitre 4 - La séparation de biens |
+| Titre V - Les successions |
+| Chapitre 1er - La succession légale (ab intestat) |
+| Chapitre 2 - La succession testamentaire |
 
 <a id="art_N607D0"></a>
 
-### Art. 32. Anglais
+### Art. 20. Protection du citoyen face aux décisions de l’administration
 
-Le programme détaillé du cours «Anglais» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - English Phone conversationsChapitre 1er - Introductory words and level of study aimed at - INTERMEDIATEChapitre 2 - Basic phone skills - Listening and Speaking properly, Keeping on hold, etc.Chapitre 3 - The Study of Charts ( Phonetic Script, Intonation, Phone Alphabet (IAOC)Chapitre 4 - The Golden Phone Rules.Chapitre 5 - 10 practical listening exercises at ADVANCED level followed by debates.Titre II - Letter writingChapitre 1er - The essential parts of the English letter.Chapitre 2 - The layout of an English letter inside the local government administration.Chapitre 3 - Linguistic advice on letter-writing - Stylistics, linking words, false friends.Chapitre 4 - Study of at least 6 types of letter (Complaint, inquiry, decline, service note)Chapitre 5 - 25 rules on how to write efficient letters and reports.Titre III - Text analysesIn order to favour reading and writing skills as regards ‘summary’ and ‘composition’ ‘writing’ , 10 texts of ADVANCED level on the modern local government and the EU will be read.Text 1 - Nationalism and the EU, an Anachronism?Text 2 - The Enlarged Europe of Unity in Diversity.Text 3 - Europe and Lifelong Learning.Text 4 - The Unity of European Culture.Text 5 - Local Government Recruitment and Selection.Text 6 - The essential importance of language.Text 7 - Work and Humankind.Text 8 - Europe and small countries.Text 9 - European Resistance and Post-War Reconstruction.Text 10 - Retributive punishment and human society.
+Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N6084E"></a>
+| Titre I | - | La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuse |
+| --- | --- | --- |
+| Tirre II | - | Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes |
 
-### Art. 33. Luxembourgeois
+<a id="art_N6082B"></a>
 
-Le programme détaillé du cours «Luxembourgeois» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Aperçu de l’évolution de l’orthographe luxembourgeoiseTitre II - L’orthographe luxembourgeoiseChapitre 1er - Les voyellesChapitre 2 - Les diphtonguesChapitre 3 - Les consonnesChapitre 4 - Les pronomsChapitre 5 - Les verbesChapitre 6 - Les mots étrangers dans la langue luxembourgeoiseTitre III - Rédaction d’une lettre administrative
+### Art. 21. Relations entre l’administration et le citoyen
 
-<a id="art_N6088D"></a>
+Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-### Art. 34. Loi communale
+| Titre I - Introduction |
+| --- |
+| Titre II - Les diverses relations entre l’administration et les citoyens |
+| Chapitre 1er - Expériences personnelles vécues avec les administrations publiques |
+| Chapitre 2 - L’accueil du citoyen dans les bureaux |
+| 2.1 - Heures d’ouverture |
+| 2.2 - Nocturnes |
+| 2.3 - Aider le citoyen à se retrouver dans l’administration |
+| 2.4 - Queues d’attente et pauses café |
+| 2.5 - Vêtements de travail |
+| Chapitre 3 - Le téléphone |
+| 3.1 - Répondre à un appel téléphonique |
+| 3.2 - Comportement face à un citoyen excité |
+| 3.3 - Gestion des appels téléphoniques à l’intérieur d’un service |
+| 3.4 - Rôle du central téléphonique |
+| 3.5 - A qui la priorité: A celui qui téléphone ou à celui qui vient au bureau? |
+| Chapitre 4 - Le courrier |
+| 4.1 - L’accusé de réception |
+| 4.2 - Le temps de réponse |
+| 4.3 - La lettre traditionnelle |
+| 4.4 - La télécopie |
+| 4.5 - Le courrier électronique |
+| Chapitre 5 - L’Internet |
+| 5.1 - Les communes dans l’Internet |
+| 5.2 - Le «E-Government» |
+| Titre III - Quelques règles de la communication |
+| Titre IV - Divers |
+| Chapitre 1er - Les guichets uniques |
+| Chapitre 2 - Les publications |
+| Chapitre 3 - Idées nouvelles |
+| 3.1 - Modèles de sondages (Bertelsmann-Projekt) |
+| 3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg) |
+| 3.3 - „Zukunftskonferenzen“ (USA) |
+| 3.4 - „Customer Contracts“ (Braintree) |
+| 3.5 - „Benchmarking” (Bertelsmann-Projekt) |
+| 3.6 - „PR mit VR“ (Delft) |
 
-Le programme détaillé du cours «Loi communale» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de districtTitre XI - La collaboration des communes entre elles et avec d’autres partenaires
+<a id="art_N609B2"></a>
 
-<a id="art_N60937"></a>
+### Art. 22. Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers
 
-### Art. 35. Marchés publics
+Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-Le programme détaillé du cours «Marchés publics» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
+| Titre I - Elaboration de délibérations |
+| --- |
+| Chapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90 |
+| Chapitre 2 - Le mode de rédaction d’une délibération |
+| 2.1 - Le préambule |
+| 2.2 - Les motifs |
+| 2.3 - Le dispositif |
+| 2.4 - La partie finale |
+| 2.5 - De l’approbation des délibérations |
+| Chapitre 3 - Exemples de délibérations avec explication de la procédure |
+| Titre II - Les avis au public |
+| Titre III - Les permis de construire |
+| Titre IV - Les comptes rendus |
+| Titre VI - Les documents officiels divers |
 
-<a id="art_N609A1"></a>
+<a id="art_N60A5A"></a>
 
-### Art. 36. Règlements communaux
+### Art. 23. Méthodes d’archivage
 
-Le programme détaillé du cours «Règlements communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe , impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir règlementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
+Le programme détaillé du cours «Méthodes d’archivage» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N60A5F"></a>
+| Titre I - La notion d’archives comprenant: |
+| --- |
+| Chapitre 1er - Leur production |
+| Chapitre 2 - Les genres |
+| Chapitre 3 - Leur cycle de vie |
+| Chapitre 4 - Leur arrangement |
+| Titre II - Le classement |
+| Chapitre 1er - Buts |
+| Chapitre 2 - Classification (cadre de classement) |
+| Chapitre 3 - Procédures de classement (manières, outils, etc.) |
+| Titre III - La conservation |
+| Chapitre 1er - Délais |
+| Chapitre 2 - Buts |
+| Chapitre 3 - Moyens: outils, meubles, locaux |
+| Chapitre 4 - Dangers inhérents et extérieurs; restaurations etc. |
+| Chapitre 5 - Tris et éliminations |
+| Titre IV - L’utilisation: |
+| Chapitre 1er - L’utilisation à des fins internes |
+| Chapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc., |
+| Chapitre 3 - Règles à observer: surveillance etc. |
 
-### Art. 37. Etat civil et bureau de population
+<a id="art_N60B36"></a>
 
-Le programme détaillé du cours «Etat civil et bureau de population» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Bureau de population - IndigénatChapitre 1er - Indigénat1.1 -Loi modifiée du 22.2.1968 sur la nationalité luxembourgeoise et la circulaire ministérielle afférente1.2 -Loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise et la circulaire ministérielle du 16.2.1995 afférente1.3 -Les mentions marginales en matière d’indigénatChapitre 2 - Population2.1 - Loi du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers, 3. l’emploi de la main-d’œuvre étrangère2.2 - Règlement grand-ducal du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant aux pays2.3 - Règlement grand-ducal du 28 mars 1972 relatif aux conditions d’entrée et de séjour de certaines catégories d’étrangers faisant l’objet de conventions internationales2.4 - Texte historique; Les dispositions légales concernant la tenue des registres de la population: une genèse laborieuse (Définitions des notions de domicile et de résidence)2.5 - Loi du 22.février1886, art.82.6 - Circulaire du Ministre de l’Intérieur du 15 avril 19532.7 - Mise à disposition de tiers des données personnelles des administrés détenues par les communes2.8 - La déclaration des Luxembourgeois & La déclaration des non-LuxembourgeoisChapitre 3 - Titres d’identité3.1 - Arrêté grand-ducal du 30 août 1939, portant introduction de la carte d’identité obligatoire3.2 - Règlement ministériel du 12 juin 1989 déterminant le modèle de la carte d’identité obligatoire à délivrer par les administrations communales3.3 - Loi du 14.4.1934 concernant les passeports à l’étrangerTitre II - Etat civilChapitre 1er - Des actes de l’état civil1.1 - Dispositions générales1.2 - Des actes de naissance1.3 - Des actes de mariages1.4 - Des actes de décès1.5 - De la rectification des actes de l’état civilChapitre 2 - Du mariage2.1 - Qualités2.2 - Des formalitésChapitre 3 - Des seconds mariages
+### Art. 24. Organisation d’un service public
 
-<a id="art_N60B0A"></a>
+Le programme détaillé du cours «Organisation d’un service public» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-### Art. 38. Gestion des ressources financières des communes (Budget et comptabilité)
+| Titre I - La notion de «service public» au niveau de l’administration communale |
+| --- |
+| Chapitre 1er - Définition |
+| 1 - Le public cible |
+| 2 - Les objectifs |
+| Titre II - Les prémisses pour un bon service du citoyen |
+| Chapitre 1er - L’interaction des différents intervenants |
+| 1 - Les relations entre l’administration et les élus locaux |
+| 2 - Les relations entre l’administration et les citoyens |
+| 3 - Les relations entre services communaux |
+| Titre III - La communication et les moyens à mettre en œuvre |
+| Chapitre 1er - Le rôle de la communication dans un service public |
+| 1 - Situation existante |
+| 2 - Les conditions à respecter pour assurer une optimisation de la communication |
+| Titre IV - Le courrier |
+| Chapitre 1er - Les différentes formes de courrier |
+| 1 - L’acheminement au sein de l’administration |
+| 2 - Le suivi |
+| Chapitre 2 - Les dossiers |
+| 1 - Leur constitution |
+| 2 - Les avis |
+| 3 - La prise des décisions |
+| Titre V - Le conseil communal et le collège échevinal |
+| Chapitre 1er - Fonctionnement |
+| 1 - Les ordres du jour |
+| 2 - L’exécution des décisions |
 
-Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - Le système de financement des communes: tarifs communaux, gestion des projets, planning pluriannuel, trésorerieChapitre 1er - La comptabilité de caisse et la comptabilité financière1.1 - La comptabilité de caisse1.2 - La comptabilité financièreChapitre 2 - Le nouveau plan comptable des communesChapitre 3 - Le principe de l’équilibre financierChapitre 4 - Les recettes ordinaires des communes4.1 - Les impôts communaux4.2 - Les dotations4.3 - Les subventions étatiques spécifiques4.4 - Les revenus de prestationsChapitre 5 - Les tarifs communaux5.1 - Le règlement des taxes, tarifs et prix - la base légale5.2 - La fixation de la juste contribution de l’usager5.3 - L’exemple des prix de l’épuration des eaux usées à Cologne5.4 - Les tarifs à fixerLes produits de l’exploitationLes produits domaniaux5.5 - Quelques notions financières5.6 - La différentiation des services5.7 - Les questions à poser5.8 - Un règlement-taxe type - L’évacuation et l’épuration des eaux usées5.9 - Un règlement-taxe de la ville de Luxembourg - CimetièresChapitre 6 - La gestion des projets6.1 - Les choix stratégiques - la prérogative des autorités politiques6.2 - Les projets internes6.3 - Les projets externes6.4 - Les phases du projet de construction6.5 - Le suivi du projet en cours d’exécutionChapitre 7 - Le planning pluriannuel7.1 - La structure du budget ordinaire7.2 - Le plan de réalisation des projets7.3 - Le plan des recettes extraordinaires7.4 - Le planning financier pluriannuelChapitre 8 - Le recours à des fonds étrangers8.1 - Le cadre légal8.2 - La gestion de la trésorerie8.3 - Les ouvertures de crédit8.4 - Les emprunts8.5 - Les équilibres financiersTitre III - La comptabilité communale: notions sur le budget communalChapitre 1er - L’établissement, le vote et l’arrêté1.1 - La formation1.2 - L’élaboration du projet1.3 - Le commentaire budgétaire1.4 - Le vote1.5 - L’apurement et l’arrêté définitifChapitre 2 - Les modifications budgétaires2.1 - La demande de crédit spécial ou supplémentaire2.2 - Le tableau des modifications budgétaires2.3 - Les dépenses urgentes et imprévues2.4 - Le transfert2.5 - Le report d’exercice2.6 - Le budget rectifié - définition - établissement - vote et valeurChapitre 3 - Les obligations et les responsabilités par rapport aux crédits budgétaires3.1 - Du collège des bourgmestre et échevins3.2 - Du receveur communalChapitre 4 - Les budget des syndicats intercommunaux et des établissements publics communaux4.1 - Les généralités4.2 - Le budget des établissements publics communaux4.3 - Le budget des syndicats intercommunaux4.4 - Les principes découlant de la comptabilité commerceTitre IV - La comptabilité communale: l’exécution du budget et la reddition des comptesChapitre 1er - L’exercice financier- La distinction d’exerciceChapitre 2 - La comptabilité2.1 - Le système2.2 - La comptabilité du collège des bourgmestre et échevins2.3 - La comptabilité du receveur2.4 - La conservation des documents de comptabilitéChapitre 3 - La gestion des recettes3.1 - L’exécution des décisions du conseil communal3.2 - L’approbation des pièces justificatives3.3 - Le titre rectificatifChapitre 4 - La gestion des dépenses4.1 - L’ordonnancement4.2 - Le mandatementChapitre 5 - Le contrôle de la comptabilité et de la caisse5.1 - La mission du collège des bourgmestre et échevinsChapitre 6 - La comptabilité des établissements publics communaux et des syndicatsChapitre 7 - Les comptes communaux7.1 - Le compte d’exerciceLa définitionL’objet du compte de gestionLa structure des comptesL’inscription des recettes aux comptesL’inscription des dépenses aux comptesLa concordance des comptesLa justification des recettes et des dépenses7.2 - Le compte de fin de gestion
+<a id="art_N60C68"></a>
 
-<a id="art_N60CDA"></a>
+### Art. 25. Les nouvelles technologies de l’information
 
-### Art. 39. Statut des fonctionnaires communaux
+Le programme détaillé du cours «Les nouvelles technologies de l’information» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et notamment les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
+| Titre I - Introduction à Internet et le Web |
+| --- |
+| Chapitre 1er - Le réseau Internet |
+| 1 - Son fonctionnement |
+| 2 - Ses services |
+| Chapitre 2 - Le web |
+| 1 - Ses particularités |
+| 2 - La recherche d’informations |
+| 3 - La qualité des informations |
+| Titre II - La sécurité informatique |
+| Chapitre 1er - Les composants d’un système fiable |
+| Chapitre 2 - Les dangers inhérents à l’usage d’Internet |
+| Titre III - La protection des données à caractère personnel |
+| Chapitre 1er - La directive européenne |
+| Chapitre 2 - La législation luxembourgeoise et sa mise en pratique |
+| Titre IV - e-Gouvernement |
+| Chapitre 1er - Les initiatives e-Europe et e-Luxembourg |
+| Chapitre 2 - Les niveaux d’évolution des services e-gouvernement |
+| Titre V - Cryptographie et signature électronique |
+| Chapitre 1er - Les bases de la cryptographie |
+| Chapitre 2 - Le principe de fonctionnement de la signature électronique |
+| Chapitre 3 - Les composants d’une infrastructure de clé publique |
+| Chapitre 4 - La valeur probante de la signature électronique |
+| Titre VI - Les services offerts aux communes par le SIGI |
 
-<a id="art_N60D32"></a>
+<a id="art_N60D84"></a>
 
-### Art. 40. Traitements des fonctionnaires communaux
+### Art. 26. Législation sur l’urbanisme et l’environnement naturel
 
-Le programme détaillé du cours «Traitements des fonctionnaires communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:Titre I - IntroductionChapitre 1er - Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er - Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2 - Le nombre-indiceChapitre 3 - Les valeurs du pointChapitre 4 - Calculs des carrières4.1 - Traitements pendant le service provisoire4.2 - Promotions, avancements en traitement et doubles échelons4.3 - Biennales, annale et majorations d’indice4.4 - Bonification pour ancienneté des services4.5 - Cadres ouverts et cadres fermés4.6 - Allongements de grades4.7 - Grades de substitution4.8 - Suppléments de traitement4.9 - Traitement des fonctionnaires à l’âge de 55 ansChapitre 5 - Accessoires5.1 - Primes pensionnables et primes non pensionnables5.2 - Allocation de famille5.3 - Logement de service5.4 - Allocation de fin d’année5.5 - Allocation de repas5.6 - Paiement des heures supplémentairesChapitre 6 - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
+Le programme détaillé du cours «Législation sur l’urbanisme et l’environnement naturel» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-##### Titre III — Programmes détaillés des cours de la section de la carrière du receveur communal.
+| Titre I - L’aménagement général du territoire (Loi du 21 mai 1999) |
+| --- |
+| Chapitre 1er - Les objectifs |
+| Chapitre 2 - Les instruments |
+| Titre II - L’aménagement communal |
+| Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national. |
+| Chapitre 2 - Les organes compétents |
+| 1 - Les communes |
+| 2 - Le Ministre |
+| 3 - La commission d’aménagement |
+| Chapitre 3 - Les instruments |
+| 1 - Le plan d’aménagement général (P.A.G.) |
+| 2 - Le plan d’aménagement particulier (P.A.P.) |
+| Chapitre 4 - Les procédures |
+| Chapitre 5 - L’exécution du plan d’aménagement |
+| Chapitre 6 - Etude de cas pratiques |
+| Titre III - Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles) |
+| Chapitre 1er - Objectifs de la loi |
+| Chapitre 2 - Mesures générales de conservation du paysage |
+| Chapitre 3 - Protection de la faune et de la flore |
+| Chapitre 4 - Zones protégées d’intérêt communautaire |
+| Chapitre 5 - Zones protégées d’intérêt national |
+| Chapitre 6 - Zones protégées d’importance communale |
+| Chapitre 7 - Dispositions pénales |
+| Chapitre 8 - Etudes de cas pratiques |
 
-<a id="art_N60DEB"></a>
+<a id="art_N60EAC"></a>
 
-### Art. 41. Histoire de l’administration publique et notamment de l’administration luxembourgeoie
+### Art. 27. Etablissements dangereux et insalubres
 
-Le programme détaillé du cours «Histoire de l’administration publique et notamment de l’administration luxembourgeoise» assuré à la section du receveur communal est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795-1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l ‘Etat industrielChapitre 16 - Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919:Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 -Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum17.3 -L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranationalL’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administrativesPondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
+Le programme détaillé du cours «Etablissements dangereux et insalubres» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N60EC0"></a>
+| Titre I - La loi relative aux établissements classés |  |
+| --- | --- |
+|  | La nomenclature des établissements classés |
+| Titre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003 |  |
+|  | Règlement grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de sécurité; |
+|  | Règlement ministériel du 6 mai 1996 concernant l’intervention d’organismes de contrôle dans le cadre des compétences et attributions de l’Inspection du Travail et des Mines |
 
-### Art. 42. Introduction générale au droit
+<a id="art_N60F21"></a>
 
-Le programme détaillé du cours «Introduction générale au droit» assuré à la section du receveur communal est déterminé comme suit:Titre I - Le droit objectifChapitre 1er - Les divisions des règles de droit et les principales branches du droitChapitre 2 - Les sources du droitTitre II - Les droits subjectifsChapitre 1er - Classification des droits subjectifsChapitre 2 - Les actes juridiques et les faits juridiquesChapitre 3 - Les sujets de droitTitre III - Le pouvoir judiciaireChapitre 1er - L’organisation judiciaire1 - Les juridictions ordinaires2 - Les juridictions particulièresChapitre 2 - La compétence des cours et tribunauxChapitre 3 - Les différents acteurs du monde judiciaire
+### Art. 28. Loi électorale
 
-<a id="art_N60F15"></a>
+Le programme détaillé du cours «Loi électorale» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-### Art. 43. Droit constitutionnel
+| Introduction |
+| --- |
+| Titre I - La base de la législation électorale |
+| Titre II - Les électeurs |
+| Titre III - Les candidats |
+| Titre IV - Le vote obligatoire au Luxembourg |
+| Titre V - Les pénalités |
+| Titre VI - Les listes électorales |
+| Titre VII - Les collèges électoraux |
+| Titre VIII - Le vote par correspondance |
+| Titre IX - Le financement des campagnes électorales |
+| Titre X - Les élections législatives |
+| Titre XI - Les élections européennes |
+| Titre XII - Les élections communales |
 
-Le programme détaillé du cours «Droit constitutionnel» assuré à la section du receveur communal est déterminé comme suit:Titre I - Introduction, Notions généralesChapitre 1er - Le territoireChapitre 2 - La populationChapitre 3 - L’autorité publiqueTitre II - Les garanties constitutionnellesChapitre 1er - La rigidité de la constitutionChapitre 2 - Les droits des citoyensTitre III - La forme du gouvernementChapitre 1er - Une démocratie représentativeChapitre 2 - La séparation des pouvoirsChapitre 3 - L’exercice du pouvoir législatifChapitre 4 - L’exercice du pouvoir exécutifChapitre 5 - L’exercice du pouvoir judiciaireTitre IV - Le Grand-Duc et le GouvernementChapitre 1er - La situation juridique du Grand-DucChapitre 2 - Les prérogatives du Grand-DucChapitre 3 - La formation du GouvernementChapitre 4 - La responsabilité ministérielleTitre V - La Chambre des députésChapitre 1er - Le système électoralChapitre 2 - L’organisation de la Chambre des députésChapitre 3 - La procédure législativeChapitre 4 - Le contrôle du Gouvernement par la Chambre des députésTitre VI - Le Conseil d’EtatChapitre 1er - La composition du Conseil d’EtatChapitre 2 - Les attributions du Conseil d’EtatChapitre 3 - La procédure au sein du Conseil d’EtatTitre VII - Les Cours et TribunauxChapitre 1er - L’indépendance des jugesChapitre 2 - L’organisation judiciaireChapitre 3 - Le ministère publicChapitre 4 - Les garanties fondamentales offertes aux justiciablesTitre VIII - L’Administration publiqueChapitre 1er - L’administration centraleChapitre 2 - Les services générauxTitre IX - Les finances de l’EtatChapitre 1er - Les ressources de l’EtatChapitre 2 - Le budget de l’EtatChapitre 3 - Les contrôles budgétaires interne et externeTitre X - Les chambres professionnellesChapitre 1er - La composition des chambres professionnellesChapitre 2 - L’organisation des chambres professionnellesChapitre 3 - Les attributions des chambres professionnellesTitre XI - Le Conseil économique et socialChapitre 1er - La composition du Conseil économique et socialChapitre 2 - Les attributions du Conseil économique et socialChapitre 3 - Les rapports avec le Gouvernement
+<a id="art_N60FB8"></a>
 
-<a id="art_N6100A"></a>
+### Art. 29. Matières diverses
 
-### Art. 44. Droit administratif
+Le programme détaillé du cours «Matières diverses tient compte des évolutions récentes dans les domaines suivants:
 
-Le programme détaillé du cours «Droit administratif» assuré à la section du receveur communal est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:- autorisation de bâtir- établissements classés (Loi du 10 juin 1999)- aménagement des communes (L 12 juin 1937)- nature (Loi du 11 août 1982);- responsabilité (Loi du 1er septembre 1988);
+- Permis de pêche et de chasse
+- Certificats
+- Légalisation des signatures
+- Police des aliénés
+- Cabarettage
+- Expropriation pour cause d’utilité publique
+- Syndicats de communes
 
-<a id="art_N6106C"></a>
+<a id="art_N60FEA"></a>
 
-### Art. 45. Droit civil
+### Art. 30. Français
 
-Le programme détaillé du cours «Droit civil» assuré à la section du receveur communal est déterminé comme suit:Titre I - Les droits réelsChapitre 1er - Le droit de propriétéChapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitationChapitre 3 - Le droit de superficie et le droit d’emphytéoseChapitre 4 - L’indivision et la copropriétéChapitre 5 - Les servitudesTitre II - Les obligationsChapitre 1er - Les sources des obligationsChapitre 2 - Les modalités des obligationsChapitre 3 - Les modes d’extinction des obligationsTitre III - La preuveChapitre 1er - La preuve littérale (ou écrite)Chapitre 2 - La preuve testimoniale (par témoignage)Chapitre 3 - Les présomptionsChapitre 4 - L’aveuChapitre 5 - Le sermentTitre IV - Les régimes matrimoniauxChapitre 1er - Le régime primaireChapitre 2 - La communauté légale et la communauté conventionnelleChapitre 3 - La communauté universelleChapitre 4 - La séparation de biensTitre V - Les successionsChapitre 1er - La succession légale (ab intestat)Chapitre 2 - La succession testamentaire
+Le programme détaillé du cours «Français» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-<a id="art_N610F3"></a>
+| Titre I - De l’usage de la langue française au Luxembourg et dans le monde. |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | La Francophonie. |
+| Chapitre 2 | - | La situation du français dans le monde. |
+| Chapitre 3 | - | La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des langues. |
+| Titre II - De la justification du langage administratif. |  |  |
+| Chapitre 1er | - | Caractéristiques principales du langage administratif. |
+| Chapitre 2 | - | Le langage administratif écrit - la lettre - le rapport - le compte-rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier). |
+| Chapitre 3 | - | Exercices pratiques. |
+| Chapitre 4 | - | Le langage administratif parlé. |
 
-### Art. 46. Droit commercial (documents commerciaux, entreprises)
+<a id="art_N610C1"></a>
 
-Le programme détaillé du cours «Droit commercial (documents commerciaux, entreprises)» assuré à la section du receveur communal est déterminé comme suit:Titre I - Le commerçantChapitre 1er - Qui est commerçantChapitre 2 - Les obligations des commerçantsChapitre 3 - Le fond de commerceChapitre 4 - Avantages et désavantages de l’entreprise individuelleTitre II - Les sociétés commercialesChapitre 1er - La constitution d’une société commercialeChapitre 2 - La notion de la personnalité moraleChapitre 3 - Les différentes formes de sociétés commercialesChapitre 4 - Autres formes de sociétés ou modes d’associationChapitre 5 - La succursaleTitre III - La failliteChapitre 1er - Conditions d’ouverture de la failliteChapitre 2 - Les effets de la failliteChapitre 3 - Les solutions de la failliteChapitre 4 - La banquerouteTitre IV - Contrats spécifiquesChapitre 1er - Le contrat de bail commercialChapitre 2 - Le contrat de franchiseTitre V - De quelques principes en matière commercialeChapitre 1er - De la preuveChapitre 2 - Les mentions obligatoires sur les documents sociauxChapitre 3 - Le recouvrement de créances au Luxembourg
+### Art. 31. Allemand
 
-<a id="art_N61176"></a>
+Le programme détaillé du cours «Allemand» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
 
-### Art. 47. Protection du citoyen face aux décisions de l’administration
-
-Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section du receveur communal est déterminé comme suit:Titre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II - Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
+| Titre I - Das amtliche Schreiben |
+| --- |
+| 1.1. Der Verwaltungsbrief |
+| 1.1.1. Aufbau / Formalia |
+| 1.1.2. Inhaltliche Aspekte / Formulierung |
+| Titre II - Stilfragen |
+| 2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen |
+| 2.2. Fremdwörter |
+| 2.3. Schwerpunkte der Rechtschreibung |
+| 2.4. Die Interpunktion |
+| Titre III - Textinterpretation / Linguistische Textanalyse |
+| 3.1. Analyse der Textstruktur |
+| 3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ) |
+| 3.3. Analyse der Textfunktion (Textuelle Grundfunktionen) |
+| 3.4. Stilistische Analyse (rhetorische Mittel, Tropen) |
+| 3.5. Auseinandersetzung mit den Textinhalten - Gliederung und Kurzfassung (Précis) |
+| Titre IV - Kommunikation |
+| 4.1. Kommunikationsmodelle |
+| 4.2. Fehlkodierung / Kodierungsfehler |
+| 4.3. Die deutsche Standardsprache / Prosodie |
+| 4.4. Sprachliche Umgangsformen |
+| 4.5. Rhetorische Grundbegriffe / Der Kurzvortrag |
 
 <a id="art_N611A3"></a>
 
+### Art. 32. Anglais
+
+Le programme détaillé du cours «Anglais» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - English Phone conversations |
+| --- |
+| Chapitre 1er - Introductory words and level of study aimed at - INTERMEDIATE |
+| Chapitre 2 - Basic phone skills - Listening and Speaking properly, Keeping on hold, etc. |
+| Chapitre 3 - The Study of Charts ( Phonetic Script, Intonation, Phone Alphabet (IAOC) |
+| Chapitre 4 - The Golden Phone Rules. |
+| Chapitre 5 - 10 practical listening exercises at ADVANCED level followed by debates. |
+| Titre II - Letter writing |
+| Chapitre 1er - The essential parts of the English letter. |
+| Chapitre 2 - The layout of an English letter inside the local government administration. |
+| Chapitre 3 - Linguistic advice on letter-writing - Stylistics, linking words, false friends. |
+| Chapitre 4 - Study of at least 6 types of letter (Complaint, inquiry, decline, service note) |
+| Chapitre 5 - 25 rules on how to write efficient letters and reports. |
+| Titre III - Text analyses |
+| In order to favour reading and writing skills as regards ‘summary’ and ‘composition’ ‘writing’ , 10 texts of ADVANCED level on the modern local government and the EU will be read. |
+| Text 1 - Nationalism and the EU, an Anachronism? |
+| Text 2 - The Enlarged Europe of Unity in Diversity. |
+| Text 3 - Europe and Lifelong Learning. |
+| Text 4 - The Unity of European Culture. |
+| Text 5 - Local Government Recruitment and Selection. |
+| Text 6 - The essential importance of language. |
+| Text 7 - Work and Humankind. |
+| Text 8 - Europe and small countries. |
+| Text 9 - European Resistance and Post-War Reconstruction. |
+| Text 10 - Retributive punishment and human society. |
+
+<a id="art_N612A7"></a>
+
+### Art. 33. Luxembourgeois
+
+Le programme détaillé du cours «Luxembourgeois» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Aperçu de l’évolution de l’orthographe luxembourgeoise |
+| --- |
+| Titre II - L’orthographe luxembourgeoise |
+| Chapitre 1er - Les voyelles |
+| Chapitre 2 - Les diphtongues |
+| Chapitre 3 - Les consonnes |
+| Chapitre 4 - Les pronoms |
+| Chapitre 5 - Les verbes |
+| Chapitre 6 - Les mots étrangers dans la langue luxembourgeoise |
+| Titre III - Rédaction d’une lettre administrative |
+
+<a id="art_N6131D"></a>
+
+### Art. 34. Loi communale
+
+Le programme détaillé du cours «Loi communale» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Histoire des communes luxembourgeoises |
+| --- |
+| Titre II - Contexte géographique actuel |
+| Titre III - L’autonomie communale dans la législation luxembourgeoise |
+| Titre IV - Les organes communaux |
+| Chapitre 1er - Le Conseil communal |
+| Chapitre 2 - Le collège des bourgmestre et échevins |
+| Chapitre 3 - Le bourgmestre |
+| Chapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevins |
+| Chapitre 5 - Les devoirs de délicatesse des membres du corps communal |
+| Titre V - La tutelle administrative et les voies de recours |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les moyens de tutelle administrative |
+| Chapitre 3 - Les voies de recours contre les mesures de tutelle |
+| Titre VI - Les compétences des communes et l’exercice des compétences |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les attributions actuelles les plus importantes des communes |
+| Chapitre 3 - Exercice des compétences communales |
+| Titre VII - La participation des citoyens aux affaires communales |
+| Chapitre 1er - Information |
+| Chapitre 2 - Droit de prendre connaissance des délibérations du conseil communal |
+| Chapitre 3 - Publication des règlements |
+| Chapitre 4 - Référendum |
+| Chapitre 5 - Consultation des administrés |
+| Titre VIII - Jetons de présence, indemnités, congé politique |
+| Chapitre 1er - Jetons de présence |
+| Chapitre 2 - Indemnités |
+| Chapitre 3 - Congé politique |
+| Titre IX - Les fonctions de secrétaire et de receveur |
+| Chapitre 1er - Le secrétaire communal |
+| Chapitre 2 - Le receveur communal |
+| Titre X - Le rôle du commissaire de district |
+| Titre XI - La collaboration des communes entre elles et avec d’autres partenaires |
+
+<a id="art_N61477"></a>
+
+### Art. 35. Marchés publics
+
+Le programme détaillé du cours «Marchés publics» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Définitions |
+| --- |
+| Titre II - Les dispositions du livre I de la législation sur les marchés publics |
+| Chapitre 1er - Procédures |
+| Chapitre 2 - Les conditions générales d’accès aux marchés publics |
+| Chapitre 3 - Formes de mise en adjudication |
+| Chapitre 4 - Etablissement du dossier de soumission |
+| Chapitre 5 - La demande d’offre |
+| Chapitre 6 - Le contenu de la soumission |
+| Chapitre 7 - Dépôt et ouverture des offres |
+| Chapitre 8 - Examen des offres |
+| Chapitre 9 - Adjudication |
+| Chapitre 10 - Annulation d’une mise en adjudication et remise en adjudication |
+| Chapitre 11 - Dossiers des marchés à présenter au Ministère de l’Intérieur |
+| Chapitre 12 - Commission des Soumissions |
+| Titre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure) |
+| Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus) |
+| Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communes |
+| Chapitre 1er - Les différentes étapes de la procédure |
+| Chapitre 2 - L’esprit et le bien-fondé de cette procédure préalable |
+
+<a id="art_N6154B"></a>
+
+### Art. 36. Règlements communaux
+
+Le programme détaillé du cours «Règlements communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - La règle de droit |
+| 1. Analyse de la règle de droit |
+| 2. Les sources du droit - système et hiérarchie |
+| Titre II - Le règlement communal |
+| Chapitre 1er - Définition |
+| Chapitre 2 - Les catégories de règlements |
+| 1 - Les règlements d’administration intérieure |
+| 1.1 le règlement d’ordre intérieur du conseil communal |
+| 1.2 le règlement-taxe , impôts, taxes, redevances |
+| 2 - Les règlements de police |
+| 2.1 le règlement général de police |
+| 2.2 le règlement de circulation |
+| 2.3 le plan d’aménagement général |
+| 2.4 le règlement sur les bâtisses |
+| 3 - Les règlements d’urgence en matière de police |
+| 4 - Les sanctions |
+| 4.1 l’amende de police |
+| 4.2 les peines supérieures |
+| 4.3 les peines accessoires |
+| Chapitre 3 - Les limites du pouvoir règlementaire communal |
+| 1 - par rapport au territoire |
+| 2 - par rapport à son objet |
+| Chapitre 4 - Les autorités compétentes |
+| 1 - Le conseil communal |
+| 2 - Le collège échevinal |
+| Chapitre 5 - Les formalités de validité et de contrôle |
+| 1 - Tutelle générale |
+| 1.1 suspension ministérielle |
+| 1.2 annulation grand-ducale |
+| 2 - Tutelle spéciale |
+| 2.1 approbation grand-ducale |
+| 2.2 approbation ministérielle |
+| 3 - Formes spéciales de validité |
+| 3.1 avis du médecin-inspecteur |
+| 4 - Publication |
+| Chapitre 6 - Les recours en justice |
+| Le recours des communes contre l’autorité supérieure en cas de refus d’approbation |
+| Le recours des citoyens contre un règlement qui cause grief |
+| Titre III - Etude de cas |
+
+<a id="art_N616DD"></a>
+
+### Art. 37. Etat civil et bureau de population
+
+Le programme détaillé du cours «Etat civil et bureau de population» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Bureau de population - Indigénat |  |  |
+| --- | --- | --- |
+| Chapitre 1er - Indigénat |  |  |
+| 1.1 | - | Loi modifiée du 22.2.1968 sur la nationalité luxembourgeoise et la circulaire ministérielle afférente |
+| 1.2 | - | Loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise et la circulaire ministérielle du 16.2.1995 afférente |
+| 1.3 | - | Les mentions marginales en matière d’indigénat |
+| Chapitre 2 - Population |  |  |
+| 2.1 | - | Loi du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers, 3. l’emploi de la main-d’œuvre étrangère |
+| 2.2 | - | Règlement grand-ducal du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant aux pays |
+| 2.3 | - | Règlement grand-ducal du 28 mars 1972 relatif aux conditions d’entrée et de séjour de certaines catégories d’étrangers faisant l’objet de conventions internationales |
+| 2.4 | - | Texte historique; Les dispositions légales concernant la tenue des registres de la population: une genèse laborieuse (Définitions des notions de domicile et de résidence) |
+| 2.5 | - | Loi du 22.février1886, art.8 |
+| 2.6 | - | Circulaire du Ministre de l’Intérieur du 15 avril 1953 |
+| 2.7 | - | Mise à disposition de tiers des données personnelles des administrés détenues par les communes |
+| 2.8 | - | La déclaration des Luxembourgeois & La déclaration des non-Luxembourgeois |
+| Chapitre 3 - Titres d’identité |  |  |
+| 3.1 | - | Arrêté grand-ducal du 30 août 1939, portant introduction de la carte d’identité obligatoire |
+| 3.2 | - | Règlement ministériel du 12 juin 1989 déterminant le modèle de la carte d’identité obligatoire à délivrer par les administrations communales |
+| 3.3 | - | Loi du 14.4.1934 concernant les passeports à l’étranger |
+| Titre II - Etat civil |  |  |
+| Chapitre 1er - Des actes de l’état civil |  |  |
+| 1.1 | - | Dispositions générales |
+| 1.2 | - | Des actes de naissance |
+| 1.3 | - | Des actes de mariages |
+| 1.4 | - | Des actes de décès |
+| 1.5 | - | De la rectification des actes de l’état civil |
+| Chapitre 2 - Du mariage |  |  |
+| 2.1 | - | Qualités |
+| 2.2 | - | Des formalités |
+| Chapitre 3 - Des seconds mariages |  |  |
+
+<a id="art_N6193A"></a>
+
+### Art. 38. Gestion des ressources financières des communes (Budget et comptabilité)
+
+Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Le système de financement des communes: introduction |
+| --- |
+| Chapitre 1er - La nature des missions à la base du modèle de financement des communes |
+| 1.1 - Le financement des missions originaires |
+| 1.2 - Le financement des missions déléguées |
+| 1.3 - Le financement des autres missions des communes |
+| Chapitre 2 - Les ressources financières des communes |
+| 2.1 - Au niveau du budget de fonctionnement |
+| 2.2 - Au niveau du budget d’investissement |
+| Chapitre 3 - Le mécanisme de financement des communes |
+| 3.1 - Le contexte général |
+| 3.2 - Le mécanisme de financement garant de l’autonomie locale |
+| Chapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale |
+| 4.1 - Au niveau de la commune |
+| 4.2 - Au niveau national et dans la comparaison internationale |
+| Chapitre 5 - Les statistiques sur les revenus non affectés des communes |
+| 5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1) |
+| 5.2 - Présentation détaillée |
+| Titre II - Le système de financement des communes: tarifs communaux, gestion des projets, planning pluriannuel, trésorerie |
+| Chapitre 1er - La comptabilité de caisse et la comptabilité financière |
+| 1.1 - La comptabilité de caisse |
+| 1.2 - La comptabilité financière |
+| Chapitre 2 - Le nouveau plan comptable des communes |
+| Chapitre 3 - Le principe de l’équilibre financier |
+| Chapitre 4 - Les recettes ordinaires des communes |
+| 4.1 - Les impôts communaux |
+| 4.2 - Les dotations |
+| 4.3 - Les subventions étatiques spécifiques |
+| 4.4 - Les revenus de prestations |
+| Chapitre 5 - Les tarifs communaux |
+| 5.1 - Le règlement des taxes, tarifs et prix - la base légale |
+| 5.2 - La fixation de la juste contribution de l’usager |
+| 5.3 - L’exemple des prix de l’épuration des eaux usées à Cologne |
+| 5.4 - Les tarifs à fixer |
+| Les produits de l’exploitation |
+| Les produits domaniaux |
+| 5.5 - Quelques notions financières |
+| 5.6 - La différentiation des services |
+| 5.7 - Les questions à poser |
+| 5.8 - Un règlement-taxe type - L’évacuation et l’épuration des eaux usées |
+| 5.9 - Un règlement-taxe de la ville de Luxembourg - Cimetières |
+| Chapitre 6 - La gestion des projets |
+| 6.1 - Les choix stratégiques - la prérogative des autorités politiques |
+| 6.2 - Les projets internes |
+| 6.3 - Les projets externes |
+| 6.4 - Les phases du projet de construction |
+| 6.5 - Le suivi du projet en cours d’exécution |
+| Chapitre 7 - Le planning pluriannuel |
+| 7.1 - La structure du budget ordinaire |
+| 7.2 - Le plan de réalisation des projets |
+| 7.3 - Le plan des recettes extraordinaires |
+| 7.4 - Le planning financier pluriannuel |
+| Chapitre 8 - Le recours à des fonds étrangers |
+| 8.1 - Le cadre légal |
+| 8.2 - La gestion de la trésorerie |
+| 8.3 - Les ouvertures de crédit |
+| 8.4 - Les emprunts |
+| 8.5 - Les équilibres financiers |
+| Titre III - La comptabilité communale: notions sur le budget communal |
+| Chapitre 1er - L’établissement, le vote et l’arrêté |
+| 1.1 - La formation |
+| 1.2 - L’élaboration du projet |
+| 1.3 - Le commentaire budgétaire |
+| 1.4 - Le vote |
+| 1.5 - L’apurement et l’arrêté définitif |
+| Chapitre 2 - Les modifications budgétaires |
+| 2.1 - La demande de crédit spécial ou supplémentaire |
+| 2.2 - Le tableau des modifications budgétaires |
+| 2.3 - Les dépenses urgentes et imprévues |
+| 2.4 - Le transfert |
+| 2.5 - Le report d’exercice |
+| 2.6 - Le budget rectifié - définition - établissement - vote et valeur |
+| Chapitre 3 - Les obligations et les responsabilités par rapport aux crédits budgétaires |
+| 3.1 - Du collège des bourgmestre et échevins |
+| 3.2 - Du receveur communal |
+| Chapitre 4 - Les budget des syndicats intercommunaux et des établissements publics communaux |
+| 4.1 - Les généralités |
+| 4.2 - Le budget des établissements publics communaux |
+| 4.3 - Le budget des syndicats intercommunaux |
+| 4.4 - Les principes découlant de la comptabilité commerce |
+| Titre IV - La comptabilité communale: l’exécution du budget et la reddition des comptes |
+| Chapitre 1er - L’exercice financier |
+| - La distinction d’exercice |
+| Chapitre 2 - La comptabilité |
+| 2.1 - Le système |
+| 2.2 - La comptabilité du collège des bourgmestre et échevins |
+| 2.3 - La comptabilité du receveur |
+| 2.4 - La conservation des documents de comptabilité |
+| Chapitre 3 - La gestion des recettes |
+| 3.1 - L’exécution des décisions du conseil communal |
+| 3.2 - L’approbation des pièces justificatives |
+| 3.3 - Le titre rectificatif |
+| Chapitre 4 - La gestion des dépenses |
+| 4.1 - L’ordonnancement |
+| 4.2 - Le mandatement |
+| Chapitre 5 - Le contrôle de la comptabilité et de la caisse |
+| 5.1 - La mission du collège des bourgmestre et échevins |
+| Chapitre 6 - La comptabilité des établissements publics communaux et des syndicats |
+| Chapitre 7 - Les comptes communaux |
+| 7.1 - Le compte d’exercice |
+| La définition |
+| L’objet du compte de gestion |
+| La structure des comptes |
+| L’inscription des recettes aux comptes |
+| L’inscription des dépenses aux comptes |
+| La concordance des comptes |
+| La justification des recettes et des dépenses |
+| 7.2 - Le compte de fin de gestion |
+
+<a id="art_N61D9C"></a>
+
+### Art. 39. Statut des fonctionnaires communaux
+
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Analyse du statut juridique du fonctionnaire |
+| --- |
+| Titre II - Mesures concernant le personnel communal contenues dans la loi communale |
+| Titre III - Définition du fonctionnaire public |
+| Titre IV - Conditions de recrutement |
+| Titre V - Nomination provisoire et définitive du fonctionnaire |
+| Titre VI - Affectation du fonctionnaire |
+| Titre VII - Les devoirs du fonctionnaire et notamment les dispositions anti-corruption |
+| Titre VIII - Incompatibilité |
+| Titre IX - La durée de travail |
+| Titre X - La rémunération |
+| Titre XI - La protection du fonctionnaire |
+| Titre XII - Droit d’association et représentation du personnel |
+| Titre XIII - Cessation des fonctions |
+| Titre XIV - La discipline |
+| Titre XV - Le droit de grève |
+| Titre XVI - Le changement de carrière |
+
+<a id="art_N61E4E"></a>
+
+### Art. 40. Traitements des fonctionnaires communaux
+
+Le programme détaillé du cours «Traitements des fonctionnaires communaux» assuré à la section du secrétaire communal et du rédacteur est déterminé comme suit:
+
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - Généralités |
+| 1.1 - Bases légales |
+| 1.2 - Définitions |
+| 1.3 - Règles générales |
+| 1.4 - Entrée en vigueur des décisions concernant les traitements |
+| Titre II - Calcul des traitements |
+| Chapitre 1er - Eléments déductibles |
+| 1.1 - Les cotisations sociales |
+| 1.2 - Les impôts |
+| 1.3 - Les saisies, cessions et cotisations pour les Chambres professionnelles |
+| Chapitre 2 - Le nombre-indice |
+| Chapitre 3 - Les valeurs du point |
+| Chapitre 4 - Calculs des carrières |
+| 4.1 - Traitements pendant le service provisoire |
+| 4.2 - Promotions, avancements en traitement et doubles échelons |
+| 4.3 - Biennales, annale et majorations d’indice |
+| 4.4 - Bonification pour ancienneté des services |
+| 4.5 - Cadres ouverts et cadres fermés |
+| 4.6 - Allongements de grades |
+| 4.7 - Grades de substitution |
+| 4.8 - Suppléments de traitement |
+| 4.9 - Traitement des fonctionnaires à l’âge de 55 ans |
+| Chapitre 5 - Accessoires |
+| 5.1 - Primes pensionnables et primes non pensionnables |
+| 5.2 - Allocation de famille |
+| 5.3 - Logement de service |
+| 5.4 - Allocation de fin d’année |
+| 5.5 - Allocation de repas |
+| 5.6 - Paiement des heures supplémentaires |
+| Chapitre 6 - Divers |
+| 6.1 - Changement de carrière |
+| 6.2 - Changement de communes |
+| 6.3 - Changement de statut |
+| 6.4 - L’impact de certains congés sur les traitements |
+| 6.5 - Trimestre de faveur |
+
+##### Titre III — Programmes détaillés des cours de la section de la carrière du receveur communal.
+
+<a id="art_N61FEA"></a>
+
+### Art. 41. Histoire de l’administration publique et notamment de l’administration luxembourgeoie
+
+Le programme détaillé du cours «Histoire de l’administration publique et notamment de l’administration luxembourgeoise» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I - Les grandes étapes de l’histoire politique et administrative du Luxembourg |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | L’ancien régime: l’ancien Duché de Luxembourg |
+| Chapitre 2 | - | 1795-1814/15: L’époque française |
+| Chapitre 3 | - | 1815: la création de l’Etat du Grand-Duché de Luxembourg |
+| Chapitre 4 | - | 1815-1830: Epoque hollandaise proprement dite |
+| Chapitre 5 | - | 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de Luxembourg |
+| Chapitre 6 | - | 1839: Le Traité de Londres: les bases nouvelles |
+| Chapitre 7 | - | 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché. |
+| Chapitre 8 | - | Les années 1850: la réaction |
+| Chapitre 9 | - | La constitution octroyée de 1856 |
+| Chapitre 10 | - | l’impact de l’appartenance à la confédération germanique |
+| Chapitre 11 | - | 1857-1867: années de reflux |
+| Chapitre 12 | - | 1867: Le Traité de Londres II. |
+| Chapitre 13 | - | 1868: La Constitution revue et actualisée |
+| Chapitre 14 | - | 1890: La question dynastique |
+| Chapitre 15 | - | 19ième siècle: De l’Etat agricole à l ‘Etat industriel |
+| Chapitre 16 | - | Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigration |
+| Chapitre 17 | - | 1918/1919: Années charnières pour les institutions du pays: |
+| 17.1 - | La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché |  |
+| 17.2 - | Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum |  |
+| 17.3 - | L’importance des deux referenda de septembre 1919 |  |
+| Titre II - Eléments de synthèse |  |  |
+| Chapitre 1er - Au niveau surpranational |  |  |
+| L’intégration européenne depuis l’UEBL à l’Union européenne |  |  |
+| Flash-back sur les précurseurs: la confédération germanique et le Zollverein |  |  |
+| Chapitre 2 - Au niveau national |  |  |
+| De l’Etat à la Nation |  |  |
+| De l’Etat veilleur de nuit à l’Etat moderne |  |  |
+| Analyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise. |  |  |
+| Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848. |  |  |
+| Chapitre 3 - Au niveau infra-national |  |  |
+| Les divisions politiques et administratives du pays |  |  |
+| La situation actuelle: |  |  |
+| - les districts administratifs |  |  |
+| - les cantons |  |  |
+| - les communes et les syndicats de communes |  |  |
+| - les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieures |  |  |
+| Chapitre 4 - Anciens et nouveaux équilibres des structures politiques et administratives |  |  |
+| Pondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat national |  |  |
+| Structures nationales: |  |  |
+| - centralisation et délocalisation |  |  |
+| - fusions de communes |  |  |
+| - communes et sections de communes |  |  |
+| - circonscriptions électorales |  |  |
+| - coopération transfrontalière |  |  |
+
+<a id="art_N622B1"></a>
+
+### Art. 42. Introduction générale au droit
+
+Le programme détaillé du cours «Introduction générale au droit» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I - Le droit objectif |
+| --- |
+| Chapitre 1er - Les divisions des règles de droit et les principales branches du droit |
+| Chapitre 2 - Les sources du droit |
+| Titre II - Les droits subjectifs |
+| Chapitre 1er - Classification des droits subjectifs |
+| Chapitre 2 - Les actes juridiques et les faits juridiques |
+| Chapitre 3 - Les sujets de droit |
+| Titre III - Le pouvoir judiciaire |
+| Chapitre 1er - L’organisation judiciaire |
+| 1 - Les juridictions ordinaires |
+| 2 - Les juridictions particulières |
+| Chapitre 2 - La compétence des cours et tribunaux |
+| Chapitre 3 - Les différents acteurs du monde judiciaire |
+
+<a id="art_N62362"></a>
+
+### Art. 43. Droit constitutionnel
+
+Le programme détaillé du cours «Droit constitutionnel» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I - Introduction, Notions générales |
+| --- |
+| Chapitre 1er - Le territoire |
+| Chapitre 2 - La population |
+| Chapitre 3 - L’autorité publique |
+| Titre II - Les garanties constitutionnelles |
+| Chapitre 1er - La rigidité de la constitution |
+| Chapitre 2 - Les droits des citoyens |
+| Titre III - La forme du gouvernement |
+| Chapitre 1er - Une démocratie représentative |
+| Chapitre 2 - La séparation des pouvoirs |
+| Chapitre 3 - L’exercice du pouvoir législatif |
+| Chapitre 4 - L’exercice du pouvoir exécutif |
+| Chapitre 5 - L’exercice du pouvoir judiciaire |
+| Titre IV - Le Grand-Duc et le Gouvernement |
+| Chapitre 1er - La situation juridique du Grand-Duc |
+| Chapitre 2 - Les prérogatives du Grand-Duc |
+| Chapitre 3 - La formation du Gouvernement |
+| Chapitre 4 - La responsabilité ministérielle |
+| Titre V - La Chambre des députés |
+| Chapitre 1er - Le système électoral |
+| Chapitre 2 - L’organisation de la Chambre des députés |
+| Chapitre 3 - La procédure législative |
+| Chapitre 4 - Le contrôle du Gouvernement par la Chambre des députés |
+| Titre VI - Le Conseil d’Etat |
+| Chapitre 1er - La composition du Conseil d’Etat |
+| Chapitre 2 - Les attributions du Conseil d’Etat |
+| Chapitre 3 - La procédure au sein du Conseil d’Etat |
+| Titre VII - Les Cours et Tribunaux |
+| Chapitre 1er - L’indépendance des juges |
+| Chapitre 2 - L’organisation judiciaire |
+| Chapitre 3 - Le ministère public |
+| Chapitre 4 - Les garanties fondamentales offertes aux justiciables |
+| Titre VIII - L’Administration publique |
+| Chapitre 1er - L’administration centrale |
+| Chapitre 2 - Les services généraux |
+| Titre IX - Les finances de l’Etat |
+| Chapitre 1er - Les ressources de l’Etat |
+| Chapitre 2 - Le budget de l’Etat |
+| Chapitre 3 - Les contrôles budgétaires interne et externe |
+| Titre X - Les chambres professionnelles |
+| Chapitre 1er - La composition des chambres professionnelles |
+| Chapitre 2 - L’organisation des chambres professionnelles |
+| Chapitre 3 - Les attributions des chambres professionnelles |
+| Titre XI - Le Conseil économique et social |
+| Chapitre 1er - La composition du Conseil économique et social |
+| Chapitre 2 - Les attributions du Conseil économique et social |
+| Chapitre 3 - Les rapports avec le Gouvernement |
+
+<a id="art_N62585"></a>
+
+### Art. 44. Droit administratif
+
+Le programme détaillé du cours «Droit administratif» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I - Droit administratif. Notion et sources |
+| --- |
+| Titre II - Le service public |
+| Titre III - Les personnes publiques et leur statut |
+| Titre IV - Activité des actes de l’administration |
+| Titre V - Domaine public et domaine privé |
+| Titre VI - Les servitudes d’utilité publique |
+| Titre VII - Les Recours et juridictions administratives |
+| Titre VIII - La procédure administrative non contentieuse |
+| Titre IX - Sujets spécifiques: |
+| - autorisation de bâtir |
+| - établissements classés (Loi du 10 juin 1999) |
+| - aménagement des communes (Loi 12 juin 1937) |
+| - nature (Loi du 11 août 1982); |
+| - responsabilité (Loi du 1er septembre 1988); |
+
+<a id="art_N6263C"></a>
+
+### Art. 45. Droit civil
+
+Le programme détaillé du cours «Droit civil» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I - Les droits réels |
+| --- |
+| Chapitre 1er - Le droit de propriété |
+| Chapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitation |
+| Chapitre 3 - Le droit de superficie et le droit d’emphytéose |
+| Chapitre 4 - L’indivision et la copropriété |
+| Chapitre 5 - Les servitudes |
+| Titre II - Les obligations |
+| Chapitre 1er - Les sources des obligations |
+| Chapitre 2 - Les modalités des obligations |
+| Chapitre 3 - Les modes d’extinction des obligations |
+| Titre III - La preuve |
+| Chapitre 1er - La preuve littérale (ou écrite) |
+| Chapitre 2 - La preuve testimoniale (par témoignage) |
+| Chapitre 3 - Les présomptions |
+| Chapitre 4 - L’aveu |
+| Chapitre 5 - Le serment |
+| Titre IV - Les régimes matrimoniaux |
+| Chapitre 1er - Le régime primaire |
+| Chapitre 2 - La communauté légale et la communauté conventionnelle |
+| Chapitre 3 - La communauté universelle |
+| Chapitre 4 - La séparation de biens |
+| Titre V - Les successions |
+| Chapitre 1er - La succession légale (ab intestat) |
+| Chapitre 2 - La succession testamentaire |
+
+<a id="art_N62761"></a>
+
+### Art. 46. Droit commercial (documents commerciaux, entreprises)
+
+Le programme détaillé du cours «Droit commercial (documents commerciaux, entreprises)» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I - Le commerçant |
+| --- |
+| Chapitre 1er - Qui est commerçant |
+| Chapitre 2 - Les obligations des commerçants |
+| Chapitre 3 - Le fond de commerce |
+| Chapitre 4 - Avantages et désavantages de l’entreprise individuelle |
+| Titre II - Les sociétés commerciales |
+| Chapitre 1er - La constitution d’une société commerciale |
+| Chapitre 2 - La notion de la personnalité morale |
+| Chapitre 3 - Les différentes formes de sociétés commerciales |
+| Chapitre 4 - Autres formes de sociétés ou modes d’association |
+| Chapitre 5 - La succursale |
+| Titre III - La faillite |
+| Chapitre 1er - Conditions d’ouverture de la faillite |
+| Chapitre 2 - Les effets de la faillite |
+| Chapitre 3 - Les solutions de la faillite |
+| Chapitre 4 - La banqueroute |
+| Titre IV - Contrats spécifiques |
+| Chapitre 1er - Le contrat de bail commercial |
+| Chapitre 2 - Le contrat de franchise |
+| Titre V - De quelques principes en matière commerciale |
+| Chapitre 1er - De la preuve |
+| Chapitre 2 - Les mentions obligatoires sur les documents sociaux |
+| Chapitre 3 - Le recouvrement de créances au Luxembourg |
+
+<a id="art_N62868"></a>
+
+### Art. 47. Protection du citoyen face aux décisions de l’administration
+
+Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I | - | La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuse |
+| --- | --- | --- |
+| Titre II | - | Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes |
+
+<a id="art_N628C3"></a>
+
 ### Art. 48. Relations entre l’administration et le citoyen
 
-Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section du receveur communal est déterminé comme suit:Titre I - IntroductionTitre II - Les diverses relations entre l’administration et les citoyensChapitre 1er - Expériences personnelles vécues avec les administrations publiquesChapitre 2 - L’accueil du citoyen dans les bureaux2.1 - Heures d’ouverture2.2 - Nocturnes2.3 - Aider le citoyen à se retrouver dans l’administration2.4 - Queues d’attente et pauses café2.5 - Vêtements de travailChapitre 3 - Le téléphone3.1 - Répondre à un appel téléphonique3.2 - Comportement face à un citoyen excité3.3 - Gestion des appels téléphoniques à l’intérieur d’un service3.4 - Rôle du central téléphonique3.5 - A qui la priorité: A celui qui téléphone ou à celui qui vient au bureau ?Chapitre 4 - Le courrier4.1 - L’accusé de réception4.2 - Le temps de réponse4.3 - La lettre traditionnelle4.4 - La télécopie4.5 - Le courrier électroniqueChapitre 5 - L’Internet5.1 - Les communes dans l’Internet5.2 - Le «E-Government»Titre III - Quelques règles de la communicationTitre IV - DiversChapitre 1er - Les guichets uniquesChapitre 2 - Les publicationsChapitre 3 - Idées nouvelles3.1 - Modèles de sondages (Bertelsmann-Projekt)3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg)3.3 - „Zukunftskonferenzen“ (USA)3.4 - „Customer Contracts“ (Braintree)3.5 - „Benchmarking” (Bertelsmann-Projekt)3.6 - „PR mit VR“ (Delft)
+Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N6124D"></a>
+| Titre I - Introduction |
+| --- |
+| Titre II - Les diverses relations entre l’administration et les citoyens |
+| Chapitre 1er - Expériences personnelles vécues avec les administrations publiques |
+| Chapitre 2 - L’accueil du citoyen dans les bureaux |
+| 2.1 - Heures d’ouverture |
+| 2.2 - Nocturnes |
+| 2.3 - Aider le citoyen à se retrouver dans l’administration |
+| 2.4 - Queues d’attente et pauses café |
+| 2.5 - Vêtements de travail |
+| Chapitre 3 - Le téléphone |
+| 3.1 - Répondre à un appel téléphonique |
+| 3.2 - Comportement face à un citoyen excité |
+| 3.3 - Gestion des appels téléphoniques à l’intérieur d’un service |
+| 3.4 - Rôle du central téléphonique |
+| 3.5 - A qui la priorité: A celui qui téléphone ou à celui qui vient au bureau ? |
+| Chapitre 4 - Le courrier |
+| 4.1 - L’accusé de réception |
+| 4.2 - Le temps de réponse |
+| 4.3 - La lettre traditionnelle |
+| 4.4 - La télécopie |
+| 4.5 - Le courrier électronique |
+| Chapitre 5 - L’Internet |
+| 5.1 - Les communes dans l’Internet |
+| 5.2 - Le «E-Government» |
+| Titre III - Quelques règles de la communication |
+| Titre IV - Divers |
+| Chapitre 1er - Les guichets uniques |
+| Chapitre 2 - Les publications |
+| Chapitre 3 - Idées nouvelles |
+| 3.1 - Modèles de sondages (Bertelsmann-Projekt) |
+| 3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg) |
+| 3.3 - „Zukunftskonferenzen“ (USA) |
+| 3.4 - „Customer Contracts“ (Braintree) |
+| 3.5 - „Benchmarking” (Bertelsmann-Projekt) |
+| 3.6 - „PR mit VR“ (Delft) |
+
+<a id="art_N62A4B"></a>
 
 ### Art. 49. Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers
 
-Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section du receveur communal est déterminé comme suit:Titre I - Elaboration de délibérationsChapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90Chapitre 2 - Mode de rédaction d’une délibération (très sommairement)Titre II - Les avis au publicTitre III - Les permis de construireTitre IV - Les comptes rendusTitre V - Les documents officiels divers
+Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61284"></a>
+| Titre I - Elaboration de délibérations |
+| --- |
+| Chapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90 |
+| Chapitre 2 - Mode de rédaction d’une délibération (très sommairement) |
+| Titre II - Les avis au public |
+| Titre III - Les permis de construire |
+| Titre IV - Les comptes rendus |
+| Titre V - Les documents officiels divers |
+
+<a id="art_N62AAF"></a>
 
 ### Art. 50. Méthodes d’archivage
 
-Le programme détaillé du cours «Méthodes d’archivage» assuré à la section du receveur communal est déterminé comme suit:Titre I - La notion d’archives comprenant:Chapitre 1er - Leur productionChapitre 2 - Les genresChapitre 3 - Leur cycle de vieChapitre 4 - Leur arrangementTitre II - Le classementChapitre 1er - ButsChapitre 2 - Classification (cadre de classement)Chapitre 3 - Procédures de classement (manières, outils, etc.)Titre III - La conservationChapitre 1er - DélaisChapitre 2 - ButsChapitre 3 - Moyens: outils, meubles, locauxChapitre 4 - Dangers inhérents et extérieurs ; restaurations etc.Chapitre 5 - Tris et éliminationsTitre IV - L’utilisation:Chapitre 1er - L’utilisation à des fins internesChapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc.,Chapitre 3 - Règles à observer: surveillance etc.
+Le programme détaillé du cours «Méthodes d’archivage» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N612F4"></a>
+| Titre I - La notion d’archives comprenant: |
+| --- |
+| Chapitre 1er - Leur production |
+| Chapitre 2 - Les genres |
+| Chapitre 3 - Leur cycle de vie |
+| Chapitre 4 - Leur arrangement |
+| Titre II - Le classement |
+| Chapitre 1er - Buts |
+| Chapitre 2 - Classification (cadre de classement) |
+| Chapitre 3 - Procédures de classement (manières, outils, etc.) |
+| Titre III - La conservation |
+| Chapitre 1er - Délais |
+| Chapitre 2 - Buts |
+| Chapitre 3 - Moyens: outils, meubles, locaux |
+| Chapitre 4 - Dangers inhérents et extérieurs ; restaurations etc. |
+| Chapitre 5 - Tris et éliminations |
+| Titre IV - L’utilisation: |
+| Chapitre 1er - L’utilisation à des fins internes |
+| Chapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc., |
+| Chapitre 3 - Règles à observer: surveillance etc. |
+
+<a id="art_N62B8B"></a>
 
 ### Art. 51. Organisation d’un service public
 
-Le programme détaillé du cours «Organisation d’un service public» assuré à la section du receveur communal est déterminé comme suit:Titre I - La notion de «service public» au niveau de l’administration communaleChapitre 1er - Définition1 - Le public cible2 - Les objectifsTitre II - Les prémisses pour un bon service du citoyenChapitre 1er - L’interaction des différents intervenants1 - Les relations entre l’administration et les élus locaux2 - Les relations entre l’administration et les citoyens3 - Les relations entre services communauxTitre III - La communication et les moyens à mettre en œuvreChapitre 1er - Le rôle de la communication dans un service public1 - Situation existante2 - Les conditions à respecter pour assurer une optimisation de la communicationTitre IV - Le courrierChapitre 1er - Les différentes formes de courrier1 - L’acheminement au sein de l’administration2 - Le suiviChapitre 2 - Les dossiers1 - Leur constitution2 - Les avis3 - La prise des décisionsTitre V - Le conseil communal et le collège échevinalChapitre 1er - Fonctionnement1 - Les ordres du jour2 - L’exécution des décisions
+Le programme détaillé du cours «Organisation d’un service public» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N6137F"></a>
+| Titre I - La notion de «service public» au niveau de l’administration communale |
+| --- |
+| Chapitre 1er - Définition |
+| 1 - Le public cible |
+| 2 - Les objectifs |
+| Titre II - Les prémisses pour un bon service du citoyen |
+| Chapitre 1er - L’interaction des différents intervenants |
+| 1 - Les relations entre l’administration et les élus locaux |
+| 2 - Les relations entre l’administration et les citoyens |
+| 3 - Les relations entre services communaux |
+| Titre III - La communication et les moyens à mettre en œuvre |
+| Chapitre 1er - Le rôle de la communication dans un service public |
+| 1 - Situation existante |
+| 2 - Les conditions à respecter pour assurer une optimisation de la communication |
+| Titre IV - Le courrier |
+| Chapitre 1er - Les différentes formes de courrier |
+| 1 - L’acheminement au sein de l’administration |
+| 2 - Le suivi |
+| Chapitre 2 - Les dossiers |
+| 1 - Leur constitution |
+| 2 - Les avis |
+| 3 - La prise des décisions |
+| Titre V - Le conseil communal et le collège échevinal |
+| Chapitre 1er - Fonctionnement |
+| 1 - Les ordres du jour |
+| 2 - L’exécution des décisions |
+
+<a id="art_N62CBA"></a>
 
 ### Art. 52. Nouvelles technologies de l’information
 
-Le programme détaillé du cours «Nouvelles technologies de l’information» assuré à la section du receveur communal est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - son fonctionnement2 - ses servicesChapitre 2 - Le web1 - ses particularités2 - la recherche d’informations3 - la qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetTitre III - La protection des données à caractère personnelChapitre 1er - La directive européenneChapitre 2 - La législation luxembourgeoise et sa mise en pratiqueTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueChapitre 3 - Les composants d’une infrastructure de clé publiqueChapitre 4 - La valeur probante de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
+Le programme détaillé du cours «Nouvelles technologies de l’information» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61402"></a>
+| Titre I - Introduction à Internet et le Web |
+| --- |
+| Chapitre 1er - Le réseau Internet |
+| 1 - son fonctionnement |
+| 2 - ses services |
+| Chapitre 2 - Le web |
+| 1 - ses particularités |
+| 2 - la recherche d’informations |
+| 3 - la qualité des informations |
+| Titre II - La sécurité informatique |
+| Chapitre 1er - Les composants d’un système fiable |
+| Chapitre 2 - Les dangers inhérents à l’usage d’Internet |
+| Titre III - La protection des données à caractère personnel |
+| Chapitre 1er - La directive européenne |
+| Chapitre 2 - La législation luxembourgeoise et sa mise en pratique |
+| Titre IV - e-Gouvernement |
+| Chapitre 1er - Les initiatives e-Europe et e-Luxembourg |
+| Chapitre 2 - Les niveaux d’évolution des services e-gouvernement |
+| Titre V - Cryptographie et signature électronique |
+| Chapitre 1er - Les bases de la cryptographie |
+| Chapitre 2 - Le principe de fonctionnement de la signature électronique |
+| Chapitre 3 - Les composants d’une infrastructure de clé publique |
+| Chapitre 4 - La valeur probante de la signature électronique |
+| Titre VI - Les services offerts aux communes par le SIGI |
+
+<a id="art_N62DD6"></a>
 
 ### Art. 53. Français
 
-Le programme détaillé du cours «Français» assuré à la section du receveur communal est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er - La Francophonie.Chapitre 2 - La situation du français dans le monde.Chapitre 3 -La langue française au Luxembourg- situation spécifique - loi du 24 février 1984 sur le régime des langues.Titre II - De la justification du langage administratif.Chapitre 1er - Caractéristiques principales du langage administratif.Chapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier).Chapitre 3 - Exercices pratiques.Chapitre 4 - Le langage administratif parlé.
+Le programme détaillé du cours «Français» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61449"></a>
+| Titre I - De l’usage de la langue française au Luxembourg et dans le monde. |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | La Francophonie. |
+| Chapitre 2 | - | La situation du français dans le monde. |
+| Chapitre 3 | - | La langue française au Luxembourg- situation spécifique - loi du 24 février 1984 sur le régime des langues. |
+| Titre II - De la justification du langage administratif. |  |  |
+| Chapitre 1er | - | Caractéristiques principales du langage administratif. |
+| Chapitre 2 | - | Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier). |
+| Chapitre 3 | - | Exercices pratiques. |
+| Chapitre 4 | - | Le langage administratif parlé. |
+
+<a id="art_N62EAD"></a>
 
 ### Art. 54. Allemand
 
-Le programme détaillé du cours «Allemand» assuré à la section du receveur communal est déterminé comme suit:Titre 1: Das amtliche Schreiben1.1. Der Verwaltungsbrief1.1.1. Aufbau / Formalia1.1.2. Inhaltliche Aspekte / FormulierungTitre 2: Stilfragen2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen2.2. Fremdwörter2.3. Schwerpunkte der Rechtschreibung2.4. Die InterpunktionTitre 3: Textinterpretation / Linguistische Textanalyse3.1. Analyse der Textstruktur3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ)3.3. Analyse der Textfunktion (Textuelle Grundfunktionen)3.4. Stilistische Analyse (rhetorische Mittel, Tropen)3.5. Auseinandersetzung mit den Textinhalten: Gliederung und Kurzfassung (Précis)Titre 4: Kommunikation4.1. Kommunikationsmodelle4.2. Fehlkodierung / Kodierungsfehler4.3. Die deutsche Standardsprache / Prosodie4.4. Sprachliche Umgangsformen4.5. Rhetorische Grundbegriffe / Der Kurzvortrag
+Le programme détaillé du cours «Allemand» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N614B5"></a>
+| Titre 1: Das amtliche Schreiben |
+| --- |
+| 1.1. Der Verwaltungsbrief |
+| 1.1.1. Aufbau / Formalia |
+| 1.1.2. Inhaltliche Aspekte / Formulierung |
+| Titre 2: Stilfragen |
+| 2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen |
+| 2.2. Fremdwörter |
+| 2.3. Schwerpunkte der Rechtschreibung |
+| 2.4. Die Interpunktion |
+| Titre 3: Textinterpretation / Linguistische Textanalyse |
+| 3.1. Analyse der Textstruktur |
+| 3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ) |
+| 3.3. Analyse der Textfunktion (Textuelle Grundfunktionen) |
+| 3.4. Stilistische Analyse (rhetorische Mittel, Tropen) |
+| 3.5. Auseinandersetzung mit den Textinhalten: Gliederung und Kurzfassung (Précis) |
+| Titre 4: Kommunikation |
+| 4.1. Kommunikationsmodelle |
+| 4.2. Fehlkodierung / Kodierungsfehler |
+| 4.3. Die deutsche Standardsprache / Prosodie |
+| 4.4. Sprachliche Umgangsformen |
+| 4.5. Rhetorische Grundbegriffe / Der Kurzvortrag |
+
+<a id="art_N62F8F"></a>
 
 ### Art. 55. Anglais
 
-Le programme détaillé du cours «Anglais» assuré à la section du receveur communal est déterminé comme suit:Titre I - English Phone conversationsChapitre 1er - Introductory words and level of study aimed at: INTERMEDIATEChapitre 2 - Basic phone skills: Listening and Speaking properly, Keeping on hold, etc.Chapitre 3 - The Study of Charts (Phonetic Script, Intonation, Phone Alphabet (IAOC)Chapitre 4 - The Golden Phone Rules.Chapitre 5 - 10 practical listening exercises at ADVANCED level followed by debates.Titre II - Letter writingChapitre 1er - The essential parts of the English letter.Chapitre 2 - The layout of an English letter inside the local government administration.Chapitre 3 - Linguistic advice on letter-writing: Stylistics, linking words, false friends.Chapitre 4 - Study of at least 6 types of letter. (Complaint, inquiry, decline, service note )Chapitre 5 - 25 rules on how to write efficient letters and reports.Titre III - Text analysesIn order to favour reading and writing skills as regards ‘summary’ and ‘composition’ ‘writing’, 10 texts of ADVANCED level on the modern local government and the EU will be read.Text 1 - Nationalism and the EU, an Anachronism?Text 2 - The Enlarged Europe of Unity in Diversity.Text 3 - Europe and Lifelong Learning.Text 4 - The Unity of European Culture.Text 5 - Local Government Recruitment and Selection.Text 6 - The essential importance of language.Text 7 - Work and Humankind.Text 8 - Europe and small countries.Text 9 - European Resistance and Post-War Reconstruction.Text 10 - Retributive punishment and human society.
+Le programme détaillé du cours «Anglais» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61533"></a>
+| Titre I - English Phone conversations |
+| --- |
+| Chapitre 1er - Introductory words and level of study aimed at: INTERMEDIATE |
+| Chapitre 2 - Basic phone skills: Listening and Speaking properly, Keeping on hold, etc. |
+| Chapitre 3 - The Study of Charts (Phonetic Script, Intonation, Phone Alphabet (IAOC) |
+| Chapitre 4 - The Golden Phone Rules. |
+| Chapitre 5 - 10 practical listening exercises at ADVANCED level followed by debates. |
+| Titre II - Letter writing |
+| Chapitre 1er - The essential parts of the English letter. |
+| Chapitre 2 - The layout of an English letter inside the local government administration. |
+| Chapitre 3 - Linguistic advice on letter-writing: Stylistics, linking words, false friends. |
+| Chapitre 4 - Study of at least 6 types of letter. (Complaint, inquiry, decline, service note ) |
+| Chapitre 5 - 25 rules on how to write efficient letters and reports. |
+| Titre III - Text analyses |
+| In order to favour reading and writing skills as regards ‘summary’ and ‘composition’ ‘writing’, 10 texts of ADVANCED level on the modern local government and the EU will be read. |
+| Text 1 - Nationalism and the EU, an Anachronism? |
+| Text 2 - The Enlarged Europe of Unity in Diversity. |
+| Text 3 - Europe and Lifelong Learning. |
+| Text 4 - The Unity of European Culture. |
+| Text 5 - Local Government Recruitment and Selection. |
+| Text 6 - The essential importance of language. |
+| Text 7 - Work and Humankind. |
+| Text 8 - Europe and small countries. |
+| Text 9 - European Resistance and Post-War Reconstruction. |
+| Text 10 - Retributive punishment and human society. |
+
+<a id="art_N630AE"></a>
 
 ### Art. 56. Loi communale
 
-Le programme détaillé du cours «Loi communale» assuré à la section du receveur communal est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de district
+Le programme détaillé du cours «Loi communale» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N615D9"></a>
+| Titre I - Histoire des communes luxembourgeoises |
+| --- |
+| Titre II - Contexte géographique actuel |
+| Titre III - L’autonomie communale dans la législation luxembourgeoise |
+| Titre IV - Les organes communaux |
+| Chapitre 1er - Le Conseil communal |
+| Chapitre 2 - Le collège des bourgmestre et échevins |
+| Chapitre 3 - Le bourgmestre |
+| Chapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevins |
+| Chapitre 5 - Les devoirs de délicatesse des membres du corps communal |
+| Titre V - La tutelle administrative et les voies de recours |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les moyens de tutelle administrative |
+| Chapitre 3 - Les voies de recours contre les mesures de tutelle |
+| Titre VI - Les compétences des communes et l’exercice des compétences |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les attributions actuelles les plus importantes des communes |
+| Chapitre 3 - Exercice des compétences communales |
+| Titre VII - La participation des citoyens aux affaires communales |
+| Chapitre 1er - Information |
+| Chapitre 2 - Droit de prendre connaissance des délibérations du conseil communal |
+| Chapitre 3 - Publication des règlements |
+| Chapitre 4 - Référendum |
+| Chapitre 5 - Consultation des administrés |
+| Titre VIII - Jetons de présence, indemnités, congé politique |
+| Chapitre 1er - Jetons de présence |
+| Chapitre 2 - Indemnités |
+| Chapitre 3 - Congé politique |
+| Titre IX - Les fonctions de secrétaire et de receveur |
+| Chapitre 1er - Le secrétaire communal |
+| Chapitre 2 - Le receveur communal |
+| Titre X - Le rôle du commissaire de district |
+
+<a id="art_N63202"></a>
 
 ### Art. 57. Marchés publics
 
-Le programme détaillé du cours «Marchés publics» assuré à la section du receveur communal est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
+Le programme détaillé du cours «Marchés publics» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61643"></a>
+| Titre I - Définitions |
+| --- |
+| Titre II - Les dispositions du livre I de la législation sur les marchés publics |
+| Chapitre 1er - Procédures |
+| Chapitre 2 - Les conditions générales d’accès aux marchés publics |
+| Chapitre 3 - Formes de mise en adjudication |
+| Chapitre 4 - Etablissement du dossier de soumission |
+| Chapitre 5 - La demande d’offre |
+| Chapitre 6 - Le contenu de la soumission |
+| Chapitre 7 - Dépôt et ouverture des offres |
+| Chapitre 8 - Examen des offres |
+| Chapitre 9 - Adjudication |
+| Chapitre 10 - Annulation d’une mise en adjudication et remise en adjudication |
+| Chapitre 11 - Dossiers des marchés à présenter au Ministère de l’Intérieur |
+| Chapitre 12 - Commission des Soumissions |
+| Titre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure) |
+| Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus) |
+| Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communes |
+| Chapitre 1er - Les différentes étapes de la procédure |
+| Chapitre 2 - L’esprit et le bien-fondé de cette procédure préalable |
+
+<a id="art_N632D6"></a>
 
 ### Art. 58. Règlements communaux
 
-Le programme détaillé du cours «Règlements communaux» assuré à la section du receveur communal est déterminé comme suit:Titre I: IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe, impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir réglementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
+Le programme détaillé du cours «Règlements communaux» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61701"></a>
+| Titre I: Introduction |
+| --- |
+| Chapitre 1er - La règle de droit |
+| 1. Analyse de la règle de droit |
+| 2. Les sources du droit - système et hiérarchie |
+| Titre II - Le règlement communal |
+| Chapitre 1er - Définition |
+| Chapitre 2 - Les catégories de règlements |
+| 1 - Les règlements d’administration intérieure |
+| 1.1 le règlement d’ordre intérieur du conseil communal |
+| 1.2 le règlement-taxe, impôts, taxes, redevances |
+| 2 - Les règlements de police |
+| 2.1 le règlement général de police |
+| 2.2 le règlement de circulation |
+| 2.3 le plan d’aménagement général |
+| 2.4 le règlement sur les bâtisses |
+| 3 - Les règlements d’urgence en matière de police |
+| 4 - Les sanctions |
+| 4.1 l’amende de police |
+| 4.2 les peines supérieures |
+| 4.3 les peines accessoires |
+| Chapitre 3 - Les limites du pouvoir réglementaire communal |
+| 1 - par rapport au territoire |
+| 2 - par rapport à son objet |
+| Chapitre 4 - Les autorités compétentes |
+| 1 - Le conseil communal |
+| 2 - Le collège échevinal |
+| Chapitre 5 - Les formalités de validité et de contrôle |
+| 1 - Tutelle générale |
+| 1.1 suspension ministérielle |
+| 1.2 annulation grand-ducale |
+| 2 - Tutelle spéciale |
+| 2.1 approbation grand-ducale |
+| 2.2 approbation ministérielle |
+| 3 - Formes spéciales de validité |
+| 3.1 avis du médecin-inspecteur |
+| 4 - Publication |
+| Chapitre 6 - Les recours en justice |
+| Le recours des communes contre l’autorité supérieure en cas de refus d’approbation |
+| Le recours des citoyens contre un règlement qui cause grief |
+| Titre III - Etude de cas |
+
+<a id="art_N63468"></a>
 
 ### Art. 59. Gestion des ressources financières des communes (Budget et comptabilité)
 
-Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section du receveur communal est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - Le système de financement des communes: tarifs communaux, gestion des projets, planning pluriannuel, trésorerieChapitre 1er - La comptabilité de caisse et la comptabilité financière1.1 - La comptabilité de caisse1.2 - La comptabilité financièreChapitre 2 - Le nouveau plan comptable des communesChapitre 3 - Le principe de l’équilibre financierChapitre 4 - Les recettes ordinaires des communes4.1 - Les impôts communaux4.2 - Les dotations4.3 - Les subventions étatiques spécifiques4.4 - Les revenus de prestationsChapitre 5 - Les tarifs communaux5.1 - Le règlement des taxes, tarifs et prix - la base légale5.2 - La fixation de la juste contribution de l’usager5.3 - L’exemple des prix de l’épuration des eaux usées à Cologne5.4 - Les tarifs à fixerLes produits de l’exploitationLes produits domaniaux5.5 - Quelques notions financières5.6 - La différentiation des services5.7 - Les questions à poser5.8 - Un règlement-taxe type - L’évacuation et l’épuration des eaux usées5.9 - Un règlement-taxe de la ville de Luxembourg - CimetièresChapitre 6 - La gestion des projets6.1 - Les choix stratégiques - la prérogative des autorités politiques6.2 - Les projets internes6.3 - Les projets externes6.4 - Les phases du projet de construction6.5 - Le suivi du projet en cours d’exécutionChapitre 7 - Le planning pluriannuel7.1 - La structure du budget ordinaire7.2 - Le plan de réalisation des projets7.3 - Le plan des recettes extraordinaires7.4 - Le planning financier pluriannuelChapitre 8 - Le recours à des fonds étrangers8.1 - Le cadre légal8.2 - La gestion de la trésorerie8.3 - Les ouvertures de crédit8.4 - Les emprunts8.5 - Les équilibres financiersTitre III - La comptabilité communale: notions sur le budget communalChapitre 1er - L’établissement, le vote et l’arrêté1.1 - La formation1.2 - L’élaboration du projet1.3 - Le commentaire budgétaire1.4 - Le vote1.5 - L’apurement et l’arrêté définitifChapitre 2 - Les modifications budgétaires2.1 - La demande de crédit spécial ou supplémentaire2.2 - Le tableau des modifications budgétaires2.3 - Les dépenses urgentes et imprévues2.4 - Le transfert2.5 - Le report d’exercice2.6 - Le budget rectifié - définition - établissement - vote et valeurChapitre 3 - Les obligations et les responsabilités par rapport aux crédits budgétaires3.1 - Du collège des bourgmestre et échevins3.2 - Du receveur communalChapitre 4 - Les budget des syndicats intercommunaux et des établissements publics communaux4.1 - Les généralités4.2 - Le budget des établissements publics communaux4.3 - Le budget des syndicats intercommunaux4.4 - Les principes découlant de la comptabilité commercialeTitre IV - La comptabilité communale: l’exécution du budget et la reddition des comptesChapitre 1er - L’exercice financier- La distinction d’exerciceChapitre 2 - La comptabilité2.1 - Le système2.2 - La comptabilité du collège des bourgmestre et échevins2.3 - La comptabilité du receveur2.4 - La conservation des documents de comptabilitéChapitre 3 - La gestion des recettes3.1 - L’exécution des décisions du conseil communal3.2 - L’approbation des pièces justificatives3.3 - Le titre rectificatifChapitre 4 - La gestion des dépenses4.1 - L’ordonnancement4.2 - Le mandatementChapitre 5 - Le contrôle de la comptabilité et de la caisse5.1 - La mission du collège des bourgmestre et échevinsChapitre 6 - La comptabilité des établissements publics communaux et des syndicatsChapitre 7 - Les comptes communaux7.1 - Le compte d’exercice1. La définition2. L’objet du compte de gestion3. La structure des comptes4. L’inscription des recettes aux comptes5. L’inscription des dépenses aux comptes6. La concordance des comptes7. La justification des recettes et des dépenses7.2 - Le compte de fin de gestion
+Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N618D1"></a>
+| Titre I - Le système de financement des communes: introduction |
+| --- |
+| Chapitre 1er - La nature des missions à la base du modèle de financement des communes |
+| 1.1 - Le financement des missions originaires |
+| 1.2 - Le financement des missions déléguées |
+| 1.3 - Le financement des autres missions des communes |
+| Chapitre 2 - Les ressources financières des communes |
+| 2.1 - Au niveau du budget de fonctionnement |
+| 2.2 - Au niveau du budget d’investissement |
+| Chapitre 3 - Le mécanisme de financement des communes |
+| 3.1 - Le contexte général |
+| 3.2 - Le mécanisme de financement garant de l’autonomie locale |
+| Chapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale |
+| 4.1 - Au niveau de la commune |
+| 4.2 - Au niveau national et dans la comparaison internationale |
+| Chapitre 5 - Les statistiques sur les revenus non affectés des communes |
+| 5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1) |
+| 5.2 - Présentation détaillée |
+| Titre II - Le système de financement des communes: tarifs communaux, gestion des projets, planning pluriannuel, trésorerie |
+| Chapitre 1er - La comptabilité de caisse et la comptabilité financière |
+| 1.1 - La comptabilité de caisse |
+| 1.2 - La comptabilité financière |
+| Chapitre 2 - Le nouveau plan comptable des communes |
+| Chapitre 3 - Le principe de l’équilibre financier |
+| Chapitre 4 - Les recettes ordinaires des communes |
+| 4.1 - Les impôts communaux |
+| 4.2 - Les dotations |
+| 4.3 - Les subventions étatiques spécifiques |
+| 4.4 - Les revenus de prestations |
+| Chapitre 5 - Les tarifs communaux |
+| 5.1 - Le règlement des taxes, tarifs et prix - la base légale |
+| 5.2 - La fixation de la juste contribution de l’usager |
+| 5.3 - L’exemple des prix de l’épuration des eaux usées à Cologne |
+| 5.4 - Les tarifs à fixer |
+| Les produits de l’exploitation |
+| Les produits domaniaux |
+| 5.5 - Quelques notions financières |
+| 5.6 - La différentiation des services |
+| 5.7 - Les questions à poser |
+| 5.8 - Un règlement-taxe type - L’évacuation et l’épuration des eaux usées |
+| 5.9 - Un règlement-taxe de la ville de Luxembourg - Cimetières |
+| Chapitre 6 - La gestion des projets |
+| 6.1 - Les choix stratégiques - la prérogative des autorités politiques |
+| 6.2 - Les projets internes |
+| 6.3 - Les projets externes |
+| 6.4 - Les phases du projet de construction |
+| 6.5 - Le suivi du projet en cours d’exécution |
+| Chapitre 7 - Le planning pluriannuel |
+| 7.1 - La structure du budget ordinaire |
+| 7.2 - Le plan de réalisation des projets |
+| 7.3 - Le plan des recettes extraordinaires |
+| 7.4 - Le planning financier pluriannuel |
+| Chapitre 8 - Le recours à des fonds étrangers |
+| 8.1 - Le cadre légal |
+| 8.2 - La gestion de la trésorerie |
+| 8.3 - Les ouvertures de crédit |
+| 8.4 - Les emprunts |
+| 8.5 - Les équilibres financiers |
+| Titre III - La comptabilité communale: notions sur le budget communal |
+| Chapitre 1er - L’établissement, le vote et l’arrêté |
+| 1.1 - La formation |
+| 1.2 - L’élaboration du projet |
+| 1.3 - Le commentaire budgétaire |
+| 1.4 - Le vote |
+| 1.5 - L’apurement et l’arrêté définitif |
+| Chapitre 2 - Les modifications budgétaires |
+| 2.1 - La demande de crédit spécial ou supplémentaire |
+| 2.2 - Le tableau des modifications budgétaires |
+| 2.3 - Les dépenses urgentes et imprévues |
+| 2.4 - Le transfert |
+| 2.5 - Le report d’exercice |
+| 2.6 - Le budget rectifié - définition - établissement - vote et valeur |
+| Chapitre 3 - Les obligations et les responsabilités par rapport aux crédits budgétaires |
+| 3.1 - Du collège des bourgmestre et échevins |
+| 3.2 - Du receveur communal |
+| Chapitre 4 - Les budget des syndicats intercommunaux et des établissements publics communaux |
+| 4.1 - Les généralités |
+| 4.2 - Le budget des établissements publics communaux |
+| 4.3 - Le budget des syndicats intercommunaux |
+| 4.4 - Les principes découlant de la comptabilité commerciale |
+| Titre IV - La comptabilité communale: l’exécution du budget et la reddition des comptes |
+| Chapitre 1er - L’exercice financier |
+| - La distinction d’exercice |
+| Chapitre 2 - La comptabilité |
+| 2.1 - Le système |
+| 2.2 - La comptabilité du collège des bourgmestre et échevins |
+| 2.3 - La comptabilité du receveur |
+| 2.4 - La conservation des documents de comptabilité |
+| Chapitre 3 - La gestion des recettes |
+| 3.1 - L’exécution des décisions du conseil communal |
+| 3.2 - L’approbation des pièces justificatives |
+| 3.3 - Le titre rectificatif |
+| Chapitre 4 - La gestion des dépenses |
+| 4.1 - L’ordonnancement |
+| 4.2 - Le mandatement |
+| Chapitre 5 - Le contrôle de la comptabilité et de la caisse |
+| 5.1 - La mission du collège des bourgmestre et échevins |
+| Chapitre 6 - La comptabilité des établissements publics communaux et des syndicats |
+| Chapitre 7 - Les comptes communaux |
+| 7.1 - Le compte d’exercice |
+| 1. La définition |
+| 2. L’objet du compte de gestion |
+| 3. La structure des comptes |
+| 4. L’inscription des recettes aux comptes |
+| 5. L’inscription des dépenses aux comptes |
+| 6. La concordance des comptes |
+| 7. La justification des recettes et des dépenses |
+| 7.2 - Le compte de fin de gestion |
+
+<a id="art_N638C8"></a>
 
 ### Art. 60. Statut des fonctionnaires communaux
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section du receveur communal est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61929"></a>
+| Titre I - Analyse du statut juridique du fonctionnaire |
+| --- |
+| Titre II - Mesures concernant le personnel communal contenues dans la loi communale |
+| Titre III - Définition du fonctionnaire public |
+| Titre IV - Conditions de recrutement |
+| Titre V - Nomination provisoire et définitive du fonctionnaire |
+| Titre VI - Affectation du fonctionnaire |
+| Titre VII - Les devoirs du fonctionnaire et les dispositions anti-corruption |
+| Titre VIII - Incompatibilité |
+| Titre IX - La durée de travail |
+| Titre X - La rémunération |
+| Titre XI - La protection du fonctionnaire |
+| Titre XII - Droit d’association et représentation du personnel |
+| Titre XIII - Cessation des fonctions |
+| Titre XIV - La discipline |
+| Titre XV - Le droit de grève |
+| Titre XVI - Le changement de carrière |
+
+<a id="art_N6397A"></a>
 
 ### Art. 61. Traitements des fonctionnaires communaux
 
-Le programme détaillé du cours «Traitements des fonctionnaires communaux» assuré à la section du receveur communal est déterminé comme suit:Titre I - IntroductionChapitre 1er Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2. Le nombre-indiceChapitre 3. Les valeurs du pointChapitre 4. Calculs des carrières4.1 - Traitements pendant le service provisoire4.2 - Promotions, avancements en traitement et doubles échelons4.3 - Biennales, annale et majorations d’indice4.4 - Bonification pour ancienneté des services4.5 - Cadres ouverts et cadres fermés4.6 - Allongements de grades4.7 - Grades de substitution4.8 - Suppléments de traitement4.9 - Traitement des fonctionnaires à l’âge de 55 ansChapitre 5. Titre V - Accessoires5.1 - Primes pensionnables et primes non pensionnables5.2 - Allocation de famille5.3 - Logement de service5.4 - Allocation de fin d’année5.5 - Allocation de repas5.6 - Paiement des heures supplémentairesChapitre 6. Titre VI - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
+Le programme détaillé du cours «Traitements des fonctionnaires communaux» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N619D7"></a>
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er Généralités |
+| 1.1 - Bases légales |
+| 1.2 - Définitions |
+| 1.3 - Règles générales |
+| 1.4 - Entrée en vigueur des décisions concernant les traitements |
+| Titre II - Calcul des traitements |
+| Chapitre 1er Eléments déductibles |
+| 1.1 - Les cotisations sociales |
+| 1.2 - Les impôts |
+| 1.3 - Les saisies, cessions et cotisations pour les Chambres professionnelles |
+| Chapitre 2. Le nombre-indice |
+| Chapitre 3. Les valeurs du point |
+| Chapitre 4. Calculs des carrières |
+| 4.1 - Traitements pendant le service provisoire |
+| 4.2 - Promotions, avancements en traitement et doubles échelons |
+| 4.3 - Biennales, annale et majorations d’indice |
+| 4.4 - Bonification pour ancienneté des services |
+| 4.5 - Cadres ouverts et cadres fermés |
+| 4.6 - Allongements de grades |
+| 4.7 - Grades de substitution |
+| 4.8 - Suppléments de traitement |
+| 4.9 - Traitement des fonctionnaires à l’âge de 55 ans |
+| Chapitre 5. Titre V - Accessoires |
+| 5.1 - Primes pensionnables et primes non pensionnables |
+| 5.2 - Allocation de famille |
+| 5.3 - Logement de service |
+| 5.4 - Allocation de fin d’année |
+| 5.5 - Allocation de repas |
+| 5.6 - Paiement des heures supplémentaires |
+| Chapitre 6. Titre VI - Divers |
+| 6.1 - Changement de carrière |
+| 6.2 - Changement de communes |
+| 6.3 - Changement de statut |
+| 6.4 - L’impact de certains congés sur les traitements |
+| 6.5 - Trimestre de faveur |
+
+<a id="art_N63AE7"></a>
 
 ### Art. 62. Contentieux, voies de recouvrement, poursuites
 
-Le programme détaillé du cours «Contentieux, voies de recouvrement, poursuites» assuré à la section du receveur communal est déterminé comme suit:IntroductionResponsabilités du receveurExplication de termes juridiquesMesures pour faciliter le recouvrementTitre I - Les moyens de poursuiteChapitre 1er - La voie de recouvrement administrative1 - La procédure2 - Les voies de recoursChapitre 2 - La voie de recouvrement judiciaire1 - La saisie-arrêt spéciale2 - L’ordonnance conditionnelle de paiement3 - La requête en matière de bail à loyer4 - La requête devant le tribunal de travail5 - L’article 160 LCTitre II - Le régime des saisies et cessions sur rémunérationChapitre 1er - La saisie-arrêtChapitre 2 - La cessionChapitre 3 - La pension alimentaireTitre III - La failliteTitre IV - La prescription
+Le programme détaillé du cours «Contentieux, voies de recouvrement, poursuites» assuré à la section du receveur communal est déterminé comme suit:
 
-<a id="art_N61A45"></a>
+| Introduction |
+| --- |
+| Responsabilités du receveur |
+| Explication de termes juridiques |
+| Mesures pour faciliter le recouvrement |
+| Titre I - Les moyens de poursuite |
+| Chapitre 1er - La voie de recouvrement administrative |
+| 1 - La procédure |
+| 2 - Les voies de recours |
+| Chapitre 2 - La voie de recouvrement judiciaire |
+| 1 - La saisie-arrêt spéciale |
+| 2 - L’ordonnance conditionnelle de paiement |
+| 3 - La requête en matière de bail à loyer |
+| 4 - La requête devant le tribunal de travail |
+| 5 - L’article 160 LC |
+| Titre II - Le régime des saisies et cessions sur rémunération |
+| Chapitre 1er - La saisie-arrêt |
+| Chapitre 2 - La cession |
+| Chapitre 3 - La pension alimentaire |
+| Titre III - La faillite |
+| Titre IV - La prescription |
+
+<a id="art_N63BC5"></a>
 
 ### Art. 63. Comptabilité commerciale et analyses financières
 
-Le programme détaillé du cours «Comptabilité commerciale et analyses financières» assuré à la section du receveur communal est déterminé comme suit:Titre I - Comptabilité commerciale et analyses financièresChapitre 1er - Maîtrise de la terminologie comptableChapitre 2 - Enregistrement des opérations commerciales les plus usuelles dans les livres comptablesChapitre 3 - Clôture des comptes et établissement du bilan finalChapitre 4 - Evaluation de l’affectation du résultat et du patrimoine de l’entrepriseTitre II - Liens et parallèles: comptabilité communale et comptabilité commercialeTitre III - La comptabilité communale des syndicats communauxChapitre 1er - Les principes découlant de la tenue de la comptabilité commercialeChapitre 2 - Comptes annuels, bilans, comptes de profits et pertes, mutation du receveur, budgets
+Le programme détaillé du cours «Comptabilité commerciale et analyses financières» assuré à la section du receveur communal est déterminé comme suit:
+
+| Titre I - Comptabilité commerciale et analyses financières |
+| --- |
+| Chapitre 1er - Maîtrise de la terminologie comptable |
+| Chapitre 2 - Enregistrement des opérations commerciales les plus usuelles dans les livres comptables |
+| Chapitre 3 - Clôture des comptes et établissement du bilan final |
+| Chapitre 4 - Evaluation de l’affectation du résultat et du patrimoine de l’entreprise |
+| Titre II - Liens et parallèles: comptabilité communale et comptabilité commerciale |
+| Titre III - La comptabilité communale des syndicats communaux |
+| Chapitre 1er - Les principes découlant de la tenue de la comptabilité commerciale |
+| Chapitre 2 - Comptes annuels, bilans, comptes de profits et pertes, mutation du receveur, budgets |
 
 ##### Titre IV — Programmes détaillés des cours de la section de la carrière de l’expéditionnaire administratif.
 
-<a id="art_N61A92"></a>
+<a id="art_N63C4A"></a>
 
 ### Art. 64. Histoire de l’administration publique et notamment de l’administration luxembourgeoise
 
-Le programme détaillé du cours «Histoire de l’administration publique et notamment de l’administration luxembourgeoise» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Les grandes étapes de l’histoire politique et administrative du LuxembourgChapitre 1er - L’ancien régime: l’ancien Duché de LuxembourgChapitre 2 - 1795-1814/15: L’époque françaiseChapitre 3 - 1815: la création de l’Etat du Grand-Duché de LuxembourgChapitre 4 - 1815-1830: Epoque hollandaise proprement diteChapitre 5 - 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de LuxembourgChapitre 6 - 1839: Le Traité de Londres: les bases nouvellesChapitre 7 - 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché.Chapitre 8 - Les années 1850: la réactionChapitre 9 - La constitution octroyée de 1856Chapitre 10 - l’impact de l’appartenance à la confédération germaniqueChapitre 11 - 1857-1867: années de refluxChapitre 12 - 1867: Le Traité de Londres II.Chapitre 13 - 1868: La Constitution revue et actualiséeChapitre 14 - 1890: La question dynastiqueChapitre 15 - 19ième siècle: De l’Etat agricole à l’Etat industrielChapitre 16 - Le Zollverein 1842 - 1918: l’essor économique /questions d’émigration et d’immigrationChapitre 17 - 1918/1919: Années charnières pour les institutions du pays:17.1 -La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché17.2 - Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le référendum17.3 - L’importance des deux referenda de septembre 1919Titre II - Eléments de synthèseChapitre 1er - Au niveau surpranationalL’intégration européenne depuis l’UEBL à l’Union européenneFlash-back sur les précurseurs: la confédération germanique et le ZollvereinChapitre 2 - Au niveau nationalDe l’Etat à la NationDe l’Etat veilleur de nuit à l’Etat moderneAnalyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise.Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848.Chapitre 3 - Au niveau infra-nationalLes divisions politiques et administratives du paysLa situation actuelle:- les districts administratifs- les cantons- les communes et les syndicats de communes- les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieuresChapitre 4 - Anciens et nouveaux équilibres des structures politiques et administrativesPondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat nationalStructures nationales:- centralisation et délocalisation- fusions de communes- communes et sections de communes- circonscriptions électorales- coopération transfrontalière
+Le programme détaillé du cours «Histoire de l’administration publique et notamment de l’administration luxembourgeoise» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61B67"></a>
+| Titre I - Les grandes étapes de l’histoire politique et administrative du Luxembourg |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | L’ancien régime: l’ancien Duché de Luxembourg |
+| Chapitre 2 | - | 1795- 1814/15: L’époque française |
+| Chapitre 3 | - | 1815: la création de l’Etat du Grand-Duché de Luxembourg |
+| Chapitre 4 | - | 1815-1830: Epoque hollandaise proprement dite |
+| Chapitre 5 | - | 1830-1839: La révolution belge et ses répercussions sur le Grand-Duché de Luxembourg |
+| Chapitre 6 | - | 1839: Le Traité de Londres: les bases nouvelles |
+| Chapitre 7 | - | 1840-1849: La mise en place des structures politiques et administratives essentielles du Grand-Duché. |
+| Chapitre 8 | - | Les années 1850: la réaction |
+| Chapitre 9 | - | La constitution octroyée de 1856 |
+| Chapitre 10 | - | l’impact de l’appartenance à la confédération germanique |
+| Chapitre 11 | - | 1857-1867: années de reflux |
+| Chapitre 12 | - | 1867: Le Traité de Londres II. |
+| Chapitre 13 | - | 1868: La Constitution revue et actualisée |
+| Chapitre 14 | - | 1890: La question dynastique |
+| Chapitre 15 | - | 19ième siècle: De l’Etat agricole à l ‘Etat industriel |
+| Chapitre 16 | - | Le Zollverein 1842-1918: l’essor économique /questions d’émigration et d’immigration |
+| Chapitre 17 | - | 1918/1919: Années charnières pour les institutions du pays: |
+| 17.1 - | La réforme constitutionnelle du 15 mai 1919: ses antécédents et son impact sur les structures politiques et administratives du Grand-Duché |  |
+| 17.2 - | Explication du régime politique actuel s’analysant depuis 1919 à la fois en une démocratie parlementaire, indirecte, et en une monarchie constitutionnelle, ensemble la présence d’éléments de démocratie directe, dont le referendum |  |
+| 17.3 - | L’importance des deux referenda de septembre 1919 |  |
+| Titre II - Eléments de synthèse |  |  |
+| Chapitre 1er - Au niveau surpranational |  |  |
+| L’intégration européenne depuis l’UEBL à l’Union européenne |  |  |
+| Flash-back sur les précurseurs: la confédération germanique et le Zollverein |  |  |
+| Chapitre 2 - Au niveau national |  |  |
+| De l’Etat à la Nation |  |  |
+| De l’Etat veilleur de nuit à l’Etat moderne |  |  |
+| Analyse synthétique de l’évolution de l’administration: étude générale ainsi qu’étude spécifique relativement à l’administration luxembourgeoise. |  |  |
+| Les attributions des organes étatiques analysées à partir des départements ministériels depuis 1848. |  |  |
+| Chapitre 3 - Au niveau infra-national |  |  |
+| Les divisions politiques et administratives du pays |  |  |
+| La situation actuelle: |  |  |
+| - les districts administratifs |  |  |
+| - les cantons |  |  |
+| - les communes et les syndicats de communes |  |  |
+| - les origines historiques: impact de l’ancien régime, de l’époque française et des réformes ultérieures |  |  |
+| Chapitre 4 - Anciens et nouveaux équilibres des structures politiques et administratives |  |  |
+| Pondérations respectives de l’Union Européenne, de la Grande Région et de l’Etat national |  |  |
+| Structures nationales: |  |  |
+| - centralisation et délocalisation |  |  |
+| - fusions de communes |  |  |
+| - communes et sections de communes |  |  |
+| - circonscriptions électorales |  |  |
+| - coopération transfrontalière |  |  |
+
+<a id="art_N63F0F"></a>
 
 ### Art. 65. Introduction générale au droit
 
-Le programme détaillé du cours «Introduction générale au droit» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Le droit objectifChapitre 1er - Les divisions des règles de droit et les principales branches du droitChapitre 2 - Les sources du droitTitre II - Les droits subjectifsChapitre 1er - Classification des droits subjectifsChapitre 2 - Les actes juridiques et les faits juridiquesChapitre 3 - Les sujets de droitTitre III - Le pouvoir judiciaireChapitre 1er - L’organisation judiciaire1 - Les juridictions ordinaires2 - Les juridictions particulièresChapitre 2 - La compétence des cours et tribunauxChapitre 3 - Les différents acteurs du monde judiciaire
+Le programme détaillé du cours «Introduction générale au droit» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61BBC"></a>
+| Titre I - Le droit objectif |
+| --- |
+| Chapitre 1er - Les divisions des règles de droit et les principales branches du droit |
+| Chapitre 2 - Les sources du droit |
+| Titre II - Les droits subjectifs |
+| Chapitre 1er - Classification des droits subjectifs |
+| Chapitre 2 - Les actes juridiques et les faits juridiques |
+| Chapitre 3 - Les sujets de droit |
+| Titre III - Le pouvoir judiciaire |
+| Chapitre 1er - L’organisation judiciaire |
+| 1 - Les juridictions ordinaires |
+| 2 - Les juridictions particulières |
+| Chapitre 2 - La compétence des cours et tribunaux |
+| Chapitre 3 - Les différents acteurs du monde judiciaire |
+
+<a id="art_N63FB1"></a>
 
 ### Art. 66. Droit constitutionnel
 
-Le programme détaillé du cours «Droit constitutionnel» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Notions généralesChapitre 1er - Le territoireChapitre 2 - La populationTitre II - Les garanties constitutionnellesChapitre 1er - La rigidité de la ConstitutionChapitre 2 - Les droits des citoyensChapitre 3 - La Convention européenne des droits de l’HommeTitre III - La forme du gouvernementChapitre 1er - Une démocratie représentativeChapitre 2 - La séparation des pouvoirsChapitre 3 - L’exercice du pouvoir législatifChapitre 4 - L’exercice du pouvoir exécutifChapitre 5 - L’exercice du pouvoir judiciaireTitre IV - Le Grand-Duc et le gouvernementChapitre 1er - La situation juridique du Grand-DucChapitre 2 - Les prérogatives du Grand-DucChapitre 3 - La formation du gouvernementChapitre 4 - La responsabilité du gouvernementTitre V - La Chambre des DéputésChapitre 1er - L’organisation de la Chambre des députésChapitre 2 - Le contrôle du gouvernement par la Chambre des députésTitre VI - Le Conseil d’EtatChapitre 1er - CompositionChapitre 2 - AttributionsTitre VII - Les communesChapitre 1er - La tutelle administrative des communesChapitre 2 - L’organisation des communesChapitre 3 - Les élections communales
+Le programme détaillé du cours «Droit constitutionnel» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61C59"></a>
+| Titre I - Notions générales |
+| --- |
+| Chapitre 1er - Le territoire |
+| Chapitre 2 - La population |
+| Titre II - Les garanties constitutionnelles |
+| Chapitre 1er - La rigidité de la Constitution |
+| Chapitre 2 - Les droits des citoyens |
+| Chapitre 3 - La Convention européenne des droits de l’Homme |
+| Titre III - La forme du gouvernement |
+| Chapitre 1er - Une démocratie représentative |
+| Chapitre 2 - La séparation des pouvoirs |
+| Chapitre 3 - L’exercice du pouvoir législatif |
+| Chapitre 4 - L’exercice du pouvoir exécutif |
+| Chapitre 5 - L’exercice du pouvoir judiciaire |
+| Titre IV - Le Grand-Duc et le gouvernement |
+| Chapitre 1er - La situation juridique du Grand-Duc |
+| Chapitre 2 - Les prérogatives du Grand-Duc |
+| Chapitre 3 - La formation du gouvernement |
+| Chapitre 4 - La responsabilité du gouvernement |
+| Titre V - La Chambre des Députés |
+| Chapitre 1er - L’organisation de la Chambre des députés |
+| Chapitre 2 - Le contrôle du gouvernement par la Chambre des députés |
+| Titre VI - Le Conseil d’Etat |
+| Chapitre 1er - Composition |
+| Chapitre 2 - Attributions |
+| Titre VII - Les communes |
+| Chapitre 1er - La tutelle administrative des communes |
+| Chapitre 2 - L’organisation des communes |
+| Chapitre 3 - Les élections communales |
+
+<a id="art_N640EA"></a>
 
 ### Art. 67. Droit administratif
 
-Le programme détaillé du cours «Droit administratif» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:- autorisation de bâtir- établissements classés (Loi du 10 juin 1999)- aménagement des communes (L 12 juin 1937)- nature (Loi du 11 août 1982);- responsabilité (Loi du 1er septembre 1988);
+Le programme détaillé du cours «Droit administratif» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61CBB"></a>
+| Titre I - Droit administratif. Notion et sources |
+| --- |
+| Titre II - Le service public |
+| Titre III - Les personnes publiques et leur statut |
+| Titre IV - Activité des actes de l’administration |
+| Titre V - Domaine public et domaine privé |
+| Titre VI - Les servitudes d’utilité publique |
+| Titre VII - Les Recours et juridictions administratives |
+| Titre VIII - La procédure administrative non contentieuse |
+| Titre IX - Sujets spécifiques: |
+| - autorisation de bâtir |
+| - établissements classés (Loi du 10 juin 1999) |
+| - aménagement des communes (L 12 juin 1937) |
+| - nature (Loi du 11 août 1982); |
+| - responsabilité (Loi du 1er septembre 1988); |
+
+<a id="art_N641A1"></a>
 
 ### Art. 68. Protection du citoyen face aux décisions de l’administration
 
-Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseTitre II - Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
+Le programme détaillé du cours «Protection du citoyen face aux décisions de l’administration» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61CE8"></a>
+| Titre I | - | La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuse |
+| --- | --- | --- |
+| Titre II | - | Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes |
+
+<a id="art_N641FC"></a>
 
 ### Art. 69. Relations entre l’administration et le citoyen
 
-Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - IntroductionTitre II - Les relations entre l’administration et des citoyensChapitre 1er - Expériences personnelles vécues avec l’administration publiqueChapitre 2 - L’accueil dans le bureau2.1 - Heures d’ouverture2.2 - Accueil du citoyen2.3 - Délai d’attente2.4 - Code vestimentaireChapitre 3 - Le téléphone3.1 - Souveraineté et compétence3.2 - Gestion des appels internes/externes3.3 - Priorités3.4 - Situations conflictuellesChapitre 4 - Le télécopieurChapitre 5 - La correspondance traditionnelle - écrire pour être lu5.1 - Forme, modèles5.2 - Temps de réponse5.3 - Contenu5.4 - Etude d’exemplesChapitre 6 - Le courrier électronique6.1 - Ton et style - code de bonne conduite6.2 - Avantages et désavantages6.3 - Traitement, confidentialitéChapitre 7 - Les différents moyens d’information7.1 - Avis, tracts7.2 - Journaux, magazines7.3 - Réunions de quartiers7.4 - Site InternetChapitre 8 - Les principales règles de la communication (verbale et non verbale)8.1 - Effets de la mimique et de l’expression corporelle8.2 - Règles de la communication partenariale8.3 - Gestion de conflits8.4 - Self management: conduite émotionnelle, motivation personnelle, enthousiasmeChapitre 9 - Les «guichets uniques»9.1 - Situation actuelle au Luxembourg9.2 - Critères de bon fonctionnementTitre III - Le forum des idées nouvellesChapitre 1er - Du management des réclamations au management des idéesChapitre 2 - Gérer les changements moyennant des «conférences de recherche de l’avenir»Chapitre 3 - Charte «service clients»Chapitre 4 - «Benchmarking»Chapitre 5 - Sondages internes et externes (collaborateurs/clients)
+Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61DAE"></a>
+| Titre I - Introduction |
+| --- |
+| Titre II - Les relations entre l’administration et des citoyens |
+| Chapitre 1er - Expériences personnelles vécues avec l’administration publique |
+| Chapitre 2 - L’accueil dans le bureau |
+| 2.1 - Heures d’ouverture |
+| 2.2 - Accueil du citoyen |
+| 2.3 - Délai d’attente |
+| 2.4 - Code vestimentaire |
+| Chapitre 3 - Le téléphone |
+| 3.1 - Souveraineté et compétence |
+| 3.2 - Gestion des appels internes/externes |
+| 3.3 - Priorités |
+| 3.4 - Situations conflictuelles |
+| Chapitre 4 - Le télécopieur |
+| Chapitre 5 - La correspondance traditionnelle - écrire pour être lu |
+| 5.1 - Forme, modèles |
+| 5.2 - Temps de réponse |
+| 5.3 - Contenu |
+| 5.4 - Etude d’exemples |
+| Chapitre 6 - Le courrier électronique |
+| 6.1 - Ton et style - code de bonne conduite |
+| 6.2 - Avantages et désavantages |
+| 6.3 - Traitement, confidentialité |
+| Chapitre 7 - Les différents moyens d’information |
+| 7.1 - Avis, tracts |
+| 7.2 - Journaux, magazines |
+| 7.3 - Réunions de quartiers |
+| 7.4 - Site Internet |
+| Chapitre 8 - Les principales règles de la communication (verbale et non verbale) |
+| 8.1 - Effets de la mimique et de l’expression corporelle |
+| 8.2 - Règles de la communication partenariale |
+| 8.3 - Gestion de conflits |
+| 8.4 - Self management: conduite émotionnelle, motivation personnelle, enthousiasme |
+| Chapitre 9 - Les «guichets uniques» |
+| 9.1 - Situation actuelle au Luxembourg |
+| 9.2 - Critères de bon fonctionnement |
+| Titre III - Le forum des idées nouvelles |
+| Chapitre 1er - Du management des réclamations au management des idées |
+| Chapitre 2 - Gérer les changements moyennant des «conférences de recherche de l’avenir» |
+| Chapitre 3 - Charte «service clients» |
+| Chapitre 4 - «Benchmarking» |
+| Chapitre 5 - Sondages internes et externes (collaborateurs/clients) |
+
+<a id="art_N643A0"></a>
 
 ### Art. 70. Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers
 
-Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Elaboration de délibérationsChapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90Chapitre 2 - Le mode de rédaction d’une délibération2.1 - Le préambule2.2 - Les motifs2.3 - Le dispositif2.4 - La partie finale2.5 - De l’approbation des délibérationsChapitre 3 - Exemples de délibérations avec explication de la procédureTitre II - Les avis au publicTitre III - Les permis de construireTitre IV - Les comptes rendusTitre V - Les documents officiels divers
+Le programme détaillé du cours «Elaborations de délibérations, avis, comptes rendus, permis de construire, documents officiels divers» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61DFD"></a>
+| Titre I - Elaboration de délibérations |
+| --- |
+| Chapitre 1er - Les dispositifs de la loi communale: articles 24,26,53,89,90 |
+| Chapitre 2 - Le mode de rédaction d’une délibération |
+| 2.1 - Le préambule |
+| 2.2 - Les motifs |
+| 2.3 - Le dispositif |
+| 2.4 - La partie finale |
+| 2.5 - De l’approbation des délibérations |
+| Chapitre 3 - Exemples de délibérations avec explication de la procédure |
+| Titre II - Les avis au public |
+| Titre III - Les permis de construire |
+| Titre IV - Les comptes rendus |
+| Titre V - Les documents officiels divers |
+
+<a id="art_N6443B"></a>
 
 ### Art. 71. Méthodes d’archivage
 
-Le programme détaillé du cours «Méthodes d’archivage» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La notion d’archives comprenant:Chapitre 1er - Leur productionChapitre 2 - Les genresChapitre 3 - Leur cycle de vieChapitre 4 - Leur arrangementTitre II - Le classementChapitre 1er - ButsChapitre 2 - Classification (cadre de classement)Chapitre 3 - Procédures de classement (manières, outils, etc.)Titre III - La conservationChapitre 1er - DélaisChapitre 2 - ButsChapitre 3 - Moyens: outils, meubles, locauxChapitre 4 - Dangers inhérents et extérieurs ; restaurations etc.Chapitre 5 - Tris et éliminationsTitre IV - L’utilisation:Chapitre 1er - L’utilisation à des fins internesChapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc.,Chapitre 3 - Règles à observer: surveillance etc.
+Le programme détaillé du cours «Méthodes d’archivage» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61E6D"></a>
+| Titre I - La notion d’archives comprenant: |
+| --- |
+| Chapitre 1er - Leur production |
+| Chapitre 2 - Les genres |
+| Chapitre 3 - Leur cycle de vie |
+| Chapitre 4 - Leur arrangement |
+| Titre II - Le classement |
+| Chapitre 1er - Buts |
+| Chapitre 2 - Classification (cadre de classement) |
+| Chapitre 3 - Procédures de classement (manières, outils, etc.) |
+| Titre III - La conservation |
+| Chapitre 1er - Délais |
+| Chapitre 2 - Buts |
+| Chapitre 3 - Moyens: outils, meubles, locaux |
+| Chapitre 4 - Dangers inhérents et extérieurs ; restaurations etc. |
+| Chapitre 5 - Tris et éliminations |
+| Titre IV - L’utilisation: |
+| Chapitre 1er - L’utilisation à des fins internes |
+| Chapitre 2 - L’utilisation à d’autres fins: consultation scientifique etc., |
+| Chapitre 3 - Règles à observer: surveillance etc. |
+
+<a id="art_N64514"></a>
 
 ### Art. 72. Organisation d’un service public
 
-Le programme détaillé du cours «Organisation d’un service public» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La notion de «service public» au niveau de l’administration communaleChapitre 1er - Définition1 - Le public cible2 - Les objectifsTitre II - Les prémisses pour un bon service du citoyenChapitre 1er - L’interaction des différents intervenants1 - Les relations entre l’administration et les élus locaux2 - Les relations entre l’administration et les citoyens3 - Les relations entre services communauxTitre III - La communication et les moyens à mettre en œuvreChapitre 1er - Le rôle de la communication dans un service public1 - Situation existante2 - Les conditions à respecter pour assurer une optimisation de la communicationTitre IV - Le courrierChapitre 1er - Les différentes formes de courrier1 - L’acheminement au sein de l’administration2 - Le suiviChapitre 2 - Les dossiers1 - Leur constitution2 - Les avis3 - La prise des décisionsTitre V - Le conseil communal et le collège échevinalChapitre 1er - Fonctionnement1 - Les ordres du jour2 - L’exécution des décisions
+Le programme détaillé du cours «Organisation d’un service public» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61EF8"></a>
+| Titre I - La notion de «service public» au niveau de l’administration communale |
+| --- |
+| Chapitre 1er - Définition |
+| 1 - Le public cible |
+| 2 - Les objectifs |
+| Titre II - Les prémisses pour un bon service du citoyen |
+| Chapitre 1er - L’interaction des différents intervenants |
+| 1 - Les relations entre l’administration et les élus locaux |
+| 2 - Les relations entre l’administration et les citoyens |
+| 3 - Les relations entre services communaux |
+| Titre III - La communication et les moyens à mettre en œuvre |
+| Chapitre 1er - Le rôle de la communication dans un service public |
+| 1 - Situation existante |
+| 2 - Les conditions à respecter pour assurer une optimisation de la communication |
+| Titre IV - Le courrier |
+| Chapitre 1er - Les différentes formes de courrier |
+| 1 - L’acheminement au sein de l’administration |
+| 2 - Le suivi |
+| Chapitre 2 - Les dossiers |
+| 1 - Leur constitution |
+| 2 - Les avis |
+| 3 - La prise des décisions |
+| Titre V - Le conseil communal et le collège échevinal |
+| Chapitre 1er - Fonctionnement |
+| 1 - Les ordres du jour |
+| 2 - L’exécution des décisions |
+
+<a id="art_N6462A"></a>
 
 ### Art. 73. Nouvelles technologies de l’information
 
-Le programme détaillé du cours «Nouvelles technologies de l’information» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Introduction à Internet et le WebChapitre 1er - Le réseau Internet1 - son fonctionnement2 - ses servicesChapitre 2 - Le web1 - ses particularités2 - la recherche d’informations3 - la qualité des informationsTitre II - La sécurité informatiqueChapitre 1er - Les composants d’un système fiableChapitre 2 - Les dangers inhérents à l’usage d’InternetChapitre 3 - La législation luxembourgeoise et sa mise en pratiqueChapitre 4 - La directive européenneTitre III - La protection des données à caractère personnelTitre IV - e-GouvernementChapitre 1er - Les initiatives e-Europe et e-LuxembourgChapitre 2 - Les niveaux d’évolution des services e-gouvernementTitre V - Cryptographie et signature électroniqueChapitre 1er - Les bases de la cryptographieChapitre 2 - Le principe de fonctionnement de la signature électroniqueTitre VI - Les services offerts aux communes par le SIGI
+Le programme détaillé du cours «Nouvelles technologies de l’information» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61F70"></a>
+| Titre I - Introduction à Internet et le Web |
+| --- |
+| Chapitre 1er - Le réseau Internet |
+| 1 - son fonctionnement |
+| 2 - ses services |
+| Chapitre 2 - Le web |
+| 1 - ses particularités |
+| 2 - la recherche d’informations |
+| 3 - la qualité des informations |
+| Titre II - La sécurité informatique |
+| Chapitre 1er - Les composants d’un système fiable |
+| Chapitre 2 - Les dangers inhérents à l’usage d’Internet |
+| Chapitre 3 - La législation luxembourgeoise et sa mise en pratique |
+| Chapitre 4 - La directive européenne |
+| Titre III - La protection des données à caractère personnel |
+| Titre IV - e-Gouvernement |
+| Chapitre 1er - Les initiatives e-Europe et e-Luxembourg |
+| Chapitre 2 - Les niveaux d’évolution des services e-gouvernement |
+| Titre V - Cryptographie et signature électronique |
+| Chapitre 1er - Les bases de la cryptographie |
+| Chapitre 2 - Le principe de fonctionnement de la signature électronique |
+| Titre VI - Les services offerts aux communes par le SIGI |
+
+<a id="art_N64719"></a>
 
 ### Art. 74. Système d’enregistrement et communication de données administratives par l’informatique
 
-Le programme détaillé du cours «Système d’enregistrement et communication de données administratives par l’informatique» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Notions générales sur les systèmes d’informationTitre II - L’acquisition de l’information et le problème des erreursTitre III - Le traitement des textes et des donnéesTitre IV - Le stockage de l’information
+Le programme détaillé du cours «Système d’enregistrement et communication de données administratives par l’informatique» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N61F98"></a>
+| Titre I - Notions générales sur les systèmes d’information |
+| --- |
+| Titre II - L’acquisition de l’information et le problème des erreurs |
+| Titre III - Le traitement des textes et des données |
+| Titre IV - Le stockage de l’information |
+
+<a id="art_N6475F"></a>
 
 ### Art. 75. Législation sur l’urbanisme et l’environnement naturel
 
-Le programme détaillé du cours «Législation sur l’urbanisme et l’environnement naturel» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II - L’aménagement communal (le projet de loi concernant l’aménagement communal et le développement urbain sera voté le 13 mai 2004)Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents1 - Les communes2 - Le Ministre3 - La commission d’aménagementChapitre 3 - Les instruments1 - Le plan d’aménagement général (P.A.G.)2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procéduresChapitre 5 - L’exécution du plan d’aménagementChapitre 6 - Etude de cas pratiquesTitre III: Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles)Chapitre 1er - Objectifs de la loiChapitre 2 - Mesures générales de conservation du paysageChapitre 3 - Protection de la faune et de la floreChapitre 4 - Zones protégées d’intérêt communautaireChapitre 5 - Zones protégées d’intérêt nationalChapitre 6 - Zones protégées d’importance communaleChapitre 7 - Dispositions pénales
+Le programme détaillé du cours «Législation sur l’urbanisme et l’environnement naturel» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N6201F"></a>
+| Titre I - L’aménagement général du territoire (Loi du 21 mai 1999) |
+| --- |
+| Chapitre 1er - Les objectifs |
+| Chapitre 2 - Les instruments |
+| Titre II - L’aménagement communal (le projet de loi concernant l’aménagement communal et le développement urbain sera voté le 13 mai 2004) |
+| Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national. |
+| Chapitre 2 - Les organes compétents |
+| 1 - Les communes |
+| 2 - Le Ministre |
+| 3 - La commission d’aménagement |
+| Chapitre 3 - Les instruments |
+| 1 - Le plan d’aménagement général (P.A.G.) |
+| 2 - Le plan d’aménagement particulier (P.A.P.) |
+| Chapitre 4 - Les procédures |
+| Chapitre 5 - L’exécution du plan d’aménagement |
+| Chapitre 6 - Etude de cas pratiques |
+| Titre III: Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles) |
+| Chapitre 1er - Objectifs de la loi |
+| Chapitre 2 - Mesures générales de conservation du paysage |
+| Chapitre 3 - Protection de la faune et de la flore |
+| Chapitre 4 - Zones protégées d’intérêt communautaire |
+| Chapitre 5 - Zones protégées d’intérêt national |
+| Chapitre 6 - Zones protégées d’importance communale |
+| Chapitre 7 - Dispositions pénales |
+
+<a id="art_N6486A"></a>
 
 ### Art. 76. Etablissements dangereux et insalubres
 
-Le programme détaillé du cours «Etablissements dangereux et insalubres» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - La loi relative aux établissements classésLa nomenclature des établissements classésTitre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003
+Le programme détaillé du cours «Etablissements dangereux et insalubres» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N6204D"></a>
+| Titre I | - | La loi relative aux établissements classés |
+| --- | --- | --- |
+| La nomenclature des établissements classés |  |  |
+| Titre II | - | La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003 |
+
+<a id="art_N648D0"></a>
 
 ### Art. 77. Loi électorale
 
-Le programme détaillé du cours «Loi électorale» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:IntroductionTitre I - La base de la législation électoraleTitre II - Les électeursTitre III - Les candidatsTitre IV - Le vote obligatoire au LuxembourgTitre V - Les pénalitésTitre VI - Les listes électoralesTitre VII - Les collèges électorauxTitre VIII - Le vote par correspondanceTitre IX - Le financement des campagnes électoralesTitre X - Les élections législativesTitre XI - Les élections européennesTitre XII - Les élections communales
+Le programme détaillé du cours «Loi électorale» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N62099"></a>
+| Introduction |
+| --- |
+| Titre I - La base de la législation électorale |
+| Titre II - Les électeurs |
+| Titre III - Les candidats |
+| Titre IV - Le vote obligatoire au Luxembourg |
+| Titre V - Les pénalités |
+| Titre VI - Les listes électorales |
+| Titre VII - Les collèges électoraux |
+| Titre VIII - Le vote par correspondance |
+| Titre IX - Le financement des campagnes électorales |
+| Titre X - Les élections législatives |
+| Titre XI - Les élections européennes |
+| Titre XII - Les élections communales |
+
+<a id="art_N64967"></a>
 
 ### Art. 78. Matières diverses
 
-Le programme détaillé du cours «Matières diverses» tient compte des évolutions récentes dans les domaines suivants:- Permis de pêche et de chasse- Certificats- Légalisation des signatures- Police des aliénés- Cabarettage- Expropriation pour cause d’utilité publique- Syndicats de communes
+Le programme détaillé du cours «Matières diverses» tient compte des évolutions récentes dans les domaines suivants:
 
-<a id="art_N620CD"></a>
+- Permis de pêche et de chasse
+- Certificats
+- Légalisation des signatures
+- Police des aliénés
+- Cabarettage
+- Expropriation pour cause d’utilité publique
+- Syndicats de communes
+
+<a id="art_N64999"></a>
 
 ### Art. 79. Français
 
-Le programme détaillé du cours «Français» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er - La FrancophonieChapitre 2 - La situation du français dans le mondeChapitre 3 -La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des languesTitre II - De la justification du langage administratifChapitre 1er - Caractéristiques principales du langage administratifChapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courriel)Chapitre 3 - Exercices pratiquesChapitre 4 - Le langage administratif parlé
+Le programme détaillé du cours «Français» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N62114"></a>
+| Titre I - De l’usage de la langue française au Luxembourg et dans le monde. |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | La Francophonie |
+| Chapitre 2 | - | La situation du français dans le monde |
+| Chapitre 3 | - | La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des langues |
+| Titre II - De la justification du langage administratif |  |  |
+| Chapitre 1er | - | Caractéristiques principales du langage administratif |
+| Chapitre 2 | - | Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courriel) |
+| Chapitre 3 | - | Exercices pratiques |
+| Chapitre 4 | - | Le langage administratif parlé |
+
+<a id="art_N64A70"></a>
 
 ### Art. 80. Allemand
 
-Le programme détaillé du cours «Allemand» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre 1: Lexikologie - Einführung in die Benutzung von NachschlagwerkenTitre 2: Gebräuchliche AbkürzungenTitre 3: Das amtliche Schreiben3.1. Der Verwaltungsbrief3.1.1. Aufbau / Formalia3.1.2. Inhaltliche Aspekte / Formulierung3.2. Das Protokoll3.3. Der BerichtTitre 4: Stilfragen4.1. Wortschatz / Wortwahl / Ausdrucksweise4.2. Grammatische Schwerpunkte4.3. Syntax4.4. Abweichungen vom LuxemburgischenTitre 5: Die KommaregelnTitre 6: Die InterpunktionTitre 7: Die deutsche Rechtschreibung7.1. Groß- und Kleinschreibung7.2. Die s-Lautung7.3. Das Stammprinzip7.4. Das Numerale7.5. Die Zusammen- und GetrenntspracheTitre 8: Gesprochenes Deutsch8.1. Die deutsche Standardsprache8.2. Prosodie8.3. Sprachliche Umgangsformen
+Le programme détaillé du cours «Allemand» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N62190"></a>
+| Titre 1: Lexikologie - Einführung in die Benutzung von Nachschlagwerken |
+| --- |
+| Titre 2: Gebräuchliche Abkürzungen |
+| Titre 3: Das amtliche Schreiben |
+| 3.1. Der Verwaltungsbrief |
+| 3.1.1. Aufbau / Formalia |
+| 3.1.2. Inhaltliche Aspekte / Formulierung |
+| 3.2. Das Protokoll |
+| 3.3. Der Bericht |
+| Titre 4: Stilfragen |
+| 4.1. Wortschatz / Wortwahl / Ausdrucksweise |
+| 4.2. Grammatische Schwerpunkte |
+| 4.3. Syntax |
+| 4.4. Abweichungen vom Luxemburgischen |
+| Titre 5: Die Kommaregeln |
+| Titre 6: Die Interpunktion |
+| Titre 7: Die deutsche Rechtschreibung |
+| 7.1. Groß- und Kleinschreibung |
+| 7.2. Die s-Lautung |
+| 7.3. Das Stammprinzip |
+| 7.4. Das Numerale |
+| 7.5. Die Zusammen- und Getrenntsprache |
+| Titre 8: Gesprochenes Deutsch |
+| 8.1. Die deutsche Standardsprache |
+| 8.2. Prosodie |
+| 8.3. Sprachliche Umgangsformen |
+
+<a id="art_N64B74"></a>
 
 ### Art. 81. Anglais
 
-Le programme détaillé du cours «Anglais» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - English Phone ConversationsChapitre 1er - Introduction including a definition of study level, namely: Intermediate.Chapitre 2 - All kinds of practical charts are essential (Phonetics, Spelling, Intonation)Chapitre 3 - Explanation of golden phone rules to reach an effective image on the phone.Chapitre 4 - Getting the right response on the phoneChapitre 5 -12 practical listening exercises, followed by debates to favour both listening and speaking skills to reach an intermediate level.Titre II - Letter writingChapitre 1er - The essential parts of the English letter.Chapitre 2 - Practical advice on letter-writing. (salutations, abbreviations,paragraphs, etc)Chapitre 3 - About 6 types of letters will be analysed. (reminder, decline, inquiry, etc. )Chapitre 4 - Simplified rules about how to write efficient reports.Titre III - Text analyses10 texts of intermediate level on the modern Civil Service and Europe.Students are trained to write summaries and easy compositions after the readings.Text 1 - General and technological changes in local government administration.Text 2 - Adult Education, Skill needs and a changing T.E.Text 3 - Post Fordism In Work and Learning.Text 4 - Education and Economy beyond the Year 2004.Text 5 - The Modern Local Government Administration.Text 6 - The History of Computers.Text 7 - The British weekly and periodical press.Text 8 - The essential interrelation between language, culture and economy.Text 9 - The Idea of English as a ‘Lingua Franca’.Text 10 - The Future Europe of Unity in Diversity.
+Le programme détaillé du cours «Anglais» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N6220E"></a>
+| Titre I - English Phone Conversations |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | Introduction including a definition of study level, namely: *Intermediate*. |
+| Chapitre 2 | - | All kinds of practical charts are essential (Phonetics, Spelling, Intonation) |
+| Chapitre 3 | - | Explanation of golden phone rules to reach an effective image on the phone. |
+| Chapitre 4 | - | Getting the right response on the phone |
+| Chapitre 5 | - | 12 practical listening exercises, followed by debates to favour both listening and speaking skills to reach an intermediate level. |
+| Titre II - Letter writing |  |  |
+| Chapitre 1er | - | The essential parts of the English letter. |
+| Chapitre 2 | - | Practical advice on letter-writing. (salutations, abbreviations,paragraphs, etc) |
+| Chapitre 3 | - | About 6 types of letters will be analysed. (reminder, decline, inquiry, etc. ) |
+| Chapitre 4 | - | Simplified rules about how to write efficient reports. |
+| Titre III - Text analyses |  |  |
+| 10 texts of intermediate level on the modern Civil Service and Europe. |  |  |
+| Students are trained to write summaries and easy compositions after the readings. |  |  |
+| Text 1 - General and technological changes in local government administration. |  |  |
+| Text 2 - Adult Education, Skill needs and a changing T.E. |  |  |
+| Text 3 - Post Fordism In Work and Learning. |  |  |
+| Text 4 - Education and Economy beyond the Year 2004. |  |  |
+| Text 5 - The Modern Local Government Administration. |  |  |
+| Text 6 - The History of Computers. |  |  |
+| Text 7 - The British weekly and periodical press. |  |  |
+| Text 8 - The essential interrelation between language, culture and economy. |  |  |
+| Text 9 - The Idea of English as a ‘Lingua Franca’. |  |  |
+| Text 10 - The Future Europe of Unity in Diversity. |  |  |
+
+<a id="art_N64CF6"></a>
 
 ### Art. 82. Luxembourgeois
 
-Le programme détaillé du cours «Luxembourgeois» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Aperçu de l’évolution de l’orthographe luxembourgeoiseTitre II - L’orthographe luxembourgeoiseChapitre 1er - Les voyellesChapitre 2 - Les diphtonguesChapitre 3 - Les consonnesChapitre 4 - Les pronomsChapitre 5 - Les verbesChapitre 6 - Les mots étrangers dans la langue luxembourgeoiseTitre III - Rédaction d’une lettre administrative
+Le programme détaillé du cours «Luxembourgeois» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N6224D"></a>
+| Titre I - Aperçu de l’évolution de l’orthographe luxembourgeoise |
+| --- |
+| Titre II - L’orthographe luxembourgeoise |
+| Chapitre 1er - Les voyelles |
+| Chapitre 2 - Les diphtongues |
+| Chapitre 3 - Les consonnes |
+| Chapitre 4 - Les pronoms |
+| Chapitre 5 - Les verbes |
+| Chapitre 6 - Les mots étrangers dans la langue luxembourgeoise |
+| Titre III - Rédaction d’une lettre administrative |
+
+<a id="art_N64D6C"></a>
 
 ### Art. 83. Loi communale
 
-Le programme détaillé du cours «Loi communale» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Contexte géographique et subdivisons administrativesTitre II - L’autonomie communale dans la législation luxembourgeoiseTitre III - Les organes de la communeChapitre 1er - Le conseil communal1 - Composition2 - Conditions d’éligibilité, inéligibilités, déchéance, incompatibilités3 - Entrée en fonctions du conseil communal4 - Tableau de préséance5 - Convocation6 - Ordre du jour7 - Droit d’initiative du conseiller communal8 - Réunion du conseil communal9 - Lieu de réunion10 - Publicité des séances11 - Présidence du conseil communal12 - Langue parlée au conseil communal13 - Quorum requis14 - Modes de votation et votations15 - Règlement d’ordre intérieur16 - Commissions consultatives du conseil communalChapitre 2 - Le collège des bourgmestre et échevins1 - Composition2 - Incompatibilités3 - Prestation de serment4 - Réunions5 - Lieu de réunion6 - Non-publicité des séances7 - Votations8 - Délégation9 - Durée du mandat10 - La démission11 - Attributions du collège des bourgmestre et échevins11.1 - Le collège, organe de la commune11.1 - Le collège, organe de l’EtatChapitre 3 - Le bourgmestre1 - Le bourgmestre, organe de la commune2 - Le bourgmestre, organe de l’EtatChapitre 4 - Le contrôle exercé par le conseil communal sur collège des bourgmestre et échevinsChapitre 5 - Le devoir de délicatesse des membres du corps communalTitre IV - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de la tutelleChapitre 3 - Les voies de recours contre les mesures de tutelleTitre V - Les compétences des communes et l’exercice de ces compétencesChapitre 1er - Cadre légal généralChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VI - Le rôle du commissaire de district
+Le programme détaillé du cours «Loi communale» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N6232E"></a>
+| Titre I - Contexte géographique et subdivisons administratives |
+| --- |
+| Titre II - L’autonomie communale dans la législation luxembourgeoise |
+| Titre III - Les organes de la commune |
+| Chapitre 1er - Le conseil communal |
+| 1 - Composition |
+| 2 - Conditions d’éligibilité, inéligibilités, déchéance, incompatibilités |
+| 3 - Entrée en fonctions du conseil communal |
+| 4 - Tableau de préséance |
+| 5 - Convocation |
+| 6 - Ordre du jour |
+| 7 - Droit d’initiative du conseiller communal |
+| 8 - Réunion du conseil communal |
+| 9 - Lieu de réunion |
+| 10 - Publicité des séances |
+| 11 - Présidence du conseil communal |
+| 12 - Langue parlée au conseil communal |
+| 13 - Quorum requis |
+| 14 - Modes de votation et votations |
+| 15 - Règlement d’ordre intérieur |
+| 16 - Commissions consultatives du conseil communal |
+| Chapitre 2 - Le collège des bourgmestre et échevins |
+| 1 - Composition |
+| 2 - Incompatibilités |
+| 3 - Prestation de serment |
+| 4 - Réunions |
+| 5 - Lieu de réunion |
+| 6 - Non-publicité des séances |
+| 7 - Votations |
+| 8 - Délégation |
+| 9 - Durée du mandat |
+| 10 - La démission |
+| 11 - Attributions du collège des bourgmestre et échevins |
+| 11.1 - Le collège, organe de la commune |
+| 11.1 - Le collège, organe de l’Etat |
+| Chapitre 3 - Le bourgmestre |
+| 1 - Le bourgmestre, organe de la commune |
+| 2 - Le bourgmestre, organe de l’Etat |
+| Chapitre 4 - Le contrôle exercé par le conseil communal sur collège des bourgmestre et échevins |
+| Chapitre 5 - Le devoir de délicatesse des membres du corps communal |
+| Titre IV - La tutelle administrative et les voies de recours |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les moyens de la tutelle |
+| Chapitre 3 - Les voies de recours contre les mesures de tutelle |
+| Titre V - Les compétences des communes et l’exercice de ces compétences |
+| Chapitre 1er - Cadre légal général |
+| Chapitre 2 - Les attributions actuelles les plus importantes des communes |
+| Chapitre 3 - Exercice des compétences communales |
+| Titre VI - Le rôle du commissaire de district |
+
+<a id="art_N64F49"></a>
 
 ### Art. 84. Marchés publics
 
-Le programme détaillé du cours «Marchés publics» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
+Le programme détaillé du cours «Marchés publics» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N62398"></a>
+| Titre I - Définitions |
+| --- |
+| Titre II - Les dispositions du livre I de la législation sur les marchés publics |
+| Chapitre 1er - Procédures |
+| Chapitre 2 - Les conditions générales d’accès aux marchés publics |
+| Chapitre 3 - Formes de mise en adjudication |
+| Chapitre 4 - Etablissement du dossier de soumission |
+| Chapitre 5 - La demande d’offre |
+| Chapitre 6 - Le contenu de la soumission |
+| Chapitre 7 - Dépôt et ouverture des offres |
+| Chapitre 8 - Examen des offres |
+| Chapitre 9 - Adjudication |
+| Chapitre 10 - Annulation d’une mise en adjudication et remise en adjudication |
+| Chapitre 11 - Dossiers des marchés à présenter au Ministère de l’Intérieur |
+| Chapitre 12 - Commission des Soumissions |
+| Titre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure) |
+| Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus) |
+| Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communes |
+| Chapitre 1er - Les différentes étapes de la procédure |
+| Chapitre 2 - L’esprit et le bien-fondé de cette procédure préalable |
+
+<a id="art_N6501E"></a>
 
 ### Art. 85. Règlements communaux
 
-Le programme détaillé du cours «Règlements communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe, impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir règlementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III - Etude de cas
+Le programme détaillé du cours «Règlements communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N62456"></a>
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - La règle de droit |
+| 1. Analyse de la règle de droit |
+| 2. Les sources du droit - système et hiérarchie |
+| Titre II - Le règlement communal |
+| Chapitre 1er - Définition |
+| Chapitre 2 - Les catégories de règlements |
+| 1 - Les règlements d’administration intérieure |
+| 1.1 le règlement d’ordre intérieur du conseil communal |
+| 1.2 le règlement-taxe, impôts, taxes, redevances |
+| 2 - Les règlements de police |
+| 2.1 le règlement général de police |
+| 2.2 le règlement de circulation |
+| 2.3 le plan d’aménagement général |
+| 2.4 le règlement sur les bâtisses |
+| 3 - Les règlements d’urgence en matière de police |
+| 4 - Les sanctions |
+| 4.1 l’amende de police |
+| 4.2 les peines supérieures |
+| 4.3 les peines accessoires |
+| Chapitre 3 - Les limites du pouvoir règlementaire communal |
+| 1 - par rapport au territoire |
+| 2 - par rapport à son objet |
+| Chapitre 4 - Les autorités compétentes |
+| 1 - Le conseil communal |
+| 2 - Le collège échevinal |
+| Chapitre 5 - Les formalités de validité et de contrôle |
+| 1 - Tutelle générale |
+| 1.1 suspension ministérielle |
+| 1.2 annulation grand-ducale |
+| 2 - Tutelle spéciale |
+| 2.1 approbation grand-ducale |
+| 2.2 approbation ministérielle |
+| 3 - Formes spéciales de validité |
+| 3.1 avis du médecin-inspecteur |
+| 4 - Publication |
+| Chapitre 6 - Les recours en justice |
+| Le recours des communes contre l’autorité supérieure en cas de refus d’approbation |
+| Le recours des citoyens contre un règlement qui cause grief |
+| Titre III - Etude de cas |
+
+<a id="art_N651B0"></a>
 
 ### Art. 86. Etat civil et bureau de population
 
-Le programme détaillé du cours «Etat civil et bureau de population» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Bureau de population - IndigénatChapitre 1er - Indigénat1.1 - Loi modifiée du 22.2.1968 sur la nationalité luxembourgeoise et la circulaire ministérielle afférente1.2 -Loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise et la circulaire ministérielle du 16.2.1995 afférente1.3 - Les mentions marginales en matière d’indigénatChapitre 2 - Population2.1 -Loi du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers, 3. l’emploi de la main-d’œuvre étrangère2.2 -Règlement grand-ducal du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant au pays2.3 -Règlement grand-ducal du 28 mars 1972 relatif aux conditions d’entrée et de séjour de certaines catégories d’étrangers faisant l’objet de conventions internationales2.4 -Texte historique; Les dispositions légales concernant la tenue des registres de la population: une genèse laborieuse (Définitions des notions de domicile et de résidence)2.5 -Loi du 22 février 1886, art. 82.6 -Circulaire du Ministre de l’Intérieur du 15 avril 19532.7 -Mise à disposition de tiers des données personnelles des administrés détenues par les communes2.8 -La déclaration des Luxembourgeois & La déclaration des non-LuxembourgeoisChapitre 3 - Titres d’identité3.1 -Arrêté grand-ducal du 30 août 1939, portant introduction de la carte d’identité obligatoire3.2 -Règlement ministériel du 12 juin 1989 déterminant le modèle de la carte d’identité obligatoire à délivrer par les administrations communales3.3 -Loi du 14.4.1934 concernant les passeports à l’étrangerTitre II - Etat civilChapitre 1er - Des actes de l’état civil1.1 - Dispositions générales1.2 - Des actes de naissance1.3 - Des actes de mariages1.4 - Des actes de décès1.5 - De la rectification des actes de l’état civilChapitre 2 - Du mariage2.1 - Qualités2.2 - Des formalitésChapitre 3 - Des seconds mariages
+Le programme détaillé du cours «Etat civil et bureau de population» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N62506"></a>
+| Titre I - Bureau de population - Indigénat |  |  |
+| --- | --- | --- |
+| Chapitre 1er - Indigénat |  |  |
+| 1.1 | - | Loi modifiée du 22.2.1968 sur la nationalité luxembourgeoise et la circulaire ministérielle afférente |
+| 1.2 | - | Loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise et la circulaire ministérielle du 16.2.1995 afférente |
+| 1.3 | - | Les mentions marginales en matière d’indigénat |
+| Chapitre 2 - Population |  |  |
+| 2.1 | - | Loi du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers, 3. l’emploi de la main-d’œuvre étrangère |
+| 2.2 | - | Règlement grand-ducal du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant au pays |
+| 2.3 | - | Règlement grand-ducal du 28 mars 1972 relatif aux conditions d’entrée et de séjour de certaines catégories d’étrangers faisant l’objet de conventions internationales |
+| 2.4 | - | Texte historique; Les dispositions légales concernant la tenue des registres de la population: une genèse laborieuse (Définitions des notions de domicile et de résidence) |
+| 2.5 | - | Loi du 22 février 1886, art. 8 |
+| 2.6 | - | Circulaire du Ministre de l’Intérieur du 15 avril 1953 |
+| 2.7 | - | Mise à disposition de tiers des données personnelles des administrés détenues par les communes |
+| 2.8 | - | La déclaration des Luxembourgeois & La déclaration des non-Luxembourgeois |
+| Chapitre 3 - Titres d’identité |  |  |
+| 3.1 | - | Arrêté grand-ducal du 30 août 1939, portant introduction de la carte d’identité obligatoire |
+| 3.2 | - | Règlement ministériel du 12 juin 1989 déterminant le modèle de la carte d’identité obligatoire à délivrer par les administrations communales |
+| 3.3 | - | Loi du 14.4.1934 concernant les passeports à l’étranger |
+| Titre II - Etat civil |  |  |
+| Chapitre 1er - Des actes de l’état civil |  |  |
+| 1.1 - Dispositions générales |  |  |
+| 1.2 - Des actes de naissance |  |  |
+| 1.3 - Des actes de mariages |  |  |
+| 1.4 - Des actes de décès |  |  |
+| 1.5 - De la rectification des actes de l’état civil |  |  |
+| Chapitre 2 - Du mariage |  |  |
+| 2.1 - Qualités |  |  |
+| 2.2 - Des formalités |  |  |
+| Chapitre 3 - Des seconds mariages |  |  |
+
+<a id="art_N653C4"></a>
 
 ### Art. 87. Gestion des ressources financières des communes (Budget et comptabilité)
 
-Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - Le système de financement des communes: introductionChapitre 1er - La nature des missions à la base du modèle de financement des communes1.1 - Le financement des missions originaires1.2 - Le financement des missions déléguées1.3 - Le financement des autres missions des communesChapitre 2 - Les ressources financières des communes2.1 - Au niveau du budget de fonctionnement2.2 - Au niveau du budget d’investissementChapitre 3 - Le mécanisme de financement des communes3.1 - Le contexte général3.2 - Le mécanisme de financement garant de l’autonomie localeChapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale4.1 - Au niveau de la commune4.2 - Au niveau national et dans la comparaison internationaleChapitre 5 - Les statistiques sur les revenus non affectés des communes5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1)5.2 - Présentation détailléeTitre II - La comptabilité communaleChapitre 1er - Notions sur le budget communal1.1 - Les dépenses obligatoires et non obligatoires- Les dépenses obligatoires- Les dépenses non obligatoires1.2 - L’établissement, le vote et l’arrêté- La formation- L’élaboration du projet- Le commentaire budgétaire- Le vote- L’apurement et l’arrête définitif1.3 - Les modifications budgétaires- La demande de crédit spécial ou supplémentaire- Le tableau des modifications budgétaires- Les dépenses urgentes et imprévues- Le transfert- Le report d’exercice- Le budget rectifié1.4 - Les obligations et les responsabilités par rapport aux crédits budgétaires- Du collège des bourgmestre et échevins- Du receveur communal1.5 - Le budget des syndicats intercommunaux et des établissements publics communaux- Les généralités- Le budget des établissements publics communaux- Le budget des syndicats intercommunaux- Les principes découlant de la comptabilité commercialeTitre III - L’exécution du budget et la reddition des comptesChapitre 1er - L’exécution du budget1.1 - L’exercice financier- La distinction d’exercice1.2 - La comptabilité- Le système- La comptabilité du collège des bourgmestre et échevins- La comptabilité du receveur- La conservation des documents de comptabilité1.3 - La gestion des recettes- Les deux catégories principales de recettes- L’exécution des décisions du conseil communal- Le titre rectificatif1.4 - La gestion des dépenses- L’ordonnancement- Le mandatement1.5 - Le contrôle de la comptabilité et de la caisse1.6 - La comptabilité commercialeChapitre 2 - La reddition des comptes2.1 - Le compte d’exercice- La définition- L’objet du compte de gestion- La structure des comptes- L’inscription des recettes aux comptes- L’inscription des dépenses aux comptes- La concordance des comptes
+Le programme détaillé du cours «Gestion des ressources financières des communes (Budget et comptabilité)» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N6263B"></a>
+| Titre I - Le système de financement des communes: introduction |
+| --- |
+| Chapitre 1er - La nature des missions à la base du modèle de financement des communes |
+| 1.1 - Le financement des missions originaires |
+| 1.2 - Le financement des missions déléguées |
+| 1.3 - Le financement des autres missions des communes |
+| Chapitre 2 - Les ressources financières des communes |
+| 2.1 - Au niveau du budget de fonctionnement |
+| 2.2 - Au niveau du budget d’investissement |
+| Chapitre 3 - Le mécanisme de financement des communes |
+| 3.1 - Le contexte général |
+| 3.2 - Le mécanisme de financement garant de l’autonomie locale |
+| Chapitre 4 - Le système de financement des communes dans l’optique globale de l’autonomie communale |
+| 4.1 - Au niveau de la commune |
+| 4.2 - Au niveau national et dans la comparaison internationale |
+| Chapitre 5 - Les statistiques sur les revenus non affectés des communes |
+| 5.1 - Les revenus annuels non affectés des années 1987 à 2001 (A1) |
+| 5.2 - Présentation détaillée |
+| Titre II - La comptabilité communale |
+| Chapitre 1er - Notions sur le budget communal |
+| 1.1 - Les dépenses obligatoires et non obligatoires |
+| - Les dépenses obligatoires |
+| - Les dépenses non obligatoires |
+| 1.2 - L’établissement, le vote et l’arrêté |
+| - La formation |
+| - L’élaboration du projet |
+| - Le commentaire budgétaire |
+| - Le vote |
+| - L’apurement et l’arrête définitif |
+| 1.3 - Les modifications budgétaires |
+| - La demande de crédit spécial ou supplémentaire |
+| - Le tableau des modifications budgétaires |
+| - Les dépenses urgentes et imprévues |
+| - Le transfert |
+| - Le report d’exercice |
+| - Le budget rectifié |
+| 1.4 - Les obligations et les responsabilités par rapport aux crédits budgétaires |
+| - Du collège des bourgmestre et échevins |
+| - Du receveur communal |
+| 1.5 - Le budget des syndicats intercommunaux et des établissements publics communaux |
+| - Les généralités |
+| - Le budget des établissements publics communaux |
+| - Le budget des syndicats intercommunaux |
+| - Les principes découlant de la comptabilité commerciale |
+| Titre III - L’exécution du budget et la reddition des comptes |
+| Chapitre 1er - L’exécution du budget |
+| 1.1 - L’exercice financier |
+| - La distinction d’exercice |
+| 1.2 - La comptabilité |
+| - Le système |
+| - La comptabilité du collège des bourgmestre et échevins |
+| - La comptabilité du receveur |
+| - La conservation des documents de comptabilité |
+| 1.3 - La gestion des recettes |
+| - Les deux catégories principales de recettes |
+| - L’exécution des décisions du conseil communal |
+| - Le titre rectificatif |
+| 1.4 - La gestion des dépenses |
+| - L’ordonnancement |
+| - Le mandatement |
+| 1.5 - Le contrôle de la comptabilité et de la caisse |
+| 1.6 - La comptabilité commerciale |
+| Chapitre 2 - La reddition des comptes |
+| 2.1 - Le compte d’exercice |
+| - La définition |
+| - L’objet du compte de gestion |
+| - La structure des comptes |
+| - L’inscription des recettes aux comptes |
+| - L’inscription des dépenses aux comptes |
+| - La concordance des comptes |
+
+<a id="art_N6565E"></a>
 
 ### Art. 88. Statut des fonctionnaires communaux
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - DéfinitionTitre II - HistoriqueTitre III - Champ d’applicationTitre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive.Titre V - PromotionsTitre VI - Devoirs du fonctionnaire et les dispositions anti-corruptionTitre VII - Droits du fonctionnaireTitre VIII - Droit d’association - représentation du personnelTitre IX - FormationTitre X - Sécurité socialeTitre XI - IncompatibilitésTitre XII - Cessation définitive des fonctionsTitre XIII - DisciplineTitre XIV - Droit de grèveTitre XV - Dossier personnelTitre XVI - Tableau d’avancement
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
 
-<a id="art_N62693"></a>
+| Titre I - Définition |
+| --- |
+| Titre II - Historique |
+| Titre III - Champ d’application |
+| Titre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive. |
+| Titre V - Promotions |
+| Titre VI - Devoirs du fonctionnaire et les dispositions anti-corruption |
+| Titre VII - Droits du fonctionnaire |
+| Titre VIII - Droit d’association - représentation du personnel |
+| Titre IX - Formation |
+| Titre X - Sécurité sociale |
+| Titre XI - Incompatibilités |
+| Titre XII - Cessation définitive des fonctions |
+| Titre XIII - Discipline |
+| Titre XIV - Droit de grève |
+| Titre XV - Dossier personnel |
+| Titre XVI - Tableau d’avancement |
+
+<a id="art_N65710"></a>
 
 ### Art. 89. Traitements des fonctionnaires communaux
 
-Le programme détaillé du cours «Traitements des fonctionnaires communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:Titre I - IntroductionChapitre 1er - Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er - Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2 - Le nombre-indiceChapitre 3 - Les valeurs du pointChapitre 4 - Calculs des carrières4.1 - Traitements pendant le service provisoire4.2 - Promotions, avancements en traitement et doubles échelons4.3 - Biennales, annale et majorations d’indice4.4 - Bonification pour ancienneté des services4.5 - Cadres ouverts et cadres fermés4.6 - Allongements de grades4.7 - Grades de substitution4.8 - Suppléments de traitement4.9 - Traitement des fonctionnaires à l’âge de 55 ansChapitre 5 - Accessoires5.1 - Primes pensionnables et primes non pensionnables5.2 - Allocation de famille5.3 - Logement de service5.4 - Allocation de fin d’année5.5 - Allocation de repas5.6 - Paiement des heures supplémentairesChapitre 6 - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
+Le programme détaillé du cours «Traitements des fonctionnaires communaux» assuré à la section de l’expéditionnaire administratif est déterminé comme suit:
+
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - Généralités |
+| 1.1 - Bases légales |
+| 1.2 - Définitions |
+| 1.3 - Règles générales |
+| 1.4 - Entrée en vigueur des décisions concernant les traitements |
+| Titre II - Calcul des traitements |
+| Chapitre 1er - Eléments déductibles |
+| 1.1 - Les cotisations sociales |
+| 1.2 - Les impôts |
+| 1.3 - Les saisies, cessions et cotisations pour les Chambres professionnelles |
+| Chapitre 2 - Le nombre-indice |
+| Chapitre 3 - Les valeurs du point |
+| Chapitre 4 - Calculs des carrières |
+| 4.1 - Traitements pendant le service provisoire |
+| 4.2 - Promotions, avancements en traitement et doubles échelons |
+| 4.3 - Biennales, annale et majorations d’indice |
+| 4.4 - Bonification pour ancienneté des services |
+| 4.5 - Cadres ouverts et cadres fermés |
+| 4.6 - Allongements de grades |
+| 4.7 - Grades de substitution |
+| 4.8 - Suppléments de traitement |
+| 4.9 - Traitement des fonctionnaires à l’âge de 55 ans |
+| Chapitre 5 - Accessoires |
+| 5.1 - Primes pensionnables et primes non pensionnables |
+| 5.2 - Allocation de famille |
+| 5.3 - Logement de service |
+| 5.4 - Allocation de fin d’année |
+| 5.5 - Allocation de repas |
+| 5.6 - Paiement des heures supplémentaires |
+| Chapitre 6 - Divers |
+| 6.1 - Changement de carrière |
+| 6.2 - Changement de communes |
+| 6.3 - Changement de statut |
+| 6.4 - L’impact de certains congés sur les traitements |
+| 6.5 - Trimestre de faveur |
 
 ##### Titre V — Programmes détaillés des cours de la section de la carrière de l’ingénieur technicien.
 
-<a id="art_N6274C"></a>
+<a id="art_N65888"></a>
 
 ### Art. 90. Droit administratif
 
-Le programme détaillé du cours «Droit administratif» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Droit administratif. Notion et sourcesTitre II - Le service publicTitre III - Les personnes publiques et leur statutTitre IV - Activité des actes de l’administrationTitre V - Domaine public et domaine privéTitre VI - Les servitudes d’utilité publiqueTitre VII - Les Recours et juridictions administrativesTitre VIII - La procédure administrative non contentieuseTitre IX - Sujets spécifiques:autorisation de bâtirétablissements classés (Loi du 10 juin 1999)aménagement des communes (L 12 juin 1937)nature (Loi du 11 août 1982);responsabilité (Loi du 1er septembre 1988);
+Le programme détaillé du cours «Droit administratif» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N627AE"></a>
+| Titre I - Droit administratif. Notion et sources |
+| --- |
+| Titre II - Le service public |
+| Titre III - Les personnes publiques et leur statut |
+| Titre IV - Activité des actes de l’administration |
+| Titre V - Domaine public et domaine privé |
+| Titre VI - Les servitudes d’utilité publique |
+| Titre VII - Les Recours et juridictions administratives |
+| Titre VIII - La procédure administrative non contentieuse |
+| Titre IX - Sujets spécifiques: |
+| autorisation de bâtir |
+| établissements classés (Loi du 10 juin 1999) |
+| aménagement des communes (L 12 juin 1937) |
+| nature (Loi du 11 août 1982); |
+| responsabilité (Loi du 1er septembre 1988); |
+
+<a id="art_N6593F"></a>
 
 ### Art. 91. Droit civil
 
-Le programme détaillé du cours «Droit civil» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Les droits réelsChapitre 1er - Le droit de propriétéChapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitationChapitre 3 - Le droit de superficie et le droit d’emphytéoseChapitre 4 - L’indivision et la copropriétéChapitre 5 - Les servitudesTitre II - Les obligationsChapitre 1er - Les sources des obligationsChapitre 2 - Les modalités des obligationsChapitre 3 - Les modes d’extinction des obligationsTitre III - La preuveChapitre 1er - La preuve littérale (ou écrite)Chapitre 2 - La preuve testimoniale (par témoignage)Chapitre 3 - Les présomptionsChapitre 4 - L’aveuChapitre 5 - Le sermentTitre IV - Les régimes matrimoniauxChapitre 1er - Le régime primaireChapitre 2 - La communauté légale et la communauté conventionnelleChapitre 3 - La communauté universelleChapitre 4 - La séparation de biensTitre V - Les successionsChapitre 1er - La succession légale (ab intestat)Chapitre 2 - La succession testamentaireTitre VI - La responsabilité civileChapitre 1er - La responsabilité contractuelleChapitre 2 - La responsabilité délictuelle et quasi-délictuelle1 - La responsabilité de droit commun prévue aux articles 1382/1383 du code civil2 - La loi du 1er septembre 1988 relative à la responsabilité civile de l’Etat et des collectivités publiques3 - La responsabilité du fait des choses4 - La responsabilité du fait d’autrui
+Le programme détaillé du cours «Droit civil» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N6285C"></a>
+| Titre I - Les droits réels |
+| --- |
+| Chapitre 1er - Le droit de propriété |
+| Chapitre 2 - Le droit d’usufruit et le droit d’usage et d’habitation |
+| Chapitre 3 - Le droit de superficie et le droit d’emphytéose |
+| Chapitre 4 - L’indivision et la copropriété |
+| Chapitre 5 - Les servitudes |
+| Titre II - Les obligations |
+| Chapitre 1er - Les sources des obligations |
+| Chapitre 2 - Les modalités des obligations |
+| Chapitre 3 - Les modes d’extinction des obligations |
+| Titre III - La preuve |
+| Chapitre 1er - La preuve littérale (ou écrite) |
+| Chapitre 2 - La preuve testimoniale (par témoignage) |
+| Chapitre 3 - Les présomptions |
+| Chapitre 4 - L’aveu |
+| Chapitre 5 - Le serment |
+| Titre IV - Les régimes matrimoniaux |
+| Chapitre 1er - Le régime primaire |
+| Chapitre 2 - La communauté légale et la communauté conventionnelle |
+| Chapitre 3 - La communauté universelle |
+| Chapitre 4 - La séparation de biens |
+| Titre V - Les successions |
+| Chapitre 1er - La succession légale (ab intestat) |
+| Chapitre 2 - La succession testamentaire |
+| Titre VI - La responsabilité civile |
+| Chapitre 1er - La responsabilité contractuelle |
+| Chapitre 2 - La responsabilité délictuelle et quasi-délictuelle |
+| 1 - La responsabilité de droit commun prévue aux articles 1382/1383 du code civil |
+| 2 - La loi du 1er septembre 1988 relative à la responsabilité civile de l’Etat et des collectivités publiques |
+| 3 - La responsabilité du fait des choses |
+| 4 - La responsabilité du fait d’autrui |
+
+<a id="art_N65ABB"></a>
 
 ### Art. 92. Relations entre l’administration et le citoyen
 
-Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - IntroductionTitre II- Les diverses relations entre l’administration et les citoyensChapitre 1er - Expériences personnelles vécues avec les administrations publiquesChapitre 2 - L’accueil du citoyen dans les bureaux2.1 - Heures d’ouverture2.2 - Nocturnes2.3 - Aider le citoyen à se retrouver dans l’administration2.4 - Queues d’attente et pauses café2.5 - Vêtements de travailChapitre 3 - Le téléphone3.1 - Répondre à un appel téléphonique3.2 - Comportement face à un citoyen excité3.3 - Gestion des appels téléphoniques à l’intérieur d’un service3.4 - Rôle du central téléphonique3.5 - A qui la priorité - A celui qui téléphone ou à celui qui vient au bureau?Chapitre 4 - Le courrier4.1 - L’accusé de réception4.2 - Le temps de réponse4.3 - La lettre traditionnelle4.4 - La télécopie4.5 - Le courrier électroniqueChapitre 5 - L’Internet5.1 - Les communes dans l’Internet5.2 - Le «E-Government»Titre III - Quelques règles de la communicationTitre IV - DiversChapitre 1er - Les guichets uniquesChapitre 2 - Les publicationsChapitre 3 - Idées nouvelles3.1 - Modèles de sondages (Bertelsmann-Projekt)3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg)3.3 - „Zukunftskonferenzen“ (USA)3.4 - „Customer Contracts“ (Braintree)3.5 - „Benchmarking” (Bertelsmann-Projekt)3.6 - „PR mit VR“ (Delft)
+Le programme détaillé du cours «Relations entre l’administration et le citoyen» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62906"></a>
+| Titre I - Introduction |
+| --- |
+| Titre II- Les diverses relations entre l’administration et les citoyens |
+| Chapitre 1er - Expériences personnelles vécues avec les administrations publiques |
+| Chapitre 2 - L’accueil du citoyen dans les bureaux |
+| 2.1 - Heures d’ouverture |
+| 2.2 - Nocturnes |
+| 2.3 - Aider le citoyen à se retrouver dans l’administration |
+| 2.4 - Queues d’attente et pauses café |
+| 2.5 - Vêtements de travail |
+| Chapitre 3 - Le téléphone |
+| 3.1 - Répondre à un appel téléphonique |
+| 3.2 - Comportement face à un citoyen excité |
+| 3.3 - Gestion des appels téléphoniques à l’intérieur d’un service |
+| 3.4 - Rôle du central téléphonique |
+| 3.5 - A qui la priorité: A celui qui téléphone ou à celui qui vient au bureau? |
+| Chapitre 4 - Le courrier |
+| 4.1 - L’accusé de réception |
+| 4.2 - Le temps de réponse |
+| 4.3 - La lettre traditionnelle |
+| 4.4 - La télécopie |
+| 4.5 - Le courrier électronique |
+| Chapitre 5 - L’Internet |
+| 5.1 - Les communes dans l’Internet |
+| 5.2 - Le «E-Government» |
+| Titre III - Quelques règles de la communication |
+| Titre IV - Divers |
+| Chapitre 1er - Les guichets uniques |
+| Chapitre 2 - Les publications |
+| Chapitre 3 - Idées nouvelles |
+| 3.1 - Modèles de sondages (Bertelsmann-Projekt) |
+| 3.2 - „Vom Beschwerdemanagement zum Ideenmanagement” (Arnsberg) |
+| 3.3 - „Zukunftskonferenzen“ (USA) |
+| 3.4 - „Customer Contracts“ (Braintree) |
+| 3.5 - „Benchmarking” (Bertelsmann-Projekt) |
+| 3.6 - „PR mit VR“ (Delft) |
+
+<a id="art_N65C43"></a>
 
 ### Art. 93. Contrats ingénieurs et architectes et règlements sur les bâtisses
 
-Le programme détaillé du cours «Contrats ingénieurs et architectes et règlements sur les bâtisses» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Règlement sur les bâtissesChapitre 1er - Généralités et champ d’applicationChapitre 2 - Places à bâtirChapitre 3 - ConstructionsChapitre 4 - Aménagements extérieursChapitre 5 - Prescriptions techniquesTitre II - Plan d’aménagement général et particulier (PAG et PAP)Chapitre 1er - Généralités et champ d’applicationChapitre 2 - Partie graphique et partie écriteChapitre 3 - Prescriptions dimensionnellesChapitre 4 - Prescriptions architecturales
+Le programme détaillé du cours «Contrats ingénieurs et architectes et règlements sur les bâtisses» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62950"></a>
+| Titre I - Règlement sur les bâtisses |
+| --- |
+| Chapitre 1er - Généralités et champ d’application |
+| Chapitre 2 - Places à bâtir |
+| Chapitre 3 - Constructions |
+| Chapitre 4 - Aménagements extérieurs |
+| Chapitre 5 - Prescriptions techniques |
+| Titre II - Plan d’aménagement général et particulier (PAG et PAP) |
+| Chapitre 1er - Généralités et champ d’application |
+| Chapitre 2 - Partie graphique et partie écrite |
+| Chapitre 3 - Prescriptions dimensionnelles |
+| Chapitre 4 - Prescriptions architecturales |
+
+<a id="art_N65CCF"></a>
 
 ### Art. 94. Organisation d’un service technique communal
 
-Le programme détaillé du cours «Organisation d’un service technique communal» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - IntroductionTitre II - Les charges du service technique communalTitre III - Le code civil en matière de constructionTitre IV - La gestion des projetsTitre V - L’organisation d’un chantierTitre VI - Le contrat collectif des ouvriers
+Le programme détaillé du cours «Organisation d’un service technique communal» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62980"></a>
+| Titre I - Introduction |
+| --- |
+| Titre II - Les charges du service technique communal |
+| Titre III - Le code civil en matière de construction |
+| Titre IV - La gestion des projets |
+| Titre V - L’organisation d’un chantier |
+| Titre VI - Le contrat collectif des ouvriers |
+
+<a id="art_N65D2C"></a>
 
 ### Art. 95. Français
 
-Le programme détaillé du cours «Français» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - De l’usage de la langue française au Luxembourg et dans le monde.Chapitre 1er -La Francophonie.Chapitre 2 -La situation du français dans le monde.Chapitre 3 -La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des langues.Titre II - De la justification du langage administratif.Chapitre 1er -Caractéristiques principales du langage administratif.Chapitre 2 -Le langage administratif écrit - la lettre - le rapport - le compte rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier).Chapitre 3 - Exercices pratiques.Chapitre 4 -Le langage administratif parlé.
+Le programme détaillé du cours «Français» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N629C7"></a>
+| Titre I - De l’usage de la langue française au Luxembourg et dans le monde. |  |  |
+| --- | --- | --- |
+| Chapitre 1er | - | La Francophonie. |
+| Chapitre 2 | - | La situation du français dans le monde. |
+| Chapitre 3 | - | La langue française au Luxembourg - situation spécifique - loi du 24 février 1984 sur le régime des langues. |
+| Titre II - De la justification du langage administratif. |  |  |
+| Chapitre 1er | - | Caractéristiques principales du langage administratif. |
+| Chapitre 2 | - | Le langage administratif écrit - la lettre - le rapport - le compte-rendu - la note - les autres écrits (avis, circulaire, formulaire, procès-verbal, communiqué, courrier). |
+| Chapitre 3 | - | Exercices pratiques. |
+| Chapitre 4 | - | Le langage administratif parlé. |
+
+<a id="art_N65E03"></a>
 
 ### Art. 96. Allemand
 
-Le programme détaillé du cours «Allemand» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre 1: Das amtliche Schreiben1.1. Der Verwaltungsbrief1.1.1. Aufbau / Formalia1.1.2. Inhaltliche Aspekte / FormulierungTitre 2: Stilfragen2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen2.2. Fremdwörter2.3. Schwerpunkte der Rechtschreibung2.4. Die InterpunktionTitre 3: Textinterpretation / Linguistische Textanalyse3.1. Analyse der Textstruktur3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ)3.3. Analyse der Textfunktion (Textuelle Grundfunktionen)3.4. Stilistische Analyse (rhetorische Mittel, Tropen)3.5. Auseinandersetzung mit den Textinhalten: Gliederung und Kurzfassung (Précis)Titre 4: Kommunikation4.1. Kommunikationsmodelle4.2. Fehlkodierung / Kodierungsfehler4.3. Die deutsche Standardsprache / Prosodie4.4. Sprachliche Umgangsformen4.5. Rhetorische Grundbegriffe / Der Kurzvortrag
+Le programme détaillé du cours «Allemand» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62A33"></a>
+| Titre 1: Das amtliche Schreiben |
+| --- |
+| 1.1. Der Verwaltungsbrief |
+| 1.1.1. Aufbau / Formalia |
+| 1.1.2. Inhaltliche Aspekte / Formulierung |
+| Titre 2: Stilfragen |
+| 2.1. Wortschatz / Wortwahl / Ausdrucksweise / Abweichungen vom Luxemburgischen |
+| 2.2. Fremdwörter |
+| 2.3. Schwerpunkte der Rechtschreibung |
+| 2.4. Die Interpunktion |
+| Titre 3: Textinterpretation / Linguistische Textanalyse |
+| 3.1. Analyse der Textstruktur |
+| 3.2. Grundformen thematischer Entfaltung (deskriptiv, explikativ, argumentativ) |
+| 3.3. Analyse der Textfunktion (Textuelle Grundfunktionen) |
+| 3.4. Stilistische Analyse (rhetorische Mittel, Tropen) |
+| 3.5. Auseinandersetzung mit den Textinhalten: Gliederung und Kurzfassung (Précis) |
+| Titre 4: Kommunikation |
+| 4.1. Kommunikationsmodelle |
+| 4.2. Fehlkodierung / Kodierungsfehler |
+| 4.3. Die deutsche Standardsprache / Prosodie |
+| 4.4. Sprachliche Umgangsformen |
+| 4.5. Rhetorische Grundbegriffe / Der Kurzvortrag |
+
+<a id="art_N65EE5"></a>
 
 ### Art. 97. Loi communale
 
-Le programme détaillé du cours «Loi communale» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Le conseil communalChapitre 1er - La formation du conseil communal1 - Les conditions d’éligibilité2 - Les inéligibilités3 - Les incompatibilités4 - La renonciation formelle au mandat de conseiller5 - La renonciation tacite au mandat de conseiller6 - L’installation du conseil communalChapitre 2 - Le fonctionnement du conseil communal1 - La convocation, l’ordre du jour, le lieu de réunion2 - Le droit d’initiative du conseiller communal3 - La publicité des séances4 - La présidence du conseil5 - Le quorum requis6 - Le vote7 - Le règlement d’ordre intérieur8 - Les commissions consultatives du conseil9 - Les jetons de présence10 - Le délit d’immixtion / La prise illégale d’intérêts11 - La démission des conseillersChapitre 3 - Les attributions du conseil communal1 - Le conseil communal, organe de contrôle2 - Le droit d’initiative du conseiller communal3 - La publicité des séancesTitre II - Le collège des bourgmestre et échevinsChapitre 1er - La formation du collège des bourgmestre et échevins1 - La composition2 - La prestation de serment et le rang des échevins3 - Le remplacement du bourgmestre4 - Les indemnités5 - La durée du mandat6 - La démission7 - La révocationChapitre 2 - Le fonctionnement du collège des bourgmestre et échevins1 - La convocation2 - Le lieu de réunion3 - Les délibérationsChapitre 3 - Les attributions du collège des bourgmestre et échevins, organe de la commune1 - La publication et l’exécution des décisions du conseil communal2 - La direction des travaux communaux3 - La surveillance des agents communaux4 - Les actions judiciaires5 - La surveillance de la caisse et de la comptabilité6 - La gestion des revenus et les mandats de paiement7 - Les règlements d’urgenceChapitre 4 - Les attributions du collège des bourgmestre et échevins, organe de l’Etat1 - L’exécution des lois et règlements généraux2 - La garde des registres de l’état civilTitre III - Le bourgmestreChapitre 1er - Les attributions du bourgmestre, organe de la commune1 - La signature du bourgmestre2 - L’exécution des règlements communaux de policeChapitre 2 - Les attributions du bourgmestre, organe de l’Etat1 - La sécurité des personnes et des biens2 - L’état civil3 - La réquisition4 - La légalisation de signatures
+Le programme détaillé du cours «Loi communale» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62B38"></a>
+| Titre I - Le conseil communal |
+| --- |
+| Chapitre 1er - La formation du conseil communal |
+| 1 - Les conditions d’éligibilité |
+| 2 - Les inéligibilités |
+| 3 - Les incompatibilités |
+| 4 - La renonciation formelle au mandat de conseiller |
+| 5 - La renonciation tacite au mandat de conseiller |
+| 6 - L’installation du conseil communal |
+| Chapitre 2 - Le fonctionnement du conseil communal |
+| 1 - La convocation, l’ordre du jour, le lieu de réunion |
+| 2 - Le droit d’initiative du conseiller communal |
+| 3 - La publicité des séances |
+| 4 - La présidence du conseil |
+| 5 - Le quorum requis |
+| 6 - Le vote |
+| 7 - Le règlement d’ordre intérieur |
+| 8 - Les commissions consultatives du conseil |
+| 9 - Les jetons de présence |
+| 10 - Le délit d’immixtion / La prise illégale d’intérêts |
+| 11 - La démission des conseillers |
+| Chapitre 3 - Les attributions du conseil communal |
+| 1 - Le conseil communal, organe de contrôle |
+| 2 - Le droit d’initiative du conseiller communal |
+| 3 - La publicité des séances |
+| Titre II - Le collège des bourgmestre et échevins |
+| Chapitre 1er - La formation du collège des bourgmestre et échevins |
+| 1 - La composition |
+| 2 - La prestation de serment et le rang des échevins |
+| 3 - Le remplacement du bourgmestre |
+| 4 - Les indemnités |
+| 5 - La durée du mandat |
+| 6 - La démission |
+| 7 - La révocation |
+| Chapitre 2 - Le fonctionnement du collège des bourgmestre et échevins |
+| 1 - La convocation |
+| 2 - Le lieu de réunion |
+| 3 - Les délibérations |
+| Chapitre 3 - Les attributions du collège des bourgmestre et échevins, organe de la commune |
+| 1 - La publication et l’exécution des décisions du conseil communal |
+| 2 - La direction des travaux communaux |
+| 3 - La surveillance des agents communaux |
+| 4 - Les actions judiciaires |
+| 5 - La surveillance de la caisse et de la comptabilité |
+| 6 - La gestion des revenus et les mandats de paiement |
+| 7 - Les règlements d’urgence |
+| Chapitre 4 - Les attributions du collège des bourgmestre et échevins, organe de l’Etat |
+| 1 - L’exécution des lois et règlements généraux |
+| 2 - La garde des registres de l’état civil |
+| Titre III - Le bourgmestre |
+| Chapitre 1er - Les attributions du bourgmestre, organe de la commune |
+| 1 - La signature du bourgmestre |
+| 2 - L’exécution des règlements communaux de police |
+| Chapitre 2 - Les attributions du bourgmestre, organe de l’Etat |
+| 1 - La sécurité des personnes et des biens |
+| 2 - L’état civil |
+| 3 - La réquisition |
+| 4 - La légalisation de signatures |
+
+<a id="art_N66113"></a>
 
 ### Art. 98. Législation sur l’aménagement des communes, sur la protection de la nature et sur l’aménagement général du territoire
 
-Le programme détaillé du cours «Législation sur l’aménagement des communes, sur la protection de la nature et sur l’aménagement général du territoire» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I: L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II: L’aménagement communal (le projet de loi concernant l’aménagement communal et le développement urbain sera voté le 13 mai 2004)Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents2.1 - Les communes2.2 - Le Ministre2.3 - La commission d’aménagementChapitre 3 - Les instruments et leur élaboration3.1 - Le plan d’aménagement général (P.A.G.)3.2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procédures d’adoption du plan d’aménagementChapitre 5 - La mise en œuvre du plan d’aménagement5.1 - La cession gratuite5.2 - Le projet d’exécution5.3 - La convention5.4 - L’autorisation de construireChapitre 6 - L’exécution du plan d’aménagement6.1 - Les zones de développement et zones à restructurer6.2 - Le remembrement urbain6.3 - L’expropriation pour utilité publique6.4 - Disponibilités foncièresChapitre 7 - Les critères d’un urbanisme de qualitéChapitre 8 - Etude de cas pratiquesTitre III: Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles)Chapitre 1er - Objectifs de la loiChapitre 2 - Mesures générales de conservation du paysageChapitre 3 - Protection de la faune et de la floreChapitre 4 - Zones protégées d’intérêt communautaireChapitre 5 - Zones protégées d’intérêt nationalChapitre 6 - Zones protégées d’importance communaleChapitre 7 - Dispositions pénalesChapitre 8 - Etudes de cas pratiques
+Le programme détaillé du cours «Législation sur l’aménagement des communes, sur la protection de la nature et sur l’aménagement général du territoire» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62BEB"></a>
+| Titre I: L’aménagement général du territoire (Loi du 21 mai 1999) |
+| --- |
+| Chapitre 1er - Les objectifs |
+| Chapitre 2 - Les instruments |
+| Titre II: L’aménagement communal (le projet de loi concernant l’aménagement communal et le développement urbain sera voté le 13 mai 2004) |
+| Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national. |
+| Chapitre 2 - Les organes compétents |
+| 2.1 - Les communes |
+| 2.2 - Le Ministre |
+| 2.3 - La commission d’aménagement |
+| Chapitre 3 - Les instruments et leur élaboration |
+| 3.1 - Le plan d’aménagement général (P.A.G.) |
+| 3.2 - Le plan d’aménagement particulier (P.A.P.) |
+| Chapitre 4 - Les procédures d’adoption du plan d’aménagement |
+| Chapitre 5 - La mise en œuvre du plan d’aménagement |
+| 5.1 - La cession gratuite |
+| 5.2 - Le projet d’exécution |
+| 5.3 - La convention |
+| 5.4 - L’autorisation de construire |
+| Chapitre 6 - L’exécution du plan d’aménagement |
+| 6.1 - Les zones de développement et zones à restructurer |
+| 6.2 - Le remembrement urbain |
+| 6.3 - L’expropriation pour utilité publique |
+| 6.4 - Disponibilités foncières |
+| Chapitre 7 - Les critères d’un urbanisme de qualité |
+| Chapitre 8 - Etude de cas pratiques |
+| Titre III: Législation sur l’environnement naturel (Loi du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles) |
+| Chapitre 1er - Objectifs de la loi |
+| Chapitre 2 - Mesures générales de conservation du paysage |
+| Chapitre 3 - Protection de la faune et de la flore |
+| Chapitre 4 - Zones protégées d’intérêt communautaire |
+| Chapitre 5 - Zones protégées d’intérêt national |
+| Chapitre 6 - Zones protégées d’importance communale |
+| Chapitre 7 - Dispositions pénales |
+| Chapitre 8 - Etudes de cas pratiques |
+
+<a id="art_N66281"></a>
 
 ### Art. 99. Législation sur les marchés publics
 
-Le programme détaillé du cours «Législation sur les marchés publics» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
+Le programme détaillé du cours «Législation sur les marchés publics» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62C55"></a>
+| Titre I - Définitions |
+| --- |
+| Titre II - Les dispositions du livre I de la législation sur les marchés publics |
+| Chapitre 1er - Procédures |
+| Chapitre 2 - Les conditions générales d’accès aux marchés publics |
+| Chapitre 3 - Formes de mise en adjudication |
+| Chapitre 4 - Etablissement du dossier de soumission |
+| Chapitre 5 - La demande d’offre |
+| Chapitre 6 - Le contenu de la soumission |
+| Chapitre 7 - Dépôt et ouverture des offres |
+| Chapitre 8 - Examen des offres |
+| Chapitre 9 - Adjudication |
+| Chapitre 10 - Annulation d’une mise en adjudication et remise en adjudication |
+| Chapitre 11 - Dossiers des marchés à présenter au Ministère de l’Intérieur |
+| Chapitre 12 - Commission des Soumissions |
+| Titre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure) |
+| Titre IV - Les dispositions du livre III de la législation sur les marchés publics ( secteurs exclus) |
+| Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communes |
+| Chapitre 1er - Les différentes étapes de la procédure |
+| Chapitre 2 - L’esprit et le bien-fondé de cette procédure préalable |
+
+<a id="art_N66356"></a>
 
 ### Art. 100. Législation sur les établissements dangereux et insalubres
 
-Le programme détaillé du cours «Législation sur les établissements dangereux et insalubres» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - La loi relative aux établissements classésLa nomenclature des établissements classésTitre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003Règlement grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de sécurité ;Règlement ministériel du 6 mai 1996 concernant l’intervention d’organismes de contrôle dans le cadre des compétences et attributions de l’Inspection du Travail et des Mines
+Le programme détaillé du cours «Législation sur les établissements dangereux et insalubres» assuré à la section de l’ingénieur technicien est déterminé comme suit:
 
-<a id="art_N62C95"></a>
+| Titre I - La loi relative aux établissements classés |
+| --- |
+| La nomenclature des établissements classés |
+| Titre II - La loi du 10 juin 1999 relative aux établissements classés modifiée par la loi du 19 novembre 2003 |
+| Règlement grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de sécurité ;Règlement ministériel du 6 mai 1996 concernant l’intervention d’organismes de contrôle dans le cadre des compétences et attributions de l’Inspection du Travail et des Mines |
+
+<a id="art_N663BE"></a>
 
 ### Art. 101. Statut des fonctionnaires communaux
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section de l’ingénieur technicien est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section de l’ingénieur technicien est déterminé comme suit:
+
+| Titre I - Analyse du statut juridique du fonctionnaire |
+| --- |
+| Titre II - Mesures concernant le personnel communal contenues dans la loi communale |
+| Titre III - Définition du fonctionnaire public |
+| Titre IV - Conditions de recrutement |
+| Titre V - Nomination provisoire et définitive du fonctionnaire |
+| Titre VI - Affectation du fonctionnaire |
+| Titre VII - Les devoirs du fonctionnaire et les dispositions anti-corruption |
+| Titre VIII - Incompatibilité |
+| Titre IX - La durée de travail |
+| Titre X - La rémunération |
+| Titre XI - La protection du fonctionnaire |
+| Titre XII - Droit d’association et représentation du personnel |
+| Titre XIII - Cessation des fonctions |
+| Titre XIV - La discipline |
+| Titre XV - Le droit de grève |
+| Titre XVI - Le changement de carrière |
 
 ##### Titre VI — Programmes détaillés des cours de la section des carrières supérieures scientifiques.
 
-<a id="art_N62CF8"></a>
+<a id="art_N6647B"></a>
 
 ### Art. 102. La loi communale
 
-Le programme détaillé du cours «La loi communale» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I - Histoire des communes luxembourgeoisesTitre II - Contexte géographique actuelTitre III - L’autonomie communale dans la législation luxembourgeoiseTitre IV - Les organes communauxChapitre 1er - Le Conseil communalChapitre 2 - Le collège des bourgmestre et échevinsChapitre 3 - Le bourgmestreChapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevinsChapitre 5 - Les devoirs de délicatesse des membres du corps communalTitre V - La tutelle administrative et les voies de recoursChapitre 1er - Les organes de la tutelleChapitre 2 - Les moyens de tutelle administrativeChapitre 3 - Les voies de recours contre les mesures de tutelleTitre VI - Les compétences des communes et l’exercice des compétencesChapitre 1er - Les organes de la tutelleChapitre 2 - Les attributions actuelles les plus importantes des communesChapitre 3 - Exercice des compétences communalesTitre VII - La participation des citoyens aux affaires communalesChapitre 1er - InformationChapitre 2 - Droit de prendre connaissance des délibérations du conseil communalChapitre 3 - Publication des règlementsChapitre 4 - RéférendumChapitre 5 - Consultation des administrésTitre VIII - Jetons de présence, indemnités, congé politiqueChapitre 1er - Jetons de présenceChapitre 2 - IndemnitésChapitre 3 - Congé politiqueTitre IX - Les fonctions de secrétaire et de receveurChapitre 1er - Le secrétaire communalChapitre 2 - Le receveur communalTitre X - Le rôle du commissaire de districtTitre XI - La collaboration des communes entre elles et avec d’autres partenaires
+Le programme détaillé du cours «La loi communale» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:
 
-<a id="art_N62DA2"></a>
+| Titre I - Histoire des communes luxembourgeoises |
+| --- |
+| Titre II - Contexte géographique actuel |
+| Titre III - L’autonomie communale dans la législation luxembourgeoise |
+| Titre IV - Les organes communaux |
+| Chapitre 1er - Le Conseil communal |
+| Chapitre 2 - Le collège des bourgmestre et échevins |
+| Chapitre 3 - Le bourgmestre |
+| Chapitre 4 - Le contrôle exercé par le conseil communal sur le collège des bourgmestre et échevins |
+| Chapitre 5 - Les devoirs de délicatesse des membres du corps communal |
+| Titre V - La tutelle administrative et les voies de recours |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les moyens de tutelle administrative |
+| Chapitre 3 - Les voies de recours contre les mesures de tutelle |
+| Titre VI - Les compétences des communes et l’exercice des compétences |
+| Chapitre 1er - Les organes de la tutelle |
+| Chapitre 2 - Les attributions actuelles les plus importantes des communes |
+| Chapitre 3 - Exercice des compétences communales |
+| Titre VII - La participation des citoyens aux affaires communales |
+| Chapitre 1er - Information |
+| Chapitre 2 - Droit de prendre connaissance des délibérations du conseil communal |
+| Chapitre 3 - Publication des règlements |
+| Chapitre 4 - Référendum |
+| Chapitre 5 - Consultation des administrés |
+| Titre VIII - Jetons de présence, indemnités, congé politique |
+| Chapitre 1er - Jetons de présence |
+| Chapitre 2 - Indemnités |
+| Chapitre 3 - Congé politique |
+| Titre IX - Les fonctions de secrétaire et de receveur |
+| Chapitre 1er - Le secrétaire communal |
+| Chapitre 2 - Le receveur communal |
+| Titre X - Le rôle du commissaire de district |
+| Titre XI - La collaboration des communes entre elles et avec d’autres partenaires |
+
+<a id="art_N665D5"></a>
 
 ### Art. 103. Règlements communaux
 
-Le programme détaillé du cours «Règlements communaux» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I: IntroductionChapitre 1er - La règle de droit1. Analyse de la règle de droit2. Les sources du droit - système et hiérarchieTitre II - Le règlement communalChapitre 1er - DéfinitionChapitre 2 - Les catégories de règlements1 - Les règlements d’administration intérieure1.1 le règlement d’ordre intérieur du conseil communal1.2 le règlement-taxe, impôts, taxes, redevances2 - Les règlements de police2.1 le règlement général de police2.2 le règlement de circulation2.3 le plan d’aménagement général2.4 le règlement sur les bâtisses3 - Les règlements d’urgence en matière de police4 - Les sanctions4.1 l’amende de police4.2 les peines supérieures4.3 les peines accessoiresChapitre 3 - Les limites du pouvoir réglementaire communal1 - par rapport au territoire2 - par rapport à son objetChapitre 4 - Les autorités compétentes1 - Le conseil communal2 - Le collège échevinalChapitre 5 - Les formalités de validité et de contrôle1 - Tutelle générale1.1 suspension ministérielle1.2 annulation grand-ducale2 - Tutelle spéciale2.1 approbation grand-ducale2.2 approbation ministérielle3 - Formes spéciales de validité3.1 avis du médecin-inspecteur4 - PublicationChapitre 6 - Les recours en justiceLe recours des communes contre l’autorité supérieure en cas de refus d’approbationLe recours des citoyens contre un règlement qui cause griefTitre III: Etude de cas
+Le programme détaillé du cours «Règlements communaux» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:
 
-<a id="art_N62E60"></a>
+| Titre I: Introduction |
+| --- |
+| Chapitre 1er - La règle de droit |
+| 1. Analyse de la règle de droit |
+| 2. Les sources du droit - système et hiérarchie |
+| Titre II - Le règlement communal |
+| Chapitre 1er - Définition |
+| Chapitre 2 - Les catégories de règlements |
+| 1 - Les règlements d’administration intérieure |
+| 1.1 le règlement d’ordre intérieur du conseil communal |
+| 1.2 le règlement-taxe , impôts, taxes, redevances |
+| 2 - Les règlements de police |
+| 2.1 le règlement général de police |
+| 2.2 le règlement de circulation |
+| 2.3 le plan d’aménagement général |
+| 2.4 le règlement sur les bâtisses |
+| 3 - Les règlements d’urgence en matière de police |
+| 4 - Les sanctions |
+| 4.1 l’amende de police |
+| 4.2 les peines supérieures |
+| 4.3 les peines accessoires |
+| Chapitre 3 - Les limites du pouvoir réglementaire communal |
+| 1 - par rapport au territoire |
+| 2 - par rapport à son objet |
+| Chapitre 4 - Les autorités compétentes |
+| 1 - Le conseil communal |
+| 2 - Le collège échevinal |
+| Chapitre 5 - Les formalités de validité et de contrôle |
+| 1 - Tutelle générale |
+| 1.1 suspension ministérielle |
+| 1.2 annulation grand-ducale |
+| 2 - Tutelle spéciale |
+| 2.1 approbation grand-ducale |
+| 2.2 approbation ministérielle |
+| 3 - Formes spéciales de validité |
+| 3.1 avis du médecin-inspecteur |
+| 4 - Publication |
+| Chapitre 6 - Les recours en justice |
+| Le recours des communes contre l’autorité supérieure en cas de refus d’approbation |
+| Le recours des citoyens contre un règlement qui cause grief |
+| Titre III - Etude de cas |
+
+<a id="art_N66766"></a>
 
 ### Art. 104. Statut des fonctionnaires communaux
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I - Analyse du statut juridique du fonctionnaireTitre II - Mesures concernant le personnel communal contenues dans la loi communaleTitre III - Définition du fonctionnaire publicTitre IV - Conditions de recrutementTitre V - Nomination provisoire et définitive du fonctionnaireTitre VI - Affectation du fonctionnaireTitre VII - Les devoirs du fonctionnaire et les dispositions anti-corruptionTitre VIII - IncompatibilitéTitre IX - La durée de travailTitre X - La rémunérationTitre XI - La protection du fonctionnaireTitre XII - Droit d’association et représentation du personnelTitre XIII - Cessation des fonctionsTitre XIV - La disciplineTitre XV - Le droit de grèveTitre XVI - Le changement de carrière
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:
 
-<a id="art_N62EB8"></a>
+| Titre I - Analyse du statut juridique du fonctionnaire |
+| --- |
+| Titre II - Mesures concernant le personnel communal contenues dans la loi communale |
+| Titre III - Définition du fonctionnaire public |
+| Titre IV - Conditions de recrutement |
+| Titre V - Nomination provisoire et définitive du fonctionnaire |
+| Titre VI - Affectation du fonctionnaire |
+| Titre VII - Les devoirs du fonctionnaire et les dispositions anti-corruption |
+| Titre VIII - Incompatibilité |
+| Titre IX - La durée de travail |
+| Titre X - La rémunération |
+| Titre XI - La protection du fonctionnaire |
+| Titre XII - Droit d’association et représentation du personnel |
+| Titre XIII - Cessation des fonctions |
+| Titre XIV - La discipline |
+| Titre XV - Le droit de grève |
+| Titre XVI - Le changement de carrière |
+
+<a id="art_N66818"></a>
 
 ### Art. 105. Marchés publics
 
-Le programme détaillé du cours «Marchés publics» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I - DéfinitionsTitre II - Les dispositions du livre I de la législation sur les marchés publicsChapitre 1er - ProcéduresChapitre 2 - Les conditions générales d’accès aux marchés publicsChapitre 3 - Formes de mise en adjudicationChapitre 4 - Etablissement du dossier de soumissionChapitre 5 - La demande d’offreChapitre 6 - Le contenu de la soumissionChapitre 7 - Dépôt et ouverture des offresChapitre 8 - Examen des offresChapitre 9 - AdjudicationChapitre 10 - Annulation d’une mise en adjudication et remise en adjudicationChapitre 11 - Dossiers des marchés à présenter au Ministère de l’IntérieurChapitre 12 - Commission des SoumissionsTitre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure)Titre IV - Les dispositions du livre III de la législation sur les marchés publics (secteurs exclus)Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communesChapitre 1er - Les différentes étapes de la procédureChapitre 2 - L’esprit et le bien-fondé de cette procédure préalable
+Le programme détaillé du cours «Marchés publics» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:
 
-<a id="art_N62F22"></a>
+| Titre I - Définitions |
+| --- |
+| Titre II - Les dispositions du livre I de la législation sur les marchés publics |
+| Chapitre 1er - Procédures |
+| Chapitre 2 - Les conditions générales d’accès aux marchés publics |
+| Chapitre 3 - Formes de mise en adjudication |
+| Chapitre 4 - Etablissement du dossier de soumission |
+| Chapitre 5 - La demande d’offre |
+| Chapitre 6 - Le contenu de la soumission |
+| Chapitre 7 - Dépôt et ouverture des offres |
+| Chapitre 8 - Examen des offres |
+| Chapitre 9 - Adjudication |
+| Chapitre 10 - Annulation d’une mise en adjudication et remise en adjudication |
+| Chapitre 11 - Dossiers des marchés à présenter au Ministère de l’Intérieur |
+| Chapitre 12 - Commission des Soumissions |
+| Titre III - Les dispositions du livre II de la législation sur les marchés publics (marchés d’envergure) |
+| Titre IV - Les dispositions du livre III de la législation sur les marchés publics ( secteurs exclus) |
+| Titre V - La procédure préalable au lancement des procédures des marchés publics dans les communes |
+| Chapitre 1er - Les différentes étapes de la procédure |
+| Chapitre 2 - L’esprit et le bien-fondé de cette procédure préalable |
+
+<a id="art_N668ED"></a>
 
 ### Art. 106. Législation sur l’aménagement des communes
 
-Le programme détaillé du cours «Législation sur l’aménagement des communes» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:Titre I: L’aménagement général du territoire (Loi du 21 mai 1999)Chapitre 1er - Les objectifsChapitre 2 - Les instrumentsTitre II: L’aménagement communalChapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national.Chapitre 2 - Les organes compétents2.1 - Les communes2.2 - Le Ministre2.3 - La commission d’aménagementChapitre 3 - Les instruments et leur élaboration3.1 - Le plan d’aménagement général (P.A.G.)3.2 - Le plan d’aménagement particulier (P.A.P.)Chapitre 4 - Les procédures d’adoption du plan d’aménagementChapitre 5 - La mise en œuvre du plan d’aménagement5.1 - La cession gratuite5.2 - Le projet d’exécution5.3 - La convention5.4 - L’autorisation de construireChapitre 6 - L’exécution du plan d’aménagement6.1 - Les zones de développement et zones à restructurer6.2 - Le remembrement urbain6.3 - L’expropriation pour utilité publique6.4 - Disponibilités foncièresChapitre 7 - Les critères d’un urbanisme de qualitéChapitre 8 - Etude de cas pratiquesTitre III - Protection de la nature (loi du 19 janvier 2004 de la nature et des ressources naturelles)Chapitre 1er - Dispositions de la loi ayant une incidence directe sur l’aménagement des communes
+Le programme détaillé du cours «Législation sur l’aménagement des communes» assuré à la section des carrières supérieures scientifiques est déterminé comme suit:
+
+| Titre I: L’aménagement général du territoire (Loi du 21 mai 1999) |
+| --- |
+| Chapitre 1er - Les objectifs |
+| Chapitre 2 - Les instruments |
+| Titre II: L’aménagement communal |
+| Chapitre 1er - L’aménagement communal dans la hiérarchie de l’aménagement du territoire national. |
+| Chapitre 2 - Les organes compétents |
+| 2.1 - Les communes |
+| 2.2 - Le Ministre |
+| 2.3 - La commission d’aménagement |
+| Chapitre 3 - Les instruments et leur élaboration |
+| 3.1 - Le plan d’aménagement général (P.A.G.) |
+| 3.2 - Le plan d’aménagement particulier (P.A.P.) |
+| Chapitre 4 - Les procédures d’adoption du plan d’aménagement |
+| Chapitre 5 - La mise en œuvre du plan d’aménagement |
+| 5.1 - La cession gratuite |
+| 5.2 - Le projet d’exécution |
+| 5.3 - La convention |
+| 5.4 - L’autorisation de construire |
+| Chapitre 6 - L’exécution du plan d’aménagement |
+| 6.1 - Les zones de développement et zones à restructurer |
+| 6.2 - Le remembrement urbain |
+| 6.3 - L’expropriation pour utilité publique |
+| 6.4 - Disponibilités foncières |
+| Chapitre 7 - Les critères d’un urbanisme de qualité |
+| Chapitre 8 - Etude de cas pratiques |
+| Titre III - Protection de la nature (loi du 19 janvier 2004 de la nature et des ressources naturelles) |
+| Chapitre 1er - Dispositions de la loi ayant une incidence directe sur l’aménagement des communes |
 
 ##### Titre VII — Programmes détaillés des cours de la section des carrières moyennes techniques, paramédicales et socio-éducatives.
 
-<a id="art_N62FC4"></a>
+<a id="art_N66A42"></a>
 
 ### Art. 107. Statut des fonctionnaires communaux
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - DéfinitionTitre II - HistoriqueTitre III - Champ d’applicationTitre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive.Titre V - PromotionsTitre VI - Devoirs du fonctionnaire et les dispositions anti-corruptionTitre VII - Droits du fonctionnaireTitre VIII - Droit d’association - représentation du personnelTitre IX - FormationTitre X - Sécurité socialeTitre XI - IncompatibilitésTitre XII - Cessation définitive des fonctionsTitre XIII - DisciplineTitre XIV - Droit de grèveTitre XV - Dossier personnelTitre XVI - Tableau d’avancement
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N6301C"></a>
+| Titre I - Définition |
+| --- |
+| Titre II - Historique |
+| Titre III - Champ d’application |
+| Titre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive. |
+| Titre V - Promotions |
+| Titre VI - Devoirs du fonctionnaire et les dispositions anti-corruption |
+| Titre VII - Droits du fonctionnaire |
+| Titre VIII - Droit d’association - représentation du personnel |
+| Titre IX - Formation |
+| Titre X - Sécurité sociale |
+| Titre XI - Incompatibilités |
+| Titre XII - Cessation définitive des fonctions |
+| Titre XIII - Discipline |
+| Titre XIV - Droit de grève |
+| Titre XV - Dossier personnel |
+| Titre XVI - Tableau d’avancement |
+
+<a id="art_N66AF4"></a>
 
 ### Art. 108. Traitements et pensions des fonctionnaires communaux
 
-Le programme détaillé du cours «Traitements et pensions des fonctionnaires communaux» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionChapitre 1er - Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er - Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2 - Le nombre-indiceChapitre 3 - Les valeurs du pointChapitre 4 - Calculs des carrièresChapitre 5 - AccessoiresChapitre 6 - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
+Le programme détaillé du cours «Traitements et pensions des fonctionnaires communaux» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N6308E"></a>
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - Généralités |
+| 1.1 - Bases légales |
+| 1.2 - Définitions |
+| 1.3 - Règles générales |
+| 1.4 - Entrée en vigueur des décisions concernant les traitements |
+| Titre II - Calcul des traitements |
+| Chapitre 1er - Eléments déductibles |
+| 1.1 - Les cotisations sociales |
+| 1.2 - Les impôts |
+| 1.3 - Les saisies, cessions et cotisations pour les Chambres professionnelles |
+| Chapitre 2 - Le nombre-indice |
+| Chapitre 3 - Les valeurs du point |
+| Chapitre 4 - Calculs des carrières |
+| Chapitre 5 - Accessoires |
+| Chapitre 6 - Divers |
+| 6.1 - Changement de carrière |
+| 6.2 - Changement de communes |
+| 6.3 - Changement de statut |
+| 6.4 - L’impact de certains congés sur les traitements |
+| 6.5 - Trimestre de faveur |
+
+<a id="art_N66BDA"></a>
 
 ### Art. 109. Droit administratif
 
-Le programme détaillé du cours «Droit administratif» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionChapitre 1er - L’Etat1 - Les éléments constitutifs1.1 - Le territoire1.2 - La population1.3 - La puissance politique2 - La vie d’un Etat2.1 - La formation2.2 - La continuité2.3 - La disparition3 - Les différentes formes de l’Etat3.1 - L’Etat unitaire3.2 - L’Etat fédéralChapitre 2 - Les parties politiques1 - Définition2 - Le statut juridique3 - Le rôle des partis politiques4 - La structure des partis politiquesChapitre 3 - Les groupes de pression1 - Définition1.1 - Les différentes catégories de groupes de pression1.2 - Les moyens d’actionTitre II - Les institutions luxembourgeoisesChapitre 1er - La constitution1 - Généralités1.1 - Contenu1.2 - Révision1.3 - Le principe représentatif1.4 - La supériorité de la loi constitutionnelleChapitre 2 - Le Grand-Duc1 - La transmission des pouvoirs grand-ducaux et la situation juridique du Grand-Duc1.1 - La transmission des pouvoirs grand-ducaux1.2 - La situation juridique du Grand-Duc2 - Les prérogatives du Grand-Duc2.1 - L’exercice du pouvoir exécutif2.2 - Les droits régaliens2.3 - Les rapports du Grand-Duc avec la Chambre2.4 - La participation du Grand-Duc au pouvoir législatifChapitre 3 - Le Gouvernement1 - L’organisation du gouvernement2 - Le fonctionnement de l’appareil gouvernemental2.1 - L’action collective du gouvernement2.2 - Le président du gouvernement2.3 - L’action individuelle des ministres3 - La responsabilité des ministresChapitre 4 - Le conseil d’Etat1. - Les caractéristiques du suffrage1.1 - Généralités1.2 - Les conditions de l’électorat pour les élections législatives1.3 - Les incompatibilités du mandat de député2 - Les attributions de la Chambre2.1 - La procédure législative2.2 - Les moyens d’action de la chambre sur le gouvernement
+Le programme détaillé du cours «Droit administratif» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N63180"></a>
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - L’Etat |
+| 1 - Les éléments constitutifs |
+| 1.1 - Le territoire |
+| 1.2 - La population |
+| 1.3 - La puissance politique |
+| 2 - La vie d’un Etat |
+| 2.1 - La formation |
+| 2.2 - La continuité |
+| 2.3 - La disparition |
+| 3 - Les différentes formes de l’Etat |
+| 3.1 - L’Etat unitaire |
+| 3.2 - L’Etat fédéral |
+| Chapitre 2 - Les parties politiques |
+| 1 - Définition |
+| 2 - Le statut juridique |
+| 3 - Le rôle des partis politiques |
+| 4 - La structure des partis politiques |
+| Chapitre 3 - Les groupes de pression |
+| 1 - Définition |
+| 1.1 - Les différentes catégories de groupes de pression |
+| 1.2 - Les moyens d’action |
+| Titre II - Les institutions luxembourgeoises |
+| Chapitre 1er - La constitution |
+| 1 - Généralités |
+| 1.1 - Contenu |
+| 1.2 - Révision |
+| 1.3 - Le principe représentatif |
+| 1.4 - La supériorité de la loi constitutionnelle |
+| Chapitre 2 - Le Grand-Duc |
+| 1 - La transmission des pouvoirs grand-ducaux et la situation juridique du Grand-Duc |
+| 1.1 - La transmission des pouvoirs grand-ducaux |
+| 1.2 - La situation juridique du Grand-Duc |
+| 2 - Les prérogatives du Grand-Duc |
+| 2.1 - L’exercice du pouvoir exécutif |
+| 2.2 - Les droits régaliens |
+| 2.3 - Les rapports du Grand-Duc avec la Chambre |
+| 2.4 - La participation du Grand-Duc au pouvoir législatif |
+| Chapitre 3 - Le Gouvernement |
+| 1 - L’organisation du gouvernement |
+| 2 - Le fonctionnement de l’appareil gouvernemental |
+| 2.1 - L’action collective du gouvernement |
+| 2.2 - Le président du gouvernement |
+| 2.3 - L’action individuelle des ministres |
+| 3 - La responsabilité des ministres |
+| Chapitre 4 - Le conseil d’Etat |
+| 1. - Les caractéristiques du suffrage |
+| 1.1 - Généralités |
+| 1.2 - Les conditions de l’électorat pour les élections législatives |
+| 1.3 - Les incompatibilités du mandat de député |
+| 2 - Les attributions de la Chambre |
+| 2.1 - La procédure législative |
+| 2.2 - Les moyens d’action de la chambre sur le gouvernement |
+
+<a id="art_N66DE0"></a>
 
 ### Art. 110. Les relations entre l’administration et le citoyen
 
-Le programme détaillé du cours «Les relations entre l’administration et le citoyen» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionTitre II - Explications et réflexions relatives aux termes utilisés dans le libellé.Chapitre 1er - Relation, administration, citoyen, administré, clientChapitre 2 - Différentes typologies de relations:Les relations directesLes relations indirectesLes relations volontairesLes relations coercitivesTitre III - Le modèle démocratique et les trois pouvoirs qui le caractérisent.Chapitre 1er - Le pouvoir exécutifChapitre 2 - Le pouvoir législatifChapitre 3 - Le pouvoir judiciaireTitre IV - Définition de l’administration au sens large.Titre V - Le positionnement de l’administration par rapport aux trois pouvoirs.Titre VI - Les différents acteurs dans le modèle démocratique.Chapitre 1er - Citoyens, agents étatiques, agents communauxTitre VII - Exemples de réglementation relatifs aux relations administration-citoyenChapitre 1er - La procédure administrative non-contentieuseChapitre 2 - La procédure administrative contentieuseTitre VIII - Les différents vecteurs de communicationChapitre 1er - Les vecteurs traditionnelsChapitre 2 - Les vecteurs liés aux nouvelles technologiesTitre IX - L’évolution des relations administration-citoyenChapitre 1er - Le processus évolutif de la population bénéficiaire de servicesChapitre 2 - La réforme administrativeChapitre 3 - Réflexions quant aux mouvements de privatisation, de libéralisation, de décentralisation et quant au rôle à assumer par un Etat moderne.Chapitre 4 - L’importance des nouvelles technologies et les débats y reliés.
+Le programme détaillé du cours «Les relations entre l’administration et le citoyen» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N63216"></a>
+| Titre I - Introduction |  |  |
+| --- | --- | --- |
+| Titre II - Explications et réflexions relatives aux termes utilisés dans le libellé. |  |  |
+| Chapitre 1er - Relation, administration, citoyen, administré, client |  |  |
+| Chapitre 2 - Différentes typologies de relations: |  |  |
+| Les relations directes |  |  |
+| Les relations indirectes |  |  |
+| Les relations volontaires |  |  |
+| Les relations coercitives |  |  |
+| Titre III - Le modèle démocratique et les trois pouvoirs qui le caractérisent. |  |  |
+| Chapitre 1er - Le pouvoir exécutif |  |  |
+| Chapitre 2 - Le pouvoir législatif |  |  |
+| Chapitre 3 - Le pouvoir judiciaire |  |  |
+| Titre IV - Définition de l’administration au sens large. |  |  |
+| Titre V - Le positionnement de l’administration par rapport aux trois pouvoirs. |  |  |
+| Titre VI - Les différents acteurs dans le modèle démocratique. |  |  |
+| Chapitre 1er - Citoyens, agents étatiques, agents communaux |  |  |
+| Titre VII - Exemples de réglementation relatifs aux relations administration-citoyen |  |  |
+| Chapitre 1er - La procédure administrative non-contentieuse |  |  |
+| Chapitre 2 - La procédure administrative contentieuse |  |  |
+| Titre VIII - Les différents vecteurs de communication |  |  |
+| Chapitre 1er - Les vecteurs traditionnels |  |  |
+| Chapitre 2 - Les vecteurs liés aux nouvelles technologies |  |  |
+| Titre IX - L’évolution des relations administration-citoyen |  |  |
+| Chapitre 1er | - | Le processus évolutif de la population bénéficiaire de services |
+| Chapitre 2 | - | La réforme administrative |
+| Chapitre 3 | - | Réflexions quant aux mouvements de privatisation, de libéralisation, de décentralisation et quant au rôle à assumer par un Etat moderne. |
+| Chapitre 4 | - | L’importance des nouvelles technologies et les débats y reliés. |
+
+<a id="art_N66F56"></a>
 
 ### Art. 111. La procédure administrative non-contentieuse
 
-Le programme détaillé du cours «La procédure administrative non-contentieuse» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuseLe règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communesTitre I - Objectifs de la législationTitre II - Champ d’applicationTitre III - Collaboration procédurale de l’AdministrationTitre IV - Protection des tiers - Publicité de la procédureTitre V - Procédure consultative préalableTitre VI - Assistance du conseilTitre VII - Communication du dossierTitre VIII - MotivationTitre IX - Notification de la décisionTitre X - Indication des voies de recoursTitre XI - Caractère définitif de la décision; le retrait des décisions administrativesTitre XII - Les révocations et les modifications d’office pour l’avenir des décisions administratives
+Le programme détaillé du cours «La procédure administrative non-contentieuse» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N63273"></a>
+La loi du 1er décembre 1978 réglant la procédure administrative non-contentieuse
+
+Le règlement du 8 juin 1979 relatif à la procédure à suivre par les administrations relevant de l’Etat et des communes
+
+| Titre I - Objectifs de la législation |
+| --- |
+| Titre II - Champ d’application |
+| Titre III - Collaboration procédurale de l’Administration |
+| Titre IV - Protection des tiers - Publicité de la procédure |
+| Titre V - Procédure consultative préalable |
+| Titre VI - Assistance du conseil |
+| Titre VII - Communication du dossier |
+| Titre VIII - Motivation |
+| Titre IX - Notification de la décision |
+| Titre X - Indication des voies de recours |
+| Titre XI - Caractère définitif de la décision; le retrait des décisions administratives |
+| Titre XII - Les révocations et les modifications d’office pour l’avenir des décisions administratives |
+
+<a id="art_N67003"></a>
 
 ### Art. 112. Accueil et encadrement du public
 
-Le programme détaillé du cours «Accueil et encadrement du public» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Définition et historiqueChapitre 1er - Les premiers éléments de la communicationChapitre 2 - Les notions de code et de registre de langues2.1 - La notion de code2.1 - Le codage et décodage2.3 - La communication verbaleChapitre 3 - Interprétation et utilisation de la voix et des paralangages3.1 - La voix3.2 - Les paralangagesChapitre 4 - L’importance du feed-backChapitre 5 - Les freins à la communicationChapitre 6 - La prise de notes6.1 - La prise de notes6.2 - L’écoute6.3 - La reformulationTitre II - L’accueilChapitre 1er - Définition1.1 - Tenir compte des «bulles»1.2 - S’informer pour mieux informer1.3 - S’identifier au téléphoneChapitre 2 - L’accueil - nécessité pour l’accueilli et l’institution2.1 - L’accueilli2.2 - L’accueillantChapitre 3 - Comment réussir l’accueil3.1 - Les savoir-faire3.2 - Le comportementChapitre 4 - L’attitude au téléphone
+Le programme détaillé du cours «Accueil et encadrement du public» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N632FD"></a>
+| Titre I - Définition et historique |
+| --- |
+| Chapitre 1er - Les premiers éléments de la communication |
+| Chapitre 2 - Les notions de code et de registre de langues |
+| 2.1 - La notion de code |
+| 2.1 - Le codage et décodage |
+| 2.3 - La communication verbale |
+| Chapitre 3 - Interprétation et utilisation de la voix et des paralangages |
+| 3.1 - La voix |
+| 3.2 - Les paralangages |
+| Chapitre 4 - L’importance du feed-back |
+| Chapitre 5 - Les freins à la communication |
+| Chapitre 6 - La prise de notes |
+| 6.1 - La prise de notes |
+| 6.2 - L’écoute |
+| 6.3 - La reformulation |
+| Titre II - L’accueil |
+| Chapitre 1er - Définition |
+| 1.1 - Tenir compte des «bulles» |
+| 1.2 - S’informer pour mieux informer |
+| 1.3 - S’identifier au téléphone |
+| Chapitre 2 - L’accueil - nécessité pour l’accueilli et l’institution |
+| 2.1 - L’accueilli |
+| 2.2 - L’accueillant |
+| Chapitre 3 - Comment réussir l’accueil |
+| 3.1 - Les savoir-faire |
+| 3.2 - Le comportement |
+| Chapitre 4 - L’attitude au téléphone |
+
+<a id="art_N6711E"></a>
 
 ### Art. 113. Budget et comptabilité des communes
 
-Le programme détaillé du cours «Budget et comptabilité des communes» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Exécution du budgetChapitre 1er - La notion d’exercice budgétaireChapitre 2 - Les différents acteurs intervenant dans l’exécution du budget2.1 - Leur rôle2.2 - Les moyens à leur disposition pour suffire à leur mission avec projection des différents imprimés2.3 - Leur responsabilitéTitre II - Reddition des comptesChapitre 1er - Description de la comptabilité publiqueChapitre 2 - Présentation des acteurs concernésChapitre 3 - Description de leurs tâches respectivesChapitre 4 - Projection des différentes pièces comptablesChapitre 5 - Les responsabilités des différents acteursTitre III - Exemples pratiques
+Le programme détaillé du cours «Budget et comptabilité des communes» assuré à la section des carrières moyennes techniques, paramédicales et socio-éducatives est déterminé comme suit:
+
+| Titre I - Exécution du budget |
+| --- |
+| Chapitre 1er - La notion d’exercice budgétaire |
+| Chapitre 2 - Les différents acteurs intervenant dans l’exécution du budget |
+| 2.1 - Leur rôle |
+| 2.2 - Les moyens à leur disposition pour suffire à leur mission avec projection des différents imprimés |
+| 2.3 - Leur responsabilité |
+| Titre II - Reddition des comptes |
+| Chapitre 1er - Description de la comptabilité publique |
+| Chapitre 2 - Présentation des acteurs concernés |
+| Chapitre 3 - Description de leurs tâches respectives |
+| Chapitre 4 - Projection des différentes pièces comptables |
+| Chapitre 5 - Les responsabilités des différents acteurs |
+| Titre III - Exemples pratiques |
 
 ##### Titre VIII — Programmes détaillés des cours de la section des carrières inférieures techniques, paramédicales et socio-éducatives.
 
-<a id="art_N6335A"></a>
+<a id="art_N671C8"></a>
 
 ### Art. 114. Statut des fonctionnaires communaux
 
-Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - DéfinitionTitre II - HistoriqueTitre III - Champ d’applicationTitre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive.Titre V - PromotionsTitre VI - Devoirs du fonctionnaire et les dispositions anti-corruptionTitre VII - Droits du fonctionnaireTitre VIII - Droit d’association - représentation du personnelTitre IX - FormationTitre X - Sécurité socialeTitre XI - IncompatibilitésTitre XII - Cessation définitive des fonctionsTitre XIII - DisciplineTitre XIV - Droit de grèveTitre XV - Dossier personnelTitre XVI - Tableau d’avancement
+Le programme détaillé du cours «Statut des fonctionnaires communaux» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N633B2"></a>
+| Titre I - Définition |
+| --- |
+| Titre II - Historique |
+| Titre III - Champ d’application |
+| Titre IV - Recrutement, nomination provisoire, service provisoire, nomination définitive. |
+| Titre V - Promotions |
+| Titre VI - Devoirs du fonctionnaire et les dispositions anti-corruption |
+| Titre VII - Droits du fonctionnaire |
+| Titre VIII - Droit d’association - représentation du personnel |
+| Titre IX - Formation |
+| Titre X - Sécurité sociale |
+| Titre XI - Incompatibilités |
+| Titre XII - Cessation définitive des fonctions |
+| Titre XIII - Discipline |
+| Titre XIV - Droit de grève |
+| Titre XV - Dossier personnel |
+| Titre XVI - Tableau d’avancement |
+
+<a id="art_N6727A"></a>
 
 ### Art. 115. Traitements et pensions des fonctionnaires communaux
 
-Le programme détaillé du cours «Traitements et pensions des fonctionnaires communaux» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionChapitre 1er - Généralités1.1 - Bases légales1.2 - Définitions1.3 - Règles générales1.4 - Entrée en vigueur des décisions concernant les traitementsTitre II - Calcul des traitementsChapitre 1er - Eléments déductibles1.1 - Les cotisations sociales1.2 - Les impôts1.3 - Les saisies, cessions et cotisations pour les Chambres professionnellesChapitre 2 - Le nombre-indiceChapitre 3 - Les valeurs du pointChapitre 4 - Calculs des carrièresChapitre 5 - AccessoiresChapitre 6 - Divers6.1 - Changement de carrière6.2 - Changement de communes6.3 - Changement de statut6.4 - L’impact de certains congés sur les traitements6.5 - Trimestre de faveur
+Le programme détaillé du cours «Traitements et pensions des fonctionnaires communaux» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N63424"></a>
+| Titre I - Introduction |
+| --- |
+| Chapitre 1er - Généralités |
+| 1.1 - Bases légales |
+| 1.2 - Définitions |
+| 1.3 - Règles générales |
+| 1.4 - Entrée en vigueur des décisions concernant les traitements |
+| Titre II - Calcul des traitements |
+| Chapitre 1er - Eléments déductibles |
+| 1.1 - Les cotisations sociales |
+| 1.2 - Les impôts |
+| 1.3 - Les saisies, cessions et cotisations pour les Chambres professionnelles |
+| Chapitre 2 - Le nombre-indice |
+| Chapitre 3 - Les valeurs du point |
+| Chapitre 4 - Calculs des carrières |
+| Chapitre 5 - Accessoires |
+| Chapitre 6 - Divers |
+| 6.1 - Changement de carrière |
+| 6.2 - Changement de communes |
+| 6.3 - Changement de statut |
+| 6.4 - L’impact de certains congés sur les traitements |
+| 6.5 - Trimestre de faveur |
+
+<a id="art_N67360"></a>
 
 ### Art. 116. Organisation des institutions de l’Etat et des communes
 
-Le programme détaillé du cours «Organisation des institutions de l’Etat et des communes» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Le droit publicTitre II - Les éléments constitutifs de l’EtatTitre III - La ConstitutionTitre IV - Les actes législatifsTitre V - Le Grand-DucTitre VI - Le GouvernementTitre VII - La Chambre des DéputésTitre VIII - Le Conseil d’EtatTitre IX - Les Cours et TribunauxTitre X - Les CommunesTitre XI - Les Chambres professionnellesTitre XII - L’Administration publiqueTitre XIII - La législation sociale au Luxembourg
+Le programme détaillé du cours «Organisation des institutions de l’Etat et des communes» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N63470"></a>
+| Titre I - Le droit public |
+| --- |
+| Titre II - Les éléments constitutifs de l’Etat |
+| Titre III - La Constitution |
+| Titre IV - Les actes législatifs |
+| Titre V - Le Grand-Duc |
+| Titre VI - Le Gouvernement |
+| Titre VII - La Chambre des Députés |
+| Titre VIII - Le Conseil d’Etat |
+| Titre IX - Les Cours et Tribunaux |
+| Titre X - Les Communes |
+| Titre XI - Les Chambres professionnelles |
+| Titre XII - L’Administration publique |
+| Titre XIII - La législation sociale au Luxembourg |
+
+<a id="art_N673F7"></a>
 
 ### Art. 117. Les relations entre l’administration et les citoyens
 
-Le programme détaillé du cours «Les relations entre l’administration et les citoyens» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - IntroductionTitre II - Explications et réflexions relatives aux termes utilisés dans le libellé.Chapitre 1er - Relation, administration, citoyen, administré, clientChapitre 2 - Différentes typologies de relations:Les relations directesLes relations indirectesLes relations volontairesLes relations coercitivesTitre III - Le modèle démocratique et les trois pouvoirs qui le caractérisent.Chapitre 1er - Le pouvoir exécutifChapitre 2 - Le pouvoir législatifChapitre 3 - Le pouvoir judiciaireTitre IV - Définition de l’administration au sens large.Titre V - Le positionnement de l’administration par rapport aux trois pouvoirs.Titre VI - Les différents acteurs dans le modèle démocratique.Chapitre 1er - Citoyens, agents étatiques, agents communauxTitre VII - Exemples de réglementation relatifs aux relations administration-citoyenChapitre 1er - La procédure administrative non-contentieuseChapitre 2 - La procédure administrative contentieuseTitre VIII - Les différents vecteurs de communicationChapitre 1er - Les vecteurs traditionnelsChapitre 2 - Les vecteurs liés aux nouvelles technologiesTitre IX - L’évolution des relations administration-citoyenChapitre 1er - Le processus évolutif de la population bénéficiaire de servicesChapitre 2 - La réforme administrativeChapitre 3 - Réflexions quant aux mouvements de privatisation, de libéralisation, de décentralisation et quant au rôle à assumer par un Etat moderne.Chapitre 4 - L’importance des nouvelles technologies et les débats y reliés.
+Le programme détaillé du cours «Les relations entre l’administration et les citoyens» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N63506"></a>
+| Titre I - Introduction |  |  |
+| --- | --- | --- |
+| Titre II - Explications et réflexions relatives aux termes utilisés dans le libellé. |  |  |
+| Chapitre 1er - Relation, administration, citoyen, administré, client |  |  |
+| Chapitre 2 - Différentes typologies de relations: |  |  |
+| Les relations directes |  |  |
+| Les relations indirectes |  |  |
+| Les relations volontaires |  |  |
+| Les relations coercitives |  |  |
+| Titre III - Le modèle démocratique et les trois pouvoirs qui le caractérisent. |  |  |
+| Chapitre 1er - Le pouvoir exécutif |  |  |
+| Chapitre 2 - Le pouvoir législatif |  |  |
+| Chapitre 3 - Le pouvoir judiciaire |  |  |
+| Titre IV - Définition de l’administration au sens large. |  |  |
+| Titre V - Le positionnement de l’administration par rapport aux trois pouvoirs. |  |  |
+| Titre VI - Les différents acteurs dans le modèle démocratique. |  |  |
+| Chapitre 1er - Citoyens, agents étatiques, agents communaux |  |  |
+| Titre VII - Exemples de réglementation relatifs aux relations administration-citoyen |  |  |
+| Chapitre 1er - La procédure administrative non-contentieuse |  |  |
+| Chapitre 2 - La procédure administrative contentieuse |  |  |
+| Titre VIII - Les différents vecteurs de communication |  |  |
+| Chapitre 1er - Les vecteurs traditionnels |  |  |
+| Chapitre 2 - Les vecteurs liés aux nouvelles technologies |  |  |
+| Titre IX - L’évolution des relations administration-citoyen |  |  |
+| Chapitre 1er | - | Le processus évolutif de la population bénéficiaire de services |
+| Chapitre 2 | - | La réforme administrative |
+| Chapitre 3 | - | Réflexions quant aux mouvements de privatisation, de libéralisation, de décentralisation et quant au rôle à assumer par un Etat moderne. |
+| Chapitre 4 | - | L’importance des nouvelles technologies et les débats y reliés. |
+
+<a id="art_N6756D"></a>
 
 ### Art. 118. Accueil et encadrement du public
 
-Le programme détaillé du cours «Accueil et encadrement du public» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Définition et historiqueChapitre 1er - Les premiers éléments de la communicationChapitre 2 - Les notions de code et de registre de langues2.1 - La notion de code2.1 - Le codage et décodage2.3 - La communication verbaleChapitre 3 - Interprétation et utilisation de la voix et des paralangages3.1 - La voix3.2 - Les paralangagesChapitre 4 - L’importance du feed-backChapitre 5 - Les freins à la communicationChapitre 6 - La prise de notes6.1 - La prise de notes6.2 - L’écoute6.3 - La reformulationTitre II - L’accueilChapitre 1er - Définition1.1 - Tenir compte des «bulles»1.2 - S’informer pour mieux informer1.3 - S’identifier au téléphoneChapitre 2 - L’accueil - nécessité pour l’accueilli et l’institution2.1 - L’accueilli2.2 - L’accueillantChapitre 3 - Comment réussir l’accueil3.1 - Les savoir-faire3.2 - Le comportementChapitre 4 - L’attitude au téléphone
+Le programme détaillé du cours «Accueil et encadrement du public» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N63590"></a>
+| Titre I - Définition et historique |
+| --- |
+| Chapitre 1er - Les premiers éléments de la communication |
+| Chapitre 2 - Les notions de code et de registre de langues |
+| 2.1 - La notion de code |
+| 2.1 - Le codage et décodage |
+| 2.3 - La communication verbale |
+| Chapitre 3 - Interprétation et utilisation de la voix et des paralangages |
+| 3.1 - La voix |
+| 3.2 - Les paralangages |
+| Chapitre 4 - L’importance du feed-back |
+| Chapitre 5 - Les freins à la communication |
+| Chapitre 6 - La prise de notes |
+| 6.1 - La prise de notes |
+| 6.2 - L’écoute |
+| 6.3 - La reformulation |
+| Titre II - L’accueil |
+| Chapitre 1er - Définition |
+| 1.1 - Tenir compte des «bulles» |
+| 1.2 - S’informer pour mieux informer |
+| 1.3 - S’identifier au téléphone |
+| Chapitre 2 - L’accueil - nécessité pour l’accueilli et l’institution |
+| 2.1 - L’accueilli |
+| 2.2 - L’accueillant |
+| Chapitre 3 - Comment réussir l’accueil |
+| 3.1 - Les savoir-faire |
+| 3.2 - Le comportement |
+| Chapitre 4 - L’attitude au téléphone |
+
+<a id="art_N67689"></a>
 
 ### Art. 119. Sécurité dans les administrations et services de l’Etat et des communes
 
-Le programme détaillé du cours «Sécurité dans les administrations et services de l’Etat et des communes» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:Titre I - Règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écolesTitre II - Règlement grand-ducal du 6 octobre 1995 portant- adaptation à l’ensemble de la fonction publique de l’Etat et des communes du règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écoles;- continuation de la transposition dans le droit luxembourgeois pour le compte du secteur public des directives communautaires afférentes à la sécurité et à la santé au travail
+Le programme détaillé du cours «Sécurité dans les administrations et services de l’Etat et des communes» assuré à la section des carrières inférieures, paramédicales et socio-éducatives est déterminé comme suit:
 
-<a id="art_N635C8"></a>
+| Titre I | Règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écoles |
+| --- | --- |
+| Titre II | Règlement grand-ducal du 6 octobre 1995 portant |
+| adaptation à l’ensemble de la fonction publique de l’Etat et des communes du règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écoles;continuation de la transposition dans le droit luxembourgeois pour le compte du secteur public des directives communautaires afférentes à la sécurité et à la santé au travail |  |
+
+<a id="art_N676F8"></a>
 
 ### Art. 120.
 
@@ -32367,7 +35511,7 @@ Le présent règlement ministériel est publié au Mémorial.
 
 #### Règlement grand-ducal du 30 septembre 2015 déterminant la mise en oeuvre du plan d'insertion professionnelle des fonctionnaires stagiaires.
 
-<a id="art_N635ED"></a>
+<a id="art_N6771E"></a>
 
 ### Art. 1er. Patron de stage
 
@@ -32385,7 +35529,7 @@ Le patron de stage est choisi parmi les fonctionnaires appartenant à la même c
 
 **(3)** L’Institut national d’administration publique organise de façon régulière des formations continues à l’attention des patrons de stage afin de les préparer et de les former aux fonctions d’accompagnement et d’encadrement des fonctionnaires stagiaires.
 
-<a id="art_N63643"></a>
+<a id="art_N67774"></a>
 
 ### Art. 2. Livret d’accueil
 
@@ -32401,7 +35545,7 @@ Le livret d’accueil comprend les informations suivantes:
 6. une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, s’il y a lieu, sur le système des permanences à assurer;
 7. une note concernant l’organisation de la formation pendant le stage et de l’examen de fin de stage dans l’administration.
 
-<a id="art_N63678"></a>
+<a id="art_N677A9"></a>
 
 ### Art. 3. Carnet de stage
 
@@ -32413,13 +35557,13 @@ Sont à insérer dans le carnet de stage toutes les pièces en relation avec la 
 
 A la fin du stage, le patron de stage transmet le carnet de stage au service du personnel de l’administration qui l’insère dans le dossier personnel du fonctionnaire stagiaire.
 
-<a id="art_N636B2"></a>
+<a id="art_N677E3"></a>
 
 ### Art. 4.
 
 Le présent règlement entre en vigueur le 1er octobre 2015.
 
-<a id="art_N636C5"></a>
+<a id="art_N677F6"></a>
 
 ### Art. 5.
 
@@ -32431,7 +35575,7 @@ Notre Ministre de la Fonction publique et de la Réforme administrative est char
 
 ##### **Section 1ère ** — **Formations organisées dans le cadre de la formation générale**
 
-<a id="art_N6370E"></a>
+<a id="art_N6783F"></a>
 
 ### Art. 1er.
 
@@ -32440,7 +35584,7 @@ Dans le cadre de la formation générale, les fonctionnaires stagiaires suivent 
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les stagiaires, conformément à l’article 3, et
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque stagiaire par le chef d’administration ou son délégué conformément à l’article 4.
 
-<a id="art_N6374F"></a>
+<a id="art_N67880"></a>
 
 ### Art. 2.
 
@@ -32451,7 +35595,7 @@ La formation générale peut être organisée sous forme de :
 3. études personnelles ; ou
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N63793"></a>
+<a id="art_N678C4"></a>
 
 ### Art. 3.
 
@@ -32484,7 +35628,7 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 **(4)** Lorsque le stagiaire est absent lors d’une ou de plusieurs demi-journées de cours présentiel, il est tenu de transmettre à l’Institut, au plus tard le jour ouvrable suivant le début de son absence, un certificat indiquant la raison dûment justifiée de son absence. Le chargé de direction de l’Institut, ci-après le « chargé de direction », en informe le chef d’administration dont relève le stagiaire qui doit lui permettre une nouvelle inscription à ce cours présentiel lorsqu’il le souhaite. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, le stagiaire est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N63867"></a>
+<a id="art_N67998"></a>
 
 ### Art. 4.
 
@@ -32515,7 +35659,7 @@ Une telle demande d’assimilation doit mentionner :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que le stagiaire a effectivement participé à la formation en question.
 
-<a id="art_N6392D"></a>
+<a id="art_N67A5E"></a>
 
 ### Art. 5.
 
@@ -32523,19 +35667,19 @@ Une journée de formation, quelle que soit sa forme au sens de l’article 2, co
 
 Une demi-journée de formation, quelle que soit sa forme au sens de l’article 2, compte pour 3 heures de formation et est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N63968"></a>
+<a id="art_N67A99"></a>
 
 ### Art. 6.
 
 Le temps de formation générale est considéré comme période d’activité de service.
 
-<a id="art_N6399A"></a>
+<a id="art_N67ACB"></a>
 
 ### Art. 7.
 
 Sur demande du chef d’administration, une dispense de la participation à une ou plusieurs formations du tronc commun ou d’un certain nombre d’heures de formation au choix peut être accordée au stagiaire par le chargé de direction pour des raisons exceptionnelles dûment motivées.
 
-<a id="art_N639CC"></a>
+<a id="art_N67AFD"></a>
 
 ### Art. 8.
 
@@ -32545,7 +35689,7 @@ Sur demande du chef d’administration, une dispense de la participation à une 
 
 ##### **Section 2 ** — **Examen de fin de stage**
 
-<a id="art_N63A25"></a>
+<a id="art_N67B56"></a>
 
 ### Art. 9.
 
@@ -32553,7 +35697,7 @@ L’examen de fin de stage des stagiaires comprend un examen de fin de formation
 
 ##### **Section 3 ** — **Examen de fin de formation générale**
 
-<a id="art_N63A67"></a>
+<a id="art_N67B98"></a>
 
 ### Art. 10.
 
@@ -32569,13 +35713,13 @@ Dans ce cas, la décision de dispenser ce stagiaire aussi de la participation au
 
 **(4)** Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation générale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.
 
-<a id="art_N63AFA"></a>
+<a id="art_N67C2B"></a>
 
 ### Art. 11.
 
 Lors des différentes épreuves de l’examen de fin de formation générale, il peut être procédé à un contrôle d’identité des stagiaires.
 
-<a id="art_N63B2C"></a>
+<a id="art_N67C5D"></a>
 
 ### Art. 12.
 
@@ -32583,7 +35727,7 @@ Au cours des épreuves de l’examen de fin de formation générale, toute commu
 
 Le stagiaire qui contrevient à l’une de ces interdictions au cours d’une épreuve de l’examen de fin de formation générale a d’office subi un échec à l’examen de fin de formation générale.
 
-<a id="art_N63B67"></a>
+<a id="art_N67C98"></a>
 
 ### Art. 13.
 
@@ -32601,7 +35745,7 @@ Le stagiaire qui contrevient à l’une de ces interdictions au cours d’une é
 
 **(7)** Lorsque le stagiaire est absent lors d’une épreuve de l’examen de fin de formation générale, il est tenu de transmettre à l’Institut, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le chargé de direction en informe le chef d’administration dont relève le stagiaire qui l’inscrit à une nouvelle épreuve de l’examen de fin de formation générale de la formation du tronc commun concernée. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le stagiaire obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation générale.
 
-<a id="art_N63C00"></a>
+<a id="art_N67D31"></a>
 
 ### Art. 14.
 
@@ -32633,7 +35777,7 @@ Si l’observateur ne présente pas de remarque particulière, le procès-verbal
 
 L’observateur peut également informer directement le ministre par une note écrite s’il a constaté un fait grave pouvant mettre en cause la validité de l’examen.
 
-<a id="art_N63CC8"></a>
+<a id="art_N67DF9"></a>
 
 ### Art. 15.
 
@@ -32643,7 +35787,7 @@ L’observateur peut également informer directement le ministre par une note é
 
 Le secret des questions sélectionnées par le président est à observer jusqu’au début de l’épreuve de l’examen de fin de formation générale concernée. Toute violation de ce secret équivaut à une violation de l’article 11 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.
 
-<a id="art_N63D1F"></a>
+<a id="art_N67E50"></a>
 
 ### Art. 16.
 
@@ -32673,13 +35817,13 @@ Ce procès-verbal est signé par au moins trois membres de la commission d’exa
 
 ##### **Section 4 ** — **Examen de fin de formation spéciale**
 
-<a id="art_N63DEF"></a>
+<a id="art_N67F20"></a>
 
 ### Art. 17.
 
 La partie de la formation spéciale pendant le stage est sanctionnée par un examen de fin de formation spéciale organisé par les administrations et établissements publics de l’État dont relève le stagiaire.
 
-<a id="art_N63E21"></a>
+<a id="art_N67F52"></a>
 
 ### Art. 18.
 
@@ -32692,7 +35836,7 @@ La partie de la formation spéciale pendant le stage est sanctionnée par un exa
 
 **(3)** L’admissibilité à l’examen de fin de formation spéciale peut être prononcée, même si le stagiaire n’a pas encore passé l’examen de fin de formation générale à l’Institut.
 
-<a id="art_N63E97"></a>
+<a id="art_N67FC8"></a>
 
 ### Art. 19.
 
@@ -32712,7 +35856,7 @@ La partie de la formation spéciale pendant le stage est sanctionnée par un exa
 
 **(8)** Lorsque le stagiaire est absent lors d’une épreuve de l’examen de fin de formation spéciale, il est tenu de transmettre au chef d’administration dont relève le stagiaire, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le chef d’administration l’inscrit à une nouvelle épreuve de l’examen de fin de formation spéciale de la formation concernée. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le stagiaire obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation spéciale.
 
-<a id="art_N63F40"></a>
+<a id="art_N68071"></a>
 
 ### Art. 20.
 
@@ -32738,7 +35882,7 @@ Ce procès-verbal est signé par au moins la moitié des membres de la commissio
 
 ##### **Section 5 ** — **Mise en compte des résultats des deux parties de l’examen de fin de stage**
 
-<a id="art_N63FF5"></a>
+<a id="art_N68126"></a>
 
 ### Art. 21.
 
@@ -32754,7 +35898,7 @@ Pour tout calcul, les fractions de points sont arrondies en faveur du stagiaire.
 
 ##### ****
 
-<a id="art_N64092"></a>
+<a id="art_N681C3"></a>
 
 ### Art. 22.
 
@@ -32763,7 +35907,7 @@ Dans le cadre de la formation de début de carrière , les employés suivent :
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 24, et
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le chef d’administration ou son délégué conformément à l’article 25.
 
-<a id="art_N64114"></a>
+<a id="art_N68245"></a>
 
 ### Art. 23.
 
@@ -32774,7 +35918,7 @@ La formation de début de carrière peut être organisée sous forme de :
 3. études personnelles ; ou
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N64158"></a>
+<a id="art_N68289"></a>
 
 ### Art. 24.
 
@@ -32807,7 +35951,7 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 **(4)** Lorsque l’employé est absent lors d’une ou de plusieurs demi-journées de cours présentiel, il est tenu de transmettre à l’Institut, au plus tard le jour ouvrable suivant le début de son absence, un certificat indiquant la raison dûment justifiée de son absence. Le chargé de direction en informe le chef d’administration dont relève l’employé qui doit lui permettre une nouvelle inscription à ce cours présentiel lorsqu’il le souhaite. À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, l’employé est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N6422C"></a>
+<a id="art_N6835D"></a>
 
 ### Art. 25.
 
@@ -32838,7 +35982,7 @@ Une telle demande d’assimilation doit mentionner :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation et attestant que l’employé a effectivement participé à la formation en question.
 
-<a id="art_N642F2"></a>
+<a id="art_N68423"></a>
 
 ### Art. 26.
 
@@ -32846,80 +35990,80 @@ Une journée de formation, quelle que soit sa forme au sens de l’article 23, c
 
 Une demi-journée de formation, quelle que soit sa forme au sens de l’article 23, compte pour 3 heures de formation et est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N6432D"></a>
+<a id="art_N6845E"></a>
 
 ### Art. 27.
 
 Le temps de formation de début de carrière est considéré comme période d’activité de service.
 
-<a id="art_N6435F"></a>
+<a id="art_N68490"></a>
 
 ### Art. 28.
 
 Sur demande du chef d’administration, une dispense de la participation à une ou plusieurs formations du tronc commun ou d’un certain nombre d’heures de formation au choix peut être accordée à l’employé par le chargé de direction pour des raisons exceptionnelles dûment motivées.
 
-<a id="art_N64391"></a>
+<a id="art_N684C2"></a>
 
-### art_N64391
-
-
-
-<a id="art_N64412"></a>
-
-### art_N64412
+### art_N684C2
 
 
 
-<a id="art_N644A3"></a>
+<a id="art_N68543"></a>
 
-### art_N644A3
-
-
-
-<a id="art_N644E8"></a>
-
-### art_N644E8
+### art_N68543
 
 
 
-<a id="art_N6455C"></a>
+<a id="art_N685D4"></a>
 
-### art_N6455C
-
-
-
-<a id="art_N6466A"></a>
-
-### art_N6466A
+### art_N685D4
 
 
 
-<a id="art_N646E0"></a>
+<a id="art_N68619"></a>
 
-### art_N646E0
+### art_N68619
+
+
+
+<a id="art_N6868D"></a>
+
+### art_N6868D
+
+
+
+<a id="art_N6879B"></a>
+
+### art_N6879B
+
+
+
+<a id="art_N68811"></a>
+
+### art_N68811
 
 1. 
 2. 
 3. 
 4. 
 
-<a id="art_N647F1"></a>
+<a id="art_N68922"></a>
 
-### art_N647F1
+### art_N68922
 
 
 
 ##### ****
 
-<a id="art_N648A3"></a>
+<a id="art_N689D4"></a>
 
-### art_N648A3
+### art_N689D4
 
 
 
 ##### **Chapitre 3 ** — **Relation entre l’Institut et les chargés de cours**
 
-<a id="art_N64943"></a>
+<a id="art_N68A74"></a>
 
 ### Art. 38.
 
@@ -32938,7 +36082,7 @@ Le cas échéant, le chargé de direction peut proposer au ministre la révocati
 
 ##### **Chapitre 4 ** — **Dispositions modificatives, abrogatoire et transitoires**
 
-<a id="art_N649C3"></a>
+<a id="art_N68AF4"></a>
 
 ### Art. 39.
 
@@ -32947,7 +36091,7 @@ Le règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure d
 1. du concours d’admission au stage, de l’examen de fin de stage de l’examen de fin de formation spéciale pendant le stage
 2. er de l’examen de fin de stage de l’examen de fin de formation spéciale pendant le stage
 
-<a id="art_N64A15"></a>
+<a id="art_N68B46"></a>
 
 ### Art. 40.
 
@@ -32957,13 +36101,13 @@ Le règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Instit
 2. Le ministre ayant dans ses attributions la Fonction publique nomme les membres de la commission. Le chargé de direction de l’Institut préside la commission. La commission désigne son vice-président. Le président désigne le secrétaire de la commission et le cas échéant un secrétaire adjoint. » ; et
 3. le Chapitre I. du Titre II. est abrogé.
 
-<a id="art_N64A83"></a>
+<a id="art_N68BB4"></a>
 
 ### Art. 41.
 
 Le règlement grand-ducal modifié du 27 octobre 2000 déterminant l’organisation à l’Institut national d’administration publique de la division de la formation pendant le stage du personnel de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière pour les employés de l’État est abrogé.
 
-<a id="art_N64ABA"></a>
+<a id="art_N68BEB"></a>
 
 ### Art. 42.
 
@@ -32976,13 +36120,13 @@ Pour les stagiaires ou employés qui ont commencé leur formation générale sou
 
 ##### **Chapitre 5 ** — **Dispositions finales**
 
-<a id="art_N64B33"></a>
+<a id="art_N68C64"></a>
 
 ### Art. 43.
 
 La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État ».
 
-<a id="art_N64B6A"></a>
+<a id="art_N68C9B"></a>
 
 ### Art. 44.
 
@@ -33000,19 +36144,19 @@ Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Règlement ministériel du 21 juin 2019 fixant les programmes de la formation générale à l’INAP.
 
-<a id="art_N651C3"></a>
+<a id="art_N692F4"></a>
 
 ### Art. 1er.
 
 Les formations du tronc commun au sens du règlement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État, sont organisées pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que pour les employés de l’État dans le cadre de leur formation de début de carrière conformément à l’annexe A du présent règlement.
 
-<a id="art_N651DB"></a>
+<a id="art_N6930C"></a>
 
 ### Art. 2.
 
 Les formations au choix au sens du règlement grand-ducal précité du 31 octobre 2018 sont organisées pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que pour les employés de l’État dans le cadre de leur formation de début de carrière conformément à l’annexe B du présent règlement.
 
-<a id="art_N651F0"></a>
+<a id="art_N69321"></a>
 
 ### Art. 3.
 
@@ -33034,7 +36178,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 ##### *Section 1re* — *Formations organisées dans le cadre de la formation générale*
 
-<a id="art_N68905"></a>
+<a id="art_N6CA36"></a>
 
 ### Art. 1er.
 
@@ -33043,7 +36187,7 @@ Dans le cadre de la formation générale, les fonctionnaires en service provisoi
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les fonctionnaires en service provisoire, conformément à l’article 3 ;
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque fonctionnaire en service provisoire par le collège des bourgmestre et échevins conformément à l’article 4.
 
-<a id="art_N68945"></a>
+<a id="art_N6CA76"></a>
 
 ### Art. 2.
 
@@ -33054,7 +36198,7 @@ La formation générale peut être organisée sous forme de :
 3. études personnelles ;
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N68988"></a>
+<a id="art_N6CAB9"></a>
 
 ### Art. 3.
 
@@ -33082,7 +36226,7 @@ Les propositions ainsi élaborées sont approuvées par le ministre et le détai
 
 À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti ou de nouvelle inscription, le fonctionnaire en service provisoire est considéré comme ayant suivi intégralement la formation du tronc commun.
 
-<a id="art_N68A94"></a>
+<a id="art_N6CBC5"></a>
 
 ### Art. 4.
 
@@ -33123,7 +36267,7 @@ La demande mentionne :
 
 La demande doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que le fonctionnaire en service provisoire a effectivement participé à la formation en question.
 
-<a id="art_N68B76"></a>
+<a id="art_N6CCA7"></a>
 
 ### Art. 5.
 
@@ -33131,19 +36275,19 @@ Une journée de formation de 6 heures est considérée comme une journée d’ac
 
 Une demi-journée de formation de 3 heures de formation est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N68BB1"></a>
+<a id="art_N6CCE2"></a>
 
 ### Art. 6.
 
 Le temps de formation générale est considéré comme période d’activité de service.
 
-<a id="art_N68BE3"></a>
+<a id="art_N6CD14"></a>
 
 ### Art. 7.
 
 Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune, une dispense de la participation à une ou plusieurs formations du tronc commun ou d’un certain nombre d’heures de formation au choix peut être accordée au fonctionnaire en service provisoire par le chargé de direction pour des raisons exceptionnelles dûment motivées.
 
-<a id="art_N68C15"></a>
+<a id="art_N6CD46"></a>
 
 ### Art. 8.
 
@@ -33153,7 +36297,7 @@ Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de c
 
 ##### *Section 2* — *Examen d’admission définitive*
 
-<a id="art_N68C70"></a>
+<a id="art_N6CDA1"></a>
 
 ### Art. 9.
 
@@ -33161,7 +36305,7 @@ L’examen d’admission définitive des fonctionnaires en service provisoire co
 
 ##### *Section 3* — *Examen de fin de formation générale*
 
-<a id="art_N68CB4"></a>
+<a id="art_N6CDE5"></a>
 
 ### Art. 10.
 
@@ -33177,13 +36321,13 @@ Dans ce cas, une dispense de participation de ce fonctionnaire en service provis
 
 **(4)** Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation générale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.
 
-<a id="art_N68D2F"></a>
+<a id="art_N6CE60"></a>
 
 ### Art. 11.
 
 Lors des différentes épreuves de l’examen de fin de formation générale, il peut être procédé à un contrôle d’identité des fonctionnaires en service provisoire.
 
-<a id="art_N68D61"></a>
+<a id="art_N6CE92"></a>
 
 ### Art. 12.
 
@@ -33191,7 +36335,7 @@ Au cours des épreuves de l’examen de fin de formation générale, toute commu
 
 Le fonctionnaire en service provisoire qui contrevient à l’une de ces interdictions au cours d’une épreuve de l’examen de fin de formation générale est considéré comme ayant échoué à l’examen de fin de formation générale.
 
-<a id="art_N68D9C"></a>
+<a id="art_N6CECD"></a>
 
 ### Art. 13.
 
@@ -33211,7 +36355,7 @@ Un échec à l’examen de fin de formation générale entraîne pour le fonctio
 
 À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le fonctionnaire en service provisoire obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation générale.
 
-<a id="art_N68E29"></a>
+<a id="art_N6CF5A"></a>
 
 ### Art. 14.
 
@@ -33243,7 +36387,7 @@ Si l’observateur ne présente pas de remarque particulière, le procès-verbal
 
 L’observateur peut également informer directement le ministre par une note écrite s’il a constaté un fait grave pouvant mettre en cause la validité de l’examen.
 
-<a id="art_N68EF2"></a>
+<a id="art_N6D023"></a>
 
 ### Art. 15.
 
@@ -33253,7 +36397,7 @@ L’observateur peut également informer directement le ministre par une note é
 
 Le secret des questions est à observer jusqu’au début de l’épreuve de l’examen de fin de formation générale concernée. Toute violation de ce secret équivaut à une violation de l’article 13 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
 
-<a id="art_N68F4A"></a>
+<a id="art_N6D07B"></a>
 
 ### Art. 16.
 
@@ -33283,13 +36427,13 @@ Les points obtenus dans chacune des épreuves de l’examen de fin de formation 
 
 ##### *Section 4* — *Examen de fin de formation spéciale*
 
-<a id="art_N68FEA"></a>
+<a id="art_N6D11B"></a>
 
 ### Art. 17.
 
 La formation spéciale prévue à l’article 7 de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique est organisée par le ministre de l’Intérieur.
 
-<a id="art_N69050"></a>
+<a id="art_N6D181"></a>
 
 ### Art. 18.
 
@@ -33297,7 +36441,7 @@ Les conditions de réussite à l’examen de fin de formation spéciale sont cel
 
 ##### *Section 5* — *Mise en compte des résultats des deux parties de l’examen d’admission définitive*
 
-<a id="art_N690A3"></a>
+<a id="art_N6D1D4"></a>
 
 ### Art. 19.
 
@@ -33311,7 +36455,7 @@ Pour tout calcul, les fractions de points sont arrondies en faveur du fonctionna
 
 ##### *Section 6* — *Plan d’insertion professionnelle*
 
-<a id="art_N6911A"></a>
+<a id="art_N6D24B"></a>
 
 ### Art. 20.
 
@@ -33321,7 +36465,7 @@ Le plan d’insertion professionnelle prévu à l’article 4, paragraphes 4 et 
 2. la remise d’un livret d’accueil ;
 3. l’établissement d’un carnet de stage pour les fonctionnaires en service provisoire des carrières visées à l’article 4.
 
-<a id="art_N69160"></a>
+<a id="art_N6D291"></a>
 
 ### Art. 21.
 
@@ -33351,7 +36495,7 @@ Les rapports intermédiaires et le rapport final comprennent un avis du patron d
 
 Les rapports intermédiaires et le rapport final sont portés à la connaissance du fonctionnaire en service provisoire. Celui-ci peut, à chaque fois, présenter ses observations, qui sont à joindre chaque fois à ces rapports.
 
-<a id="art_N69210"></a>
+<a id="art_N6D341"></a>
 
 ### Art. 22.
 
@@ -33372,7 +36516,7 @@ Le livret d’accueil est remis au fonctionnaire en service provisoire au moment
 5. une note sur l’organisation du temps de travail et le contrôle des présences, sur la réglementation relative aux différents types de congés et, le cas échéant, sur le système des permanences à assurer ;
 6. un plan détaillé concernant l’organisation de la formation spéciale, le programme à étudier pour l’examen de fin de for­mation spéciale ainsi que les dates de l’examen de fin de formation spéciale.
 
-<a id="art_N692A3"></a>
+<a id="art_N6D3D4"></a>
 
 ### Art. 23.
 
@@ -33405,7 +36549,7 @@ Le patron de stage est tenu de compléter le carnet de stage avec toutes les pi�
 
 ##### Chapitre 2 — Organisation de la formation de début de carrière des employés communaux
 
-<a id="art_N69346"></a>
+<a id="art_N6D477"></a>
 
 ### Art. 24.
 
@@ -33414,7 +36558,7 @@ Dans le cadre de la formation de début de carrière, les employés communaux su
 1. un ensemble de formations appelées « formations du tronc commun », obligatoires pour tous les employés, conformément à l’article 26 ;
 2. un ensemble de formations appelées « formations au choix », à déterminer individuellement pour chaque employé par le collège des bourgmestre et échevins, le bureau du syndicat de communes ou le président de l’établissement public placé sous la surveillance de la commune conformément à l’article 27.
 
-<a id="art_N69383"></a>
+<a id="art_N6D4B4"></a>
 
 ### Art. 25.
 
@@ -33425,7 +36569,7 @@ La formation de début de carrière peut être organisée sous forme de :
 3. études personnelles ;
 4. en mode alternant cours présentiels, cours en ligne ou études personnelles.
 
-<a id="art_N693C6"></a>
+<a id="art_N6D4F7"></a>
 
 ### Art. 26.
 
@@ -33468,7 +36612,7 @@ Une telle demande d’assimilation mentionne :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
 
-<a id="art_N69523"></a>
+<a id="art_N6D654"></a>
 
 ### Art. 27.
 
@@ -33499,7 +36643,7 @@ Une telle demande d’assimilation mentionne :
 
 La demande d’assimilation doit en outre être accompagnée d’une attestation émise par l’organisme ayant assuré la formation, qui atteste que l’employé communal a effectivement participé à la formation en question.
 
-<a id="art_N695DC"></a>
+<a id="art_N6D70D"></a>
 
 ### Art. 28.
 
@@ -33507,13 +36651,13 @@ Une journée de formation de 6 heures de formation est considérée comme une jo
 
 Une demi-journée de formation de 3 heures est considérée comme une demi-journée d’activité de service de 4 heures.
 
-<a id="art_N69617"></a>
+<a id="art_N6D748"></a>
 
 ### Art. 29.
 
 Le temps de formation de début de carrière est considéré comme période d’activité de service.
 
-<a id="art_N69649"></a>
+<a id="art_N6D77A"></a>
 
 ### Art. 30.
 
@@ -33521,7 +36665,7 @@ Sur demande du collège des bourgmestre et échevins, le bureau du syndicat de c
 
 ##### Chapitre 3 — Relation entre l’Institut et les chargés de cours
 
-<a id="art_N69687"></a>
+<a id="art_N6D7B8"></a>
 
 ### Art. 31.
 
@@ -33535,37 +36679,37 @@ Le cas échéant, le chargé de direction peut proposer au ministre la révocati
 
 ##### Chapitre 4 — Dispositions modificatives, abrogatoires et transitoires
 
-<a id="art_N696E0"></a>
+<a id="art_N6D811"></a>
 
 ### Art. 32.
 
 L’article 1er du règlement grand-ducal modifié du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux est remplacé comme suit :« Art. 1er.La formation spéciale s’applique aux fonctionnaires en service provisoire énumérés à l’article 4, paragraphe 1er, points 1°, 4°, 6° et 8° du règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux. ».
 
-<a id="art_N6973C"></a>
+<a id="art_N6D86D"></a>
 
 ### Art. 33.
 
 L’article 4 du même règlement est remplacé comme suit :« Art. 4.Est admissible à l’examen de fin de formation spéciale, le fonctionnaire en service provisoire qui a suivi l’intégralité des formations de la formation spéciale prévues, à moins d’en avoir été dispensé par le ministre ayant les Affaires intérieures dans ses attributions, en application de l’alinéa 2. La demande d’admissibilité à l’examen de fin de formation spéciale est adressée par le fonctionnaire en service provisoire au ministre ayant les Affaires intérieures dans ses attributions.Une dispense de participation à une ou plusieurs formations de la formation spéciale peut être accordée au fonctionnaire en service provisoire par le ministre précité pour des raisons exceptionnelles dûment motivées.Le ministre ayant les Affaires intérieures dans ses attributions examine les conditions de formation spéciale requises du fonctionnaire en service provisoire et statue sur l’admissibilité du fonctionnaire en service provisoire. L’admissibilité à l’examen de fin de formation spéciale peut être prononcée même si le fonctionnaire en service provisoire n’a pas encore passé l’examen de fin de formation générale à l’Institut national d’administration publique.Le ministre précité informe le fonctionnaire en service provisoire de sa décision. ».
 
-<a id="art_N697A4"></a>
+<a id="art_N6D8D5"></a>
 
 ### Art. 34.
 
 À l’article 6 du même règlement, le dernier alinéa est remplacé par huit alinéas nouveaux, qui prennent la teneur suivante :« Le maximum de points à attribuer s’élève pour chaque épreuve de l’examen de fin de formation spéciale à 60 points. Est considérée comme une note suffisante un nombre total de points supérieur ou égal à 30.A réussi à l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une note suffisante dans chacune des épreuves de l’examen de fin de formation spéciale.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen ou qui a obtenu une note insuffisante dans plus d’une épreuve de l’examen de fin de formation spéciale.Est ajourné à une épreuve de l’examen de fin de formation spéciale, le candidat qui a obtenu au moins les deux tiers du nombre total des points pouvant être obtenus dans le cadre de cet examen et une seule note insuffisante dans l’épreuve de l’examen de fin de formation spéciale concernée.A échoué à l’examen de fin de formation spéciale, le candidat qui n’a pas obtenu une note suffisante dans la matière dans laquelle il a été ajourné.Un échec à l’examen de fin de formation spéciale entraîne pour le candidat la possibilité de se présenter une seconde fois à cet examen.Le fait pour le candidat de ne pas se présenter une seconde fois à l’examen de fin de formation spéciale ou de subir un deuxième échec à l’examen de fin de formation spéciale est éliminatoire.Lorsque le candidat est absent lors d’une épreuve de l’examen de fin de formation spéciale, il est tenu de transmettre au ministre ayant les Affaires intérieures dans ses attributions, au plus tard le jour ouvrable suivant, un certificat indiquant la raison dûment justifiée de son absence. Le ministre ayant les Affaires intérieures dans ses attributions l’inscrit à une nouvelle épreuve de l’examen de fin de formation spéciale de la formation concernée.À défaut de certificat indiquant la raison dûment justifiée d’absence présenté dans le délai imparti, le candidat obtient d’office seulement 1 point pour cette épreuve de l’examen de fin de formation spéciale. ».
 
-<a id="art_N69830"></a>
+<a id="art_N6D961"></a>
 
 ### Art. 35.
 
 Les articles 16 à 21 du règlement grand-ducal modifié du 27 octobre 2000 déterminant à l’Institut national d’administration publique 1. l’organisation de la commission de coordination, 2. la collaboration avec les administrations et établissements publics de l’État et 3. la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes sont abrogés.
 
-<a id="art_N69868"></a>
+<a id="art_N6D999"></a>
 
 ### Art. 36.
 
 Les articles 13 à 16, 21, 22, 26 et 27 du règlement grand-ducal modifié du 27 octobre 2000 portant 1. organisation à l’Institut national d’administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes, 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux sont abrogés.
 
-<a id="art_N698A5"></a>
+<a id="art_N6D9D6"></a>
 
 ### Art. 37.
 
@@ -33577,13 +36721,13 @@ Pour les fonctionnaires en service provisoire, qui ont réussi à l’examen de 
 
 ##### Chapitre 5 — Dispositions finales
 
-<a id="art_N6991C"></a>
+<a id="art_N6DA4D"></a>
 
 ### Art. 38.
 
 La référence au présent règlement se fait sous la forme suivante : « règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux ».
 
-<a id="art_N69953"></a>
+<a id="art_N6DA84"></a>
 
 ### Art. 39.
 
@@ -33603,13 +36747,13 @@ Notre ministre ayant les Affaires communales dans ses attributions et Notre mini
 
 ##### Chapitre I.- — Dispositions générales
 
-<a id="art_N69B7A"></a>
+<a id="art_N6DCAB"></a>
 
 ### Art. 1er.
 
 L’Institut national d’administration publique, dénommé ci-après «l’Institut», est placé sous l’autorité du ministre ayant dans ses attributions la Fonction publique, dénommé ci-après «le ministre».
 
-<a id="art_N69BAF"></a>
+<a id="art_N6DCE0"></a>
 
 ### Art. 2.
 
@@ -33627,7 +36771,7 @@ Les membres du comité ont l’obligation de suivre une formation initiale d’e
 
 Les missions, projets, études ou autres travaux dont l’Institut peut être chargé dans ce cadre doivent faire l’objet, à chaque fois, d’un accord cadre à conclure entre l’institution concernée et le ministre. Cet accord détermine le périmètre du service à prester, les objectifs poursuivis, les effets attendus, les actions envisagées, la durée, le coût et le financement ainsi que la population ciblée qui peut être différente de celle des agents de l’Etat et des communes.
 
-<a id="art_N69C47"></a>
+<a id="art_N6DD78"></a>
 
 ### Art. 3.
 
@@ -33638,7 +36782,7 @@ L’Institut comprend
 - un département chargé de l’organisation du contrôle de la connaissance des trois langues administratives;
 - un département chargé d’assurer des prestations de service pour les autres institutions publiques.
 
-<a id="art_N69C8D"></a>
+<a id="art_N6DDBE"></a>
 
 ### Art. 4.
 
@@ -33646,7 +36790,7 @@ Le temps passé à l’Institut compte comme temps de service pour le calcul du 
 
 ##### Chapitre II.- — Formation pendant le stage ou le service provisoire
 
-<a id="art_N69CCB"></a>
+<a id="art_N6DDFC"></a>
 
 ### Art. 5.
 
@@ -33659,7 +36803,7 @@ Ne sont pas visés par le présent article les fonctionnaires en service proviso
 
 **(2)** D’autres catégories d’agents peuvent être autorisées à suivre la formation pendant le stage dans les conditions et suivant les modalités à déterminer par le règlement grand-ducal prévu à l’article 9.
 
-<a id="art_N69D33"></a>
+<a id="art_N6DE64"></a>
 
 ### Art. 6.
 
@@ -33677,25 +36821,25 @@ Les administrations peuvent être autorisées par le Ministre ayant la Fonction 
 
 Sur demande du chef d’administration, l’Institut assiste les administrations et établissements publics de l’Etat à la conception et à la mise en place de programmes de formation spéciale.
 
-<a id="art_N69DB0"></a>
+<a id="art_N6DEE1"></a>
 
 ### Art. 7.
 
 La formation assurée par l’Institut pendant le service provisoire comprend une partie de formation générale et une partie de formation spéciale. La partie de formation générale est assurée par l’Institut. Un règlement grand-ducal détermine l’intervention du ministre de l’Intérieur, du secteur communal et de l’Institut dans la formation spéciale.
 
-<a id="art_N69DE2"></a>
+<a id="art_N6DF13"></a>
 
 ### Art. 8.
 
 La formation pendant le stage ou le service provisoire est sanctionnée par un examen qui décide de l’admission définitive du stagiaire ou du fonctionnaire en service provisoire.
 
-<a id="art_N69E14"></a>
+<a id="art_N6DF45"></a>
 
 ### Art. 9.
 
 L’organisation de la division de la formation pendant le stage et de la division de la formation pendant le service provisoire, les modalités de la mise en œuvre du plan d’insertion professionnelle ainsi que les modalités de l’examen de fin de stage du personnel de l’Etat et des établissements publics de l’Etat, et de l’examen d’admission définitive du personnel des communes, des syndicats de communes et des établissements publics des communes, sont déterminées par règlement grand-ducal.
 
-<a id="art_N69E46"></a>
+<a id="art_N6DF77"></a>
 
 ### Art. 9bis.
 
@@ -33705,7 +36849,7 @@ L’organisation de la division de la formation pendant le stage et de la divisi
 
 ##### Chapitre III.- — Formation continue
 
-<a id="art_N69EAB"></a>
+<a id="art_N6DFDC"></a>
 
 ### Art. 10.
 
@@ -33718,7 +36862,7 @@ La formation professionnelle prévue à l’article 2 (1) s’applique, en ce qu
 5. aux employés occupés dans les services des communes, des syndicats de communes et des établissements publics des communes;
 6. aux ouvriers des communes, des syndicats de communes et des établissements publics des communes.
 
-<a id="art_N69F00"></a>
+<a id="art_N6E031"></a>
 
 ### Art. 11.
 
@@ -33730,7 +36874,7 @@ Un règlement grand-ducal détermine l’organisation détaillée de la formatio
 
 ##### Chapitre IV.- — Organisation des cours
 
-<a id="art_N69F50"></a>
+<a id="art_N6E081"></a>
 
 ### Art. 12.
 
@@ -33740,7 +36884,7 @@ Les missions, la composition et le fonctionnement de la commission de coordinati
 
 **(2)** Le mode de collaboration entre l’Institut et les administrations et établissements publics de l’Etat et entre l’Institut, le ministère de l’Intérieur et les administrations, syndicats et établissements publics des communes est déterminé par règlement grand-ducal.
 
-<a id="art_N69FA2"></a>
+<a id="art_N6E0D3"></a>
 
 ### Art. 13.
 
@@ -33752,13 +36896,13 @@ Les missions, la composition et le fonctionnement de la commission de coordinati
 
 Les chargés de cours peuvent être de nationalité luxembourgeoise ou étrangère. L’arrêté de nomination détermine les attributions du titulaire, conformément aux programmes d’études et de stage applicables.
 
-<a id="art_N6A004"></a>
+<a id="art_N6E135"></a>
 
 ### Art. 14.
 
 Les chargés de cours sont nommés pour des mandats renouvelables d’une année.
 
-<a id="art_N6A036"></a>
+<a id="art_N6E167"></a>
 
 ### Art. 15.
 
@@ -33766,7 +36910,7 @@ Les chargés de cours sont rémunérés selon un barème à déterminer par règ
 
 ##### Chapitre V.- — Fonctionnement de l’Institut
 
-<a id="art_N6A074"></a>
+<a id="art_N6E1A5"></a>
 
 ### Art. 16.
 
@@ -33780,13 +36924,13 @@ Les chargés de cours sont rémunérés selon un barème à déterminer par règ
 
 **(5)** Le chargé de la direction, le secrétaire et le personnel attaché à l’Institut pourront être chargés par le ministre au sein de son département de toute autre mission.
 
-<a id="art_N6A0ED"></a>
+<a id="art_N6E21E"></a>
 
 ### Art. 17.
 
 Le chargé de la direction bénéficie d’une indemnité non pensionnable de quarante-cinq points indiciaires. La valeur numérique des points est déterminée conformément aux règles fixées par la législation en matière des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N6A11F"></a>
+<a id="art_N6E250"></a>
 
 ### Art. 18.
 
@@ -33822,7 +36966,7 @@ Les membres de la commission prévus sub h) et i) sont nommés par le ministre s
 
 **(4)** La commission administrative arrête son règlement d’ordre interne sous l’approbation du ministre.
 
-<a id="art_N6A1E7"></a>
+<a id="art_N6E318"></a>
 
 ### Art. 19.
 
@@ -33830,7 +36974,7 @@ Dans le cadre des missions définies à l’article 2, l’Institut peut conclur
 
 ##### Chapitre VI.- — Dispositions modificatives
 
-<a id="art_N6A225"></a>
+<a id="art_N6E356"></a>
 
 ### Art. 20.
 
@@ -33838,7 +36982,7 @@ Dans le cadre des missions définies à l’article 2, l’Institut peut conclur
 
 **(2)** La référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes de «loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique».
 
-<a id="art_N6A279"></a>
+<a id="art_N6E3AA"></a>
 
 ### Art. 21.
 
@@ -33848,13 +36992,13 @@ La loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalit
 
 2° A l’article 1er, il est ajouté un nouveau paragraphe III ayant la teneur suivante:«III.1) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli au moins douze jours de formation continue ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.2) Par dérogation aux dispositions du paragraphe qui précède, le fonctionnaire appartenant à l’une des carrières visées aux articles 10, 11 et 12 (4) de la présente loi ne peut être nommé à une fonction du cadre fermé, s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public. Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.»
 
-<a id="art_N6A319"></a>
+<a id="art_N6E44A"></a>
 
 ### Art. 22.
 
 L’article 22, VI, paragraphe 1er, alinéa 1 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:«1) Sur demande du fonctionnaire et sur avis du chef d’administration, le fonctionnaire peut bénéficier des allongements de grades ci-après à la condition d’avoir accompli, au cours de sa carrière, au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.»
 
-<a id="art_N6A361"></a>
+<a id="art_N6E492"></a>
 
 ### Art. 23.
 
@@ -33862,7 +37006,7 @@ Le chapitre 11 de la loi modifiée du 24 décembre 1985 fixant le statut génér
 
 ##### Chapitre VII.- — Disposition abrogatoire
 
-<a id="art_N6A3D1"></a>
+<a id="art_N6E502"></a>
 
 ### Art. 24.
 
@@ -33870,13 +37014,13 @@ La loi du 9 mars 1983 portant création d’un Institut de formation administrat
 
 ##### Chapitre VIII.- — Dispositions transitoires
 
-<a id="art_N6A415"></a>
+<a id="art_N6E546"></a>
 
 ### Art. 25.
 
 Les dispositions des articles 2 à 7 de la loi modifiée du 9 mars 1983 portant création d’un Institut de formation administrative restent applicables aux fonctionnaires stagiaires admis au stage avant le 1er octobre 2000.
 
-<a id="art_N6A450"></a>
+<a id="art_N6E581"></a>
 
 ### Art. 26.
 
@@ -33890,7 +37034,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 ##### Chapitre IX.- — Entrée en vigueur
 
-<a id="art_N6A4BE"></a>
+<a id="art_N6E5EF"></a>
 
 ### Art. 27.
 
@@ -33906,7 +37050,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 ##### Chapitre I. — Champ d’application
 
-<a id="art_N6A554"></a>
+<a id="art_N6E685"></a>
 
 ### Art. 1er.
 
@@ -33914,13 +37058,13 @@ Le présent règlement grand-ducal s’applique au personnel de l’Etat et des 
 
 ##### Chapitre II. — Du programme de formation continue
 
-<a id="art_N6A599"></a>
+<a id="art_N6E6CA"></a>
 
 ### Art. 2.
 
 Le programme de formation continue pour le personnel visé par le présent règlement est établi par l’Institut national d’administration publique dénommé ci-après «l’Institut» en collaboration avec les administrations et établissements publics de l’Etat.
 
-<a id="art_N6A5CB"></a>
+<a id="art_N6E6FC"></a>
 
 ### Art. 3.
 
@@ -33939,13 +37083,13 @@ Le programme de formation continue prévoit:
 
 ##### Chapitre III. — De l’organisation des cours de formation continue
 
-<a id="art_N6A632"></a>
+<a id="art_N6E763"></a>
 
 ### Art. 4.
 
 L’organisation des cours de formation continue pour le personnel visé par le présent règlement est assurée par l’Institut en tenant compte des dispositions prévues aux articles 12 à 15 du règlement grand-ducal du 27 octobre 2000 déterminant à l’Institut national d’administration publique, l’organisation de la commission de coordination, la collaboration avec les administrations et établissements publics de l’Etat et la collaboration avec le Ministère de l’Intérieur et les administrations et les établissements publics des communes.
 
-<a id="art_N6A669"></a>
+<a id="art_N6E79A"></a>
 
 ### Art. 5.
 
@@ -33953,13 +37097,13 @@ L’Institut fixe le nombre maximum de participants à un cours en fonction des 
 
 Les cours de formation continue peuvent être organisés pour des périodes à temps plein ou à mi-temps et en alternance avec des plages de travail effectif.
 
-<a id="art_N6A6A4"></a>
+<a id="art_N6E7D5"></a>
 
 ### Art. 6.
 
 Les agents participant à un séminaire de formation continue bénéficient d’un congé de formation individuel conformément à l’article 40 du règlement grand-ducal modifié du 22 août 1985 fixant le régime des congés des fonctionnaires et employés de l’Etat.
 
-<a id="art_N6A6DB"></a>
+<a id="art_N6E80C"></a>
 
 ### Art. 7.
 
@@ -33969,7 +37113,7 @@ La prise en charge ne peut être assurée que si elle a été sollicitée au pr�
 
 ##### Chapitre IV. — De la certification des cours de formation continue
 
-<a id="art_N6A721"></a>
+<a id="art_N6E852"></a>
 
 ### Art. 8.
 
@@ -33990,7 +37134,7 @@ Le programme de formation continue mentionne pour chaque cours la catégorie dan
 
 ##### Chapitre V. — Du cycle en management public
 
-<a id="art_N6A7AD"></a>
+<a id="art_N6E8DE"></a>
 
 ### Art. 9.
 
@@ -34020,13 +37164,13 @@ Pour le fonctionnaire qui a suivi l’intégralité des séminaires prévus au c
 
 ##### Chapitre VI. — De l’effet de la formation continue
 
-<a id="art_N6A86C"></a>
+<a id="art_N6E99D"></a>
 
 ### Art. 10.
 
 (abrogé)
 
-<a id="art_N6A89E"></a>
+<a id="art_N6E9CF"></a>
 
 ### Art. 11.
 
@@ -34034,7 +37178,7 @@ Pour le fonctionnaire qui a suivi l’intégralité des séminaires prévus au c
 
 ##### Chapitre VII. — De l’assimilation des cours de formation
 
-<a id="art_N6A8DB"></a>
+<a id="art_N6EA0C"></a>
 
 ### Art. 12.
 
@@ -34048,7 +37192,7 @@ L’assimilation se fait en vue d’une dispense à accorder conformément aux d
 
 La décision d’assimilation ne peut en aucun cas excéder la durée effective de l’activité suivie.
 
-<a id="art_N6A94C"></a>
+<a id="art_N6EA7D"></a>
 
 ### Art. 13.
 
@@ -34066,7 +37210,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 ##### Chapitre VIII. — Cycles de formation préparatoires aux groupes de traitement et d’indemnité supérieurs
 
-<a id="art_N6A9BD"></a>
+<a id="art_N6EAEE"></a>
 
 ### Art. 14.
 
@@ -34122,7 +37266,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 **VI.** Les matières prévues aux paragraphes II à V du présent article sont enseignées sous forme de travaux dirigés ou de séminaires.
 
-<a id="art_N6AC5D"></a>
+<a id="art_N6ED8E"></a>
 
 ### Art. 15.
 
@@ -34134,7 +37278,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 L’Institut informe les agents sélectionnés des modalités d’organisation et de déroulement du cycle de formation préparatoire auquel ils sont inscrits.
 
-<a id="art_N6ACC4"></a>
+<a id="art_N6EDF5"></a>
 
 ### Art. 16.
 
@@ -34148,7 +37292,7 @@ Un nouvel échec entraîne l’écartement de l’agent du cycle de formation pr
 
 **III.** L’agent qui a passé avec succès tous les séminaires correspondant au cycle de formation auquel il est inscrit a passé avec succès le cycle de formation.
 
-<a id="art_N6AD2F"></a>
+<a id="art_N6EE60"></a>
 
 ### Art. 17.
 
@@ -34160,7 +37304,7 @@ Un nouvel échec entraîne l’écartement de l’agent du cycle de formation pr
 
 ##### Chapitre IX. — Dispositions transitoires, abrogatoires et finales
 
-<a id="art_N6AD98"></a>
+<a id="art_N6EEC9"></a>
 
 ### Art. 18.
 
@@ -34168,7 +37312,7 @@ Par dérogation à l’article 9 du présent règlement, l’Institut établit u
 
 Le fonctionnaire qui a suivi avec succès l’intégralité du programme spécial en management public se voit délivrer un certificat de qualification en management public.
 
-<a id="art_N6ADD8"></a>
+<a id="art_N6EF09"></a>
 
 ### Art. 19.
 
@@ -34178,19 +37322,19 @@ Le fonctionnaire qui a suivi avec succès l’intégralité du programme spécia
 
 Cette disposition s’applique également au fonctionnaire qui, au moment de l’entrée en vigueur du présent règlement, est classé dans l’avant-dernier grade de sa carrière et pour qui la participation aux cours de formation continue constitue une condition à la promotion conformément aux dispositions de l’article 22 (VI) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
 
-<a id="art_N6AE39"></a>
+<a id="art_N6EF6A"></a>
 
 ### Art. 20.
 
 Le règlement grand-ducal du 17 octobre 1986 déterminant l’organisation des cours de recyclage ou de perfectionnement des fonctionnaires de l’Etat et les éléments à la base de l’avis du chef d’administration est abrogé.
 
-<a id="art_N6AE70"></a>
+<a id="art_N6EFA1"></a>
 
 ### Art. 21.
 
 Le présent règlement entre en vigueur avec effet au 1er janvier 2001.
 
-<a id="art_N6AEA5"></a>
+<a id="art_N6EFD6"></a>
 
 ### Art. 22.
 
@@ -34200,7 +37344,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### Chapitre I. — Champ d’application
 
-<a id="art_N6AEF8"></a>
+<a id="art_N6F029"></a>
 
 ### Art. 1er.
 
@@ -34208,13 +37352,13 @@ Le présent règlement grand-ducal s’applique au personnel des communes, des s
 
 ##### Chapitre II. — Du programme de formation continue
 
-<a id="art_N6AF3D"></a>
+<a id="art_N6F06E"></a>
 
 ### Art. 2.
 
 Le programme de formation continue pour le personnel visé par le présent règlement est établi par l’Institut en collaboration avec le Ministère de l’Intérieur et les administrations communales.
 
-<a id="art_N6AF6F"></a>
+<a id="art_N6F0A0"></a>
 
 ### Art. 3.
 
@@ -34226,13 +37370,13 @@ Ces séminaires ne sont accessibles qu’au personnel répondant aux critères d
 
 ##### Chapitre III. — De l’organisation des cours de formation continue
 
-<a id="art_N6AFD1"></a>
+<a id="art_N6F102"></a>
 
 ### Art. 4.
 
 L’organisation des cours de formation continue pour le personnel visé par le présent règlement est assurée par l’Institut en tenant compte des dispositions prévues aux articles 22 à 25 du règlement grand-ducal du 27 octobre 2000 déterminant à l’Institut national d’administration publique, l’organisation de la commission de coordination, la collaboration avec les administrations et établissements publics de l’Etat ainsi que la collaboration avec le Ministère de l’Intérieur et les administrations et les établissements publics des communes.
 
-<a id="art_N6B008"></a>
+<a id="art_N6F139"></a>
 
 ### Art. 5.
 
@@ -34240,13 +37384,13 @@ L’Institut fixe le nombre maximum de participants à un cours en fonction des 
 
 Les cours de formation continue peuvent être organisés pour des périodes à temps plein ou à mi-temps et en alternance avec des plages de travail effectif.
 
-<a id="art_N6B04F"></a>
+<a id="art_N6F180"></a>
 
 ### Art. 6.
 
 Les agents participant à un séminaire de formation continue bénéficient d'un congé de formation individuel conformément à l'article 42 du règlement grand-ducal modifié du 21 octobre 1987 concernant le temps de travail et les congés des fonctionnaires communaux.
 
-<a id="art_N6B092"></a>
+<a id="art_N6F1C3"></a>
 
 ### Art. 7.
 
@@ -34258,7 +37402,7 @@ La demande de remboursement doit être adressée au Ministre de l’Intérieur q
 
 ##### Chapitre IV. — De la certification des cours de formation continue
 
-<a id="art_N6B0E1"></a>
+<a id="art_N6F212"></a>
 
 ### Art. 8.
 
@@ -34279,7 +37423,7 @@ Le programme de formation continue mentionne pour chaque cours la catégorie dan
 
 ##### Chapitre V. — Du cycle en management public
 
-<a id="art_N6B167"></a>
+<a id="art_N6F298"></a>
 
 ### Art. 9.
 
@@ -34309,13 +37453,13 @@ Pour le fonctionnaire qui a suivi l’intégralité des séminaires prévus au c
 
 ##### Chapitre VI. — De l’effet de la formation continue
 
-<a id="art_N6B22F"></a>
+<a id="art_N6F360"></a>
 
 ### Art. 10.
 
 Les certificats de perfectionnement et les certificats de qualification en management public établis conformément aux dispositions des articles 8 et 9 ci-dessus entrent seuls en ligne de compte pour l’application des dispositions prévues aux articles 15. (II), 17. (III) et 17. (XI) du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat.
 
-<a id="art_N6B266"></a>
+<a id="art_N6F397"></a>
 
 ### Art. 11.
 
@@ -34327,7 +37471,7 @@ Les certificats de perfectionnement et les certificats de qualification en manag
 
 ##### Chapitre VII. — De l’assimilation d’autres cours de formation
 
-<a id="art_N6B2CD"></a>
+<a id="art_N6F3FE"></a>
 
 ### Art. 12.
 
@@ -34339,7 +37483,7 @@ L’assimilation se fait en vue d’une dispense à accorder conformément aux d
 
 La décision d’assimilation ne peut en aucun cas excéder la durée effective de l’activité suivie.
 
-<a id="art_N6B31F"></a>
+<a id="art_N6F450"></a>
 
 ### Art. 13.
 
@@ -34357,7 +37501,7 @@ Elle doit en outre être accompagnée d’une attestation émise par l’organis
 
 ##### Chapitre VIII. — Dispositions additionnelles
 
-<a id="art_N6B390"></a>
+<a id="art_N6F4C1"></a>
 
 ### Art. 14.
 
@@ -34369,7 +37513,7 @@ Le règlement grand-ducal modifié du 4 avril 1964 portant assimilation des trai
 4. Sur sa demande, le fonctionnaire peut bénéficier des allongements de grade ci-après à la condition d’avoir accompli au cours de sa carrière au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
 5. 1. Les fonctionnaires énumérés ci-après sont classés au grade 9 (grade de computation 7), ils avancent au grade 10 trois ans après la nomination définitive, ils avancent au grade 11 trois ans après avoir atteint le grade 10, ils avancent au grade 12 trois ans après avoir atteint le grade 11 et ils avancent au grade 13 trois ans après avoir atteint le grade 12 ; pour ces fonctionnaires le grade 13 est allongé par les échelons 455 et 466 sous condition qu’ils aient accompli au moins trente journées de formation continue attestées par des certificats de perfectionnement établis par l’Institut national d’administration publique, ou d’en avoir été dispensés pour des raisons dûment motivées par le Ministre de l’Intérieur.
 
-<a id="art_N6B442"></a>
+<a id="art_N6F573"></a>
 
 ### Art. 15.
 
@@ -34380,13 +37524,13 @@ Le règlement grand-ducal du 5 octobre 1987 concernant les allongements et les s
 
 ##### Chapitre IX. — Dispositions transitoires
 
-<a id="art_N6B49B"></a>
+<a id="art_N6F5CC"></a>
 
 ### Art. 16.
 
 Par dérogation à l’article 9 du présent règlement, l’Institut établit un programme spécial en management public pour le fonctionnaire appartenant à l’une des carrières visées à l’article 15 sub XIV, XIV bis.1 et XIV bis 2 du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat et qui, au moment de l’entrée en vigueur du présent règlement est classé dans le dernier grade de promotion du cadre ouvert. Le fonctionnaire qui a accompli avec succès l’intégralité du programme spécial en management public se voit délivrer un certificat de qualification en management public.
 
-<a id="art_N6B4D2"></a>
+<a id="art_N6F603"></a>
 
 ### Art. 17.
 
@@ -34398,7 +37542,7 @@ Cette disposition s’applique également au fonctionnaire qui, au moment de l�
 
 **III.** Les dipsositions des paragraphes I. et II. du présent article sont également applicables aux fonctionnaires de la carrière du secrétaire et du receveur communal qui sont classés au moment de l'entrée en vigueur de l'article 11 du présent règlement au dernier grade de leur carrière, respectivement à l'avant-dernier ou antépénultième grade de leur carrière.
 
-<a id="art_N6B54F"></a>
+<a id="art_N6F680"></a>
 
 ### Art. 18.
 
@@ -34410,7 +37554,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 ##### Chapitre X. — Dispositions abrogatoires et finales
 
-<a id="art_N6B5AD"></a>
+<a id="art_N6F6DE"></a>
 
 ### Art. 19.
 
@@ -34420,7 +37564,7 @@ Le fonctionnaire qui fait partie d’une carrière dont le cadre ouvert comprend
 
 Toutefois les dispositions des chapitres IV à IX n’entrent en vigueur qu’avec effet au 1er janvier 2002.
 
-<a id="art_N6B60D"></a>
+<a id="art_N6F73E"></a>
 
 ### Art. 20.
 
@@ -34432,13 +37576,13 @@ Notre Ministre de l’Intérieur et Notre Ministre ayant dans ses attributions l
 
 #### Version consolidée applicable au 04/01/1983 : Arrêté grand-ducal du 8 mars 1961 concernant l'assurance obligatoire contre les accidents des fonctionnaires et employés publics jouissant d'un régime spécial de pensions de retraite.
 
-<a id="art_N6B673"></a>
+<a id="art_N6F7A4"></a>
 
 ### Art. 1er.
 
 Les dispositions du livre II, titre 1er du code des assurances sociales concernant l’assurance obligatoire contre les accidents du travail, ainsi que les règlements pris en exécution de ces dispositions sont applicables aux fonctionnaires et employés des établissements, exploitations et administrations de l’Etat, des communes et des établissements publics ou d'utilité publique jouissant d'un régime spécial de pensions de retraite, sous réserve des dérogations prévues par le présent arrêté.
 
-<a id="art_N6B6B0"></a>
+<a id="art_N6F7E1"></a>
 
 ### Art. 2.
 
@@ -34450,13 +37594,13 @@ Pour les employés communaux jouissant d’un traitement partiel, le montant de 
 
 Si ces employés sont bénéficiaires de différents traitements partiels le traitement de référence sera constitué par le traitement intégral correspondant aux différentes portions de traitements afférents.
 
-<a id="art_N6B700"></a>
+<a id="art_N6F831"></a>
 
 ### Art. 3.
 
 
 
-<a id="art_N6B731"></a>
+<a id="art_N6F862"></a>
 
 ### Art. 4.
 
@@ -34468,7 +37612,7 @@ A partir du 1er du mois qui suit le début de la 66e année, la rente d’accide
 
 L’excédent éventuel sera retenu sur la rente.
 
-<a id="art_N6B781"></a>
+<a id="art_N6F8B2"></a>
 
 ### Art. 5.
 
@@ -34476,13 +37620,13 @@ Pour l’application des articles 116 à 118 du code des assurances sociales il 
 
 Lorsque la cause de suspension viendra à défaillir pour le tout ou pour partie de la rente, l’alinéa 5 de l’article 118 du code des assurances sociales sera applicable.
 
-<a id="art_N6B7CE"></a>
+<a id="art_N6F8FF"></a>
 
 ### Art. 6.
 
 En cas de rachat de la rente, le capital sera calculé sur la portion de rente non suspendue. Lorsque la cause de suspension viendra à défaillir, il y aura lieu à paiement du capital correspondant à la portion suspendue suivant sa valeur au jour du rachat supplétif.
 
-<a id="art_N6B808"></a>
+<a id="art_N6F939"></a>
 
 ### Art. 7.
 
@@ -34492,7 +37636,7 @@ A cet effet, les employeurs susvisés seront répartis en trois classes de risqu
 
 Les montants à rembourser conformément aux dispositions qui précèdent seront augmentés de deux pour-cent pour les intérêts et de six pour-cent pour les frais d’administration.
 
-<a id="art_N6B84C"></a>
+<a id="art_N6F97D"></a>
 
 ### Art. 8.
 
@@ -34500,7 +37644,7 @@ Notre Ministre d’Etat, Président du Gouvernement, Ministre des Finances, Notr
 
 #### Version consolidée applicable au 15/09/2012 : Règlement grand-ducal du 17 décembre 2010 concernant l'assurance accident dans le cadre de l'enseignement précoce, préscolaire, scolaire et universitaire.
 
-<a id="art_N6B896"></a>
+<a id="art_N6F9C7"></a>
 
 ### Art. 1er.
 
@@ -34524,7 +37668,7 @@ En dehors des activités inscrites au programme des établissements visés à l�
 10. les activités de nature sportive, artistique, culturelle, écologique et scientifique;
 11. l’activité des servants de messe appelés pendant les heures de classe à assister à des cérémonies religieuses.
 
-<a id="art_N6B91C"></a>
+<a id="art_N6FA4D"></a>
 
 ### Art. 2.
 
@@ -34542,19 +37686,19 @@ Par activités péripréscolaires, périscolaires et périuniversitaires au sens
 
 Pour les activités visées à l’alinéa précédent, l’assurance ne s’étend non seulement à l’activité elle-même, mais également au séjour éventuel, aux loisirs connexes à l’activité ainsi qu’aux trajets y relatifs.
 
-<a id="art_N6B983"></a>
+<a id="art_N6FAB4"></a>
 
 ### Art. 3.
 
 Le droit aux prestations prévues par le présent règlement est suspendu jusqu’à concurrence du montant des prestations de même nature auxquelles ouvrent droit à l’étranger les activités dont il s’agit.
 
-<a id="art_N6B9B5"></a>
+<a id="art_N6FAE6"></a>
 
 ### Art. 4.
 
 Le règlement grand-ducal 23 février 2001 concernant l’assurance accident dans le cadre de l’enseignement précoce, préscolaire, scolaire et universitaire est abrogé.
 
-<a id="art_N6B9EC"></a>
+<a id="art_N6FB1D"></a>
 
 ### Art. 5.
 
@@ -34566,7 +37710,7 @@ Notre Ministre de la Sécurité sociale, Notre Ministre de l’Éducation nation
 
 ##### Chapitre 1er — Désignation des délégués des institutions et juridictions de sécurité sociale
 
-<a id="art_N6BA53"></a>
+<a id="art_N6FB84"></a>
 
 ### Art. 1er.
 
@@ -34588,7 +37732,7 @@ La Chambre de commerce, la Chambre des métiers et la Chambre d’agriculture co
 
 Le président de la chambre professionnelle nouvellement constituée fixe la date et l’heure de la désignation des délégués des institutions et juridictions de sécurité sociale, ainsi que la durée du scrutin qui sont communiquées aux membres des collèges électoraux par lettre recommandée.
 
-<a id="art_N6BAC9"></a>
+<a id="art_N6FBFA"></a>
 
 ### Art. 2.
 
@@ -34606,7 +37750,7 @@ A défaut de désignation conjointe, la désignation des sept délégués des em
 
 ##### Section 1 — Présentation de candidatures
 
-<a id="art_N6BB42"></a>
+<a id="art_N6FC73"></a>
 
 ### Art. 3.
 
@@ -34620,7 +37764,7 @@ Toute liste doit comprendre un nombre de candidats égal au double du nombre des
 
 Chaque liste électorale doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l’expiration du délai imparti pour les déclarations de candidatures, ces listes sont désignées par une lettre d’ordre par le président de la chambre professionnelle.
 
-<a id="art_N6BB98"></a>
+<a id="art_N6FCC9"></a>
 
 ### Art. 4.
 
@@ -34630,7 +37774,7 @@ Les électeurs peuvent prendre inspection des listes déposées au siège de la 
 
 ##### Section 2 — Dispense d'élections
 
-<a id="art_N6BBDF"></a>
+<a id="art_N6FD10"></a>
 
 ### Art. 5.
 
@@ -34644,7 +37788,7 @@ En cas de pluralité de listes, il est procédé à des élections conformément
 
 ##### Section 1 — Mode de scrutin
 
-<a id="art_N6BC3B"></a>
+<a id="art_N6FD6C"></a>
 
 ### Art. 6.
 
@@ -34652,7 +37796,7 @@ Les élections se font à l'urne au scrutin de liste suivant les règles de la r
 
 ##### Section 2 — Bureau électoral
 
-<a id="art_N6BC79"></a>
+<a id="art_N6FDAA"></a>
 
 ### Art. 7.
 
@@ -34664,7 +37808,7 @@ Aucun candidat ne peut faire partie du bureau électoral.
 
 ##### Section 3 — Bulletins de vote
 
-<a id="art_N6BCC9"></a>
+<a id="art_N6FDFA"></a>
 
 ### Art. 8.
 
@@ -34674,7 +37818,7 @@ Chaque liste est surmontée d'une case réservée au vote, deux autres cases se 
 
 ##### Section 4 — Opérations de vote
 
-<a id="art_N6BD10"></a>
+<a id="art_N6FE41"></a>
 
 ### Art. 9.
 
@@ -34682,13 +37826,13 @@ Les noms des électeurs qui se présentent pour voter sont pointés sur les list
 
 Après avoir exprimé son vote, l'électeur montre au président du bureau électoral le bulletin dûment replié et le dépose dans l'urne. Le secrétaire prend note du dépôt.
 
-<a id="art_N6BD4B"></a>
+<a id="art_N6FE7C"></a>
 
 ### Art. 10.
 
 Le droit de vote est exercé personnellement. En cas d'empêchement d'un membre effectif du collège électoral, le vote par procuration peut être exercé par un membre suppléant. Pour être admis au vote, ce dernier doit présenter au bureau électoral la lettre recommandée visée à l'article 1er, alinéa 6, ainsi qu'une procuration signée par le membre effectif empêché. Acte en est fait au procès-verbal.
 
-<a id="art_N6BD80"></a>
+<a id="art_N6FEB1"></a>
 
 ### Art. 11.
 
@@ -34704,7 +37848,7 @@ L’électeur qui aurait détérioré son bulletin, peut en obtenir un autre par
 
 ##### Section 5 — Dépouillement des bulletins
 
-<a id="art_N6BDE2"></a>
+<a id="art_N6FF13"></a>
 
 ### Art. 12.
 
@@ -34712,7 +37856,7 @@ Après la clôture du scrutin, le président du bureau électoral mêle tous les
 
 Les scrutateurs font le recensement et en tiennent note séparément. Ces notes sont paraphées par le président du bureau électoral et annexées au procès-verbal.
 
-<a id="art_N6BE1D"></a>
+<a id="art_N6FF4E"></a>
 
 ### Art. 13.
 
@@ -34725,13 +37869,13 @@ Est nul tout bulletin qui:
 
 ##### Section 6 — Attribution des sièges
 
-<a id="art_N6BE6B"></a>
+<a id="art_N6FF9C"></a>
 
 ### Art. 14.
 
 Le bureau électoral arrête le nombre des bulletins nuls et des bulletins valables et les fait inscrire au procès-verbal. Il en est de même pour les suffrages de liste et les suffrages nominatifs.
 
-<a id="art_N6BE9D"></a>
+<a id="art_N6FFCE"></a>
 
 ### Art. 15.
 
@@ -34739,7 +37883,7 @@ Les suffrages donnés à une liste en totalité (suffrages de liste) ou aux cand
 
 Le nombre total des suffrages valables des listes est divisé par le nombre des délégués effectifs à élire augmenté de un. Est appelé «nombre électoral» le nombre entier immédiatement supérieur au quotient ainsi obtenu.
 
-<a id="art_N6BED8"></a>
+<a id="art_N70009"></a>
 
 ### Art. 16.
 
@@ -34751,13 +37895,13 @@ En cas d’égalité, le siège disponible est attribué à la liste qui a recue
 
 Les opérations de calcul sont à faire par un scrutateur et le secrétaire du bureau électoral.
 
-<a id="art_N6BF28"></a>
+<a id="art_N70059"></a>
 
 ### Art. 17.
 
 Les sièges sont attribués dans chaque liste aux candidats ayant obtenu le plus grand nombre de suffrages nominatifs. En cas d'égalité de suffrages, le candidat le plus âgé est élu.
 
-<a id="art_N6BF5A"></a>
+<a id="art_N7008B"></a>
 
 ### Art. 18.
 
@@ -34767,13 +37911,13 @@ Il en est de même des délégués suppléants qui sont proclamés pour chaque l
 
 Est de même proclamé le nombre de suffrages nominatifs obtenus par chacun des autres candidats dans l’ordre des suffrages obtenus. Ils acquièrent rang de suppléant au fur et à mesure qu’il y a lieu de compléter le nombre de ceux-ci.
 
-<a id="art_N6BF9E"></a>
+<a id="art_N700CF"></a>
 
 ### Art. 19.
 
 Le procès-verbal des opérations qui précèdent est dressé et signé séance tenante et communiqué aux institutions et juridictions de sécurité sociale respectives. Le procès-verbal des opérations qui précèdent est conservé dans les archives des institutions et juridictions de sécurité sociale. Expédition en est transmise au plus tard le lendemain de sa signature au ministre ayant dans ses attributions la Sécurité sociale. Les bulletins sont tenus à la disposition du ministre ayant dans ses attributions la Sécurité sociale jusqu'au surlendemain de l'expiration du délai prévu pour les réclamations dans des contenants scellés par le président. Ils sont détruits dans la suite.
 
-<a id="art_N6BFD0"></a>
+<a id="art_N70101"></a>
 
 ### Art. 20.
 
@@ -34789,7 +37933,7 @@ S’il ne peut être pourvu au remplacement d’un membre suppléant conforméme
 
 ##### Section 7 — Contestations
 
-<a id="art_N6C032"></a>
+<a id="art_N70163"></a>
 
 ### Art. 21.
 
@@ -34805,13 +37949,13 @@ Suivant les circonstances, il y a lieu à annulation des élections dans leur en
 
 ##### Chapitre 4 — Disposition abrogatoire et formule exécutoire
 
-<a id="art_N6C095"></a>
+<a id="art_N701C6"></a>
 
 ### Art. 22.
 
 Le règlement grand-ducal modifié du 13 juillet 1993 ayant pour objet la désignation des délégués des assurés et des employeurs dans les institutions d'assurance maladie, le centre commun de la sécurité sociale, les caisses de pension, le Fonds de compensation commun au régime général de pension et les juridictions de sécurité sociale ainsi que des délégués des assurés dans l'association d'assurance contre les accidents, section industrielle est abrogé.
 
-<a id="art_N6C0CB"></a>
+<a id="art_N701FC"></a>
 
 ### Art. 23.
 
@@ -34831,13 +37975,13 @@ Notre Ministre de la Santé et de la Sécurité sociale est chargé de l'exécut
 
 ##### Chapitre 1er. — Le Comité interministériel de l'égalité des femmes et des hommes
 
-<a id="art_N6C46B"></a>
+<a id="art_N7059C"></a>
 
 ### Art. 1er.
 
 Il est créé auprès du Ministre ayant dans ses attributions l’égalité des chances, désigné ci-après le «Ministre», un comité interministériel de l’égalité entre femmes et hommes, dénommé ci-après le «comité».
 
-<a id="art_N6C4A0"></a>
+<a id="art_N705D1"></a>
 
 ### Art. 2.
 
@@ -34851,13 +37995,13 @@ Il est créé auprès du Ministre ayant dans ses attributions l’égalité des 
 
 **(5)** Un secrétaire, désigné par le Ministre, est adjoint au comité sans voix délibératoire.
 
-<a id="art_N6C519"></a>
+<a id="art_N7064A"></a>
 
 ### Art. 3.
 
 Le président convoque le Comité au moins deux fois par an et fixe l'ordre du jour.
 
-<a id="art_N6C54B"></a>
+<a id="art_N7067C"></a>
 
 ### Art. 4.
 
@@ -34871,7 +38015,7 @@ S’il y a lieu, le comité est en charge du suivi de la mise en œuvre des plan
 
 **(4)** Le comité peut assurer l’accompagnement général du programme d’action positive de la fonction publique.
 
-<a id="art_N6C5BD"></a>
+<a id="art_N706EE"></a>
 
 ### Art. 5.
 
@@ -34879,7 +38023,7 @@ Les membres du comité remplissent la fonction de correspondants en matière d�
 
 ##### Chapitre 2. — Les cellules de compétences en genre
 
-<a id="art_N6C603"></a>
+<a id="art_N70734"></a>
 
 ### Art. 6.
 
@@ -34891,7 +38035,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### *Section 1.* — *Définitions et champ d’application*
 
-<a id="art_N6C66B"></a>
+<a id="art_N7079C"></a>
 
 ### Art. 1er.
 
@@ -34911,7 +38055,7 @@ Le rejet d’un tel comportement par la personne concernée ou sa soumission à 
 
 **(4)** Tout comportement consistant à enjoindre à quiconque de pratiquer à l’encontre de personnes une discrimination fondée sur le sexe est considéré comme une discrimination au sens de la présente loi.
 
-<a id="art_N6C6F6"></a>
+<a id="art_N70827"></a>
 
 ### Art. 2.
 
@@ -34924,7 +38068,7 @@ Le rejet d’un tel comportement par la personne concernée ou sa soumission à 
 
 ##### *Section 2. * — *Disposition particulière*
 
-<a id="art_N6C751"></a>
+<a id="art_N70882"></a>
 
 ### Art. 3.
 
@@ -34934,19 +38078,19 @@ Le rejet d’un tel comportement par la personne concernée ou sa soumission à 
 
 ##### *Section 3.* — *Voies de recours et application du droit*
 
-<a id="art_N6C7AE"></a>
+<a id="art_N708DF"></a>
 
 ### Art. 4.
 
 Toute association sans but lucratif d’importance nationale dont l’activité statutaire consiste à combattre la discrimination au sens de l’article 1er qui jouit de la personnalité juridique depuis au moins un an à la date des faits et qui a été préalablement agréée par le ministre ayant la Justice dans ses attributions peut exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article 1er et portant un préjudice direct ou indirect aux intérêts collectifs qu’elle a pour objet de défendre en vertu de leur objet statutaire, même si elle ne justifie pas d’un intérêt matériel ou moral.
 
-<a id="art_N6C7E6"></a>
+<a id="art_N70917"></a>
 
 ### Art. 5.
 
 Toutefois quand les faits auront été commis envers des personnes considérées individuellement, l’association sans but lucratif visée à l’article qui précède, ne pourra exercer par voie principale les droits reconnus à la victime d’une discrimination qu’à la condition que ces personnes déclarent expressément et par écrit ne pas s’y opposer.
 
-<a id="art_N6C818"></a>
+<a id="art_N70949"></a>
 
 ### Art. 6.
 
@@ -34958,7 +38102,7 @@ Toute disposition ou tout acte contraire aux deux paragraphes qui précèdent es
 
 ##### *Section 4. * — *Disposition finale*
 
-<a id="art_N6C86D"></a>
+<a id="art_N7099E"></a>
 
 ### Art. 7.
 
@@ -34970,7 +38114,7 @@ Est à considérer comme nulle et non avenue toute disposition figurant notammen
 
 ##### Code du travail
 
-<a id="art_N6C8CC"></a>
+<a id="art_N709FD"></a>
 
 ### Art. L. 241-1.
 
@@ -34990,7 +38134,7 @@ Le rejet de tels comportements par la personne concernée ou sa soumission à ce
 
 **(4)** Tout comportement consistant à enjoindre à quiconque de pratiquer à l’encontre de personnes une discrimination fondée sur le sexe est considéré comme une discrimination au sens du présent chapitre.
 
-<a id="art_N6C988"></a>
+<a id="art_N70AB9"></a>
 
 ### Art. L. 241-2.
 
@@ -35001,13 +38145,13 @@ Le présent titre s’applique à tous les salariés dont les relations de trava
 3. les conditions d’emploi et de travail, y compris les conditions de licenciement ainsi que le salaire;
 4. l’affiliation à, et l’engagement dans, une organisation de salariés ou d’employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d’organisation.
 
-<a id="art_N6CA17"></a>
+<a id="art_N70B48"></a>
 
 ### Art. L. 241-3.
 
 En ce qui concerne l’accès à l’emploi, y compris la formation qui y donne accès, une différence de traitement fondée sur une caractéristique liée au sexe ne constitue pas une discrimination au sens de la présente loi lorsque, en raison de la nature des activités professionnelles particulières concernées ou du cadre dans lequel elles se déroulent une telle caractéristique constitue une exigence professionnelle essentielle et déterminante, pour autant que l’objectif soit légitime et que l’exigence soit proportionnée.
 
-<a id="art_N6CA5F"></a>
+<a id="art_N70B90"></a>
 
 ### Art. L. 241-4.
 
@@ -35015,13 +38159,13 @@ En ce qui concerne l’accès à l’emploi, y compris la formation qui y donne 
 
 **(2)** Le principe de l’égalité de traitement n’empêche pas le maintien ou l’adoption de mesures spécifiques destinées à prévenir ou à compenser des désavantages liés au motif visé à l’article L. 241-1 paragraphe (1) pour assurer la pleine égalité dans la pratique.
 
-<a id="art_N6CAB6"></a>
+<a id="art_N70BE7"></a>
 
 ### Art. L. 241-5.
 
 Toute association sans but lucratif d’importance nationale dont l’activité statutaire consiste à combattre la discrimination au sens de l’article L. 241-1 qui jouit de la personnalité juridique depuis au moins un an à la date des faits et qui a été préalablement agréée par le ministre ayant la Justice dans ses attributions peut exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article L. 241-1 et portant un préjudice direct ou indirect aux intérêts collectifs qu’elle a pour objet de défendre en vertu de leur objet statutaire, même si elle ne justifie pas d’un intérêt matériel ou moral.
 
-<a id="art_N6CAF8"></a>
+<a id="art_N70C29"></a>
 
 ### Art. L. 241-6.
 
@@ -35029,13 +38173,13 @@ Toute association sans but lucratif d’importance nationale dont l’activité 
 
 **(2)** Les organisations syndicales justifiant de la représentativité nationale générale ou d’une représentativité dans un secteur particulièrement important de l’économie en vertu des articles L. 161-4 et L. 161-6 peuvent exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article L. 241-1 et portant un préjudice direct ou indirect aux intérêts collectifs qu’elles ont pour objet de défendre en vertu de leur objet, même si elles ne justifient pas d’un intérêt matériel ou moral.
 
-<a id="art_N6CB55"></a>
+<a id="art_N70C86"></a>
 
 ### Art. L. 241-7.
 
 Toutefois quand les faits auront été commis envers des personnes considérées individuellement, l’association sans but lucratif respectivement l’organisation syndicale visées aux articles L. 241-5 et L. 241-6 qui précèdent, ne pourront exercer par voie principale les droits reconnus à la victime d’une discrimination qu’à la condition que ces personnes déclarent expressément et par écrit ne pas s’y opposer.
 
-<a id="art_N6CB97"></a>
+<a id="art_N70CC8"></a>
 
 ### Art. L. 241-8.
 
@@ -35051,19 +38195,19 @@ Il est statué d’urgence, les parties entendues ou dûment convoquées.
 
 Les convocations par voie de greffe prévues à l’alinéa qui précède contiendront, sous peine de nullité, les mentions prescrites à l’article 80 dunouveau code de procédure civile.
 
-<a id="art_N6CC16"></a>
+<a id="art_N70D47"></a>
 
 ### Art. L. 241-9.
 
 Est à considérer comme nulle et non avenue toute disposition figurant notamment dans un contrat, une convention individuelle ou collective ou un règlement intérieur d’entreprise, ainsi que dans les règles régissant les associations à but lucratif ou non lucratif, les professions indépendantes et les organisations de salariés et d’employeurs contraire au principe de l’égalité de traitement au sens de la présente loi.
 
-<a id="art_N6CC58"></a>
+<a id="art_N70D89"></a>
 
 ### Art. L. 241-10.
 
 (L. 18 janvier 2012) Pour autant que leurs compétences sont concernées par les matières visées à l’article L. 241-2, l’Inspection du travail et des mines et l’Agence pour le développement de l’emploi sont chargées, chacune en ce qui la concerne, de veiller à l’application du présent chapitre.
 
-<a id="art_N6CC9E"></a>
+<a id="art_N70DCF"></a>
 
 ### Art. L. 241-11.
 
@@ -35071,13 +38215,13 @@ Est à considérer comme nulle et non avenue toute disposition figurant notammen
 
 En cas de récidive, cette peine peut être portée au double du maximum.
 
-<a id="art_N6CCF3"></a>
+<a id="art_N70E24"></a>
 
 ### Art. L. 242-1.
 
 Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L. 543-14, paragraphe (2) ainsi que des articles L. 524-6 et L. 526-2, paragraphe (3), est considéré comme sexe sous-représenté dans une profession ou un métier déterminés celui dont la représentation est égale ou inférieure à quarante pour cent de l’ensemble des salariés exerçant cette profession ou ce métier sur le territoire national.
 
-<a id="art_N6CD3B"></a>
+<a id="art_N70E6C"></a>
 
 ### Art. L. 242-2.
 
@@ -35093,7 +38237,7 @@ Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L
 
 **(4)** (L. 15 décembre 2016)En cas de sous-représentation justifiée, le ministre ayant l’emploi dans ses attributions procède à la prise en charge de la quote-part à charge du Fonds pour l’emploi.
 
-<a id="art_N6CDCD"></a>
+<a id="art_N70EFE"></a>
 
 ### Art. L. 242-3.
 
@@ -35103,7 +38247,7 @@ Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L
 
 **(3)** Pour pouvoir se prévaloir des dérogations prévues aux paragraphes (1) et (2), l’employeur est tenu de se munir préalablement d’une attestation écrite du ministre ayant dans ses attributions l’Egalité des chances certifiant l’état de sous-représentation des salariés du sexe qu’il s’agit de privilégier.
 
-<a id="art_N6CE44"></a>
+<a id="art_N70F75"></a>
 
 ### Art. L. 243-1.
 
@@ -35123,13 +38267,13 @@ Les mesures visées au sens du présent chapitre sont:
 
 **(3)** Par entreprise, on entend tout organisme légalement établi et exerçant la plus grande partie de son activité sur le territoire du Grand-Duché de Luxembourg.
 
-<a id="art_N6CEE5"></a>
+<a id="art_N71016"></a>
 
 ### Art. L. 243-2.
 
 Le présent chapitre vise les actions positives dans le secteur privé de l’économie quelle que soit l’activité professionnelle concernée, mais ne s’applique pas au secteur public.
 
-<a id="art_N6CF1E"></a>
+<a id="art_N7104F"></a>
 
 ### Art. L. 243-3.
 
@@ -35141,7 +38285,7 @@ Le présent chapitre vise les actions positives dans le secteur privé de l’é
 
 A défaut de délégation du personnel, les projets d’actions sont soumis à l’avis d’un comité dont la composition est fixée par règlement grand-ducal.
 
-<a id="art_N6CFA4"></a>
+<a id="art_N710D5"></a>
 
 ### Art. L. 243-4.
 
@@ -35163,7 +38307,7 @@ Les modalités de la mise en œuvre de ces critères font l’objet d’un règl
 
 **(3)** Les entreprises dont les projets ont été approuvés signent une convention de réalisation du projet avec le ministre ayant dans ses attributions les Actions positives.
 
-<a id="art_N6D041"></a>
+<a id="art_N71172"></a>
 
 ### Art. L. 243-5.
 
@@ -35175,7 +38319,7 @@ Cette subvention varie en fonction du coût total des actions positives de l’e
 
 Un règlement grand-ducal peut préciser les modalités d’exécution de la contribution de l’Etat.
 
-<a id="art_N6D0AA"></a>
+<a id="art_N711DB"></a>
 
 ### Art. L. 244-1.
 
@@ -35183,25 +38327,25 @@ Aux fins du présent chapitre, le principe de l’égalité de traitement impliq
 
 (...)*(abrogé par laloi du 13 mai 2008)*
 
-<a id="art_N6D10E"></a>
+<a id="art_N7123F"></a>
 
 ### Art. L. 244-2.
 
 Le présent chapitre s’applique à tout litige dans le cadre d’une procédure civile ou administrative des secteurs public et privé ayant pour objet l’accès à l’emploi, le salaire, les possibilités de promotion et de formation professionnelle, l’accès à une profession indépendante, les conditions de travail ainsi que les régimes professionnels de sécurité sociale.
 
-<a id="art_N6D16E"></a>
+<a id="art_N7129F"></a>
 
 ### Art. L. 244-3.
 
 Dès qu’une personne qui s’estime lésée par le non-respect à son égard du principe de l’égalité de traitement établit, devant une juridiction ou une autre instance compétente, des faits qui permettent de présumer l’existence d’une discrimination directe ou indirecte, il incombe à la partie défenderesse de prouver qu’il n’y a pas eu violation du principe de l’égalité de traitement.
 
-<a id="art_N6D1B0"></a>
+<a id="art_N712E1"></a>
 
 ### Art. L. 245-1.
 
 Aux fins du présent chapitre, on entend par salariés tous les salariés tels que définis à l’article L. 121-1, ainsi que les stagiaires, les apprentis et les élèves et étudiants occupés pendant les vacances scolaires.
 
-<a id="art_N6D204"></a>
+<a id="art_N71335"></a>
 
 ### Art. L. 245-2. (L. 13 mai 2008)
 
@@ -35215,13 +38359,13 @@ Le comportement visé peut être physique, verbal ou non verbal.
 
 L’élément intentionnel du comportement est présumé.
 
-<a id="art_N6D29D"></a>
+<a id="art_N713CE"></a>
 
 ### Art. L. 245-3.
 
 Le harcèlement sexuel à l’occasion des relations de travail, tel que défini à l’article L. 245-2, est considéré comme contraire au principe de l’égalité de traitement au sens des dispositions du présent titre.
 
-<a id="art_N6D2DF"></a>
+<a id="art_N71410"></a>
 
 ### Art. L. 245-4.
 
@@ -35231,7 +38375,7 @@ Le harcèlement sexuel à l’occasion des relations de travail, tel que défini
 
 **(3)** L’employeur est encore tenu de prendre toutes les mesures de prévention nécessaires pour assurer la protection de la dignité de toute personne à l’occasion des relations de travail. Ces mesures doivent comprendre des mesures d’information.
 
-<a id="art_N6D34B"></a>
+<a id="art_N7147C"></a>
 
 ### Art. L. 245-5.
 
@@ -35245,7 +38389,7 @@ En cas de résiliation du contrat de travail, le salarié peut demander dans les
 
 Les convocations par voie de greffe prévues à l’alinéa qui précède contiennent sous peine de nullité les mentions prescrites à l’article 80 duNouveau Code de procédure civile.
 
-<a id="art_N6D3C7"></a>
+<a id="art_N714F8"></a>
 
 ### Art. L. 245-6. (L. 23 juillet 2015)
 
@@ -35255,13 +38399,13 @@ Les convocations par voie de greffe prévues à l’alinéa qui précède contie
 
 Le salarié qui fait l’objet d’un harcèlement sexuel a le droit de se faire accompagner et assister par un délégué dans les entrevues avec l’employeur, ou le représentant de celui-ci, qui ont lieu dans le cadre de l’enquête sur le harcèlement sexuel.
 
-<a id="art_N6D434"></a>
+<a id="art_N71565"></a>
 
 ### Art. L. 245-7.
 
 Le salarié victime d’un acte de harcèlement sexuel peut refuser de poursuivre l’exécution du contrat de travail et résilier le contrat de travail sans préavis pour motif grave avec dommages et intérêts à charge de l’employeur dont la faute, appréciée par référence à l’article L. 245-4, a occasionné la résiliation immédiate.
 
-<a id="art_N6D482"></a>
+<a id="art_N715B3"></a>
 
 ### Art. L. 245-8.
 
@@ -35271,7 +38415,7 @@ L’Inspection du travail et des mines est chargée de veiller à l’applicatio
 
 #### Version consolidée applicable au 30/05/1977 : Règlement ministériel du 26 janvier 1973 fixant les indemnités forfaitaires spéciales revenant au personnel de l'administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux.
 
-<a id="art_N6D4E5"></a>
+<a id="art_N71616"></a>
 
 ### Art. 1er.
 
@@ -35281,13 +38425,13 @@ A partir du 1er juin 1977, le personnel ci-après énuméré de l’administrati
 2. 0,55 euros par jour, lorsque la durée des courses journalières dépasse 1 heure sans atteindre 4 heures.
 2. er 2,16 euros par repas principal pris au dehors.
 
-<a id="art_N6D543"></a>
+<a id="art_N71674"></a>
 
 ### Art. 2.
 
 Est abrogé le règlement ministériel du 15 mars 1966 fixant les indemnités de séjour revenant au personnel de l’administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux à l’exception, toutefois, de la disposition figurant à l’article 1er, sub 4) de ce même règlement.
 
-<a id="art_N6D57D"></a>
+<a id="art_N716AE"></a>
 
 ### Art. 3.
 
@@ -35295,13 +38439,13 @@ Le présent règlement sera publié au Mémorial.
 
 #### Règlement ministériel du 5 juillet 1989 portant fixation d'une indemnité de repas revenant au personnel de la carrière du facteur astreint à effectuer des tournées doubles.
 
-<a id="art_N6D5C4"></a>
+<a id="art_N716F5"></a>
 
 ### Art. 1er.
 
 Le personnel de la carrière du facteur astreint à effectuer une tournée de distribution double a droit à une indemnité forfaitaire de repas s´élevant à 0,5 du taux fixé à titre d´indemnité de jour à l´article 22 du règlement grand-ducal modifié du 18 décembre 1972 sur les frais de route et de séjour des fonctionnaires et employés de l´Etat.
 
-<a id="art_N6D5D7"></a>
+<a id="art_N71708"></a>
 
 ### Art. 2.
 
@@ -35309,7 +38453,7 @@ Le présent règlement sera publié au Mémorial et entrera en vigueur le jour d
 
 #### Règlement du Gouvernement en Conseil du 6 avril 2007 portant fixation de l'indemnité kilométrique pour les cycles, cyclomoteurs et motocycles utilisés pour voyages de service.
 
-<a id="art_N6D5FC"></a>
+<a id="art_N7172D"></a>
 
 ### Art. 1er.
 
@@ -35320,13 +38464,13 @@ Pour les voyages de service qui se font par cycle, cyclomoteur ou motocycle, app
 | b) cyclomoteur (vélomoteur): | 10 cents par km; |
 | c) motocycle (motocyclette): | 28 cents par km. |
 
-<a id="art_N6D640"></a>
+<a id="art_N71771"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le 1er mai 2007.
 
-<a id="art_N6D653"></a>
+<a id="art_N71784"></a>
 
 ### Art. 3.
 
@@ -35334,7 +38478,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l'ex
 
 #### Règlement grand-ducal du 2 juillet 2009 portant indemnisation respectivement compensation des entraînements et des instructions militaires ainsi que du service de garde du personnel militaire cadre de l’armée.
 
-<a id="art_N6D678"></a>
+<a id="art_N717A9"></a>
 
 ### Art. 1er.
 
@@ -35354,19 +38498,19 @@ Le personnel militaire de carrière qui participe à des entraînements et instr
 | 3) | Entraînements et instructions militaires de toutes catégories dont la durée est inférieure à vingt-quatre heures: |  |  |  |
 |  | – | compensation en nature à raison d’une heure par heure prestée. |  |  |
 
-<a id="art_N6D78D"></a>
+<a id="art_N718BE"></a>
 
 ### Art. 2.
 
 Le personnel militaire de carrière astreint à des services de garde bénéficie d’un temps de repos de 12 heures par garde de 24 heures prestée en semaine respectivement de 20 heures par garde prestée les jours chômés ou fériés.
 
-<a id="art_N6D79D"></a>
+<a id="art_N718CE"></a>
 
 ### Art. 3.
 
 Le règlement grand-ducal du 23 décembre 1974 sur les frais de route et de séjour à accorder aux membres de l’armée participant à des manœuvres ou exercices est abrogé.
 
-<a id="art_N6D7B2"></a>
+<a id="art_N718E3"></a>
 
 ### Art. 4.
 
@@ -35374,19 +38518,19 @@ Notre Ministre de la Défense est chargé de l’exécution du présent règleme
 
 #### Règlement du Gouvernement en Conseil du 19 juin 2015 portant fixation de l'indemnité kilométrique pour les voitures utilisées pour voyages de service.
 
-<a id="art_N6D7D7"></a>
+<a id="art_N71908"></a>
 
 ### Art. 1er.
 
 Pour les voyages de service qui se font en automobiles appartenant à des fonctionnaires ou employés de l’Etat, l’indemnité kilométrique est fixée à 30 centimes d’euro.
 
-<a id="art_N6D7EA"></a>
+<a id="art_N7191B"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.
 
-<a id="art_N6D7FA"></a>
+<a id="art_N7192B"></a>
 
 ### Art. 3.
 
@@ -35396,7 +38540,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 ##### Chapitre 1er — Dispositions générales
 
-<a id="art_N6D82C"></a>
+<a id="art_N7195D"></a>
 
 ### Art. 1er.
 
@@ -35415,7 +38559,7 @@ Pour l’application du présent règlement on entend par :
 2. lorsqu’il s’agit d’un voyage de service au Grand-Duché de Luxembourg ou dans un pays tiers, le ministre ayant les Affaires étrangères dans ses attributions ;
 8. « ministre du ressort » : le membre du Gouvernement ayant dans ses attributions le département ministériel dont relève l’agent qui est appelé à voyager.
 
-<a id="art_N6D888"></a>
+<a id="art_N719B9"></a>
 
 ### Art. 2.
 
@@ -35425,7 +38569,7 @@ Le détachement ou l’affectation d’un agent dans un autre département, admi
 
 Les voyages à l’étranger qui se font dans un périmètre ne dépassant pas de 25 kilomètres la limite frontière luxembourgeoise sont assimilés aux voyages à l’intérieur du pays.
 
-<a id="art_N6D8AA"></a>
+<a id="art_N719DB"></a>
 
 ### Art. 3.
 
@@ -35435,7 +38579,7 @@ Une prolongation du séjour à l’étranger à titre privé doit être dûment 
 
 Les frais encourus par une prolongation du séjour à titre privé ne sont remboursés à l’agent qu’à hauteur du montant des frais encourus sans cette prolongation.
 
-<a id="art_N6D8CC"></a>
+<a id="art_N719FD"></a>
 
 ### Art. 4.
 
@@ -35443,13 +38587,13 @@ Lorsque les frais de route et de séjour sont assumés par un organisme étrange
 
 Si les frais de route et de séjour octroyés à l’agent par l’organisme étranger ou international sont supérieurs à l’indemnisation au sens du présent règlement, l’agent bénéfice de cette différence sur base de justificatifs.
 
-<a id="art_N6D8E5"></a>
+<a id="art_N71A16"></a>
 
 ### Art. 5.
 
 Le remboursement des frais de route et de séjour à l’agent se fait sur présentation d’une déclaration approuvée par l’approbateur.
 
-<a id="art_N6D8F5"></a>
+<a id="art_N71A26"></a>
 
 ### Art. 6.
 
@@ -35457,7 +38601,7 @@ Les membres du Gouvernement ont droit au remboursement de leurs dépenses réell
 
 ##### Chapitre 2 — Frais de route
 
-<a id="art_N6D910"></a>
+<a id="art_N71A41"></a>
 
 ### Art. 7.
 
@@ -35470,7 +38614,7 @@ En principe chaque déplacement pour le compte de l’État doit se faire aux co
 
 L’appréciation des exceptions visées à l’alinéa 2 est de la compétence de l’approbateur.
 
-<a id="art_N6D93D"></a>
+<a id="art_N71A6E"></a>
 
 ### Art. 8.
 
@@ -35480,7 +38624,7 @@ Si le trajet entre le domicile et le lieu de mission est plus court que celui en
 
 En cas de détachement de l’agent, le nouveau lieu de travail est considéré comme point de départ au sens du présent article.
 
-<a id="art_N6D95F"></a>
+<a id="art_N71A90"></a>
 
 ### Art. 9.
 
@@ -35492,7 +38636,7 @@ Les agents participant à des cours de formation obligatoires ou facultatifs ou 
 
 Les agents participant à des cours de formation générale à plein temps dans le cadre du stage de formation ou dans le cadre de la période d’initiation n’ont pas droit au remboursement des frais de route.
 
-<a id="art_N6D98A"></a>
+<a id="art_N71ABB"></a>
 
 ### Art. 10.
 
@@ -35509,7 +38653,7 @@ En principe, les agents ont droit au remboursement des billets de la classe éco
 3. déplacement des ambassadeurs et des agents qui les accompagnent lors de la remise des lettres de créance respectivement des lettres de rappel ;
 4. lorsque des billets de la classe économique ne sont pas disponibles. Une attestation établie par la compagnie d’aviation concernée est à joindre, le cas échéant, à la déclaration de remboursement.
 
-<a id="art_N6D9D8"></a>
+<a id="art_N71B09"></a>
 
 ### Art. 11.
 
@@ -35527,13 +38671,13 @@ Les frais de déplacement en taxi ou en voiture de location avec chauffeur sur c
 
 ##### Chapitre 3 — Frais de séjour
 
-<a id="art_N6DA3E"></a>
+<a id="art_N71B6F"></a>
 
 ### Art. 12.
 
 Les frais de séjour comprennent une indemnité de jour et une indemnité de nuit, dont les montants sont fixés par règlement du Gouvernement en conseil.
 
-<a id="art_N6DA4E"></a>
+<a id="art_N71B7F"></a>
 
 ### Art. 13.
 
@@ -35547,7 +38691,7 @@ Les frais de séjour comprennent une indemnité de jour et une indemnité de nui
 
 **(3)** Les frais de représentation ne relèvent pas du champ d’application du présent règlement.
 
-<a id="art_N6DA93"></a>
+<a id="art_N71BC4"></a>
 
 ### Art. 14.
 
@@ -35557,7 +38701,7 @@ La note d’hôtel est remboursée chaque fois que l’agent s’est vu dans l�
 
 Si une note d’hôtel n’est pas présentée, une indemnité forfaitaire équivalente à 20 pour cent de l’indemnité de nuit est allouée à l’agent, sous réserve que l’indemnité de nuit n’est pas supportée par un organisme tiers. Si l’agent a voyagé à bord d’un avion et ne peut présenter une note d’hôtel, aucune indemnité de nuit ne lui est allouée.
 
-<a id="art_N6DAB5"></a>
+<a id="art_N71BE6"></a>
 
 ### Art. 15.
 
@@ -35573,7 +38717,7 @@ Si une note d’hôtel n’est pas présentée, une indemnité forfaitaire équi
 
 Les dérogations prévues à l’alinéa 1er doivent faire l’objet d’une autorisation formelle préalable de la part de l’approbateur.
 
-<a id="art_N6DAFA"></a>
+<a id="art_N71C2B"></a>
 
 ### Art. 16.
 
@@ -35594,7 +38738,7 @@ Ce retour en famille consiste pour l’agent au remboursement des frais de route
 
 Le retour en famille peut être remplacé à l’aller comme au retour par le remboursement des frais de route du conjoint ou partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats et ses enfants pour rejoindre l’agent sur le lieu de détachement suivant les modalités décrites ci-dessus. Dans l’hypothèse dûment motivée où le logement du lieu de détachement n’est pas adapté, une indemnité de nuit peut également être prise en charge.
 
-<a id="art_N6DB75"></a>
+<a id="art_N71CA6"></a>
 
 ### Art. 17.
 
@@ -35604,7 +38748,7 @@ Une indemnité est payée aux agents astreints au service de nuit sur décision 
 
 ##### Chapitre 4 — Frais de déménagement
 
-<a id="art_N6DB99"></a>
+<a id="art_N71CCA"></a>
 
 ### Art. 18.
 
@@ -35628,7 +38772,7 @@ Une indemnité est payée aux agents astreints au service de nuit sur décision 
 
 ##### Chapitre 5 — Dispositions spéciales
 
-<a id="art_N6DC32"></a>
+<a id="art_N71D63"></a>
 
 ### Art. 19.
 
@@ -35636,7 +38780,7 @@ Sur décision du Premier ministre, tous les dégâts occasionnés au véhicule p
 
 Lorsqu’en cas d’accident survenu au véhicule privé de l’agent dûment autorisé et utilisé lors d’un voyage de service, le résultat de l’instruction permet d’exclure toute faute grave de l’agent mais conclut qu’une négligence ou inadvertance dans le chef de l’agent conducteur ait contribué à la réalisation de l’accident, une partie des dégâts occasionnés au véhicule est remboursée par l’État, sur décision du Premier ministre, sous condition que l’agent subroge l’État dans les droits qui, du chef de l’accident, peuvent lui revenir contre un tiers responsable.
 
-<a id="art_N6DC4B"></a>
+<a id="art_N71D7C"></a>
 
 ### Art. 20.
 
@@ -35654,13 +38798,13 @@ Lorsque le résultat de l’instruction permet d’exclure toute faute grave de 
 
 **(6)** L’État ne rembourse pas les charges relatives à d’éventuelles assurances contractées personnellement par les agents pour les besoins de leur déplacement, sauf dans des cas exceptionnels et si elles ont été dûment autorisées par l’approbateur.
 
-<a id="art_N6DCB8"></a>
+<a id="art_N71DE9"></a>
 
 ### Art. 21.
 
 Les cas non prévus par le présent règlement dans lesquels des frais en relation directe avec le voyage de service laissés à charge d’un agent constitueraient pour lui une rigueur, peuvent être réglés, conformément aux principes généraux régissant la matière, par décision du Premier ministre, sur proposition du ministre du ressort.
 
-<a id="art_N6DCC8"></a>
+<a id="art_N71DF9"></a>
 
 ### Art. 22.
 
@@ -35672,7 +38816,7 @@ Les avances non régularisées à la clôture définitive de l’exercice auquel
 
 ##### Chapitre 6 — Dispositions abrogatoires
 
-<a id="art_N6DD01"></a>
+<a id="art_N71E32"></a>
 
 ### Art. 23.
 
@@ -35682,13 +38826,13 @@ L’arrêté royal grand-ducal du 1er février 1858 concernant les frais de rout
 
 ##### Chapitre 7 — Dispositions finales
 
-<a id="art_N6DD33"></a>
+<a id="art_N71E64"></a>
 
 ### Art. 24.
 
 Le présent règlement entre en vigueur le 1er janvier 2026.
 
-<a id="art_N6DD46"></a>
+<a id="art_N71E77"></a>
 
 ### Art. 25.
 
@@ -35696,7 +38840,7 @@ Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’
 
 #### Règlement du Gouvernement en Conseil du 17 décembre 2025 fixant les indemnités prévues à l’article 20, paragraphe 3, du règlement grand-ducal du 17 décembre 2025 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
 
-<a id="art_N6DD6C"></a>
+<a id="art_N71E9D"></a>
 
 ### Art. 1er.
 
@@ -35705,13 +38849,13 @@ Les montants maximums indemnisables en application de l’article 20, paragraphe
 1. 300 000 euros en cas de décès ;
 2. 600 000 euros en cas d’incapacité physique permanente.
 
-<a id="art_N6DD93"></a>
+<a id="art_N71EC4"></a>
 
 ### Art. 2.
 
 Le présent règlement entre en vigueur le 1er janvier 2026.
 
-<a id="art_N6DDA6"></a>
+<a id="art_N71ED7"></a>
 
 ### Art. 3.
 
@@ -35719,7 +38863,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 #### Règlement du Gouvernement en Conseil du 23 janvier 2026 fixant les indemnités prévues aux articles 12 et 17 du règlement grand-ducal du 17 décembre 2025 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
 
-<a id="art_N6DDCB"></a>
+<a id="art_N71EFC"></a>
 
 ### Art. 1er.
 
@@ -35784,7 +38928,7 @@ Les indemnités prévues à l’article 12 du règlement grand-ducal du 17 déce
 
 Pour les voyages dans les pays qui président le Conseil de l’Union européenne, les montants plafonds de l’indemnité de nuit sont augmentés de 10 pour cent pendant la durée de la présidence.
 
-<a id="art_N6E430"></a>
+<a id="art_N72561"></a>
 
 ### Art. 2.
 
@@ -35796,7 +38940,7 @@ Pour les voyages dans les pays qui président le Conseil de l’Union européenn
 2. 1. au moins trois heures de service de nuit ; ou
 2. au moins deux heures de service de nuit dans une durée totale de cinq heures au moins.
 
-<a id="art_N6E479"></a>
+<a id="art_N725AA"></a>
 
 ### Art. 3.
 
@@ -35810,13 +38954,13 @@ Sont abrogés :
 6. règlement du Gouvernement en Conseil du 22 mars 2002
 7. règlement du Gouvernement en Conseil du 13 décembre 2024 er er règlement grand-ducal du 14 juin 2015
 
-<a id="art_N6E4E0"></a>
+<a id="art_N72611"></a>
 
 ### Art. 4.
 
 Le présent règlement entre en vigueur le 1er février 2026, à l’exception de l’article 2, paragraphe 2, point 2°, qui produit ses effets au 1er janvier 2026.
 
-<a id="art_N6E4F6"></a>
+<a id="art_N72627"></a>
 
 ### Art. 5.
 
@@ -35826,7 +38970,7 @@ Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxem
 
 ##### Version consolidée applicable au 01/01/2026 : Loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'Etat.
 
-<a id="art_N6E526"></a>
+<a id="art_N72657"></a>
 
 ### Art. 29.
 
@@ -35842,13 +38986,13 @@ Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément 
 
 #### Version consolidée applicable au 01/09/2020 : Loi du 24 février 1984 sur le régime des langues.
 
-<a id="art_N6E599"></a>
+<a id="art_N726CA"></a>
 
 ### Art. 1er. Langue nationale
 
 La langue nationale des Luxembourgeois est le luxembourgeois.
 
-<a id="art_N6E5D5"></a>
+<a id="art_N72706"></a>
 
 ### Art. 2. Langue de la législation
 
@@ -35858,13 +39002,13 @@ Au cas où des règlements non visés à l'alinéa qui précède sont édictés 
 
 Le présent article ne déroge pas aux dispositions applicables en matière de conventions internationales.
 
-<a id="art_N6E620"></a>
+<a id="art_N72751"></a>
 
 ### Art. 3. Langues administratives et judiciaires
 
 En matiére administrative, contentieuse ou non contentieuse, et en matière judiciaire, il peut être fait usage des langues française, allemande ou luxembourgeois e, sans préjudice des dispositions spéciales concernant certaines matières.
 
-<a id="art_N6E659"></a>
+<a id="art_N7278A"></a>
 
 ### Art. 3bis. Langue des signes
 
@@ -35878,13 +39022,13 @@ Sur demande écrite auprès du ministre ayant la politique pour personnes handic
 
 Tout élève malentendant, sourd ou privé de l’usage de la parole a le droit de suivre son enseignement fondamental et secondaire dans la langue des signes selon les conditions fixées par la loi du 20 juillet 2018 portant création des Centres de compétences en psycho-pédagogie spécialisée en faveur de l’inclusion scolaire.
 
-<a id="art_N6E6EF"></a>
+<a id="art_N72820"></a>
 
 ### Art. 4. Requêtes administratives
 
 Lorsqu'une requête est rédigée en luxembourgeois, en français ou en allemand, l'administration doit se servir, dans la mesure du possible, pour sa réponse de la langue choisie par le requérant.
 
-<a id="art_N6E728"></a>
+<a id="art_N72859"></a>
 
 ### Art. 5. Abrogation
 
@@ -35898,7 +39042,7 @@ Sont abrogées toutes les dispositions incompatibles avec la présente loi, nota
 
 ##### **Chapitre 1er ** — **Objectifs et mise en œuvre de la politique sur la langue luxembourgeoise**
 
-<a id="art_N6E7A4"></a>
+<a id="art_N728D5"></a>
 
 ### Art. 1er.
 
@@ -35913,7 +39057,7 @@ Un plan d’action sur la langue luxembourgeoise, désigné ci-après « plan d�
 
 Le plan d’action adopté par le Gouvernement porte sur une période de vingt ans. Tous les cinq ans sa mise en œuvre est évaluée et le plan d’action révisé, le cas échéant.
 
-<a id="art_N6E7DA"></a>
+<a id="art_N7290B"></a>
 
 ### Art. 2.
 
@@ -35923,7 +39067,7 @@ Le Gouvernement peut, dans la limite des crédits budgétaires, décider de déc
 
 ##### **Section 1ère ** — **Le commissaire à la langue luxembourgeoise**
 
-<a id="art_N6E80E"></a>
+<a id="art_N7293F"></a>
 
 ### Art. 3.
 
@@ -35933,7 +39077,7 @@ Le commissaire est appelé à contribuer à la mise en œuvre de la politique de
 
 Le commissaire établit un rapport d’activités annuel et peut, sur demande du Gouvernement ou de sa propre initiative, établir un rapport thématique.
 
-<a id="art_N6E830"></a>
+<a id="art_N72961"></a>
 
 ### Art. 4.
 
@@ -35941,7 +39085,7 @@ Le commissaire est nommé, sur proposition du Gouvernement en conseil, par le Gr
 
 ##### **Section 2 ** — **Le Centre pour le luxembourgeois**
 
-<a id="art_N6E850"></a>
+<a id="art_N72981"></a>
 
 ### Art. 5.
 
@@ -35951,7 +39095,7 @@ La dénomination luxembourgeoise du Centre est « Zenter fir d’Lëtzebuerger S
 
 Une autre dénomination peut être conférée au Centre par voie de règlement grand-ducal.
 
-<a id="art_N6E872"></a>
+<a id="art_N729A3"></a>
 
 ### Art. 6.
 
@@ -35970,7 +39114,7 @@ Les règles visées à l’alinéa 3, point 1, sont soumises pour avis au Consei
 
 Le Centre peut être chargé par les ministres d’autres missions dans le domaine de la mise en œuvre de la politique de la langue luxembourgeoise.
 
-<a id="art_N6E8B7"></a>
+<a id="art_N729E8"></a>
 
 ### Art. 7.
 
@@ -35978,7 +39122,7 @@ Le Centre peut être chargé par les ministres d’autres missions dans le domai
 
 **(2)** Le cadre du personnel peut être complété, selon les besoins et dans les limites des crédits budgétaires, par des fonctionnaires stagiaires, des employés et des salariés de l’État.
 
-<a id="art_N6E8E1"></a>
+<a id="art_N72A12"></a>
 
 ### Art. 8.
 
@@ -35986,13 +39130,13 @@ Le Centre peut être chargé par les ministres d’autres missions dans le domai
 
 **(2)** Le directeur adjoint du Centre doit être titulaire d'un grade ou diplôme délivré par un établissement d'enseignement supérieur reconnu par l'État du siège de I‘établissement et sanctionnant I‘accomplissement avec succès d'au moins un bachelor ou de son équivalent.
 
-<a id="art_N6E906"></a>
+<a id="art_N72A37"></a>
 
 ### Art. 9.
 
 Le cadre prévu à l’article 7 peut, suivant les besoins et dans la limite des crédits budgétaires et par dérogation à l’article 3, paragraphe 1er, alinéa 1er, lettre e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État être complété par des employés prouvant par des certificats avoir atteint le niveau C1 du cadre européen commun de référence des langues dans au moins une des trois langues administratives définies par la loi du 24 février 1984 sur le régime des langues.
 
-<a id="art_N6E926"></a>
+<a id="art_N72A57"></a>
 
 ### Art. 10.
 
@@ -36000,7 +39144,7 @@ Dans l’accomplissement de ses missions, le Centre peut recourir à des experts
 
 ##### **Section 3 ** — **Le Conseil permanent de la langue luxembourgeoise**
 
-<a id="art_N6E946"></a>
+<a id="art_N72A77"></a>
 
 ### Art. 11.
 
@@ -36016,7 +39160,7 @@ Le CPLL est demandé en son avis sur tous les projets et propositions de loi con
 
 **(4)** La dénomination luxembourgeoise du CPLL est « Conseil fir d’Lëtzebuerger Sprooch ». Une autre dénomination peut être conférée au CPLL par voie de règlement grand-ducal.
 
-<a id="art_N6E99B"></a>
+<a id="art_N72ACC"></a>
 
 ### Art. 12.
 
@@ -36038,19 +39182,19 @@ L’indemnisation des membres, du secrétaire administratif et des experts qui n
 
 ##### **Chapitre 3 ** — **Dispositions modificatives, transitoires et finales**
 
-<a id="art_N6EA13"></a>
+<a id="art_N72B44"></a>
 
 ### Art. 13.
 
 L’article 24 de la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État est abrogé.
 
-<a id="art_N6EA2B"></a>
+<a id="art_N72B5C"></a>
 
 ### Art. 14.
 
 À l’article 1er, alinéa 2, de la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État est ajouté un tiret libellé comme suit :commissaire à la langue luxembourgeoise.
 
-<a id="art_N6EA54"></a>
+<a id="art_N72B85"></a>
 
 ### Art. 15.
 
@@ -36059,7 +39203,7 @@ La loi modifiée du 25 mars 2015 fixant le régime des traitements et les condit
 1. er commissaire à la langue luxembourgeoise de commissaire du Gouvernement chargé de l’instruction disciplinaire
 2. commissaire à la langue luxembourgeoise
 
-<a id="art_N6EA81"></a>
+<a id="art_N72BB2"></a>
 
 ### Art. 16.
 
@@ -36068,19 +39212,19 @@ La loi du 15 décembre 2017 concernant le budget des recettes et des dépenses d
 1. - Centre pour le luxembourgeois.
 2. Dotation dans l’intérêt du fonctionnement du Centre pour le luxembourgeois : 50.000 euros ».
 
-<a id="art_N6EAC5"></a>
+<a id="art_N72BF6"></a>
 
 ### Art. 17.
 
 Les employés de l’État visés à l’article 7 et relevant de la rubrique « Administration générale » telle qu’énoncée à l’article 12 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État, en service auprès de l’administration gouvernementale, affectés au Ministère de la culture, service du « Lëtzebuerger online Dictionnaire » au moment de l’entrée en vigueur de la présente loi, sont intégrés dans le cadre du personnel du Centre au grade et échelon atteints au moment de l’entrée en vigueur de la présente loi.
 
-<a id="art_N6EADA"></a>
+<a id="art_N72C0B"></a>
 
 ### Art. 18.
 
 Le président et les membres du CPLL nommés avant l’entrée en vigueur de la présente loi restent en place jusqu’à échéance de la durée de leur mandat.
 
-<a id="art_N6EAEA"></a>
+<a id="art_N72C1B"></a>
 
 ### Art. 19.
 
@@ -36092,7 +39236,7 @@ La référence à la présente loi se fait sous la forme suivante : « loi du 20
 
 #### Code du travail
 
-<a id="art_N6EB3B"></a>
+<a id="art_N72C6C"></a>
 
 ### Art. L. 111-1.
 
@@ -36104,7 +39248,7 @@ Le droit de former peut être retiré à un organisme de formation lorsque la te
 
 Les modalités pour accorder et retirer le droit de former ainsi que le nombre maximum de personnes que les organismes de formation ont le droit de former sont fixées par règlement grand-ducal.
 
-<a id="art_N6EBAC"></a>
+<a id="art_N72CDD"></a>
 
 ### Art. L. 111-2.
 
@@ -36112,7 +39256,7 @@ La formation pratique en milieu professionnel et le stage en milieu professionne
 
 Le statut de la personne à former est soit celui de l’apprenti lorsqu’il s’agit d’un contrat d’apprentissage, soit celui de l’élève stagiaire lorsqu’il s’agit d’une convention de stage de formation.
 
-<a id="art_N6EC09"></a>
+<a id="art_N72D3A"></a>
 
 ### Art. L. 111-3.
 
@@ -36203,7 +39347,7 @@ Il doit à son patron formateur et à son tuteur respect et loyauté. L’appren
 
 **(9)** (L. 24 juillet 2024) Pour un contrat d’apprentissage existant au 4 août 2024, l’organisme de formation doit remettre à l’apprenti qui en fait la demande dans un délai de deux mois à partir de la réception de celle-ci un document conforme aux dispositions des paragraphes 1erà 1er*ter*.
 
-<a id="art_N6EE6C"></a>
+<a id="art_N72F9D"></a>
 
 ### Art. L. 111-4.
 
@@ -36211,7 +39355,7 @@ Pour former un apprenti, le patron formateur doit être âgé de vingt-et-un ans
 
 Si ces conditions ne sont plus remplies, les autorités qui ont accordé le droit de former peuvent retirer ce droit ou définir les modalités selon lesquelles l’organisme de formation a le droit de continuer à dispenser la formation jusqu’au terme des contrats d’apprentissage.
 
-<a id="art_N6EEB7"></a>
+<a id="art_N72FE8"></a>
 
 ### Art. L. 111-5.
 
@@ -36230,7 +39374,7 @@ Si ces conditions ne sont plus remplies, les autorités qui ont accordé le droi
 
 Les organismes de formation qui accueillent des apprentis dans le cadre d’une convention de lieux de formation pluriels doivent disposer du droit de former.
 
-<a id="art_N6EF54"></a>
+<a id="art_N73085"></a>
 
 ### Art. L. 111-6.
 
@@ -36242,7 +39386,7 @@ La personne qui veut faire un apprentissage doit en informer ce service qui le r
 
 La personne qui bénéficie d’un poste d’apprentissage obtenu de sa propre initiative doit également en informer ce service.
 
-<a id="art_N6EFB1"></a>
+<a id="art_N730E2"></a>
 
 ### Art. L. 111-7.
 
@@ -36266,7 +39410,7 @@ En cas de réussite, de réorientation ou si l’apprenti est écarté de la for
 
 **(3)** En cas de changement d’organisme de formation, la période d’apprentissage accomplie antérieurement dans le même métier ou profession est mise en compte. Les unités acquises lors d’un apprentissage antérieur sont capitalisées et restent acquises pendant un certain nombre d’années, à définir selon la profession.
 
-<a id="art_N6F05A"></a>
+<a id="art_N7318B"></a>
 
 ### Art. L. 111-8.
 
@@ -36289,7 +39433,7 @@ Le contrat d’apprentissage peut être résilié par l’organisme de formation
 
 **(5)** La procédure de résiliation est fixée par règlement grand-ducal.
 
-<a id="art_N6F0F8"></a>
+<a id="art_N73229"></a>
 
 ### Art. L. 111-9.
 
@@ -36307,7 +39451,7 @@ Lorsqu’une réunion de conciliation est décidée, le conseiller à l’appren
 
 Si la conciliation n’aboutit pas, chaque partie concernée peut saisir le tribunal du travail du litige en question.
 
-<a id="art_N6F182"></a>
+<a id="art_N732B3"></a>
 
 ### Art. L. 111-10.
 
@@ -36336,13 +39480,13 @@ Les dispositions légales et réglementaires relatives à la protection des jeun
 
 Les modalités d’organisation des stages de formation sont définies par règlement grand-ducal.
 
-<a id="art_N6F245"></a>
+<a id="art_N73376"></a>
 
 ### Art. L. 111-11.
 
 Pendant la durée de l’apprentissage, le patron verse à l’apprenti une indemnité d’apprentissage qui est fixée par règlement grand-ducal, sur avis des chambres professionnelles compétentes. Cette indemnité est adaptée aux variations de l’indice du coût de la vie.
 
-<a id="art_N6F29F"></a>
+<a id="art_N733D0"></a>
 
 ### Art. L. 111-12.
 
@@ -36364,7 +39508,7 @@ Dans l’organisme de formation, le conseiller à l’apprentissage intervient :
 
 #### Version consolidée applicable au 01/01/2025 : Loi du 28 juillet 2018 relative au revenu d'inclusion sociale et portant modification 1° du Code de la Sécurité sociale ; 2° du Code du travail ; 3° de la loi modifiée du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité ; 4° de la loi modifiée du 10 août 1991 sur la profession d’avocat ; 5° de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées ; 6° de la loi modifiée du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l'accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit ; 7° de la loi modifiée du 18 décembre 2009 organisant l'aide sociale et portant abrogation de la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti.
 
-<a id="art_N6F33C"></a>
+<a id="art_N7346D"></a>
 
 ### Art. 2.
 
@@ -36404,7 +39548,7 @@ Cette disposition ne s'applique pas aux travailleurs salariés ou non-salariés 
 10. qui exerce une activité à titre d’indépendant pendant une période de six mois renouvelable une fois, qui ne génère pas, à l’issue de cette période un revenu professionnel supérieur ou égal au taux du salaire social minimum non qualifié ;
 11. qui exerce une activité à titre d’indépendant et dont le revenu professionnel est supérieur ou égal au taux du salaire social minimum non qualifié.
 
-<a id="art_N6F42F"></a>
+<a id="art_N73560"></a>
 
 ### Art. 3.
 
@@ -36431,7 +39575,7 @@ Cette disposition ne s'applique pas aux travailleurs salariés ou non-salariés 
 
 #### Code du travail
 
-<a id="art_N6F4F3"></a>
+<a id="art_N73624"></a>
 
 ### Art. L. 522-1.
 
@@ -36455,7 +39599,7 @@ Toutefois, l’adolescent âgé de seize ans et de dix-sept ans accomplis et qui
 
 Dans le cas visé au deuxième alinéa du paragraphe (1) de l’article L. 521-14, les taux d’indemnisation visés au présent paragraphe sont majorés de cinq pour cent.
 
-<a id="art_N6F5D1"></a>
+<a id="art_N73702"></a>
 
 ### Art. L. 522-2.
 
@@ -36467,7 +39611,7 @@ En cas de renonciation aux études ou à la formation au cours d’une année d�
 
 **(3)** Les dispositions de l’article L. 521-4 sont applicables.
 
-<a id="art_N6F640"></a>
+<a id="art_N73771"></a>
 
 ### Art. L. 522-3. (L. 22 décembre 2006)
 
@@ -36479,7 +39623,7 @@ Il en est de même des périodes couvertes par contrat d’apprentissage, des p�
 
 **(3)** Les périodes d’incapacité de travail temporaire et d’indisponibilité temporaire pour le marché de l’emploi n’interrompent pas le cours des périodes d’inscription prévues au paragraphe (3) de l’article L. 522-1, pourvu que leur durée globale ne dépasse pas trente jours de calendrier.
 
-<a id="art_N6F6C2"></a>
+<a id="art_N737F3"></a>
 
 ### Art. L. 523-1.
 
@@ -36515,7 +39659,7 @@ La décision d’une telle prolongation exceptionnelle est prise par le directeu
 
 **(3)** L’attribution ou le maintien de l’indemnité de chômage complet peuvent être subordonnés à la participation du chômeur à des stages de préparation en entreprise, à des actions de formation, à des travaux d’utilité publique ou à des expériences de travail mis en œuvre sur la base du présent article.
 
-<a id="art_N6F805"></a>
+<a id="art_N73936"></a>
 
 ### Art. L. 524-1.
 
@@ -36547,7 +39691,7 @@ Dans ce cas, le droit à l’indemnité de chômage complet est allongé d’une
 
 Le remboursement n’est dû et versé que douze mois après l’engagement à condition que le contrat de travail soit toujours en vigueur au moment de la demande et que la durée du stage de professionnalisation ait été expressément déduite d’une éventuelle période d’essai légale, conventionnelle ou contractuelle.
 
-<a id="art_N6F909"></a>
+<a id="art_N73A3A"></a>
 
 ### Art. L. 524-2.
 
@@ -36557,13 +39701,13 @@ Ce contrat est réservé aux promoteurs qui peuvent offrir aux demandeurs d’em
 
 **(2)** Le contrat de réinsertion-emploi est conclu entre le promoteur, le demandeur d’emploi et l’Agence pour le développement de l’emploi.
 
-<a id="art_N6F96F"></a>
+<a id="art_N73AA0"></a>
 
 ### Art. L. 524-3.
 
 Un tuteur est désigné par le promoteur pour assister et encadrer le demandeur d’emploi pendant la durée du contrat de réinsertion-emploi. Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur et le tuteur établissent avec le demandeur d’emploi un plan de formation, envoyé en copie à l’Agence pour le développement de l’emploi.
 
-<a id="art_N6F9C9"></a>
+<a id="art_N73AFA"></a>
 
 ### Art. L. 524-4.
 
@@ -36577,7 +39721,7 @@ Au cas où son indemnité de chômage, son indemnité d’attente, son indemnit�
 
 **(3)** L’indemnité est soumise aux charges sociales et fiscales prévues en matière de salaires, la part patronale étant prise en charge par le Fonds pour l’emploi.
 
-<a id="art_N6FA60"></a>
+<a id="art_N73B91"></a>
 
 ### Art. L. 524-5.
 
@@ -36585,7 +39729,7 @@ Une quote-part correspondant à cinquante pour cent du salaire social minimum po
 
 Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des députés peut modifier les taux prévus à l’alinéa qui précède sans que ces taux ne puissent être ni inférieurs à vingt-cinq pour cent ni supérieurs à soixante-quinze pour cent.
 
-<a id="art_N6FAB1"></a>
+<a id="art_N73BE2"></a>
 
 ### Art. L. 524-6.
 
@@ -36595,7 +39739,7 @@ Cette prime ne peut être prise en compte comme autre revenu pour le calcul de l
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux demandeurs d’emploi sous contrat de réinsertion-emploi.
 
-<a id="art_N6FB05"></a>
+<a id="art_N73C36"></a>
 
 ### Art. L. 524-7.
 
@@ -36607,13 +39751,13 @@ En cas de travail de nuit, de travail supplémentaire, de travail pendant les jo
 
 #### Règlement ministériel du 28 juillet 1982 établissant le contrat type à utiliser dans les relations entre l'employeur et l'élève ou l'étudiant.
 
-<a id="art_N6FB88"></a>
+<a id="art_N73CB9"></a>
 
 ### Art. 1er.
 
 Le contrat à utiliser dans les relations entre l'employeur et l'élève ou l'étudiant conclu en application de l'article 3 de la loi du 22 juillet 1982 concernant l'occupation d'élèves ou d'étudiants pendant les vacances scolaires doit contenir au moins les clauses reprises au contrat type annexé au présent règlement.
 
-<a id="art_N6FB9B"></a>
+<a id="art_N73CCC"></a>
 
 ### Art. 2.
 
@@ -36621,7 +39765,7 @@ Le présent règlement sortira ses effets le jour de sa publication au Mémorial
 
 #### Règlement grand-ducal du 10 août 1982 fixant les conditions et modalités des stages de formation et des stages probatoires prévus à l'article 1er alinéa 2 de la loi du 22 juillet 1982 concernant l'occupation d'élèves et d'étudiants pendant les vacances scolaires.
 
-<a id="art_N6FBC0"></a>
+<a id="art_N73CF1"></a>
 
 ### Art. 1er.
 
@@ -36636,7 +39780,7 @@ Le présent règlement sortira ses effets le jour de sa publication au Mémorial
 1. avoir un caractère d'information ou d'orientation;
 2. ne pas affecter l'étudiant ou l'élève à des tâches requérant un rendement comparable à celui d'un travail normal.
 
-<a id="art_N6FC05"></a>
+<a id="art_N73D36"></a>
 
 ### Art. 2.
 
@@ -36646,7 +39790,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 ##### Code du travail
 
-<a id="art_N6FC37"></a>
+<a id="art_N73D68"></a>
 
 ### Art. L. 151-1.
 
@@ -36654,7 +39798,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 (...)*(supprimé par laL. 4 juin 2020)*
 
-<a id="art_N6FC9F"></a>
+<a id="art_N73DD0"></a>
 
 ### Art. L. 151-2.
 
@@ -36662,7 +39806,7 @@ Notre Ministre de l'Education nationale et Notre Ministre du Travail et de la S�
 
 (L. 4 juin 2020) Il en est de même de la personne dont l’inscription scolaire ou le statut de volontaire au sens de laloi modifiée du 31 octobre 2007sur le service volontaire des jeunes a pris fin depuis moins de quatre mois.
 
-<a id="art_N6FCF9"></a>
+<a id="art_N73E2A"></a>
 
 ### Art. L. 151-3. (L. 24 juillet 2024)
 
@@ -36711,19 +39855,19 @@ L’ordonnance du président de la juridiction du travail est exécutoire par pr
 
 En cas de récidive dans le délai de deux ans, ces peines peuvent être portées au double du maximum.
 
-<a id="art_N6FE2B"></a>
+<a id="art_N73F5C"></a>
 
 ### Art. L. 151-4.
 
 (L. 4 juin 2020) Le contrat ne peut être conclu pour une période excédant deux mois ou trois cent quarante-six heures par année civile. Cette durée ne peut être dépassée, même en cas de pluralité de contrats.
 
-<a id="art_N6FE69"></a>
+<a id="art_N73F9A"></a>
 
 ### Art. L. 151-5.
 
 (L. 4 juin 2020) L’employeur qui occupe un élève ou un étudiant dans les conditions du présent chapitre est tenu de lui verser un salaire qui ne peut être inférieur à quatre-vingts pour cent du salaire social minimum, gradué le cas échéant en raison de l’âge.
 
-<a id="art_N6FEBB"></a>
+<a id="art_N73FEC"></a>
 
 ### Art. L. 151-6.
 
@@ -36731,7 +39875,7 @@ L’occupation d’élèves et d’étudiants ne donne pas lieu à affiliation e
 
 Le salaire revenant à l’élève ou l’étudiant est exonéré des cotisations dues en matière d’allocations familiales.
 
-<a id="art_N6FF30"></a>
+<a id="art_N74061"></a>
 
 ### Art. L. 151-7.
 
@@ -36744,13 +39888,13 @@ Toutefois, ne sont pas applicables:
 3. loi du 8 avril 1982
 4. les dispositions de l’article L. 122-4.
 
-<a id="art_N6FFAE"></a>
+<a id="art_N740DF"></a>
 
 ### Art. L. 151-8.
 
 (L. 4 juin 2020) Les contestations pouvant naître de l’application du présent chapitre relèvent des juridictions compétentes en matière de louage de services, compte tenu de la nature de l’occupation.
 
-<a id="art_N6FFF4"></a>
+<a id="art_N74125"></a>
 
 ### Art. L. 151-9.
 
@@ -36762,7 +39906,7 @@ Toutefois, ne sont pas applicables:
 
 ##### **Chapitre 1er.** — **Adaptation temporaire des mesures en faveur de l'emploi des jeunes**
 
-<a id="art_N7006E"></a>
+<a id="art_N7419F"></a>
 
 ### Art. 1er.
 
@@ -36780,13 +39924,13 @@ Jusqu'au 31 décembre 2012, les dispositions suivantes, dérogatoires aux mesure
 10. Sur demande du promoteur ayant procédé à l'embauche subséquente du bénéficiaire, le Fonds pour l'emploi lui verse une prime unique correspondant à trente pour cent de l'indemnité touchée par le jeune. La prime n'est due et versée que six mois après l'engagement du bénéficiaire sous contrat à durée indéterminée et à condition que le contrat de travail soit toujours en vigueur et non encore dénoncé au moment de la demande.
 11. La durée de la priorité d'embauche est identique à la durée totale du temps passé en contrat d'initiation à l'emploi auprès du promoteur. A cet effet, et sous peine de remboursement au Fonds pour l'emploi des sommes perçues en application de l'article L. 543-21, le promoteur doit informer en temps utile l'ancien bénéficiaire d'un contrat d'initiation à l'emploi s'il répond aux qualifications et au profil exigés. Ce dernier dispose d'un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N7012D"></a>
+<a id="art_N7425E"></a>
 
 ### Art. 2.
 
 Pour une période se terminant le 31 décembre 2012, le contrat d'initiation à l'emploi au sens des articles L. 543-15 à L. 54329 du Code du travail est élargi d'un volet expérience pratique dans les conditions et selon les modalités prévues aux articles 3 à 11 qui suivent.
 
-<a id="art_N70164"></a>
+<a id="art_N74295"></a>
 
 ### Art. 3.
 
@@ -36802,7 +39946,7 @@ Pour une période se terminant le 31 décembre 2012, le contrat d'initiation à 
 
 Ces dispositions redeviennent automatiquement applicables si les jeunes en question n'ont pas signé un contrat d'initiation à l'emploi-expérience pratique dans un délai de trois mois à partir de l'inscription. Ils peuvent par ailleurs à tout moment opter pour le retour à l'application de l'article L. 622-10.
 
-<a id="art_N701EB"></a>
+<a id="art_N7431C"></a>
 
 ### Art. 4.
 
@@ -36814,7 +39958,7 @@ L'employeur peut, à titre facultatif, lui verser une prime de mérite.
 
 L'indemnité est soumise aux charges sociales et fiscales prévues en matière de salaires.
 
-<a id="art_N70238"></a>
+<a id="art_N74369"></a>
 
 ### Art. 5.
 
@@ -36822,7 +39966,7 @@ L'indemnité est soumise aux charges sociales et fiscales prévues en matière d
 
 **(2)** Sur demande du promoteur ayant procédé à l'embauche subséquente du bénéficiaire, le Fonds pour l'emploi lui verse une prime unique correspondant à trente pour cent de l'indemnité touchée par le jeune. La prime n'est due et versée que six mois après l'engagement du bénéficiaire sous contrat à durée indéterminée et à condition que le contrat de travail soit toujours en vigueur et non encore dénoncé au moment de la demande.
 
-<a id="art_N70281"></a>
+<a id="art_N743B2"></a>
 
 ### Art. 6.
 
@@ -36830,7 +39974,7 @@ L'employeur est obligé, en cas de recrutement de personnel, d'embaucher par pri
 
 La durée de la priorité d'embauche est identique à la durée totale du temps passé en contrat d'initiation à l'emploi-expérience pratique auprès de l'employeur. A cet effet, sous peine de remboursement au Fonds pour l'emploi des sommes perçues en application de l'article 5 de la présente loi, l'employeur doit informer en temps utile l'ancien bénéficiaire d'un contrat d'initiation à l'emploi-expérience pratique s'il répond aux qualifications et au profil exigés. Ce dernier dispose d'un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N702BC"></a>
+<a id="art_N743ED"></a>
 
 ### Art. 7.
 
@@ -36846,25 +39990,25 @@ Au-delà des six premières semaines, l'employeur ne peut mettre fin au contrat 
 
 **(5)** Sous peine de remboursement intégral des sommes touchées par le Fonds pour l'emploi, l'employeur est tenu d'informer le ministre ayant l'Emploi dans ses attributions de la situation du jeune dont le contrat d'initiation à l'emploi-expérience pratique est venu à échéance.
 
-<a id="art_N70343"></a>
+<a id="art_N74474"></a>
 
 ### Art. 8.
 
 A l'expiration du contrat d'initiation à l'emploi-expérience pratique, l'employeur doit délivrer au jeune un certificat de travail sur la nature et la durée de l'occupation et sur les formations le cas échéant suivies.
 
-<a id="art_N70375"></a>
+<a id="art_N744A6"></a>
 
 ### Art. 9.
 
 Les jeunes bénéficiant d'un contrat d'initiation à l'emploi-expérience pratique ont droit au congé applicable dans l'entreprise où ils travaillent en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable.
 
-<a id="art_N703A7"></a>
+<a id="art_N744D8"></a>
 
 ### Art. 10.
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés, de travail de dimanche, les dispositions légales, réglementaires et conventionnelles de droit commun afférentes s'appliquent aux bénéficiaires d'un contrat d'initiation à l'emploi-expérience pratique.
 
-<a id="art_N703D9"></a>
+<a id="art_N7450A"></a>
 
 ### Art. 11.
 
@@ -36872,7 +40016,7 @@ Les périodes d'occupation en contrat d'initiation à l'emploi-expérience prati
 
 ##### **Chapitre 2.** — **Dispositions modificatives et transitoires**
 
-<a id="art_N7041C"></a>
+<a id="art_N7454D"></a>
 
 ### Art. 12.
 
@@ -36885,13 +40029,13 @@ Les dispositions du Code du travail sont modifiées comme suit:
 5. **(1)** Les jeunes bénéficiant d'un contrat d'appui-emploi ont droit au congé applicable dans l'entreprise où ils travaillent, en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable. **(2)** En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés, de travail de dimanche, les dispositions légales, réglementaires et conventionnelles de droit commun afférentes s'appliquent aux bénéficiaires d'un contrat d'initiation à l'emploi.
 6. Les jeunes bénéficiant d'un contrat d'initiation à l'emploi ont droit au congé applicable dans l'entreprise où ils travaillent, en vertu de la loi, de dispositions conventionnelles, réglementaires ou statutaires, le cas échéant proportionnellement à la durée de leur contrat. Le congé est cumulable.
 
-<a id="art_N704E8"></a>
+<a id="art_N74619"></a>
 
 ### Art. 13.
 
 Le Comité permanent du travail et de l’emploi procèdera à l’évaluation des dispositions de la présente loi.
 
-<a id="art_N7051A"></a>
+<a id="art_N7464B"></a>
 
 ### Art. 14.
 
@@ -36903,7 +40047,7 @@ Le Comité permanent du travail et de l’emploi procèdera à l’évaluation d
 
 ##### Code du travail
 
-<a id="art_N70586"></a>
+<a id="art_N746B7"></a>
 
 ### Art. L. 543-1.
 
@@ -36915,7 +40059,7 @@ Le Comité permanent du travail et de l’emploi procèdera à l’évaluation d
 
 Sont exclus du champ d’application de l’alinéa qui précède, les promoteurs ayant la forme juridique d’une société commerciale au sens de laloi du 10 août 1915concernant les sociétés commerciales, telle qu’elle a été modifiée.
 
-<a id="art_N70611"></a>
+<a id="art_N74742"></a>
 
 ### Art. L. 543-2.
 
@@ -36925,7 +40069,7 @@ Le directeur de l’Agence pour le développement de l’emploi, sur avis du dé
 
 La décision de la prolongation doit tenir compte des résultats des évaluations prévues à l’article L. 543-9 (3) et des conclusions tirées d’un entretien entre le jeune demandeur d’emploi bénéficiant d’un contrat d’appui-emploi et l’Agence pour le développement de l’emploi.
 
-<a id="art_N70665"></a>
+<a id="art_N74796"></a>
 
 ### Art. L. 543-3.
 
@@ -36941,7 +40085,7 @@ Le promoteur doit également permettre au jeune demandeur d’emploi de particip
 
 La participation du jeune demandeur d’emploi à tout entretien d’embauche doit faire l’objet d’un certificat de présence signé par l’employeur potentiel ou son représentant. A cette fin, un formulaire pré-imprimé est mis à disposition par l’Agence pour le développement de l’emploi. Le jeune demandeur d’emploi est tenu de remettre ce certificat au promoteur, ainsi que de l’envoyer, en copie, au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N706E0"></a>
+<a id="art_N74811"></a>
 
 ### Art. L. 543-4.
 
@@ -36949,7 +40093,7 @@ Les promoteurs visés à l’article L. 543-1, paragraphe (2) adressent leur dem
 
 Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur et le tuteur prévu à l’article L. 543-5 établissent avec le jeune demandeur d’emploi un plan de formation. Copie de ce plan est transmise au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N70737"></a>
+<a id="art_N74868"></a>
 
 ### Art. L. 543-5.
 
@@ -36959,13 +40103,13 @@ Dans le délai d’un mois à partir de la conclusion du contrat, le promoteur e
 
 **(3)** Le délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi peut inviter le tuteur à assister à des séances de formation respectivement d’information.
 
-<a id="art_N707A3"></a>
+<a id="art_N748D4"></a>
 
 ### Art. L. 543-6.
 
 Les dispositions du titre II du livre premier ne sont pas applicables au contrat d’appui-emploi.
 
-<a id="art_N707DC"></a>
+<a id="art_N7490D"></a>
 
 ### Art. L. 543-7.
 
@@ -36979,7 +40123,7 @@ Ces résiliations entraînent que le jeune demandeur d’emploi ne peut être ad
 
 **(3)** L’Agence pour le développement de l’emploi peut refuser à un promoteur la conclusion d’un contrat d’appuiemploi en cas d’abus manifeste par le promoteur de la mesure et lorsqu’un encadrement adéquat du jeune demandeur d’emploi ne peut pas être garanti.
 
-<a id="art_N7085A"></a>
+<a id="art_N7498B"></a>
 
 ### Art. L. 543-8.
 
@@ -36987,7 +40131,7 @@ Ces résiliations entraînent que le jeune demandeur d’emploi ne peut être ad
 
 **(2)** En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux jeunes demandeurs d’emploi sous contrat d’appui-emploi.
 
-<a id="art_N708C3"></a>
+<a id="art_N749F4"></a>
 
 ### Art. L. 543-9.
 
@@ -37003,13 +40147,13 @@ Ces évaluations portent sur des points préalablement définis par l’Agence p
 
 **(4)** A la fin du contrat d’appui-emploi le promoteur établit un certificat de fin de mesure, dont les éléments sont définis par l’Agence pour le développement de l’emploi, sur la nature et la durée de l’occupation et sur les éventuelles formations.
 
-<a id="art_N70941"></a>
+<a id="art_N74A72"></a>
 
 ### Art. L. 543-10.
 
 Le jeune demandeur d’emploi qui refuse sans motif valable un contrat d’appui-emploi, qui lui est proposé par l’Agence pour le développement de l’emploi, est exclu du bénéfice de l’indemnité de chômage complet.
 
-<a id="art_N7098F"></a>
+<a id="art_N74AC0"></a>
 
 ### Art. L. 543-11.
 
@@ -37035,7 +40179,7 @@ Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentimen
 
 Ce remboursement n’est pas cumulable avec d’autres mesures en faveur de l’emploi.
 
-<a id="art_N70A5B"></a>
+<a id="art_N74B8C"></a>
 
 ### Art. L. 543-12.
 
@@ -37043,13 +40187,13 @@ Le jeune demandeur d’emploi, sous contrat d’appui-emploi, doit accepter un e
 
 Le jeune demandeur d’emploi, sous contrat d’appui-emploi bénéficiant d’une formation, qui s’engage dans les liens d’un contrat de travail, peut terminer sa formation après accord du délégué à l’emploi des jeunes de l’Agence pour le développement de l’emploi.
 
-<a id="art_N70AA6"></a>
+<a id="art_N74BD7"></a>
 
 ### Art. L. 543-13.
 
 Le délégué à l’emploi des jeunes de l’Agence pour le développement de l’emploi ou l’agent désigné par lui est habilité à procéder à des visites des lieux de travail des jeunes demandeurs d’emploi bénéficiant d’un contrat d’appui-emploi afin de s’assurer de la bonne exécution du contrat conformément aux dispositions qui précèdent.
 
-<a id="art_N70AE8"></a>
+<a id="art_N74C19"></a>
 
 ### Art. L. 543-14.
 
@@ -37067,19 +40211,19 @@ Le délégué à l’emploi des jeunes de l’Agence pour le développement de l
 
 La participation du jeune demandeur d’emploi à tout entretien d’embauche doit faire l’objet d’un certificat de présence signé par l’employeur potentiel ou son représentant. A cette fin, un formulaire pré-imprimé est mis à disposition par l’Agence pour le développement de l’emploi. Ce certificat est à remettre au promoteur et à envoyer, en copie, au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi.
 
-<a id="art_N70B9C"></a>
+<a id="art_N74CCD"></a>
 
 ### Art. L. 543-15.
 
 Le contrat d’initiation à l’emploi est réservé aux promoteurs qui peuvent offrir au jeune demandeur d’emploi une réelle perspective d’emploi à la fin du contrat.
 
-<a id="art_N70BD5"></a>
+<a id="art_N74D06"></a>
 
 ### Art. L. 543-16.
 
 Les promoteurs visés à l’article L. 543-15 adressent leur demande d’un contrat d’initiation à l’emploi au délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi. Ils y joignent une description des tâches à accomplir ainsi qu’un profil du poste à remplir.
 
-<a id="art_N70C17"></a>
+<a id="art_N74D48"></a>
 
 ### Art. L. 543-17.
 
@@ -37091,7 +40235,7 @@ Le tuteur, d’un commun accord avec le jeune demandeur d’emploi, communique �
 
 Le délégué à l’emploi des jeunes auprès de l’Agence pour le développement de l’emploi peut inviter le tuteur à assister à des séances de formation respectivement d’information.
 
-<a id="art_N70C80"></a>
+<a id="art_N74DB1"></a>
 
 ### Art. L. 543-18.
 
@@ -37103,7 +40247,7 @@ La décision de la prolongation doit tenir compte des résultats des évaluation
 
 **(3)** Par dérogation au paragraphe (2), aucune autorisation n’est nécessaire pour les promoteurs qui sont couverts par un plan de maintien dans l’emploi au sens de l’article L. 513-3.
 
-<a id="art_N70CE6"></a>
+<a id="art_N74E17"></a>
 
 ### Art. L. 543-19.
 
@@ -37115,7 +40259,7 @@ L’indemnité est portée à cent trente pour cent pour les jeunes demandeurs d
 
 Le promoteur peut, à titre facultatif, lui verser une prime de mérite non remboursable par le Fonds pour l’emploi.
 
-<a id="art_N70D4F"></a>
+<a id="art_N74E80"></a>
 
 ### Art. L. 543-20.
 
@@ -37125,7 +40269,7 @@ Le remboursement de cette quote-part est fixé à soixante-cinq pour cent en cas
 
 En cas de prolongation prévue à l’article L. 543-18 (2), le Fonds pour l’emploi rembourse, pour la durée de la prolongation, mensuellement au promoteur une quote-part correspondant à trente pour cent de l’indemnité touchée par le jeune demandeur d’emploi ainsi que la part patronale des charges sociales.
 
-<a id="art_N70DA9"></a>
+<a id="art_N74EDA"></a>
 
 ### Art. L. 543-21.
 
@@ -37133,7 +40277,7 @@ Sur demande du promoteur ayant procédé à l’embauche subséquente du jeune d
 
 Ce remboursement n’est pas cumulable avec d’autres mesures en faveur de l’emploi.
 
-<a id="art_N70E00"></a>
+<a id="art_N74F31"></a>
 
 ### Art. L. 543-22.
 
@@ -37147,7 +40291,7 @@ Au-delà des six premières semaines, le promoteur peut, avec l’accord de l’
 
 En cas de motifs graves, le préavis de huit jours n’est pas applicable.
 
-<a id="art_N70E78"></a>
+<a id="art_N74FA9"></a>
 
 ### Art. L. 543-23.
 
@@ -37159,7 +40303,7 @@ Ces évaluations portent sur des éléments définis par l’Agence pour le dév
 
 **(3)** A la fin du contrat d’initiation à l’emploi le promoteur établit un certificat de fin de mesure, dont les éléments sont définis par l’Agence pour le développement de l’emploi, sur la nature et la durée de l’occupation et sur les éventuelles formations.
 
-<a id="art_N70EE7"></a>
+<a id="art_N75018"></a>
 
 ### Art. L. 543-24.
 
@@ -37167,31 +40311,31 @@ Le promoteur est obligé, en cas de recrutement de personnel, d’embaucher par 
 
 A cet effet, le promoteur doit informer en temps utile l’Agence pour le développement de l’emploi sur le ou les postes disponibles. L’Agence pour le développement de l’emploi contacte l’ancien jeune demandeur d’emploi sous contrat d’initiation à l’emploi s’il répond aux qualifications et aux profils exigés. Ce dernier dispose d’un délai de huit jours pour faire connaître sa décision.
 
-<a id="art_N70F32"></a>
+<a id="art_N75063"></a>
 
 ### Art. L. 543-25.
 
 Les jeunes demandeurs d’emploi bénéficiant d’un contrat d’initiation à l’emploi ont droit au congé applicable dans l’entreprise où ils travaillent, en vertu de la loi, de dispositions réglementaires, conventionnelles ou statutaires, le cas échéant proportionnellement à la durée de leur contrat.
 
-<a id="art_N70F74"></a>
+<a id="art_N750A5"></a>
 
 ### Art. L. 543-26.
 
 En cas de travail de nuit, de travail supplémentaire, de travail pendant les jours fériés et de travail de dimanche, les dispositions légales, réglementaires, conventionnelles ou statutaires afférentes s’appliquent aux jeunes demandeurs d’emploi sous contrat d’initiation à l’emploi.
 
-<a id="art_N70FC2"></a>
+<a id="art_N750F3"></a>
 
 ### Art. L. 543-27.
 
 Le jeune demandeur d’emploi qui refuse sans motif valable un contrat d’initiation à l’emploi, qui lui est proposé par l’Agence pour le développement de l’emploi, est exclu du bénéfice de l’indemnité de chômage complet.
 
-<a id="art_N7100A"></a>
+<a id="art_N7513B"></a>
 
 ### Art. L. 543-28.
 
 L’Agence pour le développement de l’emploi peut refuser à un promoteur la conclusion d’un contrat d’initiation à l’emploi en cas d’abus manifeste par l’employeur de la mesure et lorsqu’un encadrement adéquat du jeune demandeur d’emploi ne peut pas être garanti.
 
-<a id="art_N71043"></a>
+<a id="art_N75174"></a>
 
 ### Art. L. 543-29.
 
@@ -37199,7 +40343,7 @@ L’Agence pour le développement de l’emploi peut refuser à un promoteur la 
 
 **(2)** Les dispositions prévues au paragraphe (1) sont mises en vigueur par règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des Députés, le Comité de coordination tripartite visé à l’article L. 512-3 demandé en son avis. Le même règlement détermine en outre les secteurs et branches économiques tombant sous l’application de ces dispositions.
 
-<a id="art_N710A0"></a>
+<a id="art_N751D1"></a>
 
 ### Art. L. 543-30.
 
@@ -37207,7 +40351,7 @@ Au cas où l’indemnité, versée au jeune demandeur d’emploi en application 
 
 Les périodes d’occupation en contrat d’appui-emploi et en contrat d’initiation à l’emploi sont mises en compte comme périodes de stage ouvrant droit à l’indemnité de chômage complet.
 
-<a id="art_N7110F"></a>
+<a id="art_N75240"></a>
 
 ### Art. L. 543-31.
 
@@ -37217,7 +40361,7 @@ Les conditions et les modalités d’attribution de cette prime sont déterminé
 
 L’Agence pour le développement de l’emploi est chargée de l’application des dispositions du présent article.
 
-<a id="art_N71181"></a>
+<a id="art_N752B2"></a>
 
 ### Art. L. 543-32.
 
@@ -37225,7 +40369,7 @@ Le ministre ayant l’Emploi dans ses attributions peut, à charge du Fonds pour
 
 L’Agence pour le développement de l’emploi est chargée de l’application des dispositions du présent article.
 
-<a id="art_N711DE"></a>
+<a id="art_N7530F"></a>
 
 ### Art. L. 543-33.
 
@@ -37239,7 +40383,7 @@ La même disposition s’applique aux mandataires et préposés de personnes mor
 
 ##### Chapitre 1er. — Dispositions générales.
 
-<a id="art_N7125C"></a>
+<a id="art_N7538D"></a>
 
 ### Art. 1er.
 
@@ -37264,7 +40408,7 @@ La personne qui n’est pas un ressortissant du Grand-Duché de Luxembourg ou d�
 
 Par dérogation aux conditions prévues aux points a), b) et c), peut également prétendre au revenu pour personnes gravement handicapées, la personne reconnue salarié handicapé, qui, pour des raisons indépendantes de sa volonté, n'a pas accès à un emploi salarié et dispose de ressources d'un montant inférieur à celui du revenu pour personnes gravement handicapées, fixé à l'article 25 ci-après.
 
-<a id="art_N712E9"></a>
+<a id="art_N7541A"></a>
 
 ### Art. 2.
 
@@ -37272,7 +40416,7 @@ Les demandes en reconnaissance de la qualité de salarié handicapé et/ou les d
 
 La demande est réputée faite à la date du dépôt, à condition qu'elle soit signée et accompagnée des pièces justificatives requises déterminées par règlement grand-ducal.
 
-<a id="art_N71327"></a>
+<a id="art_N75458"></a>
 
 ### Art. 3.
 
@@ -37306,13 +40450,13 @@ Aucune décision de la Commission médicale ne peut faire l'objet d'une demande 
 
 La décision relative à la demande en révision est prise conformément à la procédure prévue aux paragraphes 1 à 3 ci-avant.
 
-<a id="art_N7140A"></a>
+<a id="art_N7553B"></a>
 
 ### Art. 4.
 
 Toute personne reconnue salarié handicapé est tenue à se faire inscrire au service de placement et au service des salariés handicapés de l'Administration de l'Emploi ou à une de ses agences, service défini à l'article 31.
 
-<a id="art_N7143C"></a>
+<a id="art_N7556D"></a>
 
 ### Art. 5.
 
@@ -37320,7 +40464,7 @@ Toute personne reconnue salarié handicapé est tenue à se faire inscrire au se
 
 **(2)** Le salarié handicapé, qui refuse d'occuper un poste de travail qui lui est offert et qui correspond à ses aptitudes de travail, perd le bénéfice du revenu pour personnes gravement handicapées.
 
-<a id="art_N71485"></a>
+<a id="art_N755B6"></a>
 
 ### Art. 6.
 
@@ -37338,7 +40482,7 @@ Aucune décision de la Commission d'orientation et de reclassement professionnel
 
 La décision relative à la demande en révision est prise conformément à la procédure prévue aux paragraphes 1 et 2 ci-avant.
 
-<a id="art_N71502"></a>
+<a id="art_N75633"></a>
 
 ### Art. 7.
 
@@ -37360,7 +40504,7 @@ L’article 456 du Code de la sécurité sociale est applicable. Pour les person
 
 ##### Chapitre 2. — Salariés handicapés guidés vers le marché du travail ordinaire
 
-<a id="art_N715FA"></a>
+<a id="art_N7572B"></a>
 
 ### Art. 8.
 
@@ -37376,7 +40520,7 @@ La forme et le contenu de ces mesures, qui peuvent comporter notamment l'attribu
 
 Cette charge n'est pas disproportionnée lorsqu'elle est compensée de façon suffisante par les mesures prévues à l'article 26 du règlement grand-ducal du 7 octobre 2004 portant exécution du paragraphe (4) qui précède.
 
-<a id="art_N71665"></a>
+<a id="art_N75796"></a>
 
 ### Art. 9.
 
@@ -37384,7 +40528,7 @@ Si le salarié handicapé refuse d'occuper un poste qui correspond à ses aptitu
 
 La décision afférente du directeur de l'Administration de l'emploi sera notifiée à l'intéressé par lettre recommandée à la poste.
 
-<a id="art_N716A0"></a>
+<a id="art_N757D1"></a>
 
 ### Art. 10.
 
@@ -37406,7 +40550,7 @@ Au cas où les employeurs occupent un nombre de salariés handicapés supérieur
 
 Pour la computation du nombre des postes à réserver, les chiffres atteignant et dépassant la demie sont à arrondir vers le haut, les autres sont à négliger.
 
-<a id="art_N71732"></a>
+<a id="art_N75863"></a>
 
 ### Art. 11.
 
@@ -37416,13 +40560,13 @@ Pour la computation du nombre des postes à réserver, les chiffres atteignant e
 
 **(3)** L'assignation d'un poste de salarié handicapé tant dans le secteur public que privé doit se faire en collaboration avec le service des salariés handicapés de l'Administration de l'Emploi.
 
-<a id="art_N7178E"></a>
+<a id="art_N758BF"></a>
 
 ### Art. 12.
 
 En cas de refus d'un employeur du secteur privé d'embaucher le nombre prescrit de handicapés, une taxe de compensation équivalant à 50 % du salaire social minimum est à verser chaque mois au Trésor public par ledit employeur. Cette taxe est due aussi longtemps que dure le refus et pour chaque salarié handicapé non embauché.
 
-<a id="art_N717C0"></a>
+<a id="art_N758F1"></a>
 
 ### Art. 13.
 
@@ -37432,13 +40576,13 @@ La fixation de la rémunération interviendra indépendamment et sans prise en c
 
 Lesdites rentes sont à payer intégralement aux bénéficiaires, elles ne doivent en aucun cas être déduites de la rémunération des salariés handicapés, ni être réduites d'une autre manière au détriment de leurs bénéficiaires.
 
-<a id="art_N71804"></a>
+<a id="art_N75935"></a>
 
 ### Art. 14.
 
 Les salariés indépendants qui ont obtenu la reconnaissance de la qualité de salarié handicapé et qui sont disposés à poursuivre leur activité professionnelle, peuvent bénéficier, sous les conditions à déterminer par règlement grand-ducal, de l'exemption totale ou partielle des charges de sécurité sociale qui sont prises en charge par le budget de l'Etat.
 
-<a id="art_N71836"></a>
+<a id="art_N75967"></a>
 
 ### Art. 15.
 
@@ -37448,7 +40592,7 @@ La participation au salaire est fixée notamment en fonction de la perte de rend
 
 Le taux de la participation au salaire peut être adapté périodiquement par le directeur de l'Administration de l'emploi, sur avis de la Commission d'orientation, compte tenu notamment de l'évolution du handicap et/ou de l'adaptation du salarié handicapé au milieu du travail.
 
-<a id="art_N7187A"></a>
+<a id="art_N759AB"></a>
 
 ### Art. 16.
 
@@ -37458,19 +40602,19 @@ Le taux de la participation au salaire peut être adapté périodiquement par le
 
 ##### Chapitre 3. — Salariés handicapés guidés vers les ateliers protégés
 
-<a id="art_N718D3"></a>
+<a id="art_N75A04"></a>
 
 ### Art. 17.
 
 Est guidé vers les ateliers protégés, tout salarié handicapé qui, en raison de ses capacités de travail réduites, ne suffit pas ou pas encore aux exigences et contraintes du marché du travail ordinaire. Les modalités et critères permettant de guider le salarié handicapé vers le marché du travail ordinaire ou vers les ateliers protégés peuvent être précisés par règlement grand-ducal.
 
-<a id="art_N71905"></a>
+<a id="art_N75A36"></a>
 
 ### Art. 18.
 
 Pour le salarié handicapé guidé vers les ateliers protégés, les responsables de l'atelier protégé définissent les mesures permettant l'emploi du salarié handicapé dans des conditions adaptées à ses besoins et les mesures d'insertion professionnelle, d'accompagnement et de suivi du salarié handicapé sur le marché du travail ordinaire.
 
-<a id="art_N71937"></a>
+<a id="art_N75A68"></a>
 
 ### Art. 19.
 
@@ -37490,7 +40634,7 @@ Pour le salarié handicapé guidé vers les ateliers protégés, les responsable
 
 **(4)** Dans le cas du salarié handicapé se trouvant en régime de tutelle, conformément aux dispositions prévues par le Code civil au titre XI qui traite de la majorité et des majeurs qui sont protégés par la loi, le tuteur de la personne majeure protégée par la loi signe le contrat de travail.
 
-<a id="art_N719C9"></a>
+<a id="art_N75AFA"></a>
 
 ### Art. 20.
 
@@ -37500,7 +40644,7 @@ Pour le salarié handicapé guidé vers les ateliers protégés, les responsable
 
 Par dérogation à la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés, à la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée du travail des ouvriers occupés dans les secteurs public et privé de l'économie et à la loi du 23 mars 2001 concernant la protection des jeunes salariés, la durée du travail dans les ateliers protégés inclut la durée des activités socio-pédagogiques et thérapeutiques exercées durant les heures de travail sur le lieu de travail. Il en est de même pour le temps durant lequel le salarié handicapé participe à des stages en entreprise non rémunérés par l'entreprise d'affectation et organisés par l'atelier protégé.
 
-<a id="art_N71A2F"></a>
+<a id="art_N75B60"></a>
 
 ### Art. 21.
 
@@ -37512,13 +40656,13 @@ L’Etat participe au salaire du salarié engagé dans un atelier protégé à r
 
 **(3)** Par dérogation à la loi modifiée du 12 juillet 1895 concernant le paiement des salaires des ouvriers, le salaire est payé une fois par mois par l'atelier protégé au «salarié» handicapé.
 
-<a id="art_N71AA0"></a>
+<a id="art_N75BD1"></a>
 
 ### Art. 22.
 
 En cas de cessation des relations d'emploi avec l'atelier protégé, le salarié handicapé sans emploi a droit à l'octroi d'une indemnité de chômage complet, pourvu qu'il réponde aux conditions d'admission déterminées au titre 2 de la loi modifée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet.
 
-<a id="art_N71AD7"></a>
+<a id="art_N75C08"></a>
 
 ### Art. 23.
 
@@ -37532,7 +40676,7 @@ L'agrément est accordé conformément aux dispositions de la loi du 8 septembre
 
 **(2)** Tout atelier protégé est soumis à la loi du 10 juin 1999 relative aux établissements classés.
 
-<a id="art_N71B40"></a>
+<a id="art_N75C71"></a>
 
 ### Art. 24.
 
@@ -37542,7 +40686,7 @@ L'agrément est accordé conformément aux dispositions de la loi du 8 septembre
 
 ##### Chapitre 4. — Revenu pour personnes gravement handicapées
 
-<a id="art_N71B9E"></a>
+<a id="art_N75CCF"></a>
 
 ### Art. 25.
 
@@ -37554,7 +40698,7 @@ Le montant prévu par le présent article est adapté à l’augmentation du mon
 
 L’ECI est exempt d’impôts.
 
-<a id="art_N71C36"></a>
+<a id="art_N75D67"></a>
 
 ### Art. 26.
 
@@ -37562,7 +40706,7 @@ Le revenu pour personnes gravement handicapées est suspendu jusqu'à concurrenc
 
 Le revenu pour personnes gravement handicapées est intégralement mis en compte en vue de la détermination des prestations de revenu minimum garanti prévues par la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti.
 
-<a id="art_N71C76"></a>
+<a id="art_N75DA7"></a>
 
 ### Art. 27.
 
@@ -37572,13 +40716,13 @@ Le revenu pour personnes gravement handicapées est intégralement mis en compte
 
 **(3)** Le revenu est soumis au paiement des cotisations en matière d'assurance dépendance.
 
-<a id="art_N71CCF"></a>
+<a id="art_N75E00"></a>
 
 ### Art. 27bis.
 
 Le revenu pour personnes gravement handicapées est soumis au paiement des cotisations en matière d’assurance pension si le bénéficiaire justifie d’une affiliation à l’assurance pension au titre de l’article 171 du Code de la sécurité sociale de vingt-cinq années au moins. Dans ce cas, la part assuré et la part patronale sont imputées sur le Fonds national de solidarité.
 
-<a id="art_N71D06"></a>
+<a id="art_N75E37"></a>
 
 ### Art. 28.
 
@@ -37592,19 +40736,19 @@ Le revenu est dû à partir de la date de communication du dossier par le direct
 
 **(3)** Le revenu est versé au requérant par le Fonds national de solidarité.
 
-<a id="art_N71D77"></a>
+<a id="art_N75EA8"></a>
 
 ### Art. 29.
 
 **(1)** La révision de la décision d’attribution du revenu pour personnes gravement handicapées se fait selon les conditions et modalités prévues par les articles 28 et 29 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale.
 
-<a id="art_N71DDC"></a>
+<a id="art_N75F0D"></a>
 
 ### Art. 30.
 
 Le revenu pour personnes gravement handicapées est à charge du budget de l'Etat.
 
-<a id="art_N71E0E"></a>
+<a id="art_N75F3F"></a>
 
 ### Art. 30bis.
 
@@ -37612,13 +40756,13 @@ Ne peut prétendre aux prestations de la présente loi, la personne qui fait l�
 
 ##### Chapitre 5. — Dispositions organiques
 
-<a id="art_N71E55"></a>
+<a id="art_N75F86"></a>
 
 ### Art. 31.
 
 Le service des salariés handicapés de l'Administration de l'Emploi, visé par l'article 28 de la loi modifiée du 21 février 1976 concernant l'organisation et le fonctionnement de l'Administration de l'Emploi et portant création d'une Commission nationale de l'Emploi est chargé des mesures d'orientation, de formation, de placement, de rééducation, d'intégration et de réintégration professionnelles des personnes reconnues comme salarié handicapé.
 
-<a id="art_N71E8C"></a>
+<a id="art_N75FBD"></a>
 
 ### Art. 32.
 
@@ -37640,7 +40784,7 @@ Le secrétariat de la Commission est assuré par un agent du service des salari�
 
 **(3)** La Commission médicale délibère valablement quand la majorité de ses membres sont présents. Les décisions et avis de la Commission médicale sont pris à la majorité des voix exprimées. En cas d'égalité des voix, la voix du président est prépondérante.
 
-<a id="art_N71F16"></a>
+<a id="art_N76047"></a>
 
 ### Art. 33.
 
@@ -37666,7 +40810,7 @@ Le secrétariat de la Commission est assuré par un agent du service des salari�
 
 **(3)** La Commission d'orientation et de reclassement professionnel délibère valablement quand la majorité de ses membres sont présents. Les décisions et avis de la commission sont pris à la majorité des voix exprimées. En cas d'égalité des voix, la voix du président est prépondérante.
 
-<a id="art_N71FAC"></a>
+<a id="art_N760DD"></a>
 
 ### Art. 34.
 
@@ -37687,31 +40831,31 @@ Un règlement grand-ducal précise les modalités d'organisation et de fonctionn
 
 ##### Chapitre 6. — Dispositions modificatives et abrogatoires
 
-<a id="art_N72033"></a>
+<a id="art_N76164"></a>
 
 ### Art. 35.
 
 L'article 23, I, avant-dernier alinéa de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat, l'article XVIII, 2) de la loi modifiée du 27 juillet 1987 concernant l'assurance pension en cas de vieillesse, d'invalidité et de survie et l'article 22, dernier alinéa de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois ainsi que les dispositions correspondantes régissant les régimes de pension spéciaux définis à l'article 1er de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension sont abrogés. Ces dispositions continuent toutefois à sortir leurs effets en ce qui concerne les personnes handicapées ayant droit à la pension d'orphelin avant l'entrée en vigueur de la présente loi.
 
-<a id="art_N7207C"></a>
+<a id="art_N761AD"></a>
 
 ### Art. 36.
 
 L'article 4, alinéa 2 de la loi modifiée du 22 avril 1966 portant réglementation uniforme du congé annuel des salariés du secteur privé est modifié comme suit:Un congé supplémentaire de six jours ouvrables est accordé aux invalides de guerre, aux accidentés de travail et aux personnes ayant un handicap physique, mental, sensoriel ou psychique, auxquelles a été reconnue la qualité de travailleur handicapé conformément à la loi du 12 septembre 2003 relative aux personnes handicapées. L'indemnité journalière du congé supplémentaire est à charge des crédits budgétaires de l'Etat.
 
-<a id="art_N720C5"></a>
+<a id="art_N761F6"></a>
 
 ### Art. 37.
 
 L'article 6, alinéa 1 de la loi modifiée du 12 mars 1973 portant réforme du salaire social minimum est abrogé.
 
-<a id="art_N720FC"></a>
+<a id="art_N7622D"></a>
 
 ### Art. 38.
 
 L'article 2, paragraphe (1) de la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet est complété par le numéro suivant:38. La prise en charge de l'indemnité compensatoire versée aux travailleurs handicapés en vertu de l'article 45 (1) alinéa 2 de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
-<a id="art_N72144"></a>
+<a id="art_N76275"></a>
 
 ### Art. 39.
 
@@ -37721,13 +40865,13 @@ La loi modifiée du 19 juin 1985 concernant les allocations familiales et portan
 2. L'allocation spéciale supplémentaire est continuée jusqu'à l'âge de vingt-sept ans accomplis au plus pour la personne bénéficiaire d'allocations familiales en application de l'article 3, alinéa 4, pour autant que les revenus de cette personne, y compris les allocations familiales, ne soient égaux ou supérieurs aux revenus visés à l'article 3, alinéa 4, ou ne constituent un revenu garanti ou de remplacement ou une prestation pour adultes handicapés au titre d'un régime non luxembourgeois.
 3. Dispositions transitoires. L'ancien alinéa 4 de l'article 3 et l'ancien alinéa 6 de l'article 4 demeurent applicables pour les personnes bénéficiaires de l'allocation familiale et de l'allocation spéciale supplémentaire au moment de l'entrée en vigueur de la loi du 12 septembre 2003 relative aux personnes handicapées. Toutefois, ces allocations ne sont plus dues lorsque la personne handicapée est admise soit au bénéfice du revenu pour travailleurs handicapés ou du revenu pour personnes gravement handicapées visés par la loi du 12 septembre 2003 relative aux personnes handicapées, soit à un revenu garanti ou de remplacement ou à toute prestation pour adultes handicapés prévus par un régime non luxembourgeois.
 
-<a id="art_N721D9"></a>
+<a id="art_N7630A"></a>
 
 ### Art. 40.
 
 A l'article 4 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, est ajouté un nouveau point 7. libellé comme suit:les périodes précédant celles au titre de l'article 171, alinéa 1, sous 17 du Code des Assurances sociales, pendant lesquelles le travailleurs handicapé au sens de l'article 1er de la loi du 12 septembre 2003 relative aux personnes handicapées n'a pas pu être occupé, pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les périodes se situant avant l'entrée en vigueur de cette loi au cours desquelles l'intéressé était, après l'âge de 18 ans par suite d'infirmités physiques ou intellectuelles, hors d'état de gagner sa vie.
 
-<a id="art_N7222B"></a>
+<a id="art_N7635C"></a>
 
 ### Art. 41.
 
@@ -37741,7 +40885,7 @@ Le Code des assurances sociales est modifié comme suit:
 6. Pour les personnes visées à l'article 171, alinéa 1, sous 17), est prise en compte l'activité exercée dans l'atelier protégé.
 7. 1. par parts égales à l'Etat ou l'atelier protégé et aux assurés visés à l'article 171, 17).
 
-<a id="art_N722F8"></a>
+<a id="art_N76429"></a>
 
 ### Art. 42.
 
@@ -37749,13 +40893,13 @@ La loi modifiée du 12 novembre 1991 sur les travailleurs handicapés est abrog�
 
 ##### Chapitre 7. — Dispositions transitoires et finales
 
-<a id="art_N7233A"></a>
+<a id="art_N7646B"></a>
 
 ### Art. 43.
 
 Les mesures prises depuis l'entrée en vigueur de la loi modifiée du 12 novembre 1991 sur les salariés handicapés sont maintenues après l'entrée en vigueur de la présente loi, à l'exception de la prime d'encouragement ou de rééducation versée aux personnes reconnues comme salarié handicapé et occupées dans les ateliers protégés, qui sera remplacée par un salaire conformément aux dispositions de l'article 21.
 
-<a id="art_N72371"></a>
+<a id="art_N764A2"></a>
 
 ### Art. 44.
 
@@ -37764,7 +40908,7 @@ Par dérogation aux nombres limites inscrits dans la loi budgétaire pour l'exer
 - deux fonctionnaires dans la carrière du rédacteur pour les besoins du service des salariés handicapés de l'Administration de l'Emploi;
 - un fonctionnaire dans la carrière du rédacteur pour les besoins du Ministère du Travail et de l'Emploi.
 
-<a id="art_N723AD"></a>
+<a id="art_N764DE"></a>
 
 ### Art. 45.
 
@@ -37778,13 +40922,13 @@ Au cas où les revenus de la personne handicapée admise au bénéfice du revenu
 
 Cette indemnité compensatoire est adaptée à l'indice des prix à la consommation et est soumise aux mêmes charges sociales que le revenu pour personnes gravement handicapées.
 
-<a id="art_N7241B"></a>
+<a id="art_N7654C"></a>
 
 ### Art. 46.
 
 Les dispositions de la présente loi entrent en vigueur le premier jour du neuvième mois après leur publication au Mémorial, à l'exception de l'article 44 qui entre en vigueur le quatrième jour après la publication au Mémorial.
 
-<a id="art_N7244D"></a>
+<a id="art_N7657E"></a>
 
 ### Art. 47.
 
@@ -37796,7 +40940,7 @@ La référence à la présente loi pourra se faire sous une forme abrégée en u
 
 #### Loi du 1er août 2007 portant approbation de l'Accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg relatif à la coopération dans les régions frontalières, conclu par échange de lettres le 23 mai 2005 à Luxembourg.
 
-<a id="art_N724C0"></a>
+<a id="art_N765F1"></a>
 
 ### Article unique.
 
@@ -37814,7 +40958,7 @@ Est approuvé l'Accord entre le Gouvernement du Royaume de Belgique avec la Rég
 
 #### Loi du 12 mai 1997 portant approbation de l'Accord entre le Grand-Duché de Luxembourg, la République fédérale d'Allemagne, la République française et la Confédération Suisse, agissant au nom des cantons de Soleure, de Bâle-Ville, de Bâle-Campagne, d'Argovie et du Jura sur la coopération transfrontalière des collectivités territoriales et organismes publics locaux, fait à Karlsruhe, le 23 janvier 1996.
 
-<a id="art_N72552"></a>
+<a id="art_N76683"></a>
 
 ### Article unique.
 
@@ -37832,7 +40976,7 @@ Est approuvé l'Accord entre le Gouvernement du Royaume de Belgique avec la Rég
 
 #### Loi du 31 juillet 1987 portant approbation de la Convention Benelux concernant la coopération transfrontalière entre collectivités ou autorités territoriales, signée à Bruxelles, le 12 septembre 1986.
 
-<a id="art_N725EB"></a>
+<a id="art_N7671C"></a>
 
 ### Article unique.
 
@@ -37850,13 +40994,13 @@ Est approuvée la Convention Benelux concernant la coopération transfrontalièr
 
 #### Loi du 18 mai 1999 portant approbation du Protocole no. 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération interterritoriale, fait à Strasbourg, le 5 mai 1998.
 
-<a id="art_N7267D"></a>
+<a id="art_N767AE"></a>
 
 ### Art. 1er.
 
 Est approuvé le Protocole No2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération inter-territoriale, fait à Strasbourg, le 5 mai 1998.
 
-<a id="art_N72690"></a>
+<a id="art_N767C1"></a>
 
 ### Art. 2.
 
@@ -37874,7 +41018,7 @@ Le Grand-Duché de Luxembourg applique, conformément aux dispositions de l'arti
 
 #### Loi du 26 novembre 1996 portant approbation du Protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, signé à Strasbourg, le 9 novembre 1995.
 
-<a id="art_N72722"></a>
+<a id="art_N76853"></a>
 
 ### Article unique.
 
@@ -37892,7 +41036,7 @@ Est approuvé le Protocole additionnel à la Convention-cadre européenne sur la
 
 #### Loi du 29 novembre 1982 portant approbation de la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, signée à Madrid, le 21 mai 1980.
 
-<a id="art_N727B4"></a>
+<a id="art_N768E5"></a>
 
 ### Article unique.
 
