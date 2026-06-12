@@ -1,10 +1,10 @@
 ---
-lex_id: lu-legilux:recueil-etrangers:2025-04-20
+lex_id: lu-legilux:recueil-etrangers:2026-06-12
 title: Statut des personnes de nationalité étrangère
-valid_from: 2025-04-20
-valid_to: 2026-06-11
-source: https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20250420/fr
-source_sha256: 4a2c4f0895c75de53f3a7952684f91d9223e08df9131fa095bac526ae937a66c
+valid_from: 2026-06-12
+valid_to: open
+source: https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20260612/fr
+source_sha256: e22a072ef2ce3b95055f3a39957de08b31057a609408d17414c00d966ab5c5a0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
 generator: akn-lu/1 · lex derive
@@ -90,7 +90,7 @@ La présente loi entrera en vigueur au moment de la mise en vigueur de la Conven
 
 La loi du 17 avril 1970 ayant pour objet l'habiliter les agents de l'administration des douanes à exercer aux frontières certaines attributions de la police générale, est abrogée à la même date.
 
-#### **Version consolidée applicable au 24/12/2024 : Loi du 29 août 2008 1) portant sur la libre circulation des personnes et l'immigration; 2) modifiant - la loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection, - la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti, - le Code du travail, - le Code pénal; 3) abrogeant - la loi modifiée du 28 mars 1972 concernant 1. l'entrée et le séjour des étrangers; 2. le contrôle médical des étrangers; 3. l'emploi de la main-d'oeuvre étrangère, - la loi du 26 juin 1953 portant fixation des taxes à percevoir en matière de cartes d'identité pour étrangers, - la loi du 28 octobre 1920 destinée à endiguer l'affluence exagérée d'étrangers sur le territoire du Grand-Duché.**
+#### **Version consolidée applicable au 12/06/2026 : Loi du 29 août 2008 1) portant sur la libre circulation des personnes et l’immigration; 2) modifiant - la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection, - la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti, - le Code du travail, - le Code pénal; 3) abrogeant - la loi modifiée du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers; 3. l’emploi de la main-d’oeuvre étrangère, - la loi du 26 juin 1953 portant fixation des taxes à percevoir en matière de cartes d’identité pour étrangers, - la loi du 28 octobre 1920 destinée à endiguer l’affluence exagérée d’étrangers sur le territoire du Grand-Duché.**
 
 ##### Chapitre 1er. — Dispositions générales
 
@@ -98,7 +98,7 @@ La loi du 17 avril 1970 ayant pour objet l'habiliter les agents de l'administrat
 
 ### Art. 1er.
 
-**(1)** La présente loi a pour objet de régler l'entrée et le séjour des étrangers sur le territoire du Grand-Duché de Luxembourg. Elle règle de même les conditions dans lesquelles les étrangers peuvent ou doivent quitter le territoire.
+**(1)** La présente loi a pour objet de régler l’entrée et le séjour des étrangers sur le territoire du Grand-Duché de Luxembourg. Elle règle de même les conditions dans lesquelles les étrangers peuvent ou doivent quitter le territoire.
 
 **(2)** Sans préjudice des dispositions plus spécifiques de la loi du 16 décembre 2008 concernant l’accueil et l’intégration des étrangers au Grand-Duché de Luxembourg, elle a également comme objet de promouvoir l’intégration des étrangers en vue de favoriser la cohésion sociale sur base des valeurs constitutionnelles et de permettre aux étrangers en séjour régulier et durable de participer à la vie économique, sociale et culturelle.
 
@@ -106,15 +106,15 @@ La loi du 17 avril 1970 ayant pour objet l'habiliter les agents de l'administrat
 
 ### Art. 2.
 
-**(1)** Les dispositions de la présente loi ne s'appliquent pas aux bénéficiaires d'une protection internationale au sens de la loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection, à l'exception de celles prévues au chapitre 3, section 2, sous-section 6 de la présente loi.
+**(1)** Les dispositions de la présente loi ne s’appliquent pas aux bénéficiaires d’une protection internationale au sens de la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection, à l’exception de celles prévues au chapitre 3, section 2, sous-section 6 de la présente loi.
 
 Elles ne s’appliquent pas non plus aux demandeurs d’une protection internationale et aux bénéficiaires d’une protection temporaire qui tombent sous le champ d’application de la loi du 5 mai 2006 précitée.
 
-**(2)** Ne tombent pas sous le champ d'application de la présente loi, les étrangers ayant le statut diplomatique et qui sont détenteurs d'une carte diplomatique délivrée par le ministre ayant les Affaires étrangères dans ses attributions.
+**(2)** Ne tombent pas sous le champ d’application de la présente loi, les étrangers ayant le statut diplomatique et qui sont détenteurs d’une carte diplomatique délivrée par le ministre ayant les Affaires étrangères dans ses attributions.
 
-Les membres du personnel des ambassades et des consulats dont le chef de poste est un agent de carrière et qui sont détenteurs d'une carte de légitimation délivrée par le ministre des Affaires étrangères ne sont pas soumis aux conditions de séjour établies par la présente loi.
+Les membres du personnel des ambassades et des consulats dont le chef de poste est un agent de carrière et qui sont détenteurs d’une carte de légitimation délivrée par le ministre des Affaires étrangères ne sont pas soumis aux conditions de séjour établies par la présente loi.
 
-**(3)** Il en va de même des personnes qui, en vertu d'un accord international, ne sont pas soumises aux dispositions limitant l'immigration et aux formalités d'enregistrement des étrangers, à condition que leur présence ait été portée officiellement à la connaissance du gouvernement luxembourgeois.
+**(3)** Il en va de même des personnes qui, en vertu d’un accord international, ne sont pas soumises aux dispositions limitant l’immigration et aux formalités d’enregistrement des étrangers, à condition que leur présence ait été portée officiellement à la connaissance du gouvernement luxembourgeois.
 
 <a id="art_N1055C"></a>
 
@@ -122,13 +122,13 @@ Les membres du personnel des ambassades et des consulats dont le chef de poste e
 
 Aux fins de la présente loi, on entend par:
 
-1. étranger: toute personne qui ne possède pas la nationalité luxembourgeoise, soit qu'elle possède à titre exclusif une autre nationalité, soit qu'elle n'en possède aucune;
-2. citoyen de l'Union: toute personne ayant la nationalité d'un Etat membre de l'Union européenne qui exerce son droit à la libre circulation;
+1. étranger: toute personne qui ne possède pas la nationalité luxembourgeoise, soit qu’elle possède à titre exclusif une autre nationalité, soit qu’elle n’en possède aucune;
+2. citoyen de l’Union: toute personne ayant la nationalité d’un Etat membre de l’Union européenne qui exerce son droit à la libre circulation;
 3. ressortissant de pays tiers: toute personne qui n’est pas citoyen de l’Union européenne ou qui ne jouit pas du droit communautaire à la libre circulation;
-4. travailleur: toute personne exerçant des activités salariées ou indépendantes réelles et effectives, à l'exclusion d'activités tellement réduites qu'elles se présentent comme purement marginales et accessoires;
-5. activité salariée: toute activité économique rémunérée exercée pour le compte d'une autre personne et sous la direction de celle-ci;
-6. activité indépendante: toute activité économique rémunérée qui n'est pas exercée pour le compte d'une autre personne et sous la direction de celle-ci;
-7. ministre: le membre du gouvernement ayant l'immigration dans ses attributions ;
+4. travailleur: toute personne exerçant des activités salariées ou indépendantes réelles et effectives, à l’exclusion d’activités tellement réduites qu’elles se présentent comme purement marginales et accessoires;
+5. activité salariée: toute activité économique rémunérée exercée pour le compte d’une autre personne et sous la direction de celle-ci;
+6. activité indépendante: toute activité économique rémunérée qui n’est pas exercée pour le compte d’une autre personne et sous la direction de celle-ci;
+7. ministre: le membre du gouvernement ayant l’immigration dans ses attributions ;
 8. éloignement : le transfert physique d’un étranger hors du territoire du Grand-Duché de Luxembourg en exécution d’une décision d’éloignement, d’une décision de retour ou d’expulsion, d’une décision de départ, d’une décision de renvoi ou d’une décision de transfert ;
 9. site de continuité d’activité: toute installation d’une entité publique ou privée, gérée par celle-ci ou par un tiers, permettant d’assurer, de manière temporaire, le maintien, voire le rétablisse­ment, de ses activités et prestations de services, en l’occurrence d’un incident majeur empê­chant l’exercice normal de celles-ci à partir du pays d’origine de l’entité en question.
 
@@ -138,96 +138,96 @@ Aux fins de la présente loi, on entend par:
 
 **(1)** Au sens de la présente loi, on entend par attestation de prise en charge l’engagement pris par une personne physique qui possède la nationalité luxembourgeoise et réside au Grand-Duché de Luxembourg ou qui est autorisée à séjourner au Grand-Duché de Luxembourg pour une durée d’au moins un an, à l’égard d’un étranger et de l’État luxembourgeois de prendre en charge les frais de séjour, y compris les frais de santé, et de retour de l’étranger pour une durée déterminée qui ne peut pas dépasser une durée de quatre-vingt-dix jours en cas d’un séjour allant jusqu’à quatre-vingt-dix jours et une durée d’un an en cas d’un séjour supérieur à trois mois. L’engagement peut être renouvelé.
 
-**(2)** La personne qui signe l'engagement de prise en charge doit rapporter la preuve qu'elle dispose de ressources stables, régulières et suffisantes, sans avoir recours au système d’assistance sociale . Elle est, pendant une durée de deux ans à partir de l’entrée de l’étranger sur le territoire de l’Espace Schengen , solidairement responsable avec l'étranger à l'égard de l'Etat du remboursement des frais visés au paragraphe (1).
+**(2)** La personne qui signe l’engagement de prise en charge doit rapporter la preuve qu’elle dispose de ressources stables, régulières et suffisantes, sans avoir recours au système d’assistance sociale . Elle est, pendant une durée de deux ans à partir de l’entrée de l’étranger sur le territoire de l’Espace Schengen , solidairement responsable avec l’étranger à l’égard de l’Etat du remboursement des frais visés au paragraphe (1).
 
-**(4)** Les modalités de l'engagement de prise en charge et les modalités de la récupération des sommes à charge de la personne qui a signé l'engagement sont définies par règlement grand-ducal.
+**(4)** Les modalités de l’engagement de prise en charge et les modalités de la récupération des sommes à charge de la personne qui a signé l’engagement sont définies par règlement grand-ducal.
 
-##### Chapitre 2. — Le droit du citoyen de l'Union, du ressortissant des autres Etats parties à l'Accord sur l'Espace économique européen et de la Confédération suisse et des membres de leur famille, de circuler et de séjourner librement sur le territoire du Grand-Duché de Luxembourg
+##### Chapitre 2. — Le droit du citoyen de l’Union, du ressortissant des autres Etats parties à l’Accord sur l’Espace économique européen et de la Confédération suisse et des membres de leur famille, de circuler et de séjourner librement sur le territoire du Grand-Duché de Luxembourg
 
-##### Section 1. — Le droit d'entrée, de séjour et de sortie du citoyen de l'Union
+##### Section 1. — Le droit d’entrée, de séjour et de sortie du citoyen de l’Union
 
 <a id="art_N106A2"></a>
 
 ### Art. 5.
 
-Le citoyen de l'Union muni d'une carte d'identité ou d'un passeport en cours de validité, a le droit d'entrer sur le territoire du Grand-Duché de Luxembourg et d'y séjourner pour une période allant jusqu'à trois mois, ainsi que le droit de quitter le territoire en vue de se rendre dans un autre Etat membre.
+Le citoyen de l’Union muni d’une carte d’identité ou d’un passeport en cours de validité, a le droit d’entrer sur le territoire du Grand-Duché de Luxembourg et d’y séjourner pour une période allant jusqu’à trois mois, ainsi que le droit de quitter le territoire en vue de se rendre dans un autre Etat membre.
 
 <a id="art_N106D4"></a>
 
 ### Art. 6.
 
-**(1)** Le citoyen de l'Union a le droit de séjourner sur le territoire pour une durée de plus de trois mois s'il satisfait à l'une des conditions suivantes:
+**(1)** Le citoyen de l’Union a le droit de séjourner sur le territoire pour une durée de plus de trois mois s’il satisfait à l’une des conditions suivantes:
 
 1. il exerce en tant que travailleur une activité salariée ou une activité indépendante;
-2. il dispose pour lui et pour les membres de sa famille tels que visés à l'article 12, de ressources suffisantes afin de ne pas devenir une charge pour le système d'assistance sociale, ainsi que d'une assurance maladie;
-3. il est inscrit dans un établissement d'enseignement public ou privé agréé au Grand-Duché de Luxembourg conformément aux dispositions législatives et réglementaires en vigueur, pour y suivre à titre principal des études ou, dans ce cadre, une formation professionnelle, tout en garantissant disposer de ressources suffisantes pour lui-même et pour les membres de sa famille afin d'éviter de devenir une charge pour le système d'assistance sociale et d'une assurance maladie.
+2. il dispose pour lui et pour les membres de sa famille tels que visés à l’article 12, de ressources suffisantes afin de ne pas devenir une charge pour le système d’assistance sociale, ainsi que d’une assurance maladie;
+3. il est inscrit dans un établissement d’enseignement public ou privé agréé au Grand-Duché de Luxembourg conformément aux dispositions législatives et réglementaires en vigueur, pour y suivre à titre principal des études ou, dans ce cadre, une formation professionnelle, tout en garantissant disposer de ressources suffisantes pour lui-même et pour les membres de sa famille afin d’éviter de devenir une charge pour le système d’assistance sociale et d’une assurance maladie.
 
 **(2)** Un règlement grand-ducal précise les ressources exigées aux points 2 et 3 du paragraphe (1) qui précède, et les modalités selon lesquelles la preuve en est rapportée.
 
-**(3)** Durant le temps de validité des mesures prises en application des dispositions transitoires aux traités d'adhésion à l'Union européenne et à l'Accord sur l'Espace économique européen, les travailleurs salariés ressortissants de ces Etats demeurent soumis à l'octroi d'une autorisation de travail.
+**(3)** Durant le temps de validité des mesures prises en application des dispositions transitoires aux traités d’adhésion à l’Union européenne et à l’Accord sur l’Espace économique européen, les travailleurs salariés ressortissants de ces Etats demeurent soumis à l’octroi d’une autorisation de travail.
 
 <a id="art_N1073A"></a>
 
 ### Art. 7.
 
-**(1)** Le citoyen de l'Union conserve la qualité de travailleur après avoir exercé une activité salariée ou indépendante sur le territoire, s'il satisfait à l'une des conditions suivantes:
+**(1)** Le citoyen de l’Union conserve la qualité de travailleur après avoir exercé une activité salariée ou indépendante sur le territoire, s’il satisfait à l’une des conditions suivantes:
 
-1. il est frappé par une incapacité de travail temporaire résultant d'une maladie ou d'un accident;
-2. il se trouve en chômage involontaire après avoir travaillé pendant plus d'un an et s'est fait enregistrer en qualité de demandeur d'emploi auprès de l'Administration de l'Emploi;
-3. il entreprend une formation professionnelle, devant être en lien avec l'activité salariée antérieure, à moins qu'il ne se trouve en situation de chômage involontaire.
+1. il est frappé par une incapacité de travail temporaire résultant d’une maladie ou d’un accident;
+2. il se trouve en chômage involontaire après avoir travaillé pendant plus d’un an et s’est fait enregistrer en qualité de demandeur d’emploi auprès de l’Administration de l’Emploi;
+3. il entreprend une formation professionnelle, devant être en lien avec l’activité salariée antérieure, à moins qu’il ne se trouve en situation de chômage involontaire.
 
 **(2)** Il conserve la qualité de travailleur pendant six mois:
 
-1. s'il se trouve en chômage involontaire et s'est fait enregistrer en qualité de demandeur d'emploi auprès de l'Administration de l'Emploi, à la fin de son contrat de travail à durée déterminée inférieure à un an ou
-2. s'il se trouve en chômage involontaire dans les douze premiers mois qui suivent la conclusion de son contrat de travail et s'est fait enregistrer en qualité de demandeur d'emploi auprès de l'Administration de l'Emploi.
+1. s’il se trouve en chômage involontaire et s’est fait enregistrer en qualité de demandeur d’emploi auprès de l’Administration de l’Emploi, à la fin de son contrat de travail à durée déterminée inférieure à un an ou
+2. s’il se trouve en chômage involontaire dans les douze premiers mois qui suivent la conclusion de son contrat de travail et s’est fait enregistrer en qualité de demandeur d’emploi auprès de l’Administration de l’Emploi.
 
 <a id="art_N1079A"></a>
 
 ### Art. 8.
 
-**(1)** Sans préjudice des réglementations existantes en matière de registres de la population, le citoyen de l'Union tel que visé à l'article 6, paragraphe (1) qui a l'intention de séjourner sur le territoire pour une durée supérieure à trois mois, sollicite la délivrance d'une attestation d'enregistrement auprès de l'administration communale du lieu de sa résidence dans un délai de trois mois suivant son arrivée.
+**(1)** Sans préjudice des réglementations existantes en matière de registres de la population, le citoyen de l’Union tel que visé à l’article 6, paragraphe (1) qui a l’intention de séjourner sur le territoire pour une durée supérieure à trois mois, sollicite la délivrance d’une attestation d’enregistrement auprès de l’administration communale du lieu de sa résidence dans un délai de trois mois suivant son arrivée.
 
-**(2)** Pour la délivrance de l'attestation d'enregistrement, le citoyen de l'Union doit justifier qu'il rentre dans une des catégories visées à l'article 6, paragraphe (1) et qu'il remplit les conditions s'y rapportant. A cet effet, il devra présenter les pièces énumérées par règlement grand-ducal.
+**(2)** Pour la délivrance de l’attestation d’enregistrement, le citoyen de l’Union doit justifier qu’il rentre dans une des catégories visées à l’article 6, paragraphe (1) et qu’il remplit les conditions s’y rapportant. A cet effet, il devra présenter les pièces énumérées par règlement grand-ducal.
 
-**(3)** A la réception des pièces visées au paragraphe (2) qui précède, l'attestation d'enregistrement est remise immédiatement et d’après les modalités à déterminer par règlement grand-ducal .
+**(3)** A la réception des pièces visées au paragraphe (2) qui précède, l’attestation d’enregistrement est remise immédiatement et d’après les modalités à déterminer par règlement grand-ducal .
 
-**(4)** Cette attestation n'établit pas un droit au séjour. Sa possession ne peut en aucun cas constituer une condition préalable à l'exercice d'un droit ou à l'accomplissement d'une autre formalité administrative.
+**(4)** Cette attestation n’établit pas un droit au séjour. Sa possession ne peut en aucun cas constituer une condition préalable à l’exercice d’un droit ou à l’accomplissement d’une autre formalité administrative.
 
 <a id="art_N1081E"></a>
 
 ### Art. 9.
 
-**(1)** Le citoyen de l'Union qui rapporte la preuve d'un séjour légal ininterrompu de cinq ans au pays acquiert le droit de séjour permanent. Ce droit n'est pas soumis aux conditions prévues à l'article 6, paragraphe (1).
+**(1)** Le citoyen de l’Union qui rapporte la preuve d’un séjour légal ininterrompu de cinq ans au pays acquiert le droit de séjour permanent. Ce droit n’est pas soumis aux conditions prévues à l’article 6, paragraphe (1).
 
-**(2)** La continuité du séjour n'est pas affectée par des absences temporaires ne dépassant pas au total six mois par an, ni par des absences plus longues pour l'accomplissement d'obligations militaires, ni par une absence ininterrompue de douze mois consécutifs au maximum pour des raisons importantes telles qu'une grossesse et un accouchement, une maladie grave, des études ou une formation professionnelle, ou le détachement pour raisons professionnelles dans un autre Etat membre ou un pays tiers.
+**(2)** La continuité du séjour n’est pas affectée par des absences temporaires ne dépassant pas au total six mois par an, ni par des absences plus longues pour l’accomplissement d’obligations militaires, ni par une absence ininterrompue de douze mois consécutifs au maximum pour des raisons importantes telles qu’une grossesse et un accouchement, une maladie grave, des études ou une formation professionnelle, ou le détachement pour raisons professionnelles dans un autre Etat membre ou un pays tiers.
 
-**(3)** Une fois acquis, le droit de séjour permanent ne se perd que par des absences d'une durée supérieure à deux ans consécutifs du territoire.
+**(3)** Une fois acquis, le droit de séjour permanent ne se perd que par des absences d’une durée supérieure à deux ans consécutifs du territoire.
 
-**(4)** La continuité du séjour peut être attestée par tout moyen de preuve. Elle est interrompue par l'exécution d'une décision d'éloignement du territoire.
+**(4)** La continuité du séjour peut être attestée par tout moyen de preuve. Elle est interrompue par l’exécution d’une décision d’éloignement du territoire.
 
 <a id="art_N10887"></a>
 
 ### Art. 10.
 
-**(1)** Par dérogation à l'article 9, paragraphe (1), ont un droit de séjour permanent au Luxembourg, avant l'écoulement d'une période de séjour ininterrompu de cinq ans:
+**(1)** Par dérogation à l’article 9, paragraphe (1), ont un droit de séjour permanent au Luxembourg, avant l’écoulement d’une période de séjour ininterrompu de cinq ans:
 
-1. le travailleur salarié ou indépendant qui, au moment où il cesse son activité, a atteint l'âge pour faire valoir ses droits à une pension de vieillesse ou le travailleur qui cesse son activité à la suite d'une mise à la retraite anticipée, s'il y a exercé son activité pendant les douze derniers mois au moins et séjourne sur le territoire sans interruption depuis plus de trois ans;
-2. le travailleur salarié ou indépendant qui cesse son activité à la suite d'une incapacité permanente de travail, s'il séjourne au pays sans interruption depuis plus de deux ans; si l'incapacité résulte d'un accident de travail ou d'une maladie professionnelle ouvrant droit pour la personne concernée à une prestation entièrement ou partiellement à charge, aucune condition de durée de séjour n'est requise;
-3. le travailleur qui, après trois ans d'activité et de séjour ininterrompus au pays, exerce une activité salariée ou indépendante sur le territoire d'un autre Etat membre, tout en gardant sa résidence au Grand-Duché de Luxembourg où il retourne, en principe, chaque jour ou au moins une fois par semaine.
+1. le travailleur salarié ou indépendant qui, au moment où il cesse son activité, a atteint l’âge pour faire valoir ses droits à une pension de vieillesse ou le travailleur qui cesse son activité à la suite d’une mise à la retraite anticipée, s’il y a exercé son activité pendant les douze derniers mois au moins et séjourne sur le territoire sans interruption depuis plus de trois ans;
+2. le travailleur salarié ou indépendant qui cesse son activité à la suite d’une incapacité permanente de travail, s’il séjourne au pays sans interruption depuis plus de deux ans; si l’incapacité résulte d’un accident de travail ou d’une maladie professionnelle ouvrant droit pour la personne concernée à une prestation entièrement ou partiellement à charge, aucune condition de durée de séjour n’est requise;
+3. le travailleur qui, après trois ans d’activité et de séjour ininterrompus au pays, exerce une activité salariée ou indépendante sur le territoire d’un autre Etat membre, tout en gardant sa résidence au Grand-Duché de Luxembourg où il retourne, en principe, chaque jour ou au moins une fois par semaine.
 
-**(2)** Aux fins de l'acquisition des droits prévus aux points 1 et 2 du paragraphe (1) qui précède, les périodes d'activité ainsi accomplies sur le territoire d'un autre Etat membre sont considérées comme accomplies au Grand-Duché de Luxembourg.
+**(2)** Aux fins de l’acquisition des droits prévus aux points 1 et 2 du paragraphe (1) qui précède, les périodes d’activité ainsi accomplies sur le territoire d’un autre Etat membre sont considérées comme accomplies au Grand-Duché de Luxembourg.
 
-**(3)** Les périodes de chômage involontaire dûment constatées, les périodes d'arrêt d'activité indépendantes de la volonté du travailleur et l'absence ou l'arrêt du travail pour cause de maladie ou accident, sont considérées comme périodes d'activité.
+**(3)** Les périodes de chômage involontaire dûment constatées, les périodes d’arrêt d’activité indépendantes de la volonté du travailleur et l’absence ou l’arrêt du travail pour cause de maladie ou accident, sont considérées comme périodes d’activité.
 
-**(4)** La condition d'activité et les conditions de séjour prévues respectivement au point 1 du paragraphe (1) et aux points 1 et 2 du paragraphe (1) qui précède, ne s'appliquent pas si le conjoint du travailleur est ressortissant luxembourgeois ou s'il a perdu la nationalité luxembourgeoise à la suite de son mariage avec le travailleur.
+**(4)** La condition d’activité et les conditions de séjour prévues respectivement au point 1 du paragraphe (1) et aux points 1 et 2 du paragraphe (1) qui précède, ne s’appliquent pas si le conjoint du travailleur est ressortissant luxembourgeois ou s’il a perdu la nationalité luxembourgeoise à la suite de son mariage avec le travailleur.
 
 <a id="art_N108FD"></a>
 
 ### Art. 11.
 
-Le citoyen de l'Union qui acquiert le droit de séjour permanent reçoit un document attestant de la permanence de son séjour d'après les modalités à déterminer par règlement grand-ducal.
+Le citoyen de l’Union qui acquiert le droit de séjour permanent reçoit un document attestant de la permanence de son séjour d’après les modalités à déterminer par règlement grand-ducal.
 
-##### Section 2. — Le droit d'entrée, de séjour et de sortie des membres de la famille du citoyen de l'Union et du ressortissant des autres Etats parties à l'Accord sur l'Espace économique européen et de la Confédération suisse
+##### Section 2. — Le droit d’entrée, de séjour et de sortie des membres de la famille du citoyen de l’Union et du ressortissant des autres Etats parties à l’Accord sur l’Espace économique européen et de la Confédération suisse
 
 <a id="art_N1093B"></a>
 
@@ -238,18 +238,18 @@ Le citoyen de l'Union qui acquiert le droit de séjour permanent reçoit un docu
 1. le conjoint;
 2. loi modifiée du 9 juillet 2004
 3. les descendants directs et les descendants directs du conjoint ou du partenaire visé au point b) qui sont âgés de moins de 21 ans ou qui sont à charge;
-4. les ascendants directs à charge du citoyen de l'Union et les ascendants directs à charge du conjoint ou du partenaire visé au point b).
+4. les ascendants directs à charge du citoyen de l’Union et les ascendants directs à charge du conjoint ou du partenaire visé au point b).
 
-**(2)** Le ministre peut autoriser tout autre membre de la famille, quelle que soit sa nationalité, qui n'est pas couvert par la définition figurant au paragraphe (1) à séjourner sur le territoire, s'il satisfait à l'une des conditions suivantes:
+**(2)** Le ministre peut autoriser tout autre membre de la famille, quelle que soit sa nationalité, qui n’est pas couvert par la définition figurant au paragraphe (1) à séjourner sur le territoire, s’il satisfait à l’une des conditions suivantes:
 
 1. dans le pays de provenance, il est à charge ou fait partie du ménage du citoyen de l’Union bénéficiaire du droit de séjour à titre principal ;
-2. le citoyen de l'Union doit impérativement et personnellement s'occuper pour des raisons de santé graves du membre de la famille concerné.
+2. le citoyen de l’Union doit impérativement et personnellement s’occuper pour des raisons de santé graves du membre de la famille concerné.
 3. 3. Le caractère durable de la relation est examiné au regard de l’intensité, de l’ancienneté et de la stabilité des liens entre les partenaires. La preuve du caractère durable peut être rapportée par tous moyens. Il est démontré si les partenaires prouvent: 1. qu’ils ont cohabité de manière légale et ininterrompue pendant au moins un an avant la demande;
 2. qu’ils ont un enfant commun dont ils assument ensemble les responsabilités parentales. Les partenaires ne doivent pas être engagés dans des liens de mariage, de partenariat déclaré ou de relation durable avec une autre personne.
 
-La demande d'entrée et de séjour des membres de la famille visés à l'alinéa qui précède est soumise à un examen approfondi tenant compte de leur situation personnelle. Toute décision de refus d’entrée ou de séjour est motivée conformément à l’article 109.
+La demande d’entrée et de séjour des membres de la famille visés à l’alinéa qui précède est soumise à un examen approfondi tenant compte de leur situation personnelle. Toute décision de refus d’entrée ou de séjour est motivée conformément à l’article 109.
 
-**(3)** Les membres de la famille, citoyens de l'Union ou ressortissants de pays tiers, d'un citoyen luxembourgeois sont assimilés aux membres de la famille du citoyen de l'Union.
+**(3)** Les membres de la famille, citoyens de l’Union ou ressortissants de pays tiers, d’un citoyen luxembourgeois sont assimilés aux membres de la famille du citoyen de l’Union.
 
 <a id="art_N10A0A"></a>
 
@@ -259,56 +259,56 @@ La demande d'entrée et de séjour des membres de la famille visés à l'alinéa
 
 **(2)** S’ils sont en possession d’une carte de séjour en cours de validité visée à l’article 15, les membres de la famille ne sont pas soumis à l’obligation du visa d’entrée ou de l’autorisation de voyage.
 
-**(3)** Ils ont le droit de quitter le territoire en vue de se rendre dans un autre Etat membre, sans qu'un visa de sortie ou une obligation équivalente ne puissent leur être imposés.
+**(3)** Ils ont le droit de quitter le territoire en vue de se rendre dans un autre Etat membre, sans qu’un visa de sortie ou une obligation équivalente ne puissent leur être imposés.
 
 <a id="art_N10A7B"></a>
 
 ### Art. 14.
 
-**(1)** Les membres de la famille définis à l'article 12 qui sont eux-mêmes citoyens de l'Union, bénéficient d'un droit de séjour tel que prévu à l'article 6, s'ils accompagnent ou rejoignent un citoyen de l'Union. Ce droit de séjour s'étend également aux membres de la famille qui sont des ressortissants de pays tiers s'ils accompagnent ou rejoignent un citoyen de l'Union, qui lui-même satisfait aux conditions énoncées à l'article 6, paragraphe (1), points 1 ou 2.
+**(1)** Les membres de la famille définis à l’article 12 qui sont eux-mêmes citoyens de l’Union, bénéficient d’un droit de séjour tel que prévu à l’article 6, s’ils accompagnent ou rejoignent un citoyen de l’Union. Ce droit de séjour s’étend également aux membres de la famille qui sont des ressortissants de pays tiers s’ils accompagnent ou rejoignent un citoyen de l’Union, qui lui-même satisfait aux conditions énoncées à l’article 6, paragraphe (1), points 1 ou 2.
 
-**(2)** Par dérogation au paragraphe (1) qui précède, seul le conjoint, le partenaire enregistré et l'enfant à charge, quelle que soit leur nationalité, accompagnant ou rejoignant le citoyen de l'Union qui remplit la condition énoncée à l'article 6, paragraphe (1), point 3, bénéficient du droit de séjour en tant que membres de famille.
+**(2)** Par dérogation au paragraphe (1) qui précède, seul le conjoint, le partenaire enregistré et l’enfant à charge, quelle que soit leur nationalité, accompagnant ou rejoignant le citoyen de l’Union qui remplit la condition énoncée à l’article 6, paragraphe (1), point 3, bénéficient du droit de séjour en tant que membres de famille.
 
-Toutefois, en ce qui concerne le droit de séjour des ascendants directs à charge de l'étudiant ou de son conjoint ou partenaire enregistré, le paragraphe (2) de l'article 12 est applicable.
+Toutefois, en ce qui concerne le droit de séjour des ascendants directs à charge de l’étudiant ou de son conjoint ou partenaire enregistré, le paragraphe (2) de l’article 12 est applicable.
 
 <a id="art_N10ACD"></a>
 
 ### Art. 15.
 
-**(1)** Pour un séjour d'une durée supérieure à trois mois, les membres de la famille du citoyen de l'Union doivent soit se faire enregistrer, s'ils sont eux-mêmes citoyens de l'Union, soit, s'ils sont ressortissants d'un pays tiers, faire une demande de carte de séjour, dans les trois mois suivant leur arrivée, auprès de l'administration communale du lieu de leur résidence, d'après les modalités à déterminer par règlement grand-ducal, et ce sans préjudice des réglementations existantes en matière de registre de la population.
+**(1)** Pour un séjour d’une durée supérieure à trois mois, les membres de la famille du citoyen de l’Union doivent soit se faire enregistrer, s’ils sont eux-mêmes citoyens de l’Union, soit, s’ils sont ressortissants d’un pays tiers, faire une demande de carte de séjour, dans les trois mois suivant leur arrivée, auprès de l’administration communale du lieu de leur résidence, d’après les modalités à déterminer par règlement grand-ducal, et ce sans préjudice des réglementations existantes en matière de registre de la population.
 
-**(2)** Pour la délivrance de l'attestation d'enregistrement ou de la carte de séjour, les membres de la famille doivent présenter les documents déterminés par règlement grand-ducal.
+**(2)** Pour la délivrance de l’attestation d’enregistrement ou de la carte de séjour, les membres de la famille doivent présenter les documents déterminés par règlement grand-ducal.
 
-**(3)** La carte de séjour est délivrée par le ministre pour une durée de cinq ans, sinon pour une durée correspondant à la durée de séjour envisagée du citoyen de l'Union dont ils dépendent, si celle-ci est inférieure à cinq ans et d’après les modalités à déterminer par règlement grand-ducal .
+**(3)** La carte de séjour est délivrée par le ministre pour une durée de cinq ans, sinon pour une durée correspondant à la durée de séjour envisagée du citoyen de l’Union dont ils dépendent, si celle-ci est inférieure à cinq ans et d’après les modalités à déterminer par règlement grand-ducal .
 
-**(4)** La validité de la carte de séjour n'est pas affectée par des absences temporaires ne dépassant pas six mois par an ou par des absences d'une durée plus longue conformément aux dispositions de l'article 9, paragraphe (2).
+**(4)** La validité de la carte de séjour n’est pas affectée par des absences temporaires ne dépassant pas six mois par an ou par des absences d’une durée plus longue conformément aux dispositions de l’article 9, paragraphe (2).
 
 <a id="art_N10B51"></a>
 
 ### Art. 16.
 
-**(1)** Le droit de séjour des membres de la famille qui sont eux-mêmes citoyens de l'Union n'est pas affecté par:
+**(1)** Le droit de séjour des membres de la famille qui sont eux-mêmes citoyens de l’Union n’est pas affecté par:
 
-1. le départ du pays du citoyen de l'Union;
+1. le départ du pays du citoyen de l’Union;
 2. son décès;
-3. le divorce ou l'annulation du mariage, ou la rupture du partenariat enregistré.
+3. le divorce ou l’annulation du mariage, ou la rupture du partenariat enregistré.
 
-**(2)** Dans les circonstances prévues au paragraphe (1), les membres de la famille doivent avant l'acquisition du droit de séjour permanent, entrer à titre individuel dans l'une des catégories définies à l'article 6, paragraphe (1) ou à l'article 14.
+**(2)** Dans les circonstances prévues au paragraphe (1), les membres de la famille doivent avant l’acquisition du droit de séjour permanent, entrer à titre individuel dans l’une des catégories définies à l’article 6, paragraphe (1) ou à l’article 14.
 
 <a id="art_N10BA7"></a>
 
 ### Art. 17.
 
-**(1)** Le décès du citoyen de l'Union n'entraîne pas la perte du droit de séjour des membres de sa famille ressortissants de pays tiers, pour autant que ceux-ci séjournent au pays depuis au moins un an avant le décès du citoyen de l'Union.
+**(1)** Le décès du citoyen de l’Union n’entraîne pas la perte du droit de séjour des membres de sa famille ressortissants de pays tiers, pour autant que ceux-ci séjournent au pays depuis au moins un an avant le décès du citoyen de l’Union.
 
-**(2)** Le départ du pays du citoyen de l'Union ou son décès n'entraîne pas la perte du droit de séjour de ses enfants ou du parent qui en a effectivement la garde, quelle que soit leur nationalité, pour autant que ces membres de famille séjournent au pays et que les enfants y soient inscrits dans un établissement scolaire pour y suivre un enseignement, jusqu'à la fin de leurs études.
+**(2)** Le départ du pays du citoyen de l’Union ou son décès n’entraîne pas la perte du droit de séjour de ses enfants ou du parent qui en a effectivement la garde, quelle que soit leur nationalité, pour autant que ces membres de famille séjournent au pays et que les enfants y soient inscrits dans un établissement scolaire pour y suivre un enseignement, jusqu’à la fin de leurs études.
 
-**(3)** Le divorce, l'annulation du mariage ou la rupture du partenariat du citoyen de l'Union n'entraîne pas la perte du droit de séjour des membres de sa famille ressortissants de pays tiers, si une des conditions suivantes est remplie:
+**(3)** Le divorce, l’annulation du mariage ou la rupture du partenariat du citoyen de l’Union n’entraîne pas la perte du droit de séjour des membres de sa famille ressortissants de pays tiers, si une des conditions suivantes est remplie:
 
-1. le mariage ou le partenariat enregistré a duré au moins trois ans avant le début de la procédure judiciaire de divorce ou d'annulation ou la rupture, dont un an au moins au pays;
-2. la garde des enfants du citoyen de l'Union a été confiée, par accord entre les conjoints ou les partenaires ou par décision de justice, au conjoint ou au partenaire ressortissant de pays tiers;
-3. des situations particulièrement difficiles l'exigent, notamment lorsque la communauté de vie a été rompue en raison d'actes de violence domestique subis;
-4. le conjoint ou le partenaire ressortissant de pays tiers bénéficie, par accord entre les conjoints ou partenaires ou par décision de justice, d'un droit de visite à l'enfant mineur, à condition que le juge ait estimé que les visites devaient avoir lieu au pays et aussi longtemps qu'elles sont jugées nécessaires.
+1. le mariage ou le partenariat enregistré a duré au moins trois ans avant le début de la procédure judiciaire de divorce ou d’annulation ou la rupture, dont un an au moins au pays;
+2. la garde des enfants du citoyen de l’Union a été confiée, par accord entre les conjoints ou les partenaires ou par décision de justice, au conjoint ou au partenaire ressortissant de pays tiers;
+3. des situations particulièrement difficiles l’exigent, notamment lorsque la communauté de vie a été rompue en raison d’actes de violence domestique subis;
+4. le conjoint ou le partenaire ressortissant de pays tiers bénéficie, par accord entre les conjoints ou partenaires ou par décision de justice, d’un droit de visite à l’enfant mineur, à condition que le juge ait estimé que les visites devaient avoir lieu au pays et aussi longtemps qu’elles sont jugées nécessaires.
 
 <a id="art_N10C10"></a>
 
@@ -326,11 +326,11 @@ Les membres de la famille conservent leur droit de séjour exclusivement à titr
 
 ### Art. 20.
 
-**(1)** Le droit de séjour permanent prévu à l'article 9, s'étend aux membres de la famille définis à l'article 12, quelle que soit leur nationalité, qui rapportent la preuve d'un séjour légal ininterrompu de cinq ans au pays avec le citoyen de l'Union.
+**(1)** Le droit de séjour permanent prévu à l’article 9, s’étend aux membres de la famille définis à l’article 12, quelle que soit leur nationalité, qui rapportent la preuve d’un séjour légal ininterrompu de cinq ans au pays avec le citoyen de l’Union.
 
-**(2)** Quelle que soit leur nationalité, les membres de la famille d'un travailleur salarié ou indépendant qui séjournent avec lui sur le territoire ont un droit de séjour permanent, si le travailleur a lui-même acquis un droit de séjour permanent sur le territoire en vertu de l'article 10.
+**(2)** Quelle que soit leur nationalité, les membres de la famille d’un travailleur salarié ou indépendant qui séjournent avec lui sur le territoire ont un droit de séjour permanent, si le travailleur a lui-même acquis un droit de séjour permanent sur le territoire en vertu de l’article 10.
 
-**(3)** Si le décès intervient avant que le citoyen de l'Union exerçant une activité salariée ou indépendante au pays n'ait acquis le droit de séjour permanent, les membres de sa famille qui séjournent avec lui au pays, acquièrent un droit de séjour permanent, si une des conditions suivantes est remplie:
+**(3)** Si le décès intervient avant que le citoyen de l’Union exerçant une activité salariée ou indépendante au pays n’ait acquis le droit de séjour permanent, les membres de sa famille qui séjournent avec lui au pays, acquièrent un droit de séjour permanent, si une des conditions suivantes est remplie:
 
 1. à la date de son décès, le travailleur résidait de façon ininterrompue au Luxembourg pendant deux ans;
 2. son décès est dû à un accident de travail ou à une maladie professionnelle;
@@ -340,11 +340,11 @@ Les membres de la famille conservent leur droit de séjour exclusivement à titr
 
 ### Art. 21.
 
-**(1)** Les membres de la famille eux-mêmes citoyens de l'Union reçoivent un document attestant de la permanence du séjour d'après les modalités à déterminer par règlement grand-ducal.
+**(1)** Les membres de la famille eux-mêmes citoyens de l’Union reçoivent un document attestant de la permanence du séjour d’après les modalités à déterminer par règlement grand-ducal.
 
 **(2)** Les membres de la famille ressortissants de pays tiers reçoivent une carte de séjour permanent selon les modalités à déterminer par règlement grand-ducal.
 
-**(3)** Les interruptions de séjour d'une durée inférieure ou égale à deux ans consécutifs n'affectent pas la validité de la carte de séjour permanent.
+**(3)** Les interruptions de séjour d’une durée inférieure ou égale à deux ans consécutifs n’affectent pas la validité de la carte de séjour permanent.
 
 <a id="art_N10D3F"></a>
 
@@ -352,49 +352,49 @@ Les membres de la famille conservent leur droit de séjour exclusivement à titr
 
 Les membres de la famille du citoyen de l’Union quelle que soit leur nationalité, qui bénéficient du droit de séjour ou du droit de séjour permanent, ont le droit d’exercer une activité salariée ou non salariée.
 
-##### Section 3. — Limitations au droit du citoyen de l'Union, du ressortissant des autres Etats parties à l'Accord sur l'Espace économique européen et de la Confédération suisse et des membres de leur famille, de circuler et de séjourner librement sur le territoire du Grand-Duché de Luxembourg
+##### Section 3. — Limitations au droit du citoyen de l’Union, du ressortissant des autres Etats parties à l’Accord sur l’Espace économique européen et de la Confédération suisse et des membres de leur famille, de circuler et de séjourner librement sur le territoire du Grand-Duché de Luxembourg
 
 <a id="art_N10D9B"></a>
 
 ### Art. 23.
 
-Lorsqu'un citoyen de l'Union ou un membre de sa famille ressortissant de pays tiers, ne dispose pas lors de son entrée sur le territoire d'un document de voyage valable et le cas échéant du visa ou de l’autorisation de voyage requis, tous les moyens raisonnables lui sont accordés afin de lui permettre d'obtenir ou de se procurer, dans un délai raisonnable, les documents requis ou de faire confirmer ou prouver par d'autres moyens sa qualité de bénéficiaire du droit de circuler et de séjourner librement, avant de procéder à son éloignement.
+Lorsqu’un citoyen de l’Union ou un membre de sa famille ressortissant de pays tiers, ne dispose pas lors de son entrée sur le territoire d’un document de voyage valable et le cas échéant du visa ou de l’autorisation de voyage requis, tous les moyens raisonnables lui sont accordés afin de lui permettre d’obtenir ou de se procurer, dans un délai raisonnable, les documents requis ou de faire confirmer ou prouver par d’autres moyens sa qualité de bénéficiaire du droit de circuler et de séjourner librement, avant de procéder à son éloignement.
 
 <a id="art_N10DD9"></a>
 
 ### Art. 24.
 
-**(1)** Le citoyen de l'Union et les membres de sa famille ont un droit de séjour tel que prévu aux articles 5 et 13 tant qu'ils ne deviennent pas une charge déraisonnable pour le système d'assistance sociale.
+**(1)** Le citoyen de l’Union et les membres de sa famille ont un droit de séjour tel que prévu aux articles 5 et 13 tant qu’ils ne deviennent pas une charge déraisonnable pour le système d’assistance sociale.
 
-**(2)** Ils ont un droit de séjour d'une durée supérieure à trois mois tant qu'ils remplissent les conditions prévues aux articles 6, paragraphe (1) et 7 ou aux articles 14 et 16 à 18.
+**(2)** Ils ont un droit de séjour d’une durée supérieure à trois mois tant qu’ils remplissent les conditions prévues aux articles 6, paragraphe (1) et 7 ou aux articles 14 et 16 à 18.
 
-**(3)** Le recours au système d'assistance sociale par un citoyen de l'Union ou un membre de sa famille n'entraîne pas automatiquement une mesure d'éloignement du territoire.
+**(3)** Le recours au système d’assistance sociale par un citoyen de l’Union ou un membre de sa famille n’entraîne pas automatiquement une mesure d’éloignement du territoire.
 
-**(4)** La charge pour le système d'assistance sociale est évaluée en prenant notamment en compte le montant et la durée des prestations sociales non contributives qui ont été accordées, ainsi que la durée du séjour.
+**(4)** La charge pour le système d’assistance sociale est évaluée en prenant notamment en compte le montant et la durée des prestations sociales non contributives qui ont été accordées, ainsi que la durée du séjour.
 
 <a id="art_N10E42"></a>
 
 ### Art. 25.
 
-**(1)** En cas de non-respect des conditions visées à l'article 24, paragraphes (1) et (2) ou en cas d'abus de droit ou de fraude, le citoyen de l'Union et les membres de sa famille peuvent faire l'objet d'une décision de refus de séjour, d'un refus de délivrance ou de renouvellement d'une carte de séjour ou d'un retrait de celle-ci et, le cas échéant d'une décision d'éloignement.
+**(1)** En cas de non-respect des conditions visées à l’article 24, paragraphes (1) et (2) ou en cas d’abus de droit ou de fraude, le citoyen de l’Union et les membres de sa famille peuvent faire l’objet d’une décision de refus de séjour, d’un refus de délivrance ou de renouvellement d’une carte de séjour ou d’un retrait de celle-ci et, le cas échéant d’une décision d’éloignement.
 
-**(2)** L'expiration de la validité de la carte d'identité ou du passeport ayant permis au citoyen de l'Union et aux membres de sa famille d'entrer sur le territoire et d'obtenir une attestation d'enregistrement ou une carte de séjour ne peut justifier la prise d'une décision d'éloignement du territoire.
+**(2)** L’expiration de la validité de la carte d’identité ou du passeport ayant permis au citoyen de l’Union et aux membres de sa famille d’entrer sur le territoire et d’obtenir une attestation d’enregistrement ou une carte de séjour ne peut justifier la prise d’une décision d’éloignement du territoire.
 
 <a id="art_N10E8B"></a>
 
 ### Art. 26.
 
-Par dérogation à l'article 25, paragraphe (1), mais sans préjudice de l'article 27, le citoyen de l'Union et les membres de sa famille ne peuvent être éloignés du territoire lorsque le citoyen de l'Union est un travailleur, ou s'il est entré sur le territoire luxembourgeois pour chercher un emploi durant une période n'excédant pas six mois ou pour une période plus longue, s'il est en mesure de rapporter la preuve qu'il continue à chercher un emploi et qu'il a de réelles chances d'être engagé.
+Par dérogation à l’article 25, paragraphe (1), mais sans préjudice de l’article 27, le citoyen de l’Union et les membres de sa famille ne peuvent être éloignés du territoire lorsque le citoyen de l’Union est un travailleur, ou s’il est entré sur le territoire luxembourgeois pour chercher un emploi durant une période n’excédant pas six mois ou pour une période plus longue, s’il est en mesure de rapporter la preuve qu’il continue à chercher un emploi et qu’il a de réelles chances d’être engagé.
 
 <a id="art_N10EBD"></a>
 
 ### Art. 27.
 
-**(1)** Sans préjudice des dispositions concernant les documents de voyage, applicables aux contrôles aux frontières, l'entrée sur le territoire luxembourgeois peut être refusée et le droit de séjour peut être refusé ou retiré au citoyen de l'Union, ainsi qu'aux membres de sa famille de quelque nationalité qu'ils soient, et une décision d'éloignement du territoire peut être prise à leur encontre, pour des raisons d'ordre public, de sécurité publique ou de santé publique. Ces raisons ne peuvent être invoquées à des fins économiques.
+**(1)** Sans préjudice des dispositions concernant les documents de voyage, applicables aux contrôles aux frontières, l’entrée sur le territoire luxembourgeois peut être refusée et le droit de séjour peut être refusé ou retiré au citoyen de l’Union, ainsi qu’aux membres de sa famille de quelque nationalité qu’ils soient, et une décision d’éloignement du territoire peut être prise à leur encontre, pour des raisons d’ordre public, de sécurité publique ou de santé publique. Ces raisons ne peuvent être invoquées à des fins économiques.
 
-**(2)** L'existence de condamnations pénales antérieures ne peut à elle seule motiver le refus de séjour. Les mesures d'ordre public ou de sécurité publique doivent être fondées exclusivement sur le comportement personnel du citoyen de l'Union et des membres de sa famille qui en font l'objet. Le comportement de la personne concernée doit représenter une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société, sans que des justifications non directement liées au cas individuel concerné ou tenant à des raisons de prévention générale ne puissent être retenues.
+**(2)** L’existence de condamnations pénales antérieures ne peut à elle seule motiver le refus de séjour. Les mesures d’ordre public ou de sécurité publique doivent être fondées exclusivement sur le comportement personnel du citoyen de l’Union et des membres de sa famille qui en font l’objet. Le comportement de la personne concernée doit représenter une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société, sans que des justifications non directement liées au cas individuel concerné ou tenant à des raisons de prévention générale ne puissent être retenues.
 
-**(3)** Aux fins d'établir si la personne concernée représente un danger pour l'ordre public ou la sécurité publique, les autorités compétentes peuvent lors de la délivrance de l'attestation d'enregistrement ou encore lors de la délivrance de la carte de séjour, demander à l'Etat membre d'origine et, éventuellement, à d'autres Etats membres des renseignements sur les antécédents judiciaires de la personne concernée. Cette consultation ne peut avoir un caractère systématique.
+**(3)** Aux fins d’établir si la personne concernée représente un danger pour l’ordre public ou la sécurité publique, les autorités compétentes peuvent lors de la délivrance de l’attestation d’enregistrement ou encore lors de la délivrance de la carte de séjour, demander à l’Etat membre d’origine et, éventuellement, à d’autres Etats membres des renseignements sur les antécédents judiciaires de la personne concernée. Cette consultation ne peut avoir un caractère systématique.
 
 **(4)** Une interdiction d’entrée sur le territoire d’une durée maximale de cinq ans peut être prononcée par le ministre pour des raisons d’ordre public, de sécurité publique ou de santé publique. La personne faisant l’objet d’une décision comportant une interdiction d’entrée sur le territoire, peut introduire une demande de levée de cette interdiction après un délai raisonnable, en fonction des circonstances, et en tout cas après trois ans à compter de l’exécution définitive d’interdiction, en invoquant des moyens à établir un changement matériel des circonstances qui avaient justifié la décision d’interdiction du territoire à son encontre. Le ministre statue dans les six mois. Pendant l’examen de sa demande, la personne concernée n’a aucun droit d’accès sur le territoire.
 
@@ -402,29 +402,29 @@ Par dérogation à l'article 25, paragraphe (1), mais sans préjudice de l'artic
 
 ### Art. 28.
 
-**(1)** Les maladies justifiant les mesures restrictives de la libre circulation visées à l'article 27, paragraphe (1) sont les maladies potentiellement épidémiques telles que définies dans les instruments pertinents de l'Organisation mondiale de la santé, ainsi que d'autres maladies infectieuses contagieuses énumérées par règlement grand-ducal.
+**(1)** Les maladies justifiant les mesures restrictives de la libre circulation visées à l’article 27, paragraphe (1) sont les maladies potentiellement épidémiques telles que définies dans les instruments pertinents de l’Organisation mondiale de la santé, ainsi que d’autres maladies infectieuses contagieuses énumérées par règlement grand-ducal.
 
-**(2)** Exceptionnellement, et si des indices sérieux le justifient, le bénéficiaire du droit de séjour peut être soumis à un examen médical, dans les trois mois suivant son arrivée, afin qu'il soit attesté qu'il ne souffre pas d'une des maladies visées au paragraphe qui précède. Les frais de l'examen médical visé au présent paragraphe sont à la charge de l'Etat.
+**(2)** Exceptionnellement, et si des indices sérieux le justifient, le bénéficiaire du droit de séjour peut être soumis à un examen médical, dans les trois mois suivant son arrivée, afin qu’il soit attesté qu’il ne souffre pas d’une des maladies visées au paragraphe qui précède. Les frais de l’examen médical visé au présent paragraphe sont à la charge de l’Etat.
 
-L'examen médical prévu à l'alinéa qui précède ne peut pas avoir un caractère systématique.
+L’examen médical prévu à l’alinéa qui précède ne peut pas avoir un caractère systématique.
 
-**(3)** L'examen médical visé au paragraphe (2) qui précède, sera effectué par un médecin de la Direction de la santé délégué à cet effet par le ministre ayant la Santé dans ses attributions, selon les modalités à déterminer par règlement grand-ducal.
+**(3)** L’examen médical visé au paragraphe (2) qui précède, sera effectué par un médecin de la Direction de la santé délégué à cet effet par le ministre ayant la Santé dans ses attributions, selon les modalités à déterminer par règlement grand-ducal.
 
-**(4)** La survenance de maladies après une période de trois mois suivant l'entrée sur le territoire ne peut justifier la prise d'une décision d'éloignement du territoire.
+**(4)** La survenance de maladies après une période de trois mois suivant l’entrée sur le territoire ne peut justifier la prise d’une décision d’éloignement du territoire.
 
 <a id="art_N10FA4"></a>
 
 ### Art. 29.
 
-Avant de prendre une décision d'éloignement du territoire pour des raisons d'ordre public ou de sécurité publique, le ministre tient compte notamment de la durée du séjour de la personne concernée sur le territoire luxembourgeois, de son âge, de son état de santé, de sa situation familiale et économique, de son intégration sociale et culturelle dans le pays et de l'intensité de ses liens avec son pays d'origine.
+Avant de prendre une décision d’éloignement du territoire pour des raisons d’ordre public ou de sécurité publique, le ministre tient compte notamment de la durée du séjour de la personne concernée sur le territoire luxembourgeois, de son âge, de son état de santé, de sa situation familiale et économique, de son intégration sociale et culturelle dans le pays et de l’intensité de ses liens avec son pays d’origine.
 
 <a id="art_N10FD6"></a>
 
 ### Art. 30.
 
-**(1)** Sauf pour des motifs graves d'ordre public ou de sécurité publique, le citoyen de l'Union et les membres de sa famille qui bénéficient du droit de séjour permanent sur le territoire, ne peuvent faire l'objet d'une décision d'éloignement du territoire.
+**(1)** Sauf pour des motifs graves d’ordre public ou de sécurité publique, le citoyen de l’Union et les membres de sa famille qui bénéficient du droit de séjour permanent sur le territoire, ne peuvent faire l’objet d’une décision d’éloignement du territoire.
 
-**(2)** Aucune décision d'éloignement du territoire, à l'exception de celle qui se fonde sur des raisons impérieuses de sécurité publique, ne peut être prise à l'encontre du citoyen de l'Union, s'il a séjourné sur le territoire pendant les dix années précédentes ou s'il est mineur, sauf si l'éloignement est nécessaire dans l'intérêt de celui-ci.
+**(2)** Aucune décision d’éloignement du territoire, à l’exception de celle qui se fonde sur des raisons impérieuses de sécurité publique, ne peut être prise à l’encontre du citoyen de l’Union, s’il a séjourné sur le territoire pendant les dix années précédentes ou s’il est mineur, sauf si l’éloignement est nécessaire dans l’intérêt de celui-ci.
 
 Est considérée comme raison impérieuse de sécurité publique, une condamnation définitive à une peine privative de liberté d’au moins cinq ans du chef d’une des infractions figurant au livre II, titres Ier, III, IV, VI, VII et IX du Code pénal, ou d’une des infractions figurant aux articles 8 à 11 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie et à l’article 59 de la loi du 2 février 2022 sur les armes et munitions.
 
@@ -432,21 +432,21 @@ Est considérée comme raison impérieuse de sécurité publique, une condamnati
 
 ### Art. 31.
 
-Toute décision de refus d'entrée, de séjour, de délivrance ou de renouvellement d'une carte de séjour ou d'un retrait de celle-ci, ainsi que toute décision d'éloignement du territoire est notifiée par écrit et dans les conditions lui permettant d'en saisir le contenu et les effets à la personne concernée dans les conditions définies au chapitre 4 de la présente loi. La personne concernée a accès aux voies de recours y définies.
+Toute décision de refus d’entrée, de séjour, de délivrance ou de renouvellement d’une carte de séjour ou d’un retrait de celle-ci, ainsi que toute décision d’éloignement du territoire est notifiée par écrit et dans les conditions lui permettant d’en saisir le contenu et les effets à la personne concernée dans les conditions définies au chapitre 4 de la présente loi. La personne concernée a accès aux voies de recours y définies.
 
 <a id="art_N11092"></a>
 
 ### Art. 32.
 
-Si le titulaire d'un passeport ou d'une carte d'identité délivrés par les autorités luxembourgeoises est éloigné d'un autre Etat membre pour des raisons d'ordre public, de sécurité publique ou de santé publique, il lui est permis de rentrer sur le territoire luxembourgeois sans aucune formalité, même si ledit document est périmé ou si sa nationalité est contestée.
+Si le titulaire d’un passeport ou d’une carte d’identité délivrés par les autorités luxembourgeoises est éloigné d’un autre Etat membre pour des raisons d’ordre public, de sécurité publique ou de santé publique, il lui est permis de rentrer sur le territoire luxembourgeois sans aucune formalité, même si ledit document est périmé ou si sa nationalité est contestée.
 
 <a id="art_N110C4"></a>
 
 ### Art. 33.
 
-Les dispositions du présent chapitre sont applicables aux ressortissants des autres Etats parties à l'Accord sur l'Espace économique européen et de la Confédération suisse.
+Les dispositions du présent chapitre sont applicables aux ressortissants des autres Etats parties à l’Accord sur l’Espace économique européen et de la Confédération suisse.
 
-**(1)** Les dispositions du présent chapitre sont applicables aux ressortissants des autres Etats parties à l'Accord sur l'Espace économique européen et de la Confédération suisse.
+**(1)** Les dispositions du présent chapitre sont applicables aux ressortissants des autres Etats parties à l’Accord sur l’Espace économique européen et de la Confédération suisse.
 
 **(2)** Conformément à l’Accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, ci-après « Accord », les dispositions du présent chapitre sont également applicables aux ressortissants britanniques tombant sous le champ d’application de l’Accord, sous réserve des dérogations prévues au chapitre 2*bis* qui suit.
 
@@ -498,9 +498,9 @@ Un document attestant les droits découlant de l’Accord est délivré par le m
 
 Les ressortissants britanniques qui ne tombent pas sous le champ d’application de l’Accord sont couverts par les dispositions de la présente loi qui sont applicables aux ressortissants de pays tiers.
 
-##### Chapitre 3. — Le droit d'entrée et de séjour du ressortissant de pays tiers
+##### Chapitre 3. — Le droit d’entrée et de séjour du ressortissant de pays tiers
 
-##### Section 1. — Les conditions d'entrée, de sortie et de séjour jusqu'à trois mois
+##### Section 1. — Les conditions d’entrée, de sortie et de séjour jusqu’à trois mois
 
 <a id="art_N112DF"></a>
 
@@ -526,16 +526,16 @@ Une autorisation de voyage est exigée du ressortissant de pays tiers exempté d
 
 ### Art. 35.
 
-**(1)** Durant la période de son séjour, le ressortissant de pays tiers n'a pas le droit d'exercer une activité salariée ou indépendante, à moins d'y avoir été autorisé par le ministre selon les critères établis à la section 2 du présent chapitre, pour l'exercice de l'activité afférente.
+**(1)** Durant la période de son séjour, le ressortissant de pays tiers n’a pas le droit d’exercer une activité salariée ou indépendante, à moins d’y avoir été autorisé par le ministre selon les critères établis à la section 2 du présent chapitre, pour l’exercice de l’activité afférente.
 
-**(2)** Ne sont pas soumis à l'autorisation visée au paragraphe (1) qui précède, à condition que l'occupation sur le territoire luxembourgeois soit inférieure à trois mois par année civile:
+**(2)** Ne sont pas soumis à l’autorisation visée au paragraphe (1) qui précède, à condition que l’occupation sur le territoire luxembourgeois soit inférieure à trois mois par année civile:
 
 1. le personnel des attractions foraines, cirques et autres établissements ambulants;
 2. les intermittents du spectacle ;
 3. les sportifs;
 4. les conférenciers et lecteurs universitaires chercheur invité à l’exception des chercheurs qui tombent dans le champ d’application de l’article 67 ;
-5. les personnes effectuant des voyages d'affaires, à savoir des déplacements en vue de visiter des partenaires professionnels, de rechercher et de développer des contacts professionnels, de négocier et de conclure des contrats, de participer à des salons, foires et expositions ou encore d'assister à des conseils d'administration et des assemblées générales de sociétés;
-6. les personnes qui entendent séjourner sur le territoire pour effectuer une prestation de services , à l'exclusion de toute prestation effectuée dans le cadre d'une sous-traitance ;
+5. les personnes effectuant des voyages d’affaires, à savoir des déplacements en vue de visiter des partenaires professionnels, de rechercher et de développer des contacts professionnels, de négocier et de conclure des contrats, de participer à des salons, foires et expositions ou encore d’assister à des conseils d’administration et des assemblées générales de sociétés;
+6. les personnes qui entendent séjourner sur le territoire pour effectuer une prestation de services , à l’exclusion de toute prestation effectuée dans le cadre d’une sous-traitance ;
 7. les personnes qui entendent séjourner sur le territoire dans le cadre de l’article 44bis à condition que l’incident majeur ait été dûment constaté.
 
 **(3)** Par dérogation au paragraphe (1), le ressortissant de pays tiers qui est titulaire d’un titre de séjour appelé « carte bleue européenne » en cours de validité délivré par un autre État membre appliquant intégralement l’acquis de Schengen a le droit d’entrer sur le territoire du Grand-Duché de Luxembourg et d’y séjourner aux fins d’exercer une activité professionnelle au sens de l’article 45, paragraphe (2), point j), pour une durée de quatre-vingt-dix jours sur toute période de cent quatre-vingt jours sur la base de la carte bleue européenne.
@@ -548,15 +548,15 @@ Les dispositions qui précèdent sont également applicables au titulaire d’un
 
 ### Art. 36.
 
-Le ressortissant de pays tiers qui a l'intention de séjourner moins de trois mois sur le territoire, doit, dans les trois jours ouvrables à partir de son entrée sur le territoire, faire une déclaration d'arrivée à l'administration communale du lieu où il entend séjourner. Une copie de sa déclaration sera délivrée à l'intéressé en guise de récépissé.
+Le ressortissant de pays tiers qui a l’intention de séjourner moins de trois mois sur le territoire, doit, dans les trois jours ouvrables à partir de son entrée sur le territoire, faire une déclaration d’arrivée à l’administration communale du lieu où il entend séjourner. Une copie de sa déclaration sera délivrée à l’intéressé en guise de récépissé.
 
-En cas d'hébergement dans les établissements visés par la législation ayant pour objet le contrôle des voyageurs dans les établissements d'hébergement, la fiche d'hébergement tiendra lieu de déclaration dans tous les cas où le ressortissant de pays tiers séjourne au pays pour des raisons touristiques.
+En cas d’hébergement dans les établissements visés par la législation ayant pour objet le contrôle des voyageurs dans les établissements d’hébergement, la fiche d’hébergement tiendra lieu de déclaration dans tous les cas où le ressortissant de pays tiers séjourne au pays pour des raisons touristiques.
 
 <a id="art_N114BB"></a>
 
 ### Art. 37.
 
-Le ressortissant de pays tiers qui a l'intention de séjourner au pays pour une période allant jusqu'à trois mois, peut être obligé à se soumettre à un examen médical dans les conditions prévues à l'article 41, afin de déterminer s'il ne compromet pas la santé publique.
+Le ressortissant de pays tiers qui a l’intention de séjourner au pays pour une période allant jusqu’à trois mois, peut être obligé à se soumettre à un examen médical dans les conditions prévues à l’article 41, afin de déterminer s’il ne compromet pas la santé publique.
 
 ##### Section 2. — Les conditions de séjour de plus de trois mois
 
@@ -564,7 +564,7 @@ Le ressortissant de pays tiers qui a l'intention de séjourner au pays pour une 
 
 ### Art. 38.
 
-Sous réserve de l'application des conditions de l'article 34, paragraphes (1) et (2), et sans préjudice des dispositions plus favorables adoptées par le biais d'accords bilatéraux ou multilatéraux avec des pays tiers, le ressortissant de pays tiers a le droit de séjourner sur le territoire pour une période supérieure à trois mois si, dans les conditions fixées par la présente loi:
+Sous réserve de l’application des conditions de l’article 34, paragraphes (1) et (2), et sans préjudice des dispositions plus favorables adoptées par le biais d’accords bilatéraux ou multilatéraux avec des pays tiers, le ressortissant de pays tiers a le droit de séjourner sur le territoire pour une période supérieure à trois mois si, dans les conditions fixées par la présente loi:
 
 1. 1. travailleur salarié visé par l’article 42, travailleur hautement qualifié, travailleur transféré temporaire intragroupe, travailleur détaché ou travailleur saisonnier;
 2. travailleur indépendant;
@@ -574,7 +574,7 @@ Sous réserve de l'application des conditions de l'article 34, paragraphes (1) e
 6. membre de famille;
 7. investisseur;
 8. sinon pour des raisons d’ordre privé ou particulier, ou
-2. il est muni d'une autorisation de séjour de résident de longue durée.
+2. il est muni d’une autorisation de séjour de résident de longue durée.
 3. il exerce sa mobilité conformément aux articles 58, 67, 67-1 ou 67-2.
 4. Il est muni d’un visa de long séjour, d’une durée maximale d’un an.
 
@@ -588,9 +588,9 @@ Tout ressortissant de pays tiers doit être en possession d’une autorisation d
 
 ### Art. 39.
 
-**(1)** La demande en obtention d’une autorisation de séjour visée à l’article 38, point 1, à l’exception des autorisations régies par les articles 78, paragraphe (3) et 89, et sans préjudice de l’article 49bis, paragraphe (1), doit être introduite par le ressortissant d’un pays tiers auprès du ministre et doit être favorablement avisée avant son entrée sur le territoire. La demande doit sous peine d’irrecevabilité être introduite avant l’entrée sur le territoire du ressortissant d’un pays tiers. L'autorisation ministérielle doit être utilisée dans les quatre-vingt-dix jours de sa délivrance. L’autorisation de séjour donne droit à la délivrance d’un visa, s’il est requis.
+**(1)** La demande en obtention d’une autorisation de séjour visée à l’article 38, point 1, à l’exception des autorisations régies par les articles 78, paragraphe (3) et 89, et sans préjudice de l’article 49bis, paragraphe (1), doit être introduite par le ressortissant d’un pays tiers auprès du ministre et doit être favorablement avisée avant son entrée sur le territoire. La demande doit sous peine d’irrecevabilité être introduite avant l’entrée sur le territoire du ressortissant d’un pays tiers. L’autorisation ministérielle doit être utilisée dans les quatre-vingt-dix jours de sa délivrance. L’autorisation de séjour donne droit à la délivrance d’un visa, s’il est requis.
 
-**(2)** Dans des cas exceptionnels, le ressortissant de pays tiers séjournant régulièrement sur le territoire pour une période allant jusqu'à trois mois, peut être autorisé à introduire endéans ce délai auprès du ministre une demande en obtention d'une autorisation de séjour pour une durée supérieure à trois mois, s'il rapporte la preuve qu'il remplit toutes les conditions exigées pour la catégorie d'autorisation qu'il vise, et si le retour dans son pays d'origine constitue pour lui une charge inique.
+**(2)** Dans des cas exceptionnels, le ressortissant de pays tiers séjournant régulièrement sur le territoire pour une période allant jusqu’à trois mois, peut être autorisé à introduire endéans ce délai auprès du ministre une demande en obtention d’une autorisation de séjour pour une durée supérieure à trois mois, s’il rapporte la preuve qu’il remplit toutes les conditions exigées pour la catégorie d’autorisation qu’il vise, et si le retour dans son pays d’origine constitue pour lui une charge inique.
 
 **(3)** Par dérogation au paragraphe (1) qui précède, le bénéficiaire d’une autorisation de séjour supérieure à trois mois, à l’exception des personnes visées aux articles 49bis, 60 à 62bis et 90, peut avant l’expiration de son titre de séjour faire la demande en obtention d’une autorisation à un autre titre auprès du ministre, s’il remplit toutes les conditions pour la catégorie qu’il vise.
 
@@ -598,19 +598,19 @@ Tout ressortissant de pays tiers doit être en possession d’une autorisation d
 
 ### Art. 40.
 
-**(1)** Sans préjudice des réglementations existantes en matière de registres de la population, le ressortissant de pays tiers autorisé à séjourner sur le territoire pour une durée supérieure à trois mois, doit se présenter, muni de l'autorisation de séjour, dans les trois jours ouvrables à compter de sa date d'entrée sur le territoire devant l'administration communale du lieu où il entend fixer sa résidence, pour faire une déclaration d'arrivée. Une copie de sa déclaration sera délivrée à l'intéressé en guise de récépissé. La détention du récépissé et de l'autorisation de séjour justifie de la régularité de son séjour jusqu'à la délivrance du titre de séjour.
+**(1)** Sans préjudice des réglementations existantes en matière de registres de la population, le ressortissant de pays tiers autorisé à séjourner sur le territoire pour une durée supérieure à trois mois, doit se présenter, muni de l’autorisation de séjour, dans les trois jours ouvrables à compter de sa date d’entrée sur le territoire devant l’administration communale du lieu où il entend fixer sa résidence, pour faire une déclaration d’arrivée. Une copie de sa déclaration sera délivrée à l’intéressé en guise de récépissé. La détention du récépissé et de l’autorisation de séjour justifie de la régularité de son séjour jusqu’à la délivrance du titre de séjour.
 
 Le ressortissant de pays tiers qui relève de l’article 38, point 3 à l’exception de l’article 67-1, est tenu de se présenter devant le ministre afin d’obtenir l’attestation prévue à l’article 58, paragraphe (7), à l’article 67, paragraphe (7) ou à l’article 67-2, paragraphe (4). Le document atteste son droit de séjourner au Grand-Duché de Luxembourg pendant la durée de la mobilité et lui permet de se déclarer auprès de l’administration communale de son lieu de résidence pour un séjour supérieur à trois mois.
 
 Le visa long séjour prévu à l’article 38, point 4 permet au ressortissant de pays tiers de se déclarer auprès de l’administration communale de son lieu de résidence pour un séjour supérieur à trois mois.
 
-**(2)** Avant l'expiration d'un délai de trois mois, le ressortissant du pays tiers sollicite la délivrance de son titre de séjour en présentant au ministre , le récépissé de la déclaration d'arrivée établi par l'autorité communale, le certificat médical visé à l'article 41, paragraphe (3) et, le cas échéant, la preuve d'un logement approprié, si celle-ci est requise. Lors de la demande en délivrance du titre de séjour, une taxe de délivrance est perçue dont le montant, calculé sur le coût administratif, sera fixé par règlement grand-ducal.
+**(2)** Avant l’expiration d’un délai de trois mois, le ressortissant du pays tiers sollicite la délivrance de son titre de séjour en présentant au ministre , le récépissé de la déclaration d’arrivée établi par l’autorité communale, le certificat médical visé à l’article 41, paragraphe (3) et, le cas échéant, la preuve d’un logement approprié, si celle-ci est requise. Lors de la demande en délivrance du titre de séjour, une taxe de délivrance est perçue dont le montant, calculé sur le coût administratif, sera fixé par règlement grand-ducal.
 
 **(3)** S’il remplit l’ensemble des conditions prévues aux paragraphes (1) et (2) qui précèdent, le ministre lui délivre le titre de séjour qui indique le type d’autorisation dont il est titulaire, établi dans la forme prévue par règlement grand-ducal. Les indications concernant l’autorisation de travailler délivrée en vertu de l’article 42 figurent sur le titre de séjour, quelle que soit la catégorie du titre.
 
 L’autorité communale est informée de la délivrance du titre.
 
-**(4)** Sans préjudice des dispositions de l'article 80, paragraphe (4), l'étranger qui a l'intention de quitter le Grand-Duché de Luxembourg pour une durée supérieure à six mois, doit remettre son titre de séjour au ministre et faire une déclaration de départ auprès de l'autorité locale de la commune où il a séjourné.
+**(4)** Sans préjudice des dispositions de l’article 80, paragraphe (4), l’étranger qui a l’intention de quitter le Grand-Duché de Luxembourg pour une durée supérieure à six mois, doit remettre son titre de séjour au ministre et faire une déclaration de départ auprès de l’autorité locale de la commune où il a séjourné.
 
 En cas de perte de son titre de séjour, le ressortissant d’un pays tiers, qui prouve qu’il a été victime d’un mariage forcé et qu’il a été contraint de quitter le territoire luxembourgeois, bénéficie, pour recouvrer son titre de séjour, d’une procédure simplifiée, dont les conditions sont déterminées par règlement grand-ducal.
 
@@ -618,32 +618,32 @@ En cas de perte de son titre de séjour, le ressortissant d’un pays tiers, qui
 
 ### Art. 41.
 
-**(1)** Le ressortissant de pays tiers devra se soumettre à un examen médical avant de solliciter la délivrance du titre de séjour. Cet examen sera effectué par un médecin établi au pays et y autorisé à exercer en qualité de médecin généraliste, de médecin spécialiste en médecine interne ou de médecin spécialiste en pédiatrie. Les modalités ainsi que le contenu de l'examen médical sont déterminés par règlement grand-ducal.
+**(1)** Le ressortissant de pays tiers devra se soumettre à un examen médical avant de solliciter la délivrance du titre de séjour. Cet examen sera effectué par un médecin établi au pays et y autorisé à exercer en qualité de médecin généraliste, de médecin spécialiste en médecine interne ou de médecin spécialiste en pédiatrie. Les modalités ainsi que le contenu de l’examen médical sont déterminés par règlement grand-ducal.
 
-**(2)** L'examen médical visé au paragraphe (1) qui précède, n'est pas systématique pour le ressortissant de pays tiers, résident de longue durée dans un autre Etat membre, ni pour un membre de sa famille.
+**(2)** L’examen médical visé au paragraphe (1) qui précède, n’est pas systématique pour le ressortissant de pays tiers, résident de longue durée dans un autre Etat membre, ni pour un membre de sa famille.
 
-**(3)** A l'issue de l'examen il est délivré un certificat indiquant que le ressortissant de pays tiers remplit ou ne remplit pas les conditions médicales autorisant son séjour sur le territoire. Tout certificat doit être communiqué au médecin délégué visé à l'article 28, paragraphe (3), qui en vérifie la conformité avec les dispositions du présent article et celles prises pour son exécution. Après vérification, le certificat est joint à la demande de délivrance du titre de séjour visée à l'article 40, paragraphe (2). Le titre de séjour est refusé à la personne qui refuse de se soumettre au contrôle médical prévu.
+**(3)** A l’issue de l’examen il est délivré un certificat indiquant que le ressortissant de pays tiers remplit ou ne remplit pas les conditions médicales autorisant son séjour sur le territoire. Tout certificat doit être communiqué au médecin délégué visé à l’article 28, paragraphe (3), qui en vérifie la conformité avec les dispositions du présent article et celles prises pour son exécution. Après vérification, le certificat est joint à la demande de délivrance du titre de séjour visée à l’article 40, paragraphe (2). Le titre de séjour est refusé à la personne qui refuse de se soumettre au contrôle médical prévu.
 
-**(4)** Lorsque le résultat de l'examen médical fait apparaître que le ressortissant de pays tiers souffre d'une affection nécessitant des soins, un certificat spécifique contenant les conclusions de l'examen est établi en triple exemplaire et transmis sous pli confidentiel fermé avec la mention «secret médical» à l'intéressé, au médecin délégué et, à la demande de l'intéressé, à son médecin traitant.
+**(4)** Lorsque le résultat de l’examen médical fait apparaître que le ressortissant de pays tiers souffre d’une affection nécessitant des soins, un certificat spécifique contenant les conclusions de l’examen est établi en triple exemplaire et transmis sous pli confidentiel fermé avec la mention «secret médical» à l’intéressé, au médecin délégué et, à la demande de l’intéressé, à son médecin traitant.
 
-**(5)** Les frais résultant du contrôle médical et de la délivrance du certificat médical sont à charge du ressortissant de pays tiers, à moins qu'il ne s'agisse d'un résident de longue durée d'un autre Etat membre ou d'un membre de sa famille.
+**(5)** Les frais résultant du contrôle médical et de la délivrance du certificat médical sont à charge du ressortissant de pays tiers, à moins qu’il ne s’agisse d’un résident de longue durée d’un autre Etat membre ou d’un membre de sa famille.
 
-**(6)** Un règlement grand-ducal détermine les maladies et infirmités sur lesquelles portera l'examen visé au présent article et organise les modalités de l'examen. Il définira les modalités concernant l'établissement et la délivrance du certificat médical.
+**(6)** Un règlement grand-ducal détermine les maladies et infirmités sur lesquelles portera l’examen visé au présent article et organise les modalités de l’examen. Il définira les modalités concernant l’établissement et la délivrance du certificat médical.
 
-##### Sous-section 1. — L'autorisation de séjour en vue d'une activité salariée
+##### Sous-section 1. — L’autorisation de séjour en vue d’une activité salariée
 
 <a id="art_N117A5"></a>
 
 ### Art. 42.
 
-**(1)** L'autorisation de séjour et l'autorisation de travail dans les cas où elle est requise, sont accordées par le ministre au ressortissant de pays tiers pour exercer une activité salariée telle que définie à l'article 3, après avoir vérifié si, outre les conditions prévues à l'article 34, les conditions suivantes sont remplies:
+**(1)** L’autorisation de séjour et l’autorisation de travail dans les cas où elle est requise, sont accordées par le ministre au ressortissant de pays tiers pour exercer une activité salariée telle que définie à l’article 3, après avoir vérifié si, outre les conditions prévues à l’article 34, les conditions suivantes sont remplies:
 
 1. Code du travail
-2. l'exercice de l'activité visée sert les intérêts économiques du pays;
-3. il dispose des qualifications professionnelles requises pour l'exercice de l'activité visée;
-4. il est en possession d'un contrat de travail conclu pour un poste déclaré vacant auprès de l'Agence pour le développement de l'emploi dans les formes et conditions prévues par la législation afférente en vigueur.
+2. l’exercice de l’activité visée sert les intérêts économiques du pays;
+3. il dispose des qualifications professionnelles requises pour l’exercice de l’activité visée;
+4. il est en possession d’un contrat de travail conclu pour un poste déclaré vacant auprès de l’Agence pour le développement de l’emploi dans les formes et conditions prévues par la législation afférente en vigueur.
 
-**(2)** Si le ministre estime que les conditions énumérées sous les points 1 à 4 du paragraphe (1) ne sont pas remplies, il saisit la commission créée à l'article 150 dans les conditions et suivant les modalités déterminées par règlement grand-ducal avant de prendre une décision de refus d'une autorisation de séjour pour travailleur salarié ou d'une autorisation de travail.
+**(2)** Si le ministre estime que les conditions énumérées sous les points 1 à 4 du paragraphe (1) ne sont pas remplies, il saisit la commission créée à l’article 150 dans les conditions et suivant les modalités déterminées par règlement grand-ducal avant de prendre une décision de refus d’une autorisation de séjour pour travailleur salarié ou d’une autorisation de travail.
 
 **(3)** Le ministre statue sur la demande complète comportant les informations et documents énumérés par règlement grand-ducal dès que possible et en tout état de cause dans un délai de quatre mois suivant la date de dépôt de la demande. Ce délai peut être prorogé dans des circonstances exceptionnelles liées à la complexité de l’examen de la demande. La décision est notifiée par écrit au demandeur.
 
@@ -679,7 +679,7 @@ L’autorisation de travail délivrée en vertu de l’article 42, paragraphe (1
 
 ### Art. 44.
 
-Les ressortissants de pays tiers qui sont occupés à des tâches dépassant le cadre national sont dispensés des conditions énumérées à l'article 42, paragraphe (1), pour autant qu'ils sont en possession d'un contrat de travail et que la rémunération y prévue ne soit pas inférieure au salaire social minimum luxembourgeois.
+Les ressortissants de pays tiers qui sont occupés à des tâches dépassant le cadre national sont dispensés des conditions énumérées à l’article 42, paragraphe (1), pour autant qu’ils sont en possession d’un contrat de travail et que la rémunération y prévue ne soit pas inférieure au salaire social minimum luxembourgeois.
 
 <a id="art_N11964"></a>
 
@@ -1104,27 +1104,27 @@ Si le ressortissant de pays tiers est toujours bénéficiaire d’une protection
 
 ### Art. 48.
 
-**(1)** Par dérogation à l'article 42, paragraphe (1), une autorisation de séjour peut être délivrée au travailleur salarié ressortissant de pays tiers détaché temporairement au Grand-Duché de Luxembourg dans le cadre d'une prestation de services transnationale, telle que définie par le Code du travail.
+**(1)** Par dérogation à l’article 42, paragraphe (1), une autorisation de séjour peut être délivrée au travailleur salarié ressortissant de pays tiers détaché temporairement au Grand-Duché de Luxembourg dans le cadre d’une prestation de services transnationale, telle que définie par le Code du travail.
 
-**(2)** L'entreprise d'envoi adresse au ministre une demande en obtention d'une autorisation de détachement qui spécifie les travailleurs à détacher, la nature et la durée du travail à effectuer et les circonstances exceptionnelles permettant d'admettre que le marché de l'emploi national n'est pas atteint.
+**(2)** L’entreprise d’envoi adresse au ministre une demande en obtention d’une autorisation de détachement qui spécifie les travailleurs à détacher, la nature et la durée du travail à effectuer et les circonstances exceptionnelles permettant d’admettre que le marché de l’emploi national n’est pas atteint.
 
-**(3)** L'autorisation de détachement est accordée par le ministre pour la durée effective prévue pour l'accomplissement de la prestation de services. Elle peut être prorogée dans des circonstances exceptionnelles si la prestation de services n'a pas pu être achevée dans le délai prévu initialement. Le ministre peut soumettre la demande en obtention ou en prorogation d'une autorisation de détachement à la commission consultative pour travailleurs salariés créée à l'article 150.
+**(3)** L’autorisation de détachement est accordée par le ministre pour la durée effective prévue pour l’accomplissement de la prestation de services. Elle peut être prorogée dans des circonstances exceptionnelles si la prestation de services n’a pas pu être achevée dans le délai prévu initialement. Le ministre peut soumettre la demande en obtention ou en prorogation d’une autorisation de détachement à la commission consultative pour travailleurs salariés créée à l’article 150.
 
-**(4)** Pour faire l'objet d'une autorisation de détachement, le travailleur salarié doit être lié moyennant contrat de travail à durée indéterminée à son entreprise d'origine effectuant le détachement, à condition que le début de ce contrat soit antérieur d'au moins six mois au début du détachement sur le territoire luxembourgeois pour lequel l'autorisation est demandée.
+**(4)** Pour faire l’objet d’une autorisation de détachement, le travailleur salarié doit être lié moyennant contrat de travail à durée indéterminée à son entreprise d’origine effectuant le détachement, à condition que le début de ce contrat soit antérieur d’au moins six mois au début du détachement sur le territoire luxembourgeois pour lequel l’autorisation est demandée.
 
 **(5)** Le ressortissant de pays tiers autorisé au séjour en vertu des paragraphes (1) à (4) qui précèdent, se voit délivrer un titre de séjour pour «travailleur salarié détaché» pour une période de validité ne dépassant pas la durée du détachement autorisé.
 
-**(6)** L'activité salariée effectuée en vertu d'une autorisation de détachement ne confère pas de droit à l'obtention du titre de séjour visé à l'article 43.
+**(6)** L’activité salariée effectuée en vertu d’une autorisation de détachement ne confère pas de droit à l’obtention du titre de séjour visé à l’article 43.
 
 <a id="art_N125A3"></a>
 
 ### Art. 49.
 
-**(1)** Par dérogation à l'article 48, et sous réserve des dispositions applicables en matière de détachement de travailleurs conformément aux dispositions du Code du travail, l'entreprise établie dans un autre Etat membre de l'Union, un autre Etat partie à l'Accord sur l'Espace économique européen ou la Confédération suisse peut, dans le cadre d'une prestation de services, détacher librement ses travailleurs salariés, quelle que soit leur nationalité, sur le territoire luxembourgeois, du moment que les travailleurs détachés ont pendant la durée du détachement, le droit de travailler et de séjourner dans le pays dans lequel l'entreprise d'envoi est établie.
+**(1)** Par dérogation à l’article 48, et sous réserve des dispositions applicables en matière de détachement de travailleurs conformément aux dispositions du Code du travail, l’entreprise établie dans un autre Etat membre de l’Union, un autre Etat partie à l’Accord sur l’Espace économique européen ou la Confédération suisse peut, dans le cadre d’une prestation de services, détacher librement ses travailleurs salariés, quelle que soit leur nationalité, sur le territoire luxembourgeois, du moment que les travailleurs détachés ont pendant la durée du détachement, le droit de travailler et de séjourner dans le pays dans lequel l’entreprise d’envoi est établie.
 
-**(2)** Pour autant que la libre circulation des travailleurs salariés se trouve restreinte par le biais de dispositions transitoires adoptées dans le cadre des Traités d'adhésion actuels ou futurs, il ne peut être recouru à la libre prestation de services consistant dans la mise à disposition de main-d'oeuvre par le biais d'entreprises de travail intérimaire dans le but de déjouer la restriction à la libre circulation des travailleurs salariés au sein de l'Union européenne.
+**(2)** Pour autant que la libre circulation des travailleurs salariés se trouve restreinte par le biais de dispositions transitoires adoptées dans le cadre des Traités d’adhésion actuels ou futurs, il ne peut être recouru à la libre prestation de services consistant dans la mise à disposition de main-d’oeuvre par le biais d’entreprises de travail intérimaire dans le but de déjouer la restriction à la libre circulation des travailleurs salariés au sein de l’Union européenne.
 
-**(3)** Pour une prestation supérieure à trois mois, le travailleur salarié bénéficie de plein droit d'un titre de séjour portant la mention «travailleur salarié d'un prestataire de services communautaire», complétée des nom et raison sociale du prestataire et du destinataire de service au Grand-Duché de Luxembourg.
+**(3)** Pour une prestation supérieure à trois mois, le travailleur salarié bénéficie de plein droit d’un titre de séjour portant la mention «travailleur salarié d’un prestataire de services communautaire», complétée des nom et raison sociale du prestataire et du destinataire de service au Grand-Duché de Luxembourg.
 
 <a id="art_N12601"></a>
 
@@ -1240,11 +1240,11 @@ Les secteurs d’emploi qui comprennent des activités soumises au rythme des sa
 
 ### Art. 50.
 
-**(1)** Tout ressortissant de pays tiers qui détient une autorisation de séjour et réside dans un autre Etat membre de l'Union européenne et qui entend exercer une activité salariée sur le territoire, doit y avoir été autorisé.
+**(1)** Tout ressortissant de pays tiers qui détient une autorisation de séjour et réside dans un autre Etat membre de l’Union européenne et qui entend exercer une activité salariée sur le territoire, doit y avoir été autorisé.
 
-L'octroi de l'autorisation de travail et son renouvellement sont subordonnés aux conditions relatives à l'exercice d'une activité salariée prévues aux articles 42 et 43, sinon 45, à l’exception de la condition prévue à l’article 34, paragraphe 2, point 5.
+L’octroi de l’autorisation de travail et son renouvellement sont subordonnés aux conditions relatives à l’exercice d’une activité salariée prévues aux articles 42 et 43, sinon 45, à l’exception de la condition prévue à l’article 34, paragraphe 2, point 5.
 
-**(2)** L’autorisation de travail peut être retirée au ressortissant de pays tiers: qui a perdu son droit de séjour dans le pays où il séjourne; qui travaille dans une profession autre que celle pour laquelle il est autorisé; qui a fait usage d'informations fausses ou trompeuses ou qui a sciemment produit des pièces falsifiées ou inexactes ou qui a recouru à la fraude ou à d'autres moyens illégaux.
+**(2)** L’autorisation de travail peut être retirée au ressortissant de pays tiers: qui a perdu son droit de séjour dans le pays où il séjourne; qui travaille dans une profession autre que celle pour laquelle il est autorisé; qui a fait usage d’informations fausses ou trompeuses ou qui a sciemment produit des pièces falsifiées ou inexactes ou qui a recouru à la fraude ou à d’autres moyens illégaux.
 
 Les règles procédurales prévues à la section 2 du chapitre 4 de la présente loi sont applicables.
 
@@ -1264,23 +1264,23 @@ En cas d’absence de décision dans le délai prévu à l’alinéa premier, le
 
 ### Art. 51.
 
-**(1)** L'autorisation de séjour est accordée par le ministre au ressortissant de pays tiers pour exercer une activité indépendante telle que définie à l'article 3, si les conditions suivantes sont remplies:
+**(1)** L’autorisation de séjour est accordée par le ministre au ressortissant de pays tiers pour exercer une activité indépendante telle que définie à l’article 3, si les conditions suivantes sont remplies:
 
-1. loi modifiée du 28 décembre 1988 1. réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales;
+1. loi modifiée du 28 décembre 1988 1. réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales;
 2. loi du 2 juillet 1935
-2. il rapporte la preuve qu'il dispose de ressources adéquates pour l'exercice de l'activité qu'il entend exercer au Grand-Duché de Luxembourg;
-3. l'exercice de l'activité visée sert les intérêts du pays qui s'apprécient en termes d'utilité économique, c'est-à-dire, de réponse à un besoin économique, de l'intégration dans le contexte économique national ou local, de viabilité et de pérennité du projet d'entreprise, de création d'emplois, d'investissements notamment en matière de recherche et de développement, d'activité innovante ou encore de spécialisation, ou en termes d'intérêt social ou culturel.
+2. il rapporte la preuve qu’il dispose de ressources adéquates pour l’exercice de l’activité qu’il entend exercer au Grand-Duché de Luxembourg;
+3. l’exercice de l’activité visée sert les intérêts du pays qui s’apprécient en termes d’utilité économique, c’est-à-dire, de réponse à un besoin économique, de l’intégration dans le contexte économique national ou local, de viabilité et de pérennité du projet d’entreprise, de création d’emplois, d’investissements notamment en matière de recherche et de développement, d’activité innovante ou encore de spécialisation, ou en termes d’intérêt social ou culturel.
 4. l’exercice de l’activité visée nécessite une présence sur le territoire du travailleur indépendant afin d’assurer une gestion journalière effective de l’entreprise.
 
 **(2)** Est assimilé au travailleur qui exerce une activité indépendante visé au paragraphe 1er, le mandataire social identifié comme bénéficiaire effectif suivant la loi modifiée du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs qui détient une autorisation d’établissement ou un agrément ministériel pour le compte d’un exploitant.
 
-**(3)** La commission créée à l'article 151 vérifie si les conditions prévues au paragraphe (1) qui précède, sont remplies sauf pour les activités ayant obtenu un agrément par la Commission de surveillance du secteur financier créée par la loi modifiée du 23 décembre 1998 portant création d’une com­mission de surveillance du secteur financier, qui sont considérées comme répondant aux condi­tions 1 à 3 du paragraphe (1).
+**(3)** La commission créée à l’article 151 vérifie si les conditions prévues au paragraphe (1) qui précède, sont remplies sauf pour les activités ayant obtenu un agrément par la Commission de surveillance du secteur financier créée par la loi modifiée du 23 décembre 1998 portant création d’une com­mission de surveillance du secteur financier, qui sont considérées comme répondant aux condi­tions 1 à 3 du paragraphe (1).
 
 <a id="art_N12AD1"></a>
 
 ### Art. 52.
 
-**(1)** Le ressortissant de pays tiers autorisé au séjour en vertu de l'article 51 et qui rapporte la preuve qu'il dispose d'un logement approprié, se voit délivrer conformément à l'article 40, un titre de séjour pour «travailleur indépendant», valable pour une durée maximale de trois ans.
+**(1)** Le ressortissant de pays tiers autorisé au séjour en vertu de l’article 51 et qui rapporte la preuve qu’il dispose d’un logement approprié, se voit délivrer conformément à l’article 40, un titre de séjour pour «travailleur indépendant», valable pour une durée maximale de trois ans.
 
 **(2)** Ce titre est renouvelable, sur demande, pour une durée maximale de trois ans, tant que les conditions visées à l’article 51, paragraphe (1), à l’exception du point 3, sont remplies.
 
@@ -1288,10 +1288,10 @@ En cas d’absence de décision dans le délai prévu à l’alinéa premier, le
 
 ### Art. 53.
 
-Sans préjudice de l'article 101, le titre de séjour visé à l'article 52 peut être retiré ou refusé d'être renouvelé au travailleur indépendant, si la période au cours de laquelle il ne dispose pas de ressources personnelles suffisantes telles que prévues à l'article 34, paragraphe (2), point 5 dépasse:
+Sans préjudice de l’article 101, le titre de séjour visé à l’article 52 peut être retiré ou refusé d’être renouvelé au travailleur indépendant, si la période au cours de laquelle il ne dispose pas de ressources personnelles suffisantes telles que prévues à l’article 34, paragraphe (2), point 5 dépasse:
 
-1. trois mois au cours d'une période de douze mois, s'il a séjourné régulièrement sur le territoire pendant moins de deux ans;
-2. six mois au cours d'une période de douze mois, s'il a séjourné régulièrement sur le territoire pendant au moins deux ans.
+1. trois mois au cours d’une période de douze mois, s’il a séjourné régulièrement sur le territoire pendant moins de deux ans;
+2. six mois au cours d’une période de douze mois, s’il a séjourné régulièrement sur le territoire pendant au moins deux ans.
 
 <a id="art_N12B6E"></a>
 
@@ -1361,21 +1361,21 @@ Le nombre d’emplois de la structure ne peut être inférieur à 2. La structur
 
 **(5)** Le titulaire d’un titre de séjour pour « investisseur », ayant effectué un investissement visé à l’article 53bis, paragraphe (1) points 1 et 2, peut demander une autorisation d’établissement, s’il justifie qu’il est en possession des qualités requises pour l’exercice de l’activité visée, y compris le cas échéant pour l’inscription aux tableaux d’ordre professionnel et aux registres professionnels respectifs, et s’il remplit les conditions établies par la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales.
 
-##### Sous-section 3. — L'autorisation de séjour du sportif
+##### Sous-section 3. — L’autorisation de séjour du sportif
 
 <a id="art_N12DA4"></a>
 
 ### Art. 54.
 
-**(1)** L'autorisation de séjour est accordée par le ministre au ressortissant de pays tiers pour exercer, à titre exclusif, une activité de sportif ou d'entraîneur, si les conditions suivantes sont remplies:
+**(1)** L’autorisation de séjour est accordée par le ministre au ressortissant de pays tiers pour exercer, à titre exclusif, une activité de sportif ou d’entraîneur, si les conditions suivantes sont remplies:
 
 1. loi modifiée du 3 août 2005
-2. la rémunération y prévue n'est pas inférieure au salaire social minimum fixé pour un travail à temps plein;
+2. la rémunération y prévue n’est pas inférieure au salaire social minimum fixé pour un travail à temps plein;
 3. il est couvert par une assurance maladie.
 
-**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu du paragraphe (1) qui précède, et qui rapporte la preuve qu'il dispose d'un logement approprié, se voit délivrer conformément à l'article 40 un titre de séjour pour «sportif», valable pour une durée maximale d'un an.
+**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu du paragraphe (1) qui précède, et qui rapporte la preuve qu’il dispose d’un logement approprié, se voit délivrer conformément à l’article 40 un titre de séjour pour «sportif», valable pour une durée maximale d’un an.
 
-**(3)** Sans préjudice des dispositions de l'article 101, ce titre est renouvelable, sur demande, pour la même période de validité, tant que les conditions d'obtention restent remplies.
+**(3)** Sans préjudice des dispositions de l’article 101, ce titre est renouvelable, sur demande, pour la même période de validité, tant que les conditions d’obtention restent remplies.
 
 ##### Sous-section 4. — L’autorisation de séjour de l’étudiant, de l’élève, du stagiaire, du volontaire ou du jeune au pair
 
@@ -1383,12 +1383,12 @@ Le nombre d’emplois de la structure ne peut être inférieur à 2. La structur
 
 ### Art. 55.
 
-**(1)** Les dispositions prévues par la présente sous-section ne s'appliquent pas:
+**(1)** Les dispositions prévues par la présente sous-section ne s’appliquent pas:
 
-1. au ressortissant de pays tiers membre de la famille du citoyen de l'Union;
-2. au ressortissant de pays tiers qui, au titre de l'article 85, paragraphe (1), bénéficie du statut de résident de longue durée dans un autre Etat membre de l'Union;
+1. au ressortissant de pays tiers membre de la famille du citoyen de l’Union;
+2. au ressortissant de pays tiers qui, au titre de l’article 85, paragraphe (1), bénéficie du statut de résident de longue durée dans un autre Etat membre de l’Union;
 3. au ressortissant de pays tiers qui, au regard de la présente loi, exerce une activité salariée ou indépendante;
-4. au ressortissant de pays tiers dont l'éloignement du territoire a été suspendu pour des motifs de fait ou de droit.
+4. au ressortissant de pays tiers dont l’éloignement du territoire a été suspendu pour des motifs de fait ou de droit.
 5. au ressortissant de pays tiers qui jouit au même titre que les membres de sa famille et quelle que soit leur nationalité, de droits à la libre circulation équivalents à ceux des citoyens de l’Union en vertu d’accords conclus entre l’Union et ses États membres et des pays tiers ou entre l’Union et des pays tiers ;
 6. au ressortissant de pays tiers qui se rend dans l’Union en tant qu’employé stagiaire dans le cadre d’un transfert temporaire intragroupe tel que prévu par l’article 47-1, paragraphe (1) ;
 7. au ressortissant de pays tiers qui est autorisé à séjourner sur le territoire aux fins d’exercer un emploi hautement qualifié tel que prévu par l’article 45.
@@ -1403,16 +1403,16 @@ Le nombre d’emplois de la structure ne peut être inférieur à 2. La structur
 
 ### Art. 56.
 
-**(1)** L'autorisation de séjour est accordée par le ministre à des fins d'études au ressortissant de pays tiers qui remplit les conditions suivantes:
+**(1)** L’autorisation de séjour est accordée par le ministre à des fins d’études au ressortissant de pays tiers qui remplit les conditions suivantes:
 
-1. il a été admis dans un établissement d'enseignement supérieur tel que défini au paragraphe (2) du présent article, pour y suivre, à titre d'activité principale, un cycle d'études à plein temps menant à l'obtention d'un titre d'enseignement supérieur délivré par cet établissement;
-2. il présente une autorisation parentale dans le cas où il n'a pas atteint l'âge de 18 ans;
+1. il a été admis dans un établissement d’enseignement supérieur tel que défini au paragraphe (2) du présent article, pour y suivre, à titre d’activité principale, un cycle d’études à plein temps menant à l’obtention d’un titre d’enseignement supérieur délivré par cet établissement;
+2. il présente une autorisation parentale dans le cas où il n’a pas atteint l’âge de 18 ans;
 3. il rapporte la preuve qu’il disposera au cours du séjour envisagé de ressources suffisantes pour couvrir ses fraisdesubsistancesans recourirausystèmed’aidesociale,ainsiqueses fraisderetour, telles que précisées par règlement grand-ducal ;
 4. il est couvert par une assurance maladie.
 
-**(2)** Sont considérés comme établissements d'enseignement supérieur aux termes de la présente sous-section :
+**(2)** Sont considérés comme établissements d’enseignement supérieur aux termes de la présente sous-section :
 
-1. l'Université du Luxembourg;
+1. l’Université du Luxembourg;
 2. loi modifiée du 4 septembre 1990
 3. loi du 14 août 1976
 
@@ -1420,19 +1420,19 @@ Le nombre d’emplois de la structure ne peut être inférieur à 2. La structur
 
 ### Art. 57.
 
-**(1)** Le ressortissant de pays tiers autorisé au séjour en vertu de l'article 56, se voit délivrer, conformément à l'article 40, un titre de séjour pour «étudiant», valable pour une durée minimale d'un an. Ce titre est renouvelable, sur demande, pour la même période de validité tant que les conditions d'obtention restent remplies.
+**(1)** Le ressortissant de pays tiers autorisé au séjour en vertu de l’article 56, se voit délivrer, conformément à l’article 40, un titre de séjour pour «étudiant», valable pour une durée minimale d’un an. Ce titre est renouvelable, sur demande, pour la même période de validité tant que les conditions d’obtention restent remplies.
 
 La durée du titre de séjour délivré aux étudiants relevant d’un programme de l’Union ou d’un programme multilatéral comportant des mesures de mobilité, ou d’une convention entre deux établissements d’enseignement supérieur ou plus est d’au moins deux ans ou égale à la durée des études si celle-ci est plus courte, tant que les conditions prévues à l’article 56 sont remplies pour toute la durée. Le titre de séjour pour étudiant fait mention du programme ou de la convention.
 
-**(2)** Si la durée du cycle d'études est inférieure à un an, le titre de séjour couvre la période des études.
+**(2)** Si la durée du cycle d’études est inférieure à un an, le titre de séjour couvre la période des études.
 
-**(3)** Le détenteur d'un titre de séjour pour «étudiant» est autorisé à exercer une activité salariée limitée à une durée maximale d'une moyenne de quinze heures par semaine sur une période de 1 mois, en dehors du temps dévolu à ses études. Les modalités de l'exercice de l'activité visée sont fixées par règlement grand-ducal.
+**(3)** Le détenteur d’un titre de séjour pour «étudiant» est autorisé à exercer une activité salariée limitée à une durée maximale d’une moyenne de quinze heures par semaine sur une période de 1 mois, en dehors du temps dévolu à ses études. Les modalités de l’exercice de l’activité visée sont fixées par règlement grand-ducal.
 
-La limitation de la durée maximale de quinze heures par semaine prévue à l'alinéa qui précède, ne s'applique pas aux activités salariées exercées durant les vacances scolaires.
+La limitation de la durée maximale de quinze heures par semaine prévue à l’alinéa qui précède, ne s’applique pas aux activités salariées exercées durant les vacances scolaires.
 
-Elle ne s'applique pas non plus aux travaux de recherche effectués par l'étudiant en vue de l'obtention d'un doctorat au sein de l'établissement d'enseignement supérieur ou au sein d'un organisme de recherche agréé conformément à l'article 65. Les contrats de travail qui lient les assistants à l'Université du Luxembourg en vertu de la loi du 12 août 2003 portant création de l'Université du Luxembourg échappent également à cette limitation.
+Elle ne s’applique pas non plus aux travaux de recherche effectués par l’étudiant en vue de l’obtention d’un doctorat au sein de l’établissement d’enseignement supérieur ou au sein d’un organisme de recherche agréé conformément à l’article 65. Les contrats de travail qui lient les assistants à l’Université du Luxembourg en vertu de la loi du 12 août 2003 portant création de l’Université du Luxembourg échappent également à cette limitation.
 
-**(4)** Sans préjudice de l'article 101, le titre de séjour pour «étudiant» peut être retiré ou refusé d'être renouvelé, si le titulaire: ne respecte pas les limites imposées par le paragraphe (3) qui précède, à l'accès à des activités économiques; progresse insuffisamment dans ses études et est de ce fait formellement exclu, suivant la réglementation afférente, de l'établissement d'enseignement dans lequel il est inscrit pour suivre un cycle d'études menant à un diplôme d'enseignement supérieur.
+**(4)** Sans préjudice de l’article 101, le titre de séjour pour «étudiant» peut être retiré ou refusé d’être renouvelé, si le titulaire: ne respecte pas les limites imposées par le paragraphe (3) qui précède, à l’accès à des activités économiques; progresse insuffisamment dans ses études et est de ce fait formellement exclu, suivant la réglementation afférente, de l’établissement d’enseignement dans lequel il est inscrit pour suivre un cycle d’études menant à un diplôme d’enseignement supérieur.
 
 <a id="art_N12FFF"></a>
 
@@ -1497,17 +1497,17 @@ il a soutenu avec succès sa thèse de doctorat pour des travaux de recherche au
 
 ### Art. 60.
 
-**(1)** L'autorisation de séjour est accordée par le ministre à l'élève ressortissant de pays tiers qui demande à participer à un programme d'échange d'élèves ou un projet éducatif , si les conditions suivantes sont remplies:
+**(1)** L’autorisation de séjour est accordée par le ministre à l’élève ressortissant de pays tiers qui demande à participer à un programme d’échange d’élèves ou un projet éducatif , si les conditions suivantes sont remplies:
 
 1. loi du 25 juin 2004
-2. il présente une autorisation parentale dans le cas où il n'a pas atteint l'âge de 18 ans;
+2. il présente une autorisation parentale dans le cas où il n’a pas atteint l’âge de 18 ans;
 3. il est âgé de 14 ans au minimum et de 21 ans au maximum;
-4. il rapporte la preuve de sa participation soit à un programme d'échange d'élèves établi dans le cadre d'un accord bilatéral régional ou national , soit au programme européen dans le domaine de l'éducation et de la formation tout au long de la vie soit à un projet éducatif, à savoir à une série d’actions éducatives organisées par un établissement d’enseignement secondaire luxembourgeois en collaboration avec un établissement similaire dans un pays tiers, aux fins de partage des cultures et des connaissances ;
-5. il rapporte la preuve que l'organisation d'échange se porte garante de lui pendant toute la durée de son séjour, en particulier de ses frais de séjour et de retour;
-6. il est accueilli pendant toute la durée de son séjour par une famille sélectionnée ou une structure d'accueil conformément aux règles du programme d'échange d'élèves auquel il participe;
+4. il rapporte la preuve de sa participation soit à un programme d’échange d’élèves établi dans le cadre d’un accord bilatéral régional ou national , soit au programme européen dans le domaine de l’éducation et de la formation tout au long de la vie soit à un projet éducatif, à savoir à une série d’actions éducatives organisées par un établissement d’enseignement secondaire luxembourgeois en collaboration avec un établissement similaire dans un pays tiers, aux fins de partage des cultures et des connaissances ;
+5. il rapporte la preuve que l’organisation d’échange se porte garante de lui pendant toute la durée de son séjour, en particulier de ses frais de séjour et de retour;
+6. il est accueilli pendant toute la durée de son séjour par une famille sélectionnée ou une structure d’accueil conformément aux règles du programme d’échange d’élèves auquel il participe;
 7. il est couvert par une assurance maladie.
 
-**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu du paragraphe (1) qui précède, se voit délivrer conformément à l'article 40, un titre de séjour pour «élève» valable pour une durée maximale d'un an.
+**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu du paragraphe (1) qui précède, se voit délivrer conformément à l’article 40, un titre de séjour pour «élève» valable pour une durée maximale d’un an.
 
 <a id="art_N13224"></a>
 
@@ -1531,12 +1531,12 @@ il a soutenu avec succès sa thèse de doctorat pour des travaux de recherche au
 
 ### Art. 62.
 
-**(1)** Par application de l'article 38, l'autorisation de séjour est accordée par le ministre au ressortissant de pays tiers qui demande à participer à un programme de volontariat, si les conditions suivantes sont remplies:
+**(1)** Par application de l’article 38, l’autorisation de séjour est accordée par le ministre au ressortissant de pays tiers qui demande à participer à un programme de volontariat, si les conditions suivantes sont remplies:
 
 1. loi du 31 octobre 2007
-2. il rapporte la preuve que l'organisation chargée du programme de volontariat auquel il participe se porte garante de lui pendant toute la durée de son séjour, en particulier de ses frais de séjour et de retour.
+2. il rapporte la preuve que l’organisation chargée du programme de volontariat auquel il participe se porte garante de lui pendant toute la durée de son séjour, en particulier de ses frais de séjour et de retour.
 
-**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu du paragraphe (1) qui précède, se voit délivrer conformément à l'article 40, un titre de séjour pour «volontaire» valable pour une durée maximale d'un an, sinon exceptionnellement pour la durée du programme de volontariat si celle-ci est supérieure à un an.
+**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu du paragraphe (1) qui précède, se voit délivrer conformément à l’article 40, un titre de séjour pour «volontaire» valable pour une durée maximale d’un an, sinon exceptionnellement pour la durée du programme de volontariat si celle-ci est supérieure à un an.
 
 <a id="art_N13322"></a>
 
@@ -1556,7 +1556,7 @@ Le plus rapidement possible et au plus tard dans les soixante jours suivant la d
 
 Si les informations ou les documents fournis à l’appui de la demande sont incomplets, le ministre précise au demandeur, dans un délai raisonnable, quelles informations complémentaires sont requises et fixe un délai raisonnable au demandeur pour la communication de celles-ci. Le délai visé à l’alinéa premier est suspendu jusqu’à la réception des renseignements ou documents requis dans le délai imparti pour les fournir. Si les renseignements ou les documents complémentaires n’ont pas été fournis dans les délais, la demande est rejetée.
 
-##### Sous-section 5. — L'autorisation de séjour du chercheur
+##### Sous-section 5. — L’autorisation de séjour du chercheur
 
 <a id="art_N133EA"></a>
 
@@ -1584,13 +1584,13 @@ Si les informations ou les documents fournis à l’appui de la demande sont inc
 
 ### Art. 64.
 
-**(1)** Le ministre vérifie si le ressortissant de pays tiers satisfait aux conditions énoncées à l'article 63, paragraphe (1). Il peut en outre vérifier les modalités sur la base desquelles la convention d'accueil a été conclue.
+**(1)** Le ministre vérifie si le ressortissant de pays tiers satisfait aux conditions énoncées à l’article 63, paragraphe (1). Il peut en outre vérifier les modalités sur la base desquelles la convention d’accueil a été conclue.
 
 Le plus rapidement possible et au plus tard dans les soixante jours suivant la date de l’introduction de la demande complète en obtention de l’autorisation de séjour, le ministre notifie sa décision par écrit au demandeur.
 
 Si les informations ou les documents fournis à l’appui de la demande sont incomplets, le ministre précise au demandeur, dans un délai raisonnable, quelles informations complémentaires sont requises et fixe un délai raisonnable au demandeur pour la communication de celles-ci. Le délai visé à l’alinéa premier est suspendu jusqu’à la réception des renseignements ou documents requis dans le délai imparti pour les fournir. Si les renseignements ou les documents complémentaires n’ont pas été fournis dans les délais, la demande est rejetée.
 
-**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu de l'article 63, se voit délivrer conformément à l'article 40, un titre de séjour pour «chercheur» valable pour la durée d'un an, sinon pour la durée de l’activité de recherche , et renouvelable tant que les conditions d'obtention restent remplies.
+**(2)** Le ressortissant de pays tiers autorisé au séjour en vertu de l’article 63, se voit délivrer conformément à l’article 40, un titre de séjour pour «chercheur» valable pour la durée d’un an, sinon pour la durée de l’activité de recherche , et renouvelable tant que les conditions d’obtention restent remplies.
 
 La durée du titre de séjour délivré aux chercheurs relevant d’un programme de l’Union ou d’un programme multilatéral comportant des mesures de mobilité est d’au moins deux ans ou égale à la durée de la convention d’accueil ou du contrat de travail si celle-ci est plus courte, tant que les conditions prévues à l’article 63 sont remplies pour toute la durée.
 
@@ -1598,21 +1598,21 @@ La durée du titre de séjour délivré aux chercheurs relevant d’un programme
 
 ### Art. 65.
 
-**(1)** Tout organisme de recherche public ou privé qui souhaite accueillir un ressortissant de pays tiers à des fins de recherche conformément aux conditions fixées à l'article 63, paragraphe (1), doit préalablement y être agréé par le ministre ayant respectivement la recherche et l'économie dans ses attributions.
+**(1)** Tout organisme de recherche public ou privé qui souhaite accueillir un ressortissant de pays tiers à des fins de recherche conformément aux conditions fixées à l’article 63, paragraphe (1), doit préalablement y être agréé par le ministre ayant respectivement la recherche et l’économie dans ses attributions.
 
-**(2)** Pour obtenir l'agrément, l'organisme doit rapporter la preuve qu'il effectue sur le territoire luxembourgeois des travaux de recherche.
+**(2)** Pour obtenir l’agrément, l’organisme doit rapporter la preuve qu’il effectue sur le territoire luxembourgeois des travaux de recherche.
 
-**(3)** Aux fins de la présente loi, on entend par recherche les travaux de création entrepris de façon systématique en vue d'accroître la somme des connaissances, y compris la connaissance de l'homme, de la culture et de la société, ainsi que l'utilisation de cette somme de connaissances pour concevoir de nouvelles applications.
+**(3)** Aux fins de la présente loi, on entend par recherche les travaux de création entrepris de façon systématique en vue d’accroître la somme des connaissances, y compris la connaissance de l’homme, de la culture et de la société, ainsi que l’utilisation de cette somme de connaissances pour concevoir de nouvelles applications.
 
-**(4)** Un règlement grand-ducal détermine les modalités selon lesquelles la demande d'agrément est introduite et selon lesquelles la preuve est rapportée.
+**(4)** Un règlement grand-ducal détermine les modalités selon lesquelles la demande d’agrément est introduite et selon lesquelles la preuve est rapportée.
 
-**(5)** Un agrément d'une durée de cinq ans est accordé à l'organisme qui remplit la condition fixée au paragraphe (2) qui précède. La durée de l'agrément peut être ramenée à trois ans, s'il s'agit d'un organisme nouvellement créé.
+**(5)** Un agrément d’une durée de cinq ans est accordé à l’organisme qui remplit la condition fixée au paragraphe (2) qui précède. La durée de l’agrément peut être ramenée à trois ans, s’il s’agit d’un organisme nouvellement créé.
 
-**(6)** Si l'organisme de recherche ne remplit plus la condition prévue au paragraphe (2) qui précède, ou s'il a acquis l'agrément par des moyens frauduleux ou s'il a signé une convention d'accueil avec un ressortissant de pays tiers d'une manière frauduleuse ou négligente, le ministre ayant accordé l'agrément peut le retirer ou refuser de le renouveler.
+**(6)** Si l’organisme de recherche ne remplit plus la condition prévue au paragraphe (2) qui précède, ou s’il a acquis l’agrément par des moyens frauduleux ou s’il a signé une convention d’accueil avec un ressortissant de pays tiers d’une manière frauduleuse ou négligente, le ministre ayant accordé l’agrément peut le retirer ou refuser de le renouveler.
 
-**(7)** En cas de retrait ou de refus de renouvellement de l'agrément, il peut être interdit à l'organisme de recherche de solliciter un nouvel agrément pendant une période allant jusqu'à cinq ans suivant la date de publication de la décision de retrait ou de refus de renouvellement.
+**(7)** En cas de retrait ou de refus de renouvellement de l’agrément, il peut être interdit à l’organisme de recherche de solliciter un nouvel agrément pendant une période allant jusqu’à cinq ans suivant la date de publication de la décision de retrait ou de refus de renouvellement.
 
-**(8)** Le retrait ou le refus de renouvellement de l'agrément n'invalident pas les conventions d'accueil existantes et le titre de séjour délivré sur base d'une de ces conventions au chercheur qui ne fait pas partie de l'opération frauduleuse, reste valable pour la durée initialement prévue.
+**(8)** Le retrait ou le refus de renouvellement de l’agrément n’invalident pas les conventions d’accueil existantes et le titre de séjour délivré sur base d’une de ces conventions au chercheur qui ne fait pas partie de l’opération frauduleuse, reste valable pour la durée initialement prévue.
 
 <a id="art_N135C5"></a>
 
@@ -1777,7 +1777,7 @@ Si les informations ou les documents fournis à l’appui de la demande sont inc
 
 **(6)** Une autorisation de séjour pour travailleur salarié ou pour travailleur exerçant une activité indépendante peut être délivrée par le ministre au ressortissant de pays tiers autorisé au séjour en vertu du présent article, si les conditions prévues à l’article 59, points 2 et 3, sont remplies.
 
-##### Sous-section 6. — L'autorisation de séjour du membre de famille du ressortissant de pays tiers
+##### Sous-section 6. — L’autorisation de séjour du membre de famille du ressortissant de pays tiers
 
 <a id="art_N13AAE"></a>
 
@@ -1787,44 +1787,44 @@ Aux fins de la présente sous-section 6, on entend par:
 
 1. loi modifiée du 5 mai 2006
 2. regroupant: un ressortissant de pays tiers qui séjourne régulièrement sur le territoire et qui demande le regroupement familial, ou dont les membres de la famille demandent à le rejoindre;
-3. regroupement familial: l'entrée et le séjour sur le territoire des membres de la famille d'un ressortissant de pays tiers y séjournant régulièrement, afin de maintenir l'unité familiale, que les liens familiaux soient antérieurs ou postérieurs à l'entrée du regroupant;
-4. mineur non accompagné: tout ressortissant de pays tiers ou apatride âgé de moins de dix-huit ans, entrant sur le territoire sans être accompagné d'un adulte qui soit responsable de lui de par la loi ou la coutume, aussi longtemps qu'il n'est pas effectivement pris en charge par une telle personne, ou toute personne mineure qui est laissée seule après être entrée sur le territoire.
+3. regroupement familial: l’entrée et le séjour sur le territoire des membres de la famille d’un ressortissant de pays tiers y séjournant régulièrement, afin de maintenir l’unité familiale, que les liens familiaux soient antérieurs ou postérieurs à l’entrée du regroupant;
+4. mineur non accompagné: tout ressortissant de pays tiers ou apatride âgé de moins de dix-huit ans, entrant sur le territoire sans être accompagné d’un adulte qui soit responsable de lui de par la loi ou la coutume, aussi longtemps qu’il n’est pas effectivement pris en charge par une telle personne, ou toute personne mineure qui est laissée seule après être entrée sur le territoire.
 
 <a id="art_N13AF5"></a>
 
 ### Art. 69.
 
-**(1)** Le ressortissant de pays tiers qui est titulaire d'un titre de séjour d'une durée de validité d'au moins un an et qui a une perspective fondée d'obtenir un droit de séjour de longue durée , peut demander le regroupement familial des membres de sa famille définis à l'article 70, s'il remplit les conditions suivantes:
+**(1)** Le ressortissant de pays tiers qui est titulaire d’un titre de séjour d’une durée de validité d’au moins un an et qui a une perspective fondée d’obtenir un droit de séjour de longue durée , peut demander le regroupement familial des membres de sa famille définis à l’article 70, s’il remplit les conditions suivantes:
 
-1. il rapporte la preuve qu'il dispose de ressources stables, régulières et suffisantes pour subvenir à ses propres besoins et ceux des membres de sa famille qui sont à sa charge, sans recourir au système d'aide sociale, conformément aux conditions et modalités prévues par règlement grand-ducal;
-2. il dispose d'un logement approprié pour recevoir le ou les membres de sa famille;
-3. il dispose de la couverture d'une assurance maladie pour lui-même et pour les membres de sa famille.
+1. il rapporte la preuve qu’il dispose de ressources stables, régulières et suffisantes pour subvenir à ses propres besoins et ceux des membres de sa famille qui sont à sa charge, sans recourir au système d’aide sociale, conformément aux conditions et modalités prévues par règlement grand-ducal;
+2. il dispose d’un logement approprié pour recevoir le ou les membres de sa famille;
+3. il dispose de la couverture d’une assurance maladie pour lui-même et pour les membres de sa famille.
 
 **(2)** Sans préjudice du paragraphe (1) du présent article, pour le regroupement familial des membres de famille visés à l’article 70, paragraphe (5) le regroupant doit séjourner depuis au moins douze mois sur le territoire luxembourgeois.
 
-**(3)** Le bénéficiaire d'une protection internationale peut demander le regroupement des membres de sa famille définis à l'article 70. Les conditions du paragraphe (1) qui précède, ne doivent être remplies que si la demande de regroupement familial est introduite après un délai de six mois suivant l'octroi d'une protection internationale.
+**(3)** Le bénéficiaire d’une protection internationale peut demander le regroupement des membres de sa famille définis à l’article 70. Les conditions du paragraphe (1) qui précède, ne doivent être remplies que si la demande de regroupement familial est introduite après un délai de six mois suivant l’octroi d’une protection internationale.
 
 <a id="art_N13B8E"></a>
 
 ### Art. 70.
 
-**(1)** Sans préjudice des conditions fixées à l'article 69 dans le chef du regroupant, et sous condition qu'ils ne représentent pas un danger pour l'ordre public, la sécurité publique ou la santé publique, l'entrée et le séjour est autorisé aux membres de famille ressortissants de pays tiers suivants:
+**(1)** Sans préjudice des conditions fixées à l’article 69 dans le chef du regroupant, et sous condition qu’ils ne représentent pas un danger pour l’ordre public, la sécurité publique ou la santé publique, l’entrée et le séjour est autorisé aux membres de famille ressortissants de pays tiers suivants:
 
 1. le conjoint du regroupant;
 2. loi modifiée du 9 juillet 2004
-3. les enfants célibataires de moins de dix-huit ans, du regroupant et/ou de son conjoint ou partenaire, tel que défini au point b) qui précède, à condition d'en avoir le droit de garde et la charge, et en cas de garde partagée, à la condition que l'autre titulaire du droit de garde ait donné son accord.
+3. les enfants célibataires de moins de dix-huit ans, du regroupant et/ou de son conjoint ou partenaire, tel que défini au point b) qui précède, à condition d’en avoir le droit de garde et la charge, et en cas de garde partagée, à la condition que l’autre titulaire du droit de garde ait donné son accord.
 
 **(2)** Les personnes visées aux points a) et b) du paragraphe (1) qui précède, doivent être âgées de plus de dix-huit ans lors de la demande de regroupement familial.
 
-**(3)** Le regroupement familial d'un conjoint n'est pas autorisé en cas de mariage polygame, si le regroupant a déjà un autre conjoint vivant avec lui au Grand-Duché de Luxembourg.
+**(3)** Le regroupement familial d’un conjoint n’est pas autorisé en cas de mariage polygame, si le regroupant a déjà un autre conjoint vivant avec lui au Grand-Duché de Luxembourg.
 
-**(4)** Le ministre autorise l'entrée et le séjour aux fins du regroupement familial aux ascendants directs au premier degré du mineur non accompagné, bénéficiaire d'une protection internationale, sans que soient appliquées les conditions fixées au paragraphe (5), point a) du présent article.
+**(4)** Le ministre autorise l’entrée et le séjour aux fins du regroupement familial aux ascendants directs au premier degré du mineur non accompagné, bénéficiaire d’une protection internationale, sans que soient appliquées les conditions fixées au paragraphe (5), point a) du présent article.
 
-**(5)** L'entrée et le séjour peuvent être autorisés par le ministre:
+**(5)** L’entrée et le séjour peuvent être autorisés par le ministre:
 
-1. aux ascendants en ligne directe au premier degré du regroupant ou de son conjoint ou partenaire visé au paragraphe (1), point b) qui précède, lorsqu'ils sont à sa charge et qu'ils sont privés du soutien familial nécessaire dans leur pays d'origine;
-2. aux enfants majeurs célibataires du regroupant ou de son conjoint ou partenaire visé au paragraphe (1), point b) qui précède, lorsqu'ils sont objectivement dans l'incapacité de subvenir à leurs propres besoins en raison de leur état de santé;
-3. au tuteur légal ou tout autre membre de la famille du mineur non accompagné, bénéficiaire d'une protection internationale, lorsque celui-ci n'a pas d'ascendants directs ou que ceux-ci ne peuvent être retrouvés.
+1. aux ascendants en ligne directe au premier degré du regroupant ou de son conjoint ou partenaire visé au paragraphe (1), point b) qui précède, lorsqu’ils sont à sa charge et qu’ils sont privés du soutien familial nécessaire dans leur pays d’origine;
+2. aux enfants majeurs célibataires du regroupant ou de son conjoint ou partenaire visé au paragraphe (1), point b) qui précède, lorsqu’ils sont objectivement dans l’incapacité de subvenir à leurs propres besoins en raison de leur état de santé;
+3. au tuteur légal ou tout autre membre de la famille du mineur non accompagné, bénéficiaire d’une protection internationale, lorsque celui-ci n’a pas d’ascendants directs ou que ceux-ci ne peuvent être retrouvés.
 
 <a id="art_N13C33"></a>
 
@@ -1839,9 +1839,9 @@ Par dérogation à l’article 69, sont autorisés à accompagner le ressortissa
 
 ### Art. 72.
 
-**(1)** Sous réserve qu'ils ne représentent pas un danger pour l'ordre public ou la sécurité publique, les membres de la famille visés à l'article 70, paragraphe (1) sont autorisés à accompagner ou rejoindre le résident de longue durée qui a obtenu son statut dans un autre Etat membre de l'Union et qui exerce son droit de séjour au Grand-Duché de Luxembourg en conformité avec l'article 86, lorsque la famille est déjà constituée dans le premier Etat membre.
+**(1)** Sous réserve qu’ils ne représentent pas un danger pour l’ordre public ou la sécurité publique, les membres de la famille visés à l’article 70, paragraphe (1) sont autorisés à accompagner ou rejoindre le résident de longue durée qui a obtenu son statut dans un autre Etat membre de l’Union et qui exerce son droit de séjour au Grand-Duché de Luxembourg en conformité avec l’article 86, lorsque la famille est déjà constituée dans le premier Etat membre.
 
-**(2)** Le ministre peut accorder l'autorisation visée au paragraphe (1) qui précède, aux membres de la famille visés à l'article 70, paragraphe (5) lorsque la famille est déjà constituée dans le premier Etat membre de l'Union. La demande de titre de séjour est soumise aux règles de procédure applicables en vertu de l'article 82, paragraphe (1).
+**(2)** Le ministre peut accorder l’autorisation visée au paragraphe (1) qui précède, aux membres de la famille visés à l’article 70, paragraphe (5) lorsque la famille est déjà constituée dans le premier Etat membre de l’Union. La demande de titre de séjour est soumise aux règles de procédure applicables en vertu de l’article 82, paragraphe (1).
 
 **(3)** Les membres de la famille du titulaire d’une carte bleue européenne délivrée dans un autre Etat membre et qui a fait une demande en vertu de l’article 45-4, sont autorisés à l’accompagner ou le rejoindre si la famille était déjà constituée dans le premier Etat membre. Par dérogation à l’article 73, paragraphe (4), ils ont le droit d’entrer et de séjourner sur le territoire luxembourgeois sur la base du titre de séjour en cours de validité qu’ils ont obtenu dans le premier État membre en tant que membres de la famille d’un titulaire d’une carte bleue européenne. La demande est introduite conformément aux dispositions prévues à l’article 45-4, paragraphe (2). Les dispositions prévues à l’article 45-4, paragraphe (3) sont applicables.
 
@@ -1853,17 +1853,17 @@ Les dispositions du présent paragraphe ne s’appliquent pas aux membres de la 
 
 ### Art. 73.
 
-**(1)** La demande en obtention d'une autorisation de séjour en tant que membre de la famille est accompagnée des preuves que le regroupant remplit les conditions fixées et de pièces justificatives prouvant les liens familiaux, ainsi que des copies intégrales des documents de voyage des membres de la famille.
+**(1)** La demande en obtention d’une autorisation de séjour en tant que membre de la famille est accompagnée des preuves que le regroupant remplit les conditions fixées et de pièces justificatives prouvant les liens familiaux, ainsi que des copies intégrales des documents de voyage des membres de la famille.
 
-**(2)** Pour obtenir la preuve de l'existence de liens familiaux, le ministre ou l'agent du poste diplomatique ou consulaire représentant les intérêts du Grand-Duché de Luxembourg dans le pays d'origine ou de provenance du membre de la famille, peuvent procéder à des entretiens avec le regroupant ou les membres de famille, ainsi qu'à tout examen et toute enquête jugés utiles.
+**(2)** Pour obtenir la preuve de l’existence de liens familiaux, le ministre ou l’agent du poste diplomatique ou consulaire représentant les intérêts du Grand-Duché de Luxembourg dans le pays d’origine ou de provenance du membre de la famille, peuvent procéder à des entretiens avec le regroupant ou les membres de famille, ainsi qu’à tout examen et toute enquête jugés utiles.
 
-**(3)** Lorsqu'un bénéficiaire d'une protection internationale ne peut fournir les pièces justificatives officielles attestant des liens familiaux, il peut prouver l'existence de ces liens par tout moyen de preuve. La seule absence de pièces justificatives ne peut motiver une décision de rejet de la demande de regroupement familial.
+**(3)** Lorsqu’un bénéficiaire d’une protection internationale ne peut fournir les pièces justificatives officielles attestant des liens familiaux, il peut prouver l’existence de ces liens par tout moyen de preuve. La seule absence de pièces justificatives ne peut motiver une décision de rejet de la demande de regroupement familial.
 
-**(4)** La demande est introduite et examinée alors que les membres de la famille résident à l'extérieur du pays.
+**(4)** La demande est introduite et examinée alors que les membres de la famille résident à l’extérieur du pays.
 
-**(5)** Le ministre peut, dans des cas exceptionnels dûment motivés, accepter que lors de l'introduction de la demande, les membres de la famille se trouvent déjà sur le territoire luxembourgeois.
+**(5)** Le ministre peut, dans des cas exceptionnels dûment motivés, accepter que lors de l’introduction de la demande, les membres de la famille se trouvent déjà sur le territoire luxembourgeois.
 
-**(6)** Au plus tard neuf mois après la date du dépôt de la demande, le ministre notifie sa décision par écrit au regroupé. Dans des cas exceptionnels liés à la complexité de l'examen de la demande, ce délai peut être prorogé.
+**(6)** Au plus tard neuf mois après la date du dépôt de la demande, le ministre notifie sa décision par écrit au regroupé. Dans des cas exceptionnels liés à la complexité de l’examen de la demande, ce délai peut être prorogé.
 
 **(7)** Par dérogation au paragraphe (6), lorsque les conditions d’un regroupement familial sont remplies et que les demandes complètes ont été introduites simultanément, l’autorisation de séjour des membres de la famille d’un ressortissant de pays tiers qui demande une autorisation de séjour aux fins d’exercer un emploi hautement qualifié est accordée en même temps que la carte bleue européenne.
 
@@ -1879,7 +1879,7 @@ Les dispositions des articles 45-3, paragraphe (5), et 50*bis*, alinéas 2 et 3,
 
 ### Art. 74.
 
-**(1)** Dans le cas où le regroupement familial du ressortissant de pays tiers est autorisé, il se voit délivrer conformément à l'article 40, un titre de séjour pour «membre de famille» valable pour une durée d'un an, renouvelable, sur demande, tant que les conditions d'obtention restent remplies. La période de validité du titre de séjour accordé ne dépasse pas la date d'expiration du titre de séjour du regroupant.
+**(1)** Dans le cas où le regroupement familial du ressortissant de pays tiers est autorisé, il se voit délivrer conformément à l’article 40, un titre de séjour pour «membre de famille» valable pour une durée d’un an, renouvelable, sur demande, tant que les conditions d’obtention restent remplies. La période de validité du titre de séjour accordé ne dépasse pas la date d’expiration du titre de séjour du regroupant.
 
 Par dérogation à l’alinéa qui précède, la durée de validité des titres de séjour des membres de la famille est identique à celle du titre de séjour délivré au titulaire de la carte bleue européenne, pour autant que la période de validité de leurs documents de voyage le permette.
 
@@ -1887,18 +1887,18 @@ Par dérogation à l’alinéa 1 qui précède, la durée de validité des titre
 
 Par dérogation à l’alinéa 1 qui précède, la durée de validité des titres de séjour des membres de la famille expire à la même date que le titre de séjour pour chercheur, avec la mention « mobilité du chercheur ».
 
-**(2)** Le titre de séjour délivré à la personne autorisée à séjourner au titre du regroupement familial confère à son titulaire, dès la délivrance de ce titre, l'accès à l'éducation et à l'orientation, à la formation, au perfectionnement et au recyclage professionnels, ainsi que le droit d'exercer une activité salariée ou indépendante .
+**(2)** Le titre de séjour délivré à la personne autorisée à séjourner au titre du regroupement familial confère à son titulaire, dès la délivrance de ce titre, l’accès à l’éducation et à l’orientation, à la formation, au perfectionnement et au recyclage professionnels, ainsi que le droit d’exercer une activité salariée ou indépendante .
 
 <a id="art_N13EA0"></a>
 
 ### Art. 75.
 
-L'entrée sur le territoire luxembourgeois peut être refusée et le séjour du membre de la famille peut être refusé, et, sans préjudice de l'article 101, le titre de séjour peut être retiré ou refusé d'être renouvelé lorsque:
+L’entrée sur le territoire luxembourgeois peut être refusée et le séjour du membre de la famille peut être refusé, et, sans préjudice de l’article 101, le titre de séjour peut être retiré ou refusé d’être renouvelé lorsque:
 
 1. les conditions fixées par la présente section ne sont pas ou plus remplies;
-2. le regroupant et les membres de sa famille n'entretiennent pas ou plus une vie conjugale ou familiale effective, sans préjudice de l'article 76;
+2. le regroupant et les membres de sa famille n’entretiennent pas ou plus une vie conjugale ou familiale effective, sans préjudice de l’article 76;
 3. le regroupant ou le partenaire est marié ou a une relation durable avec une autre personne;
-4. le mariage ou le partenariat ou l'adoption ont été conclus uniquement pour permettre à la personne concernée d'entrer ou de séjourner sur le territoire luxembourgeois.
+4. le mariage ou le partenariat ou l’adoption ont été conclus uniquement pour permettre à la personne concernée d’entrer ou de séjourner sur le territoire luxembourgeois.
 
 Toute décision de refus est soumise aux règles procédurales contenues dans la section 2 du chapitre 4 de la présente loi.
 
@@ -1921,11 +1921,11 @@ Toute décision de refus est soumise aux règles procédurales contenues dans la
 
 ### Art. 77.
 
-**(1)** En cas de refus du séjour, de retrait ou de refus de renouvellement du titre de séjour et d'une prise de décision d'éloignement du territoire du regroupant ou des membres de sa famille, il est tenu compte de la nature et de la solidité des liens familiaux, de la durée du séjour sur le territoire et du degré d'intégration dans la société luxembourgeoise, ainsi que de l'existence d'attaches familiales, culturelles ou sociales avec le pays d'origine.
+**(1)** En cas de refus du séjour, de retrait ou de refus de renouvellement du titre de séjour et d’une prise de décision d’éloignement du territoire du regroupant ou des membres de sa famille, il est tenu compte de la nature et de la solidité des liens familiaux, de la durée du séjour sur le territoire et du degré d’intégration dans la société luxembourgeoise, ainsi que de l’existence d’attaches familiales, culturelles ou sociales avec le pays d’origine.
 
-**(2)** La seule survenance de maladies ou d'infirmités après la délivrance du titre de séjour ne peut justifier le refus de renouvellement du titre de séjour et la prise de décision d'éloignement du territoire.
+**(2)** La seule survenance de maladies ou d’infirmités après la délivrance du titre de séjour ne peut justifier le refus de renouvellement du titre de séjour et la prise de décision d’éloignement du territoire.
 
-##### Sous-section 7. — L'autorisation de séjour pour des raisons privées
+##### Sous-section 7. — L’autorisation de séjour pour des raisons privées
 
 <a id="art_N13FD2"></a>
 
@@ -1950,33 +1950,33 @@ Un règlement grand-ducal précise les ressources exigées et les modalités sel
 
 ### Art. 79.
 
-**(1)** Le ressortissant de pays tiers autorisé au séjour en vertu de l'article 78 se voit délivrer, conformément à l'article 40, un titre de séjour avec la mention «vie privée», valable pour une durée qui ne peut excéder trois ans , renouvelable, sur demande, si après réexamen de sa situation il appert qu'il continue à remplir les conditions fixées à l'article 78.
+**(1)** Le ressortissant de pays tiers autorisé au séjour en vertu de l’article 78 se voit délivrer, conformément à l’article 40, un titre de séjour avec la mention «vie privée», valable pour une durée qui ne peut excéder trois ans , renouvelable, sur demande, si après réexamen de sa situation il appert qu’il continue à remplir les conditions fixées à l’article 78.
 
-**(2)** Lors de l'octroi et du renouvellement du titre de séjour visé au paragraphe (1) qui précède, le ministre peut tenir compte du degré d'intégration des personnes concernées dans la société luxembourgeoise.
+**(2)** Lors de l’octroi et du renouvellement du titre de séjour visé au paragraphe (1) qui précède, le ministre peut tenir compte du degré d’intégration des personnes concernées dans la société luxembourgeoise.
 
 **(3)** Les personnes visées au paragraphe (1), points 2. et 3., et aux paragraphes (3) et (4) de l’article 78 peuvent solliciter la délivrance d’un titre de séjour pour travailleur salarié si elles s’adonnent à titre principal à une activité salariée et remplissent les conditions de l’article 42, paragraphe (1), points 3 et 4.
 
-##### Section 3. — L'autorisation de séjour du résident de longue durée
+##### Section 3. — L’autorisation de séjour du résident de longue durée
 
 <a id="art_N140F3"></a>
 
 ### Art. 80.
 
-**(1)** Le ressortissant de pays tiers qui justifie sur le territoire du Grand-Duché de Luxembourg, d'un séjour régulier ininterrompu d'au moins cinq années précédant immédiatement l'introduction de la demande, peut demander l'obtention du statut de résident de longue durée.
+**(1)** Le ressortissant de pays tiers qui justifie sur le territoire du Grand-Duché de Luxembourg, d’un séjour régulier ininterrompu d’au moins cinq années précédant immédiatement l’introduction de la demande, peut demander l’obtention du statut de résident de longue durée.
 
 Le statut de résident de longue durée sur base de la protection internationale telle que définie à l’article 2, point a) de la loi du 5 mai 2006 précitée, n’est pas accordé en cas de révocation de la protection internationale conformément aux articles 36, paragraphe (3) et 41, paragraphe (3) de la loi du 5 mai 2006 précitée.
 
-**(2)** Par dérogation au paragraphe (1) qui précède, le statut de longue durée n'est pas accordé au ressortissant de pays tiers, quelle que soit la durée de son séjour sur le territoire, qui:
+**(2)** Par dérogation au paragraphe (1) qui précède, le statut de longue durée n’est pas accordé au ressortissant de pays tiers, quelle que soit la durée de son séjour sur le territoire, qui:
 
 1. a un statut juridique régi par les dispositions de la Convention de Vienne de 1961 sur les relations diplomatiques, de la Convention de Vienne de 1963 sur les relations consulaires, de la Convention de Vienne 1969 sur les missions spéciales ou de la Convention de Vienne de 1975 sur la représentation des Etats dans leurs relations avec les organisations internationales de caractère universel;
 2. a demandé une protection internationale et dont la demande n’a pas encore fait l’objet d’une décision définitive;
 3. est autorisé à séjourner sur le territoire en vertu d’une forme de protection autre que la protection internationale ou en vertu d’une protection temporaire ou a demandé l’autorisation de séjourner à ce titre en attendant une décision sur son statut;
 4. séjourne sur le territoire exclusivement pour des motifs à caractère temporaire en tant que travailleur saisonnier ou en tant que travailleur salarié détaché ou transféré, ou lorsque la validité de son titre de séjour est formellement limitée;
-5. séjourne sur le territoire à des fins d'études ou de formation professionnelle.
+5. séjourne sur le territoire à des fins d’études ou de formation professionnelle.
 
-**(3)** Pour calculer la période de cinq années visée au paragraphe (1) qui précède, les périodes de séjour régulier aux fins d'études ou de formation professionnelle sont prises en compte à moitié, si le ressortissant de pays tiers a acquis un titre de séjour qui lui permet d'obtenir le statut de résident de longue durée.
+**(3)** Pour calculer la période de cinq années visée au paragraphe (1) qui précède, les périodes de séjour régulier aux fins d’études ou de formation professionnelle sont prises en compte à moitié, si le ressortissant de pays tiers a acquis un titre de séjour qui lui permet d’obtenir le statut de résident de longue durée.
 
-En ce qui concerne les personnes auxquelles a été accordée la protection internationale, au moins la moitié de la période comprise entre la date du dépôt de la demande de protection internationale sur la base de laquelle cette protection internationale a été accordée, et la date de la délivrance du titre de séjour visé à l’article 46 de la loi du 5 mai 2006 précitée, ou la totalité de cette période si elle excède dix-huit mois, est prise en considération pour le calcul de la période visée au paragraphe (1) qui précède.
+En ce qui concerne les personnes auxquelles la protection internationale a été octroyée, la période comprise entre la date d’introduction de la demande de protection internationale sur la base de laquelle la protection internationale a été octroyée et la date de délivrance du titre de séjour conformément à l’article 24 du règlement (UE) 2024/1347 du Parlement européen et du Conseil du 14 mai 2024 concernant les normes relatives aux conditions que doivent remplir les ressortissants des pays tiers ou les apatrides pour pouvoir bénéficier d’une protection internationale, à un statut uniforme pour les réfugiés ou les personnes pouvant bénéficier de la protection subsidiaire et au contenu de cette protection, modifiant la directive 2003/109/CE du Conseil et abrogeant la directive 2011/95/UE du Parlement européen et du Conseil, est prise en compte pour le calcul de la période visée au paragraphe (1). Toutefois, lorsqu’une personne à laquelle la protection internationale a été accordée au Grand-Duché de Luxembourg se trouve dans un autre État membre sans avoir le droit d’y séjourner ou d’y résider conformément au droit national, international ou de l’Union européenne applicables, la période de séjour légal sur le territoire du Grand-Duché de Luxembourg précédant une telle situation n’est pas prise en compte dans le calcul de la période visée au paragraphe (1).
 
 Le titulaire d’une carte bleue européenne visé à l’article 45-4 est autorisé à cumuler les séjours effectués dans différents États membres afin de satisfaire à l’exigence relative à la durée de séjour, si les conditions suivantes sont remplies:
 
@@ -1985,32 +1985,32 @@ Le titulaire d’une carte bleue européenne visé à l’article 45-4 est autor
 
 Les périodes de résidence pour les raisons évoquées au paragraphe (2), points a) et d) ne sont pas prises en considération pour calculer la période visée au paragraphe (1).
 
-**(4)** Les périodes d'absence du territoire n'interrompent pas la période visée au paragraphe (1) qui précède et sont prises en compte dans le calcul de celle-ci, lorsqu'elles sont inférieures à six mois consécutifs et ne dépassent pas un total de dix mois sur les cinq ans.
+**(4)** Les périodes d’absence du territoire n’interrompent pas la période visée au paragraphe (1) qui précède et sont prises en compte dans le calcul de celle-ci, lorsqu’elles sont inférieures à six mois consécutifs et ne dépassent pas un total de dix mois sur les cinq ans.
 
 Aux fins du calcul de la période de résidence légale et ininterrompue dans l’Union européenne visée au point a) de l’alinéa 3 du paragraphe (3), les périodes d’absences du territoire de l’État membre concerné n’interrompent pas la période de résidence légale et ininterrompue si elles ne s’étendent pas sur plus de douze mois consécutifs et ne dépassent pas au total dix-huit mois sur l’ensemble de la période de cinq ans. Ce calcul est appliqué à tous les détenteurs d’une carte bleue européenne.
 
 **(5)** Les périodes d’absence visées au paragraphe (4) qui précède peuvent, sur demande, dans des cas justifiés par des raisons spécifiques ou exceptionnelles à caractère temporaire, telles qu’une grossesse et un accouchement, une maladie grave, des études ou une formation professionnelle, un détachement pour des raisons de travail, y compris dans le cadre d’une prestation de services transfrontaliers, être prolongées jusqu’à douze mois consécutifs au maximum.
 
-<a id="art_N14241"></a>
+<a id="art_N1425B"></a>
 
 ### Art. 81.
 
-**(1)** Pour l'obtention du statut de résident de longue durée, le ressortissant de pays tiers doit remplir les conditions suivantes:
+**(1)** Pour l’obtention du statut de résident de longue durée, le ressortissant de pays tiers doit remplir les conditions suivantes:
 
-1. il rapporte la preuve qu'il dispose de ressources stables, régulières et suffisantes pour subvenir à ses propres besoins et à ceux des membres de sa famille qui sont à sa charge, sans recourir au système d'assistance sociale, conformément aux conditions et modalités définies par règlement grand-ducal;
-2. il dispose d'un logement approprié;
-3. il dispose de la couverture d'une assurance maladie pour lui-même et les membres de sa famille;
-4. il ne représente pas un danger pour l'ordre public ou la sécurité publique.
+1. il rapporte la preuve qu’il dispose de ressources stables, régulières et suffisantes pour subvenir à ses propres besoins et à ceux des membres de sa famille qui sont à sa charge, sans recourir au système d’assistance sociale, conformément aux conditions et modalités définies par règlement grand-ducal;
+2. il dispose d’un logement approprié;
+3. il dispose de la couverture d’une assurance maladie pour lui-même et les membres de sa famille;
+4. il ne représente pas un danger pour l’ordre public ou la sécurité publique.
 
-**(2)** Avant de prendre une décision de refus de l'octroi du statut de résident de longue durée, le ministre prend en considération la gravité ou la nature de l'infraction contre l'ordre public ou la sécurité publique, ou le danger que représente la personne concernée. Le refus ne saurait être justifié par des raisons économiques. Le ministre tient également compte de la durée de séjour et de l'existence de liens avec le pays d'accueil.
+**(2)** Avant de prendre une décision de refus de l’octroi du statut de résident de longue durée, le ministre prend en considération la gravité ou la nature de l’infraction contre l’ordre public ou la sécurité publique, ou le danger que représente la personne concernée. Le refus ne saurait être justifié par des raisons économiques. Le ministre tient également compte de la durée de séjour et de l’existence de liens avec le pays d’accueil.
 
-**(3)** Lors de l'examen de la demande en obtention du statut de résident de longue durée, le ministre tient compte du degré d'intégration du demandeur.
+**(3)** Lors de l’examen de la demande en obtention du statut de résident de longue durée, le ministre tient compte du degré d’intégration du demandeur.
 
-<a id="art_N142AA"></a>
+<a id="art_N142C4"></a>
 
 ### Art. 82.
 
-**(1)** Aux fins d'obtenir le statut de résident de longue durée, le ressortissant de pays tiers introduit une demande auprès du ministre suivant les modalités à fixer par règlement grand-ducal. La décision du ministre est notifiée par écrit au demandeur au plus tard six mois après la date du dépôt de la demande. Dans des cas exceptionnels liés à la complexité de l'examen de la demande, ce délai peut être prorogé.
+**(1)** Aux fins d’obtenir le statut de résident de longue durée, le ressortissant de pays tiers introduit une demande auprès du ministre suivant les modalités à fixer par règlement grand-ducal. La décision du ministre est notifiée par écrit au demandeur au plus tard six mois après la date du dépôt de la demande. Dans des cas exceptionnels liés à la complexité de l’examen de la demande, ce délai peut être prorogé.
 
 **(2)** Le ressortissant de pays tiers qui remplit les conditions des articles 80 et 81 se voit délivrer un «permis de séjour de résident de longue durée – CE», valable pour une durée de cinq ans, renouvelable de plein droit sur demande.
 
@@ -2022,33 +2022,33 @@ Lorsqu’un permis de séjour de résident de longue durée – UE est délivré
 
 Les modalités concernant les modifications relatives aux inscriptions du permis de séjour de résident de longue durée – UE bénéficiaire d’une protection internationale sont fixées par règlement grand-ducal.
 
-**(3)** Sous réserve des dispositions de l'article 83, le statut de résident de longue durée est permanent.
+**(3)** Sous réserve des dispositions de l’article 83, le statut de résident de longue durée est permanent.
 
-<a id="art_N1433F"></a>
+<a id="art_N14359"></a>
 
 ### Art. 83.
 
 **(1)** Le droit au statut de résident de longue durée se perd dans les cas suivants:
 
-1. la constatation de l'acquisition frauduleuse du statut de résident de longue durée;
+1. la constatation de l’acquisition frauduleuse du statut de résident de longue durée;
 2. b)
-3. l'absence du territoire luxembourgeois pendant une période de six ans;
-4. l'obtention du statut de résident de longue durée dans un autre Etat membre de l'Union;
-5. la prise d'une décision d'éloignement du territoire, sans préjudice de l'article 84.
+3. l’absence du territoire luxembourgeois pendant une période de six ans;
+4. l’obtention du statut de résident de longue durée dans un autre Etat membre de l’Union;
+5. la prise d’une décision d’éloignement du territoire, sans préjudice de l’article 84.
 
 **(1*bis*)** Le statut de résident de longue durée est retiré en cas de révocation en vertu des articles 36, paragraphe (3) et 41, paragraphe (3) de la loi du 5 mai 2006 précitée.
 
-**(2)** Si, par la gravité des infractions qu'il a commises, le résident de longue durée représente un danger pour l'ordre public, sans que cela ne justifie un éloignement du territoire au titre de l'article 84, il perd le droit au statut de résident de longue durée.
+**(2)** Si, par la gravité des infractions qu’il a commises, le résident de longue durée représente un danger pour l’ordre public, sans que cela ne justifie un éloignement du territoire au titre de l’article 84, il perd le droit au statut de résident de longue durée.
 
-**(3)** En cas de perte du droit au statut de résident de longue durée en vertu des points b), c) et d) du paragraphe (1) qui précède, le ressortissant de pays tiers bénéficie, pour recouvrer son statut, d'une procédure simplifiée dont les conditions sont fixées par règlement grand-ducal.
+**(3)** En cas de perte du droit au statut de résident de longue durée en vertu des points b), c) et d) du paragraphe (1) qui précède, le ressortissant de pays tiers bénéficie, pour recouvrer son statut, d’une procédure simplifiée dont les conditions sont fixées par règlement grand-ducal.
 
-**(4)** L'expiration du permis de séjour de résident de longue durée n'entraîne pas le retrait ou la perte du statut de résident de longue durée.
+**(4)** L’expiration du permis de séjour de résident de longue durée n’entraîne pas le retrait ou la perte du statut de résident de longue durée.
 
-<a id="art_N143F6"></a>
+<a id="art_N14410"></a>
 
 ### Art. 84.
 
-**(1)** Une décision d'éloignement du territoire ne peut être prise à l'encontre du résident de longue durée que lorsqu'il représente une menace réelle et suffisamment grave pour l'ordre public ou la sécurité publique. Cette décision ne saurait être justifiée par des raisons économiques.
+**(1)** Une décision d’éloignement du territoire ne peut être prise à l’encontre du résident de longue durée que lorsqu’il représente une menace réelle et suffisamment grave pour l’ordre public ou la sécurité publique. Cette décision ne saurait être justifiée par des raisons économiques.
 
 **(2)** Avant de prendre une décision de retour à l’encontre d’un résident de longue durée, le ministre prend en compte la durée de la résidence sur le territoire, l’âge de la personne concernée, les conséquences pour elle et pour les membres de sa famille, les liens avec le pays de résidence ou l’absence de liens avec le pays d’origine.
 
@@ -2062,53 +2062,53 @@ Si le résident de longue durée d’un autre Etat membre bénéficie toujours d
 
 **(5)** Par dérogation au paragraphe (4), alinéa 1 qui précède, le résident de longue durée peut être éloigné vers un pays autre que l’Etat membre qui lui a accordé une protection internationale, lorsque le résident de longue durée remplit les conditions prévues à l’article 43, paragraphe (2) de la loi du 5 mai 2006 précitée.
 
-<a id="art_N1449E"></a>
+<a id="art_N144B8"></a>
 
 ### Art. 85.
 
-**(1)** Sous réserve qu'il remplit les conditions fixées à l'article 86, le ressortissant de pays tiers qui a obtenu le statut de résident de longue durée dans un autre Etat membre de l'Union a le droit de séjourner au Grand-Duché de Luxembourg pour une durée supérieure à trois mois, dans les cas suivants:
+**(1)** Sous réserve qu’il remplit les conditions fixées à l’article 86, le ressortissant de pays tiers qui a obtenu le statut de résident de longue durée dans un autre Etat membre de l’Union a le droit de séjourner au Grand-Duché de Luxembourg pour une durée supérieure à trois mois, dans les cas suivants:
 
 1. il exerce une activité salariée ou indépendante;
 2. il poursuit des études ou une formation professionnelle;
-3. il séjourne sur le territoire à d'autres fins, dûment justifiées.
+3. il séjourne sur le territoire à d’autres fins, dûment justifiées.
 
-**(2)** Lorsqu'il exerce une activité salariée ou indépendante, les dispositions y relatives figurant sous la section 2 du présent chapitre sont applicables. Au cas où il poursuit des études ou une formation professionnelle, la preuve de l'inscription dans un établissement d'enseignement supérieur tel que visé à l'article 56, paragraphe (2) doit être rapportée.
+**(2)** Lorsqu’il exerce une activité salariée ou indépendante, les dispositions y relatives figurant sous la section 2 du présent chapitre sont applicables. Au cas où il poursuit des études ou une formation professionnelle, la preuve de l’inscription dans un établissement d’enseignement supérieur tel que visé à l’article 56, paragraphe (2) doit être rapportée.
 
 **(2*bis*)** Par dérogation au paragraphe (2), le résident de longue durée – UE d’un autre État membre qui est titulaire d’un titre de séjour de longue durée assorti de l’observation « Ancien titulaire d’une carte bleue européenne » a le droit d’exercer une activité salariée ou indépendante sans devoir remplir les conditions prévues respectivement aux articles 42 et 51.
 
-**(3)** Ne tombe pas sous l'application du présent article, le séjour du résident de longue durée en tant que travailleur salarié détaché par un prestataire de services dans le cadre d'une prestation transfrontalière ou en tant que prestataire de services transfrontaliers.
+**(3)** Ne tombe pas sous l’application du présent article, le séjour du résident de longue durée en tant que travailleur salarié détaché par un prestataire de services dans le cadre d’une prestation transfrontalière ou en tant que prestataire de services transfrontaliers.
 
-<a id="art_N14523"></a>
+<a id="art_N1453D"></a>
 
 ### Art. 86.
 
-**(1)** Pour pouvoir séjourner sur le territoire, le résident de longue durée d'un autre Etat membre de l'Union doit introduire une demande en obtention d'une autorisation de séjour auprès du ministre et remplir les conditions suivantes:
+**(1)** Pour pouvoir séjourner sur le territoire, le résident de longue durée d’un autre Etat membre de l’Union doit introduire une demande en obtention d’une autorisation de séjour auprès du ministre et remplir les conditions suivantes:
 
-1. il rapporte la preuve qu'il dispose de ressources stables, régulières et suffisantes pour subvenir à ses propres besoins et à ceux des membres de sa famille visés à l'article 72, sans recourir au système d'assistance sociale, conformément aux conditions et modalités définies par règlement grand-ducal;
-2. il dispose de la couverture d'une assurance maladie pour lui-même et les membres de sa famille;
-3. il ne représente pas un danger pour l'ordre public ou la sécurité publique.
+1. il rapporte la preuve qu’il dispose de ressources stables, régulières et suffisantes pour subvenir à ses propres besoins et à ceux des membres de sa famille visés à l’article 72, sans recourir au système d’assistance sociale, conformément aux conditions et modalités définies par règlement grand-ducal;
+2. il dispose de la couverture d’une assurance maladie pour lui-même et les membres de sa famille;
+3. il ne représente pas un danger pour l’ordre public ou la sécurité publique.
 
-**(2)** Pour l'évaluation du danger pour l'ordre public ou la sécurité publique, sont prises en considération la gravité ou la nature de l'infraction commise contre l'ordre public ou la sécurité publique, ou le danger que représente la personne concernée.
+**(2)** Pour l’évaluation du danger pour l’ordre public ou la sécurité publique, sont prises en considération la gravité ou la nature de l’infraction commise contre l’ordre public ou la sécurité publique, ou le danger que représente la personne concernée.
 
-<a id="art_N14579"></a>
+<a id="art_N14593"></a>
 
 ### Art. 87.
 
-**(1)** Les modalités de l'introduction de la demande en obtention du titre de séjour sont fixées par règlement grand-ducal.
+**(1)** Les modalités de l’introduction de la demande en obtention du titre de séjour sont fixées par règlement grand-ducal.
 
-**(2)** Sans préjudice des dispositions concernant l'ordre public et la sécurité publique et des dispositions de l'article 41 concernant la santé publique, le résident de longue durée d'un autre Etat membre de l'Union qui remplit les conditions des articles 85 et 86, se voit délivrer un titre de séjour valable pour une durée de cinq ans, renouvelable sur demande.
+**(2)** Sans préjudice des dispositions concernant l’ordre public et la sécurité publique et des dispositions de l’article 41 concernant la santé publique, le résident de longue durée d’un autre Etat membre de l’Union qui remplit les conditions des articles 85 et 86, se voit délivrer un titre de séjour valable pour une durée de cinq ans, renouvelable sur demande.
 
 La durée de validité des titres de séjour délivrés aux membres de sa famille est identique à celle du titre qui lui est délivré.
 
 Le ministre informe le premier Etat membre de sa décision.
 
-<a id="art_N145E0"></a>
+<a id="art_N145FA"></a>
 
 ### Art. 88.
 
-**(1)** S'il remplit les conditions fixées aux articles 80 et 81, le résident de longue durée d'un autre Etat membre de l'Union obtient, sur demande, le statut défini à l'article 82. La demande est soumise aux règles de procédure applicables en vertu de l'article 82.
+**(1)** S’il remplit les conditions fixées aux articles 80 et 81, le résident de longue durée d’un autre Etat membre de l’Union obtient, sur demande, le statut défini à l’article 82. La demande est soumise aux règles de procédure applicables en vertu de l’article 82.
 
-La décision est notifiée par le ministre aux autorités compétentes du premier Etat membre de l'Union.
+La décision est notifiée par le ministre aux autorités compétentes du premier Etat membre de l’Union.
 
 **(2)** Tant que le résident de longue durée d’un autre Etat membre de l’Union n’a pas obtenu le statut visé au paragraphe (1) qui précède, le ministre peut décider de retirer ou de refuser de renouveler son titre de séjour et de l’obliger à quitter le territoire avec les membres de sa famille pour les raisons énumérées à l’article 101 ou si la personne ne séjourne pas régulièrement sur le territoire. La décision est notifiée au premier Etat membre.
 
@@ -2116,13 +2116,13 @@ Une décision d’éloignement du territoire de l’Union peut être adoptée po
 
 L’alinéa qui précède ne s’applique pas aux ressortissants de pays tiers dont le permis de séjour de résident de longue durée – UE établi par le premier Etat membre contient la remarque visée à l’article 82, paragraphe (2), à moins que, dans l’intervalle, la protection internationale n’ait été retirée ou que la personne ne relève d’une des catégories visées à l’article 43, paragraphe (2) de la loi du 5 mai 2006 précitée.
 
-**(3)** Si le ressortissant de pays tiers ayant obtenu le statut de résident de longue durée au Grand-Duché de Luxembourg est éloigné d'un autre Etat membre, il est réadmis immédiatement et sans formalités avec sa famille sur le territoire.
+**(3)** Si le ressortissant de pays tiers ayant obtenu le statut de résident de longue durée au Grand-Duché de Luxembourg est éloigné d’un autre Etat membre, il est réadmis immédiatement et sans formalités avec sa famille sur le territoire.
 
-##### Section 4. — Cas particuliers d'autorisation de séjour
+##### Section 4. — Cas particuliers d’autorisation de séjour
 
-##### Sous-section 1. — L'autorisation de séjour pour motifs exceptionnels
+##### Sous-section 1. — L’autorisation de séjour pour motifs exceptionnels
 
-<a id="art_N1467C"></a>
+<a id="art_N14696"></a>
 
 ### Art. 89.
 
@@ -2133,30 +2133,30 @@ L’alinéa qui précède ne s’applique pas aux ressortissants de pays tiers d
 
 **(2)** Les personnes autorisées au séjour en vertu du paragraphe (1), se voient délivrer un titre de séjour pour travailleur salarié, si elles remplissent les conditions de l’article 42, paragraphe (1), points 3 et 4 et le titre de séjour prévu à l’article 79 si elles poursuivent des études ou une formation professionnelle.
 
-##### Sous-section 2. — L'autorisation de séjour des personnes bénéficiaires d'un traitement médical
+##### Sous-section 2. — L’autorisation de séjour des personnes bénéficiaires d’un traitement médical
 
-<a id="art_N146E8"></a>
+<a id="art_N14702"></a>
 
 ### Art. 90.
 
-**(1)** Sous réserve des conditions fixées à l'article 34, paragraphes (1) et (2), le ressortissant de pays tiers qui se propose de séjourner sur le territoire pour une période allant jusqu'à trois mois, afin de se soumettre à un traitement médical, doit produire les pièces suivantes:
+**(1)** Sous réserve des conditions fixées à l’article 34, paragraphes (1) et (2), le ressortissant de pays tiers qui se propose de séjourner sur le territoire pour une période allant jusqu’à trois mois, afin de se soumettre à un traitement médical, doit produire les pièces suivantes:
 
 1. des certificats médicaux attestant de la nécessité de se soumettre à traitement médical avec spécification du genre de traitement et indication de sa durée prévisible;
 2. une attestation des autorités médicales du pays de provenance indiquant que le malade ne peut pas recevoir sur place les soins appropriés à son état, et en particulier le traitement médical préconisé;
-3. un accord écrit de l'établissement de santé pour l'admission du malade à une date donnée, signé du chef du service qui doit accueillir le malade;
-4. un devis prévisionnel des frais du traitement médical établi par l'établissement accueillant le malade et la preuve que le financement du traitement médical et des frais de séjour sont garantis.
+3. un accord écrit de l’établissement de santé pour l’admission du malade à une date donnée, signé du chef du service qui doit accueillir le malade;
+4. un devis prévisionnel des frais du traitement médical établi par l’établissement accueillant le malade et la preuve que le financement du traitement médical et des frais de séjour sont garantis.
 
-**(2)** La preuve visée au point d) du paragraphe (1) qui précède, peut être rapportée par la production d'une attestation d'une prise en charge ou d'une garantie bancaire du montant du devis prévisionnel des frais de traitement et de séjour.
+**(2)** La preuve visée au point d) du paragraphe (1) qui précède, peut être rapportée par la production d’une attestation d’une prise en charge ou d’une garantie bancaire du montant du devis prévisionnel des frais de traitement et de séjour.
 
-<a id="art_N14741"></a>
+<a id="art_N1475B"></a>
 
 ### Art. 91.
 
-Par application de l'article 38, le ministre, sur avis motivé du médecin délégué visé à l'article 28, peut accorder une autorisation de séjour pour raisons médicales au ressortissant de pays tiers qui remplit les conditions définies à l'article 90. Le ressortissant de pays tiers qui satisfait à ces conditions se voit délivrer un titre de séjour avec la mention «vie privée», valable pour la durée du traitement médical, sinon pour une durée maximale d'un an, renouvelable le cas échéant, sur demande, après réexamen de sa situation et tant qu'il continue à remplir les conditions définies à l'article 90.
+Par application de l’article 38, le ministre, sur avis motivé du médecin délégué visé à l’article 28, peut accorder une autorisation de séjour pour raisons médicales au ressortissant de pays tiers qui remplit les conditions définies à l’article 90. Le ressortissant de pays tiers qui satisfait à ces conditions se voit délivrer un titre de séjour avec la mention «vie privée», valable pour la durée du traitement médical, sinon pour une durée maximale d’un an, renouvelable le cas échéant, sur demande, après réexamen de sa situation et tant qu’il continue à remplir les conditions définies à l’article 90.
 
-##### Sous-section 3. — L'autorisation de séjour des personnes victimes de la traite des êtres humains
+##### Sous-section 3. — L’autorisation de séjour des personnes victimes de la traite des êtres humains
 
-<a id="art_N1477F"></a>
+<a id="art_N14799"></a>
 
 ### Art. 92.
 
@@ -2167,86 +2167,86 @@ Par application de l'article 38, le ministre, sur avis motivé du médecin dél�
 
 Ils la mettent en contact avec un service d’assistance aux victimes de la traite.
 
-**(2)** Au cas où la victime des infractions visées au paragraphe (1) qui précède, est âgée de moins de dix-huit ans et est entrée sur le territoire luxembourgeois sans être accompagnée d'un majeur responsable d'elle de par la loi, et aussi longtemps qu'elle n'est pas effectivement prise en charge par une telle personne, ou est laissée seule après être entrée sur le territoire, elle se voit désigner, dès que possible, un administrateur ad hoc qui l'assiste dans le cadre de la procédure, y compris, si nécessaire, dans le cadre de la procédure pénale.
+**(2)** Au cas où la victime des infractions visées au paragraphe (1) qui précède, est âgée de moins de dix-huit ans et est entrée sur le territoire luxembourgeois sans être accompagnée d’un majeur responsable d’elle de par la loi, et aussi longtemps qu’elle n’est pas effectivement prise en charge par une telle personne, ou est laissée seule après être entrée sur le territoire, elle se voit désigner, dès que possible, un administrateur ad hoc qui l’assiste dans le cadre de la procédure, y compris, si nécessaire, dans le cadre de la procédure pénale.
 
-<a id="art_N147F0"></a>
+<a id="art_N1480A"></a>
 
 ### Art. 93.
 
-**(1)** Le ministre accorde à la personne visée à l'article 92 un délai de réflexion de quatre-vingt-dix jours afin de se soustraire à l'influence des auteurs d'infractions visées au paragraphe (1) de l'article 92, de lui permettre de se rétablir et de décider en connaissance de cause d'introduire une plainte ou de faire des déclarations concernant les personnes ou les réseaux qui se seraient rendus coupables d'infractions visées au paragraphe (1) de l'article 92.
+**(1)** Le ministre accorde à la personne visée à l’article 92 un délai de réflexion de quatre-vingt-dix jours afin de se soustraire à l’influence des auteurs d’infractions visées au paragraphe (1) de l’article 92, de lui permettre de se rétablir et de décider en connaissance de cause d’introduire une plainte ou de faire des déclarations concernant les personnes ou les réseaux qui se seraient rendus coupables d’infractions visées au paragraphe (1) de l’article 92.
 
-**(2)** Durant le délai de réflexion qui court à partir de la signalisation de la présumée victime au ministre, aucune décision d'éloignement du territoire ne peut être exécutée à l'égard de la personne concernée.
+**(2)** Durant le délai de réflexion qui court à partir de la signalisation de la présumée victime au ministre, aucune décision d’éloignement du territoire ne peut être exécutée à l’égard de la personne concernée.
 
 **(3)** La personne bénéficiaire du délai de réflexion se voit délivrer une attestation qui lui permet de demeurer sur le territoire luxembourgeois, sans y être autorisée au séjour.
 
-**(4)** Le ministre peut décider de mettre fin au délai de réflexion prévu au paragraphe (1) qui précède, s'il est établi que la personne concernée a activement, volontairement et de sa propre initiative renoué un lien avec les auteurs présumés d'infractions visées au paragraphe (1) de l'article 92, ou si elle est considérée comme pouvant être un danger pour l'ordre public ou la sécurité intérieure.
+**(4)** Le ministre peut décider de mettre fin au délai de réflexion prévu au paragraphe (1) qui précède, s’il est établi que la personne concernée a activement, volontairement et de sa propre initiative renoué un lien avec les auteurs présumés d’infractions visées au paragraphe (1) de l’article 92, ou si elle est considérée comme pouvant être un danger pour l’ordre public ou la sécurité intérieure.
 
-<a id="art_N14859"></a>
+<a id="art_N14873"></a>
 
 ### Art. 94.
 
-Durant le délai de réflexion, la personne visée à l'article 92 a accès aux mesures de sécurité, de protection et d'assistance.
+Durant le délai de réflexion, la personne visée à l’article 92 a accès aux mesures de sécurité, de protection et d’assistance.
 
-<a id="art_N1488B"></a>
+<a id="art_N148A5"></a>
 
 ### Art. 95.
 
-**(1)** Après l'expiration du délai de réflexion, le ministre délivre à la personne visée à l'article 92 un titre de séjour valable pour une durée de six mois, si les conditions suivantes sont remplies:
+**(1)** Après l’expiration du délai de réflexion, le ministre délivre à la personne visée à l’article 92 un titre de séjour valable pour une durée de six mois, si les conditions suivantes sont remplies:
 
-1. elle a porté plainte ou a fait des déclarations concernant les personnes ou les réseaux présumés être coupables d'infractions visées au paragraphe (1) de l'article 92, ou
-2. sa présence sur le territoire est nécessaire aux fins de l'enquête ou de la procédure ou en raison de sa situation personnelle;
+1. elle a porté plainte ou a fait des déclarations concernant les personnes ou les réseaux présumés être coupables d’infractions visées au paragraphe (1) de l’article 92, ou
+2. sa présence sur le territoire est nécessaire aux fins de l’enquête ou de la procédure ou en raison de sa situation personnelle;
 3. elle a rompu tout lien avec les auteurs présumés des infractions visées ci-dessus;
-4. elle n'est pas considérée comme un danger pour l'ordre public ou la sécurité intérieure.
+4. elle n’est pas considérée comme un danger pour l’ordre public ou la sécurité intérieure.
 
-**(2)** Le titre de séjour visé au paragraphe (1) qui précède, peut être délivré avant l'expiration du délai de réflexion accordé à la personne qui remplit la condition fixée au point 1 du paragraphe (1) qui précède. Il est renouvelable pendant toute la durée de la procédure judiciaire, sous réserve que les conditions fixées au paragraphe (1) restent remplies.
+**(2)** Le titre de séjour visé au paragraphe (1) qui précède, peut être délivré avant l’expiration du délai de réflexion accordé à la personne qui remplit la condition fixée au point 1 du paragraphe (1) qui précède. Il est renouvelable pendant toute la durée de la procédure judiciaire, sous réserve que les conditions fixées au paragraphe (1) restent remplies.
 
-<a id="art_N148F0"></a>
+<a id="art_N1490A"></a>
 
 ### Art. 96.
 
-**(1)** Le titre de séjour peut être retiré et une décision d'éloignement du territoire peut être prise par le ministre lorsqu'il constate que la personne concernée ne remplit plus les conditions de délivrance et plus particulièrement:
+**(1)** Le titre de séjour peut être retiré et une décision d’éloignement du territoire peut être prise par le ministre lorsqu’il constate que la personne concernée ne remplit plus les conditions de délivrance et plus particulièrement:
 
-1. si elle a activement, volontairement et de sa propre initiative renoué un lien avec les auteurs présumés d'infractions visées au paragraphe (1) de l'article 92;
+1. si elle a activement, volontairement et de sa propre initiative renoué un lien avec les auteurs présumés d’infractions visées au paragraphe (1) de l’article 92;
 2. si elle cesse de coopérer avec les autorités compétentes;
-3. si les autorités judiciaires décident d'interrompre la procédure.
+3. si les autorités judiciaires décident d’interrompre la procédure.
 
-**(2)** Le titre de séjour peut également être retiré et une décision d'éloignement du territoire peut être prise par le ministre lorsqu'il constate que la coopération de la personne concernée est frauduleuse ou que sa plainte est frauduleuse ou non fondée, ou si des raisons liées à l'ordre public ou à la sécurité intérieure sont en jeu.
+**(2)** Le titre de séjour peut également être retiré et une décision d’éloignement du territoire peut être prise par le ministre lorsqu’il constate que la coopération de la personne concernée est frauduleuse ou que sa plainte est frauduleuse ou non fondée, ou si des raisons liées à l’ordre public ou à la sécurité intérieure sont en jeu.
 
 **(3)** La décision d’éloignement n’est pas assortie d’une interdiction d’entrée sur le territoire, sauf si la personne concernée n’a pas respecté l’obligation de retour dans le délai imparti ou si elle représente un danger pour l’ordre public, la sécurité publique ou la sécurité nationale.
 
-<a id="art_N14962"></a>
+<a id="art_N1497C"></a>
 
 ### Art. 97.
 
-**(1)** Le titre de séjour visé à l'article 95 donne droit à des mesures de protection et d'assistance. Il permet l'exercice d'une activité salariée si la personne concernée remplit les conditions fixées à l'article 42, paragraphe (1), points 3 et 4.
+**(1)** Le titre de séjour visé à l’article 95 donne droit à des mesures de protection et d’assistance. Il permet l’exercice d’une activité salariée si la personne concernée remplit les conditions fixées à l’article 42, paragraphe (1), points 3 et 4.
 
-**(2)** Un règlement grand-ducal détermine les conditions dans lesquelles le bénéficiaire du titre de séjour visé à l'article 95 a accès à la formation des adultes, aux cours de formation professionnelle et aux cours conçus pour améliorer ses compétences professionnelles ou la préparation de son retour assisté dans son pays d'origine.
+**(2)** Un règlement grand-ducal détermine les conditions dans lesquelles le bénéficiaire du titre de séjour visé à l’article 95 a accès à la formation des adultes, aux cours de formation professionnelle et aux cours conçus pour améliorer ses compétences professionnelles ou la préparation de son retour assisté dans son pays d’origine.
 
-**(3)** Le bénéficiaire du titre de séjour visé à l'article 95 qui est âgé de moins de dix-huit ans a accès au système éducatif.
+**(3)** Le bénéficiaire du titre de séjour visé à l’article 95 qui est âgé de moins de dix-huit ans a accès au système éducatif.
 
-<a id="art_N149BB"></a>
+<a id="art_N149D5"></a>
 
 ### Art. 98.
 
-A l'expiration du titre de séjour, le ministre peut accorder à la personne concernée une autorisation de séjour pour raisons privées en application de l'article 78, point d).
+A l’expiration du titre de séjour, le ministre peut accorder à la personne concernée une autorisation de séjour pour raisons privées en application de l’article 78, point d).
 
 ##### Sous-section 4. — L’autorisation de séjour des personnes victimes d’une infraction à l’interdictionde l’emploi illégal de ressortissants de pays tiers en séjour irrégulier
 
-<a id="art_N149FF"></a>
+<a id="art_N14A19"></a>
 
 ### Art. 98bis.
 
 Les ressortissants de pays tiers en séjour irrégulier peuvent se voir délivrer un titre de séjour conformément à l’article 95, paragraphe (1) lorsqu’ils sont victimes d’une infraction à l’interdiction de l’emploi de ressortissants de pays tiers en séjour irrégulier commise dans les circonstances aggravantes prévues par l’article L. 572-5, paragraphe (1), points 3. et 5. du Code du travail.
 
-##### Section 5. — Limitations à l'entrée et au séjour
+##### Section 5. — Limitations à l’entrée et au séjour
 
-<a id="art_N14A4E"></a>
+<a id="art_N14A68"></a>
 
 ### Art. 99.
 
-Sous réserve des dispositions prévues par les conventions internationales et la réglementation communautaire concernant les documents de voyage applicables aux contrôles aux frontières et sans préjudice d'autres dispositions de la présente loi, l'entrée au Grand-Duché de Luxembourg est refusée au ressortissant de pays tiers qui ne remplit pas les conditions prévues à l'article 34.
+Sous réserve des dispositions prévues par les conventions internationales et la réglementation communautaire concernant les documents de voyage applicables aux contrôles aux frontières et sans préjudice d’autres dispositions de la présente loi, l’entrée au Grand-Duché de Luxembourg est refusée au ressortissant de pays tiers qui ne remplit pas les conditions prévues à l’article 34.
 
-<a id="art_N14A80"></a>
+<a id="art_N14A9A"></a>
 
 ### Art. 100.
 
@@ -2255,7 +2255,8 @@ Sous réserve des dispositions prévues par les conventions internationales et l
 1. qui ne remplit pas ou plus les conditions fixées à l’article 34;
 2. qui se maintient sur le territoire au-delà de la durée de validité de son visa ou de son autorisation de voyage ou au-delà de la durée de trois mois à compter de son entrée sur le territoire ;
 3. qui n’est pas en possession d’une autorisation de séjour valable pour une durée supérieure à trois mois ou d’une autorisation de travail si cette dernière est requise;
-4. qui relève de l’article 117.
+4. qui relève de l’article 117;
+5. er règlement (UE) 2024/1358 règlements (UE) 2024/1351 (UE) 2024/1350 directive 2001/55/CE règlements (UE) 2018/1240 (UE) 2019/818 règlement (UE) n° 603/2013
 
 **(1*bis*)** Une décision de retour est prise conformément à l’article 111 à l’encontre de tout ressortissant de pays tiers en séjour irrégulier sur le territoire, sans préjudice des paragraphes (2) et (3).
 
@@ -2263,115 +2264,123 @@ Sous réserve des dispositions prévues par les conventions internationales et l
 
 Les ressortissants de pays tiers en séjour irrégulier sur le territoire luxembourgeois peuvent être remis aux autorités de l’État membre qui les a admis à entrer ou à séjourner sur son territoire, ou dont ils proviennent directement, en application des accords ou arrangements bilatéraux entre les États membres et les États associés à l’Espace Schengen, en vigueur au 13 janvier 2009. Une décision de renvoi est prise par le ministre. Cette décision peut être exécutée d’office et par la contrainte.
 
-**(3)** Conformément au règlement (UE) n° 603/2013 du Parlement européen et du Conseil du 26 juin 2013 relatif à la création d’Eurodac pour la comparaison des empreintes digitales aux fins de l’application efficace du règlement (UE) n° 604/2013 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des Etats membres par un ressortissant de pays tiers ou un apatride et relatif aux demandes de comparaison avec les données d’Eurodac présentées par les autorités répressives des Etats membres et Europol à des fins répressives, et modifiant le règlement (UE) n° 1077/2011 portant création d’une agence européenne pour la gestion opérationnelle des systèmes d’information à grande échelle au sein de l’espace de liberté, de sécurité et de justice, des membres du cadre policier de la Police grand-ducale peut procéder à la prise d’empreintes digitales de l’étranger en séjour irrégulier âgé de quatorze ans au moins, afin de déterminer si cette personne a auparavant présenté une demande de protection internationale dans un autre Etat membre et quel Etat membre est responsable de l’examen de la demande.
-
-Dans l’affirmative, les dispositions du règlement (UE) n° 604/2013 précité relatives à la procédure de reprise en charge sont applicables.
-
-<a id="art_N14B8F"></a>
+<a id="art_N14C00"></a>
 
 ### Art. 101.
 
-**(1)** L'autorisation de séjour du ressortissant de pays tiers peut lui être refusée ou son titre de séjour peut être refusé ou retiré ou refusé d'être renouvelé:
+**(1)** L’autorisation de séjour du ressortissant de pays tiers peut lui être refusée ou son titre de séjour peut être refusé ou retiré ou refusé d’être renouvelé:
 
-1. s'il ne remplit pas ou plus les conditions fixées à l'article 38 et celles prévues pour chaque catégorie dont il relève ou s'il séjourne à des fins autres que celle pour laquelle il a été autorisé à séjourner;
-2. s'il est considéré comme un danger pour l'ordre public, la sécurité publique ou la santé publique;
-3. s'il appert qu'il a fabriqué, contrefait, falsifié ou altéré un document de voyage, une autorisation ou un titre de séjour, a fait usage d'un autre document de voyage ou de séjour que celui lui appartenant ou a remis ses documents à une autre personne pour qu'elle en fasse un usage quelconque;
-4. s'il a fait usage d'informations fausses ou trompeuses ou s'il a recouru à la fraude ou à d'autres moyens illégaux, soit pour entrer et séjourner sur le territoire, soit pour y faire entrer ou y faire séjourner une tierce personne;
-5. s'il est condamné et poursuivi à l'étranger pour crime ou délit donnant lieu à extradition conformément à la loi et aux traités en la matière;
-6. s'il se trouve dans l'hypothèse prévue à l'article 118.
+1. s’il ne remplit pas ou plus les conditions fixées à l’article 38 et celles prévues pour chaque catégorie dont il relève ou s’il séjourne à des fins autres que celle pour laquelle il a été autorisé à séjourner;
+2. s’il est considéré comme un danger pour l’ordre public, la sécurité publique ou la santé publique;
+3. s’il appert qu’il a fabriqué, contrefait, falsifié ou altéré un document de voyage, une autorisation ou un titre de séjour, a fait usage d’un autre document de voyage ou de séjour que celui lui appartenant ou a remis ses documents à une autre personne pour qu’elle en fasse un usage quelconque;
+4. s’il a fait usage d’informations fausses ou trompeuses ou s’il a recouru à la fraude ou à d’autres moyens illégaux, soit pour entrer et séjourner sur le territoire, soit pour y faire entrer ou y faire séjourner une tierce personne;
+5. s’il est condamné et poursuivi à l’étranger pour crime ou délit donnant lieu à extradition conformément à la loi et aux traités en la matière;
+6. s’il se trouve dans l’hypothèse prévue à l’article 118.
 
-**(2)** Les mesures d'ordre public ou de sécurité publique doivent être fondées exclusivement sur le comportement personnel de la personne concernée qui en fait l'objet. Ce comportement doit représenter une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société, sans que des justifications non directement liées au cas individuel concerné ou tenant à des raisons de prévention générale ne puissent être retenues.
+**(2)** Les mesures d’ordre public ou de sécurité publique doivent être fondées exclusivement sur le comportement personnel de la personne concernée qui en fait l’objet. Ce comportement doit représenter une menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société, sans que des justifications non directement liées au cas individuel concerné ou tenant à des raisons de prévention générale ne puissent être retenues.
 
 **(3)** Tant qu’elle est pendante, une demande de renouvellement d’un titre de séjour fait obstacle à la prise d’une décision de retour, sans préjudice de l’article 111.
 
-<a id="art_N14C0A"></a>
+<a id="art_N14C7B"></a>
 
 ### Art. 102.
 
-**(1)** Si le médecin délégué visé à l'article 28 constate que le ressortissant de pays tiers est atteint d'une des infirmités ou maladies définies par règlement grand-ducal, il en informe le ministre ayant la Santé dans ses attributions qui propose au ministre de prendre à l'encontre de cette personne une décision de refus du titre de séjour.
+**(1)** Si le médecin délégué visé à l’article 28 constate que le ressortissant de pays tiers est atteint d’une des infirmités ou maladies définies par règlement grand-ducal, il en informe le ministre ayant la Santé dans ses attributions qui propose au ministre de prendre à l’encontre de cette personne une décision de refus du titre de séjour.
 
-**(2)** Toutefois, la constatation des maladies et infirmités visées au paragraphe (1) qui précède, ne justifie pas l'éloignement du territoire, si un traitement est en cours au moment de l'examen médical.
+**(2)** Toutefois, la constatation des maladies et infirmités visées au paragraphe (1) qui précède, ne justifie pas l’éloignement du territoire, si un traitement est en cours au moment de l’examen médical.
 
-**(3)** La seule survenance de maladies ou d'infirmités après la délivrance du premier titre de séjour ne peut justifier le refus de renouvellement du titre de séjour et l'éloignement du territoire.
+**(3)** La seule survenance de maladies ou d’infirmités après la délivrance du premier titre de séjour ne peut justifier le refus de renouvellement du titre de séjour et l’éloignement du territoire.
 
-<a id="art_N14C63"></a>
+<a id="art_N14CD4"></a>
 
 ### Art. 103.
 
-Aucune décision de retour ne peut être prise contre un mineur non accompagné d’un représentant légal, à l’exception de celle qui se fonde sur des motifs graves de sécurité publique, sauf si l’éloignement est nécessaire dans son intérêt. L’intérêt supérieur de l’enfant est évalué individuellement par une commission consultative dont la composition et les modalités de fonctionnement sont fixées par règlement grand-ducal. Le mineur non accompagné est assisté par un administrateur ad hoc dans le cadre des procédures administratives et juridictionnelles relatives à l’entrée et le séjour sur le territoire.
+**(1)** Aucune décision de retour ne peut être prise contre un mineur, non accompagné d’un représentant légal, à l’exception de celle qui se fonde sur des motifs graves de sécurité publique, sauf si l’éloignement est nécessaire dans son intérêt. L’intérêt supérieur de l’enfant est évalué individuellement par une commission consultative dont la composition et les modalités de fonctionnement sont fixées par règlement grand-ducal. La commission consultative rend son avis dans les trois mois de sa saisine par le ministre. Le mineur non accompagné est assisté par un administrateur *ad hoc* dans le cadre des procédures administratives et juridictionnelles relatives à l’entrée et le séjour sur le territoire.
+
+**(2)** En attendant que la commission consultative visée au paragraphe 1er se prononce s’il est dans l’intérêt du mineur non accompagné de rester sur le territoire ou non, le mineur non accompagné se voit délivrer une attestation d’une durée de validité de trois mois, le cas échéant, renouvelable, qui lui permet de demeurer sur le territoire luxembourgeois sans autorisation de séjour jusqu’à ce que le ministre prenne une décision sur avis de la commission consultative.
+
+Si la commission consultative estime qu’il est dans l’intérêt du mineur non accompagné de rester sur le territoire, le ministre délivre au mineur non accompagné, jusqu’à sa majorité, une autorisation de séjour pour mineur non accompagné.
+
+Cette disposition est sans préjudice de l’article 103*bis*.
+
+<a id="art_N14D4E"></a>
+
+### Art. 103bis.
+
+Lorsque, après avoir pris connaissance de déclarations générales ou de tout autre élément pertinent, le ministre a des doutes quant à l’âge du ressortissant de pays tiers se déclarant mineur et dépourvu de documents d’identité ou de voyage valables, il peut recueillir toutes les informations disponibles et tenir compte de tout document officiel disponible, dont les actes de naissance, les dossiers scolaires, les dossiers médicaux ou l’estimation par un médecin sous forme d’un examen médical afin de déterminer l’âge du ressortissant de pays tiers. Si, par la suite, des doutes sur l’âge du ressortissant de pays tiers persistent, il est présumé que le ressortissant de pays tiers est un mineur.
 
 ##### Chapitre 4. — Les procédures de refus
 
-##### Section 1. — Le refus d'entrée sur le territoire
+##### Section 1. — Le refus d’entrée sur le territoire
 
-<a id="art_N14CC5"></a>
+<a id="art_N14DA7"></a>
 
 ### Art. 104.
 
-**(1)** Tout refus d'entrée sur le territoire pris en vertu de l'article 99, fait l'objet d'une décision motivée prise par un agent du «Service de contrôle à l'aéroport» prévu à l'article 135.
+**(1)** Tout refus d’entrée sur le territoire pris en vertu de l’article 99, fait l’objet d’une décision motivée prise par un agent du «Service de contrôle à l’aéroport» prévu à l’article 135.
 
-**(2)** Tout refus d'entrée sur le territoire pris lors d'un contrôle aux frontières institué en application des dispositions prévues à l'article 28 du règlement CE n° 562/2006 du Parlement européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au franchissement des frontières par les personnes, ou d'autres traités en matière de coopération policière fait l'objet d'une décision motivée prise par un des agents visés à l'article 134.
+**(2)** Tout refus d’entrée sur le territoire pris lors d’un contrôle aux frontières institué en application des dispositions prévues à l’article 28 du règlement CE n° 562/2006 du Parlement européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au franchissement des frontières par les personnes, ou d’autres traités en matière de coopération policière fait l’objet d’une décision motivée prise par un des agents visés à l’article 134.
 
-<a id="art_N14D13"></a>
+<a id="art_N14DF5"></a>
 
 ### Art. 105.
 
-**(1)** La décision de refus d'entrée sur le territoire peut être exécutée d'office par les agents du «Service de contrôle à l'aéroport». La notification et l'exécution de la décision font l'objet d'un procès-verbal adressé au ministre.
+**(1)** La décision de refus d’entrée sur le territoire peut être exécutée d’office par les agents du «Service de contrôle à l’aéroport». La notification et l’exécution de la décision font l’objet d’un procès-verbal adressé au ministre.
 
-**(2)** Contre la décision de refus d'entrée sur le territoire, un recours en annulation est ouvert devant le Tribunal administratif dans les formes et délais prévus à l'article 113. L'introduction d'un tel recours n'a pas d'effet suspensif.
+**(2)** Contre la décision de refus d’entrée sur le territoire, un recours en annulation est ouvert devant le Tribunal administratif dans les formes et délais prévus à l’article 113. L’introduction d’un tel recours n’a pas d’effet suspensif.
 
-<a id="art_N14D5C"></a>
+<a id="art_N14E3E"></a>
 
 ### Art. 106.
 
-**(1)** Afin de prévenir un refus d'entrée sur le territoire, les entreprises de transport aérien ont l'obligation de transmettre à la Police grand-ducale les renseignements relatifs aux passagers qu'ils vont transporter vers un point de passage frontalier autorisé par lequel ces personnes entreront sur le territoire du Grand-Duché de Luxembourg en provenance d'un pays non-membre de l'Union européenne.
+**(1)** Afin de prévenir un refus d’entrée sur le territoire, les entreprises de transport aérien ont l’obligation de transmettre à la Police grand-ducale les renseignements relatifs aux passagers qu’ils vont transporter vers un point de passage frontalier autorisé par lequel ces personnes entreront sur le territoire du Grand-Duché de Luxembourg en provenance d’un pays non-membre de l’Union européenne.
 
 **(2)** Un règlement grand-ducal fixe les renseignements à transmettre, les modalités de cette transmission, ainsi que le traitement de ces données.
 
-<a id="art_N14DA5"></a>
+<a id="art_N14E87"></a>
 
 ### Art. 107.
 
-**(1)** L'entreprise de transport aérien qui débarque sur le territoire un ressortissant de pays tiers démuni d'un document de voyage valable et, le cas échéant, du visa ou de l’autorisation de voyage requis, doit le reconduire ou le faire reconduire dans le pays de provenance ou dans tout autre pays où il peut être admis.
+**(1)** L’entreprise de transport aérien qui débarque sur le territoire un ressortissant de pays tiers démuni d’un document de voyage valable et, le cas échéant, du visa ou de l’autorisation de voyage requis, doit le reconduire ou le faire reconduire dans le pays de provenance ou dans tout autre pays où il peut être admis.
 
-**(2)** Cette obligation de reconduire ou de faire reconduire incombe également à l'entreprise de transport aérien lorsque l'entrée sur le territoire est refusée pour les raisons figurant au paragraphe (1) qui précède, à un ressortissant de pays tiers en transit si:
+**(2)** Cette obligation de reconduire ou de faire reconduire incombe également à l’entreprise de transport aérien lorsque l’entrée sur le territoire est refusée pour les raisons figurant au paragraphe (1) qui précède, à un ressortissant de pays tiers en transit si:
 
-1. l'entreprise de transport aérien qui devait acheminer la personne concernée dans son pays de destination refuse de l'embarquer, ou
-2. les autorités du pays de destination ont refusé à la personne concernée l'entrée sur le territoire et l'ont renvoyée au Grand-Duché de Luxembourg.
+1. l’entreprise de transport aérien qui devait acheminer la personne concernée dans son pays de destination refuse de l’embarquer, ou
+2. les autorités du pays de destination ont refusé à la personne concernée l’entrée sur le territoire et l’ont renvoyée au Grand-Duché de Luxembourg.
 
 **(3)** Le transporteur visé aux paragraphes (1) et (2) qui précèdent, est en outre tenu de payer les frais de séjour, y compris les frais de santé, et de retour de la personne concernée.
 
-<a id="art_N14E14"></a>
+<a id="art_N14EF6"></a>
 
 ### Art. 108.
 
-**(1)** L'entreprise de transport aérien qui débarque sur le territoire un ressortissant de pays tiers démuni d'un document de voyage valable et, le cas échéant, du visa ou de l’autorisation de voyage requis ou qui n'a pas transmis les renseignements visés à l'article 106 ou qui ne les a pas transmis dans le délai prévu, ou qui a transmis des renseignements incomplets ou erronés, encourt les sanctions prévues aux articles 147 et 148 respectivement.
+**(1)** L’entreprise de transport aérien qui débarque sur le territoire un ressortissant de pays tiers démuni d’un document de voyage valable et, le cas échéant, du visa ou de l’autorisation de voyage requis ou qui n’a pas transmis les renseignements visés à l’article 106 ou qui ne les a pas transmis dans le délai prévu, ou qui a transmis des renseignements incomplets ou erronés, encourt les sanctions prévues aux articles 147 et 148 respectivement.
 
-**(2)** Le manquement est constaté par un procès-verbal établi par la Police grand-ducale. Copie en est remise à l'entreprise de transport aérien.
+**(2)** Le manquement est constaté par un procès-verbal établi par la Police grand-ducale. Copie en est remise à l’entreprise de transport aérien.
 
-**(3)** L'entreprise de transport aérien a accès au dossier et est mise à même de présenter ses observations écrites dans un délai d'un mois sur le projet de sanction. La décision du ministre qui est motivée, est susceptible d'un recours en réformation.
+**(3)** L’entreprise de transport aérien a accès au dossier et est mise à même de présenter ses observations écrites dans un délai d’un mois sur le projet de sanction. La décision du ministre qui est motivée, est susceptible d’un recours en réformation.
 
 ##### Section 2. — Le refus de séjour
 
-<a id="art_N14E85"></a>
+<a id="art_N14F67"></a>
 
 ### Art. 109.
 
 **(1)** Les décisions visées respectivement aux articles 25 et 27 et aux articles 100, 101 et 102 sont prises par le ministre et dûment motivées. La décision motivée par des raisons de santé publique est prise sur proposition du ministre ayant la Santé dans ses attributions.
 
-**(2)** Les motifs précis et complets d'ordre public, de sécurité publique et de santé publique qui sont à la base d'une décision, sont portés à la connaissance de la personne concernée, à moins que des motifs relevant de la sûreté de l'Etat ne s'y opposent.
+**(2)** Les motifs précis et complets d’ordre public, de sécurité publique et de santé publique qui sont à la base d’une décision, sont portés à la connaissance de la personne concernée, à moins que des motifs relevant de la sûreté de l’Etat ne s’y opposent.
 
-<a id="art_N14EDD"></a>
+<a id="art_N14FBF"></a>
 
 ### Art. 110.
 
-**(1)** Les décisions visées à l'article 109 sont notifiées par la voie administrative. Copie de la décision est remise à la personne concernée. Si la personne concernée n'est pas présente sur le territoire, la décision peut lui être notifiée à l'intervention de l'autorité diplomatique ou consulaire compétente.
+**(1)** Les décisions visées à l’article 109 sont notifiées par la voie administrative. Copie de la décision est remise à la personne concernée. Si la personne concernée n’est pas présente sur le territoire, la décision peut lui être notifiée à l’intervention de l’autorité diplomatique ou consulaire compétente.
 
 **(2)** La décision indique les voies de recours auxquelles la personne concernée a accès, ainsi que le délai dans lequel elle doit agir.
 
 **(3)** Sur demande de l’intéressé, les principaux éléments des décisions notifiées en application du paragraphe (1) qui précède lui sont communiqués dans une langue qu’il comprend ou dont il est raisonnable de supposer qu’il la comprend.
 
-<a id="art_N14F42"></a>
+<a id="art_N15024"></a>
 
 ### Art. 111.
 
@@ -2379,7 +2388,7 @@ Aucune décision de retour ne peut être prise contre un mineur non accompagné 
 
 Les décisions assorties d’une obligation de quitter le territoire comportent l’indication du délai imparti pour quitter volontairement le territoire, ainsi que le pays à destination duquel le ressortissant de pays tiers sera renvoyé en cas d’exécution d’office. Elles ne peuvent être exécutées qu’après expiration du délai imparti, à moins que, au cours de celui-ci, un risque de fuite tel que visé au paragraphe (3), point c), apparaisse.
 
-**(2)** Sauf en cas d’urgence dûment motivée, le ressortissant de pays tiers dispose d’un délai de trente jours à compter de la notification de la décision de retour pour satisfaire volontairement à l’obligation qui lui a été faite de quitter le territoire et il peut solliciter à cet effet un dispositif d’aide au retour. Si nécessaire, le ministre peut accorder un délai de départ volontaire supérieur à trente jours en tenant compte des circonstances propres à chaque cas, telles que la durée de séjour, l’existence d’enfants scolarisés et d’autres liens familiaux et sociaux.
+**(2)** Sauf en cas d’urgence dûment motivée, le ressortissant de pays tiers dispose d’un délai allant de sept à trente jours à compter de la notification de la décision de retour pour satisfaire volontairement à l’obligation qui lui a été faite de quitter le territoire et il peut solliciter à cet effet un dispositif d’aide au retour . Si nécessaire, le ministre peut accorder un délai de départ volontaire supérieur à trente jours en tenant compte des circonstances propres à chaque cas, telles que la durée de séjour, l’existence d’enfants scolarisés et d’autres liens familiaux et sociaux.
 
 **(3)** Le ressortissant de pays tiers est obligé de quitter le territoire sans délai :
 
@@ -2390,7 +2399,8 @@ Les décisions assorties d’une obligation de quitter le territoire comportent 
 3. s’il s’est soustrait à l’exécution d’une précédente mesure d’éloignement ;
 4. si une décision d’expulsion conformément à l’article 116 est prise contre lui ;
 5. s’il a contrefait, falsifié ou établi sous un autre nom que le sien un titre de séjour ou un document d’identité ou de voyage ou s’il a fait usage d’un tel document ;
-6. s’il ne peut justifier de la possession de documents d’identité ou de voyage en cours de validité, ou qu’il a dissimulé des éléments de son identité, ou qu’il n’a pas déclaré le lieu de sa résidence effective, ou qu’il s’est soustrait aux obligations prévues au présent article et à l’article 125.
+6. s’il ne peut justifier de la possession de documents d’identité ou de voyage en cours de validité, ou qu’il a dissimulé des éléments de son identité, ou qu’il n’a pas déclaré le lieu de sa résidence effective, ou qu’il s’est soustrait aux obligations prévues au présent article et à l’article 125 ;
+7. er règlement (UE) 2024/1358 règlements (UE) 2024/1351 (UE) 2024/1350 directive 2001/55/CE règlements (UE) 2018/1240 (UE) 2019/818 règlement (UE) n° 603/2013
 
 Le risque de fuite est apprécié au cas par cas.
 
@@ -2401,11 +2411,11 @@ Le risque de fuite est apprécié au cas par cas.
 3. à destination du pays qui lui a délivré un document de voyage en cours de validité, ou
 4. à destination d’un autre pays dans lequel il est autorisé à séjourner.
 
-<a id="art_N1503A"></a>
+<a id="art_N1516A"></a>
 
 ### Art. 112.
 
-**(1)** Les décisions de retour peuvent être assorties d’une interdiction d’entrée sur le territoire d’une durée maximale de cinq ans prononcée soit simultanément à la décision de retour, soit par décision séparée postérieure. Le ministre prend en considération les circonstances propres à chaque cas. Le délai de l’interdiction d’entrée sur le territoire peut être supérieur à cinq ans si l’étranger constitue une menace grave pour l’ordre public, la sécurité publique ou la sécurité nationale.Le ressortissant de pays tiers à l'encontre duquel a été prise une interdiction d'entrée sur le territoire est informé qu'il fait l'objet d'un signalement aux fins de non-admission dans le système d'information Schengen, conformément à l'article 24 du Règlement (CE) n° 1987/2006 du Parlement européen et du Conseil du 20 décembre 2006 sur l'établissement, le fonctionnement et l'utilisation du système d'information Schengen de deuxième génération (SIS II).
+**(1)** Les décisions de retour peuvent être assorties d’une interdiction d’entrée sur le territoire d’une durée maximale de cinq ans prononcée soit simultanément à la décision de retour, soit par décision séparée postérieure. Le ministre prend en considération les circonstances propres à chaque cas. Le délai de l’interdiction d’entrée sur le territoire peut être supérieur à cinq ans si l’étranger constitue une menace grave pour l’ordre public, la sécurité publique ou la sécurité nationale.Le ressortissant de pays tiers à l’encontre duquel a été prise une interdiction d’entrée sur le territoire est informé qu’il fait l’objet d’un signalement aux fins de non-admission dans le système d’information Schengen, conformément à l’article 24 du Règlement (CE) n° 1987/2006 du Parlement européen et du Conseil du 20 décembre 2006 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen de deuxième génération (SIS II).
 
 Une interdiction d’entrée sur le territoire est prononcée par le ministre à l’encontre du ressortissant de pays tiers auquel aucun délai n’a été accordé pour le retour volontaire ou qui se maintient sur le territoire après expiration du délai imparti pour quitter volontairement le territoire conformément à l’article 111, paragraphe (2).
 
@@ -2413,7 +2423,7 @@ L’interdiction d’entrée sur le territoire est notifiée dans les formes pr�
 
 **(2)** La personne faisant l’objet d’une décision comportant une interdiction d’entrée sur le territoire, peut introduire une demande de levée de cette interdiction après un délai raisonnable, en fonction des circonstances, et en tout cas après trois ans à compter de l’éloignement du territoire en invoquant des moyens à établir un changement matériel des circonstances qui avaient justifié la décision d’interdiction du territoire à son encontre. Le ministre statue dans les six mois.
 
-<a id="art_N150BE"></a>
+<a id="art_N151EE"></a>
 
 ### Art. 112bis.
 
@@ -2423,93 +2433,93 @@ Le ressortissant de pays tiers à l’encontre duquel a été prise une interdic
 
 **(2)** La personne faisant l’objet d’une décision comportant une interdiction d’entrée sur le territoire du Grand-Duché de Luxembourg, peut introduire auprès du ministre une demande de levée de cette interdiction conformément à l’article 112, paragraphe (2).
 
-<a id="art_N1511F"></a>
+<a id="art_N1524F"></a>
 
 ### Art. 113.
 
-Contre les décisions du ministre visées aux articles 109 et 112 un recours en annulation est ouvert devant le Tribunal administratif dans les formes et délais ordinaires. Les décisions du Tribunal administratif sont susceptibles d'appel devant la Cour administrative. Les recours ne sont pas suspensifs.
+Contre les décisions du ministre visées aux articles 109 et 112 un recours en annulation est ouvert devant le Tribunal administratif dans les formes et délais ordinaires. Les décisions du Tribunal administratif sont susceptibles d’appel devant la Cour administrative. Les recours ne sont pas suspensifs.
 
-<a id="art_N15151"></a>
+<a id="art_N15281"></a>
 
 ### Art. 114.
 
-Lorsque le recours formé contre une décision ministérielle est accompagné d'une demande visant à obtenir le sursis à l'exécution ou une mesure de sauvegarde, l'éloignement du territoire ne peut pas avoir lieu tant qu'une ordonnance de référé n'a pas été prise, sauf si la décision d'éloignement se fonde sur des motifs impérieux de sécurité publique.
+Lorsque le recours formé contre une décision ministérielle est accompagné d’une demande visant à obtenir le sursis à l’exécution ou une mesure de sauvegarde, l’éloignement du territoire ne peut pas avoir lieu tant qu’une ordonnance de référé n’a pas été prise, sauf si la décision d’éloignement se fonde sur des motifs impérieux de sécurité publique.
 
-<a id="art_N15183"></a>
+<a id="art_N152B3"></a>
 
 ### Art. 115.
 
-Au cours des procédures de recours, le requérant bénéficiaire de la libre circulation est autorisé à être présent à l'audience, à moins que sa présence ne risque de provoquer des troubles graves à l'ordre public ou à la sécurité publique ou lorsque le recours porte sur une interdiction d'entrée sur le territoire.
+Au cours des procédures de recours, le requérant bénéficiaire de la libre circulation est autorisé à être présent à l’audience, à moins que sa présence ne risque de provoquer des troubles graves à l’ordre public ou à la sécurité publique ou lorsque le recours porte sur une interdiction d’entrée sur le territoire.
 
-##### Section 3. — L'expulsion
+##### Section 3. — L’expulsion
 
-<a id="art_N151C1"></a>
+<a id="art_N152F1"></a>
 
 ### Art. 116.
 
-**(1)** Peut être expulsé du Grand-Duché de Luxembourg, l'étranger dont la présence constitue une menace grave pour l'ordre public ou la sécurité publique ou qui réapparaît sur le territoire malgré l'interdiction d'entrée sur le territoire prononcée contre lui.
+**(1)** Peut être expulsé du Grand-Duché de Luxembourg, l’étranger dont la présence constitue une menace grave pour l’ordre public ou la sécurité publique ou qui réapparaît sur le territoire malgré l’interdiction d’entrée sur le territoire prononcée contre lui.
 
-**(2)** La décision d'expulsion est prise par le ministre dans les formes et suivant les modalités prévues aux articles 109, paragraphe (2) et 110. Elle comporte l'obligation de quitter le territoire sans délai.
+**(2)** La décision d’expulsion est prise par le ministre dans les formes et suivant les modalités prévues aux articles 109, paragraphe (2) et 110. Elle comporte l’obligation de quitter le territoire sans délai.
 
 **(3)** La décision d’expulsion comporte une interdiction d’entrée sur le territoire prononcée conformément à l’article 112.
 
-**(4)** La personne faisant l'objet d'une décision ministérielle visée au présent article, peut introduire une demande de levée de l'interdiction d'entrée sur le territoire après un délai raisonnable, en fonction des circonstances, et en tout cas après un délai qui représente les deux tiers de la durée de l'interdiction d'entrée sur le territoire, à compter de l'éloignement du territoire en invoquant des moyens à établir un changement matériel des circonstances qui avaient justifié la décision d'interdiction du territoire à son encontre. Ce délai est ramené à trois ans pour les personnes visées au chapitre 2 de la présente loi.
+**(4)** La personne faisant l’objet d’une décision ministérielle visée au présent article, peut introduire une demande de levée de l’interdiction d’entrée sur le territoire après un délai raisonnable, en fonction des circonstances, et en tout cas après un délai qui représente les deux tiers de la durée de l’interdiction d’entrée sur le territoire, à compter de l’éloignement du territoire en invoquant des moyens à établir un changement matériel des circonstances qui avaient justifié la décision d’interdiction du territoire à son encontre. Ce délai est ramené à trois ans pour les personnes visées au chapitre 2 de la présente loi.
 
 **(5)** Les dispositions des articles 113 et 114 sont applicables.
 
-##### Section 4. — La reconnaissance mutuelle des décisions d'éloignement de ressortissants de pays tiers
+##### Section 4. — La reconnaissance mutuelle des décisions d’éloignement de ressortissants de pays tiers
 
-<a id="art_N15252"></a>
+<a id="art_N15382"></a>
 
 ### Art. 117.
 
-Le ministre peut reconnaître une décision d'éloignement au titre de la directive 2001/40/CE du Conseil du 28 mai 2001 relative à la reconnaissance mutuelle des décisions d'éloignement des ressortissants de pays tiers, prise par une autorité administrative compétente d'un Etat tenu par cette directive, lorsque ce ressortissant de pays tiers se trouve sur le territoire du Grand-Duché de Luxembourg sans y être autorisé à séjourner et lorsque les conditions suivantes sont remplies:
+Le ministre peut reconnaître une décision d’éloignement au titre de la directive 2001/40/CE du Conseil du 28 mai 2001 relative à la reconnaissance mutuelle des décisions d’éloignement des ressortissants de pays tiers, prise par une autorité administrative compétente d’un Etat tenu par cette directive, lorsque ce ressortissant de pays tiers se trouve sur le territoire du Grand-Duché de Luxembourg sans y être autorisé à séjourner et lorsque les conditions suivantes sont remplies:
 
 1. 1. la directive en question
-2. soit sur le non-respect des réglementations nationales relatives à l'entrée ou au séjour des étrangers dans cet Etat;
-2. la décision d'éloignement n'a pas été suspendue ni rapportée par l'Etat qui l'a prise.
+2. soit sur le non-respect des réglementations nationales relatives à l’entrée ou au séjour des étrangers dans cet Etat;
+2. la décision d’éloignement n’a pas été suspendue ni rapportée par l’Etat qui l’a prise.
 
-<a id="art_N152A8"></a>
+<a id="art_N153D8"></a>
 
 ### Art. 118.
 
-**(1)** Lorsque la décision d'éloignement visée à l'article 117 est fondée sur une menace grave et actuelle pour l'ordre public ou la sécurité nationale et que le ressortissant de pays tiers qui en est l'objet est autorisé à séjourner au Grand-Duché de Luxembourg ou dispose d'un titre de séjour délivré par un Etat tenu par la directive 2001/40/CE précitée, le ministre consulte l'Etat dont l'autorité administrative compétente a pris la décision d'éloignement ainsi que, le cas échéant, l'Etat qui a délivré le titre de séjour.
+**(1)** Lorsque la décision d’éloignement visée à l’article 117 est fondée sur une menace grave et actuelle pour l’ordre public ou la sécurité nationale et que le ressortissant de pays tiers qui en est l’objet est autorisé à séjourner au Grand-Duché de Luxembourg ou dispose d’un titre de séjour délivré par un Etat tenu par la directive 2001/40/CE précitée, le ministre consulte l’Etat dont l’autorité administrative compétente a pris la décision d’éloignement ainsi que, le cas échéant, l’Etat qui a délivré le titre de séjour.
 
-**(2)** Au cas où le ressortissant de pays tiers est autorisé à séjourner sur le territoire du Grand-Duché de Luxembourg, la décision d'éloignement ne peut être exécutée que si au préalable le titre de séjour a été retiré ou refusé d'être renouvelé, conformément aux dispositions de la présente loi.
+**(2)** Au cas où le ressortissant de pays tiers est autorisé à séjourner sur le territoire du Grand-Duché de Luxembourg, la décision d’éloignement ne peut être exécutée que si au préalable le titre de séjour a été retiré ou refusé d’être renouvelé, conformément aux dispositions de la présente loi.
 
-**(3)** Au cas où le ressortissant de pays tiers est en possession d'une autorisation de séjour délivrée par un autre Etat tenu par la directive 2001/40/CE précitée, la décision d'éloignement ne peut être exécutée que si au préalable cet Etat a révoqué l'autorisation de séjour.
+**(3)** Au cas où le ressortissant de pays tiers est en possession d’une autorisation de séjour délivrée par un autre Etat tenu par la directive 2001/40/CE précitée, la décision d’éloignement ne peut être exécutée que si au préalable cet Etat a révoqué l’autorisation de séjour.
 
-**(4)** L'Etat qui a pris la décision d'éloignement est informé du fait que la personne concernée a été éloignée.
+**(4)** L’Etat qui a pris la décision d’éloignement est informé du fait que la personne concernée a été éloignée.
 
-##### Chapitre 5. — L'éloignement
+##### Chapitre 5. — L’éloignement
 
-##### Section 1. — Le maintien en zone d'attente
+##### Section 1. — Le maintien en zone d’attente
 
-<a id="art_N15335"></a>
+<a id="art_N15465"></a>
 
 ### Art. 119.
 
-**(1)** L'étranger qui fait l'objet d'une décision visée à l'article 104 est maintenu dans la zone d'attente située dans l'aéroport.
+**(1)** L’étranger qui fait l’objet d’une décision visée à l’article 104 est maintenu dans la zone d’attente située dans l’aéroport.
 
-La zone d'attente s'étend aux lieux dans lesquels l'étranger doit se rendre, soit dans le cadre de la procédure en cours, soit en cas de nécessité médicale.
+La zone d’attente s’étend aux lieux dans lesquels l’étranger doit se rendre, soit dans le cadre de la procédure en cours, soit en cas de nécessité médicale.
 
-**(2)** Le maintien de l'étranger en zone d'attente est limité au temps strictement nécessaire à son départ, sans que la durée du maintien en zone d'attente puisse dépasser quarante-huit heures.
+**(2)** Le maintien de l’étranger en zone d’attente est limité au temps strictement nécessaire à son départ, sans que la durée du maintien en zone d’attente puisse dépasser quarante-huit heures.
 
-Lorsque la décision prise en vertu de l'article 104 ne peut être exécutée dans un délai de quarante-huit heures, l'étranger est placé en rétention dans une structure fermée, conformément aux articles 120 et suivants, sans que ce placement en rétention ne puisse être considéré comme une autorisation d'entrée sur le territoire.
+Lorsque la décision prise en vertu de l’article 104 ne peut être exécutée dans un délai de quarante-huit heures, l’étranger est placé en rétention dans une structure fermée, conformément aux articles 120 et suivants, sans que ce placement en rétention ne puisse être considéré comme une autorisation d’entrée sur le territoire.
 
-**(3)** L'étranger est dès le début de son maintien en zone d'attente informé de son droit de contacter la personne chez laquelle il a voulu se rendre, son consulat, son conseil ou toute autre personne de son choix. Si nécessaire, il est recouru aux services d'un interprète. Il a le droit d'entrer en contact avec ces personnes au moins une fois toutes les 24 heures. Au besoin, un téléphone est mis gratuitement à sa disposition.
+**(3)** L’étranger est dès le début de son maintien en zone d’attente informé de son droit de contacter la personne chez laquelle il a voulu se rendre, son consulat, son conseil ou toute autre personne de son choix. Si nécessaire, il est recouru aux services d’un interprète. Il a le droit d’entrer en contact avec ces personnes au moins une fois toutes les 24 heures. Au besoin, un téléphone est mis gratuitement à sa disposition.
 
-**(4)** Durant son maintien en zone d'attente, l'étranger a droit à des mesures d'assistance, à déterminer par règlement grand-ducal, qui seront mises en oeuvre par les agents du service de contrôle à l'aéroport.
+**(4)** Durant son maintien en zone d’attente, l’étranger a droit à des mesures d’assistance, à déterminer par règlement grand-ducal, qui seront mises en oeuvre par les agents du service de contrôle à l’aéroport.
 
-**(5)** Lorsqu'un mineur, non accompagné d'un représentant légal, n'est pas autorisé à entrer sur le territoire, il se voit désigner, dans les meilleurs délais, un administrateur ad hoc qui l'assiste et le représente dans le cadre des procédures administratives et juridictionnelles relatives au maintien en zone d'attente.
+**(5)** Lorsqu’un mineur, non accompagné d’un représentant légal, n’est pas autorisé à entrer sur le territoire, il se voit désigner, dans les meilleurs délais, un administrateur ad hoc qui l’assiste et le représente dans le cadre des procédures administratives et juridictionnelles relatives au maintien en zone d’attente.
 
-**(6)** Il est dressé procès-verbal par les agents du service de contrôle à l'aéroport sur le maintien en zone d'attente.
+**(6)** Il est dressé procès-verbal par les agents du service de contrôle à l’aéroport sur le maintien en zone d’attente.
 
-Ce procès-verbal indique les qualités des agents du service de contrôle à l'aéroport, les qualités de l'étranger, le jour et l'heure du début du maintien en zone d'attente, de même que le jour et l'heure de la fin du maintien en zone d'attente. Le procès-verbal renseigne de l'exécution des dispositions du paragraphe 3, qui précède. Il détaille les mesures d'assistance mises en oeuvre. Il recueille les observations éventuelles de l'étranger. Le procès-verbal est présenté à la signature de la personne maintenue en zone d'attente. Les motifs indiqués du refus de signature sont consignés. Le procès-verbal est adressé au ministre. Copie en est remise à l'étranger.
+Ce procès-verbal indique les qualités des agents du service de contrôle à l’aéroport, les qualités de l’étranger, le jour et l’heure du début du maintien en zone d’attente, de même que le jour et l’heure de la fin du maintien en zone d’attente. Le procès-verbal renseigne de l’exécution des dispositions du paragraphe 3, qui précède. Il détaille les mesures d’assistance mises en oeuvre. Il recueille les observations éventuelles de l’étranger. Le procès-verbal est présenté à la signature de la personne maintenue en zone d’attente. Les motifs indiqués du refus de signature sont consignés. Le procès-verbal est adressé au ministre. Copie en est remise à l’étranger.
 
 ##### Section 2. — Le placement en rétention
 
-<a id="art_N153E5"></a>
+<a id="art_N15515"></a>
 
 ### Art. 120.
 
@@ -2521,61 +2531,89 @@ Ce procès-verbal indique les qualités des agents du service de contrôle à l'
 
 Si, malgré les efforts employés, il est probable que l’opération d’éloignement dure plus longtemps en raison du manque de coopération de l’étranger ou des retards subis pour obtenir de pays tiers les documents nécessaires, la durée de la rétention peut être prolongée à deux reprises, à chaque fois pour un mois supplémentaire.
 
+Par dérogation aux alinéas 1er et 2, la durée de la rétention d’un mineur non accompagné est fixée à un mois, prorogeable à deux reprises pour la même durée.
+
 **(4)** Il est procédé à une prise de photographies. Une prise d’empreintes digitales peut être effectuée, si elle est impérativement nécessaire à l’établissement de l’identité de l’étranger retenu ou à la délivrance d’un document de voyage.
 
-<a id="art_N15487"></a>
+<a id="art_N155CF"></a>
 
 ### Art. 121.
 
-**(1)** La notification des décisions visées à l'article 120 est effectuée par un membre de la Police grand-ducale qui a la qualité d'officier de police judiciaire. La notification est faite par écrit et contre récépissé, dans la langue dont il est raisonnable de supposer que l'étranger la comprend, sauf les cas d'impossibilité matérielle dûment constatés.
+**(1)** La notification des décisions visées à l’article 120 est effectuée par un membre de la Police grand-ducale qui a la qualité d’officier de police judiciaire. La notification est faite par écrit et contre récépissé, dans la langue dont il est raisonnable de supposer que l’étranger la comprend, sauf les cas d’impossibilité matérielle dûment constatés.
 
-**(2)** La notification des décisions mentionnées à l'article 120 fait l'objet d'un procès-verbal dressé par l'officier de police judiciaire qui y a procédé. Ce procès-verbal mentionne notamment:
+**(2)** La notification des décisions mentionnées à l’article 120 fait l’objet d’un procès-verbal dressé par l’officier de police judiciaire qui y a procédé. Ce procès-verbal mentionne notamment:
 
 1. la date de la notification de la décision;
-2. la déclaration de la personne retenue qu'elle a été informée de ses droits mentionnés à l'article 122, paragraphes (2) et (3), ainsi que toute autre déclaration qu'elle désire faire acter;
+2. la déclaration de la personne retenue qu’elle a été informée de ses droits mentionnés à l’article 122, paragraphes (2) et (3), ainsi que toute autre déclaration qu’elle désire faire acter;
 3. la langue dans laquelle la personne retenue fait ses déclarations.
 
-**(3)** En cas de décision orale conformément à l'article 120, paragraphe (2), le procès-verbal mentionne en outre le jour et l'heure de la décision.
+**(3)** En cas de décision orale conformément à l’article 120, paragraphe (2), le procès-verbal mentionne en outre le jour et l’heure de la décision.
 
 **(4)** Le procès-verbal est présenté à la signature de la personne retenue. Si elle refuse de le signer, mention est faite du refus et des motifs du refus. Le procès-verbal est transmis au ministre et copie en est remise à la personne retenue.
 
-<a id="art_N154FD"></a>
+<a id="art_N15645"></a>
 
 ### Art. 122.
 
-**(1)** Pour la défense de ses intérêts, la personne retenue a le droit de se faire assister à titre gratuit d'un interprète.
+**(1)** Pour la défense de ses intérêts, la personne retenue a le droit de se faire assister à titre gratuit d’un interprète.
 
-**(2)** La personne retenue est immédiatement informée, par écrit et contre récépissé, dans une langue dont il est raisonnable de supposer qu'elle la comprend, sauf les cas d'impossibilité matérielle dûment constatés, de son droit de prévenir sa famille ou toute personne de son choix. Un téléphone est mis à sa disposition à titre gratuit à cet effet.
+**(2)** La personne retenue est immédiatement informée, par écrit et contre récépissé, dans une langue dont il est raisonnable de supposer qu’elle la comprend, sauf les cas d’impossibilité matérielle dûment constatés, de son droit de prévenir sa famille ou toute personne de son choix. Un téléphone est mis à sa disposition à titre gratuit à cet effet.
 
-**(3)** La personne retenue est immédiatement informée, par écrit et contre récépissé, dans une langue dont il est raisonnable de supposer qu'elle la comprend, sauf les cas d'impossibilité matérielle dûment constatés, de son droit de se faire examiner dans les vingt-quatre heures de son placement en rétention, par un médecin et de choisir un avocat à la Cour d'un des barreaux établis au Grand-Duché de Luxembourg ou de se faire désigner un avocat par le bâtonnier de l'ordre des avocats de Luxembourg. Le mineur non accompagné d'un représentant légal se voit désigner, dans les meilleurs délais, un administrateur ad hoc.
+**(3)** La personne retenue est immédiatement informée, par écrit et contre récépissé, dans une langue dont il est raisonnable de supposer qu’elle la comprend, sauf les cas d’impossibilité matérielle dûment constatés, de son droit de se faire examiner dans les vingt-quatre heures de son placement en rétention, par un médecin et de choisir un avocat à la Cour d’un des barreaux établis au Grand-Duché de Luxembourg ou de se faire désigner un avocat par le bâtonnier de l’ordre des avocats de Luxembourg. Le mineur non accompagné d’un représentant légal se voit désigner, dans les meilleurs délais, un administrateur ad hoc.
 
-<a id="art_N15578"></a>
+<a id="art_N156C0"></a>
 
 ### Art. 123
 
-**(1)** Contre les décisions visées à article 120, paragraphe (3), alinéa 1er, un recours en réformation est ouvert devant le Tribunal administratif qui statue comme juge du fond.
+**(1)** Contre les décisions visées à article 120, paragraphe (3), alinéa 1er, un recours en réformation est ouvert devant le Tribunal administratif qui statue comme juge du fond et en dernier ressort .
 
-**(2)** Ce recours doit être introduit dans le délai d’un mois à partir de la notification. Par dérogation à la législation en matière de procédure devant les juridictions administratives, il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête introductive.
+**(2)** Ce recours doit être introduit dans le délai de dix jours à partir de la notification. Par dérogation à la législation en matière de procédure devant les juridictions administratives, il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête introductive. Le mémoire en réponse est fourni dans un délai de cinq jours à dater de la signification de la requête introductive, sans préjudice de l’article 123*bis*, paragraphe (3).
 
-**(3)** Le Tribunal administratif statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête.
+**(3)** Le Tribunal administratif, siégeant à juge unique, statue dans les plus brefs délais et en tout cas dans les quinze jours de l’introduction de la requête.
 
-**(4)** Contre la décision du Tribunal administratif appel peut être interjeté devant la Cour administrative. À peine de forclusion, le recours doit être introduit dans le délai de trois jours à partir de la notification de la décision du Tribunal administratif. Par dérogation à la législation en matière de procédure devant les juridictions administratives, il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête d’appel.
-
-**(5)** La Cour administrative statue d’urgence et en tout cas dans les dix jours de l’introduction de la requête. Pendant le délai et l’instance d’appel il sera sursis à l’exécution du jugement ayant annulé ou réformé la décision attaquée.
-
-**(6)** Lorsque le ministre décide de prolonger la durée de rétention en vertu de l’article 120, paragraphe (3), alinéa 2, il doit saisir d’office, par requête introduite dans les cinq jours ouvrables de la notification de la décision, le président du Tribunal administratif qui statue d’urgence comme juge du fond et en tout cas dans les dix jours du dépôt de la requête, la personne retenue dûment convoquée par les soins du greffe.
+**(6)** Lorsque le ministre prend une décision en vertu de l’article 120, paragraphe (3), alinéas 2 ou 3 , il doit saisir d’office, par requête introduite dans les cinq jours ouvrables de la notification de la décision, le président du Tribunal administratif qui statue d’urgence comme juge du fond et en tout cas dans les dix jours du dépôt de la requête, la personne retenue dûment convoquée par les soins du greffe.
 
 La procédure est orale. L’affaire est plaidée à l’audience à laquelle les parties ont été convoquées. Le président s’assure que la personne retenue a été touchée par la convocation.
 
 Dans ce cas, la personne retenue ne peut pas introduire elle-même le recours prévu au paragraphe (1).
 
-Contre la décision du président du Tribunal administratif appel peut être interjeté devant la Cour administrative. Les paragraphes (4) et (5) sont applicables.
+La décision du président du Tribunal administratif n’est pas susceptible d’appel.
 
 À défaut de saisine du tribunal par le ministre dans le délai prévu, le retenu doit être remis en liberté.
 
-##### Section 3. — L'exécution des décisions d'éloignement
+<a id="art_N157DF"></a>
 
-<a id="art_N15640"></a>
+### Art. 123bis.
+
+**(1)** Par dérogation aux dispositions de la loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives relatives aux modalités du dépôt et de la communication des actes de procédure, des pièces et des décisions de justice, les règles suivantes sont applicables aux recours et requêtes prévus à l’article 123 de la présente loi :
+
+1. les requêtes sont introduites au greffe des juridictions administratives par voie électronique moyennant téléchargement sur la plateforme d’échanges sécurisés, désignée ci-après « la plateforme » ;
+2. les constitutions d’avocat à la Cour et mémoires produits par les parties sont déposés moyennant téléchargement sur la plateforme ;
+3. les requêtes, constitutions d’avocat à la Cour, mémoires et notifications font l’objet d’une signature électronique ;
+4. les pièces versées à l’appui de la requête et des mémoires sont individuellement jointes à la transmission électronique et sont accompagnées d’un relevé des pièces ;
+5. le relevé des pièces présente, de manière exhaustive, les pièces annexées à la requête et au mémoire par un intitulé comprenant, pour chacune d’elles, un numéro dans un ordre continu et croissant ainsi qu’un libellé explicite de chaque pièce ;
+6. loi modifiée du 21 juin 1999
+7. loi modifiée du 21 juin 1999
+
+Toute pièce versée via la plateforme après 17h00 du jour ouvrable précédant le jour de l’audience est écartée sauf si le dépôt en est ordonné par le tribunal.
+
+Lorsque les pièces ou le dossier administratif ne sont pas conformes aux prescriptions des points 4°, 5° ou 7°, le juge peut les écarter du débat.
+
+**(2)** Les communications des actes de procédure et des pièces telles que prévues par la loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives, ainsi que toutes les autres communications entre les juridictions administratives et les parties à l’instance, sont faites à travers la plateforme.
+
+**(3)** La date et l’heure du dépôt au greffe, au sens de l’article 3 de la loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives, sont celles indiquées sur le bordereau de transmission généré par la plateforme, qui est transmis à la partie requérante, après l’achèvement de la transmission électronique de l’acte introductif d’instance.
+
+Après la transmission du bordereau de transmission généré par la plateforme, qui vaut signification à l’État, le greffe est averti par la plateforme du dépôt et il vérifie le contenu de la transmission électronique et procède à l’enrôlement de l’affaire. Le greffe émet un deuxième bordereau de transmission avec un avis d’enrôlement, qui est transmis via la plateforme à toutes les parties.
+
+La date d’enrôlement indiquée sur le deuxième bordereau de transmission fait courir les délais prévus à l’article 123, paragraphe (2), dernière phrase, et paragraphe (3) et le délai de dix jours dans lequel le président du tribunal statue en application du paragraphe (6) de l’article 123.
+
+**(4)** Le greffe du Tribunal administratif notifie aux avocats et au délégué du Gouvernement la décision moyennant téléchargement sur la plateforme et les informe par message électronique de la décision.
+
+**(5)** Au cas où la plateforme est temporairement indisponible ou en cas de disfonctionnement majeur et avéré du réseau de télécommunication électronique, tout délai qui arrive à échéance le jour où cette indisponibilité survient est de plein droit prorogé jusqu’à la fin du jour ouvrable suivant le jour au cours duquel l’indisponibilité a pris fin.
+
+##### Section 3. — L’exécution des décisions d’éloignement
+
+<a id="art_N158C5"></a>
 
 ### Art. 124
 
@@ -2594,7 +2632,7 @@ Au cours de l’exécution de l’éloignement, il est dûment tenu compte de l�
 
 **(4)** Un règlement grand-ducal établit un catalogue de règles de bonne conduite à appliquer par les agents chargés de l’exécution des mesures d’éloignement.
 
-<a id="art_N15717"></a>
+<a id="art_N1599C"></a>
 
 ### Art. 125.
 
@@ -2604,13 +2642,13 @@ On entend par mesures moins coercitives:
 
 1. l’obligation pour l’étranger de se présenter régulièrement, à intervalles à fixer par le ministre, auprès des services de ce dernier ou d’une autre autorité désignée par lui, après remise de l’original du passeport et de tout document justificatif de son identité en échange d’un récépissé valant justification de l’identité;
 2. La mise en œuvre du dispositif technique permettant le contrôle à distance et le contrôle à distance proprement dit, peuvent être confiés à une personne de droit privé;
-3. loi du 29 avril 1999 Les décisions ordonnant des mesures moins coercitives sont prises et notifiées dans les formes prévues aux articles 109 et 110. L’article 123 est applicable. Les mesures prévues peuvent être appliquées conjointement. En cas de défaut de respect des obligations imposées par le ministre ou en cas de risque de fuite, la mesure est révoquée et le placement en rétention est ordonné.
+3. loi du 29 avril 1999 Les décisions ordonnant des mesures moins coercitives sont prises et notifiées dans les formes prévues aux articles 109 et 110. Les articles 123 et 123*bis* sont applicables. Les mesures prévues peuvent être appliquées conjointement. En cas de défaut de respect des obligations imposées par le ministre ou en cas de risque de fuite, la mesure est révoquée et le placement en rétention est ordonné.
 
-**(2)** L'étranger se trouvant en état de détention au moment où il fait l'objet d'une décision d'éloignement est éloigné du territoire dès l'expiration de sa détention.
+**(2)** L’étranger se trouvant en état de détention au moment où il fait l’objet d’une décision d’éloignement est éloigné du territoire dès l’expiration de sa détention.
 
-**(3)** Lorsqu'une décision d'éloignement prise pour des raisons d'ordre public ou de sécurité publique est exécutée plus de deux ans après qu'elle a été prise, l'actualité et la réalité du danger pour l'ordre public ou la sécurité publique que représente la personne concernée sont vérifiées et il est évalué si un changement matériel des circonstances est intervenu depuis le moment où la décision d'éloignement a été prise.
+**(3)** Lorsqu’une décision d’éloignement prise pour des raisons d’ordre public ou de sécurité publique est exécutée plus de deux ans après qu’elle a été prise, l’actualité et la réalité du danger pour l’ordre public ou la sécurité publique que représente la personne concernée sont vérifiées et il est évalué si un changement matériel des circonstances est intervenu depuis le moment où la décision d’éloignement a été prise.
 
-<a id="art_N1579E"></a>
+<a id="art_N15A32"></a>
 
 ### Art. 125bis.
 
@@ -2620,159 +2658,177 @@ On entend par mesures moins coercitives:
 
 **(3)** Le ministre peut accorder au bénéficiaire de la décision de report qui le demande, une autorisation d’occupation temporaire pour la durée du report de l’éloignement. L’octroi de l’autorisation d’occupation temporaire est soumis aux conditions de l’article 42, à l’exception de la condition prévue à l’article 42, paragraphe (1), point 1. L’autorisation d’occupation temporaire est valable pour un employeur déterminé et pour une seule profession. Elle est retirée lorsque son bénéficiaire travaille auprès d’un employeur ou dans une profession autres que ceux prévus dans son autorisation ou lorsque son bénéficiaire a eu recours, dans une intention frauduleuse, à des pratiques malhonnêtes ou à des déclarations inexactes pour l’obtenir.
 
-<a id="art_N15831"></a>
+<a id="art_N15AC5"></a>
+
+### Art. 125ter.
+
+**(1)** Afin de prévenir tout risque de fuite, l’étranger auquel un délai a été accordé pour satisfaire volontairement à l’obligation de quitter le territoire peut, dès la notification de la décision d’éloignement, être contraint de résider dans le lieu qui lui est désigné par le ministre. Cette décision est prise pour une durée qui ne peut se poursuivre au-delà de l’expiration du délai imparti pour satisfaire volontairement à l’obligation de quitter le territoire.
+
+**(2)** L’étranger auquel un délai a été accordé pour satisfaire volontairement à l’obligation de quitter le territoire peut, dès la notification de la décision d’éloignement, être astreint à se présenter à un moment déterminé ou à des intervalles raisonnables à fixer par le ministre aux services de ce dernier ou d’une autre autorité désignée par le ministre pour y indiquer ses diligences dans la préparation de son départ. Cette décision est prise pour une durée qui ne peut se poursuivre au-delà de l’expiration du délai imparti pour satisfaire volontairement à l’obligation de quitter le territoire.
+
+**(3)** Le ministre peut prescrire à l’étranger auquel un délai a été accordé pour satisfaire volontairement à l’obligation de quitter le territoire et qui est touché par une des mesures prévues aux paragraphes (1) et (2), la remise de l’original du passeport ou de tout document justificatif de son identité en échange d’un récépissé valant justification de l’identité.
+
+**(4)** La décision prise conformément aux paragraphes 1er à 3 est ordonnée par écrit sur la base d’une appréciation au cas par cas. Elle est motivée en fait et en droit.
+
+<a id="art_N15B3C"></a>
 
 ### Art. 126.
 
-Les frais occasionnés par l'éloignement de l'étranger sont à sa charge.
+Les frais occasionnés par l’éloignement de l’étranger sont à sa charge.
 
-<a id="art_N15863"></a>
+<a id="art_N15B6E"></a>
 
 ### Art. 127.
 
-**(1)** Une assistance au titre de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l'assistance au transit dans le cadre des mesures d'éloignement par voie aérienne peut être prêtée ou demandée à l'éloignement d'un ressortissant de pays tiers.
+**(1)** Une assistance au titre de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l’assistance au transit dans le cadre des mesures d’éloignement par voie aérienne peut être prêtée ou demandée à l’éloignement d’un ressortissant de pays tiers.
 
-**(2)** La Police grand-ducale assure la mise en oeuvre de l'assistance à l'éloignement d'un ressortissant de pays tiers, selon les modalités à préciser par règlement grand-ducal.
+**(2)** La Police grand-ducale assure la mise en oeuvre de l’assistance à l’éloignement d’un ressortissant de pays tiers, selon les modalités à préciser par règlement grand-ducal.
 
-##### Section 4. — L'empêchement à l'éloignement
+##### Section 4. — L’empêchement à l’éloignement
 
-<a id="art_N158BE"></a>
+<a id="art_N15BC9"></a>
 
 ### Art. 128.
 
-En cas d'une demande d'extradition, l'étranger qui est obligé de quitter le territoire ne pourra pas être éloigné.
+En cas d’une demande d’extradition, l’étranger qui est obligé de quitter le territoire ne pourra pas être éloigné.
 
-<a id="art_N158F0"></a>
+<a id="art_N15BFB"></a>
 
 ### Art. 129.
 
-L'étranger ne peut être éloigné ou expulsé à destination d'un pays s'il établit que sa vie ou sa liberté y sont gravement menacées ou s'il y est exposé à des traitements contraires à l'article 3 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950 ou à des traitements au sens des articles 1er et 3 de la Convention des Nations unies contre la torture et autres peines ou traitements cruels, inhumains ou dégradants.
+L’étranger ne peut être éloigné ou expulsé à destination d’un pays s’il établit que sa vie ou sa liberté y sont gravement menacées ou s’il y est exposé à des traitements contraires à l’article 3 de la Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950 ou à des traitements au sens des articles 1er et 3 de la Convention des Nations unies contre la torture et autres peines ou traitements cruels, inhumains ou dégradants.
 
-<a id="art_N15925"></a>
+<a id="art_N15C30"></a>
 
 ### Art. 130.
 
-Sous réserve qu'il ne constitue pas une menace pour l'ordre public ou la sécurité publique, l'étranger ne peut être éloigné du territoire s'il établit au moyen de certificats médicaux que son état de santé nécessite une prise en charge médicale dont le défaut entraînerait pour lui des conséquences d'une exceptionnelle gravité, et s'il rapporte la preuve qu'il ne peut effectivement bénéficier d'un traitement approprié dans le pays vers lequel il est susceptible d'être éloigné.
+Sous réserve qu’il ne constitue pas une menace pour l’ordre public ou la sécurité publique, l’étranger ne peut être éloigné du territoire s’il établit au moyen de certificats médicaux que son état de santé nécessite une prise en charge médicale dont le défaut entraînerait pour lui des conséquences d’une exceptionnelle gravité, et s’il rapporte la preuve qu’il ne peut effectivement bénéficier d’un traitement approprié dans le pays vers lequel il est susceptible d’être éloigné.
 
-<a id="art_N15957"></a>
+<a id="art_N15C62"></a>
 
 ### Art. 131.
 
-**(1)** L'étranger qui satisfait aux conditions énoncées à l'article 130 peut obtenir un sursis à l'éloignement pour une durée maximale de six mois. Ce sursis est renouvelable, sans pouvoir dépasser la durée de deux ans.
+**(1)** L’étranger qui satisfait aux conditions énoncées à l’article 130 peut obtenir un sursis à l’éloignement pour une durée maximale de six mois. Ce sursis est renouvelable, sans pouvoir dépasser la durée de deux ans.
 
-**(2)** Si, à l'expiration du délai de deux ans visé au paragraphe (1) qui précède, l'étranger rapporte la preuve que son état tel que décrit à l'article 130 persiste, il peut obtenir une autorisation de séjour pour raisons médicales pour la durée du traitement, sans que cette durée ne puisse dépasser un an. Le cas échéant cette autorisation peut être renouvelée, après réexamen de sa situation.
+**(2)** Si, à l’expiration du délai de deux ans visé au paragraphe (1) qui précède, l’étranger rapporte la preuve que son état tel que décrit à l’article 130 persiste, il peut obtenir une autorisation de séjour pour raisons médicales pour la durée du traitement, sans que cette durée ne puisse dépasser un an. Le cas échéant cette autorisation peut être renouvelée, après réexamen de sa situation.
 
-**(3)** Les décisions visées aux paragraphes (1) et (2) qui précèdent, sont prises par le ministre, sur avis motivé du médecin délégué visé à l'article 28, selon les modalités à déterminer par règlement grand-ducal. Le médecin délégué procède aux examens qu'il juge utiles. L'avis du médecin délégué porte sur la nécessité d'une prise en charge médicale, les conséquences d'une exceptionnelle gravité et la possibilité de bénéficier d'un traitement approprié dans le pays vers lequel l'étranger est susceptible d'être éloigné.
+**(3)** Les décisions visées aux paragraphes (1) et (2) qui précèdent, sont prises par le ministre, sur avis motivé du médecin délégué visé à l’article 28, selon les modalités à déterminer par règlement grand-ducal. Le médecin délégué procède aux examens qu’il juge utiles. L’avis du médecin délégué porte sur la nécessité d’une prise en charge médicale, les conséquences d’une exceptionnelle gravité et la possibilité de bénéficier d’un traitement approprié dans le pays vers lequel l’étranger est susceptible d’être éloigné.
 
-**(4)** Le ministre peut, le cas échéant, étendre le bénéfice des mesures prévues aux paragraphes (1) et (2) qui précèdent, aux membres de la famille qui accompagnent l'étranger et qui sont également susceptibles d'être éloignés du territoire, pour une durée identique à celle accordée au bénéficiaire principal.
+**(4)** Le ministre peut, le cas échéant, étendre le bénéfice des mesures prévues aux paragraphes (1) et (2) qui précèdent, aux membres de la famille qui accompagnent l’étranger et qui sont également susceptibles d’être éloignés du territoire, pour une durée identique à celle accordée au bénéficiaire principal.
 
-<a id="art_N159C0"></a>
+<a id="art_N15CCB"></a>
 
 ### Art. 132.
 
-**(1)** Le bénéficiaire d'un sursis à l'éloignement visé à l'article 131, paragraphe (1) se voit délivrer une attestation de sursis à l'éloignement qui lui permet de demeurer sur le territoire, sans y être autorisé à séjourner.
+**(1)** Le bénéficiaire d’un sursis à l’éloignement visé à l’article 131, paragraphe (1) se voit délivrer une attestation de sursis à l’éloignement qui lui permet de demeurer sur le territoire, sans y être autorisé à séjourner.
 
-**(2)** L’attestation confère au bénéficiaire un secours humanitaire tel que défini à l’article 27 de la loi du 18 décembre 2009 organisant l’aide sociale. Le ministre peut accorder au bénéficiaire qui le demande, une autorisation d'occupation temporaire pour une période maximale de six mois, renouvelable pour une durée identique qui ne peut cependant dépasser la durée du sursis à l'éloignement. L'octroi de l'autorisation d'occupation temporaire est soumis aux conditions de l'article 42, à l’exception de la condition prévue à l’article 42, paragraphe (1), point 1. L'autorisation d'occupation temporaire est valable pour un employeur déterminé et pour une seule profession. Elle est retirée lorsque son bénéficiaire travaille auprès d'un employeur ou dans une profession autres que ceux prévus dans son autorisation ou lorsque son bénéficiaire a eu recours, dans une intention frauduleuse, à des pratiques malhonnêtes ou à des déclarations inexactes pour l'obtenir.
+**(2)** L’attestation confère au bénéficiaire un secours humanitaire tel que défini à l’article 27 de la loi du 18 décembre 2009 organisant l’aide sociale. Le ministre peut accorder au bénéficiaire qui le demande, une autorisation d’occupation temporaire pour une période maximale de six mois, renouvelable pour une durée identique qui ne peut cependant dépasser la durée du sursis à l’éloignement. L’octroi de l’autorisation d’occupation temporaire est soumis aux conditions de l’article 42, à l’exception de la condition prévue à l’article 42, paragraphe (1), point 1. L’autorisation d’occupation temporaire est valable pour un employeur déterminé et pour une seule profession. Elle est retirée lorsque son bénéficiaire travaille auprès d’un employeur ou dans une profession autres que ceux prévus dans son autorisation ou lorsque son bénéficiaire a eu recours, dans une intention frauduleuse, à des pratiques malhonnêtes ou à des déclarations inexactes pour l’obtenir.
 
-**(3)** Les bénéficiaires d'une autorisation de séjour pour raisons médicales se voient délivrer un titre de séjour temporaire, conformément à l'article 78.
+**(3)** Les bénéficiaires d’une autorisation de séjour pour raisons médicales se voient délivrer un titre de séjour temporaire, conformément à l’article 78.
 
 ##### Chapitre 6. — Les contrôles
 
-<a id="art_N15A44"></a>
+<a id="art_N15D4F"></a>
 
 ### Art. 133.
 
-**(1)** Le ministre peut procéder ou faire procéder à des contrôles, afin de vérifier si les conditions fixées pour l'entrée et le séjour des étrangers sont remplies.
+**(1)** Le ministre peut procéder ou faire procéder à des contrôles, afin de vérifier si les conditions fixées pour l’entrée et le séjour des étrangers sont remplies.
 
-**(2)** Pour les personnes visées au chapitre 2 de la présente loi, l'exactitude des données relatives aux conditions d'entrée et de séjour peut être vérifiée en cas de doute, sans que cette vérification ne puisse être systématique.
+**(2)** Pour les personnes visées au chapitre 2 de la présente loi, l’exactitude des données relatives aux conditions d’entrée et de séjour peut être vérifiée en cas de doute, sans que cette vérification ne puisse être systématique.
 
-**(3)** Le ministre peut à tout moment procéder ou faire procéder à des contrôles spécifiques lorsqu'il existe des présomptions de fraude ou que le mariage, le partenariat ou l'adoption ont été conclus pour l'unique raison de l'entrée et le séjour sur le territoire.
+**(3)** Le ministre peut à tout moment procéder ou faire procéder à des contrôles spécifiques lorsqu’il existe des présomptions de fraude ou que le mariage, le partenariat ou l’adoption ont été conclus pour l’unique raison de l’entrée et le séjour sur le territoire.
 
-<a id="art_N15A9D"></a>
+<a id="art_N15DA8"></a>
 
 ### Art. 134.
 
-Sans préjudice des dispositions de la loi ayant pour objet d'habiliter les agents de l'Administration des Douanes et Accises à exercer certaines attributions de la police générale, la surveillance et le contrôle des étrangers sont exercés par la Police grand-ducale, conformément aux instructions du ministre.
+Sans préjudice des dispositions de la loi ayant pour objet d’habiliter les agents de l’Administration des Douanes et Accises à exercer certaines attributions de la police générale, la surveillance et le contrôle des étrangers sont exercés par la Police grand-ducale, conformément aux instructions du ministre.
 
-<a id="art_N15AD4"></a>
+<a id="art_N15DDF"></a>
 
 ### Art. 135.
 
-Un service de la Police grand-ducale dénommé «Service de contrôle à l'aéroport», est chargé du contrôle des personnes à l'aéroport. Un règlement grand-ducal fixe les conditions d'admission des agents de la police au service en question.
+Un service de la Police grand-ducale dénommé «Service de contrôle à l’aéroport», est chargé du contrôle des personnes à l’aéroport. Un règlement grand-ducal fixe les conditions d’admission des agents de la police au service en question.
 
-<a id="art_N15B06"></a>
+<a id="art_N15E11"></a>
 
 ### Art. 136.
 
-**(1)** Sans préjudice de l'article 45 du Code d'instruction criminelle, les étrangers doivent être en mesure de présenter à toute réquisition de la Police grand-ducale, les documents sous le couvert desquels ils sont autorisés à entrer ou à séjourner sur le territoire.
+**(1)** Sans préjudice de l’article 45 du Code de procédure pénale, les étrangers doivent être en mesure de présenter à toute réquisition de la Police grand-ducale, les documents sous le couvert desquels ils sont autorisés à entrer ou à séjourner sur le territoire.
 
 **(2)** Les agents de la Police grand-ducale sont habilités à retenir le document de voyage des personnes visées au chapitre 3 de la présente loi en situation irrégulière. Ils leur remettent en échange un récépissé valant justification de leur identité.
 
+**(2*bis*)** Conformément à l’article 23 du règlement (UE) 2024/1358, les membres de la Police grand-ducale ou les agents du ministre spécialement formés à cet effet procèdent au relevé des données biométriques des personnes visées au chapitre 3 de la présente loi en situation irrégulière. L’article 9, paragraphe 3, de la loi du 11 juin 2026 portant mise en œuvre du pacte européen sur la migration et l’asile est applicable.
+
+Les données biométriques des personnes visées à l’alinéa 1er, collectées par la Police grand-ducale en application des articles 33, 39 et 45 du Code de procédure pénale, peuvent être traitées par le ministre dans le cadre d’une application subséquente de procédures conformes à la présente loi si ces données sont impérativement nécessaires à l’établissement ou à la vérification de l’identité des personnes concernées ou à la délivrance d’un document de voyage.
+
+**(2*ter*)** Lorsque les personnes visées au chapitre 3 de la présente loi en situation irrégulière ne sont pas en mesure de présenter un document d’identité ou de voyage valable, les officiers et agents de police judiciaire de la Police grand-ducale peuvent procéder à une fouille de personnes et des effets personnels et bagages afin de rechercher des éléments relatifs à l’établissement de l’identité des personnes concernées. La fouille s’effectue conformément aux modalités prévues par l’article 8*bis*, paragraphe 3, de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale.
+
 **(3)** Aucun nouveau titre ou carte de séjour ne sera remis avant la restitution du document de séjour antérieurement délivré ou, en cas de perte ou de vol, avant la production d’une déclaration de perte ou de vol faite auprès de l’autorité compétente. La déclaration de perte ou de vol du titre ou de la carte de séjour entraîne l’invalidation par le ministre du document de séjour perdu ou volé.
 
-<a id="art_N15B70"></a>
+<a id="art_N15ED3"></a>
 
 ### Art. 137.
 
 Conformément aux instructions du ministre, les agents de contrôle visés à l’article L. 573-1 du Code du travail procèdent sur le lieu de travail à des contrôles relatifs à l’observation des dispositions du Code du travail en relation avec l’autorisation de séjour, le titre de séjour et l’autorisation de travail des étrangers.
 
-<a id="art_N15BB8"></a>
+<a id="art_N15F1B"></a>
 
 ### Art. 138.
 
-Pour effectuer le contrôle visé à l'article 133, le ministre peut accéder, par un système informatique direct, aux traitements de données à caractère personnel suivants:
+Pour effectuer le contrôle visé à l’article 133, le ministre peut accéder, par un système informatique direct, aux traitements de données à caractère personnel suivants:
 
 1. loi du 30 mars 1979
 2. le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions;
-3. le fichier des autorisations d'établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions;
+3. le fichier des autorisations d’établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions;
 4. Code des assurances sociales
-5. le fichier relatif aux demandeurs d'emploi inscrits et le fichier relatif aux déclarations de postes vacants géré par l'Administration de l'Emploi;
-6. le fichier relatif aux bénéficiaires du revenu minimum garanti géré respectivement par le Fonds national de solidarité et par le Service national d'action sociale.
+5. le fichier relatif aux demandeurs d’emploi inscrits et le fichier relatif aux déclarations de postes vacants géré par l’Administration de l’Emploi;
+6. le fichier relatif aux bénéficiaires du revenu minimum garanti géré respectivement par le Fonds national de solidarité et par le Service national d’action sociale.
 
-Les données à caractère personnel auxquelles le ministre a accès en vertu de l'alinéa 1 qui précède, de même que les personnes auxquelles le droit d'accès est réservé, sont déterminées par règlement grand-ducal.
+Les données à caractère personnel auxquelles le ministre a accès en vertu de l’alinéa 1 qui précède, de même que les personnes auxquelles le droit d’accès est réservé, sont déterminées par règlement grand-ducal.
 
-Le système informatique par lequel l'accès direct est opéré doit être aménagé de sorte que les informations relatives à la personne ayant procédé à la consultation, les informations consultées, la date, l'heure et la référence du dossier dans le cadre duquel la consultation a été effectuée, ainsi que le motif précis de la consultation puissent être retracés.
+Le système informatique par lequel l’accès direct est opéré doit être aménagé de sorte que les informations relatives à la personne ayant procédé à la consultation, les informations consultées, la date, l’heure et la référence du dossier dans le cadre duquel la consultation a été effectuée, ainsi que le motif précis de la consultation puissent être retracés.
 
 Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
 
 ##### Chapitre 7. — Les sanctions
 
-##### Section 1. — L'entrée et le séjour irréguliers
+##### Section 1. — L’entrée et le séjour irréguliers
 
-<a id="art_N15C2B"></a>
+<a id="art_N15F8E"></a>
 
 ### Art. 139.
 
-Sont punies d'une amende de 25 à 250 euros:
+Sont punies d’une amende de 25 à 250 euros:
 
-1. les personnes visées au chapitre 2 de la présente loi qui ont omis de se conformer dans le délai prescrit à la formalité d'enregistrement prévue aux articles 8 et 15;
-2. les membres de la famille ressortissants d'un pays tiers qui ont omis de solliciter dans le délai prescrit la délivrance de la carte de séjour prévue à l'article 15;
-3. les personnes qui ont omis de faire dans les délais prescrits une déclaration d'arrivée conformément aux articles 36 et 40, paragraphe (1) ou de solliciter la délivrance du titre de séjour conformément à l'article 40, paragraphe (2);
-4. les personnes qui n'ont pas fait de déclaration de départ et n'ont pas remis leur titre de séjour au ministre conformément à l'article 40, paragraphe (4).
+1. les personnes visées au chapitre 2 de la présente loi qui ont omis de se conformer dans le délai prescrit à la formalité d’enregistrement prévue aux articles 8 et 15;
+2. les membres de la famille ressortissants d’un pays tiers qui ont omis de solliciter dans le délai prescrit la délivrance de la carte de séjour prévue à l’article 15;
+3. les personnes qui ont omis de faire dans les délais prescrits une déclaration d’arrivée conformément aux articles 36 et 40, paragraphe (1) ou de solliciter la délivrance du titre de séjour conformément à l’article 40, paragraphe (2);
+4. les personnes qui n’ont pas fait de déclaration de départ et n’ont pas remis leur titre de séjour au ministre conformément à l’article 40, paragraphe (4).
 
-<a id="art_N15C6D"></a>
+<a id="art_N15FD0"></a>
 
 ### Art. 140.
 
-Est puni d'un emprisonnement de huit jours à un an et d'une amende de 251 à 1.250 euros ou d'une de ces peines seulement, le ressortissant de pays tiers qui, sans motif justifié de non-retour, séjourne irrégulièrement sur le territoire après avoir fait l'objet d'une mesure régulière de placement en rétention ou d'assignation à résidence ayant pris fin sans qu'il ait pu être procédé à son éloignement.
+Est puni d’un emprisonnement de huit jours à un an et d’une amende de 251 à 1.250 euros ou d’une de ces peines seulement, le ressortissant de pays tiers qui, sans motif justifié de non-retour, séjourne irrégulièrement sur le territoire après avoir fait l’objet d’une mesure régulière de placement en rétention ou d’assignation à résidence ayant pris fin sans qu’il ait pu être procédé à son éloignement.
 
-<a id="art_N15CAB"></a>
+<a id="art_N1600E"></a>
 
 ### Art. 141.
 
-Est puni d'un emprisonnement d’un mois à trois ans et d'une amende de 251 à 12.500 euros ou d'une de ces peines seulement, l'étranger qui a sciemment fait à l'autorité compétente de fausses déclarations ou a sciemment produit des pièces falsifiées ou inexactes pour entrer sur le territoire ou pour obtenir une autorisation ou un titre de séjour ou une autorisation de travail ou un renouvellement du titre de séjour ou de l'autorisation de travail.
+Est puni d’un emprisonnement d’un mois à trois ans et d’une amende de 251 à 12.500 euros ou d’une de ces peines seulement, l’étranger qui a sciemment fait à l’autorité compétente de fausses déclarations ou a sciemment produit des pièces falsifiées ou inexactes pour entrer sur le territoire ou pour obtenir une autorisation ou un titre de séjour ou une autorisation de travail ou un renouvellement du titre de séjour ou de l’autorisation de travail.
 
-##### Section 2. — La méconnaissance des décisions d'éloignement
+##### Section 2. — La méconnaissance des décisions d’éloignement
 
-<a id="art_N15D01"></a>
+<a id="art_N16064"></a>
 
 ### Art. 142.
 
-Est puni d'un emprisonnement de six mois à trois ans et d'une amende de 251 à 3.000 euros ou d'une de ces peines seulement, tout étranger qui éloigné ou expulsé, est rentré au pays malgré une interdiction d'entrée sur le territoire.
+Est puni d’un emprisonnement de six mois à trois ans et d’une amende de 251 à 3.000 euros ou d’une de ces peines seulement, tout étranger qui éloigné ou expulsé, est rentré au pays malgré une interdiction d’entrée sur le territoire.
 
 ##### Section 3. — Franchissement non autorisé des frontières extérieures
 
-<a id="art_N15D43"></a>
+<a id="art_N160A6"></a>
 
 ### Art. 143.
 
@@ -2780,78 +2836,78 @@ Le franchissement des frontières extérieures de l’Union européenne en viola
 
 ##### Section 3. — L’emploi d’un travailleur étranger irrégulier
 
-<a id="art_N15DA4"></a>
+<a id="art_N16107"></a>
 
-### art_N15DA4
-
-
-
-<a id="art_N15DE9"></a>
-
-### art_N15DE9
+### art_N16107
 
 
 
-<a id="art_N15E26"></a>
+<a id="art_N1614C"></a>
 
-### art_N15E26
+### art_N1614C
+
+
+
+<a id="art_N16189"></a>
+
+### art_N16189
 
 1. 
 2. 
 
-<a id="art_N15E81"></a>
+<a id="art_N161E4"></a>
 
-### art_N15E81
+### art_N161E4
 
 1. 
 2. 
 
 ##### Section 4. — La méconnaissance des obligations incombant aux entreprises de transport telles que définies aux articles 106 à 108
 
-<a id="art_N15EE1"></a>
+<a id="art_N16244"></a>
 
 ### Art. 147.
 
-**(1)** Est punie d'une amende d’un montant de 5.000 euros par passager transporté, l'entreprise de transport aérien visée à l'article 108. L'amende est prononcée par le ministre, autant de fois qu'il y a de passagers concernés. Le montant est versé au Trésor.
+**(1)** Est punie d’une amende d’un montant de 5.000 euros par passager transporté, l’entreprise de transport aérien visée à l’article 108. L’amende est prononcée par le ministre, autant de fois qu’il y a de passagers concernés. Le montant est versé au Trésor.
 
-**(2)** L'amende prévue au paragraphe (1) qui précède, n'est pas infligée:
+**(2)** L’amende prévue au paragraphe (1) qui précède, n’est pas infligée:
 
-1. lorsque le ressortissant de pays tiers ne s'est pas vu refuser l'entrée sur le territoire, ou lorsque, ayant déposé une demande de protection internationale, il a été admis à ce titre sur le territoire du Grand-Duché de Luxembourg et que cette demande n'a pas été déclarée irrecevable ou rejetée dans le cadre d'une procédure accélérée, ou
-2. lorsque le transporteur établit que les documents requis lui ont été présentés au moment de l'embarquement ou lorsque les documents présentés ne comportent pas un élément d'irrégularité manifeste, ou
+1. lorsque le ressortissant de pays tiers ne s’est pas vu refuser l’entrée sur le territoire, ou lorsque, ayant déposé une demande de protection internationale, il a été admis à ce titre sur le territoire du Grand-Duché de Luxembourg et que cette demande n’a pas été déclarée irrecevable ou rejetée dans le cadre d’une procédure accélérée, ou
+2. lorsque le transporteur établit que les documents requis lui ont été présentés au moment de l’embarquement ou lorsque les documents présentés ne comportent pas un élément d’irrégularité manifeste, ou
 3. System »
 4. lorsque le transporteur établit qu’il lui a été techniquement impossible de procéder à l’interrogation du système d’information, « entry/exit system » (EES), afin de vérifier si le ressortissant de pays tiers titulaire d’un visa de court séjour délivré pour une ou deux entrées a déjà utilisé le nombre d’entrées autorisées par son visa.
 
-<a id="art_N15F61"></a>
+<a id="art_N162C4"></a>
 
 ### Art. 148.
 
-Est punie d'une amende d'un montant de 5.000 euros, l'entreprise de transport aérien visée à l'article 108, à raison de chaque voyage pour lequel l'entreprise, par faute, n'a pas transmis les renseignements y visés, ou qui ne les a pas transmis dans le délai prévu, ou qui a transmis des renseignements incomplets ou erronés. L'amende est prononcée par le ministre. Le montant est versé au Trésor.
+Est punie d’une amende d’un montant de 5.000 euros, l’entreprise de transport aérien visée à l’article 108, à raison de chaque voyage pour lequel l’entreprise, par faute, n’a pas transmis les renseignements y visés, ou qui ne les a pas transmis dans le délai prévu, ou qui a transmis des renseignements incomplets ou erronés. L’amende est prononcée par le ministre. Le montant est versé au Trésor.
 
 ##### Chapitre 8. — Les organes consultatifs
 
-<a id="art_N15FAF"></a>
+<a id="art_N16312"></a>
 
-### art_N15FAF
+### art_N16312
 
 
 
-<a id="art_N1602A"></a>
+<a id="art_N1638D"></a>
 
 ### Art. 149.
 
 Il est créé une commission consultative qui est entendue en son avis conformément à l’article 44bis, paragraphe (3). La composition et les modalités de fonctionnement de la com­mission sont fixées par règlement grand-ducal.
 
-<a id="art_N16068"></a>
+<a id="art_N163CB"></a>
 
 ### Art. 150.
 
-**(1)** Il est créé une commission consultative pour travailleurs salariés qui est entendue en son avis conformément à l'article 42, paragraphe (2), sauf dans les cas exceptés par la présente loi.
+**(1)** Il est créé une commission consultative pour travailleurs salariés qui est entendue en son avis conformément à l’article 42, paragraphe (2), sauf dans les cas exceptés par la présente loi.
 
-**(2)** La commission peut aussi émettre à l'attention du ministre des avis à portée générale sur des sujets concernant l'emploi de la main-d'oeuvre étrangère au Grand-Duché de Luxembourg et son impact sur le marché du travail.
+**(2)** La commission peut aussi émettre à l’attention du ministre des avis à portée générale sur des sujets concernant l’emploi de la main-d’oeuvre étrangère au Grand-Duché de Luxembourg et son impact sur le marché du travail.
 
 **(3)** La composition et les modalités de fonctionnement de la commission sont fixées par règlement grand-ducal.
 
-<a id="art_N160CD"></a>
+<a id="art_N16430"></a>
 
 ### Art. 151.
 
@@ -2861,101 +2917,107 @@ Il est créé une commission consultative qui est entendue en son avis conformé
 
 ##### Chapitre 9. — Dispositions budgétaires et financières
 
-<a id="art_N1612E"></a>
+<a id="art_N16491"></a>
 
 ### Art. 152.
 
-Il est alloué aux agents délégués par le ministre aux fins de l'exécution de l'article 120, paragraphe (2) et soumis à astreinte à domicile un congé de compensation ou une indemnité conformément aux dispositions en matière d'astreinte à domicile. Les dispositions de l'article 25, paragraphe (2) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat leur sont applicables.
+Il est alloué aux agents délégués par le ministre aux fins de l’exécution de l’article 120, paragraphe (2) et soumis à astreinte à domicile un congé de compensation ou une indemnité conformément aux dispositions en matière d’astreinte à domicile. Les dispositions de l’article 25, paragraphe (2) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat leur sont applicables.
 
-Une prime de risque non pensionnable de 10 points indiciaires est accordée aux agents relevant du ministre activement impliqués dans l'organisation des mesures d'éloignement et l'accompagnement des personnes faisant l'objet d'un éloignement du territoire.
+Une prime de risque non pensionnable de 20 points indiciaires est accordée aux agents relevant du ministre activement impliqués dans l’organisation des mesures d’éloignement et l’accompagnement des personnes faisant l’objet d’un éloignement du territoire.
 
-<a id="art_N1616E"></a>
+<a id="art_N164DD"></a>
 
 ### Art. 153.
 
-Par dépassement des limites fixées dans la loi du 21 décembre 2007 concernant le budget des recettes et des dépenses de l'Etat pour l'exercice 2008, le ministre est autorisé à procéder à l'engagement de trois agents dans la carrière supérieure de l'attaché de gouvernement.
+Par dépassement des limites fixées dans la loi du 21 décembre 2007 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 2008, le ministre est autorisé à procéder à l’engagement de trois agents dans la carrière supérieure de l’attaché de gouvernement.
 
-<a id="art_N161A5"></a>
+<a id="art_N16514"></a>
 
 ### Art. 154.
 
-Par dépassement des limites fixées dans la loi du 21 décembre 2007 concernant le budget des recettes et des dépenses de l'Etat pour l'exercice 2008, le ministre ayant la Santé dans ses attributions est autorisé à engager pour les besoins de la Direction de la Santé un médecin chef de service et un employé de la carrière C.
+Par dépassement des limites fixées dans la loi du 21 décembre 2007 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 2008, le ministre ayant la Santé dans ses attributions est autorisé à engager pour les besoins de la Direction de la Santé un médecin chef de service et un employé de la carrière C.
 
 ##### Chapitre 10. — Dispositions modificatives
 
-<a id="art_N161E8"></a>
+<a id="art_N16557"></a>
 
 ### Art. 155.
 
-La loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection est modifiée comme suit:
+La loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection est modifiée comme suit:
 
-1. L'article 6 (4) est complété comme suit:
-2. A l'article 10, le paragraphe (4) est modifié comme suit:
-3. L'article 11, paragraphe (1) a) prend la teneur suivante:
-4. L'article 19, paragraphe (1), dernière phrase est libellé comme suit:
-5. L'article 19 (4) première phrase se lit comme suit:
-6. A l'article 22, les paragraphes (1) et (2) sont modifiés comme suit:
-7. L'article 45 (2) prend la teneur suivante:
-8. A l'article 46, paragraphes (1) et (2), les termes «permis de séjour» sont remplacés par ceux de «titre de séjour protection internationale». Cet article est complété par un paragraphe (3), dont la teneur est la suivante: «Le «titre de séjour protection internationale» délivré conformément aux paragraphes (1) et (2) qui précèdent, devient automatiquement caduc lorsque le ministre révoque le statut de réfugié ou le statut conféré par la protection subsidiaire.»
-9. Aux paragraphes (1) et (2) de l'article 48, les termes «bénéficiaires du statut de réfugié» sont remplacés par ceux de «bénéficiaires d'une protection internationale»; les paragraphes (3) et (4) sont à supprimer.
+1. L’article 6 (4) est complété comme suit:
+2. A l’article 10, le paragraphe (4) est modifié comme suit:
+3. L’article 11, paragraphe (1) a) prend la teneur suivante:
+4. L’article 19, paragraphe (1), dernière phrase est libellé comme suit:
+5. L’article 19 (4) première phrase se lit comme suit:
+6. A l’article 22, les paragraphes (1) et (2) sont modifiés comme suit:
+7. L’article 45 (2) prend la teneur suivante:
+8. A l’article 46, paragraphes (1) et (2), les termes «permis de séjour» sont remplacés par ceux de «titre de séjour protection internationale». Cet article est complété par un paragraphe (3), dont la teneur est la suivante: «Le «titre de séjour protection internationale» délivré conformément aux paragraphes (1) et (2) qui précèdent, devient automatiquement caduc lorsque le ministre révoque le statut de réfugié ou le statut conféré par la protection subsidiaire.»
+9. Aux paragraphes (1) et (2) de l’article 48, les termes «bénéficiaires du statut de réfugié» sont remplacés par ceux de «bénéficiaires d’une protection internationale»; les paragraphes (3) et (4) sont à supprimer.
 
-<a id="art_N162E6"></a>
+<a id="art_N16655"></a>
 
 ### Art. 156.
 
 Le Code du travail est modifié comme suit:
 
-1. Le chapitre IV – Main-d'oeuvre étrangère, du Titre IV – Placement des travailleurs, du Livre V – Emploi et Chômage, est abrogé.
-2. L'article L.622-11 est abrogé.
+1. Le chapitre IV – Main-d’oeuvre étrangère, du Titre IV – Placement des travailleurs, du Livre V – Emploi et Chômage, est abrogé.
+2. L’article L.622-11 est abrogé.
 
-<a id="art_N16327"></a>
+<a id="art_N16696"></a>
 
 ### Art. 157.
 
-**1°** A l'article 346 du Code pénal, l'alinéa 2 est supprimé.
+**1°** A l’article 346 du Code pénal, l’alinéa 2 est supprimé.
 
-**2°** A l'article 563 du Code pénal, le point 6 du deuxième alinéa est supprimé.
+**2°** A l’article 563 du Code pénal, le point 6 du deuxième alinéa est supprimé.
 
-<a id="art_N1637A"></a>
+<a id="art_N166E9"></a>
 
 ### Art. 158.
 
-La loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti est modifiée comme suit:
+La loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti est modifiée comme suit:
 
-1. bénéficier d'un droit de séjour
-2. L'article 2, paragraphe (2), prend la teneur suivante:
+1. bénéficier d’un droit de séjour
+2. L’article 2, paragraphe (2), prend la teneur suivante:
 
 ##### Chapitre 11. — Dispositions abrogatoires
 
-<a id="art_N16400"></a>
+<a id="art_N1676F"></a>
 
 ### Art. 159.
 
 Sont abrogées:
 
-1. loi modifiée du 28 mars 1972 1. l'entrée et le séjour des étrangers;
+1. loi modifiée du 28 mars 1972 1. l’entrée et le séjour des étrangers;
 2. le contrôle médical des étrangers;
-3. l'emploi de la main-d'oeuvre étrangère;
+3. l’emploi de la main-d’oeuvre étrangère;
 2. loi du 26 juin 1953
 3. loi du 28 octobre 1920
 
 ##### Chapitre 12. — Dispositions transitoires et intitulé
 
-<a id="art_N16467"></a>
+<a id="art_N167D6"></a>
 
 ### Art. 160.
 
-La présente loi est applicable aux demandes d'autorisation de séjour introduites avant l'entrée en vigueur de la présente loi et dont l'instruction est pendante.
+La présente loi est applicable aux demandes d’autorisation de séjour introduites avant l’entrée en vigueur de la présente loi et dont l’instruction est pendante.
 
-Les titres de séjour établis avant l'entrée en vigueur de la présente loi demeurent valides jusqu'à leur date d'expiration.
+Les titres de séjour établis avant l’entrée en vigueur de la présente loi demeurent valides jusqu’à leur date d’expiration.
 
-<a id="art_N1649C"></a>
+<a id="art_N1680B"></a>
+
+### Art. 160bis.
+
+L’article 123*bis* est applicable aux recours et requêtes régis par l’article 123 qui sont introduits à partir du 1er janvier 2027.
+
+<a id="art_N16852"></a>
 
 ### Art. 161.
 
-La référence à la présente loi peut se faire sous une forme abrégée en recourant à l'intitulé suivant: «Loi du 29 août 2008 sur la libre circulation des personnes et l'immigration».
+La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant: «Loi du 29 août 2008 sur la libre circulation des personnes et l’immigration».
 
-<a id="art_N164D3"></a>
+<a id="art_N16889"></a>
 
 ### Art. 162.
 
@@ -2965,7 +3027,7 @@ La présente loi entre en vigueur le premier jour du mois qui suit sa publicatio
 
 ##### Chapitre 1. – Définitions
 
-<a id="art_N16526"></a>
+<a id="art_N168DA"></a>
 
 ### Art. 1er.
 
@@ -2976,7 +3038,7 @@ Au sens du présent règlement grand-ducal on entend par:
 
 ##### Chapitre 2. – Formalités administratives à charge des citoyens de l'Union, des ressortissants des autres Etats parties à l'Accord sur l'Espace économique européen et de la Confédération suisse et des membres de leur famille, quelle que soit leur nationalité
 
-<a id="art_N16575"></a>
+<a id="art_N16929"></a>
 
 ### Art. 2.
 
@@ -2986,7 +3048,7 @@ Pour la délivrance de l'attestation d'enregistrement visée à l'article 8, par
 2. règlement grand-ducal du 5 septembre 2008 loi du 29 août 2008 la loi
 3. règlement grand-ducal du 5 septembre 2008 loi du 29 août 2008 la loi
 
-<a id="art_N165DF"></a>
+<a id="art_N16993"></a>
 
 ### Art. 3.
 
@@ -3000,7 +3062,7 @@ Pour la délivrance de l'attestation d'enregistrement prévue à l'article 15 de
 6. dans les cas visés à l'article 12, paragraphe (2), point 3 de la loi, la preuve de l'existence d'une relation durable avec le citoyen de l'Union dûment constatée par le ministre; 5*bis*.
 7. la loi
 
-<a id="art_N1665C"></a>
+<a id="art_N16A10"></a>
 
 ### Art. 4.
 
@@ -3008,13 +3070,13 @@ Sur présentation des documents énumérés à l’article 2 ou à l’article 3
 
 Copie de l’attestation est transmise au ministre, ensemble avec les pièces justificatives fournies à l’appui de la demande d’enregistrement.
 
-<a id="art_N166A8"></a>
+<a id="art_N16A5C"></a>
 
 ### Art 4bis.
 
 Le visa requis pour l'entrée sur le territoire des membres de la famille mentionnés à l'article 13, paragraphe (1) de la loi, est délivré gratuitement et dans les meilleurs délais sur justification du lien familial.
 
-<a id="art_N166E2"></a>
+<a id="art_N16A96"></a>
 
 ### Art. 5.
 
@@ -3026,7 +3088,7 @@ Un récépissé attestant le dépôt de la demande de carte de séjour est déli
 
 **(3)** La demande de renouvellement de la carte de séjour est introduite auprès du ministre dans les deux mois avant la date d’expiration de la validité de la carte de séjour. A l’appui de la demande, le membre de famille qui est ressortissant de pays tiers fournit une copie de son passeport en cours de validité. Un récépissé attestant le dépôt de la demande est délivré immédiatement. Pour le cas où la carte de séjour serait venue à expiration, le récépissé vaut carte de séjour pendant une période maximale de six mois.
 
-<a id="art_N16784"></a>
+<a id="art_N16B38"></a>
 
 ### Art. 6.
 
@@ -3036,7 +3098,7 @@ Un récépissé attestant le dépôt de la demande de carte de séjour est déli
 
 **(3)** L’attestation de séjour permanent est établie conformément au règlement (UE) 2019/1157 du Parlement européen et du Conseil du 20 juin 2019 relatif au renforcement de la sécurité des cartes d’identité des citoyens de l’Union et des documents de séjour délivrés aux citoyens de l’Union et aux membres de leur famille exerçant leur droit à la libre circulation. L’attestation de séjour permanent est établie suivant le modèle arrêté par le ministre et délivrée dans le mois du dépôt de la demande.
 
-<a id="art_N167F8"></a>
+<a id="art_N16BAC"></a>
 
 ### Art. 7.
 
@@ -3050,7 +3112,7 @@ Un récépissé attestant le dépôt de la demande est délivré immédiatement.
 
 **(4)** La carte de séjour permanent est renouvelable de plein droit tous les dix ans. La demande de renouvellement est introduite auprès du ministre dans les deux mois qui précèdent la date d’expiration. La délivrance se fait conformément au paragraphe (3). Est jointe à la demande une copie du passeport en cours de validité.
 
-<a id="art_N16898"></a>
+<a id="art_N16C4C"></a>
 
 ### Art. 8.
 
@@ -3058,7 +3120,7 @@ La possession d'une attestation d'enregistrement, d'un récépissé attestant l'
 
 ##### Chapitre 2*bis.* — – Formalités administratives à charge des bénéficiaires de l’Accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique
 
-<a id="art_N168DD"></a>
+<a id="art_N16C91"></a>
 
 ### Art. 8bis.
 
@@ -3086,7 +3148,7 @@ La possession d'une attestation d'enregistrement, d'un récépissé attestant l'
 
 **(6)** Pour le remplacement du document prévu par le présent article, la personne concernée introduit sa demande, y joint une copie de la carte d’identité nationale ou du passeport en cours de validité, une déclaration de perte ou le document de séjour original endommagé. Sur justification des pièces, le ministre accorde le remplacement du document et en informe la personne concernée. La délivrance se fait conformément au paragraphe (3).
 
-<a id="art_N169FC"></a>
+<a id="art_N16DB0"></a>
 
 ### Art. 8ter.
 
@@ -3109,7 +3171,7 @@ La possession d'une attestation d'enregistrement, d'un récépissé attestant l'
 
 **(6)** Pour le remplacement du document prévu par le présent article, la personne concernée introduit sa demande, y joint une copie du passeport en cours de validité, une déclaration de perte ou le document de séjour original endommagé. Sur justification des pièces, le ministre accorde le remplacement du document et en informe la personne concernée. La délivrance se fait conformément au paragraphe (3).
 
-<a id="art_N16AD6"></a>
+<a id="art_N16E8A"></a>
 
 ### Art. 8quater.
 
@@ -3127,7 +3189,7 @@ La possession d'une attestation d'enregistrement, d'un récépissé attestant l'
 
 **(5)** Pour le remplacement du document prévu par le présent article, la personne concernée introduit sa demande, y joint une copie de la carte d’identité ou du passeport en cours de validité et une déclaration de perte ou le document de séjour original endommagé. Sur justification des pièces, le ministre accorde le remplacement du document et en informe la personne concernée. La délivrance se fait conformément au paragraphe (2).
 
-<a id="art_N16B84"></a>
+<a id="art_N16F38"></a>
 
 ### Art. 8quinquies.
 
@@ -3144,7 +3206,7 @@ La possession d'une attestation d'enregistrement, d'un récépissé attestant l'
 
 **(5)** Pour le remplacement du document prévu par le présent article, la personne concernée introduit sa demande, y joint une copie du passeport en cours de validité et une déclaration de perte ou le document de séjour original endommagé. Sur justification des pièces, le ministre accorde le remplacement du document et en informe la personne concernée. La délivrance se fait conformément au paragraphe (2).
 
-<a id="art_N16C27"></a>
+<a id="art_N16FDB"></a>
 
 ### Art. 8sexies.
 
@@ -3162,7 +3224,7 @@ La possession d'une attestation d'enregistrement, d'un récépissé attestant l'
 
 **(5)** Pour le remplacement du document prévu par le présent article, la personne concernée introduit sa demande, y joint une copie de la carte d’identité nationale ou du passeport en cours de validité et une déclaration de perte ou le document original endommagé. Sur justification des pièces, le ministre accorde le remplacement du document et en informe la personne concernée. La délivrance se fait conformément au paragraphe (2).
 
-<a id="art_N16CCA"></a>
+<a id="art_N1707E"></a>
 
 ### Art. 8septies.
 
@@ -3172,7 +3234,7 @@ Les demandes concernant les documents de séjour délivrés conformément aux ar
 
 ##### *Section 1.* *– Le titre de séjour*
 
-<a id="art_N16D33"></a>
+<a id="art_N170E7"></a>
 
 ### Art. 9.
 
@@ -3182,7 +3244,7 @@ Les demandes concernant les documents de séjour délivrés conformément aux ar
 
 Le titre de séjour est établi conformément au règlement (CE) n° 380/2008 du Conseil du 18 avril 2008 modifiant le règlement (CE) n° 1030/2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers.
 
-<a id="art_N16DA5"></a>
+<a id="art_N17159"></a>
 
 ### Art. 9bis.
 
@@ -3194,13 +3256,13 @@ Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays 
 
 Lorsqu’une carte bleue européenne est délivrée à un ressortissant de pays tiers visé par l’article 45-1, paragraphe 5, de la loi, l’observation suivante est inscrite sous la rubrique « Observations » du titre de séjour : « [Professions non énumérées à l’annexe I] ».
 
-<a id="art_N16E18"></a>
+<a id="art_N171CC"></a>
 
 ### Art. 10.
 
 Pour le renouvellement du titre de séjour le ressortissant de pays tiers introduit sa demande dans les deux mois avant la date d'expiration de la validité du titre de séjour. Sont à joindre à la demande les pièces documentant que les conditions d'obtention de l'autorisation de séjour prévues pour la catégorie dont il relève restent remplies. Sur justification des pièces, le ministre accorde le renouvellement du titre et en informe la personne concernée. La délivrance se fait conformément à l'article 9.
 
-<a id="art_N16E4A"></a>
+<a id="art_N171FE"></a>
 
 ### Art. 10bis.
 
@@ -3217,7 +3279,7 @@ Pour le renouvellement du titre de séjour le ressortissant de pays tiers introd
 
 ##### Section 2. – Le titre de séjour de résident de longue durée
 
-<a id="art_N16EE4"></a>
+<a id="art_N17298"></a>
 
 ### Art. 11.
 
@@ -3231,7 +3293,7 @@ Pour le renouvellement du titre de séjour le ressortissant de pays tiers introd
 
 **(2)** Pour vérifier le degré d'intégration du demandeur conformément à l'article 81, paragraphe (3) de la loi, le ministre tient compte de tous les éléments et toutes les pièces produits par le ressortissant de pays tiers pour justifier de son intégration. Sont notamment pris en compte la signature et le respect des stipulations contenues dans le contrat d'accueil et d'intégration, de même que la participation dans les mesures et actions prévues par la législation en matière d'accueil et d'intégration des étrangers au Grand-Duché de Luxembourg.
 
-<a id="art_N16F67"></a>
+<a id="art_N1731B"></a>
 
 ### Art. 12.
 
@@ -3239,7 +3301,7 @@ Un récépissé attestant le dépôt de la demande est délivré à la personne 
 
 Au plus tard six mois après la date du dépôt de la demande, le ministre notifie par écrit au demandeur la décision le concernant. Dans des cas exceptionnels liés à la complexité de l’examen de la demande, le ministre informe le demandeur par écrit que le délai est prorogé.
 
-<a id="art_N16FA2"></a>
+<a id="art_N17356"></a>
 
 ### Art. 13.
 
@@ -3257,7 +3319,7 @@ Lorsque la responsabilité de la protection internationale du résident de longu
 
 De même, lorsque le ministre accorde à un résident de longue durée la protection internationale avant qu’il ne délivre le permis de séjour de résident de longue durée - UE visé à l’alinéa 2 qui précède, il demande à l’Etat membre qui a délivré le permis de séjour - UE de le modifier afin d’inscrire la remarque visée à l’alinéa 2.
 
-<a id="art_N1703F"></a>
+<a id="art_N173F3"></a>
 
 ### Art. 14.
 
@@ -3271,7 +3333,7 @@ Sur justification des pièces, le ministre accorde le renouvellement du titre et
 
 L’expiration du permis de séjour de résident de longue durée - UE2 n’entraîne en aucune façon le retrait ou la perte du statut de résident de longue durée.
 
-<a id="art_N1709B"></a>
+<a id="art_N1744F"></a>
 
 ### Art. 15.
 
@@ -3284,7 +3346,7 @@ L’expiration du permis de séjour de résident de longue durée - UE2 n’entr
 
 **(3)** Le ministre dispose pour examiner la demande d’un délai de quatre mois à partir de son dépôt. Il notifie par écrit au demandeur sa décision le concernant. Dans des conditions exceptionnelles liées à la complexité de l’examen de la demande, le délai peut être prorogé d’une période de trois mois. Le demandeur est informé par écrit de la prorogation du délai.
 
-<a id="art_N1710E"></a>
+<a id="art_N174C2"></a>
 
 ### Art. 16.
 
@@ -3300,7 +3362,7 @@ L’expiration du permis de séjour de résident de longue durée - UE2 n’entr
 
 **(3)** Le ministre dispose pour examiner la demande d’un délai de quatre mois à partir de son dépôt. Il notifie par écrit au demandeur sa décision le concernant. Dans des conditions exceptionnelles liées à la complexité de l’examen de la demande, le délai peut être prorogé d’une période de trois mois. Le demandeur est informé par écrit de la prorogation du délai.
 
-<a id="art_N171AF"></a>
+<a id="art_N17563"></a>
 
 ### Art. 17.
 
@@ -3312,7 +3374,7 @@ Afin de solliciter la délivrance du titre de séjour visé à l’article 87, p
 4. la preuve d’un logement approprié;
 5. la preuve du versement de la taxe de délivrance fixée à l’article 20 sur un compte du Trésor.
 
-<a id="art_N17218"></a>
+<a id="art_N175CC"></a>
 
 ### Art. 18.
 
@@ -3322,7 +3384,7 @@ Le titre de séjour valable pour cinq ans, est émis selon les règles et le mod
 
 Le titre de séjour du membre de la famille a une durée identique à celle du titre de séjour accordé au ressortissant de pays tiers qu’ils accompagnent ou rejoignent.
 
-<a id="art_N1726B"></a>
+<a id="art_N1761F"></a>
 
 ### Art. 19.
 
@@ -3330,7 +3392,7 @@ La demande en renouvellement est introduite auprès du ministre dans les deux mo
 
 ##### Section 3. – *La taxe de délivrance*
 
-<a id="art_N172AF"></a>
+<a id="art_N17663"></a>
 
 ### Art. 20.
 
@@ -3338,37 +3400,37 @@ La délivrance d’un titre de séjour est soumise à une taxe de 80 euros .
 
 ##### Chapitre 4. – Dispositions communes
 
-<a id="art_N172F5"></a>
+<a id="art_N176A9"></a>
 
 ### Art. 21.
 
 Deux mois avant l’expiration d’une carte de séjour ou d’un titre de séjour, le ministre invite la personne concernée à procéder, soit au renouvellement de sa carte de séjour ou de son titre de séjour, soit, s’il remplit les conditions afférentes, à solliciter la délivrance de la carte de séjour permanent ou du titre de résident de longue durée.
 
-<a id="art_N17327"></a>
+<a id="art_N176DB"></a>
 
-### art_N17327
+### art_N176DB
 
 
 
-<a id="art_N1736C"></a>
+<a id="art_N17720"></a>
 
 ### Art. 23.
 
 Seules les demandes comportant les indications et éléments requis feront l’objet d’un examen. Les demandes incomplètes sont retournées aux personnes concernées pour être régularisées.
 
-<a id="art_N1739E"></a>
+<a id="art_N17752"></a>
 
 ### Art. 24.
 
 A moins qu’une convention internationale ou bilatérale n’en dispose autrement, le ministre pourra en cas de doute portant soit sur la véracité de la signature, soit sur l’identité du sceau ou du timbre, soit sur la qualité du signataire exiger que les documents à produire soient ou bien authentifiés par l’autorité locale compétente du pays d’origine de la personne concernée et légalisés par l’ambassade, ou bien munis de l’apostille prévue par la Convention de La Haye du 5 octobre 1961 supprimant l’exigence de la légalisation des actes publics étrangers. Si les documents ne sont pas rédigés dans les langues allemande, française ou anglaise, une traduction conforme par un traducteur assermenté doit être jointe.
 
-<a id="art_N173DF"></a>
+<a id="art_N17793"></a>
 
 ### Art. 25.
 
 En cas de changement de résidence à l’intérieur du Grand-Duché de Luxembourg, le détenteur d’une attestation d’enregistrement ou d’une attestation de séjour permanent, doit faire viser ce document dans les huit jours après son arrivée par l’administration communale de sa nouvelle résidence.
 
-<a id="art_N17420"></a>
+<a id="art_N177D4"></a>
 
 ### Art. 26.
 
@@ -3376,13 +3438,13 @@ En cas d’absences prolongées du territoire dépassant les délais prévus aux
 
 Ils sont à remettre avant le départ à l’administration communale du lieu de résidence qui les continue au ministre.
 
-<a id="art_N17460"></a>
+<a id="art_N17814"></a>
 
 ### Art. 27.
 
 En cas de perte ou de vol d’un des documents visés aux articles qui précèdent, les personnes concernées doivent solliciter auprès du ministre le remplacement du titre originaire. Ce titre portera la même date que le document volé ou perdu.
 
-<a id="art_N17492"></a>
+<a id="art_N17846"></a>
 
 ### Art. 28.
 
@@ -3390,19 +3452,19 @@ La décision d’éloignement du territoire implique automatiquement le retrait 
 
 ##### Chapitre 5. – Dispositions finales
 
-<a id="art_N174CC"></a>
+<a id="art_N17880"></a>
 
 ### Art. 29.
 
 Le règlement grand-ducal modifié du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant au pays et le règlement grand-ducal modifié du 28 mars 1972 relatif aux conditions d’entrée et de séjour de certaines catégories d’étrangers faisant l’objet de conventions internationales sont abrogés.
 
-<a id="art_N1750A"></a>
+<a id="art_N178BE"></a>
 
 ### Art. 30.
 
 Le présent règlement entrera en vigueur le 1er octobre 2008.
 
-<a id="art_N1753F"></a>
+<a id="art_N178F3"></a>
 
 ### Art. 31.
 
@@ -3410,7 +3472,7 @@ Notre Ministre délégué aux Affaires étrangères et à l’Immigration est ch
 
 #### **Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.**
 
-<a id="art_N1758A"></a>
+<a id="art_N1793E"></a>
 
 ### Art. 1er.
 
@@ -3419,7 +3481,7 @@ Au sens du présent règlement grand-ducal on entend par:
 - loi du 29 août 2008
 - «ministre»: le membre du gouvernement ayant l’immigration dans ses attributions.
 
-<a id="art_N175CF"></a>
+<a id="art_N17983"></a>
 
 ### Art. 2.
 
@@ -3429,7 +3491,7 @@ Au sens du présent règlement grand-ducal on entend par:
 
 **(3)** La preuve à fournir par l’étudiant visé à l’article 6, paragraphe (1), point 3 de la loi qui garantit disposer de ressources suffisantes pour lui-même et le cas échéant pour les membres de sa famille, est rapportée par déclaration ou par tout autre moyen équivalent.
 
-<a id="art_N17637"></a>
+<a id="art_N179EB"></a>
 
 ### Art. 3.
 
@@ -3439,13 +3501,13 @@ Au sens du présent règlement grand-ducal on entend par:
 
 **(3)** La justification des ressources exigées se fait notamment par la présentation d'argent liquide, de chèques de voyage ou de cartes de crédit ainsi que par la présentation d'un document attestant la possibilité d'acquérir légalement les moyens nécessaires. La justification des ressources exigées peut également se faire par la production de lettres de crédit émises par un institut bancaire ou d'une attestation de prise en charge dans les cas visés par l'article 34, paragraphe (3) de la loi. Les justificatifs sont appréciés compte tenu de la durée et de l'objet du séjour.
 
-<a id="art_N176C4"></a>
+<a id="art_N17A78"></a>
 
 ### Art. 3bis.
 
 Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les ressources du titulaire de la carte bleue européenne sont évaluées par rapport à leur nature et leur régularité, ainsi que par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié. Le ministre peut tenir compte du nombre de membres que compte la famille du titulaire de la carte bleue européenne. Cette évaluation tient compte des contributions des membres de la famille aux revenus du ménage.
 
-<a id="art_N1770A"></a>
+<a id="art_N17ABE"></a>
 
 ### Art. 4.
 
@@ -3459,7 +3521,7 @@ Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les 
 
 **(3)** L’appréciation de la suffisance des ressources est fondée sur un examen individuel du cas d’espèce. Sont également pris en compte les avantages matériels dont dispose le demandeur, tels que le logement gratuit, de même que les revenus tirés de l’activité salariée exercée par l’intéressé conformément à l’article 57, paragraphe (3) de la loi.
 
-<a id="art_N1779E"></a>
+<a id="art_N17B52"></a>
 
 ### Art. 5.
 
@@ -3469,7 +3531,7 @@ Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les 
 
 **(3)** L’appréciation de la suffisance des ressources est fondée sur un examen individuel du cas d’espèce. Sont également pris en compte les avantages matériels dont dispose le demandeur, tels que le logement gratuit, de même que les revenus provenant de la convention de stage.
 
-<a id="art_N17817"></a>
+<a id="art_N17BCB"></a>
 
 ### Art. 5bis.
 
@@ -3479,7 +3541,7 @@ Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les 
 
 **(3)** L'appréciation de la suffisance des ressources est fondée sur un examen individuel du cas d'espèce. Sont également pris en compte les avantages matériels dont dispose le demandeur, tels que le logement gratuit.
 
-<a id="art_N1787F"></a>
+<a id="art_N17C33"></a>
 
 ### Art. 5ter.
 
@@ -3489,7 +3551,7 @@ Pour l’application de l’article 45-3, paragraphe 2, point 6, de la loi, les 
 
 **(3)** L’appréciation de la suffisance des ressources est fondée sur un examen individuel du cas d'espèce. Sont également pris en compte les avantages matériels dont dispose le demandeur, tels que le logement gratuit.
 
-<a id="art_N178E7"></a>
+<a id="art_N17C9B"></a>
 
 ### Art. 6.
 
@@ -3501,7 +3563,7 @@ Lorsque le niveau des ressources du demandeur n’atteint pas le niveau visé à
 
 **(2)** Pour l’appréciation des ressources visées au paragraphe (1) qui précède, sont pris en considération les revenus provenant d’une activité salariée ou indépendante, y compris les revenus de remplacement, de même que les revenus provenant du patrimoine. Outre les ressources personnelles du demandeur, sont également prises en compte les ressources du conjoint qui alimentent de manière stable le budget de la famille.
 
-<a id="art_N1798D"></a>
+<a id="art_N17D41"></a>
 
 ### Art. 7.
 
@@ -3509,7 +3571,7 @@ Pour l’application de l’article 78, paragraphe (1), point a) de la loi, les 
 
 Pour l’appréciation des ressources visées aux points b) et c) du paragraphe (1), sont prises en compte toutes les ressources du demandeur et, le cas échéant, de son conjoint ou autre membre de famille, de même qu’une prise en charge de ses frais de séjour par une tierce personne établie conformément aux prescriptions de l’article 4 de la loi. Ces ressources doivent atteindre un montant au moins égal au revenu minimum garanti et sont appréciées au regard des conditions de logement.
 
-<a id="art_N179DE"></a>
+<a id="art_N17D92"></a>
 
 ### Art. 8.
 
@@ -3521,7 +3583,7 @@ Pour l’appréciation des ressources visées aux points b) et c) du paragraphe 
 
 **(4)** Lorsque les ressources du demandeur ne sont pas suffisantes ou ne sont pas stables et régulières pour la période des cinq années précédant l’introduction de la demande, une décision favorable peut être prise par le ministre si le demandeur justifie être propriétaire de son logement ou en jouir à titre gratuit.
 
-<a id="art_N17A51"></a>
+<a id="art_N17E05"></a>
 
 ### Art. 9.
 
@@ -3531,13 +3593,13 @@ Pour l’application de l’article 69, paragraphe (1), point 2 de la loi, est c
 
 **(2)** La justification que le demandeur dispose d’un logement approprié peut notamment être apportée par tout document attestant sa qualité de propriétaire ou de locataire du logement.
 
-<a id="art_N17AB3"></a>
+<a id="art_N17E67"></a>
 
 ### Art. 10.
 
 Le présent règlement entrera en vigueur le 1er octobre 2008.
 
-<a id="art_N17AE8"></a>
+<a id="art_N17E9C"></a>
 
 ### Art. 11.
 
@@ -3545,19 +3607,19 @@ Notre Ministre délégué aux Affaires étrangères et à l’Immigration est ch
 
 #### **Version consolidée applicable au 05/07/2021 : Règlement grand-ducal du 5 septembre 2008 portant sur l'attestation de prise en charge en faveur d'un étranger prévue à l'article 4 de la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration.**
 
-<a id="art_N17B31"></a>
+<a id="art_N17EE5"></a>
 
 ### Art. 1er.
 
 L'engagement de prise en charge en faveur d'un étranger visé à l'article 4 de la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration, nommée ci-après «la loi», est souscrit au moyen d'un document conforme au modèle établi par le ministre ayant dans ses attributions les visas et l'immigration, ci-après appelé «le ministre».
 
-<a id="art_N17B6C"></a>
+<a id="art_N17F20"></a>
 
 ### Art. 2.
 
 L’engagement de prise en charge porte une signature manuscrite ou électronique. En cas de signature manuscrite, la personne qui souscrit un engagement de prise en charge, ci-après « garant », se présente à l’administration communale du lieu de sa résidence pour faire légaliser par le bourgmestre ou son délégué, au cas où les conditions de l’authentification sont remplies, sa signature apposée au bas de l’engagement de prise en charge.
 
-<a id="art_N17BAD"></a>
+<a id="art_N17F61"></a>
 
 ### Art. 3.
 
@@ -3570,13 +3632,13 @@ Le ministre vérifie si les conditions prévues à l'article 4, paragraphes (1) 
 
 Le niveau des ressources est apprécié par référence à la moyenne du taux mensuel du salaire social minimum d'un travailleur non qualifié sur une durée de douze mois et par rapport à la durée et à l'objet du séjour envisagé par le bénéficiaire de la prise en charge.
 
-<a id="art_N17C0A"></a>
+<a id="art_N17FBE"></a>
 
 ### Art. 4.
 
 Lorsqu'il avise favorablement l'engagement de prise en charge, le ministre en informe le garant et lui remet une copie de l'engagement avec mention de l'avis favorable. L'étranger en faveur duquel l'engagement est pris doit en faire usage dans les six mois à partir de la date de l'approbation du ministre.
 
-<a id="art_N17C3C"></a>
+<a id="art_N17FF0"></a>
 
 ### Art. 5.
 
@@ -3584,19 +3646,19 @@ La prise en charge prend cours à partir de l'arrivée de l'étranger sur le ter
 
 Il ne peut se désister de son engagement que si une autre personne souscrit une nouvelle prise en charge pour remplacer l'engagement qu'il avait pris ou si le bénéficiaire de la prise en charge s'est vu attribuer une autorisation de séjour à un autre titre.
 
-<a id="art_N17C89"></a>
+<a id="art_N1803D"></a>
 
 ### Art. 6.
 
 Lorsque les frais de séjour et de rapatriement visés à l'article 4, paragraphe (1) de la loi ont été supportés par l'Etat luxembourgeois, le remboursement en est poursuivi par le ministre. Les frais sont les frais réels qui découlent du séjour ou du retour. Le montant est versé au Trésor.
 
-<a id="art_N17CBB"></a>
+<a id="art_N1806F"></a>
 
 ### Art. 7.
 
 Le présent règlement entrera en vigueur le 1er octobre 2008.
 
-<a id="art_N17CF0"></a>
+<a id="art_N180A4"></a>
 
 ### Art. 8.
 
@@ -3604,13 +3666,13 @@ Notre Ministre délégué aux Affaires étrangères et à l'Immigration est char
 
 #### **Version consolidée applicable au 21/09/2018 : Règlement grand-ducal du 5 septembre 2008 fixant les conditions et modalités relatives à la délivrance d’une autorisation de séjour en tant que travailleur salarié.**
 
-<a id="art_N17D39"></a>
+<a id="art_N180ED"></a>
 
 ### Art. 1er.
 
 Toute demande en obtention d’une autorisation de séjour ou d’une autorisation de travail prévue à l’article 42 de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration, ci-après nommée «la loi», est introduite par le travailleur salarié auprès du ministre ayant l’Immigration dans ses attributions, désigné ci-après «le ministre».
 
-<a id="art_N17D85"></a>
+<a id="art_N18139"></a>
 
 ### Art. 2.
 
@@ -3627,9 +3689,9 @@ Toute demande en obtention d’une autorisation de séjour ou d’une autorisati
 
 **(3)** Sur demande, le ressortissant de pays tiers ou son futur employeur reçoivent les informations adéquates concernant les documents requis pour introduire une demande complète.
 
-<a id="art_N17E59"></a>
+<a id="art_N1820D"></a>
 
-### art_N17E59
+### art_N1820D
 
 - 
 - 
@@ -3638,49 +3700,49 @@ Toute demande en obtention d’une autorisation de séjour ou d’une autorisati
 - 
 - 
 
-<a id="art_N17ED3"></a>
+<a id="art_N18287"></a>
 
 ### Art. 3.
 
 Si les informations ou les documents fournis à l’appui de la demande sont incomplets au regard de l’article 2, le ministre précise au demandeur par écrit les informations ou les documents complémentaires requis et fixe un délai raisonnable pour la communication de ces informations ou documents.
 
-<a id="art_N17F11"></a>
+<a id="art_N182C5"></a>
 
 ### Art. 4.
 
 Le ministre peut demander à l’employeur des informations complémentaires avant la saisine de la commission consultative prévue à l’article 150 de la loi.
 
-<a id="art_N17F48"></a>
+<a id="art_N182FC"></a>
 
 ### Art. 5.
 
 Avant de prendre une décision de refus d’une autorisation de séjour pour travailleur salarié, d’une autorisation de travail ou une décision de refus de changement de secteur conformément à l’article 43, paragraphe (3) de la loi, le ministre saisit la commission et lui transmet le dossier avec tous les renseignements recueillis.
 
-<a id="art_N17F8B"></a>
+<a id="art_N1833F"></a>
 
 ### Art. 6.
 
 Le ministre peut saisir la commission en cas de demande de renouvellement d’autorisation de séjour pour travailleur salarié ou d’autorisation de travail lorsque les conditions d’octroi ne sont plus données.
 
-<a id="art_N17FBD"></a>
+<a id="art_N18371"></a>
 
 ### Art. 7.
 
 La commission transmet son avis relatif à la demande au ministre.
 
-<a id="art_N17FEF"></a>
+<a id="art_N183A3"></a>
 
 ### Art. 8.
 
 Le règlement grand-ducal modifié du 12 mai 1972 déterminant les mesures applicables pour l’emploi des travailleurs étrangers sur le territoire du Grand-Duché de Luxembourg est abrogé.
 
-<a id="art_N18026"></a>
+<a id="art_N183DA"></a>
 
 ### Art. 9.
 
 Le présent règlement entrera en vigueur le 1er octobre 2008.
 
-<a id="art_N1805B"></a>
+<a id="art_N1840F"></a>
 
 ### Art. 10.
 
@@ -3688,19 +3750,19 @@ Notre Ministre du Travail et de l’Emploi et Notre Ministre délégué aux Affa
 
 #### **Règlement grand-ducal du 5 septembre 2008 relatif à l'exercice d'une activité salariée par un étudiant, tel que prévu par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration.**
 
-<a id="art_N180A4"></a>
+<a id="art_N18458"></a>
 
 ### Art. 1er.
 
 L'étudiant ressortissant d'un pays tiers peut se faire embaucher par un employeur sur simple présentation de son titre de séjour pour «étudiant» qui l'autorise à exercer une activité salariée dans les limites de l'article 57, paragraphe (3) de la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration, ci-après nommée «la loi».
 
-<a id="art_N180BB"></a>
+<a id="art_N1846F"></a>
 
 ### Art. 2.
 
 L'employeur fait une déclaration écrite au ministre ayant l'Immigration dans ses attributions, désigné ci-après «le ministre», qui vérifie si les conditions de l'article 57, paragraphe (3) de la loi sont remplies.
 
-<a id="art_N180CB"></a>
+<a id="art_N1847F"></a>
 
 ### Art. 3.
 
@@ -3713,19 +3775,19 @@ La déclaration comprend les indications suivantes:
 
 La déclaration doit être accompagnée d'une copie du titre de séjour de l'étudiant, ainsi que d'une copie du contrat de travail.
 
-<a id="art_N180EE"></a>
+<a id="art_N184A2"></a>
 
 ### Art. 4.
 
 L'employeur est tenu de notifier au ministre tout changement relatif à la nature ou à la durée du contrat ou au nombre d'heures de travail mensuel.
 
-<a id="art_N180FE"></a>
+<a id="art_N184B2"></a>
 
 ### Art. 5.
 
 Le présent règlement entrera en vigueur le 1er octobre 2008.
 
-<a id="art_N18111"></a>
+<a id="art_N184C5"></a>
 
 ### Art. 6.
 
@@ -3733,7 +3795,7 @@ Notre Ministre délégué aux Affaires étrangères et à l'Immigration est char
 
 #### **Version consolidée applicable au 12/03/2024 : Règlement grand-ducal du 5 septembre 2008 relatif à la composition et au fonctionnement 1. de la commission consultative des étrangers; 2. de la commission consultative pour travailleurs salariés; 3. de la commission consultative pour travailleurs indépendants.**
 
-<a id="art_N18138"></a>
+<a id="art_N184EC"></a>
 
 ### Art. 1er. Définitions
 
@@ -3742,15 +3804,15 @@ Au sens du présent règlement grand-ducal on entend par:
 - loi du 29 août 2008
 - «ministre»: le membre du gouvernement ayant l’immigration dans ses attributions.
 
-<a id="art_N18186"></a>
+<a id="art_N1853A"></a>
 
-### art_N18186
+### art_N1853A
 
 - 
 - 
 - 
 
-<a id="art_N182B8"></a>
+<a id="art_N1866C"></a>
 
 ### Art. 3. De la commission consultative pour travailleurs salariés
 
@@ -3774,7 +3836,7 @@ En cas de besoin, la commission peut s’adjoindre l’expertise de représentan
 
 **(5)** La commission délibère valablement si la majorité de ses membres sont présents. Les avis sont adoptés à la majorité des voix des membres présents. En cas d’égalité des voix, celle du président est prépondérante. Les agents qui assistent la commission en tant qu’expert n’ont pas de voix délibérative.
 
-<a id="art_N18389"></a>
+<a id="art_N1873D"></a>
 
 ### Art. 4. De la commission consultative pour travailleurs indépendants
 
@@ -3794,26 +3856,26 @@ En cas de besoin la commission peut s’adjoindre l’expertise de représentant
 
 **(4)** La commission délibère valablement si la majorité de ses membres sont présents. Les avis sont adoptés à la majorité des voix des membres présents. En cas d’égalité des voix, celle du président est prépondérante. Les agents qui assistent la commission en tant qu’expert n’ont pas de voix délibérative.
 
-<a id="art_N1844A"></a>
+<a id="art_N187FE"></a>
 
-### art_N1844A
+### art_N187FE
 
 - 
 - 
 
-<a id="art_N184A5"></a>
+<a id="art_N18859"></a>
 
 ### Art. 6.
 
 Le règlement grand-ducal modifié du 28 mars 1972 relatif à la composition, l’organisation et le fonctionnement de la commission consultative en matière de police des étrangers est abrogé.
 
-<a id="art_N184DB"></a>
+<a id="art_N1888F"></a>
 
 ### Art. 7.
 
 Le présent règlement entrera en vigueur le 1er octobre 2008.
 
-<a id="art_N18510"></a>
+<a id="art_N188C4"></a>
 
 ### Art. 8.
 
@@ -3821,13 +3883,13 @@ Notre Ministre délégué aux Affaires étrangères et à l’Immigration est ch
 
 #### **Version consolidée applicable au 13/10/2022 : Règlement grand-ducal du 3 février 2009 relatif au contrôle médical des étrangers.**
 
-<a id="art_N18559"></a>
+<a id="art_N1890D"></a>
 
 ### Art. 1er.
 
 Le présent règlement a pour objet de déterminer les modalités ainsi que le contenu de l'examen médical visé aux articles 28, paragraphe (3) et 41, paragraphes (1) et (6) de la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration, ci-après «la loi» et d'énumérer certaines maladies infectieuses contagieuses.
 
-<a id="art_N18599"></a>
+<a id="art_N1894D"></a>
 
 ### Art. 2.
 
@@ -3847,7 +3909,7 @@ Le test de dépistage de la tuberculose latente prévu au point 2 de l’alinéa
 
 Des conseils et des informations sanitaires adaptés ainsi que les adresses des structures de soins et de prévention seront dispensés aux étrangers soumis à ces examens médicaux. Les étrangers seront notamment sensibilisés aux questions de prévention, de dépistage et d'accès aux soins précoces pour les maladies sexuellement transmissibles, et notamment le VIH/SIDA.
 
-<a id="art_N18632"></a>
+<a id="art_N189E6"></a>
 
 ### Art. 3.
 
@@ -3855,7 +3917,7 @@ Le médecin visé au paragraphe 1er de l'article 41 de la loi procédera aux exa
 
 A la fin de l'examen médical, il adressera le certificat sous pli fermé dans les meilleurs délais, et au plus tard dans le mois qui suit l'examen, au médecin délégué visé au paragraphe (3) de l'article 28 de la loi.
 
-<a id="art_N1867A"></a>
+<a id="art_N18A2E"></a>
 
 ### Art. 4.
 
@@ -3867,19 +3929,19 @@ L'examen médical visé à l'article 2 du présent règlement portera sur les ma
 4. Toxicomanie avérée nécessitant un traitement médical prolongé;
 5. Problème de santé en contradiction manifeste avec l'objet du séjour au Luxembourg dans le cas où le ressortissant de pays tiers ne remplit pas les conditions médicales autorisant son séjour sur le territoire, et notamment le fait d'y vouloir exercer une activité salariée.
 
-<a id="art_N186BF"></a>
+<a id="art_N18A73"></a>
 
 ### Art. 5.
 
 Le médecin délégué transmet l'avis prévu au paragraphe (3) de l'article 131 de la loi par l'intermédiaire du directeur de la Santé.
 
-<a id="art_N186F6"></a>
+<a id="art_N18AAA"></a>
 
 ### Art. 6.
 
 Le règlement grand-ducal modifié du 17 octobre 1995 relatif au contrôle médical des étrangers est abrogé.
 
-<a id="art_N1872D"></a>
+<a id="art_N18AE1"></a>
 
 ### Art. 7.
 
@@ -3889,7 +3951,7 @@ Notre Ministre de la Santé et Notre Ministre délégué aux Affaires étrangèr
 
 #### **Loi du 29 juin 1963 ayant pour objet d'approuver la Convention portant exécution des articles 55 et 56 du Traité instituant l'Union Economique Benelux, signée à Bruxelles, le 19 septembre 1960.**
 
-<a id="art_N18787"></a>
+<a id="art_N18B3B"></a>
 
 ### Article unique.
 
@@ -3897,13 +3959,13 @@ Est approuvée la Convention portant exécution des articles 55 et 56 du Traité
 
 #### **Loi du 8 juin 1968 portant approbation de la Convention européenne d'établissement, signée à Paris, le 13 décembre 1955.**
 
-<a id="art_N187B7"></a>
+<a id="art_N18B6B"></a>
 
 ### Art. 1er.
 
 Est approuvée la Convention européenne d'établissement signée à Paris, le 13 décembre 1955.
 
-<a id="art_N187CA"></a>
+<a id="art_N18B7E"></a>
 
 ### Art. 2.
 
@@ -3912,7 +3974,7 @@ Conformément à l'article 26 de la Convention, l'approbation est donnée sous l
 1. er
 2. Les dispositions de l'article 6 de la loi luxembourgeoise du 4 avril 1924 portant création des Chambres Professionnelles à base élective sont réservées quant à l'application de l'article 18 de la Convention.
 
-<a id="art_N187E6"></a>
+<a id="art_N18B9A"></a>
 
 ### Art. 3.
 
@@ -3923,7 +3985,7 @@ Conformément au paragraphe deux de l'article 12 de la Convention, l'approbation
 
 #### **Loi du 3 juillet 1992 portant approbation - de l'Accord entre les Gouvernements des Etats de l'Union économique Benelux, de la République fédérale d'Allemagne et de la République française relatif à la suppression graduelle des contrôles aux frontières communes, signé à Schengen, le 14 juin 1985 - de la Convention d'application de l'Accord de Schengen du 14 juin 1985, signée à Schengen, le 19 juin 1990 - des Protocoles d'adhésion de la République italienne, du Royaume d'Espagne et de la République portugaise à l'Accord du 14 juin 1985 - des Accords d'adhésion de la République italienne, du Royaume d'Espagne et de la République portugaise à la Convention du 19 juin 1990.**
 
-<a id="art_N18823"></a>
+<a id="art_N18BD7"></a>
 
 ### Art. 1er.
 
@@ -3951,7 +4013,7 @@ Sont approuvés
 - l'Accord d'adhésion de la République portugaise à la Convention d'application de l'Accord de Schengen du 14 juin 1985 entre les Gouvernements des Etats de l'Union économique Benelux, de la République fédérale d'Allemagne et de la République française relatif à la suppression graduelle des contrôles aux frontières communes signée à Schengen le 19 juin 1990, à laquelle a adhéré la République italienne par l'Accord signé à Paris le 27 novembre 1990
 - l'Acte final signés à Bonn, le 25 juin 1991.
 
-<a id="art_N18879"></a>
+<a id="art_N18C2D"></a>
 
 ### Art. 2.
 
@@ -3967,13 +4029,13 @@ Le Procureur Général d'Etat est désigné comme autorité compétente, conform
 
 ### **Loi du 20 mai 1953 portant approbation de la Convention relative au statut des réfugiés, signée à Genève le 28 juillet 1951.**
 
-<a id="art_N1891C"></a>
+<a id="art_N18CD0"></a>
 
 ### Art. 1er.
 
 Sont approuvés l´Acte final de la Conférence de plénipotentiaires des Nations Unies sur le statut des réfugiés et apatrides et la Convention relative au statut des réfugiés, signée à Genève le 28 juillet 1951, compte tenu de la réserve déclarée à la signature par le plénipotentiaire du Grand-Duché de Luxembourg.
 
-<a id="art_N1892F"></a>
+<a id="art_N18CE3"></a>
 
 ### Art. 2.
 
@@ -3989,19 +4051,19 @@ Toutes mesures propres à donner effet aux recommandations contenues dans l´Act
 
 ### **Règlement grand-ducal du 6 janvier 1971 portant approbation du Protocole relatif au statut des réfugiés, fait à New York, le 31 janvier 1967.**
 
-<a id="art_N19BAD"></a>
+<a id="art_N19F61"></a>
 
 ### Art. 1er.
 
 Est approuvé le Protocole relatif au statut des réfugiés, fait à New York le 31 janvier 1967.
 
-<a id="art_N19BC0"></a>
+<a id="art_N19F74"></a>
 
 ### Art. 2.
 
 Le Protocole sera publié au Mémorial pour être exécuté et observé par tous ceux que la chose concerne.
 
-<a id="art_N19BD0"></a>
+<a id="art_N19F84"></a>
 
 ### Art. 3.
 
@@ -4009,7 +4071,7 @@ Notre Ministre des Affaires Etrangères et du Commerce Extérieur est chargé de
 
 ### **Loi du 20 mai 1993 portant approbation de la Convention relative à la détermination de l'Etat responsable de l'examen d'une demande d'asile présentée dans l'un des Etats membres des Communautés Européennes, signée à Dublin, le 15 juin 1990.**
 
-<a id="art_N19BF7"></a>
+<a id="art_N19FAB"></a>
 
 ### Article unique.
 
@@ -4017,7 +4079,7 @@ Est appouvée la Convention relative à la déterminiation de l'Etat responsable
 
 ### **Loi du 11 avril 1996 portant approbation du Protocole relatif aux conséquences de l'entrée en vigueur de la Convention de Dublin sur certaines dispositions de la Convention d'application de l'Accord de Schengen, signé à Bonn, le 26 avril 1994.**
 
-<a id="art_N19C27"></a>
+<a id="art_N19FDB"></a>
 
 ### Article unique.
 
@@ -4025,7 +4087,7 @@ Est approuvé le Protocole relatif aux conséquences de l'entrée en vigueur de 
 
 ### **Règlement grand-ducal du 22 avril 1996 portant application des articles 8 et 9 de la loi du 3 avril 1996 portant création d'une procédure relative à l'examen d'une demande d'asile.**
 
-<a id="art_N19C57"></a>
+<a id="art_N1A00B"></a>
 
 ### Art. 1er.
 
@@ -4036,7 +4098,7 @@ Pour déterminer le pays tiers d'accueil les éléments indiqués ci-après doiv
 
 Au cas où le demandeur d'asile ne sera pas admis dans le pays tiers d'accueil, l'examen de la demande au niveau national sera repris.
 
-<a id="art_N19C77"></a>
+<a id="art_N1A02B"></a>
 
 ### Art. 2.
 
@@ -4044,7 +4106,7 @@ Si plusieurs pays remplissent les conditions du pays tiers d'accueil, le demande
 
 Le Grand-Duché de Luxembourg prendra en considération, notamment sur la base des indications disponibles auprès du Haut Commissariat des Nations Unies pour les Réfugiés, la pratique constatée des pays tiers, en particulier à l'égard du principe de non-refoulement, avant d'y envoyer un demandeur d'asile.
 
-<a id="art_N19C8A"></a>
+<a id="art_N1A03E"></a>
 
 ### Art. 3.
 
@@ -4052,13 +4114,13 @@ Une demande d'asile pourra être considérée comme manifestement infondée lors
 
 Lorsque le demandeur invoque la crainte d'être persécuté dans son propre pays, mais qu'il résulte des éléments et renseignements fournis que le demandeur n'a aucune raison objective de craindre des persécutions, sa demande peut être considérée comme manifestement infondée.
 
-<a id="art_N19C9D"></a>
+<a id="art_N1A051"></a>
 
 ### Art. 4.
 
 Une demande d'asile peut être considérée comme manifestement infondée lorsque le demandeur d'asile, invoquant des persécutions qui sont limitées à une zone géographique déterminée, aurait pu trouver une protection efficace dans une autre partie de son propre pays, qui lui était accessible.
 
-<a id="art_N19CAD"></a>
+<a id="art_N1A061"></a>
 
 ### Art. 5.
 
@@ -4066,7 +4128,7 @@ Une demande d'asile peut être considérée comme manifestement infondée lorsqu
 
 **2)** Le fait d'établir qu'un pays déterminé ne présente pas, en règle générale, de risques sérieux de persécution, n'entraînera cependant pas automatiquement le rejet de toute demande d'asile introduite par un ressortissant de ce pays, le principe de l'examen individuel de la demande restant acquis.
 
-<a id="art_N19CD2"></a>
+<a id="art_N1A086"></a>
 
 ### Art. 6.
 
@@ -4084,7 +4146,7 @@ Une demande d'asile peut être considérée comme manifestement infondée lorsqu
 
 **3)** Si le demandeur peut donner une explication satisfaisante relative à la fraude ou au recours abusif aux procédures en matière d'asile lui reproché, sa demande d'asile ne sera pas automatiquement rejetée.
 
-<a id="art_N19D1F"></a>
+<a id="art_N1A0D3"></a>
 
 ### Art. 7.
 
@@ -4094,7 +4156,7 @@ Notre Ministre de la justice est chargé de l'exécution du présent règlement 
 
 #### **Chapitre I.** — **Du régime de protection temporaire**
 
-<a id="art_N19D56"></a>
+<a id="art_N1A10A"></a>
 
 ### Art. 1.
 
@@ -4104,7 +4166,7 @@ Notre Ministre de la justice est chargé de l'exécution du présent règlement 
 
 **(3)** Ce même règlement grand-ducal fixe la durée de ce régime. L’application dans le temps du régime pourra être reconduite au-delà du premier terme fixé, sans que toutefois la durée totale ne puisse dépasser trois ans.
 
-<a id="art_N19D8D"></a>
+<a id="art_N1A141"></a>
 
 ### Art. 2.
 
@@ -4114,13 +4176,13 @@ Notre Ministre de la justice est chargé de l'exécution du présent règlement 
 
 **(3)** De même les personnes auxquelles s’applique le régime de protection temporaire et qui n’ont pas présenté de demande en obtention du statut de réfugié au sens de la Convention de Genève, sont informées avant l’expiration de la validité de l’attestation spécifique visée à l’article 6 de la présente loi de ce qu’elles peuvent présenter une telle demande dans le mois à partir de l’envoi de la lettre recommandée sous peine de forclusion.
 
-<a id="art_N19DCE"></a>
+<a id="art_N1A182"></a>
 
 ### Art. 3.
 
 Les bénéficiaires du régime de protection temporaire peuvent solliciter le regroupement familial au bénéfice de leur conjoint et de leurs enfants mineurs, sous le couvert du même régime.
 
-<a id="art_N19DDE"></a>
+<a id="art_N1A192"></a>
 
 ### Art. 4.
 
@@ -4128,7 +4190,7 @@ Les bénéficiaires du régime de protection temporaire peuvent solliciter le re
 
 **(2)** Les documents d’identité des personnes sollicitant le bénéfice du régime de protection temporaire sont conservés, contre récépissé, auprès du ministère de la Justice pendant la durée du régime.
 
-<a id="art_N19E05"></a>
+<a id="art_N1A1B9"></a>
 
 ### Art. 5.
 
@@ -4138,7 +4200,7 @@ Les bénéficiaires du régime de protection temporaire peuvent solliciter le re
 
 **(3)** Le bénéfice du régime de protection temporaire peut être refusé à la personne bénéficiant d’une protection similaire dans un autre pays.
 
-<a id="art_N19E41"></a>
+<a id="art_N1A1F5"></a>
 
 ### Art. 6.
 
@@ -4148,13 +4210,13 @@ Les bénéficiaires du régime de protection temporaire peuvent solliciter le re
 
 **(3)** L’adresse, de même que tout changement d’adresse subséquent sont à communiquer par l’administration communale concernée au ministère de la Justice.
 
-<a id="art_N19E7D"></a>
+<a id="art_N1A231"></a>
 
 ### Art. 7.
 
 Les bénéficiaires du régime de protection temporaire ne peuvent obtenir une autorisation de séjour au sens de la loi modifiée du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers; 3. l’emploi de la main-d’oeuvre étrangère.
 
-<a id="art_N19E92"></a>
+<a id="art_N1A246"></a>
 
 ### Art. 8.
 
@@ -4162,61 +4224,61 @@ Les bénéficiaires du régime de protection temporaire bénéficient, soit d’
 
 #### ** Chapitre II.** — **De la loi modifiée du 3 avril 1996 portant création d’une procédure relative à l’examen d’une demande d’asile**
 
-<a id="art_N19EB3"></a>
+<a id="art_N1A267"></a>
 
 ### Art. 9.
 
 L’article 1er de la loi du 3 avril 1996 précitée est modifié comme suit:Les dispositions de la présente loi s’appliquent exclusivement aux personnes qui sollicitent le statut de réfugié au sens de la Convention relative au statut des réfugiés signée à Genève, le 28 juillet 1951, et du Protocole relatif au statut des réfugiés, signé à New York, le 31 janvier 1967 (dénommés ci-après "Convention de Genève").
 
-<a id="art_N19EDD"></a>
+<a id="art_N1A291"></a>
 
 ### Art. 10.
 
 L’article 3 de la loi du 3 avril 1996 précitée est modifié comme suit:(1)Il est créé une commission consultative pour les réfugiés, dénommée ci-après la commission.(2)La commission est l’organe consultatif qui peut donner son avis dans les délais fixés par le Gouvernement sur tout projet législatif et réglementaire relatif à l’asile. Elle présente au Gouvernement toute proposition qu’elle juge utile en matière de réfugiés et notamment à l’amélioration de la situation des demandeurs d’asile. Elle transmet ses avis au ministre de la Justice.(3)Le ministre de la Justice peut soumettre à la commission pour avis un dossier individuel constitué à l’occasion d’une demande en obtention du statut de réfugié au sens de la Convention de Genève. La commission rend son avis dans un délai d’un mois à partir de sa saisine.(4)La commission est composée:d’un magistrat de l’ordre judiciaire;d’un membre désigné par le ministre de la Famille;d’un membre choisi en raison de son expérience en matière d’asile, nommé sur avis du Haut Commissariat des Nations-Unies pour les Réfugiés.Les membres de la commission sont nommés par le ministre de la Justice pour un mandat de trois ans. Leur mandat est renouvelable. Des membres suppléants peuvent être nommés.(5)La présidence de la commission est assurée par le magistrat. Un agent du ministère de la Justice assume les fonctions de secrétaire. Les réunions de la commission se tiennent à huis clos. (6)Les membres de la commission et le secrétaire ont droit à des jetons de présence, dont le montant est fixé par le Gouvernement en conseil.
 
-<a id="art_N19F74"></a>
+<a id="art_N1A328"></a>
 
 ### Art. 11.
 
 L’article 4 de la loi du 3 avril 1996 précitée est modifié comme suit:(1) Tout demandeur d’asile peut présenter sa demande, soit à la frontière, soit à l’intérieur du pays. Il a le droit d’être entendu par un agent du ministère de la Justice.(2)Toute demande d’asile est examinée dans un premier temps au regard des articles 7, 8 et 9 de la présente loi.(3)Une pièce attestant l’enregistrement de la demande est remise à chaque demandeur d’asile ayant au moins quatorze ans. Cette attestation tient lieu de pièce d’identité. Elle précise sa durée de validité qui ne sera prorogée que si elle aura été visée par l’administration communale du lieu de séjour du demandeur d’asile, visa qui comprendra l’indication de l’adresse du demandeur d’asile.(4)L’attestation ne donne pas droit à la délivrance d’un certificat de résidence. Par dérogation, l’attestation tient lieu de certificat de résidence pour les formalités requises en vue de la célébration du mariage suivant les dispositions du code civil.(5)L’attestation qui confère le droit à une aide sociale suivant des modalités à fixer par règlement grand-ducal, est à restituer au ministère de la Justice en fin de procédure.
 
-<a id="art_N19FDD"></a>
+<a id="art_N1A391"></a>
 
 ### Art. 11-1.
 
 L’article 6 de la loi du 3 avril 1996 précitée est modifié comme suit:(1)Le service de police judiciaire procède à toute vérification nécessaire à l’établissement de l’identité du demandeur d’asile. Il peut être procédé à la prise d’empruntes digitales ainsi qu’à la prise de photographies du demandeur d’asile. Il procède à une audition du demandeur d’asile et dresse un rapport. (2)Les documents d’identité, ainsi que toute autre pièce utile à l’examen de la demande d’asile, sont conservés, contre récépissé, auprès du ministère de la Justice jusqu’à l’aboutissement de la procédure.
 
-<a id="art_N1A014"></a>
+<a id="art_N1A3C8"></a>
 
 ### Art. 12.
 
 L’article 10 de la loi du 3 avril 1996 précitée est modifié comme suit:(1)La décision dans les cas visés aux articles 8 et 9 qui précèdent sera prise au plus tard dans un délai de deux mois à partir de l’introduction de la demande d’asile. Toutefois, aucune décision ne sera prise avant que le demandeur d’asile n’ait été entendu.(2)Le ministre de la Justice statue sur la demande d’asile par une décision motivée qui est communiquée par écrit au demandeur d’asile. En cas de décision négative, les informations relatives au droit de recours sont expressément mentionnées dans la décision.(3)Contre les décisions de refus, un recours en annulation est ouvert devant le tribunal administratif. Le recours doit être introduit dans un délai d’un mois à partir de la notification. Le recours a un effet suspensif. Le tribunal administratif statue dans le mois de l’introduction de la requête.(4)Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. L’appel doit être interjeté dans le délai d’un mois à partir de la notification par les soins du greffe. La Cour administrative statue dans le mois de l’introduction de l’appel. L’appel a un effet suspensif.
 
-<a id="art_N1A069"></a>
+<a id="art_N1A41D"></a>
 
 ### Art. 12-1.
 
 L’article 11 de la loi du 3 avril 1996 précitée est abrogé.
 
-<a id="art_N1A07E"></a>
+<a id="art_N1A432"></a>
 
 ### Art. 13.
 
 L’article 12 de la loi du 3 avril 1996 précitée est modifié comme suit:Le ministre de la Justice statue sur le bien-fondé de la demande d’asile par une décision motivée qui est communiquée par écrit au demandeur d’asile. En cas de décision négative, les informations relatives au droit de recours sont expressément mentionnées dans la décision.
 
-<a id="art_N1A0A0"></a>
+<a id="art_N1A454"></a>
 
 ### Art. 14.
 
 L’article 13 de la loi du 3 avril 1996 précitée est modifié comme suit:(1)Contre les décisions de refus visées à l’article 12 qui précède, un recours en réformation est ouvert devant le tribunal administratif. Le recours doit être introduit dans le délai d’un mois à partir de la notification. Le recours a un effet suspensif.(2)Contre les décisions du tribunal administratif appel peut être interjeté devant la Cour administrative. L’appel doit être interjeté dans le délai d’un mois à partir de la notification par les soins du greffe. L’appel a un effet suspensif.
 
-<a id="art_N1A0D7"></a>
+<a id="art_N1A48B"></a>
 
 ### Art. 14-1.
 
 L’article 14 de la loi du 3 avril 1996 précitée est modifié comme suit:(1)Si le statut de réfugié est refusé au titre des articles 10 ou 12 qui précèdent, le demandeur d’asile sera éloigné du territoire en conformité des dispositions de la loi modifiée du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers; 2. le contrôle médical des étrangers; 3. l’emploi de la main-d’œuvre étrangère.(2)Un éloignement ne peut avoir lieu, ni au cours de la procédure d’examen de la demande, ni pendant le délai d’introduction des recours prévus aux articles 10 et 13 qui précèdent.(3)Si l’exécution matérielle de l’éloignement s’avère impossible en raison de circonstances de fait, le ministre de la Justice peut décider de le tolérer provisoirement sur le territoire jusqu’au moment où ces circonstances de fait auront cessé.(4)Une attestation de tolérance est remise à l’intéressé. Cette pièce tient lieu de pièce d’identité. Elle précise sa durée de validité qui ne sera prorogée que si la pièce aura été visée par l’administration communale du lieu de séjour de l’intéressé, visa qui comprendra l’indication de l’adresse du demandeur d’asile. Elle ne donne pas droit à la délivrance d’un certificat de résidence. Par dérogation, l’attestation tient lieu de certificat de résidence pour les formalités requises en vue de la célébration du mariage suivant les dispositions du code civil.(5)L’attestation confère le droit à une aide sociale suivant les modalités à fixer par le règlement grand-ducal prévu à l’article 4 qui précède.
 
-<a id="art_N1A145"></a>
+<a id="art_N1A4F9"></a>
 
 ### Art. 15.
 
@@ -4224,19 +4286,19 @@ Il est inséré dans la loi du 3 avril 1996 précitée un nouvel article 15 ayan
 
 #### **Chapitre III.** — **Dispositions transitoires et finales**
 
-<a id="art_N1A192"></a>
+<a id="art_N1A546"></a>
 
 ### Art. 16.
 
 Il est inséré dans la loi du 3 avril 1996 précitée un nouvel article 24 ayant la teneur suivante:Les dossiers individuels constitués à l’occasion de demandes d’asile enregistrées par le ministre de la Justice, transmis pour examen à la commission consultative pour les réfugiés et non encore avisés par cette commission au moment de l’entrée en vigueur de la présente loi, sont retournés sans autre forme de procédure pour décision au ministre de la Justice.
 
-<a id="art_N1A1B4"></a>
+<a id="art_N1A568"></a>
 
 ### Art. 17.
 
 Il est inséré dans la loi du 3 avril 1996 précitée un nouvel article 25 ayant la teneur suivante:Le règlement grand-ducal du 22 avril 1996 portant application de l’article 3 de la loi du 3 avril 1996 portant création d’une procédure relative à l’examen d’une demande d’asile est abrogé.
 
-<a id="art_N1A1E0"></a>
+<a id="art_N1A594"></a>
 
 ### Art. 18.
 
@@ -4250,1012 +4312,29 @@ Chapitre III. - Des dispositions transitoires et finales.
 
 Les articles sont à renuméroter en conséquence.
 
-### **Version consolidée applicable au 24/12/2024 : Loi du 18 décembre 2015 1. relative à la protection internationale et à la protection temporaire; 2. modifiant - la loi modifiée du 10 août 1991 sur la profession d’avocat, - la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, - la loi du 28 mai 2009 concernant le Centre de rétention; 3. abrogeant la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection...**
-
-#### **Chapitre 1er.** — **Objet, champ d’application, définitions et compétence**
-
-<a id="art_N1A257"></a>
-
-### Art. 1er.
-
-La présente loi a pour objet d’établir les procédures d’octroi et de retrait de la protection internationale, les normes relatives aux conditions que doivent remplir les ressortissants des pays tiers ou les apatrides pour pouvoir bénéficier d’une protection internationale, à un statut uniforme pour les réfugiés et les personnes pouvant bénéficier de la protection subsidiaire et au contenu de cette protection.
-
-Elle s’applique à toutes les demandes de protection internationale présentées sur le territoire du Grand-Duché de Luxembourg, y compris à la frontière et dans les zones de transit. Elle ne s’applique pas aux demandes d’asile diplomatique ou territorial introduites auprès d’une représentation du Grand-Duché de Luxembourg.
-
-Elle a également pour objet l’octroi d’une protection temporaire en cas d’afflux massif de personnes déplacées en provenance de pays tiers qui ne peuvent rentrer dans leur pays d’origine.
-
-<a id="art_N1A29E"></a>
-
-### Art. 2.
-
-Aux fins de la présente loi, on entend par:
-
-1. convention du 28 juillet 1951
-2. demande de protection internationale: la demande de protection présentée par un ressortissant d’un pays tiers ou un apatride, qui peut être comprise comme visant à obtenir le statut de réfugié ou le statut conféré par la protection subsidiaire, le demandeur ne sollicitant pas explicitement un autre type de protection hors du champ d’application de la présente loi et pouvant faire l’objet d’une demande séparée;
-3. demandeur: tout ressortissant d’un pays tiers ou tout apatride ayant présenté une demande de protection internationale sur laquelle aucune décision finale n’a encore été prise;
-4. demandeur nécessitant des garanties procédurales spéciales: un demandeur dont l’aptitude à bénéficier des droits et à se conformer aux obligations prévus par la présente loi est limitée en raison de circonstances individuelles;
-5. décision finale: toute décision établissant si le ressortissant d’un pays tiers ou l’apatride se voit accorder le statut de réfugié ou le statut conféré par la protection subsidiaire et qui n’est plus susceptible d’un recours conformément à la présente loi, que ce recours ait ou n’ait pas pour effet de permettre à un demandeur de demeurer sur le territoire en attendant son aboutissement;
-6. réfugié: tout ressortissant d’un pays tiers ou apatride qui, parce qu’il craint avec raison d’être persécuté du fait de sa race, de sa religion, de sa nationalité, de ses opinions politiques ou de son appartenance à un certain groupe social, se trouve hors du pays dont il a la nationalité et qui ne peut ou, du fait de cette crainte, ne veut se réclamer de la protection de ce pays ou tout apatride qui, se trouvant pour les raisons susmentionnées hors du pays dans lequel il avait sa résidence habituelle, ne peut ou, du fait de cette crainte, ne veut y retourner et qui n’entre pas dans le champ d’application de l’article 45;
-7. personne pouvant bénéficier de la protection subsidiaire: tout ressortissant d’un pays tiers ou tout apatride qui ne peut être considéré comme un réfugié, mais pour lequel il y a des motifs sérieux et avérés de croire que la personne concernée, si elle était renvoyée dans son pays d’origine ou, dans le cas d’un apatride, dans le pays dans lequel il avait sa résidence habituelle, courrait un risque réel de subir les atteintes graves définies à l’article 48, l’article 50, paragraphes (1) et (2), n’étant pas applicable à cette personne, et cette personne ne pouvant pas ou, compte tenu de ce risque, n’étant pas disposée à se prévaloir de la protection de ce pays;
-8. protection internationale: le statut de réfugié et le statut conféré par la protection subsidiaire;
-9. statut de réfugié: la reconnaissance d’un ressortissant d’un pays tiers ou d’un apatride en tant que réfugié;
-10. statut conféré par la protection subsidiaire: la reconnaissance d’un ressortissant d’un pays tiers ou d’un apatride en tant que personne pouvant bénéficier de la protection subsidiaire;
-11. - le conjoint du bénéficiaire du statut de protection internationale ou son partenaire non marié engagé dans une communauté de vie reconnue par le pays d’origine de l’un des partenaires;
-- les enfants mineurs du couple visé au premier tiret ou du bénéficiaire d’une protection internationale à condition qu’ils soient non mariés sans tenir compte du fait qu’ils sont légitimes, nés hors mariage ou adoptés;
-- le père ou la mère du bénéficiaire d’une protection internationale ou tout autre adulte qui en est responsable de par le droit en vigueur au Grand-Duché de Luxembourg, lorsque ledit bénéficiaire est mineur et non marié;
-12. mineur: un ressortissant d’un pays tiers ou un apatride âgé de moins de dix-huit ans;
-13. mineur non accompagné: un mineur qui entre sur le territoire sans être accompagné d’un adulte qui est responsable de lui par le droit en vigueur au Grand-Duché de Luxembourg et tant qu’il n’est pas effectivement pris en charge par une telle personne; cette expression couvre aussi le mineur qui a été laissé seul après être entré sur le territoire;
-14. retrait de la protection internationale: la décision par laquelle le ministre ayant l’asile dans ses attributions révoque le statut de réfugié ou le statut conféré par la protection subsidiaire d’une personne, refuse de le renouveler, ou y met fin;
-15. rester au Grand-Duché de Luxembourg: le fait de rester sur le territoire, y compris à la frontière ou dans une zone de transit du Grand-Duché de Luxembourg, où la demande de protection internationale a été présentée ou est examinée;
-16. pays d’origine: le pays ou les pays dont le demandeur a la nationalité ou, s’il est apatride, le pays dans lequel il avait sa résidence habituelle;
-17. décision de retour: la décision négative du ministre déclarant illégal le séjour et imposant l’ordre de quitter le territoire;
-18. protection temporaire: une procédure de caractère exceptionnel assurant, en cas d’afflux massif ou d’afflux massif imminent de personnes déplacées en provenance de pays tiers qui ne peuvent rentrer dans leur pays d’origine, une protection immédiate et temporaire à ces personnes, notamment si le système d’asile risque également de ne pouvoir traiter cet afflux sans provoquer d’effets contraires à son bon fonctionnement, dans l’intérêt des personnes concernées et celui des autres personnes demandant une protection;
-19. Convention de Genève
-20. afflux massif: l’arrivée dans l’Union européenne d’un nombre important de personnes déplacées, en provenance d’un pays ou d’une zone géographique déterminés, que leur arrivée dans l’Union européenne soit spontanée ou organisée, par exemple dans le cadre d’un programme d’évacuation.
-
-<a id="art_N1A328"></a>
-
-### Art. 3.
-
-**(1)** Le ministre ayant l’asile dans ses attributions, ci-après «le ministre», est pour toutes les procédures l’autorité responsable de la détermination chargée de procéder à un examen approprié des demandes conformément aux dispositions de la présente loi et compétent pour se prononcer en première instance sur ces demandes.
-
-**(2)** Les agents du ministre reçoivent une formation pertinente conformément au règlement UE n° 439/2010 du 19 mai 2010 portant création d’un Bureau européen d’appui en matière d’asile.
-
-Les agents qui interrogent les demandeurs dans le cadre de la présente loi doivent en outre avoir une connaissance générale des problèmes qui pourraient nuire à la capacité des demandeurs d’être interrogés, en particulier des éléments selon lesquels le demandeur peut avoir été soumis à la torture dans le passé.
-
-La demande d’un mineur non accompagné est traitée par un agent possédant les connaissances nécessaires sur les besoins particuliers des mineurs.
-
-**(3)** Les demandes de protection internationale présentées aux autorités d’un autre Etat membre effectuant des contrôles aux frontières ou des contrôles d’immigration sont traitées par le ministre si la demande est présentée sur le territoire luxembourgeois.
-
-#### **Chapitre 2**. — **De la procédure relative à l’octroi et au retrait d’une demande de protection internationale**
-
-##### Section 1. — Principes de base et garanties fondamentales
-
-<a id="art_N1A3B3"></a>
-
-### Art. 4.
-
-**(1)** Lorsqu’une personne présente une demande de protection internationale au ministre, l’enregistrement a lieu au plus tard trois jours ouvrables après la présentation de la demande. Si la demande de protection internationale est présentée à un agent du Service de contrôle à l’aéroport, de la Police grand-ducale, du centre de rétention ou des centres pénitentiaires, l’enregistrement a lieu au plus tard six jours ouvrables après la présentation de la demande.
-
-Lorsque, en raison du nombre élevé de ressortissants de pays tiers ou d’apatrides qui demandent simultanément une protection internationale, il est dans la pratique très difficile de respecter les délais prévus à l’alinéa qui précède, le délai de l’enregistrement peut être porté à dix jours ouvrables.
-
-**(2)** Les agents visés au paragraphe (1) reçoivent de la part du ministre les informations pertinentes et une formation à un niveau nécessaire à l’accomplissement de leurs tâches et responsabilités ainsi que des instructions, pour qu’ils puissent fournir aux demandeurs des informations permettant de savoir où et comment la demande de protection internationale peut être introduite.
-
-<a id="art_N1A405"></a>
-
-### Art. 5.
-
-**(1)** Toute personne majeure jouissant de la capacité juridique a le droit de présenter une demande de protection internationale en son nom.
-
-**(2)** Une demande peut être présentée par un demandeur pour le compte des personnes à sa charge. Dans ce cas, les personnes majeures à charge doivent consentir à ce que la demande soit introduite en leur nom. Le consentement est requis au moment où la demande est introduite ou, au plus tard, au moment de l’entretien personnel avec la personne majeure à charge. Avant la demande de consentement, chaque personne majeure à charge est informée en privé des conséquences procédurales pertinentes de l’introduction d’une demande en son nom et de son droit de présenter une demande de protection distincte.
-
-**(3)** Le mineur non émancipé a le droit de présenter une demande de protection internationale par l’intermédiaire de ses parents ou de tout autre membre adulte de sa famille, ou d’une personne adulte exerçant l’autorité parentale sur lui, ou par l’intermédiaire d’un administrateur ad hoc.
-
-**(4)** Le mineur non accompagné a le droit de présenter une demande de protection internationale, soit en son nom soit par l’intermédiaire d’un représentant prévu à l’article 20. Sans préjudice de l’article 20, paragraphe (3), la demande est introduite par le représentant, en présence du mineur.
-
-L’administrateur ad hoc qui assiste le mineur non accompagné dans le cadre des procédures administratives et juridictionnelles relatives à l’entrée et le séjour sur le territoire conformément à la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, a le droit d’introduire une demande de protection internationale pour le compte d’un mineur non accompagné si, sur la base d’une appréciation spécifique de la situation particulière de ce dernier, il estime que le mineur peut avoir besoin d’une protection internationale.
-
-<a id="art_N1A47C"></a>
-
-### Art. 6.
-
-**(1)** Après la présentation d’une demande de protection internationale et de son enregistrement subséquent, le demandeur est convoqué dans les meilleurs délais pour introduire sa demande et celle des personnes visées à l’article 5, paragraphes (2) et (3).
-
-**(2)** La demande de protection internationale est introduite auprès du ministre en présence de toutes les personnes concernées.
-
-Une demande de protection internationale est réputée introduite à partir du moment où le demandeur présente le formulaire prévu à cette fin.
-
-Si le demandeur n’introduit pas sa demande, il est présumé avoir implicitement retiré sa demande ou y avoir implicitement renoncé par application de l’article 23.
-
-**(3)** Il est procédé à la détermination de l’Etat responsable en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une protection internationale introduite dans l’un des Etats membres par un ressortissant de pays tiers ou un apatride.
-
-Un membre du cadre policier de la Police grand-ducale procède à toute vérification nécessaire à l’établissement de l’identité et de l’itinéraire de voyage du demandeur. Conformément au règlement (UE) n° 603/2013 du Parlement européen et du Conseil du 26 juin 2013 relatif à la création d’Eurodac pour la comparaison des empreintes digitales aux fins de l’application efficace du règlement (UE) n° 604/2013 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des Etats membres par un ressortissant de pays tiers ou un apatride et relatif aux demandes de comparaison avec les données d’Eurodac présentées par les autorités répressives des Etats membres et Europol à des fins répressives, et modifiant le règlement (UE) n° 1077/2011 portant création d’une agence européenne pour la gestion opérationnelle des systèmes d’information à grande échelle au sein de l’espace de liberté, de sécurité et de justice, il relève les empreintes digitales du demandeur, procède à la prise de photographies et dresse un rapport.
-
-<a id="art_N1A510"></a>
-
-### Art. 7.
-
-**(1)** Dans un délai de trois jours à compter de l’introduction de sa demande de protection internationale, le demandeur reçoit un document délivré à son nom attestant son statut de demandeur et son droit de rester sur le territoire du Grand-Duché de Luxembourg et d’y circuler librement.
-
-Ce droit de rester sur le territoire ne constitue pas un droit à un titre de séjour.
-
-**(2)** L’attestation précise sa durée de validité et elle est prorogeable aussi longtemps que le demandeur est autorisé à séjourner sur le territoire en vertu des dispositions de l’article 9 et de l’article 36.
-
-L’attestation n’est pas délivrée au demandeur qui est maintenu en rétention. Si le titulaire est assigné à résidence, le document atteste de ce fait.
-
-<a id="art_N1A56B"></a>
-
-### Art. 8.
-
-**(1)** S’il existe des éléments donnant à penser que des ressortissants de pays tiers ou des apatrides placés en rétention dans le centre de rétention ou présents à des points de passage frontaliers, y compris les zones de transit aux frontières extérieures, peuvent souhaiter présenter une demande de protection internationale, des informations sur la possibilité de le faire leur sont fournies. Pour faciliter l’accès à la procédure d’asile, des dispositions en matière d’interprétation sont prises dans la mesure du nécessaire.
-
-**(2)** Les organisations et les personnes agréées par le ministre pour fournir des conseils et des orientations aux demandeurs d’une protection internationale, ont accès aux personnes présentes aux points de passage frontaliers, y compris aux zones de transit, aux frontières extérieures, à condition de remplir les conditions d’accès à l’aéroport de Luxembourg et de se soumettre aux contrôles de sûreté y applicables.
-
-Des restrictions à cet accès ne peuvent être imposées que, lorsqu’elles sont objectivement nécessaires à la sécurité, l’ordre public ou la gestion administrative des points de passage et pour autant qu’elles ne restreignent pas considérablement l’accès ou même le rendent impossible.
-
-<a id="art_N1A5BD"></a>
-
-### Art. 9.
-
-**(1)** Les demandeurs sont autorisés à rester au Grand-Duché de Luxembourg, aux seules fins de la procédure, jusqu’à ce qu’une décision du ministre soit intervenue.
-
-**(2)** Par exception au paragraphe (1), il est dérogé au droit de rester sur le territoire:
-
-1. lorsqu’une personne peut être livrée à ou extradée, le cas échéant, vers, soit un autre Etat membre de l’Union européenne en vertu des obligations découlant d’un mandat d’arrêt européen ou pour d’autres raisons, soit un pays tiers, soit une cour ou un tribunal pénal(e) international(e);
-2. lorsqu’une personne n’a introduit une première demande ultérieure considérée comme irrecevable, qu’afin de retarder ou d’empêcher l’exécution d’une décision qui entraînerait son éloignement imminent du territoire;
-3. lorsqu’une personne présente une autre demande ultérieure de protection internationale à la suite de l’adoption d’une décision finale déclarant une première demande ultérieure irrecevable ou à la suite d’une décision finale rejetant cette demande comme infondée.
-
-**(3)** Avant d’extrader un demandeur vers un pays tiers, le ministre doit s’assurer que la décision d’extradition ou la décision de retour n’entraînera pas de refoulement direct ou indirect en violation des obligations internationales et des obligations à l’égard de l’Union européenne.
-
-<a id="art_N1A624"></a>
-
-### Art. 10.
-
-**(1)** L’examen d’une demande de protection internationale n’est ni refusé ni exclu au seul motif que la demande n’a pas été présentée dans les plus brefs délais.
-
-**(2)** Lors de l’examen d’une demande de protection internationale, le ministre détermine d’abord si le demandeur remplit les conditions d’octroi du statut de réfugié et, si tel n’est pas le cas, détermine si le demandeur remplit les conditions pour pouvoir bénéficier de la protection subsidiaire.
-
-**(3)** Le ministre fait en sorte que les décisions sur les demandes de protection internationale soient prises à l’issue d’un examen approprié. A cet effet, il veille à ce que:
-
-1. les demandes soient examinées et les décisions soient prises individuellement, objectivement et impartialement;
-2. des informations précises et actualisées soient obtenues auprès de différentes sources, telles que le Bureau européen d’appui en matière d’asile (BEAA) et le Haut Commissariat des Nations Unies pour les réfugiés (HCR), ainsi que les organisations internationales compétentes en matière de droits de l’homme, sur la situation générale existant dans les pays d’origine des demandeurs et, le cas échéant, dans les pays par lesquels les demandeurs ont transité, et à ce que le personnel chargé d’examiner les demandes et de prendre les décisions ait accès à ces informations;
-3. les agents chargés d’examiner les demandes et de prendre les décisions connaissent les normes applicables en matière d’asile et de droit des réfugiés;
-4. les agents chargés d’examiner les demandes et de prendre les décisions aient la possibilité de demander conseil à des experts, le cas échéant, sur des matières particulières comme les questions médicales, culturelles, religieuses, ou celles liées aux enfants ou au genre.
-
-**(4)** Les juridictions saisies d’un recours en vertu de la présente loi, ont accès, par le biais du ministre, du demandeur ou autrement, aux informations générales visées au paragraphe 3, point b), nécessaires à l’accomplissement de leur mission.
-
-**(5)** A l’exception des documents d’identité, tout document remis au ministre rédigé dans une autre langue que l’allemand, le français ou l’anglais doit être accompagné d’une traduction dans une de ces langues, afin d’être pris en considération dans l’examen de la demande de protection internationale.
-
-<a id="art_N1A6AE"></a>
-
-### Art. 11.
-
-**(1)** Le demandeur est informé dans une langue qu’il comprend ou dont il est raisonnable de supposer qu’il la comprend, de la procédure à suivre et de ses droits et obligations au cours de la procédure ainsi que des conséquences que pourrait avoir le non-respect de ses obligations ou le refus de coopérer avec le ministre. Il est informé du calendrier, des moyens dont il dispose pour remplir l’obligation de présenter les éléments visés à l’article 37, paragraphe (2), ainsi que des conséquences d’un retrait explicite ou implicite de la demande. Ces informations sont communiquées au demandeur à temps pour lui permettre d’exercer les droits et de remplir les obligations découlant de son statut de demandeur.
-
-**(2)** Le demandeur bénéficie, en tant que de besoin, des services d’un interprète à titre gratuit pour présenter ses arguments durant la procédure d’examen et durant les procédures de recours.
-
-Les services d’un interprète sont fournis lorsque le demandeur est interrogé selon les modalités visées aux articles 13, 14 et 15 et lorsqu’il n’est pas possible de garantir une communication adéquate sans ces services.
-
-**(3)** Le demandeur a le droit de communiquer avec les organisations visées à l’article 24. Sans préjudice de l’article 17, il a le droit de consulter, à ses frais, un avocat sur des questions touchant à sa demande de protection internationale, à toutes les étapes de la procédure, y compris à la suite d’une décision négative.
-
-**(4)** Le demandeur et, le cas échéant, son avocat ont accès aux informations visées à l’article 10, paragraphe (3), point b) et aux informations communiquées par les experts visées à l’article 10, paragraphe (3), point d), lorsque le ministre a tenu compte de ces informations pour prendre une décision relative à leur demande.
-
-<a id="art_N1A720"></a>
-
-### Art. 12.
-
-**(1)** Le demandeur a l’obligation de coopérer avec le ministre en vue d’établir son identité et les autres éléments visés à l’article 37, paragraphe (2). Il doit remettre ses documents d’identité, ainsi que toute autre pièce utile à l’examen de la demande de protection internationale, aussi rapidement que possible. Ces pièces sont conservées, contre récépissé, auprès du ministre.
-
-Les pièces sont restituées au demandeur si le statut de réfugié ou le statut conféré par la protection subsidiaire lui est accordé. Si le statut de réfugié et le statut conféré par la protection subsidiaire lui sont refusés, elles lui sont restituées au moment où il est éloigné du territoire. Par exception de ce qui précède, les titres de voyage et titres d’identité ne sont pas restitués aux bénéficiaires du statut de réfugié.
-
-**(2)** Le demandeur a l’obligation de répondre personnellement aux convocations du ministre. Les agents du ministre peuvent enregistrer les déclarations faites oralement par le demandeur, à condition que ce dernier en ait été préalablement informé.
-
-Le demandeur peut être soumis à un test linguistique. Il peut être procédé à une prise de photographies.
-
-**(3)** Le demandeur est tenu de faire dans les huit jours suivant l’introduction de sa demande de protection internationale une déclaration d’arrivée auprès de la commune dans laquelle il établit sa résidence habituelle. Tout changement de résidence à l’intérieur de la commune ou le transfert de la résidence habituelle dans une autre commune, doit être déclaré auprès de la commune de la nouvelle résidence.
-
-Pour les besoins de la procédure, le demandeur peut élire domicile auprès de son mandataire et communiquer le domicile élu au ministre. Toute modification du domicile élu doit être communiquée au ministre contre récépissé.
-
-Le demandeur devra accepter de recevoir toute communication au lieu de sa résidence habituelle ou, le cas échéant, au domicile élu. Sans préjudice d’une notification à personne, toute notification est réputée valablement faite trois jours après l’envoi sous pli recommandé à la poste soit au lieu de la résidence habituelle soit au domicile élu.
-
-A défaut de résidence habituelle connue ou d’élection de domicile, le demandeur est réputé avoir élu domicile au ministère et le ministre procède à une notification par affichage public. A cette fin, un avis est affiché au ministère pendant une durée de trente jours. L’affichage de l’avis par le ministre est constaté par le service de police judiciaire. L’avis mentionne la date de l’affichage et la nature de l’acte à notifier. Il indique en outre l’endroit où le demandeur peut se faire remettre l’acte. La notification est réputée valablement faite trente jours après le premier jour de l’affichage public.
-
-**(4)** Sauf exception accordée par le ministre, le demandeur a l’obligation de demeurer sur le territoire.
-
-**(5)** Le service de police judiciaire peut procéder en cas de nécessité à une fouille corporelle du demandeur et une fouille des objets qu’il transporte. Sans préjudice de toute fouille effectuée pour des raisons de sécurité, la fouille sur la personne du demandeur est effectuée par une personne du même sexe, dans le plein respect des principes de dignité humaine et d’intégrité physique et psychologique. Tout objet utile à l’examen de la demande peut être retenu contre récépissé.
-
-<a id="art_N1A7C6"></a>
-
-### Art. 13.
-
-**(1)** Avant que le ministre ne prenne une décision sur la recevabilité d’une demande de protection internationale, le demandeur est autorisé à exposer son point de vue concernant l’application des motifs visés à l’article 28, paragraphe (2) à sa situation particulière. A cette fin, et sans préjudice de l’entretien individuel prévu à l’article 5 du règlement UE n° 604/2013, un entretien personnel sur la recevabilité de la demande est mené par un agent du ministre, sauf l’exception prévue à l’article 32 dans le cas d’une demande ultérieure.
-
-**(2)** Le demandeur a le droit à un entretien personnel sur le fond de sa demande de protection internationale avec un agent du ministre, sans préjudice des articles 28 et 32.
-
-Il se présente à l’entretien et répond personnellement aux questions qui lui sont posées par l’agent du ministre, qui mène l’entretien. Il peut se faire accompagner par un avocat qui, à la fin de l’entretien, a la possibilité de formuler des observations.
-
-L’absence d’un avocat n’empêche pas les agents du ministre de mener un entretien personnel avec le demandeur, sans préjudice de l’article 20.
-
-**(3)** Lorsqu’une personne a introduit une demande de protection internationale au nom des personnes à sa charge, chaque personne majeure à charge a la possibilité de participer à un entretien personnel.
-
-**(4)** L’entretien personnel sur le fond de la demande peut ne pas avoir lieu lorsque:
-
-1. le ministre est en mesure de prendre une décision positive relative au statut de réfugié sur la base des éléments de preuve disponibles; ou
-2. le ministre estime que le demandeur n’est pas en état ou en mesure d’être interrogé en raison de circonstances durables indépendantes de sa volonté. En cas de doute, il consulte un professionnel de santé pour déterminer si les circonstances qui font que le demandeur n’est pas en état ou en mesure de participer à un entretien revêtent un caractère temporaire ou permanent.
-
-**(5)** L’absence d’entretien personnel n’empêche pas le ministre de se prononcer sur une demande de protection internationale. Indépendamment de l’article 23, paragraphe (2), lorsque le ministre se prononce sur une demande de protection internationale, il peut tenir compte du fait que le demandeur ne s’est pas présenté à l’entretien personnel, sauf s’il avait de bonnes raisons de ne pas se présenter.
-
-Lorsqu’aucun entretien personnel n’est mené en application du paragraphe (4), point b), des efforts raisonnables sont déployés pour permettre au demandeur ou, le cas échéant, avec la personne à charge de fournir davantage d’informations. Dans ce cas, l’absence d’entretien personnel n’influe pas dans un sens défavorable sur la décision du ministre.
-
-<a id="art_N1A86A"></a>
-
-### Art. 14.
-
-**(1)** L’entretien a normalement lieu hors de la présence des membres de la famille, à moins que le ministre ne juge que la présence d’autres membres de la famille est nécessaire pour procéder à un examen adéquat.
-
-**(2)** L’entretien a lieu dans des conditions garantissant dûment la confidentialité.
-
-**(3)** Le ministre fait en sorte que l’entretien soit mené dans des conditions qui permettent au demandeur d’exposer l’ensemble des motifs de sa demande.
-
-A cet effet, le ministre:
-
-1. veille à ce que la personne chargée de mener l’entretien soit compétente pour tenir compte de la situation personnelle et générale dans laquelle s’inscrit la demande, notamment l’origine culturelle, le genre ou l’orientation sexuelle, l’identité de genre ou la vulnérabilité du demandeur;
-2. fait en sorte, dans la mesure du possible, que l’entretien avec le demandeur soit mené par une personne du même sexe si le demandeur en fait la demande à moins que le ministre ait une raison de penser que cette demande est fondée sur des motifs qui ne sont pas liés à des difficultés de la part du demandeur d’exposer l’ensemble des motifs de sa demande;
-3. choisit un interprète capable d’assurer une communication appropriée entre le demandeur et la personne qui mène l’entretien. La communication a lieu dans la langue pour laquelle le demandeur a manifesté une préférence sauf s’il existe une autre langue qu’il comprend et dans laquelle il est à même de communiquer clairement. Dans la mesure du possible, un interprète du même sexe est fourni au demandeur s’il en fait la demande, à moins que le ministre ait des raisons de penser que cette demande est fondée sur des motifs qui ne sont pas liés à des difficultés de la part du demandeur d’exposer l’ensemble des motifs de sa demande;
-4. veille à ce que la personne qui mène l’entretien sur le fond de la demande de protection internationale ne porte pas d’uniforme militaire ou d’uniforme des services répressifs;
-5. veille à ce que les entretiens avec les mineurs soient menés d’une manière adaptée aux enfants par un agent possédant les connaissances nécessaires sur les besoins particuliers des mineurs.
-
-<a id="art_N1A8E0"></a>
-
-### Art. 15.
-
-**(1)** Lors de l’entretien personnel sur le fond d’une demande de protection internationale, le ministre veille à ce que le demandeur ait la possibilité concrète de présenter les éléments nécessaires pour étayer sa demande de manière aussi complète que possible, conformément à l’article 37. Cela inclut la possibilité de fournir une explication concernant les éléments qui pourraient manquer et toute incohérence ou contradiction dans les déclarations du demandeur.
-
-**(2)** Le ministre veille à ce que chaque entretien fasse l’objet d’un rapport détaillé et factuel contenant tous les éléments essentiels de la demande. A la fin de l’entretien, le demandeur a la possibilité de faire des commentaires ou d’apporter des précisions soit oralement soit par écrit concernant toute erreur de traduction ou tout malentendu dans le rapport.
-
-**(3)** Le demandeur est invité à confirmer que le contenu du rapport reflète correctement l’entretien. En cas de refus de cette confirmation, les motifs du refus sont consignés dans le dossier du demandeur. Un tel refus n’empêche pas le ministre de prendre une décision sur la demande.
-
-**(4)** Si l’entretien personnel mené avec le demandeur fait l’objet d’un enregistrement audio ou audiovisuel, une transcription de l’enregistrement est versée au dossier du demandeur.
-
-Dans ce cas, le demandeur n’est pas tenu de confirmer le contenu de la transcription, néanmoins il a la possibilité de faire parvenir par écrit des commentaires ou d’apporter des précisions au plus tard dans la huitaine suivant la transcription de l’enregistrement.
-
-<a id="art_N1A952"></a>
-
-### Art. 16.
-
-**(1)** Si le ministre le juge pertinent pour procéder à l’évaluation d’une demande de protection internationale conformément à l’article 37 de la loi, il prend les mesures nécessaires pour que le demandeur qui y consent, soit soumis à un examen médical portant sur des signes de persécutions ou d’atteintes graves qu’il aurait subies dans le passé. L’examen médical est réalisé aux frais de l’Etat par un médecin désigné par le ministre et les résultats sont communiqués au ministre dans les meilleurs délais. Pour l’identification et la documentation des signes de torture ou d’autres formes graves de violence physique ou psychologique, y compris les violences sexuelles, l’examen médical prendra en compte le «Manuel pour enquêter efficacement sur la torture et autres peines ou traitements cruels, inhumains ou dégradants» arrêté par le Protocole d’Istanbul de 1999.
-
-Le fait qu’un demandeur refuse de se soumettre à cet examen médical n’empêche pas le ministre de prendre une décision sur la demande de protection internationale.
-
-**(2)** Si aucun examen médical n’est réalisé conformément au paragraphe (1), le demandeur est informé qu’il peut, de sa propre initiative et à ses propres frais, prendre les mesures nécessaires pour se soumettre à un examen médical portant sur des signes de persécutions ou d’atteintes graves qu’il aurait subies dans le passé.
-
-**(3)** Les résultats des examens médicaux visés aux paragraphes (1) et (2) sont évalués par le ministre parallèlement aux autres éléments de la demande.
-
-<a id="art_N1A9C0"></a>
-
-### Art. 17.
-
-**(1)** Dans le cadre des procédures visées au chapitre 2, section 2 et des procédures de recours prévues au chapitre 2, section 4, ainsi que dans le cadre des recours contre le placement en rétention visés à l’article 22, paragraphe (6), le demandeur a le droit de se faire assister sur demande, et dans les procédures de recours de se faire représenter, à titre gratuit par un avocat désigné par le Bâtonnier de l’Ordre des avocats dans les conditions et selon les modalités prévues à l’article 37-1 de la loi modifiée du 10 août 1991 sur la profession d’avocat, sauf si le recours du demandeur est considéré comme n’ayant pas de perspectives tangibles de succès.
-
-**(2)** L’assistance juridique et la représentation gratuites sont accordées uniquement dans le cadre des procédures visées au paragraphe (1), à l’exclusion de tout autre recours juridictionnel ou administratif.
-
-L’assistance juridique et la représentation gratuites ne sont pas accordées au demandeur qui n’est plus sur le territoire en application de l’article 9, paragraphe (2), points b) et c).
-
-<a id="art_N1AA17"></a>
-
-### Art. 18.
-
-Le ministre veille à ce que l’avocat qui assiste et représente le demandeur ait accès aux informations versées au dossier du demandeur sur la base duquel une décision est prise ou le sera.
-
-Lorsque la divulgation d’informations ou de leurs sources compromet la sécurité nationale, la sécurité des organisations ou des personnes ayant fourni les informations ou celle des personnes auxquelles elles se rapportent, ou lorsque cela serait préjudiciable à l’enquête liée à l’examen d’une demande de protection internationale ou aux relations internationales, l’accès à ces informations ou sources est réservé aux juridictions saisies d’un recours. Néanmoins, afin de préserver les droits de la défense du demandeur, la substance des informations, pour autant qu’elles soient pertinentes aux fins de l’examen de la demande ou de la décision de retirer la protection internationale, est communiquée à l’avocat d’une manière qui tient compte de la confidentialité nécessaire.
-
-<a id="art_N1AA52"></a>
-
-### Art. 19.
-
-**(1)** Suite à la présentation d’une demande de protection internationale, le ministre est chargé de procéder dans un délai raisonnable et avant qu’une décision ne soit prise en première instance, à une évaluation des garanties procédurales spéciales qui peuvent s’avérer nécessaires pour certains demandeurs du fait notamment de leur âge, de leur sexe, de leur orientation sexuelle ou de leur identité de genre, d’un handicap, d’une maladie grave, de troubles mentaux, ou de conséquences de tortures, de viols ou d’autres formes graves de violence psychologique, physique ou sexuelle. Cette évaluation peut également se faire par l’Office luxembourgeois de l’accueil et de l’intégration (OLAI) dans le cadre de l’examen de vulnérabilité du demandeur afin de déterminer le cas échéant ses besoins particuliers en matière d’accueil. Les informations recueillies concernant les garanties procédurales spéciales sont transmises par l’OLAI, avec l’accord du demandeur, au ministre.
-
-**(2)** Pour l’évaluation des garanties procédurales spéciales, le ministre a la possibilité de demander conseil à un professionnel de santé tel que visé à l’article 16 ou à un autre expert.
-
-**(3)** Lorsqu’un demandeur a été identifié comme étant un demandeur nécessitant des garanties procédurales spéciales, il se voit accorder un soutien adéquat, et notamment du temps suffisant, afin de créer les conditions requises pour que le demandeur ait effectivement accès aux procédures et pour qu’il puisse présenter les éléments nécessaires pour étayer sa demande. Si dans le cadre de la procédure accélérée visée à l’article 27 un tel soutien adéquat ne peut être fourni au demandeur nécessitant des garanties procédurales spéciales et notamment au demandeur nécessitant des garanties procédurales spéciales parce qu’il est victime de torture, de viol ou d’une autre forme grave de violence psychologique, physique ou sexuelle, cette procédure n’est pas appliquée.
-
-**(4)** Le besoin de garanties procédurales spéciales est également pris en compte lorsqu’un tel besoin apparaît à un stade ultérieur de la procédure, sans qu’il faille nécessairement recommencer celle-ci.
-
-<a id="art_N1AABB"></a>
-
-### Art. 20.
-
-**(1)** Afin de garantir l’intérêt supérieur de l’enfant, le mineur non accompagné se voit désigner, dès que possible un représentant, à savoir une personne ou une organisation désignée par le juge aux affaires familiales en tant qu’administrateur ad hoc afin de l’assister et de le représenter au cours des procédures relatives à sa demande de protection internationale et, le cas échéant, d’accomplir des actes juridiques en son nom, et en sera informé immédiatement. Lorsqu’une organisation est désignée comme représentant, elle désigne une personne chargée de s’acquitter des obligations de représentation à l’égard du mineur non accompagné.
-
-**(2)** L’administrateur ad hoc a la possibilité d’informer le mineur non accompagné du sens et des éventuelles conséquences de l’entretien personnel et, le cas échéant, de lui indiquer comment se préparer à celui-ci. L’administrateur ad hoc ou l’avocat assiste à cet entretien et est autorisé à poser des questions ou formuler des observations dans le cadre fixé par l’agent chargé de mener l’entretien. Le mineur non accompagné doit être personnellement présent lors de l’entretien même si l’administrateur ad hoc ou l’avocat est présent.
-
-**(3)** Le ministre peut s’abstenir à faire désigner un administrateur ad hoc au mineur non accompagné qui atteindra selon toute vraisemblance, l’âge de dix-huit ans avant qu’une décision ne soit prise par le ministre. Dans ce cas, le mineur non accompagné peut introduire la demande en son nom.
-
-**(4)** Le ministre peut ordonner des examens médicaux afin de déterminer l’âge du mineur non accompagné lorsqu’il a des doutes à ce sujet après avoir pris connaissance de déclarations générales ou de tout autre élément pertinent.
-
-Si, par la suite, des doutes sur l’âge du demandeur persistent, il est présumé que le demandeur est un mineur.
-
-**(5)** Lorsque le ministre fait procéder à des examens médicaux, il veille à ce que:
-
-1. le mineur non accompagné soit informé, préalablement à l’examen de sa demande de protection internationale et dans une langue qu’il comprend, ou dont il est raisonnable de supposer qu’il la comprend, de la possibilité qu’il ait à subir un examen médical visant à déterminer son âge. Cela comprend notamment des informations sur la méthode d’examen et les conséquences possibles des résultats de cet examen médical pour l’examen de la demande de protection internationale, ainsi que sur les conséquences qu’entraînerait le refus du mineur non accompagné de subir un tel examen médical;
-2. le mineur non accompagné ou son représentant consent à un examen médical afin de déterminer l’âge du mineur concerné;
-3. la décision de rejet de la demande de protection internationale d’un mineur non accompagné qui a refusé de se soumettre à un examen médical ne soit pas exclusivement fondée sur ce refus.
-
-Le fait qu’un mineur non accompagné ait refusé de se soumettre à un examen médical n’empêche pas le ministre de se prononcer sur la demande de protection internationale.
-
-<a id="art_N1AB60"></a>
-
-### Art. 21.
-
-**(1)** Compte tenu de l’intérêt supérieur de l’enfant, le mineur non accompagné n’est soumis à une procédure accélérée conformément à l’article 27, que:
-
-1. s’il est originaire d’un pays qui satisfait aux critères requis pour être considéré comme un pays d’origine sûr au sens de l’article 30; ou
-2. s’il a présenté une demande ultérieure de protection internationale qui n’est pas irrecevable conformément à l’article 32; ou
-3. s’il existe de sérieuses raisons de considérer qu’il représente un danger pour la sécurité nationale ou l’ordre public, ou a fait l’objet d’une décision d’éloignement forcé pour des motifs graves de sécurité nationale ou d’ordre public.
-
-**(2)** La demande d’un mineur non accompagné peut être considérée comme irrecevable conformément à l’article 28, paragraphe (2), point c), si un pays qui n’est pas un Etat membre est considéré comme un pays tiers sûr pour le demandeur en vertu de l’article 31, pour autant que l’intérêt supérieur du mineur l’exige.
-
-<a id="art_N1ABB7"></a>
-
-### Art. 22.
-
-**(1)** On entend par rétention, toute mesure d’isolement d’un demandeur dans un lieu déterminé où le demandeur est privé de sa liberté de mouvement.
-
-Le placement en rétention est effectué au Centre de rétention créé par la loi du 28 mai 2009 concernant le Centre de rétention.
-
-Les mineurs ne peuvent être placés en rétention qu’à titre de mesure de dernier ressort et après qu’il a été établi que d’autres mesures moins coercitives ne peuvent être appliquées efficacement. Ce placement en rétention doit être d’une durée la plus brève possible.
-
-Les mineurs non accompagnés ne peuvent être placés en rétention que dans des circonstances exceptionnelles.
-
-Tout est mis en œuvre pour placer les mineurs dans des lieux d’hébergement appropriés. Il est tenu compte de l’intérêt supérieur de l’enfant.
-
-**(2)** Un demandeur ne peut être placé en rétention que:
-
-1. pour établir ou vérifier son identité ou sa nationalité;
-2. pour déterminer les éléments sur lesquels se fonde la demande de protection internationale qui ne pourraient pas être obtenus sans un placement en rétention, en particulier lorsqu’il y a risque de fuite du demandeur;
-3. lorsque la protection de la sécurité nationale ou de l’ordre public l’exige;
-4. règlement (UE) n° 604/2013 1. si le demandeur s’est précédemment soustrait, dans un autre État membre, à la détermination de l’État responsable de sa demande de protection internationale en vertu du droit de l’Union européenne ou à l’exécution d’une décision de transfert ou d’une mesure d’éloignement ;
-2. règlement (UE) 2018/1861 règlement (CE) n ° 1987/2006 règlement (UE) 2018/1860
-3. si le demandeur a été débouté de sa demande de protection internationale dans l’État membre responsable ;
-4. si le demandeur est de nouveau présent sur le territoire luxembourgeois après l’exécution effective d’une mesure de transfert ou s’il s’est soustrait à l’exécution d’une précédente mesure de transfert ;
-5. si le demandeur a contrefait, falsifié ou établi sous un autre nom que le sien un document d’identité ou de voyage ou s’il a fait usage d’un tel document ;
-6. si le demandeur a dissimulé des éléments de son identité ou s’il est démontré qu’il a fait usage d’identités multiples soit sur le territoire luxembourgeois, soit sur celui d’un autre État membre ;
-7. si le demandeur qui a refusé le lieu d’hébergement proposé ne peut justifier du lieu de sa résidence effective ou si le demandeur qui a accepté le lieu d’hébergement proposé a abandonné ce dernier sans motif légitime ;
-8. si le demandeur a exprimé l’intention de ne pas se conformer à une décision de transfert vers l’État responsable de sa demande de protection internationale ou si une telle intention découle clairement de son comportement ;
-9. si le demandeur, sans motif légitime et bien que régulièrement convoqué ou informé, ne s’est pas soumis à une mesure préparatoire et nécessaire à l’exécution matérielle de son transfert vers l’État membre responsable ou s’il a antérieurement manifesté son intention de ne pas se conformer à une telle mesure ;
-5. loi modifiée du 29 août 2008
-
-**(3)** La décision de placement en rétention est ordonnée par écrit par le ministre sur la base d’une appréciation au cas par cas, lorsque cela s’avère nécessaire et si d’autres mesures moins coercitives ne peuvent être efficacement appliquées.
-
-On entend par mesures moins coercitives:
-
-1. l’obligation pour le demandeur de se présenter régulièrement, à intervalles à fixer par le ministre, auprès des services de ce dernier ou d’une autre autorité désignée par lui, après remise de l’original du passeport et de tout document justificatif de son identité en échange d’un récépissé valant justification de l’identité;
-2. l’assignation à résidence dans les lieux fixés par le ministre, si le demandeur présente des garanties de représentation effectives propres à prévenir le risque de fuite; l’assignation à résidence peut être assortie, si nécessaire, d’une mesure de surveillance électronique qui emporte pour le demandeur l’interdiction de quitter le périmètre fixé par le ministre. Le contrôle de l’exécution de la mesure est assuré au moyen d’un procédé permettant de détecter à distance la présence ou l’absence du demandeur dans le prédit périmètre. La mise en œuvre de ce procédé peut conduire à imposer au demandeur, pendant toute la durée du placement sous surveillance électronique, un dispositif intégrant un émetteur. Le procédé utilisé est homologué à cet effet par le ministre. Sa mise en œuvre doit garantir le respect de la dignité, de l’intégrité et de la vie privée de la personne. La mise en œuvre du dispositif technique permettant le contrôle à distance et le contrôle à distance proprement dit, peuvent être confiés à une personne de droit privé;
-3. loi du 29 avril 1999
-
-Les mesures moins coercitives sont ordonnées par écrit et peuvent être appliquées conjointement. En cas de défaut de respect des obligations imposées par le ministre ou en cas de risque de fuite, la mesure est révoquée et le placement en rétention est ordonné.
-
-**(4)** La décision de placement en rétention indique les motifs de fait et de droit sur lesquels elle est basée. Elle est prise pour une durée la plus brève possible ne dépassant pas trois mois. Sans préjudice des dispositions du règlement (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 en matière de rétention, la mesure de placement en rétention peut être reconduite par le ministre chaque fois pour une durée de trois mois tant que les motifs énoncés au paragraphe 2, sont applicables, mais sans que la durée de rétention totale ne puisse dépasser douze mois.
-
-Les procédures administratives liées aux motifs de rétention énoncés au paragraphe (2) sont exécutées avec toute la diligence voulue. Les retards dans les procédures administratives qui ne sont pas imputables au demandeur ne peuvent justifier une prolongation de la durée de rétention.
-
-**(5)** Les demandeurs placés en rétention sont informés immédiatement par écrit, dans une langue qu’ils comprennent ou dont on peut raisonnablement supposer qu’ils la comprennent, des motifs du placement en rétention et des procédures de recours contre la décision de placement en rétention.
-
-Les articles 121, paragraphes (1), (2) et (4), et 122 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration sont applicables.
-
-**(6)** Contre la décision de placement en rétention ou contre la décision ordonnant une mesure moins coercitive telle que visée au paragraphe (3), un recours est ouvert devant le Tribunal administratif qui statue comme juge de fond. Ce recours doit être introduit dans le délai de trois mois à partir de la notification. L’article 123, paragraphes (4) et (5) est applicable.
-
-Lorsque, à la suite du contrôle juridictionnel, le placement en rétention a été jugé illégal en dernier ressort, le demandeur concerné est libéré immédiatement.
-
-<a id="art_N1AD0C"></a>
-
-### Art. 23.
-
-**(1)** Lorsqu’un demandeur retire explicitement sa demande de protection internationale, le ministre clôt l’examen sans prendre de décision et consigne cette information dans le dossier du demandeur.
-
-**(2)** Lorsqu’il existe un motif sérieux de penser qu’un demandeur a retiré implicitement sa demande ou y a renoncé implicitement, le ministre prend la décision soit de clore l’examen de la demande, soit de la rejeter si elle est considérée comme infondée sur base d’un examen approprié quant au fond.
-
-Il est présumé que le demandeur a implicitement retiré sa demande de protection internationale ou y a implicitement renoncé, notamment lorsqu’il est établi:
-
-1. qu’il n’a pas répondu aux demandes l’invitant à fournir des informations essentielles pour sa demande, au regard de l’article 37 ou ne s’est pas présenté à un entretien personnel prévu à l’article 13, sauf si le demandeur apporte la preuve, dans un délai de huit jours que cette absence était indépendante de sa volonté;
-2. qu’il a fui ou quitté sans autorisation le lieu où il était assigné à résider ou était placé en rétention, sans contacter le ministre endéans les vingt-quatre heures ou qu’il n’a pas, endéans le délai d’un mois, respecté l’obligation de se présenter auprès du ministre, à moins qu’il ne démontre que cela était dû à des circonstances qui ne lui sont pas imputables.
-
-**(3)** Si, dans un délai inférieur à neuf mois suivant la décision de clôture, le demandeur sollicite la réouverture de son dossier ou présente une nouvelle demande, le ministre rouvre le dossier et reprend l’examen de la demande au stade auquel il avait été interrompu. La décision de clôture ne peut être remise en cause que par le dépôt d’une demande de réouverture du dossier.
-
-Le dossier d’un demandeur ne peut être rouvert en application de l’alinéa qui précède qu’une seule fois.
-
-Passé le délai de neuf mois, la décision de clôture est définitive et la nouvelle demande est considérée comme une demande ultérieure conformément à l’article 32.
-
-**(4)** Les paragraphes (2) et (3) s’entendent sans préjudice de l’article 18, paragraphe (2), alinéa 2 du règlement (UE) n° 604/2013.
-
-<a id="art_N1ADA0"></a>
-
-### Art. 24.
-
-**(1)** Le Haut Commissariat des Nations Unies pour les réfugiés (HCR), les membres du Comité luxembourgeois des droits de l’enfant (ORK) ainsi que toute organisation disposant d’un agrément sont autorisés:
-
-1. à avoir accès aux demandeurs, y compris ceux qui sont placés en rétention, à la frontière et dans les zones de transit;
-2. à avoir accès aux informations concernant chaque demande de protection internationale, l’état d’avancement de la procédure et les décisions prises, sous réserve que le demandeur y consente;
-3. Convention de Genève
-
-**(2)** L’agrément peut être délivré aux organisations qui:
-
-1. justifient d’une activité d’information et de soutien régulière et durable au profit des demandeurs de protection internationale;
-2. remplissent les conditions d’honorabilité, tant dans le chef des membres des organes dirigeants de l’organisation, que dans le chef des personnes physiques chargées de ces missions;
-3. s’engagent à garantir aux demandeurs la protection de leur vie privée et le respect de leurs convictions philosophiques et religieuses.
-
-<a id="art_N1AE0A"></a>
-
-### Art. 25.
-
-Lors de la collecte d’informations nécessaires à l’examen d’un cas particulier, les agents du ministre ne divulguent pas aux auteurs présumés de persécutions ou d’atteintes graves les informations concernant une demande de protection internationale, ou le fait qu’une demande a été présentée de sorte à éviter que l’intégrité physique du demandeur ou des personnes à sa charge, ou la liberté et la sécurité des membres de sa famille qui séjournent encore dans son pays d’origine, soient compromises.
-
-##### Section 2. — Procédures en première instance
-
-<a id="art_N1AE47"></a>
-
-### Art. 26.
-
-**(1)** Le ministre procède à un examen individuel de la demande de protection internationale dans le respect des garanties procédurales prévues à la section 1. Il veille à ce que la procédure soit menée à terme dans les meilleurs délais et au plus tard dans les six mois à compter de l’introduction de la demande, sans préjudice d’un examen approprié et exhaustif.
-
-Lorsqu’une demande est soumise à la procédure définie par le règlement (UE) n° 604/2013, le délai de six mois commence à courir à partir du moment où conformément à ce règlement, il a été déterminé que l’examen de la demande relève de la compétence du Grand-Duché de Luxembourg et où le demandeur se trouve sur le territoire et a été pris en charge par le ministre.
-
-Lorsqu’une décision ne peut pas être prise dans un délai de six mois, le demandeur concerné est informé du retard et reçoit, lorsqu’il en fait la demande, des informations concernant les raisons du retard et le délai dans lequel sa demande est susceptible de faire l’objet d’une décision.
-
-**(2)** Le délai de six mois prévu au paragraphe (1) peut être prolongé d’une durée ne pouvant excéder neuf mois supplémentaires lorsque:
-
-1. des questions factuelles ou juridiques complexes entrent en jeu;
-2. du fait qu’un grand nombre de ressortissants de pays tiers ou d’apatrides demandent simultanément une protection internationale, il est très difficile, en pratique, de conclure la procédure dans le délai de six mois;
-3. le retard peut être clairement imputé au non-respect, par le demandeur, des obligations qui lui incombent au titre de l’article 12.
-
-Exceptionnellement, les délais prescrits peuvent, dans des circonstances dûment justifiées, être dépassés de trois mois au maximum lorsque cela est nécessaire pour assurer un examen approprié et exhaustif de la demande de protection internationale.
-
-**(3)** Sans préjudice des articles 46 et 51, la conclusion de la procédure d’examen peut être différée lorsque l’on ne peut raisonnablement s’attendre à ce que le ministre se prononce dans les délais prévus aux paragraphes (1) et (2), en raison d’une situation incertaine dans le pays d’origine qui devrait être temporaire. En pareil cas, le ministre:
-
-1. procède, au moins tous les six mois, à l’examen de la situation dans ce pays d’origine;
-2. informe les demandeurs concernés, dans un délai raisonnable, des raisons du report.
-
-En tout état de cause, la procédure d’examen est conclue dans un délai maximal de vingt et un mois à partir de l’introduction de la demande.
-
-**(4)** Le ministre peut statuer par priorité sur les demandes manifestement fondées ainsi que sur les demandes présentées par des personnes vulnérables identifiées comme ayant des besoins particuliers en matière d’accueil ou comme nécessitant des modalités particulières d’examen en application de l’article 19 ou de l’article 20, lorsqu’il s’agit de mineurs non accompagnés.
-
-<a id="art_N1AEF2"></a>
-
-### Art. 27.
-
-**(1)** Sous réserve des articles 19 et 21, le ministre peut statuer sur le bien-fondé de la demande de protection internationale dans le cadre d’une procédure accélérée dans les cas suivants:
-
-1. le demandeur, en déposant sa demande et en exposant les faits, n’a soulevé que des questions sans pertinence au regard de l’examen visant à déterminer s’il remplit les conditions requises pour prétendre au statut conféré par la protection internationale; ou
-2. le demandeur provient d’un pays d’origine sûr au sens de l’article 30 de la présente loi; ou
-3. le demandeur a induit les autorités en erreur en ce qui concerne son identité ou sa nationalité, en présentant de fausses indications ou de faux documents ou en dissimulant des informations ou des documents pertinents qui auraient pu influencer la décision dans un sens défavorable; ou
-4. il est probable que, de mauvaise foi, le demandeur a procédé à la destruction ou s’est défait d’un document d’identité ou de voyage qui aurait aidé à établir son identité ou sa nationalité; ou
-5. le demandeur a fait des déclarations manifestement incohérentes et contradictoires, manifestement fausses ou peu plausibles qui contredisent des informations suffisamment vérifiées du pays d’origine, ce qui rend sa demande visiblement peu convaincante quant à sa qualité de bénéficiaire d’une protection internationale; ou
-6. le demandeur a présenté une demande ultérieure de protection internationale qui n’est pas irrecevable en vertu de l’article 32; ou
-7. le demandeur ne présente une demande qu’afin de retarder ou d’empêcher l’exécution d’une décision antérieure ou imminente qui entraînerait son éloignement; ou
-8. le demandeur est entré ou a prolongé son séjour illégalement sur le territoire et, sans motif valable, ne s’est pas présenté aux autorités ou n’a pas présenté une demande de protection internationale dans les délais les plus brefs compte tenu des circonstances de son entrée; ou
-9. le demandeur refuse de se conformer à l’obligation de donner ses empreintes digitales conformément à l’article 6, paragraphe (3); ou
-10. loi modifiée du 29 août 2008
-
-**(2)** Le ministre prend sa décision au plus tard dans un délai de deux mois à partir du jour où il apparaît que le demandeur tombe sous un des cas prévus au paragraphe (1) qui précède. Sans préjudice des délais prévus à l’article 26, ce délai peut être dépassé lorsque cela est nécessaire pour assurer un examen approprié et exhaustif de la demande de protection internationale.
-
-<a id="art_N1AF63"></a>
-
-### Art. 28.
-
-**(1)** Si, en application du règlement (UE) n° 604/2013, le ministre estime qu’un autre Etat membre est responsable de l’examen de la demande, il sursoit à statuer sur la demande jusqu’à la décision du pays responsable sur la requête de prise ou de reprise en charge. Lorsque l’Etat membre requis accepte la prise en charge ou la reprise en charge du demandeur, le ministre notifie à la personne concernée la décision de la transférer vers l’Etat membre responsable et de ne pas examiner sa demande de protection internationale.
-
-**(2)** Outre les cas dans lesquels une demande n’est pas examinée en application du paragraphe (1), le ministre peut prendre une décision d’irrecevabilité, sans vérifier si les conditions d’octroi de la protection internationale sont réunies, dans les cas suivants:
-
-1. une protection internationale a été accordée par un autre Etat membre de l’Union européenne;
-2. un pays qui n’est pas un Etat membre est considéré comme le premier pays d’asile du demandeur en vertu de l’article 29;
-3. un pays qui n’est pas un Etat membre est considéré comme un pays tiers sûr pour le demandeur en vertu de l’article 31;
-4. la demande concernée est une demande ultérieure, dans laquelle n’apparaissent ou ne sont présentés par le demandeur aucun élément ou fait nouveau relatifs à l’examen visant à déterminer si le demandeur remplit les conditions requises pour prétendre au statut de bénéficiaire d’une protection internationale; ou
-5. une personne à charge du demandeur introduit une demande après avoir, conformément à l’article 5, consenti à ce que son cas soit traité dans le cadre d’une demande introduite en son nom, et que rien dans la situation de la personne à charge ne justifie une demande distincte;
-6. le demandeur est un citoyen de l’Union européenne.
-
-<a id="art_N1AFC8"></a>
-
-### Art. 29.
-
-Un pays peut être considéré comme le premier pays d’asile d’un demandeur déterminé, si le demandeur:
-
-1. s’est vu reconnaître la qualité de réfugié dans ce pays et peut encore se prévaloir de cette protection; ou
-2. jouit, à un autre titre, d’une protection suffisante dans ce pays, y compris du bénéfice du principe de nonrefoulement, à condition qu’il soit réadmis dans ce pays.
-
-En appliquant le concept de premier pays d’asile à la situation personnelle d’un demandeur, le ministre tient compte des dispositions de l’article 31, paragraphe (1). Le demandeur est autorisé à contester l’application du concept de premier pays d’asile à sa situation personnelle.
-
-<a id="art_N1B00E"></a>
-
-### Art. 30.
-
-**(1)** Un pays tiers désigné comme pays d’origine sûr conformément au paragraphe (2) ne peut être considéré comme tel pour un demandeur déterminé, après examen individuel de la demande introduite par cette personne que si le demandeur est ressortissant dudit pays ou si l’intéressé est apatride et s’il s’agit de son ancien pays de résidence habituelle, et si ce demandeur n’a pas fait valoir de raisons sérieuses permettant de penser qu’il ne s’agit pas d’un pays d’origine sûr en raison de sa situation personnelle, compte tenu des conditions requises pour prétendre au statut de bénéficiaire d’une protection internationale.
-
-**(2)** Un règlement grand-ducal désigne un pays comme pays d’origine sûr s’il est établi qu’il n’y existe généralement et de façon constante pas de persécution au sens de la Convention de Genève en s’appuyant sur un éventail de sources d’information, y compris notamment des informations émanant d’autres Etats membres, du BEAA, du HCR, du Conseil de l’Europe et d’autres organisations internationales compétentes.
-
-Les critères suivants seront pris en considération pour la désignation d’un pays comme pays d’origine sûr:
-
-1. l’observation des droits et libertés prévus par la Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales, le Pacte international des droits civils et politiques ou la Convention des Nations Unies contre la torture et autres peines ou traitements cruels, inhumains ou dégradants;
-2. Convention de Genève
-3. la prévision d’un système de recours efficace contre les violations de ces droits et libertés.
-
-La situation dans les pays tiers désignés comme pays d’origine sûrs conformément au présent paragraphe est régulièrement examinée par le ministre.
-
-<a id="art_N1B081"></a>
-
-### Art. 31.
-
-**(1)** Le ministre peut appliquer la notion de pays tiers sûr uniquement lorsqu’il a acquis la certitude que dans le pays tiers concerné, le demandeur sera traité conformément aux principes suivants:
-
-1. le demandeur n’a à craindre ni pour sa vie ni pour sa liberté en raison de sa race, de sa religion, de sa nationalité, de son appartenance à un groupe social particulier ou de ses opinions politiques;
-2. il n’existe aucun risque d’atteintes graves au sens du chapitre 3 de la présente loi;
-3. Convention de Genève
-4. l’interdiction, prévue par le droit international, de prendre des mesures d’éloignement contraires à l’interdiction de la torture et des traitements cruels, inhumains ou dégradants, y est respectée;
-5. Convention de Genève
-
-**(2)** L’application de la notion de pays tiers sûr est subordonnée aux règles suivantes:
-
-1. un lien de connexion doit exister entre le demandeur et le pays tiers concerné, sur la base duquel il serait raisonnable que le demandeur se rende dans ce pays;
-2. le ministre doit s’assurer que la notion de pays tiers sûr peut être appliquée à un pays déterminé ou à un demandeur déterminé. A cet effet, il procède à un examen au cas par cas de la sécurité du pays pour un demandeur;
-3. le demandeur a le droit de contester l’application du concept de pays tiers sûr au motif que le pays tiers n’est pas sûr dans son cas particulier. Le demandeur est en outre autorisé à contester l’existence d’un lien entre lui-même et le pays tiers conformément au point a).
-
-**(3)** Lorsqu’il exécute une décision uniquement fondée sur le concept de pays tiers sûr, le ministre en informe le demandeur et lui fournit un document informant les autorités du pays tiers, dans la langue de ce pays, que la demande n’a pas été examinée quant au fond. Lorsque le pays tiers ne permet pas au demandeur d’entrer sur son territoire, celui-ci peut engager une procédure conformément aux dispositions prévues au chapitre 2, section 1, de la présente loi.
-
-<a id="art_N1B106"></a>
-
-### Art. 32.
-
-**(1)** Constitue une demande ultérieure une nouvelle demande de protection internationale présentée après qu’une décision finale a été prise sur une demande antérieure, y compris le cas dans lequel le demandeur a explicitement retiré sa demande et le cas dans lequel le ministre a rejeté une demande à la suite de son retrait implicite, conformément à l’article 23, paragraphes (2) et (3).
-
-**(2)** Lorsqu’une personne qui a demandé à bénéficier d’une protection internationale fait de nouvelles déclarations ou présente une demande ultérieure, ces nouvelles déclarations ou les éléments de la demande ultérieure sont examinés dans le cadre de l’examen de la demande antérieure par le ministre ou, si la décision du ministre fait l’objet d’un recours juridictionnel en réformation, par la juridiction saisie.
-
-**(3)** Le ministre procède à un examen préliminaire des éléments ou des faits nouveaux qui ont été présentés par le demandeur, afin de prendre une décision sur la recevabilité de la demande en vertu de l’article 28, paragraphe (2), point d). Le ministre peut procéder à l’examen préliminaire en le limitant aux seules observations écrites présentées hors du cadre d’un entretien.
-
-**(4)** Si les éléments ou faits nouveaux indiqués augmentent de manière significative la probabilité que le demandeur remplisse les conditions requises pour prétendre à une protection internationale, l’examen de la demande est poursuivi, à condition que le demandeur concerné a été, sans faute de sa part, dans l’incapacité de les faire valoir, au cours de la précédente procédure, y compris durant la phase contentieuse.
-
-**(5)** Lorsqu’une personne transférée vers le Grand-Duché de Luxembourg en vertu du règlement (UE) n° 604/2013 a fait de nouvelles déclarations ou a présenté une demande ultérieure dans l’Etat membre procédant au transfert, ces déclarations ou demandes ultérieures sont examinées conformément aux dispositions qui précèdent.
-
-##### Section 3. — Retrait de la protection internationale
-
-<a id="art_N1B18F"></a>
-
-### Art. 33.
-
-**(1)** On entend par retrait de la protection internationale, la décision par laquelle le ministre révoque le statut de réfugié ou le statut conféré par la protection subsidiaire d’une personne, refuse de le renouveler, ou y met fin conformément aux articles 47 et 52.
-
-**(2)** Un examen en vue de retirer la protection internationale à une personne donnée peut être engagé par le ministre dès lors qu’apparaissent des éléments ou des faits nouveaux indiquant qu’il y a lieu de réexaminer la validité de sa protection internationale.
-
-**(3)** La personne concernée est informée par écrit que le ministre procède au réexamen de son droit à bénéficier d’une protection internationale, ainsi que des motifs de ce réexamen et elle a le droit de présenter, lors d’un entretien personnel ou par écrit, les motifs pour lesquels il n’y a pas lieu de lui retirer la protection internationale.
-
-**(4)** Le ministre veille à ce que ses agents obtiennent des informations précises et à jour émanant de diverses sources, notamment du BEAA et du HCR, quant à la situation générale qui règne dans les pays d’origine des personnes concernées.
-
-**(5)** Lorsque des informations sur un cas individuel sont recueillies aux fins du réexamen de la protection internationale, le ministre veille à ce qu’elles ne soient pas obtenues auprès du ou des auteurs des persécutions ou des atteintes graves, ce qui aurait pour effet que cet ou ces auteurs seraient directement informés du fait que la personne concernée bénéficie d’une protection internationale et que son statut est en cours de réexamen, ou que cela ne compromette pas l’intégrité physique de la personne ou des personnes à charge de celle-ci, ni la liberté et la sécurité des membres de sa famille vivant toujours dans le pays d’origine.
-
-**(6)** En cas de décision de retrait de la protection internationale, les articles 17 et 24 sont applicables.
-
-##### Section 4. — Conditions auxquelles sont soumises les décisions du ministre et les voies de recours
-
-<a id="art_N1B223"></a>
-
-### Art. 34.
-
-**(1)** Les décisions prises par le ministre en matière de protection internationale sont communiquées par écrit au demandeur dans un délai raisonnable. Toute décision négative est motivée en fait et en droit et les possibilités de recours sont communiquées par écrit au demandeur.
-
-Lorsqu’il n’est pas assisté ni représenté par un avocat, le demandeur est informé du résultat de la décision prise par le ministre dans une langue qu’il comprend ou dont il est raisonnable de supposer qu’il la comprend.
-
-Aux fins de l’article 5, paragraphe (2), et lorsqu’une demande est fondée sur les mêmes motifs, une décision unique est adoptée pour toutes les personnes à charge, à moins qu’une telle action ne conduise à une divulgation de la situation particulière d’un demandeur, qui pourrait nuire à ses intérêts, notamment en cas de persécution fondée sur le genre, l’orientation sexuelle, l’identité de genre ou sur l’âge. En pareil cas, une décision distincte est communiquée à la personne concernée.
-
-**(2)** Une décision du ministre vaut décision de retour, à l’exception des décisions prises en vertu de l’article 28, paragraphes (1) et (2), points a), d) et f). L’ordre de quitter le territoire y prononcé comporte l’indication du délai pour quitter le territoire, ainsi que le pays à destination duquel le demandeur sera renvoyé en cas d’exécution d’office. Pour satisfaire à l’ordre de quitter le territoire, le demandeur dispose d’un délai de trente jours à compter du jour où la décision de retour sera devenue définitive et peut solliciter à cet effet un dispositif d’aide au retour. Le demandeur est obligé de quitter le territoire sans délai à compter du jour où la décision de retour sera devenue définitive si son comportement constitue un danger pour l’ordre public, la sécurité publique ou la sécurité nationale.
-
-Si nécessaire, le ministre peut accorder un délai de départ volontaire supérieur à trente jours en tenant compte des circonstances propres à chaque cas, telles que la durée du séjour, l’existence d’enfants scolarisés et d’autres liens familiaux et sociaux.
-
-Les articles 103, 111, paragraphe (3), point c), 112, 116, 117, 118 et 120 à 132 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration sont applicables.
-
-Par exception de ce qui précède, aucun délai n’est accordé au demandeur qui s’est déjà précédemment vu notifier une décision de retour en vertu de l’article 111 de la loi précitée du 29 août 2008.
-
-Lorsqu’une décision d’irrecevabilité est prise à l’égard d’un demandeur qui bénéficie d’une protection internationale dans un autre État membre de l’Union européenne, l’article 100, paragraphe (2), de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, est applicable
-
-**(3)** Les recours gracieux n’interrompent pas les délais de recours prévus à l’article 35.
-
-<a id="art_N1B2D9"></a>
-
-### Art. 35.
-
-**(1)** Contre les décisions de refus ou de retrait de la protection internationale et contre l’ordre de quitter le territoire, un recours en réformation est ouvert devant le tribunal administratif. Les deux recours doivent faire l’objet d’une seule requête introductive, sous peine d’irrecevabilité du recours séparé. Le recours doit être introduit dans le délai d’un mois à partir de la notification. Par dérogation à la législation en matière de procédure devant les juridictions administratives, il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête introductive. Le mémoire en réponse doit être fourni dans un délai de deux mois à dater de la signification de la requête introductive.
-
-Contre les décisions de clôture prévues à l’article 23 et contre l’ordre de quitter le territoire, un recours en réformation est ouvert devant le tribunal administratif. Les deux recours doivent faire l’objet d’une seule requête introductive, sous peine d’irrecevabilité du recours séparé. Le recours doit être introduit dans le délai d’un mois à partir du jour où la décision de clôture devient définitive. Par dérogation à la législation en matière de procédure devant les juridictions administratives, il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête introductive. Le mémoire en réponse doit être fourni dans un délai de deux mois à dater de la signification de la requête introductive.
-
-Contre la décision du tribunal administratif, appel peut être interjeté devant la Cour administrative.
-
-L’appel doit être interjeté dans le délai d’un mois à partir de la notification par les soins du greffe. Par dérogation à la législation en matière de procédure devant les juridictions administratives, il ne pourra y avoir plus d’un mémoire de la part de chaque partie, y compris la requête d’appel.
-
-**(2)** Contre la décision du ministre de statuer sur le bien-fondé de la demande de protection internationale dans le cadre d’une procédure accélérée et de la décision de refus de la demande de protection internationale prise dans ce cadre, de même que contre l’ordre de quitter le territoire, un recours en réformation est ouvert devant le tribunal administratif. Le recours contre ces trois décisions doit faire l’objet d’une seule requête introductive, sous peine d’irrecevabilité du recours séparé. Il doit être introduit dans un délai de quinze jours à partir de la notification. Le président de chambre ou le juge qui le remplace statue dans le mois de l’introduction de la requête. Ce délai est suspendu entre le 16 juillet et le 15 septembre, sans préjudice de la faculté du juge de statuer dans un délai plus rapproché. Il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête introductive. La décision du président de chambre ou du juge qui le remplace n’est pas susceptible d’appel.
-
-Si le président de chambre ou le juge qui le remplace estime que le recours est manifestement infondé, il déboute le demandeur de sa demande de protection internationale. Si, par contre, il estime que le recours n’est pas manifestement infondé, il renvoie l’affaire devant le tribunal administratif pour y statuer.
-
-Contre les décisions du tribunal administratif, appel peut être interjeté devant la Cour administrative dans le délai et les formes prévus au paragraphe (1), alinéa 4 .
-
-**(3)** Contre la décision d’irrecevabilité prise en vertu de l’article 28, paragraphe (2), un recours en annulation est ouvert devant le tribunal administratif. Le recours doit être introduit dans un délai de quinze jours à partir de la notification. Le tribunal administratif statue dans les deux mois de l’introduction de la requête. Ce délai est d’office ramené à un mois lorsque le demandeur fait l’objet d’une mesure de placement conformément à l’article 22. Par dérogation à la législation en matière de procédure devant les juridictions administratives, il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête introductive. La décision du tribunal administratif n’est pas susceptible d’appel.
-
-**(4)** Contre la décision de transfert visée à l’article 28, paragraphe (1), un recours en réformation est ouvert devant le tribunal administratif. Le recours doit être introduit dans un délai de quinze jours à partir de la notification. Le tribunal administratif statue dans le mois de l’introduction de la requête. Par dérogation à la législation en matière de procédure devant les juridictions administra­tives, il ne peut y avoir plus d’un mémoire de la part de chaque partie, y compris la requête intro­ductive. La décision du tribunal administratif n’est pas susceptible d’appel.
-
-<a id="art_N1B3AE"></a>
-
-### Art. 36.
-
-**(1)** Les recours prévus à l’article 35, paragraphes (1), (2) et (4), ont un effet suspensif. Le ministre autorise le demandeur à rester sur le territoire jusqu’à l’expiration des délais fixés pour l’exercice des recours et, s’il constate que ce droit a été exercé dans le délai prévu, dans l’attente de l’issue du recours.
-
-**(2)** Les recours prévus à l’article 35, paragraphe (3), à l’exception du recours contre une décision d’irrecevabilité prise en vertu de l’article 28, paragraphe (2), point c), n’ont pas d’effet suspensif. Sans préjudice de l’article 9, paragraphe (2), le demandeur peut déposer une requête en référé devant le président du tribunal administratif afin d’obtenir le sursis à l’exécution ou une mesure de sauvegarde et la décision du ministre n’est pas exécutée tant que l’ordonnance de référé n’a pas été prononcée.
-
-**(3)** Le demandeur nécessitant des garanties procédurales spéciales et le mineur non accompagné disposent d’une semaine pour déposer la requête en référé prévue au paragraphe (2).
-
-#### **Chapitre 3.** — **Des normes relatives aux conditions que doivent remplir les ressortissants des pays tiers ou les apatrides pour pouvoir bénéficier d’une protection internationale, à un statut uniforme pour les réfugiés et les personnes pouvant bénéficier de la protection subsidiaire**
-
-<a id="art_N1B425"></a>
-
-### Art. 37.
-
-**(1)** Il appartient au demandeur de présenter, aussi rapidement que possible, tous les éléments nécessaires pour étayer sa demande de protection internationale. Il appartient au ministre d’évaluer, en coopération avec le demandeur, les éléments pertinents de la demande.
-
-**(2)** Les éléments visés au paragraphe (1) correspondent aux déclarations du demandeur et à tous les documents dont le demandeur dispose concernant son âge, son passé, y compris ceux des parents à prendre en compte, son identité, sa ou ses nationalité(s), le ou les pays ainsi que le ou les lieux où il a résidé auparavant, ses demandes d’asile antérieures, son itinéraire, ses titres de voyage, ainsi que les raisons justifiant la demande de protection internationale.
-
-**(3)** Le ministre procède à l’évaluation individuelle d’une demande de protection internationale en tenant compte des éléments suivants:
-
-1. tous les faits pertinents concernant le pays d’origine au moment de statuer sur la demande, y compris les lois et règlements du pays d’origine et la manière dont ils sont appliqués;
-2. les informations et documents pertinents présentés par le demandeur, y compris les informations permettant de déterminer si le demandeur a fait ou pourrait faire l’objet de persécution ou d’atteintes graves;
-3. le statut individuel et la situation personnelle du demandeur, y compris des facteurs comme son passé, son sexe et son âge, pour déterminer si, compte tenu de la situation personnelle du demandeur, les actes auxquels le demandeur a été ou risque d’être exposé pourraient être considérés comme une persécution ou une atteinte grave;
-4. le fait que, depuis qu’il a quitté son pays d’origine, le demandeur a ou non exercé des activités dont le seul but ou le but principal était de créer les conditions nécessaires pour présenter une demande de protection internationale, pour déterminer si ces activités l’exposeraient à une persécution ou à une atteinte grave s’il retournait dans ce pays;
-5. le fait qu’il est raisonnable de penser que le demandeur pourrait se prévaloir de la protection d’un autre pays dont il pourrait revendiquer la citoyenneté.
-
-**(4)** Le fait qu’un demandeur a déjà été persécuté ou a déjà subi des atteintes graves ou a déjà fait l’objet de menaces directes d’une telle persécution ou de telles atteintes est un indice sérieux de la crainte fondée du demandeur d’être persécuté ou du risque réel de subir des atteintes graves, sauf s’il existe de bonnes raisons de penser que cette persécution ou ces atteintes graves ne se reproduiront pas.
-
-**(5)** Lorsque certains aspects des déclarations du demandeur ne sont pas étayés par des preuves documentaires ou autres, ces aspects ne nécessitent pas confirmation lorsque les conditions suivantes sont remplies:
-
-1. le demandeur s’est réellement efforcé d’étayer sa demande;
-2. tous les éléments pertinents à la disposition du demandeur ont été présentés et une explication satisfaisante a été fournie quant à l’absence d’autres éléments probants;
-3. les déclarations du demandeur sont jugées cohérentes et plausibles et elles ne sont pas contredites par les informations générales et particulières connues et pertinentes pour sa demande;
-4. le demandeur a présenté sa demande de protection internationale dès que possible, à moins qu’il puisse avancer de bonnes raisons pour ne pas l’avoir fait; et
-5. la crédibilité générale du demandeur a pu être établie.
-
-<a id="art_N1B4C6"></a>
-
-### Art. 38.
-
-**(1)** Une crainte fondée d’être persécuté ou un risque réel de subir des atteintes graves peut s’appuyer sur des événements ayant eu lieu depuis le départ du demandeur du pays d’origine.
-
-**(2)** Une crainte fondée d’être persécuté ou un risque réel de subir des atteintes graves peut s’appuyer sur des activités exercées par le demandeur depuis son départ du pays d’origine, en particulier s’il est établi que les activités sur lesquelles cette demande se fonde constituent l’expression et la prolongation de convictions ou d’orientations affichées dans le pays d’origine.
-
-**(3)** Sans préjudice de la Convention de Genève, un demandeur qui introduit une demande ultérieure ne se voit normalement pas octroyer le statut de réfugié, si le risque de persécutions est fondé sur des circonstances que le demandeur a créées de son propre fait depuis son départ du pays d’origine.
-
-<a id="art_N1B524"></a>
-
-### Art. 39.
-
-Les acteurs des persécutions ou des atteintes graves peuvent être:
-
-1. l’Etat;
-2. des partis ou organisations qui contrôlent l’Etat ou une partie importante du territoire de celui-ci;
-3. des acteurs non étatiques, s’il peut être démontré que les acteurs visés aux points a) et b), y compris les organisations internationales, ne peuvent pas ou ne veulent pas accorder une protection contre les persécutions ou les atteintes graves.
-
-<a id="art_N1B564"></a>
-
-### Art. 40.
-
-**(1)** La protection contre les persécutions ou les atteintes graves ne peut être accordée que par:
-
-1. l’Etat, ou
-2. des partis ou organisations, y compris des organisations internationales, qui contrôlent l’Etat ou une partie importante du territoire de celui-ci, pour autant qu’ils soient disposés à offrir une protection au sens du paragraphe (2) et en mesure de le faire.
-
-**(2)** La protection contre les persécutions ou les atteintes graves doit être effective et non temporaire. Une telle protection est généralement accordée lorsque les acteurs visés au paragraphe (1) points a) et b) prennent des mesures raisonnables pour empêcher la persécution ou des atteintes graves, entre autres lorsqu’ils disposent d’un système judiciaire effectif permettant de déceler, de poursuivre et de sanctionner les actes constituant une persécution ou une atteinte grave, et lorsque le demandeur a accès à cette protection.
-
-**(3)** Lorsqu’il détermine si une organisation internationale contrôle un Etat ou une partie importante de son territoire et si elle fournit une protection au sens du paragraphe (2), le ministre tient compte des orientations éventuellement données par les actes du Conseil de l’Union européenne en la matière.
-
-<a id="art_N1B5C8"></a>
-
-### Art. 41.
-
-**(1)** Dans le cadre de l’évaluation de la demande de protection internationale, le ministre peut estimer qu’un demandeur n’a pas besoin de protection internationale lorsque, dans une partie du pays d’origine,
-
-1. il n’a pas une crainte fondée d’être persécuté ou ne risque pas réellement de subir des atteintes graves; ou
-2. il a accès à une protection contre les persécutions ou les atteintes graves au sens de l’article 40 et qu’il peut, en toute sécurité et en toute légalité, effectuer le voyage vers cette partie du pays et obtenir l’autorisation d’y pénétrer et que l’on peut raisonnablement s’attendre à ce qu’il s’y établisse.
-
-**(2)** Lorsqu’il examine si un demandeur a une crainte fondée d’être persécuté ou risque réellement de subir des atteintes graves, ou s’il a accès à une protection contre les persécutions ou les atteintes graves dans une partie du pays d’origine conformément au paragraphe (1), le ministre tient compte, au moment où il statue sur la demande, des conditions générales dans cette partie du pays et de la situation personnelle du demandeur, conformément à l’article 37. A cette fin, le ministre veille à obtenir des informations précises et actualisées auprès de sources pertinentes, telles que le Haut Commissariat des Nations unies pour les réfugiés et le Bureau européen d’appui en matière d’asile.
-
-<a id="art_N1B61C"></a>
-
-### Art. 42.
-
-**(1)** Les actes considérés comme une persécution au sens de l’article 1A de la Convention de Genève doivent:
-
-1. Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales
-2. être une accumulation de diverses mesures, y compris des violations des droits de l’homme, qui soit suffisamment grave pour affecter un individu d’une manière comparable à ce qui est indiqué au point a).
-
-**(2)** Les actes de persécution, au sens du paragraphe (1), peuvent notamment prendre les formes suivantes:
-
-1. violences physiques ou mentales, y compris les violences sexuelles;
-2. les mesures légales, administratives, de police et/ou judiciaires qui sont discriminatoires en soi ou mises en œuvre d’une manière discriminatoire;
-3. les poursuites ou sanctions qui sont disproportionnées ou discriminatoires;
-4. le refus d’un recours juridictionnel se traduisant par une sanction disproportionnée ou discriminatoire;
-5. les poursuites ou sanctions pour refus d’effectuer le service militaire en cas de conflit lorsque le service militaire supposerait de commettre des crimes ou d’accomplir des actes relevant du champ d’application des motifs d’exclusion visés à l’article 45, paragraphe (2);
-6. les actes dirigés contre des personnes en raison de leur sexe ou contre des enfants.
-
-**(3)** Conformément à l’article 2, point f), il doit y avoir un lien entre les motifs mentionnés à l’article 43 et les actes de per­sécution au sens du paragraphe (1) ou l’absence de protection contre de tels actes.
-
-<a id="art_N1B6AD"></a>
-
-### Art. 43.
-
-**(1)** Lorsqu’il évalue les motifs de la persécution, le ministre tient compte des éléments suivants:
-
-1. la notion de race recouvre, en particulier, des considérations de couleur, d’ascendance ou d’appartenance à un certain groupe ethnique;
-2. la notion de religion recouvre, en particulier, le fait d’avoir des convictions théistes, non théistes ou athées, la participation à des cérémonies de culte privées ou publiques, seul ou en communauté, ou le fait de ne pas y participer, les autres actes religieux ou expressions d’opinions religieuses, et les formes de comportement personnel ou communautaire fondées sur des croyances religieuses ou imposées par ces croyances;
-3. la notion de nationalité ne se limite pas à la citoyenneté ou à l’inexistence de celle-ci, mais recouvre, en particulier, l’appartenance à un groupe soudé par son identité culturelle, ethnique ou linguistique, ses origines géographiques ou politiques communes, ou sa relation avec la population d’un autre Etat;
-4. - ses membres partagent une caractéristique innée ou une histoire commune qui ne peut être modifiée, ou encore une caractéristique ou une croyance à ce point essentielle pour l’identité ou la conscience qu’il ne devrait pas être exigé d’une personne qu’elle y renonce; et
-- ce groupe a son identité propre dans le pays en question parce qu’il est perçu comme étant différent par la société environnante. En fonction des conditions qui prévalent dans le pays d’origine, un groupe social spécifique peut être un groupe dont les membres ont pour caractéristique commune une orientation sexuelle. L’orientation sexuelle ne peut pas s’entendre comme comprenant des actes réputés délictueux d’après la législation luxembourgeoise. Les aspects liés au genre, y compris l’identité de genre, aux fins de la reconnaissance de l’appartenance à un certain groupe social ou de l’identification d’une caractéristique d’un tel groupe sont dûment pris en considération;
-5. la notion d’opinions politiques recouvre, en particulier, les opinions, les idées ou les croyances dans un domaine lié aux acteurs de la persécution potentiels, ainsi qu’à leurs politiques et à leurs méthodes, que ces opinions, idées ou croyances se soient ou non traduites par des actes de la part du demandeur.
-
-**(2)** Lorsque le ministre évalue si un demandeur craint avec raison d’être persécuté, il est indifférent qu’il possède effectivement la caractéristique liée à la race, à la religion, à la nationalité, à l’appartenance à un certain groupe social ou aux opinions politiques à l’origine de la persécution, pour autant que cette caractéristique lui soit attribuée par l’acteur de persécution.
-
-<a id="art_N1B717"></a>
-
-### Art. 44.
-
-**(1)** Tout ressortissant d’un pays tiers ou apatride cesse d’être un réfugié dans les cas suivants:
-
-1. s’il s’est volontairement réclamé à nouveau de la protection du pays dont il a la nationalité; ou
-2. si, ayant perdu sa nationalité, il l’a volontairement recouvrée; ou
-3. s’il a acquis une nouvelle nationalité et jouit de la protection du pays dont il a acquis la nationalité; ou
-4. s’il est retourné volontairement s’établir dans le pays qu’il a quitté ou hors duquel il est demeuré de crainte d’être persécuté; ou
-5. s’il ne peut plus continuer à refuser de se réclamer de la protection du pays dont il a la nationalité, les circonstances à la suite desquelles il a été reconnu comme réfugié ayant cessé d’exister;
-6. si, s’agissant d’un apatride il est en mesure de retourner dans le pays dans lequel il avait sa résidence habituelle, les circonstances à la suite desquelles il a été reconnu comme réfugié ayant cessé d’exister.
-
-**(2)** Aux fins de l’application du paragraphe (1), points e) et f), le ministre examine si le changement de circonstances est suffisamment significatif et non provisoire pour que la crainte du réfugié d’être persécuté ne puisse plus être considérée comme fondée.
-
-**(3)** Le paragraphe (1), points e) et f), ne s’applique pas au réfugié qui peut invoquer des raisons impérieuses tenant à des persécutions antérieures pour refuser de se réclamer de la protection du pays dont il a la nationalité ou, s’il s’agit d’un apatride, du pays dans lequel il avait sa résidence habituelle.
-
-<a id="art_N1B787"></a>
-
-### Art. 45.
-
-**(1)** Tout ressortissant d’un pays tiers ou apatride est exclu du statut de réfugié:
-
-1. er Convention de Genève
-2. lorsqu’il est considéré par les autorités compétentes du pays dans lequel il a établi sa résidence comme ayant les droits et obligations qui sont attachés à la possession de la nationalité de ce pays, ou des droits et des obligations équivalents.
-
-**(2)** Tout ressortissant d’un pays tiers ou apatride est exclu du statut de réfugié lorsqu’il y a des raisons sérieuses de penser:
-
-1. qu’il a commis un crime contre la paix, un crime de guerre ou un crime contre l’humanité au sens des instruments internationaux élaborés pour prévoir des dispositions relatives à ces crimes;
-2. qu’il a commis un crime grave de droit commun en dehors du Luxembourg avant d’être admis comme réfugié, c’est-à-dire avant la date d’obtention du titre de séjour délivré sur la base du statut de réfugié; les actions particulièrement cruelles, même si elles sont commises avec un objectif prétendument politique, pourront recevoir la qualification de crimes graves de droit commun;
-3. er
-
-**(3)** Le paragraphe (2) s’applique aux personnes qui sont les instigatrices des crimes ou des actes visés par ledit paragraphe, ou qui y participent de quelque autre manière.
-
-<a id="art_N1B804"></a>
-
-### Art. 46.
-
-Le ministre octroie le statut de réfugié à tout ressortissant d’un pays tiers ou apatride qui remplit les conditions pour être considéré comme réfugié conformément aux articles qui précèdent.
-
-<a id="art_N1B836"></a>
-
-### Art. 47.
-
-**(1)** Le ministre révoque le statut de réfugié octroyé à un ressortissant de pays tiers ou à un apatride, lorsque le réfugié a cessé de bénéficier de ce statut en vertu de l’article 44.
-
-**(2)** Sans préjudice de l’obligation faite au réfugié de déclarer tous les faits pertinents et de fournir tout justificatif pertinent dont il dispose, le ministre apporte la preuve, au cas par cas, de ce que la personne concernée a cessé d’être ou n’a jamais été un réfugié.
-
-**(3)** Le ministre révoque le statut de réfugié de tout ressortissant d’un pays tiers ou apatride s’il établit, après lui avoir octroyé le statut de réfugié, que:
-
-1. le réfugié est ou aurait dû être exclu du statut de réfugié en vertu de l’article 45;
-2. des altérations ou omissions de faits dont il a usé, y compris l’utilisation de faux documents, ont joué un rôle déterminant dans la décision d’octroyer le statut de réfugié.
-
-**(4)** Le ministre peut révoquer le statut octroyé à un réfugié:
-
-1. lorsqu’il existe des motifs raisonnables de le considérer comme une menace pour la sécurité du pays;
-2. lorsque, ayant été condamné en dernier ressort pour un crime particulièrement grave, il constitue une menace pour la société du pays.
-
-**(5)** Dans les situations décrites au paragraphe (4), le ministre peut décider de ne pas octroyer le statut de réfugié, lorsqu’une telle décision n’a pas encore été prise.
-
-**(6)** Les personnes auxquelles les paragraphes (4) et (5) s’appliquent ont le droit de jouir des droits prévus aux articles 3, 4, 16, 22, 31, 32 et 33 de la Convention de Genève ou de droits analogues, pour autant qu’elles se trouvent sur le territoire luxembourgeois.
-
-<a id="art_N1B8D5"></a>
-
-### Art. 48.
-
-Les atteintes graves sont:
-
-1. la peine de mort ou l’exécution; ou
-2. la torture ou des traitements ou sanctions inhumains ou dégradants infligés à un demandeur dans son pays d’origine; ou
-3. des menaces graves et individuelles contre la vie ou la personne d’un civil en raison d’une violence aveugle en cas de conflit armé interne ou international.
-
-<a id="art_N1B915"></a>
-
-### Art. 49.
-
-**(1)** Un ressortissant d’un pays tiers ou un apatride cesse d’être une personne pouvant bénéficier de la protection subsidiaire lorsque les circonstances qui ont justifié l’octroi de cette protection cessent d’exister ou ont évolué dans une mesure telle que cette protection n’est plus nécessaire.
-
-**(2)** Aux fins de l’application du paragraphe (1), le ministre tient compte du changement de circonstances, en déterminant s’il est suffisamment important et non provisoire pour que la personne pouvant bénéficier de la protection subsidiaire ne coure plus de risque réel de subir des atteintes graves.
-
-**(3)** Le paragraphe (1) ne s’applique pas au bénéficiaire du statut conféré par la protection subsidiaire qui peut invoquer des raisons impérieuses tenant à des atteintes graves antérieures pour refuser de se réclamer de la protection du pays dont il a la nationalité ou, s’il s’agit d’un apatride, du pays dans lequel il avait sa résidence habituelle.
-
-<a id="art_N1B96E"></a>
-
-### Art. 50.
-
-**(1)** Un ressortissant d’un pays tiers ou un apatride est exclu des personnes pouvant bénéficier de la protection subsidiaire s’il existe des motifs sérieux de considérer:
-
-1. qu’il a commis un crime contre la paix, un crime de guerre ou un crime contre l’humanité au sens des instruments internationaux élaborés pour prévoir des dispositions relatives à ces crimes;
-2. qu’il a commis un crime grave de droit commun;
-3. er
-4. qu’il représente une menace pour la société ou la sécurité du Luxembourg.
-
-**(2)** Le paragraphe (1) s’applique aux personnes qui sont les instigatrices des crimes ou des actes visés par ledit paragraphe, ou qui y participent de quelque autre manière.
-
-**(3)** Le ministre peut exclure tout ressortissant d’un pays tiers ou apatride des personnes pouvant bénéficier de la protection subsidiaire si, avant son admission au Luxembourg, il a commis un ou plusieurs crimes qui ne relèvent pas du champ d’application du paragraphe (1) et qui seraient passibles d’une peine de prison s’ils avaient été commis au Luxembourg, et s’il n’a quitté son pays d’origine que dans le but d’échapper à des sanctions résultant de ces crimes.
-
-<a id="art_N1B9DB"></a>
-
-### Art. 51.
-
-Le ministre octroie le statut conféré par la protection subsidiaire à un ressortissant d’un pays tiers ou à un apatride qui remplit les conditions pour être une personne pouvant bénéficier de la protection subsidiaire conformément aux articles qui précèdent.
-
-<a id="art_N1BA0D"></a>
-
-### Art. 52.
-
-**(1)** Le ministre révoque le statut conféré par la protection subsidiaire lorsque l’intéressé a cessé d’être une personne pouvant bénéficier de la protection subsidiaire en vertu de l’article 49.
-
-**(2)** Le ministre peut révoquer le statut conféré par la protection subsidiaire lorsqu’il s’avère, après l’octroi du statut conféré par la protection subsidiaire, que l’intéressé aurait dû être exclu des personnes pouvant bénéficier de la protection subsidiaire en vertu de l’article 50, paragraphe (3).
-
-**(3)** Le ministre révoque le statut conféré par la protection subsidiaire si:
-
-1. après l’octroi de ce statut, il s’avère que la personne concernée est ou aurait dû être exclue des personnes pouvant bénéficier de la protection subsidiaire en vertu de l’article 50, paragraphes (1) et (2);
-2. des altérations ou omissions de faits dont il a usé, y compris l’utilisation de faux documents, ont joué un rôle déterminant dans la décision d’octroyer le statut conféré par la protection subsidiaire.
-
-**(4)** Sans préjudice de l’obligation faite à tout ressortissant d’un pays tiers ou apatride, de déclarer tous les faits pertinents et de fournir tout justificatif pertinent dont il dispose, le ministre apporte la preuve, au cas par cas, de ce qu’une personne a cessé de faire partie ou ne fait pas partie de celles qui peuvent bénéficier de la protection subsidiaire au titre des paragraphes (1), (2) et (3) du présent article.
-
-#### **Chapitre 4.** — **Du contenu de la protection internationale**
-
-<a id="art_N1BA9E"></a>
-
-### Art. 53.
-
-**(1)** Le présent chapitre qui a pour objet le contenu de la protection internationale est sans préjudice des droits inscrits dans la Convention de Genève.
-
-**(2)** Le présent chapitre s’applique à la fois aux réfugiés et aux personnes pouvant bénéficier de la protection subsidiaire, sauf indication contraire.
-
-**(3)** Pour l’application du présent chapitre il est tenu compte de la situation spécifique des personnes vulnérables telles que les mineurs, les mineurs non accompagnés, les personnes handicapées, les personnes âgées, les femmes enceintes, les parents seuls accompagnés d’enfants mineurs, les victimes de la traite des êtres humains, les personnes ayant des troubles mentaux et les personnes qui ont subi des tortures, des viols ou d’autres formes graves de violence psychologique, physique ou sexuelle. L’intérêt supérieur de l’enfant constitue une considération primordiale.
-
-**(4)** Le paragraphe (3) ne s’applique qu’aux personnes dont les besoins particuliers ont été constatés après une évaluation individuelle de leur situation conformément à l’article 19.
-
-<a id="art_N1BB0C"></a>
-
-### Art. 54.
-
-**(1)** Le ministre respecte le principe de non-refoulement en vertu de ses obligations internationales.
-
-**(2)** Lorsque cela ne lui est pas interdit en vertu des obligations internationales visées au paragraphe (1), le ministre peut refouler un réfugié, qu’il soit ou ne soit pas formellement reconnu comme tel:
-
-1. lorsqu’il y a des raisons sérieuses de considérer qu’il est une menace pour la sécurité du Luxembourg; ou
-2. que, ayant été condamné en dernier ressort pour un crime particulièrement grave, il constitue une menace pour la société du Luxembourg.
-
-**(3)** Le ministre peut refuser d’octroyer un titre de séjour à un réfugié qui entre dans le champ d’application du paragraphe (2), le révoquer, ou refuser de le renouveler.
-
-<a id="art_N1BB70"></a>
-
-### Art. 55.
-
-Le ministre fournit aux bénéficiaires d’une protection internationale, dès que possible après que le statut de réfugié ou le statut conféré par la protection subsidiaire leur a été octroyé, un accès aux informations précisant, dans une langue qu’ils comprennent ou dont on peut raisonnablement supposer qu’ils la comprennent, les droits et obligations afférents aux statuts de protection respectifs.
-
-<a id="art_N1BBA2"></a>
-
-### Art. 56.
-
-**(1)** Le ministre veille à ce que l’unité familiale puisse être maintenue. Il peut décider que les dispositions du présent article s’appliquent aux autres parents proches qui vivaient au sein de la famille du bénéficiaire à la date du départ du pays d’origine et qui étaient alors entièrement ou principalement à sa charge.
-
-**(2)** Le ministre veille à ce que les membres de la famille du bénéficiaire du statut de réfugié ou du statut conféré par la protection subsidiaire qui, individuellement, ne remplissant pas les conditions nécessaires pour obtenir ce statut puissent prétendre aux avantages visés aux articles 57 à 66, dans la mesure où cela est compatible avec le statut juridique personnel du membre de la famille.
-
-**(3)** Les paragraphes (1) et (2) ne sont pas applicables lorsque le membre de la famille est ou serait exclu du bénéfice de la protection internationale.
-
-**(4)** Nonobstant les paragraphes (1) et (2), le ministre peut refuser, limiter ou retirer les avantages qui y sont visés pour des raisons de sécurité nationale ou d’ordre public.
-
-<a id="art_N1BC0B"></a>
-
-### Art. 57.
-
-**(1)** Dès que possible après qu’une protection internationale a été octroyée, les bénéficiaires du statut de réfugié et les bénéficiaires du statut conféré par la protection subsidiaire obtiennent un titre de séjour valable pendant une période d’au moins trois ans et renouvelable, à moins que des raisons impérieuses liées à la sécurité nationale ou d’ordre public ne s’y opposent.
-
-**(2)** Le titre de séjour délivré conformément au paragraphe (1), constitue une autorisation de séjour délivrée par le ministre à un ressortissant d’un pays tiers ou à un apatride lui permettant de résider sur son territoire. Il est établi sous la forme prévue par le règlement (CE) n° 380/2008 du Conseil du 18 avril 2008 modifiant le règlement (CE) n° 1030/2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers. Il comporte la mention «protection internationale - statut de réfugié» ou «protection internationale - protection subsidiaire». Le titre de séjour devient automatiquement caduc lorsque le ministre révoque le statut de réfugié ou le statut conféré par la protection subsidiaire.
-
-**(3)** Aucun nouveau titre de séjour ne sera remis avant la restitution du titre de séjour antérieurement délivré ou, en cas de perte ou de vol, avant la production d’une déclaration de perte ou de vol faite auprès de l’autorité compétente. La déclaration de perte ou de vol du titre de séjour entraîne l’invalidation par le ministre du titre de séjour perdu ou volé.
-
-<a id="art_N1BC7A"></a>
-
-### Art. 58.
-
-**(1)** Les bénéficiaires du statut de réfugié obtiennent un titre de voyage établi selon l’annexe à la Convention de Genève et destiné à leur permettre de voyager hors du territoire luxembourgeois, à moins que des raisons impérieuses de sécurité nationale ou d’ordre public ne s’y opposent.
-
-**(2)** Les bénéficiaires du statut conféré par la protection subsidiaire se trouvant dans l’impossibilité d’obtenir un passeport national obtiennent des documents qui leur permettent de voyager, à moins que des raisons impérieuses de sécurité nationale ou d’ordre public ne s’y opposent.
-
-<a id="art_N1BCC8"></a>
-
-### Art. 59.
-
-**(1)** Les bénéficiaires d’une protection internationale sont autorisés à exercer une activité salariée ou non salariée, sous réserve des règles généralement applicables dans le secteur d’activité concerné et dans les services publics, immédiatement après que la protection a été octroyée.
-
-**(2)** Des activités telles que des possibilités de formation liée à l’emploi pour les adultes, des actions de formation professionnelle, y compris des formations pour améliorer les compétences, des expériences pratiques sur le lieu de travail et des services de conseil fournis par l’agence pour l’emploi sont offertes aux bénéficiaires d’une protection internationale dans des conditions équivalentes à celles applicables aux ressortissants luxembourgeois.
-
-**(3)** La législation luxembourgeoise s’applique en ce qui concerne les rémunérations, l’accès aux régimes de sécurité sociale liés aux activités professionnelles salariées ou non salariées, ainsi que les autres conditions relatives à l’emploi.
-
-<a id="art_N1BD21"></a>
-
-### Art. 60.
-
-**(1)** Les mineurs qui se sont vu octroyer la protection internationale obtiennent le plein accès au système d’éducation, et ce dans les mêmes conditions que les ressortissants luxembourgeois.
-
-**(2)** Les adultes qui se sont vu octroyer la protection internationale ont accès au système éducatif général ainsi qu’au perfectionnement ou à la reconversion professionnels dans les mêmes conditions que les ressortissants de pays tiers résidant légalement sur le territoire luxembourgeois.
-
-**(3)** L’Etat garantit l’égalité de traitement entre les bénéficiaires de la protection internationale et les ressortissants luxembourgeois dans le cadre des procédures existantes de reconnaissance des diplômes, certificats ou autre titre de qualification formelle.
-
-**(4)** Le plein accès des bénéficiaires d’une protection internationale qui ne sont pas en mesure de fournir des preuves documentaires de leurs qualifications aux systèmes appropriés d’évaluation, de validation et d’accréditation de leur formation antérieure est facilité.
-
-Les articles 4 et 5 de la loi du 19 juin 2009 ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est a) du régime général de reconnaissance des titres de formation et des qualifications professionnelles; b) de la prestation temporaire de services leur sont applicables.
-
-<a id="art_N1BD9D"></a>
-
-### Art. 61.
-
-Les bénéficiaires de la protection internationale reçoivent la même assistance sociale nécessaire que celle prévue pour les ressortissants luxembourgeois.
-
-<a id="art_N1BDCF"></a>
-
-### Art. 62.
-
-**(1)** Les bénéficiaires de la protection internationale ont accès aux soins de santé dans les mêmes conditions d’accès que les ressortissants luxembourgeois.
-
-**(2)** Sont garantis, dans les mêmes conditions d’accès qu’aux ressortissants luxembourgeois, les soins de santé appropriés, y compris le traitement des troubles mentaux éventuellement requis aux bénéficiaires de la protection internationale qui ont des besoins particuliers, tels que les femmes enceintes, les personnes handicapées, les personnes qui ont été victimes de torture, de viol ou d’une autre forme grave de violence morale, physique ou sexuelle ou les mineurs qui ont été victimes de toute forme d’abus, de négligence, d’exploitation, de torture, de traitements cruels, inhumains et dégradants ou de conflits armés.
-
-<a id="art_N1BE18"></a>
-
-### Art. 63.
-
-**(1)** Dès que possible, après l’octroi de la protection internationale, la représentation des mineurs non accompagnés est assurée, par un administrateur ad hoc ou, si nécessaire, par un organisme chargé de prendre soin des mineurs et d’assurer leur bien-être, ou de toute autre forme appropriée de représentation.
-
-**(2)** Les besoins des mineurs non accompagnés seront dûment pris en considération par l’administrateur ad hoc désigné ou le représentant.
-
-**(3)** Les mineurs non accompagnés sont hébergés:
-
-1. auprès de parents adultes; ou
-2. au sein d’une famille d’accueil; ou
-3. dans des centres spécialisés dans l’hébergement de mineurs; ou
-4. dans d’autres lieux d’hébergement adaptés aux mineurs.
-
-Dans ce contexte, il y a lieu de tenir compte de l’avis de l’enfant, en fonction de son âge et de sa maturité.
-
-**(4)** Dans la mesure du possible, les fratries ne sont pas séparées, eu égard à l’intérêt supérieur du mineur concerné et notamment à son âge et à sa maturité. Dans le cas de mineurs non accompagnés, les changements de lieux de résidence sont limités au minimum.
-
-**(5)** Si un mineur non accompagné se voit octroyer une protection internationale, les membres de sa famille dont la recherche n’a pas encore débuté, sont recherchés dès que possible, après l’octroi de la protection internationale, tout en protégeant l’intérêt supérieur du mineur. Si la recherche a déjà commencé, les opérations de recherche sont poursuivies, le cas échéant. Dans les cas où la vie ou l’intégrité physique d’un mineur ou de ses proches serait menacée, en particulier s’ils sont restés dans le pays d’origine, il sera fait en sorte que la collecte, le traitement et la diffusion d’informations concernant ces personnes soient confidentiels.
-
-**(6)** Le personnel chargé des mineurs non accompagnés a eu ou reçoit une formation appropriée concernant leurs besoins.
-
-<a id="art_N1BEBB"></a>
-
-### Art. 64.
-
-Les bénéficiaires de la protection internationale ont accès à un logement dans des conditions équivalentes à celles dont bénéficient les ressortissants d’autres pays tiers résidant légalement sur le territoire luxembourgeois.
-
-<a id="art_N1BEED"></a>
-
-### Art. 65.
-
-Les personnes bénéficiant de la protection internationale peuvent circuler librement à l’intérieur du territoire luxembourgeois.
-
-<a id="art_N1BF1F"></a>
-
-### Art. 66.
-
-Afin de faciliter l’intégration des bénéficiaires d’une protection internationale dans la société, le Gouvernement leur garantit l’accès aux programmes d’intégration qu’il juge appropriés de manière à tenir compte des besoins spécifiques des bénéficiaires du statut de réfugié ou du statut conféré par la protection subsidiaire, ou crée les conditions préalables garantissant l’accès à ces programmes.
+### **Version consolidée applicable au 12/06/2026 : Loi du 18 décembre 2015 1. relative à la protection internationale et à la protection temporaire; 2. modifiant - la loi modifiée du 10 août 1991 sur la profession d’avocat, - la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, - la loi du 28 mai 2009 concernant le Centre de rétention; 3. abrogeant la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection...**
 
 #### **Chapitre 5.** — **De la protection temporaire**
 
-<a id="art_N1BF62"></a>
+<a id="art_N1CC01"></a>
 
 ### Art. 67.
 
 Le présent chapitre a pour objet l’octroi d’une protection temporaire en cas d’afflux massif de personnes déplacées en provenance de pays tiers qui ne peuvent rentrer dans leur pays d’origine.
 
-<a id="art_N1BF94"></a>
+<a id="art_N1CC33"></a>
 
 ### Art. 68.
 
 La protection temporaire ne préjuge pas de la reconnaissance du statut conféré par la protection internationale.
 
-<a id="art_N1BFC6"></a>
+<a id="art_N1CC65"></a>
 
 ### Art. 69.
 
 Le régime de protection temporaire est déclenché par une décision du Conseil de l’Union européenne prise dans les conditions définies par les articles 4 à 6 de la directive 2001/55/CE du 20 juillet 2001 relative à des normes minimales pour l’octroi d’une protection temporaire en cas d’afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil.
 
-<a id="art_N1BFFD"></a>
+<a id="art_N1CC9C"></a>
 
 ### Art. 70.
 
@@ -5263,7 +4342,7 @@ Le régime de protection temporaire est déclenché par une décision du Conseil
 
 **(2)** Les documents d’identité des personnes sollicitant le bénéfice du régime de protection temporaire sont conservés, contre récépissé, auprès du ministère pendant la durée de la protection temporaire.
 
-<a id="art_N1C046"></a>
+<a id="art_N1CCE5"></a>
 
 ### Art. 71.
 
@@ -5276,7 +4355,7 @@ Le régime de protection temporaire est déclenché par une décision du Conseil
 
 **(2)** Les motifs d’exclusion visés au paragraphe (1) se fondent exclusivement sur le comportement individuel de la personne concernée. Les décisions d’exclusion respectent le principe de la proportionnalité.
 
-<a id="art_N1C0A8"></a>
+<a id="art_N1CD47"></a>
 
 ### Art. 72.
 
@@ -5286,19 +4365,19 @@ L’attestation précise sa durée de validité qui ne sera prorogée que si ell
 
 Le bénéficiaire de la protection temporaire est tenu de faire une déclaration d’arrivée auprès de la commune dans laquelle il établit sa résidence habituelle. Tout changement de résidence à l’intérieur de la commune ou le transfert de la résidence habituelle dans une autre commune, doit être déclaré auprès de la commune de la nouvelle résidence.
 
-<a id="art_N1C0EC"></a>
+<a id="art_N1CD8B"></a>
 
 ### Art. 73.
 
 Les bénéficiaires de la protection temporaire recevront un document rédigé dans une langue susceptible d’être comprise par eux, dans lequel les dispositions relatives à la protection temporaire qui leur sont applicables sont clairement exposées.
 
-<a id="art_N1C11E"></a>
+<a id="art_N1CDBD"></a>
 
 ### Art. 74.
 
 Lorsque la personne bénéficiant de la protection temporaire au Luxembourg séjourne irrégulièrement, pendant la durée de la protection temporaire, sur le territoire d’un autre Etat membre de l’Union européenne, elle sera réadmise sur le territoire du Luxembourg à la demande de l’Etat membre concerné.
 
-<a id="art_N1C150"></a>
+<a id="art_N1CDEF"></a>
 
 ### Art. 75.
 
@@ -5326,13 +4405,13 @@ Lorsque la personne bénéficiant de la protection temporaire au Luxembourg séj
 
 **(10)** Le ministre fournit, à la demande d’un autre Etat membre, les informations et documents relatifs à un bénéficiaire de la protection temporaire jugés nécessaires pour traiter un cas en vertu du présent article.
 
-<a id="art_N1C227"></a>
+<a id="art_N1CEC6"></a>
 
 ### Art. 76.
 
 La représentation et le placement des mineurs non accompagnés bénéficiant de la protection temporaire sont assurés conformément aux dispositions de l’article 63.
 
-<a id="art_N1C259"></a>
+<a id="art_N1CEF8"></a>
 
 ### Art. 77.
 
@@ -5344,13 +4423,13 @@ La représentation et le placement des mineurs non accompagnés bénéficiant de
 
 **(4)** L’examen des demandes de protection internationale, qui n’ont pas été traitées avant l’expiration de la période de protection temporaire, est achevé après l’expiration de cette période.
 
-<a id="art_N1C2C2"></a>
+<a id="art_N1CF61"></a>
 
 ### Art. 78.
 
 Les critères et mécanismes de détermination de l’Etat membre de l’Union européenne responsable de l’examen d’une demande d’asile s’appliquent. En particulier, l’Etat membre responsable de l’examen d’une demande d’asile présentée par une personne bénéficiant de la protection temporaire est l’Etat qui a accepté le transfert de ladite personne sur son territoire.
 
-<a id="art_N1C2F4"></a>
+<a id="art_N1CF93"></a>
 
 ### Art. 79.
 
@@ -5370,53 +4449,11 @@ Les critères et mécanismes de détermination de l’Etat membre de l’Union e
 
 Le ministre peut autoriser les familles dont les enfants mineurs poursuivent une scolarité au pays de bénéficier de conditions de séjour permettant aux enfants concernés de terminer la période scolaire en cours.
 
-#### **Chapitre 6.** — **Dispositions modificatives et abrogatoires**
-
-<a id="art_N1C3A7"></a>
-
-### Art. 80.
-
-L’article 37-1, paragraphe (1), alinéa 4, première phrase de la loi modifiée du 10 août 1991 sur la profession d’avocat doit être modifiée comme suit:Le bénéfice de l’assistance judiciaire peut également être accordé à tout autre ressortissant étranger dont les ressources sont insuffisantes, pour les procédures d’accès au territoire, de séjour, d’établissement et d’éloignement des étrangers et pour les procédures relatives aux demandes de protection internationale dans les limites de l’article 17 de la loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire.
-
-<a id="art_N1C3EF"></a>
-
-### Art. 81.
-
-La loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration est modifiée comme suit:
-
-1. **(3)** Conformément au règlement (UE) n° 603/2013 du Parlement européen et du Conseil du 26 juin 2013 relatif à la création d’Eurodac pour la comparaison des empreintes digitales aux fins de l’application efficace du règlement (UE) n° 604/2013 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des Etats membres par un ressortissant de pays tiers ou un apatride et relatif aux demandes de comparaison avec les données d’Eurodac présentées par les autorités répressives des Etats membres et Europol à des fins répressives, et modifiant le règlement (UE) n° 1077/2011 portant création d’une agence européenne pour la gestion opérationnelle des systèmes d’information à grande échelle au sein de l’espace de liberté, de sécurité et de justice, le service de police judiciaire peut procéder à la prise d’empreintes digitales de l’étranger en séjour irrégulier âgé de quatorze ans au moins, afin de déterminer si cette personne a auparavant présenté une demande de protection internationale dans un autre Etat membre et quel Etat membre est responsable de l’examen de la demande.
-2. **(1)** Afin de préparer l’exécution d’une mesure d’éloignement en application des articles 111, 116 à 118 ou d’une demande de transit par voie aérienne en vertu de l’article 127 ou lorsque le maintien en zone d’attente dépasse la durée de quarante-huit heures prévue à l’article 119, l’étranger peut, sur décision du ministre, être placé en rétention dans une structure fermée, à moins que d’autres mesures moins coercitives telles que prévues à l’article 125, paragraphe (1), ne puissent être efficacement appliquées.
-3. **(1)** Dans les cas prévus à l’article 120, le ministre peut également prendre la décision d’appliquer une autre mesure moins coercitive à l’égard de l’étranger pour lequel l’exécution de l’obligation de quitter le territoire, tout en demeurant une perspective raisonnable, n’est reportée que pour des motifs techniques et qui présente des garanties de représentation effectives propres à prévenir le risque de fuite tel que prévu à l’article 111, paragraphe (3). On entend par mesures moins coercitives: 1. l’obligation pour l’étranger de se présenter régulièrement, à intervalles à fixer par le ministre, auprès des services de ce dernier ou d’une autre autorité désignée par lui, après remise de l’original du passeport et de tout document justificatif de son identité en échange d’un récépissé valant justification de l’identité;
-2. La mise en œuvre du dispositif technique permettant le contrôle à distance et le contrôle à distance proprement dit, peuvent être confiés à une personne de droit privé;
-3. loi du 29 avril 1999 Les décisions ordonnant des mesures moins coercitives sont prises et notifiées dans les formes prévues aux articles 109 et 110. L’article 123 est applicable. Les mesures prévues peuvent être appliquées conjointement. En cas de défaut de respect des obligations imposées par le ministre ou en cas de risque de fuite, la mesure est révoquée et le placement en rétention est ordonné.
-4. bis La décision de report de l’éloignement peut être assortie d’autres mesures moins coercitives telles que prévues à l’article 125, paragraphe (1).
-5. Le franchissement des frontières extérieures de l’Union européenne en violation des dispositions de l’article 4 du règlement (CE) n° 562/2006 du Parlement européen et du Conseil du 15 mars 2006 établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontière Schengen) est puni d’une amende de 1.500 euros. L’amende est prononcée par le ministre. Le montant est versé au Trésor.
-6. **(1)** Sous réserve que sa présence n’est pas susceptible de constituer un danger pour l’ordre public, la sécurité publique ou la santé publique, et sous condition de ne pas avoir utilisé des informations fausses ou trompeuses relatives à son identité, d’avoir résidé sur le territoire depuis au moins quatre ans précédant l’introduction de la demande, de faire preuve d’une réelle volonté d’intégration et de ne pas s’être soustrait à une mesure d’éloignement, une autorisation de séjour est accordée par le ministre au ressortissant de pays tiers: 1. lorsqu’il exerce l’autorité parentale sur un enfant mineur qui vit avec lui dans son ménage et qui suit sa scolarité de façon continue dans un établissement scolaire au Grand-Duché de Luxembourg depuis au moins quatre ans et lorsqu’il justifie pouvoir subvenir à ses propres besoins et à ceux des membres de sa famille; ou
-2. lorsqu’il a suivi de façon continue et avec succès une scolarité depuis au moins quatre ans dans un établissement scolaire au Grand-Duché de Luxembourg et introduit sa demande avant l’âge de vingt et un ans en justifiant disposer de ressources suffisantes pour subvenir à ses besoins. **(2)** Les personnes autorisées au séjour en vertu du paragraphe (1), se voient délivrer un titre de séjour pour travailleur salarié, si elles remplissent les conditions de l’article 42, paragraphe (1), points 3 et 4 et le titre de séjour prévu à l’article 79 si elles poursuivent des études ou une formation professionnelle.
-
-<a id="art_N1C514"></a>
-
-### Art. 82.
-
-L’article 6 de la loi du 28 mai 2009 portant création et organisation du Centre de rétention prend la teneur suivante:Art. 6.(1)Le Centre est divisé en plusieurs unités dont une bénéficiant de mesures de sécurité et de surveillance accrues spécifiquement réservée aux retenus ayant un comportement à risque. En règle générale, les demandeurs d’une protection internationale placés en rétention sont séparés des autres ressortissants de pays tiers qui n’ont pas introduit de demande de protection internationale.(2)Les retenus de sexe opposé sont séparés, à moins qu’il ne s’agisse de membres de famille et que toutes les personnes concernées y consentent.(3)Les personnes ou familles accompagnées de mineurs d’âge placées au Centre en vue de leur éloignement séjournent dans une unité distincte qui leur est réservée. La durée de leur placement ne peut excéder 72 heures.
-
-<a id="art_N1C584"></a>
-
-### Art. 83.
-
-La loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection est abrogée.
-
-<a id="art_N1C5BB"></a>
-
-### Art. 84.
-
-La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant: «Loi du 18 décembre 2015 relative à la protection internationale et à la protection temporaire».
-
 ## **3. INTÉGRATION**
 
 ### **Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 15 novembre 2011 relatif à l'organisation et au fonctionnement des commissions consultatives communales d'intégration.**
 
-<a id="art_N1C618"></a>
+<a id="art_N1D372"></a>
 
 ### Art. 1er. Missions
 
@@ -5437,7 +4474,7 @@ L’avis de la commission est demandé par le conseil communal sur:
 - la sensibilisation des étrangers en vue de leur participation aux élections communales;
 - les règlements d’utilisation des infrastructures sportives et culturelles de la commune.
 
-<a id="art_N1C683"></a>
+<a id="art_N1D3DD"></a>
 
 ### Art. 2. Composition
 
@@ -5453,7 +4490,7 @@ Parmi les membres étrangers de la commission doit figurer au moins une personne
 
 La commission comprend autant de membres suppléants que de membres effectifs. En cas de maladie, d’absence ou d’autre empêchement, un membre effectif est remplacé par un membre suppléant.
 
-<a id="art_N1C6FE"></a>
+<a id="art_N1D458"></a>
 
 ### Art. 3. Renouvellement
 
@@ -5468,7 +4505,7 @@ Hormis les cas de décès ou de démission, le mandat individuel d’un membre d
 
 Un membre de la commission qui, sans motif légitime, n’a pas été présent à trois séances consécutives peut, sur proposition de la commission, être dessaisi de son mandat par le conseil communal qui pourvoira à son remplacement dans les trois mois en désignant un candidat de la liste établie après les dernières élections communales ou, à défaut de candidat restant sur cette liste, après avoir fait un nouvel appel à candidatures.
 
-<a id="art_N1C759"></a>
+<a id="art_N1D4B3"></a>
 
 ### Art. 4. Président
 
@@ -5478,19 +4515,19 @@ Le président et le vice-président sont élus à la majorité des voix par les 
 
 En cas de maladie, d’absence ou d’autre empêchement, le président est remplacé par le vice-président.
 
-<a id="art_N1C7A1"></a>
+<a id="art_N1D4FB"></a>
 
 ### Art. 5. Secrétaire
 
 Un agent communal, désigné par le collège des bourgmestre et échevins, assume les fonctions de secrétaire de la commission.
 
-<a id="art_N1C7D7"></a>
+<a id="art_N1D531"></a>
 
 ### Art. 6. Bureau
 
 Dans les commissions qui comprennent dix membres ou plus, le président, le vice-président et le secrétaire forment le bureau de la commission. Le bureau se réunit aussi souvent que cela est nécessaire pour préparer les réunions de la commission et en assurer le suivi.
 
-<a id="art_N1C80D"></a>
+<a id="art_N1D567"></a>
 
 ### Art. 7. Réunions
 
@@ -5504,7 +4541,7 @@ La convocation se fait par écrit et est adressée aux membres effectifs et supp
 
 La convocation contient l’ordre du jour et, le cas échéant, les documents relatifs aux différents points de l’ordre du jour.
 
-<a id="art_N1C867"></a>
+<a id="art_N1D5C1"></a>
 
 ### Art. 8. Assistance aux réunions
 
@@ -5512,7 +4549,7 @@ Le bourgmestre peut assister aux réunions de la commission avec voix consultati
 
 Les membres suppléants peuvent assister aux réunions en qualité d’observateurs sans droit de vote, à moins qu’ils ne remplacent les membres effectifs. Dans ce cas, ils bénéficient du droit de vote.
 
-<a id="art_N1C8A6"></a>
+<a id="art_N1D600"></a>
 
 ### Art. 9. Délibérations
 
@@ -5526,7 +4563,7 @@ Les avis et propositions de la commission sont adoptés à la majorité des voix
 
 Si un membre est empêché d’assister à une réunion, il en informe immédiatement le secrétaire qui pourvoit alors à son remplacement dans la mesure du possible. Le membre suppléant remplace le membre effectif empêché.
 
-<a id="art_N1C900"></a>
+<a id="art_N1D65A"></a>
 
 ### Art. 10. Procès-verbal
 
@@ -5534,7 +4571,7 @@ Le secrétaire dresse un procès-verbal des délibérations de la commission. Le
 
 Copie du procès-verbal est transmise par le secrétaire aux membres effectifs et suppléants de la commission, aux membres du conseil communal et au ministre ayant dans ses attributions l’Intégration.
 
-<a id="art_N1C94B"></a>
+<a id="art_N1D6A5"></a>
 
 ### Art. 11. Information
 
@@ -5542,19 +4579,19 @@ L’administration communale, après concertation avec la commission, informe le
 
 La commission établit annuellement un rapport d’activités qu’elle transmet au conseil communal, au ministre ayant dans ses attributions l’Intégration et au Conseil national pour étrangers pour information. Le conseil communal met le rapport d’activités à disposition des résidents qui peuvent le consulter à la maison communale et, sans déplacement, sur le site internet de la commune et du ministre ayant dans ses attributions l’Intégration .
 
-<a id="art_N1C9A2"></a>
+<a id="art_N1D6FC"></a>
 
 ### Art. 12. Disposition abrogatoire
 
 Le règlement grand-ducal du 5 août 1989 fixant l’organisation et le fonctionnement des commissions consultatives pour étrangers est abrogé.
 
-<a id="art_N1C9DD"></a>
+<a id="art_N1D737"></a>
 
 ### Art. 13.
 
 Le présent règlement entre en vigueur le jour de sa publication au Mémorial.
 
-<a id="art_N1CA0F"></a>
+<a id="art_N1D769"></a>
 
 ### Art. 14.
 
@@ -5564,7 +4601,7 @@ Notre Ministre de la Famille et de l’Intégration et Notre Ministre de l’Int
 
 #### **Chapitre I.** — **Répartition des représentants des étrangers au Conseil national pour étrangers**
 
-<a id="art_N1CA68"></a>
+<a id="art_N1D7C2"></a>
 
 ### Art. 1er.
 
@@ -5574,7 +4611,7 @@ e service central de la statistique et des études économiques, le nombre de re
 
 **(2)** Le nombre des représentants de pays ne faisant pas partie de l’Union européenne est fixé à 7.
 
-<a id="art_N1CAB7"></a>
+<a id="art_N1D811"></a>
 
 ### Art. 2.
 
@@ -5584,13 +4621,13 @@ e service central de la statistique et des études économiques, le nombre de re
 
 **(3)** Pour l’ensemble des autres Etats membres de l’Union européenne, il y a 5 membres effectifs et 5 membres suppléants qui sont proposés dans l’ordre du nombre de voix obtenues, étant donné que les 5 candidats ayant obtenu le plus de voix sont proposés comme membres effectifs, sans qu’il ne puisse y avoir plus d’un membre effectif ou suppléant proposé par Etat.
 
-<a id="art_N1CB2C"></a>
+<a id="art_N1D886"></a>
 
 ### Art. 3.
 
 Pour l’ensemble des Etats hors Union européenne, il y a 7 membres effectifs et 7 membres suppléants qui sont proposés dans l’ordre du nombre de voix obtenues, étant donné que les 7 candidats ayant obtenu le plus de voix sont proposés comme membres effectifs, sans qu’il ne puisse y avoir plus d’un membre effectif ou suppléant proposé par Etat.
 
-<a id="art_N1CB5E"></a>
+<a id="art_N1D8B8"></a>
 
 ### Art. 4.
 
@@ -5604,7 +4641,7 @@ En cas de décès ou de démission d’un membre du conseil, son suppléant le r
 
 #### **Chapitre II.** — **Associations admises à proposer les représentants des étrangersau ministre ayant dans ses attributions l’Intégration**
 
-<a id="art_N1CBD3"></a>
+<a id="art_N1D92D"></a>
 
 ### Art. 5.
 
@@ -5615,7 +4652,7 @@ Sont admises à proposer les représentants des étrangers au ministre ayant dan
 
 Les associations visées à l’alinéa qui précède doivent être inscrites auprès du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région, ci-après « Ministère » au plus tard le quinzième jour avant le jour du scrutin et avoir produit le rapport d’activité annuel de l’exercice précédant le vote du nouveau conseil ainsi que la liste actuelle des membres.
 
-<a id="art_N1CC25"></a>
+<a id="art_N1D97F"></a>
 
 ### Art. 6.
 
@@ -5635,7 +4672,7 @@ La liste des inscriptions est révisée annuellement.
 
 #### **Chapitre III.** — **Modalités de désignation des candidats**
 
-<a id="art_N1CCC3"></a>
+<a id="art_N1DA1D"></a>
 
 ### Art. 7.
 
@@ -5643,7 +4680,7 @@ Les représentants des étrangers à proposer au ministre sont élus parmi les p
 
 ##### 1. — Les candidatures
 
-<a id="art_N1CD00"></a>
+<a id="art_N1DA5A"></a>
 
 ### Art. 8.
 
@@ -5657,7 +4694,7 @@ Pour être candidat sur une liste électorale, il faut:
 
 La candidature peut être posée par la personne concernée elle-même ou par une ou plusieurs associations inscrites auprès du Ministère avec l’accord écrit du concerné.
 
-<a id="art_N1CD5B"></a>
+<a id="art_N1DAB5"></a>
 
 ### Art. 9.
 
@@ -5665,7 +4702,7 @@ Au moins 40 jours avant la date fixée pour le scrutin, le Ministère fait un ap
 
 L’appel aux candidatures paraît également sur le site internet du Ministère et sur le guichet en ligne du Grand-Duché de Luxembourg.
 
-<a id="art_N1CDAE"></a>
+<a id="art_N1DB08"></a>
 
 ### Art. 10.
 
@@ -5679,7 +4716,7 @@ La déclaration de candidature est accompagnée:
 
 La liste des candidats déclarés est affichée au Ministère du quinzième jour précédant les élections jusqu’au jour fixé pour les élections. Elle est provisoire jusqu’au huitième jour précédant les élections où elle est arrêtée définitivement. Elle peut être consultée par tout intéressé.
 
-<a id="art_N1CE18"></a>
+<a id="art_N1DB72"></a>
 
 ### Art. 11.
 
@@ -5689,7 +4726,7 @@ Si l’éligibilité d’un candidat, du point de vue des condamnations encourue
 
 ##### 2. — Constitution du bureau de vote
 
-<a id="art_N1CE6B"></a>
+<a id="art_N1DBC5"></a>
 
 ### Art. 12.
 
@@ -5710,61 +4747,61 @@ Ce règlement est arrêté par le ministre.
 
 ##### 3. — Scrutin
 
-<a id="art_N1CEEC"></a>
+<a id="art_N1DC46"></a>
 
 ### Art. 13.
 
 Le jour du scrutin est fixé par le ministre.
 
-<a id="art_N1CF1E"></a>
+<a id="art_N1DC78"></a>
 
 ### Art. 14.
 
 Chaque association inscrite auprès du Ministère a le droit de vote et dispose d’autant de voix qu’il y a de représentants à désigner.
 
-<a id="art_N1CF5C"></a>
+<a id="art_N1DCB6"></a>
 
 ### Art. 15.
 
 Chacune des associations désigne par information écrite à faire parvenir au Ministère au plus tard le quinzième jour avant la date du scrutin, les nom, prénom, profession, nationalité et domicile de son mandataire ayant qualité de voter en son nom. Ce dernier ne peut pas figurer sur la liste des candidatures.
 
-<a id="art_N1CF9A"></a>
+<a id="art_N1DCF4"></a>
 
 ### Art. 16.
 
 Les mandataires visés à l’article 15 sont convoqués par les soins du Ministère au moins huit jours avant le scrutin.
 
-<a id="art_N1CFD8"></a>
+<a id="art_N1DD32"></a>
 
 ### Art. 17.
 
 Le jour du scrutin, l’assemblée des mandataires représentant les associations inscrites auprès du Ministère est présidée par le président du bureau de vote.
 
-<a id="art_N1D016"></a>
+<a id="art_N1DD70"></a>
 
 ### Art. 18.
 
 Les bulletins de vote comportant les nom, prénom, nationalité et domicile de tous les candidats éligibles sont distribués aux mandataires.
 
-<a id="art_N1D048"></a>
+<a id="art_N1DDA2"></a>
 
 ### Art. 19.
 
 Les candidats ont le droit d’assister et de se présenter aux mandataires des associations durant un laps de temps prédéfini ne pouvant excéder 5 minutes par personne.
 
-<a id="art_N1D07A"></a>
+<a id="art_N1DDD4"></a>
 
 ### Art. 20.
 
 Les présentations faites, il est procédé au vote. Les opérations de vote sont secrètes et s’effectuent dans un cadre adapté à garantir le secret des votes.
 
-<a id="art_N1D0AC"></a>
+<a id="art_N1DE06"></a>
 
 ### Art. 21.
 
 Le vote s’effectue au scrutin majoritaire plurinominal à un tour.
 
-<a id="art_N1D0DE"></a>
+<a id="art_N1DE38"></a>
 
 ### Art. 22.
 
@@ -5774,7 +4811,7 @@ Nul ne peut être mandataire de plus d’une association.
 
 Chaque candidat ne peut obtenir qu’une seule voix.
 
-<a id="art_N1D122"></a>
+<a id="art_N1DE7C"></a>
 
 ### Art. 23.
 
@@ -5784,13 +4821,13 @@ Sont nuls:
 2. les bulletins qui ne contiennent l’expression d’aucun suffrage
 3. les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconque.
 
-<a id="art_N1D162"></a>
+<a id="art_N1DEBC"></a>
 
 ### Art. 24.
 
 Les membres du bureau de vote recueillent tous les bulletins exprimés dans une urne spécialement destinée à ces fins.
 
-<a id="art_N1D194"></a>
+<a id="art_N1DEEE"></a>
 
 ### Art. 25.
 
@@ -5798,25 +4835,25 @@ Le dépouillement des bulletins est public et se fait par proclamation orale en 
 
 En cas d’égalité des voix, le départage se fait par tirage au sort.
 
-<a id="art_N1D1CF"></a>
+<a id="art_N1DF29"></a>
 
 ### Art. 26.
 
 Pour autant que le scrutin ne dégage pas le nombre de représentants effectifs et suppléants visés aux articles 1 à 4, soit par manque de candidats, soit par défaut de voix obtenues, le ministre, après avoir consulté les associations d’étrangers ayant participé au vote et sur leur proposition, nomme les représentants manquants.
 
-<a id="art_N1D201"></a>
+<a id="art_N1DF5B"></a>
 
 ### Art. 27.
 
 Les représentants effectifs et suppléants désignés selon les articles qui précèdent sont proposés au nom des associations ayant participé au vote par l’intermédiaire du Ministère au ministre.
 
-<a id="art_N1D23F"></a>
+<a id="art_N1DF99"></a>
 
 ### Art. 28.
 
 Les représentants effectifs et suppléants des étrangers sont nommés respectivement membres effectifs et membres suppléants du conseil pour une durée de cinq ans par le ministre au vu des propositions lui transmises conformément à l’article 27.
 
-<a id="art_N1D271"></a>
+<a id="art_N1DFCB"></a>
 
 ### Art. 29.
 
@@ -5824,19 +4861,19 @@ En cas de démission, de décès ou d’acquisition de la nationalité luxembour
 
 Les membres ainsi nommés achèveront le mandat de leur prédécesseur.
 
-<a id="art_N1D2AC"></a>
+<a id="art_N1E006"></a>
 
 ### Art. 30.
 
 Le règlement grand-ducal modifié du 29 mars 1995 portant détermination des modalités de désignation des représentants des étrangers au Conseil national pour étrangers, ainsi que leur répartition par nationalités est abrogé.
 
-<a id="art_N1D2E3"></a>
+<a id="art_N1E03D"></a>
 
 ### Art. 31.
 
 Le présent règlement entre en vigueur le jour de sa publication au Mémorial.
 
-<a id="art_N1D315"></a>
+<a id="art_N1E06F"></a>
 
 ### Art. 32.
 
@@ -5844,7 +4881,7 @@ Notre Ministre de la Famille et de l’Intégration est chargée de l’exécuti
 
 ### **Règlement grand-ducal du 21 février 1996 portant détermination de la composition et du fonctionnement des commissions spéciales du Conseil National pour étrangers.**
 
-<a id="art_N1D360"></a>
+<a id="art_N1E0BA"></a>
 
 ### Art. 1er.
 
@@ -5852,25 +4889,25 @@ Le Conseil National pour étrangers peut instituer des commissions nécessaires 
 
 Elles constituent des sous-organes du Conseil National pour étrangers qui en détermine les compétences.
 
-<a id="art_N1D376"></a>
+<a id="art_N1E0D0"></a>
 
 ### Art. 2.
 
 Les commissions peuvent comprendre des non-membres du Conseil National pour étrangers, sans que le nombre de ces derniers ne puisse être supérieur à celui des membres, effectifs ou suppléants, du Conseil National pour étrangers.
 
-<a id="art_N1D386"></a>
+<a id="art_N1E0E0"></a>
 
 ### Art. 3.
 
 Les membres des commissions sont proposés par le Conseil National pour étrangers et nommés par le Ministre ayant dans ses attributions la Famille.
 
-<a id="art_N1D396"></a>
+<a id="art_N1E0F0"></a>
 
 ### Art. 4.
 
 Le mandat des membres des commissions cesse au plus tard avec la fin du mandat du Conseil National pour étrangers. Il est renouvelable suivant la même procédure de nomination.
 
-<a id="art_N1D3A6"></a>
+<a id="art_N1E100"></a>
 
 ### Art. 5.
 
@@ -5878,19 +4915,19 @@ Dans ses propositions le Conseil National pour étrangers tiendra compte dans la
 
 Parmi les non-membres du Conseil National pour étrangers, les propositions visent à choisir des personnes ayant de par leurs activités professionnelles ou privées des capacités spéciales en relation avec la matière à traiter par la commission tout en tenant compte du caractère paritaire du Conseil National pour étrangers et de ses sous-organes.
 
-<a id="art_N1D3B9"></a>
+<a id="art_N1E113"></a>
 
 ### Art. 6.
 
 Les commissions spéciales sont composées de cinq membres au minimum et de treize membres au maximum, dont au moins 2 membres effectifs du Conseil National pour étrangers.
 
-<a id="art_N1D3C9"></a>
+<a id="art_N1E123"></a>
 
 ### Art. 7.
 
 Toutes les commissions spéciales nomment dans leur sein, pour la durée du mandat de la commission, un président et un vice-président, le président devant être un membre effectif du Conseil National pour étrangers.
 
-<a id="art_N1D3D9"></a>
+<a id="art_N1E133"></a>
 
 ### Art. 8.
 
@@ -5898,7 +4935,7 @@ Le président de la commission en est le porte-parole et le représentant au sei
 
 Cette fonction ne peut être déléguée qu'à un autre membre effectif du Conseil National pour étrangers, membre de la commission.
 
-<a id="art_N1D3EC"></a>
+<a id="art_N1E146"></a>
 
 ### Art. 9.
 
@@ -5908,7 +4945,7 @@ Elles peuvent se subdiviser en sections spéciales.
 
 Sauf disposition spéciale contraire, les rapports des commissions avec le Gouvernement et les autres autorités publiques ont lieu par l'intermédiaire du Gouvernement.
 
-<a id="art_N1D402"></a>
+<a id="art_N1E15C"></a>
 
 ### Art. 10.
 
@@ -5916,19 +4953,19 @@ Chaque membre du Conseil National pour étrangers peut assister aux réunions de
 
 Les président et vice-président du Conseil National pour étrangers qui assistent aux réunions des commissions y ont droit à la parole, sans pouvoir participer au vote.
 
-<a id="art_N1D415"></a>
+<a id="art_N1E16F"></a>
 
 ### Art. 11.
 
 Les commissions peuvent élaborer un règlement d'ordre intérieur, lequel est approuvé par le Conseil National pour étrangers. A défaut, elles appliquent mutatis mutandis le règlement d'ordre intérieur du Conseil National pour étrangers.
 
-<a id="art_N1D425"></a>
+<a id="art_N1E17F"></a>
 
 ### Art. 12.
 
 Les procès-verbaux des réunions, les avis et propositions, ainsi que tous autres documents formulés par la commission ou y distribués, sont communiqués d'office au secrétariat du Conseil National pour étrangers, aux fins de diffusion à ses membres.
 
-<a id="art_N1D435"></a>
+<a id="art_N1E18F"></a>
 
 ### Art. 13.
 
@@ -5936,7 +4973,7 @@ Les membres de la commission ont droit à des jetons de présence fixés au mêm
 
 Ils sont libérés de leur travail pour participer aux réunions de la commission avec compensation d'une éventuelle perte de salaire suivante les mêmes barêmes que pour les membres du Conseil National pour étrangers.
 
-<a id="art_N1D448"></a>
+<a id="art_N1E1A2"></a>
 
 ### Art. 14.
 
@@ -5948,13 +4985,13 @@ Notre Ministre de la Famille est chargée de l'exécution du présent règlement
 
 #### Chapitre 1er — La définition et les instruments du vivre-ensemble interculturel
 
-<a id="art_N1D47F"></a>
+<a id="art_N1E1D9"></a>
 
 ### Art. 1er. La définition du vivre-ensemble interculturel
 
 Au sens de la présente loi, le « vivre-ensemble interculturel » est un processus participatif, dynamique et continu destiné à permettre à chaque personne qui réside ou travaille au Grand-Duché de Luxembourg de vivre, de travailler et de décider ensemble. Il est fondé sur le respect mutuel, la tolérance, la solidarité, la cohésion sociale et la lutte contre le racisme et toute forme de discrimination. Il établit la diversité comme une richesse et un atout pour le développement d’une société interculturelle.
 
-<a id="art_N1D496"></a>
+<a id="art_N1E1F0"></a>
 
 ### Art. 2. Les instruments du vivre-ensemble interculturel
 
@@ -5965,7 +5002,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 3. le programme du vivre-ensemble interculturel, ci-après « programme » ;
 4. le pacte communal du vivre-ensemble interculturel, ci-après « pacte communal ».
 
-<a id="art_N1D4BB"></a>
+<a id="art_N1E215"></a>
 
 ### Art. 3. Le plan d’action national du vivre-ensemble interculturel
 
@@ -5997,7 +5034,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 **(11)** La procédure prescrite pour l’élaboration du plan d’action national est également applicable aux modifications du plan d’action national.
 
-<a id="art_N1D58A"></a>
+<a id="art_N1E2E4"></a>
 
 ### Art. 4. Le pacte citoyen du vivre-ensemble interculturel
 
@@ -6021,7 +5058,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 **(7)** Le pacte citoyen prend fin si l’adhérent ne participe à aucun module du programme pendant une période de deux ans. Passé ce délai, les données à caractère personnel sont anonymisées.
 
-<a id="art_N1D61C"></a>
+<a id="art_N1E376"></a>
 
 ### Art. 5. Le programme du vivre-ensemble interculturel
 
@@ -6049,7 +5086,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 **(5)** L’accomplissement des modules d’introduction à la vie au Grand-Duché de Luxembourg est pris en considération dans le cadre de la demande en obtention du statut de résident de longue durée en vertu de l’article 81, paragraphe 3, de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
 
-<a id="art_N1D6BB"></a>
+<a id="art_N1E415"></a>
 
 ### Art. 6. Le pacte communal du vivre-ensemble interculturel
 
@@ -6112,7 +5149,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 #### Chapitre 2 — Conseil supérieur du vivre-ensemble interculturel
 
-<a id="art_N1D83D"></a>
+<a id="art_N1E597"></a>
 
 ### Art. 7. Les missions du Conseil supérieur du vivre-ensemble interculturel
 
@@ -6130,7 +5167,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 **(4)** Il peut réaliser et faire réaliser des enquêtes, des analyses, des études, des rapports ou des avis sur les différents aspects du vivre-ensemble interculturel.
 
-<a id="art_N1D89C"></a>
+<a id="art_N1E5F6"></a>
 
 ### Art. 8. La composition du Conseil supérieur du vivre-ensemble interculturel
 
@@ -6152,7 +5189,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 #### Chapitre 3 — Commission communale du vivre-ensemble interculturel
 
-<a id="art_N1D920"></a>
+<a id="art_N1E67A"></a>
 
 ### Art. 9. Les missions de la Commission communale du vivre-ensemble interculturel
 
@@ -6167,7 +5204,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 5. de veiller au respect des valeurs du vivre-ensemble interculturel et notamment de sensibiliser et de mettre en place des mesures de lutte contre le racisme et toute forme de discrimination au niveau de la commune ;
 6. d’élire les représentants communaux du conseil supérieur.
 
-<a id="art_N1D962"></a>
+<a id="art_N1E6BC"></a>
 
 ### Art. 10. La composition de la Commission communale du vivre-ensemble interculturel
 
@@ -6179,7 +5216,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 #### Chapitre 4 — Aides financières
 
-<a id="art_N1D9A8"></a>
+<a id="art_N1E702"></a>
 
 ### Art. 11. La forme et les bénéficiaires du soutien financier
 
@@ -6189,7 +5226,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 **(3)** Le soutien financier peut prendre la forme d’un subside ou d’une participation financière aux frais de fonctionnement.
 
-<a id="art_N1D9EE"></a>
+<a id="art_N1E748"></a>
 
 ### Art. 12. Le subside
 
@@ -6199,7 +5236,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 **(3)** Le bénéficiaire du subside doit assurer le suivi et l’évaluation du projet.
 
-<a id="art_N1DA29"></a>
+<a id="art_N1E783"></a>
 
 ### Art. 13. La participation financière aux frais de fonctionnement
 
@@ -6221,7 +5258,7 @@ Le ministre ayant l’Intégration dans ses attributions, ci-après « ministre 
 
 #### Chapitre 5 — Dispositions modificatives, abrogatoires, transitoires et intitulé de citation
 
-<a id="art_N1DA95"></a>
+<a id="art_N1E7EF"></a>
 
 ### Art. 14. Dispositions modificatives
 
@@ -6231,25 +5268,25 @@ La loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise est modifié
 2. ou le module d’au moins six heures qui permet d’avoir un aperçu sur le Grand-Duché de Luxembourg, organisé dans le cadre du pacte citoyen du vivre-ensemble interculturel, contrat d’accueil et d’intégration, équivaut à la participation
 2. er ou des modules d’introduction à la vie au Grand-Duché de Luxembourg, organisés dans le cadre du pacte citoyen du vivre-ensemble interculturel contrat d’accueil et d’intégration
 
-<a id="art_N1DAE0"></a>
+<a id="art_N1E83A"></a>
 
 ### Art. 15. Disposition abrogatoire
 
 La loi modifiée du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg est abrogée.
 
-<a id="art_N1DAFA"></a>
+<a id="art_N1E854"></a>
 
 ### Art. 16. Disposition transitoire
 
 Par dérogation à l’article 15, les articles 8 à 13 de la loi modifiée du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg continuent à s’appliquer aux contrats d’accueil et d’intégration signés avant la date de mise en vigueur de la présente loi.
 
-<a id="art_N1DB14"></a>
+<a id="art_N1E86E"></a>
 
 ### Art. 17. Intitulé de citation
 
 La référence à la présente loi se fait sous la forme suivante : « Loi du 23 août 2023 relative au vivre-ensemble interculturel ».
 
-<a id="art_N1DB2D"></a>
+<a id="art_N1E887"></a>
 
 ### Art. 18. Entrée en vigueur
 
@@ -6259,13 +5296,13 @@ La présente loi entre en vigueur le 1er janvier 2024.
 
 ### **Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.**
 
-<a id="art_N1DB75"></a>
+<a id="art_N1E8CF"></a>
 
 ### Art. 9.
 
 La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi.
 
-<a id="art_N1DBAF"></a>
+<a id="art_N1E909"></a>
 
 ### Art. 10.
 
@@ -6273,13 +5310,13 @@ La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après le
 
 **(2)** Sans préjudice de l’article 64, la loi peut conférer l’exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_N1DC04"></a>
+<a id="art_N1E95E"></a>
 
 ### Art. 11.
 
 La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourgeois les emplois publics comportant une participation directe ou indirecte à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’État.
 
-<a id="art_N1DC3E"></a>
+<a id="art_N1E998"></a>
 
 ### Art. 64.
 
@@ -6291,7 +5328,7 @@ La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourg
 
 ### **Loi du 27 juillet 1992 portant approbation du Traité sur l'Union Européenne et de l'Acte final, signés à Maastricht, le 7 février 1992.**
 
-<a id="art_N1DCB2"></a>
+<a id="art_N1EA0C"></a>
 
 ### Article unique.
 
@@ -6303,7 +5340,7 @@ Sont approuvés
 
 ### **Version consolidée applicable au 14/08/2023 : Loi communale du 13 décembre 1988.**
 
-<a id="art_N1DCE7"></a>
+<a id="art_N1EA41"></a>
 
 ### Art. 14.
 
@@ -6311,13 +5348,13 @@ Le conseil communal se donne un règlement d’ordre intérieur qui arrête la f
 
 La langue usuelle parlée au conseil communal est le luxembourgeois. Les conseillers peuvent s’exprimer également dans l’une des autres langues visées à l’article 3 de la loi du 24 février 1984 sur le régime des langues. Nul ne saurait toutefois demander une interprétation de la langue parlée ou une traduction des documents écrits présentés en une des langues visées par la loi précitée ou en toute autre langue.
 
-<a id="art_N1DD32"></a>
+<a id="art_N1EA8C"></a>
 
 ### Art. 39.
 
 Les échevins sont nommés par le ministre de l’Intérieur sur présentation de la majorité des nouveaux élus au conseil communal ou du conseil communal. La nomination du candidat proposé est de droit, à moins qu’il n’ait perdu une condition d’éligibilité ou qu’il ne soit frappé d’une incompatibilité, auquel cas le ministre de l’Intérieur demande aux nouveaux élus au conseil communal ou au conseil communal de désigner un nouveau candidat.
 
-<a id="art_N1DD69"></a>
+<a id="art_N1EAC3"></a>
 
 ### Art. 59.
 
@@ -6329,7 +5366,7 @@ Toutefois, il perd la qualité de bourgmestre si, dans l’intervalle, il cesse 
 
 ### **Version consolidée applicable au 26/04/2024 : Loi électorale du 18 février 2003 et portant modification - de la loi du 31 octobre 1977 portant fusion des communes de Asselborn, Boevange/Clervaux, Hachiville et Oberwampach - de la loi du 27 juillet 1978 portant fusion des communes de Arsdorf, Bigonville, Folschette et Perlé - de la loi du 23 décembre 1978 portant fusion des communes de Harlange et Mecher - de la loi du 23 décembre 1978 portant fusion des communes de Junglinster et de Rodenbourg**
 
-<a id="art_N1DDC9"></a>
+<a id="art_N1EB23"></a>
 
 ### Art. 1er.
 
@@ -6340,7 +5377,7 @@ Pour être électeur aux élections législatives il faut:
 3. jouir des droits civils et politiques;
 4. être domicilié dans le Grand-Duché de Luxembourg; les Luxembourgeois domiciliés à l’étranger sont admis aux élections législatives par la voie du vote par correspondance.
 
-<a id="art_N1DE13"></a>
+<a id="art_N1EB6D"></a>
 
 ### Art. 2.
 
@@ -6352,7 +5389,7 @@ Pour être électeur aux élections communales il faut:
 4. pour les ressortissants d’un autre État membre de l’Union européenne ou de l’Espace Schengen être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi ;
 5. pour les autres ressortissants étrangers, disposer d’une carte ou d’un titre de séjour ou d’une carte de légitimation en cours de validité, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
 
-<a id="art_N1DE5D"></a>
+<a id="art_N1EBB7"></a>
 
 ### Art. 3.
 
@@ -6364,7 +5401,7 @@ Pour être électeur aux élections européennes, il faut:
 4. pour les Luxembourgeois, être domicilié dans le Grand-Duché; les Luxembourgeois domiciliés à l’étranger sont admis aux élections européennes par la voie du vote par correspondance;
 5. pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
 
-<a id="art_N1DEA7"></a>
+<a id="art_N1EC01"></a>
 
 ### Art. 7.
 
@@ -6384,7 +5421,7 @@ La tenue et la mise à jour des listes électorales se font soit sur papier, soi
 
 Cette délégation est exercée sous la surveillance et la responsabilité du collège des bourgmestre et échevins.
 
-<a id="art_N1DF27"></a>
+<a id="art_N1EC81"></a>
 
 ### Art. 8.
 
@@ -6418,7 +5455,7 @@ Le collège des bourgmestre et échevins informe, par lettre individuelle, les i
 
 En cas de refus d’inscription, le collège des bourgmestre et échevins indique le ou les motifs qui sont à la base du refus d’inscription en vertu des dispositions des articles 1, 2, 3 et 6 ainsi que les voies et procédures de recours prévues aux articles 12, 15, et 17.
 
-<a id="art_N1E003"></a>
+<a id="art_N1ED5D"></a>
 
 ### Art. 12.
 
@@ -6438,7 +5475,7 @@ L’avis mentionne en outre qu’une réclamation tendant à l’inscription d�
 
 **(4)** Les citoyens n’ayant pas encore atteint l’âge de 18 ans lors du dépôt des listes mais qui, en vertu des dispositions des articles 1, 2 et 3, peuvent participer aux élections, doivent adresser leurs éventuelles réclamations au collège des bourgmestre et échevins par l’intermédiaire de leurs tuteurs légaux respectifs.
 
-<a id="art_N1E095"></a>
+<a id="art_N1EDEF"></a>
 
 ### Art. 60.
 
@@ -6454,7 +5491,7 @@ En cas d’élections législatives ou européennes, le président du bureau pri
 
 Les membres des bureaux de vote et les témoins ainsi que les secrétaires et les secrétaires adjoints qui sont électeurs de la commune, votent dans le bureau où ils sont appelés à remplir leurs fonctions.
 
-<a id="art_N1E0F9"></a>
+<a id="art_N1EE53"></a>
 
 ### Art. 68.
 
@@ -6462,7 +5499,7 @@ Les collèges des bourgmestre et échevins envoient, au moins cinq jours à l’
 
 Suivant qu’il s’agit de convoquer les électeurs à des élections législatives, communales ou européennes, le chapitre A, B ou C des instructions pour l’électeur annexées à la présente loi ainsi que la liste des candidats sont reproduits sur la lettre de convocation.
 
-<a id="art_N1E139"></a>
+<a id="art_N1EE93"></a>
 
 ### Art. 78.
 
@@ -6474,7 +5511,7 @@ Il lui est interdit de déplier son bulletin en sortant du compartiment-isoloir,
 
 Si l’électeur, par inadvertance, détériore le bulletin qui lui a été remis, il peut en demander un autre au président, en lui rendant le premier, qui est aussitôt détruit. Il en est fait mention au procès-verbal.
 
-<a id="art_N1E18B"></a>
+<a id="art_N1EEE5"></a>
 
 ### Art. 289.
 
@@ -6486,13 +5523,13 @@ Le membre du Parlement européen élu au Grand-Duché de Luxembourg qui a été 
 
 #### **Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.**
 
-<a id="art_N1E1F2"></a>
+<a id="art_N1EF4C"></a>
 
 ### Art. 9.
 
 La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après les règles déterminées par la loi.
 
-<a id="art_N1E22C"></a>
+<a id="art_N1EF86"></a>
 
 ### Art. 10.
 
@@ -6500,7 +5537,7 @@ La qualité de Luxembourgeois s’acquiert, se conserve et se perd d’après le
 
 **(2)** Sans préjudice de l’article 64, la loi peut conférer l’exercice de droits politiques à des non-Luxembourgeois.
 
-<a id="art_N1E281"></a>
+<a id="art_N1EFDB"></a>
 
 ### Art. 11.
 
@@ -6512,7 +5549,7 @@ La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourg
 
 ##### Section 1ère. — Des Luxembourgeois en raison de la filiation
 
-<a id="art_N1E2F2"></a>
+<a id="art_N1F04C"></a>
 
 ### Art. 1er.
 
@@ -6520,7 +5557,7 @@ La loi règle l’accès aux emplois publics. Elle peut réserver aux Luxembourg
 
 **(2)** Dans le cas où le jugement ou l’arrêt déclaratif de filiation est rendu après la mort du parent, le mineur est Luxembourgeois lorsque le parent possède la nationalité luxembourgeoise au jour de son décès ou de la naissance du mineur.
 
-<a id="art_N1E33B"></a>
+<a id="art_N1F095"></a>
 
 ### Art. 2.
 
@@ -6531,7 +5568,7 @@ Obtient la nationalité luxembourgeoise :
 
 ##### Section 2. — Des Luxembourgeois en raison de l’adoption
 
-<a id="art_N1E385"></a>
+<a id="art_N1F0DF"></a>
 
 ### Art. 3.
 
@@ -6545,13 +5582,13 @@ Obtient la nationalité luxembourgeoise :
 
 ##### Section 3. — Des Luxembourgeois en raison de la naissance au Grand-Duché de Luxembourg
 
-<a id="art_N1E3D8"></a>
+<a id="art_N1F132"></a>
 
 ### Art. 4.
 
 Est Luxembourgeois le mineur né au Grand-Duché de Luxembourg, dont un des parents ou adoptants non-luxembourgeois y est également né.
 
-<a id="art_N1E40A"></a>
+<a id="art_N1F164"></a>
 
 ### Art. 5.
 
@@ -6561,7 +5598,7 @@ Est Luxembourgeois:
 2. le mineur né au Grand-Duché de Luxembourg de parents non-luxembourgeois, à condition que l’application d’aucune loi étrangère ne lui permette d’obtenir la nationalité de l’un ou l’autre de ses parents ou que l’attribution de ces nationalités étrangères ne soit possible qu’en cas de résidence dans les pays concernés; ou
 3. le mineur né au Grand-Duché de Luxembourg de parents légalement inconnus; le mineur trouvé sur le territoire luxembourgeois est présumé, jusqu’à la preuve du contraire, être né sur ce territoire.
 
-<a id="art_N1E44B"></a>
+<a id="art_N1F1A5"></a>
 
 ### Art. 6.
 
@@ -6570,7 +5607,7 @@ Celui qui est né au Grand-Duché de Luxembourg obtient, au moment de sa majorit
 1. qu’il ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins cinq années consécutives et précédant immédiatement la majorité ; et
 2. qu’un de ses parents ou adoptants non-luxembourgeois ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins douze mois consécutifs et précédant immédiatement la naissance.
 
-<a id="art_N1E489"></a>
+<a id="art_N1F1E3"></a>
 
 ### Art. 7.
 
@@ -6580,7 +5617,7 @@ Celui qui est né au Grand-Duché de Luxembourg obtient, au moment de sa majorit
 
 ##### Section 4. — Des Luxembourgeois en raison de la possession d’état
 
-<a id="art_N1E4E1"></a>
+<a id="art_N1F23B"></a>
 
 ### Art. 8.
 
@@ -6594,31 +5631,31 @@ La preuve contraire est de droit.
 
 ##### Section 1ère. — Dispositions générales
 
-<a id="art_N1E54E"></a>
+<a id="art_N1F2A8"></a>
 
 ### Art. 9.
 
 Aux fins de la présente loi, on entend par ministre : le membre du Gouvernement ayant la Nationalité dans ses attributions.
 
-<a id="art_N1E580"></a>
+<a id="art_N1F2DA"></a>
 
 ### Art. 10.
 
 La nationalité luxembourgeoise peut être attribuée aux personnes non-luxembourgeoises par naturalisation, option ou recouvrement.
 
-<a id="art_N1E5B2"></a>
+<a id="art_N1F30C"></a>
 
 ### Art. 11.
 
 La naturalisation, l’option et le recouvrement confèrent aux personnes concernées tous les droits et devoirs qui sont attachés à la qualité de Luxembourgeois.
 
-<a id="art_N1E5E4"></a>
+<a id="art_N1F33E"></a>
 
 ### Art. 12.
 
 La naturalisation, l’option et le recouvrement ne produisent d’effet que pour l’avenir.
 
-<a id="art_N1E616"></a>
+<a id="art_N1F370"></a>
 
 ### Art. 13.
 
@@ -6636,7 +5673,7 @@ Ils sont soumis aux mêmes formalités de timbre ainsi qu’aux mêmes droits de
 
 ##### Sous-section 1ère. — Des conditions
 
-<a id="art_N1E692"></a>
+<a id="art_N1F3EC"></a>
 
 ### Art. 14.
 
@@ -6652,7 +5689,7 @@ Ils sont soumis aux mêmes formalités de timbre ainsi qu’aux mêmes droits de
 2. lorsque le candidat a fait de fausses affirmations, dissimulé des faits importants ou agi par fraude dans le cadre de la procédure de naturalisation ; ou
 3. lorsque le candidat a fait l’objet, au Grand-Duché de Luxembourg ou à l’étranger, d’une condamnation à une peine criminelle ou à l’emprisonnement ferme d’une durée de douze mois ou plus ou à l’emprisonnement avec sursis d’une durée de vingt-quatre mois ou plus et que les faits à la base de la condamnation prononcée à l’étranger constituent également une infraction pénale en droit luxembourgeois et que, le cas échéant et sauf le bénéfice d’une réhabilitation, la peine ait été définitivement exécutée moins de quinze années avant la demande de naturalisation.
 
-<a id="art_N1E6F9"></a>
+<a id="art_N1F453"></a>
 
 ### Art. 15.
 
@@ -6692,7 +5729,7 @@ Le demandeur peut être entendu par le délégué du ministre.
 
 En cas de doute, le ministre peut ordonner une expertise médicale.
 
-<a id="art_N1E7F7"></a>
+<a id="art_N1F551"></a>
 
 ### Art. 16.
 
@@ -6724,7 +5761,7 @@ Le demandeur peut être entendu par le délégué du ministre.
 
 En cas de doute, le ministre peut ordonner une expertise médicale.
 
-<a id="art_N1E8BE"></a>
+<a id="art_N1F618"></a>
 
 ### Art. 17.
 
@@ -6738,7 +5775,7 @@ En cas de doute, le ministre peut ordonner une expertise médicale.
 
 **(3)** Les frais de l’expertise médicale, ordonnée par le ministre dans le cadre d’une demande en dispense, sont remboursés au demandeur par la Caisse nationale de santé ou la caisse de maladie compétente, dans les conditions déterminées par les statuts.
 
-<a id="art_N1E932"></a>
+<a id="art_N1F68C"></a>
 
 ### Art. 18.
 
@@ -6752,7 +5789,7 @@ En cas de doute, le ministre peut ordonner une expertise médicale.
 
 ##### Sous-section 2. — De la procédure
 
-<a id="art_N1E9A8"></a>
+<a id="art_N1F702"></a>
 
 ### Art. 19.
 
@@ -6774,7 +5811,7 @@ En cas de doute, le ministre peut ordonner une expertise médicale.
 
 En cas de dispense, le candidat peut rapporter la preuve des conditions légales par tous moyens.
 
-<a id="art_N1EA65"></a>
+<a id="art_N1F7BF"></a>
 
 ### Art. 20.
 
@@ -6788,7 +5825,7 @@ Il notifie sa décision de refus au candidat.
 
 **(3)** L’officier de l’état civil transmet, directement et sans délai, au ministre une copie intégrale de l’acte valant demande de naturalisation et les pièces justificatives.
 
-<a id="art_N1EAD0"></a>
+<a id="art_N1F82A"></a>
 
 ### Art. 21.
 
@@ -6812,7 +5849,7 @@ Ce délai ne joue pas pendant la suspension visée au paragraphe qui précède.
 
 **(6)** Mention de l’arrêté ministériel est faite par l’officier de l’état civil sur l’acte valant demande de naturalisation.
 
-<a id="art_N1EB8F"></a>
+<a id="art_N1F8E9"></a>
 
 ### Art. 22.
 
@@ -6822,7 +5859,7 @@ Lorsque l’officier de l’état civil a acté la demande de naturalisation, le
 
 ##### Sous-section 1ère. — Des conditions
 
-<a id="art_N1EBDD"></a>
+<a id="art_N1F937"></a>
 
 ### Art. 23.
 
@@ -6831,7 +5868,7 @@ L’option est ouverte au majeur :
 1. lorsque son parent ou adoptant possède ou a possédé la nationalité luxembourgeoise et que cette nationalité ne lui a pas été attribuée ; ou
 2. lorsque son grand-parent possède ou a possédé la nationalité luxembourgeoise et que cette nationalité n’a pas été attribuée à son parent.
 
-<a id="art_N1EC1B"></a>
+<a id="art_N1F975"></a>
 
 ### Art. 24.
 
@@ -6841,7 +5878,7 @@ L’option est ouverte au parent d’un mineur luxembourgeois, à condition :
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours ; les dispositions de l’article 16 sont applicables.
 
-<a id="art_N1EC5C"></a>
+<a id="art_N1F9B6"></a>
 
 ### Art. 25.
 
@@ -6854,7 +5891,7 @@ L’option est ouverte au parent d’un mineur luxembourgeois, à condition :
 
 La disposition de l'alinéa qui précède n'est pas applicable au candidat qui séjourne à l'étranger en raison de l'exercice par son conjoint d'une fonction conférée par une autorité publique luxembourgeoise ou une organisation internationale.
 
-<a id="art_N1ECBA"></a>
+<a id="art_N1FA14"></a>
 
 ### Art. 26.
 
@@ -6863,13 +5900,13 @@ L’option est ouverte, à partir de l’âge de douze ans, au candidat né au G
 1. qu’il ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins cinq années consécutives et précédant immédiatement la déclaration d’option ; et
 2. qu’un de ses parents ou adoptants non-luxembourgeois ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins douze mois consécutifs et précédant immédiatement la naissance.
 
-<a id="art_N1ECF8"></a>
+<a id="art_N1FA52"></a>
 
 ### Art. 27.
 
 L’option est ouverte au majeur ayant accompli au moins sept années de sa scolarité dans le cadre de l’enseignement public luxembourgeois ou de l’enseignement privé appliquant les programmes d’enseignement public luxembourgeois, à condition d’avoir une résidence habituelle au Grand-Duché de Luxembourg et de s’y trouver en séjour régulier pendant au moins douze mois consécutifs et précédant immédiatement la déclaration d’option.
 
-<a id="art_N1ED2A"></a>
+<a id="art_N1FA84"></a>
 
 ### Art. 28.
 
@@ -6883,7 +5920,7 @@ Le cours est organisé par le Service de la formation des adultes dont le progra
 
 L’organisateur certifie la participation au cours.
 
-<a id="art_N1ED9A"></a>
+<a id="art_N1FAF4"></a>
 
 ### Art. 29.
 
@@ -6893,7 +5930,7 @@ L’option est ouverte au majeur ayant accompli les engagements résultant du co
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. er
 
-<a id="art_N1EDFF"></a>
+<a id="art_N1FB59"></a>
 
 ### Art. 30.
 
@@ -6903,7 +5940,7 @@ L’option est ouverte au majeur qui s’est installé au Grand-Duché de Luxemb
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours ; les dispositions de l’article 16 sont applicables.
 
-<a id="art_N1EE40"></a>
+<a id="art_N1FB9A"></a>
 
 ### Art. 31.
 
@@ -6913,13 +5950,13 @@ L’option est ouverte au majeur bénéficiant du statut d’apatride, du statut
 2. d’avoir une connaissance de la langue luxembourgeoise, documentée par le certificat de réussite de l’examen d’évaluation de la langue luxembourgeoise ; les dispositions de l’article 15 sont applicables ; et
 3. d’avoir participé au cours « Vivre ensemble au Grand-Duché de Luxembourg » ou réussi l’examen sanctionnant ce cours ; les dispositions de l’article 16 sont applicables.
 
-<a id="art_N1EE81"></a>
+<a id="art_N1FBDB"></a>
 
 ### Art. 32.
 
 L’option est ouverte au soldat volontaire ayant accompli au moins une année de bons et loyaux services, certifiés par le chef d’état-major de l'armée luxembourgeoise.
 
-<a id="art_N1EEB3"></a>
+<a id="art_N1FC0D"></a>
 
 ### Art. 33.
 
@@ -6931,7 +5968,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 ##### Sous-section 2. — De la procédure
 
-<a id="art_N1EF01"></a>
+<a id="art_N1FC5B"></a>
 
 ### Art. 34.
 
@@ -6965,7 +6002,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 **(2)** Les dispositions de l’article 19, paragraphes 2 et 3 sont applicables.
 
-<a id="art_N1EFED"></a>
+<a id="art_N1FD47"></a>
 
 ### Art. 35.
 
@@ -6985,7 +6022,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 **(7)** *La notification de la décision portant refus d’acter la déclaration d’option est faite par l’officier de l’état civil à la personne concernée.*
 
-<a id="art_N1F0B3"></a>
+<a id="art_N1FE0D"></a>
 
 ### Art. 36.
 
@@ -6995,7 +6032,7 @@ L’officier de l’état civil refuse d’acter la déclaration d’option :
 
 **(3)** La notification de la déclaration d’option, munie de la mention visée au paragraphe qui précède, est faite par l’officier de l’état civil à la personne concernée.
 
-<a id="art_N1F10C"></a>
+<a id="art_N1FE66"></a>
 
 ### Art. 37.
 
@@ -7012,7 +6049,7 @@ Lorsque l’annulation de la déclaration d’option est devenue définitive, l�
 
 **(3)** Celui qui a souscrit une déclaration d’option ne peut pas être éloigné ou expulsé du territoire du Grand-Duché de Luxembourg jusqu’au jour où l’annulation de cette déclaration devient définitive.
 
-<a id="art_N1F192"></a>
+<a id="art_N1FEEC"></a>
 
 ### Art. 38.
 
@@ -7024,13 +6061,13 @@ Lorsque l’annulation de la déclaration d’option est devenue définitive, l�
 
 ##### Sous-section 1ère. — Des conditions
 
-<a id="art_N1F206"></a>
+<a id="art_N1FF60"></a>
 
 ### Art. 39.
 
 Le recouvrement de la nationalité luxembourgeoise est ouvert au majeur ayant perdu la qualité de Luxembourgeois.
 
-<a id="art_N1F238"></a>
+<a id="art_N1FF92"></a>
 
 ### Art. 40.
 
@@ -7042,7 +6079,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 ##### Sous-section 2. — De la procédure
 
-<a id="art_N1F286"></a>
+<a id="art_N1FFE0"></a>
 
 ### Art. 41.
 
@@ -7063,7 +6100,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 **(2)** Les dispositions de l’article 19, paragraphes 2 et 3 sont applicables.
 
-<a id="art_N1F33F"></a>
+<a id="art_N20099"></a>
 
 ### Art. 42.
 
@@ -7079,7 +6116,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 **(6)** *La notification de la décision portant refus d’acter la déclaration de recouvrement est faite par l’officier de l’état civil à la personne concernée.*
 
-<a id="art_N1F3E6"></a>
+<a id="art_N20140"></a>
 
 ### Art. 43.
 
@@ -7089,7 +6126,7 @@ L’officier de l’état civil refuse d’acter la déclaration de recouvrement
 
 **(3)** La notification de la déclaration de recouvrement, munie de la mention visée au paragraphe qui précède, est faite par l’officier de l’état civil à la personne concernée.
 
-<a id="art_N1F43F"></a>
+<a id="art_N20199"></a>
 
 ### Art. 44.
 
@@ -7106,7 +6143,7 @@ Lorsque l’annulation de la déclaration de recouvrement est devenue définitiv
 
 **(3)** Celui qui a souscrit une déclaration de recouvrement ne peut pas être éloigné ou expulsé du territoire du Grand-Duché de Luxembourg jusqu’au jour où l’annulation de cette déclaration devient définitive.
 
-<a id="art_N1F4C5"></a>
+<a id="art_N2021F"></a>
 
 ### Art. 45.
 
@@ -7116,7 +6153,7 @@ Lorsque l’annulation de la déclaration de recouvrement est devenue définitiv
 
 ##### Chapitre 3. — Du nom et des prénoms des personnes obtenant la nationalité luxembourgeoise à la suite d’une procédure
 
-<a id="art_N1F54B"></a>
+<a id="art_N202A5"></a>
 
 ### Art. 46.
 
@@ -7124,25 +6161,25 @@ Lorsque l’annulation de la déclaration de recouvrement est devenue définitiv
 
 **(2)** Il en est de même pour le mineur qui obtient la nationalité luxembourgeoise conjointement avec la personne visée au paragraphe qui précède.
 
-<a id="art_N1F594"></a>
+<a id="art_N202EE"></a>
 
 ### Art. 47.
 
 Les titres académiques et titres de noblesse ne font pas partie intégrante du nom et des prénoms.
 
-<a id="art_N1F5C6"></a>
+<a id="art_N20320"></a>
 
 ### Art. 48.
 
 Lorsque le nom et les prénoms indiqués dans l’arrêté ministériel portant naturalisation, la déclaration d’option ou la déclaration de recouvrement diffèrent de ceux résultant de l’acte de naissance dressé ou transcrit au Grand-Duché de Luxembourg, l’officier de l’état civil en fait mention sur cet acte.
 
-<a id="art_N1F637"></a>
+<a id="art_N20391"></a>
 
 ### Art. 49.
 
 Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou recouvrement, peut demander le changement du nom et des prénoms suivant les conditions déterminées par la loi du 19 décembre 2020 sur le changement du nom et des prénoms.
 
-<a id="art_N1F67A"></a>
+<a id="art_N203D4"></a>
 
 ### Art. 50.
 
@@ -7150,15 +6187,15 @@ Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou 
 
 **(2)** Le candidat à la nationalité luxembourgeoise présente une demande motivée au ministre qui autorise ou refuse l’attribution sollicitée.
 
-<a id="art_N1F6CF"></a>
+<a id="art_N20429"></a>
 
-### art_N1F6CF
+### art_N20429
 
 **
 
-<a id="art_N1F759"></a>
+<a id="art_N204B3"></a>
 
-### art_N1F759
+### art_N204B3
 
 1. 
 2. 
@@ -7166,15 +6203,15 @@ Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou 
 4. 
 5. 
 
-<a id="art_N1F836"></a>
+<a id="art_N20590"></a>
 
-### art_N1F836
+### art_N20590
 
 
 
-<a id="art_N1F8F3"></a>
+<a id="art_N2064D"></a>
 
-### art_N1F8F3
+### art_N2064D
 
 
 
@@ -7182,13 +6219,13 @@ Celui qui obtient la nationalité luxembourgeoise par naturalisation, option ou 
 
 ##### Section 1ère. — Dispositions générales
 
-<a id="art_N1F998"></a>
+<a id="art_N206F2"></a>
 
 ### Art. 55.
 
 La nationalité luxembourgeoise se perd par renonciation ou par déchéance.
 
-<a id="art_N1F9CA"></a>
+<a id="art_N20724"></a>
 
 ### Art. 56.
 
@@ -7200,13 +6237,13 @@ La nationalité luxembourgeoise se perd par renonciation ou par déchéance.
 
 ##### Sous-section 1ère. — Des conditions
 
-<a id="art_N1FA2E"></a>
+<a id="art_N20788"></a>
 
 ### Art. 57.
 
 Le majeur peut renoncer à la nationalité luxembourgeoise, à condition que la renonciation ne le rende pas apatride.
 
-<a id="art_N1FA60"></a>
+<a id="art_N207BA"></a>
 
 ### Art. 58.
 
@@ -7217,7 +6254,7 @@ L’officier de l’état civil refuse d’acter la déclaration de renonciation
 
 ##### Sous-section 2. — De la procédure
 
-<a id="art_N1FAAB"></a>
+<a id="art_N20805"></a>
 
 ### Art. 59.
 
@@ -7232,7 +6269,7 @@ L’officier de l’état civil refuse d’acter la déclaration de renonciation
 
 **(2)** Les dispositions de l’article 19, paragraphes 2 et 3 sont applicables.
 
-<a id="art_N1FB0C"></a>
+<a id="art_N20866"></a>
 
 ### Art. 60.
 
@@ -7252,7 +6289,7 @@ Le ministre informe l’officier de l’état civil de la date de perte de la na
 
 La notification de la déclaration de renonciation, munie de la mention visée à l’alinéa qui précède, est faite par l’officier de l’état civil à la personne concernée.
 
-<a id="art_N1FB8B"></a>
+<a id="art_N208E5"></a>
 
 ### Art. 61.
 
@@ -7269,7 +6306,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 ##### Section 3. — De la déchéance de la nationalité luxembourgeoise
 
-<a id="art_N1FC0E"></a>
+<a id="art_N20968"></a>
 
 ### Art. 62.
 
@@ -7280,7 +6317,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 **(2)** La déchéance de la nationalité luxembourgeoise n’est pas admise lorsqu’elle a pour résultat de rendre apatride la personne concernée.
 
-<a id="art_N1FC63"></a>
+<a id="art_N209BD"></a>
 
 ### Art. 63.
 
@@ -7292,7 +6329,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 **(3)** La déchéance de la nationalité luxembourgeoise sort ses effets le jour de l’apposition de la mention visée au paragraphe qui précède.
 
-<a id="art_N1FCC5"></a>
+<a id="art_N20A1F"></a>
 
 ### Art. 64.
 
@@ -7302,7 +6339,7 @@ Lorsque l’annulation de la déclaration de renonciation est devenue définitiv
 
 ##### Chapitre 5. — De la compétence des officiers de l’état civil
 
-<a id="art_N1FD1B"></a>
+<a id="art_N20A75"></a>
 
 ### Art. 65.
 
@@ -7318,7 +6355,7 @@ Il peut être assisté par une tierce personne de son choix.
 
 La signature par procuration est interdite.
 
-<a id="art_N1FD8F"></a>
+<a id="art_N20AE9"></a>
 
 ### Art. 66.
 
@@ -7330,13 +6367,13 @@ La signature par procuration est interdite.
 
 **(4)** Les extraits des registres sont soumis aux mêmes formalités de timbre ainsi qu’aux mêmes droits de recherche et d’expédition que les actes de naissance.
 
-<a id="art_N1FDFC"></a>
+<a id="art_N20B56"></a>
 
 ### Art. 67.
 
 Le ministre vérifie la légalité des actes d’indigénat dressés par les officiers de l’état civil.
 
-<a id="art_N1FE2E"></a>
+<a id="art_N20B88"></a>
 
 ### Art. 68.
 
@@ -7344,7 +6381,7 @@ Le ministre vérifie la légalité des actes d’indigénat dressés par les off
 
 **(2)** Les dispositions du présent article sont également applicables en cas d’indication de la mauvaise base légale de l’acte d’indigénat ou en cas de mauvaise désignation de l’état civil de la personne concernée.
 
-<a id="art_N1FE77"></a>
+<a id="art_N20BD1"></a>
 
 ### Art. 69.
 
@@ -7352,13 +6389,13 @@ La rectification s’opère par l’apposition d’une mention sur l’acte d’
 
 ##### Chapitre 6. — De la preuve de la nationalité luxembourgeoise
 
-<a id="art_N1FEB5"></a>
+<a id="art_N20C0F"></a>
 
 ### Art. 70.
 
 La nationalité luxembourgeoise d’une personne est établie, jusqu’à la preuve du contraire, par la détention soit d’un passeport luxembourgeois en cours de validité, soit d’une carte d’identité nationale luxembourgeoise en cours de validité.
 
-<a id="art_N1FEE7"></a>
+<a id="art_N20C41"></a>
 
 ### Art. 71.
 
@@ -7378,7 +6415,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 **(4)** *Le certificat de nationalité luxembourgeoise fait foi jusqu’à la preuve du contraire.*
 
-<a id="art_N1FFA7"></a>
+<a id="art_N20D01"></a>
 
 ### Art. 72.
 
@@ -7389,7 +6426,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 **(2)** Le certificat visé au paragraphe qui précède indique la disposition légale en application de laquelle l’intéressé a perdu la nationalité luxembourgeoise et la date de perte de la qualité de Luxembourgeois.
 
-<a id="art_N1FFFC"></a>
+<a id="art_N20D56"></a>
 
 ### Art. 73.
 
@@ -7399,7 +6436,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 ##### Chapitre 7. — Du contentieux de la nationalité luxembourgeoise
 
-<a id="art_N20051"></a>
+<a id="art_N20DAB"></a>
 
 ### Art. 74.
 
@@ -7412,7 +6449,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 3. l’arrêté ministériel portant déchéance de la qualité de Luxembourgeois ;
 4. l’arrêté ministériel portant interdiction d’introduire une procédure de naturalisation, d’option ou de recouvrement.
 
-<a id="art_N200B8"></a>
+<a id="art_N20E12"></a>
 
 ### Art. 75.
 
@@ -7422,7 +6459,7 @@ La nationalité luxembourgeoise d’une personne est établie, jusqu’à la pre
 
 **(3)** Un recours en réformation est ouvert devant le tribunal administratif contre la décision du ministre confirmant la décision de l’officier de l’état civil portant refus de dresser un acte d’indigénat.
 
-<a id="art_N20111"></a>
+<a id="art_N20E6B"></a>
 
 ### Art. 76.
 
@@ -7430,43 +6467,43 @@ Lorsque l’état civil résulte d’une décision rendue par une juridiction é
 
 ##### Chapitre 8. — Du conflit de lois
 
-<a id="art_N2014F"></a>
+<a id="art_N20EA9"></a>
 
 ### Art. 77.
 
 L'attribution et la perte de la nationalité luxembourgeoise sont régies par la loi en vigueur au temps de l'acte ou du fait auquel la loi attache ces effets.
 
-<a id="art_N20181"></a>
+<a id="art_N20EDB"></a>
 
 ### Art. 78.
 
 Les questions préalables de droit civil conditionnant l’attribution de la nationalité luxembourgeoise sont régies par la loi applicable conformément à la règle générale de conflit de lois.
 
-<a id="art_N201B3"></a>
+<a id="art_N20F0D"></a>
 
 ### Art. 79.
 
 Dans la présente loi, majorité et minorité s'entendent au sens de la loi luxembourgeoise.
 
-<a id="art_N201E5"></a>
+<a id="art_N20F3F"></a>
 
 ### Art. 80.
 
 La résidence habituelle du candidat au Grand-Duché de Luxembourg est déterminée en application des dispositions de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques.
 
-<a id="art_N2021B"></a>
+<a id="art_N20F75"></a>
 
 ### Art. 81.
 
 Le séjour régulier du candidat au Grand-Duché de Luxembourg est déterminé en application des dispositions de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
 
-<a id="art_N20251"></a>
+<a id="art_N20FAB"></a>
 
 ### Art. 82.
 
 La période entre le jour du dépôt de la demande de protection internationale ou de la demande de reconnaissance du statut d’apatride et celui de l’octroi du statut de réfugié, de celui de la protection subsidiaire ou de celui d’apatride est assimilée à une résidence habituelle et à un séjour régulier au sens de la présente loi.
 
-<a id="art_N20283"></a>
+<a id="art_N20FDD"></a>
 
 ### Art. 83.
 
@@ -7474,7 +6511,7 @@ Sous réserve des conventions internationales et lois en vigueur au Grand-Duché
 
 ##### Chapitre 9. — Dispositions transitoires particulières
 
-<a id="art_N202C1"></a>
+<a id="art_N2101B"></a>
 
 ### Art. 84.
 
@@ -7486,13 +6523,13 @@ Ces articles s’appliquent même si les actes et faits de nature à entraîner 
 
 **(3)** L’intéressé ne peut invoquer les droits découlant de la nationalité luxembourgeoise qu’à partir de l’entrée en vigueur de la présente loi.
 
-<a id="art_N20329"></a>
+<a id="art_N21083"></a>
 
 ### Art. 85.
 
 Celui qui est né au Grand-Duché de Luxembourg avant le 1er juillet 2013, obtient, au moment de sa majorité, la nationalité luxembourgeoise, à condition qu’il ait eu une résidence habituelle et un séjour régulier au Grand-Duché de Luxembourg pendant au moins cinq années consécutives et précédant immédiatement la majorité.
 
-<a id="art_N2035E"></a>
+<a id="art_N210B8"></a>
 
 ### Art. 86.
 
@@ -7500,19 +6537,19 @@ Celui qui est né au Grand-Duché de Luxembourg avant le 1er juillet 2013, obtie
 
 **(2)** Les dispositions des articles 33 à 38 sont applicables.
 
-<a id="art_N203AA"></a>
+<a id="art_N21104"></a>
 
 ### Art. 87.
 
 L’application rétroactive des dispositions relatives à l’établissement du lien de filiation résultant de la loi du 13 avril 1979 portant réforme du droit de la filiation n’a pu avoir pour effet de dénier la nationalité luxembourgeoise à une personne qui la possédait régulièrement en vertu des textes en vigueur au moment du fait attributif de nationalité.
 
-<a id="art_N203E0"></a>
+<a id="art_N2113A"></a>
 
 ### Art. 88.
 
 Les dispositions de l’article 40, point 3° ne s’appliquent pas au recouvrement de la nationalité luxembourgeoise par la femme qui a perdu la qualité de Luxembourgeoise pour avoir acquis du fait de son mariage, ou du fait de l’acquisition par son mari d’une nationalité autre que luxembourgeoise, sans manifestation de volonté de sa part, la nationalité de son mari.
 
-<a id="art_N20412"></a>
+<a id="art_N2116C"></a>
 
 ### Art. 89.
 
@@ -7525,7 +6562,7 @@ Ces délais sont à observer sous peine d’irrecevabilité de la procédure.
 
 **(2)** Les dispositions des articles 40 à 45 sont applicables.
 
-<a id="art_N2049B"></a>
+<a id="art_N211F5"></a>
 
 ### Art. 90.
 
@@ -7533,7 +6570,7 @@ Dans toute disposition légale ou règlementaire, sous réserve du droit interna
 
 ##### Chapitre 10. — Du traitement des données
 
-<a id="art_N204D9"></a>
+<a id="art_N21233"></a>
 
 ### Art. 91.
 
@@ -7546,7 +6583,7 @@ Il est créé un registre de la nationalité luxembourgeoise, dont les finalité
 2. la certification de la possession et de la perte de la nationalité luxembourgeoise ; et
 3. la préservation de l’historique des données à des fins administratives ou, à condition qu’elles soient anonymisées ou sous forme de données agrégées, à des fins statistiques.
 
-<a id="art_N2052B"></a>
+<a id="art_N21285"></a>
 
 ### Art. 92.
 
@@ -7572,7 +6609,7 @@ Le registre national est mis à jour avec les plus récentes modifications appor
 
 **(3)** Les données mentionnées aux points 10° à 13° du paragraphe 1er sont effacées du registre de la nationalité luxembourgeoise dans les dix jours à compter de la clôture des procédures et certifications au sens de l’article 91.
 
-<a id="art_N205CC"></a>
+<a id="art_N21326"></a>
 
 ### Art. 93.
 
@@ -7589,7 +6626,7 @@ Il désigne les agents qui sont en charge, sous son autorité, des opérations r
 
 Les données de journalisation doivent être conservées pendant un délai de cinq ans à partir de leur enregistrement, délai après lequel elles sont effacées, sauf lorsqu'elles font l'objet d'une procédure de contrôle.
 
-<a id="art_N20648"></a>
+<a id="art_N213A2"></a>
 
 ### Art. 94.
 
@@ -7600,7 +6637,7 @@ Le ministre veille à ce :
 3. que les données ne soient pas traitées ou conservées ultérieurement de manière incompatible avec ces finalités ; et
 4. que les mesures techniques et une organisation appropriée soient mises en œuvre en vue d’assurer la sécurité et la confidentialité des données.
 
-<a id="art_N2068C"></a>
+<a id="art_N213E6"></a>
 
 ### Art. 95.
 
@@ -7624,7 +6661,7 @@ Cet extrait prend la forme papier ou électronique.
 
 Le refus de communication doit être motivé et notifié au demandeur.
 
-<a id="art_N20732"></a>
+<a id="art_N2148C"></a>
 
 ### Art. 96.
 
@@ -7654,7 +6691,7 @@ Les dispositions de l’article 95, paragraphe 4 sont applicables.
 
 **(6)** Le refus de rectification doit être motivé et notifié au demandeur.
 
-<a id="art_N207FA"></a>
+<a id="art_N21554"></a>
 
 ### Art. 97.
 
@@ -7668,7 +6705,7 @@ Les dispositions de l’article 95, paragraphe 4 sont applicables.
 
 **(3)** Les dispositions de l’article 95, paragraphes 2 à 5 sont applicables.
 
-<a id="art_N2086A"></a>
+<a id="art_N215C4"></a>
 
 ### Art. 98.
 
@@ -7676,7 +6713,7 @@ Les dispositions de l’article 95, paragraphe 4 sont applicables.
 
 **(2)** Les dispositions de l’article 95, paragraphes 2 à 5 sont applicables.
 
-<a id="art_N208B6"></a>
+<a id="art_N21610"></a>
 
 ### Art. 99.
 
@@ -7688,7 +6725,7 @@ Les dispositions de l’article 95, paragraphe 4 sont applicables.
 2. au ministre ayant l’Asile et l’Immigration dans ses attributions, en vue de la mise à jour de la nationalité au niveau du fichier des étrangers et du fichier des demandeurs de protection internationale ; et
 3. au procureur général d’État, en vue de la mise à jour de la nationalité au niveau du casier judiciaire.
 
-<a id="art_N2090E"></a>
+<a id="art_N21668"></a>
 
 ### Art. 100.
 
@@ -7707,7 +6744,7 @@ Les données utilisées pour la production de statistiques sont considérées co
 
 Pour déterminer si une personne physique est identifiable, il est tenu compte de tous les moyens dont on peut raisonnablement admettre qu’ils puissent être utilisés par le destinataire ou par un tiers pour identifier cette personne.
 
-<a id="art_N20987"></a>
+<a id="art_N216E1"></a>
 
 ### Art. 101.
 
@@ -7719,25 +6756,25 @@ Pour déterminer si une personne physique est identifiable, il est tenu compte d
 
 ##### Chapitre 11. — Dispositions abrogatoires et transitoires
 
-<a id="art_N20A07"></a>
+<a id="art_N21761"></a>
 
 ### Art. 102.
 
 Est abrogée la loi du 23 octobre 2008 sur la nationalité luxembourgeoise.
 
-<a id="art_N20A3D"></a>
+<a id="art_N21797"></a>
 
 ### Art. 103.
 
 Est abrogée la loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise.
 
-<a id="art_N20A73"></a>
+<a id="art_N217CD"></a>
 
 ### Art. 104.
 
 La présente loi s’applique aux procédures de naturalisation, d’option ou de recouvrement, introduites à partir de la date d’entrée en vigueur de la présente loi.
 
-<a id="art_N20AA5"></a>
+<a id="art_N217FF"></a>
 
 ### Art. 105.
 
@@ -7749,7 +6786,7 @@ Les notifications et mentions sont faites conformément aux dispositions de l’
 
 **(3)** Les arrêtés ministériels portant refus de naturalisation, d’option ou de recouvrement sont susceptibles d’un recours en réformation devant le tribunal administratif.
 
-<a id="art_N20B0B"></a>
+<a id="art_N21865"></a>
 
 ### Art. 106.
 
@@ -7761,7 +6798,7 @@ Les notifications et mentions sont faites conformément aux dispositions de l’
 
 **(3)** Les arrêtés ministériels portant refus de naturalisation ou de recouvrement sont susceptibles d’un recours en réformation devant le tribunal administratif.
 
-<a id="art_N20B74"></a>
+<a id="art_N218CE"></a>
 
 ### Art. 107.
 
@@ -7769,13 +6806,13 @@ La présente loi s’applique aux demandes en transposition du nom et des préno
 
 ##### Chapitre 12. — Dispositions finales
 
-<a id="art_N20BB6"></a>
+<a id="art_N21910"></a>
 
 ### Art. 108.
 
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant : « loi du 8 mars 2017 sur la nationalité luxembourgeoise ».
 
-<a id="art_N20BED"></a>
+<a id="art_N21947"></a>
 
 ### Art. 109.
 
@@ -7783,13 +6820,13 @@ La présente loi entre en vigueur le 1er avril 2017.
 
 #### **Règlement grand-ducal du 22 juillet 2019 relatif à l’examen d’évaluation de la langue luxembourgeoise organisé dans le cadre des procédures d’acquisition de la nationalité luxembourgeoise.**
 
-<a id="art_N20C3A"></a>
+<a id="art_N21994"></a>
 
 ### Art. 1er.
 
 Toute personne non-luxembourgeoise peut s’inscrire à l’examen d’évaluation de la langue luxembourgeoise, ci-après « examen » visé à l’article 15, de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise.
 
-<a id="art_N20C52"></a>
+<a id="art_N219AC"></a>
 
 ### Art. 2.
 
@@ -7797,7 +6834,7 @@ L’Institut national des langues, ci-après « Institut », organise au moins d
 
 Au moins un mois avant la date limite d’inscription à la session d’examen, l’Institut publie les dates et lieux prévus pour le déroulement des épreuves de l’examen sur son site Internet.
 
-<a id="art_N20C6B"></a>
+<a id="art_N219C5"></a>
 
 ### Art. 3.
 
@@ -7810,7 +6847,7 @@ Au moins un mois avant la date limite d’inscription à la session d’examen, 
 
 **(2)** L’inscription définitive à l’examen se fait dans l’ordre de la date d’entrée des dossiers d’inscription complets et dans la limite des capacités d’accueil à l’examen. L’institut adresse aux candidats, au moins quinze jours avant la date de la première épreuve, une convocation à l’examen qui indique les dates, heures et lieux du déroulement des épreuves.
 
-<a id="art_N20CA3"></a>
+<a id="art_N219FD"></a>
 
 ### Art. 4.
 
@@ -7822,7 +6859,7 @@ Au moins un mois avant la date limite d’inscription à la session d’examen, 
 
 Si la demande de report de l’inscription est adressée à l’Institut au moins dix jours avant le début de la première épreuve de l’examen, l’Institut reporte l’inscription à un examen organisé dans les douze mois suivant l’inscription initiale du candidat. Si la demande de report de l’inscription est adressée à l’Institut moins de dix jours avant le début de la première épreuve de l’examen, le candidat doit faire une nouvelle inscription à l’examen et payer les frais d’inscription prévus au paragraphe 1er.
 
-<a id="art_N20CEE"></a>
+<a id="art_N21A48"></a>
 
 ### Art. 5.
 
@@ -7835,7 +6872,7 @@ Si la demande de report de l’inscription est adressée à l’Institut au moin
 
 La note finale de l’épreuve d’expression orale à attribuer au candidat s’élève à un maximum de cent points. La note de l’interlocuteur compte pour 20 pour cent et celle de l’observateur pour 80 pour cent de la note finale.
 
-<a id="art_N20D29"></a>
+<a id="art_N21A83"></a>
 
 ### Art. 6.
 
@@ -7850,7 +6887,7 @@ La note finale de l’épreuve d’expression orale à attribuer au candidat s�
 
 **(3)** Les fiches réponse sont corrigées suivant une grille de correction d’un total de cent points.
 
-<a id="art_N20D79"></a>
+<a id="art_N21AD3"></a>
 
 ### Art. 7.
 
@@ -7858,7 +6895,7 @@ Seuls sont admis en salle d’examen, les candidats convoqués, les membres de l
 
 Pour être admis en salle d’examen, le candidat, muni de la convocation aux épreuves, de son passeport et, à défaut, de sa carte d’identité ou de son titre de voyage, se présente au moins quinze minutes avant le début prévu de l’épreuve devant la salle d’examen. Le candidat qui ne présente pas ces documents ne peut pas participer à l’examen.
 
-<a id="art_N20D92"></a>
+<a id="art_N21AEC"></a>
 
 ### Art. 8.
 
@@ -7870,7 +6907,7 @@ Avant le début de l’épreuve, le responsable de l’épreuve informe les cand
 
 Le responsable de l’épreuve informe le candidat qui ne respecte pas les dispositions énumérées aux points 1° à 3° ou qui commet toute autre fraude ou tentative de fraude qu’il a échoué à l’examen.
 
-<a id="art_N20DBB"></a>
+<a id="art_N21B15"></a>
 
 ### Art. 9.
 
@@ -7882,7 +6919,7 @@ Les questionnaires sont recueillis par les surveillants, lorsque le directeur ou
 
 **(2)** Le jour ouvrable suivant l’interruption de l’épreuve, une nouvelle date d’épreuve est déterminée par le directeur de l’Institut et les candidats ayant participé à l’épreuve interrompue y sont convoqués par l’Institut.
 
-<a id="art_N20DF4"></a>
+<a id="art_N21B4E"></a>
 
 ### Art. 10.
 
@@ -7898,7 +6935,7 @@ La composition de la commission est arrêtée par le ministre ayant l’Éducati
 
 **(2)** Le président de la commission est le commissaire du Gouvernement. En cas d’empêchement, la présidence est assurée par le directeur de l’Institut ou son délégué.
 
-<a id="art_N20E3B"></a>
+<a id="art_N21B95"></a>
 
 ### Art. 11.
 
@@ -7910,7 +6947,7 @@ La composition de la commission est arrêtée par le ministre ayant l’Éducati
 
 **(4)** Les membres des commissions ont l’obligation de garder le secret sur les notes attribuées et les délibérations de la commission. Sur demande écrite adressée au commissaire, le candidat peut consulter à l’Institut l’enregistrement de son épreuve d’expression orale et le questionnaire qu’il a rempli lors de l’épreuve de compréhension de l’oral et des explications sont fournies par le commissaire, le directeur de l’Institut ou son délégué ou l’un des examinateurs.
 
-<a id="art_N20E82"></a>
+<a id="art_N21BDC"></a>
 
 ### Art. 12.
 
@@ -7918,7 +6955,7 @@ Le certificat de réussite de l’examen d’évaluation de la langue luxembourg
 
 En cas d’échec aux épreuves d’évaluation, la décision de la commission est notifiée par lettre recommandée au candidat.
 
-<a id="art_N20E9B"></a>
+<a id="art_N21BF5"></a>
 
 ### Art. 13.
 
@@ -7937,13 +6974,13 @@ En cas d’échec aux épreuves d’évaluation, la décision de la commission e
 9. règlement grand-ducal modifié du 18 décembre 2015
 10. règlement grand-ducal modifié du 12 mai 2010 est, s’il en fait la demande, dispensé de l’examen. Sur sa demande, l’Institut lui délivre alors le certificat de réussite de l’examen.
 
-<a id="art_N20F02"></a>
+<a id="art_N21C5C"></a>
 
 ### Art. 14.
 
 Le ministre publie annuellement une analyse statistique des examens, indiquant le taux de réussite et d’échec.
 
-<a id="art_N20F12"></a>
+<a id="art_N21C6C"></a>
 
 ### Art. 15.
 
@@ -7959,13 +6996,13 @@ Le ministre publie annuellement une analyse statistique des examens, indiquant l
 1. d’un justificatif du paiement des frais d’inscription ;
 2. le cas échéant, d’un certificat établi par un médecin spécialiste attestant la nécessité de l’aménagement raisonnable.
 
-<a id="art_N20F6C"></a>
+<a id="art_N21CC6"></a>
 
 ### Art. 16.
 
 Le règlement grand-ducal du 30 juin 2017 relatif à l’examen d’évaluation de la langue luxembourgeoise organisé dans le cadre des procédures d’acquisition de la nationalité luxembourgeoise est abrogé.
 
-<a id="art_N20F81"></a>
+<a id="art_N21CDB"></a>
 
 ### Art. 17.
 
@@ -7973,13 +7010,13 @@ Notre ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse et 
 
 #### **Règlement grand-ducal du 31 octobre 2008 concernant l'organisation des cours d'instruction civique à suivre pour être admis à la naturalisation.**
 
-<a id="art_N20FA8"></a>
+<a id="art_N21D02"></a>
 
 ### Art. 1er.
 
 Le Service de la Formation des Adultes est chargé de l'organisation des cours d'instruction civique à suivre pour être admis à la naturalisation.
 
-<a id="art_N20FBB"></a>
+<a id="art_N21D15"></a>
 
 ### Art. 2.
 
@@ -7987,7 +7024,7 @@ Les cours s'adressent prioritairement aux candidats à la naturalisation. Ils s'
 
 Toute autre personne qui n'est plus soumise à l'obligation scolaire peut également s'inscrire aux cours dans la limite des places qui restent disponibles.
 
-<a id="art_N20FCE"></a>
+<a id="art_N21D28"></a>
 
 ### Art. 3.
 
@@ -7997,13 +7034,13 @@ La liste des sujets sur lesquels portent les cours est arrêtée conjointement p
 
 Chaque cours a une durée de deux heures. Il peut être tenu en luxembourgeois, en français, en allemand, en portugais ou en anglais.
 
-<a id="art_N20FE4"></a>
+<a id="art_N21D3E"></a>
 
 ### Art. 4.
 
 Le nombre de cours et la nature des cours qu'une personne doit avoir suivis avant d'introduire une demande pour être admise à la naturalisation sont ceux fixés à l'article 7c de la loi sur la nationalité luxembourgeoise.
 
-<a id="art_N20FF4"></a>
+<a id="art_N21D4E"></a>
 
 ### Art. 5.
 
@@ -8015,7 +7052,7 @@ Le délégué à la formation des adultes dresse un relevé des participants qu'
 
 L'indemnisation du délégué à la formation des adultes et, le cas échéant, du concierge se fait selon les dispositions valables pour les cours pour adultes.
 
-<a id="art_N2100D"></a>
+<a id="art_N21D67"></a>
 
 ### Art. 6.
 
@@ -8025,7 +7062,7 @@ Un cours programmé n'a lieu que s'il y a un minimum de 5 inscriptions. Si le co
 
 L'inscription aux cours est gratuite.
 
-<a id="art_N21023"></a>
+<a id="art_N21D7D"></a>
 
 ### Art. 7.
 
@@ -8033,7 +7070,7 @@ Sur base des listes de présence, le Service de la Formation des Adultes établi
 
 Les certificats sont numérotés et enregistrés au Service de la Formation professionnelle. Ils sont signés par le Ministre de l'Éducation nationale et de la Formation professionnelle ou un fonctionnaire désigné par lui.
 
-<a id="art_N21036"></a>
+<a id="art_N21D90"></a>
 
 ### Art. 8.
 
@@ -8041,13 +7078,13 @@ La liste des personnes chargées de la tenue des cours est établie annuellement
 
 L'indemnité est fixée à 200 €, tarif non indexé, pour un cours de 2 heures comprenant la préparation du cours et les coûts de documentation, la tenue du cours, les travaux administratifs et les coûts de déplacement.
 
-<a id="art_N21049"></a>
+<a id="art_N21DA3"></a>
 
 ### Art. 9.
 
 Les modalités d'organisation qui ne sont pas prévues par le présent règlement grand-ducal sont réglées par les lois et par les règlements qui régissent les cours organisés par le Service de la Formation des Adultes.
 
-<a id="art_N21059"></a>
+<a id="art_N21DB3"></a>
 
 ### Art. 10.
 
@@ -8057,7 +7094,7 @@ Notre Ministre de la Justice et Notre Ministre de l'Éducation nationale et de l
 
 #### **Version consolidée applicable au 18/03/1979 : Loi du 18 juin 1971 portant approbation de la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, ouverte à la signature à Strasbourg, le 6 mai 1963.**
 
-<a id="art_N2108F"></a>
+<a id="art_N21DE9"></a>
 
 ### Article unique.
 
@@ -8075,7 +7112,7 @@ Est approuvée la Convention sur la réduction des cas de pluralité de national
 
 #### **Loi du 27 février 1979 portant approbation du Protocole additionnel à la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, signé à Strasbourg, le 24 novembre 1977.**
 
-<a id="art_N21589"></a>
+<a id="art_N222E3"></a>
 
 ### Article unique.
 
