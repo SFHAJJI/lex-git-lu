@@ -1,5 +1,9 @@
 # lex-git-lu, git blame for Luxembourg law
 
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=flat-square)](LICENSE)
+[![Generated](https://img.shields.io/badge/generated%20from-lex--articles-24292f?style=flat-square)](https://github.com/SFHAJJI/lex-articles)
+[![Live](https://img.shields.io/badge/live-law.soufien.lu-e0705f?style=flat-square)](https://law.soufien.lu)
+
 Every consolidated version of Luxembourg law as a **chronological git history**:
 one Markdown file per law, one commit per validity date (back-dated).
 `git log --follow works/code-environnement.md` reads as a legislative history;
